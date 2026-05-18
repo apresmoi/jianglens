@@ -1,0 +1,5474 @@
+{
+  "id": "evidence:semanticvideo-interview-dhlr7zydlj8:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-dhlr7zydlj8",
+  "source_id": "video:interview-dhlr7zydlj8",
+  "source_title": "The Derp With Kurp | 23 | @predictivehistory - The Multiverse of Madness",
+  "source_url": "https://www.youtube.com/watch?v=dhLr7ZYdlj8",
+  "source_date": "2026-01-16",
+  "date_precision": "day",
+  "transcript_id": "video:interview-dhlr7zydlj8@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0012.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0013.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0014.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0015.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0016.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0017.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0018.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0019.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0020.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0021.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0022.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0023.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0024.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0025.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0026.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0027.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0028.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0029.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0030.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0031.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0032.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0033.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0034.semantic.json",
+      "content/workflow/proposals/interview-dhlr7zydlj8/packet-0035.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-dhlr7zydlj8/source.yaml",
+    "transcript_path": "content/sources/videos/interview-dhlr7zydlj8/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 35,
+    "interactions": 235,
+    "speaker_notes": 9,
+    "claims": 104,
+    "signature_moments": 35,
+    "predictions": 20,
+    "models": 11,
+    "glossary_terms": 7,
+    "chronology_notes": 19,
+    "uncertainty_notes": 178
+  },
+  "first_refs": [
+    "video:interview-dhlr7zydlj8@transcript:v1#seg-0003",
+    "video:interview-dhlr7zydlj8@transcript:v1#seg-0005",
+    "video:interview-dhlr7zydlj8@transcript:v1#seg-0007",
+    "video:interview-dhlr7zydlj8@transcript:v1#seg-0009",
+    "video:interview-dhlr7zydlj8@transcript:v1#seg-0011",
+    "video:interview-dhlr7zydlj8@transcript:v1#seg-0013",
+    "video:interview-dhlr7zydlj8@transcript:v1#seg-0015",
+    "video:interview-dhlr7zydlj8@transcript:v1#seg-0017"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0001"
+      ],
+      "kind": "unclear",
+      "summary": "An uncertain side voice covers derp, come, derpity.",
+      "speaker_attribution": "Show intro / side voice",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0002"
+      ],
+      "kind": "question",
+      "summary": "The host asks about professor, derp, gerb.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0003"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about problem, scooter, scooters.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0004"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on hangzhou, shanghai, there.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about china, back, beijing.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0006"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on only, food, it's.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0007"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about cheated, know.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0008"
+      ],
+      "kind": "question",
+      "summary": "The host asks about 2014, times.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0009"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about authentically, brain, cheese.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0010"
+      ],
+      "kind": "question",
+      "summary": "The host asks about don't, know, think.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0011"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about professor, judge, mean.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0012"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on nice, qualified.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about education, extent, high.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0014"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on douglas, murray, real.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0015"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about school, sick.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on bachelor's, douglas, english.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0017"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about everything, knows, right.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0018"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on greatest, he's.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0019"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about could, insane, hoping.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0020"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on that's, channel, take.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0021"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about the ongoing discussion.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0022"
+      ],
+      "kind": "question",
+      "summary": "The host asks about we're, cash, china.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0023"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about germany, china, famous.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0024"
+      ],
+      "kind": "question",
+      "summary": "The host asks about arrested, he's, it's.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0025"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about know, against, apparently.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0026"
+      ],
+      "kind": "question",
+      "summary": "The host asks about inbred, should, that's.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0027"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about guys, know, look.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0028"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on streets, they're, know.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0029"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about the ongoing discussion.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0030"
+      ],
+      "kind": "question",
+      "summary": "The host asks about it's, something, judge.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0031"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about know, novels, wrote.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on oxford.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0033"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about it's, know, always.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0034",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0035"
+      ],
+      "kind": "question",
+      "summary": "The host asks about it's, know, would.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0036"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about that's, great, point.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0037"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on don't, hazing, he's.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0038"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about booker, cory, he's.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0039"
+      ],
+      "kind": "question",
+      "summary": "The host asks about gonna, booker, cory.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about theory, anti, behave.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0041"
+      ],
+      "kind": "question",
+      "summary": "The host asks about don't, it's, caught.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0042"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about would, every, kids.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0043"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on actually, called, charlie.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0044"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about right, position, society.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0045",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0046"
+      ],
+      "kind": "question",
+      "summary": "The host asks about know, balloon, china.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0047"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about where, kids, look.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "The host asks about crosby, they're, bloodline.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0049"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about andrew, aren't, everywhere.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0050",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0051"
+      ],
+      "kind": "question",
+      "summary": "The host asks about know, warrior, wolf.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0052"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about it's, china, know.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0053"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on korea, north, switch.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0054"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about china, enemy, japan.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0055",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0056"
+      ],
+      "kind": "question",
+      "summary": "The host asks about that's, dawn, it's.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0057"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about chinese, hollywood, huge.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0058"
+      ],
+      "kind": "question",
+      "summary": "The host asks about china, launder, mean.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0059"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about everyone, exactly, right.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0060"
+      ],
+      "kind": "question",
+      "summary": "The host asks about he's, movies, isn't.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0061"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about he's, president, putin.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0062"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on pretty, putin, quick.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0063"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about good, putin, taste.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0064"
+      ],
+      "kind": "question",
+      "summary": "The host asks about don't, know, only.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0065"
+      ],
+      "kind": "unclear",
+      "summary": "An uncertain side voice covers some, early, films.",
+      "speaker_attribution": "Show intro / side voice",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0066"
+      ],
+      "kind": "question",
+      "summary": "The host asks about know, don't, right.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0067"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about background, china, common.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0068"
+      ],
+      "kind": "unclear",
+      "summary": "An uncertain side voice covers chinese, families, illuminati.",
+      "speaker_attribution": "Show intro / side voice",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0069"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on families, original, triad.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0070"
+      ],
+      "kind": "unclear",
+      "summary": "An uncertain side voice covers could, elite, families.",
+      "speaker_attribution": "Show intro / side voice",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0071",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0072"
+      ],
+      "kind": "question",
+      "summary": "The host asks about know, dragon, dish.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0073"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about know, right, british.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0074"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on earlier, there, triads.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0075"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about hong, kong, triad.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0076"
+      ],
+      "kind": "question",
+      "summary": "The host asks about made, chan's, jackie.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0077"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about triad, adjacent, can't.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0078"
+      ],
+      "kind": "question",
+      "summary": "The host asks about freemason, initiate, italian.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0079"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about right, mean, same.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0080"
+      ],
+      "kind": "question",
+      "summary": "The host asks about it's, think, apotheosis.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0081"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about know, nonsense, right.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0082",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0083"
+      ],
+      "kind": "question",
+      "summary": "The host asks about know, hand, islam.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0084"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about accounts, america, mormons.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0085",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0086"
+      ],
+      "kind": "question",
+      "summary": "The host asks about america, it's, prince.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0087"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about want, also, anything.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0088"
+      ],
+      "kind": "question",
+      "summary": "The host asks about biden, dick, gregory.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0089",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0090"
+      ],
+      "kind": "question",
+      "summary": "The host asks about cocaine, don't, could.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0091"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about want, america, can't.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0092"
+      ],
+      "kind": "question",
+      "summary": "The host asks about it's, he's, people.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0093"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about happening, right, also.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0094",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0095"
+      ],
+      "kind": "question",
+      "summary": "The host asks about they're, people, funny.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0096"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about right, minnesota, seems.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0097",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0098",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0099"
+      ],
+      "kind": "question",
+      "summary": "The host asks about already, same, scam.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0100",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0101"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about able, iran, starlink.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0102"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on idea, knew, massage.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0103"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about right, airstrikes, insurgents.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0104"
+      ],
+      "kind": "question",
+      "summary": "The host asks about there's, already, canada.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0105"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about christian, couple, israeli.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0106"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on jewish, don't, police.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0107"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about think, christian, evangelicals.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0108",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0109"
+      ],
+      "kind": "question",
+      "summary": "The host asks about it's, that's, know.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0110"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about right, adjacent, becoming.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0111",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0112"
+      ],
+      "kind": "question",
+      "summary": "The host asks about york, 33rd, know.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0113"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about know, components, cook.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0114",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0115",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0116"
+      ],
+      "kind": "question",
+      "summary": "The host asks about hear, john, know.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0117"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about kirk, barry, charlie.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0118"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on know, she's, amount.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0119"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about there's, charge, right.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0120"
+      ],
+      "kind": "question",
+      "summary": "The host asks about actually, good, know.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0121"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about it's, there's, game.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0122"
+      ],
+      "kind": "question",
+      "summary": "The host asks about know, able, amazing.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0123"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about world, can't, it's.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0124"
+      ],
+      "kind": "question",
+      "summary": "The host asks about might, real, based.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0125"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about kabbalah, guys, point.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0126"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on right, you'll, capture.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0127"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about attention, know, trump.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0128"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on he's, epstein, files.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0129"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about what, trump, attention.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0130",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0131"
+      ],
+      "kind": "question",
+      "summary": "The host asks about know, that's, something.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0132"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about point, book, can't.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0133"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on might, right, doing.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0134"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about think, when, book.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0135"
+      ],
+      "kind": "question",
+      "summary": "The host asks about creeper, creepers, doing.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0136"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about exactly, know, long.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0137",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0138",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0139"
+      ],
+      "kind": "question",
+      "summary": "The host asks about he's, know, right.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0140",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0141"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about america, know, that's.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0142"
+      ],
+      "kind": "question",
+      "summary": "The host asks about american, chinese, abc's.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0143"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about want, don't, hate.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0144"
+      ],
+      "kind": "question",
+      "summary": "The host asks about could, jang, question.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0145"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on apparently, assessed, behavior.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0146"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about don't, know, myself.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0147",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0148"
+      ],
+      "kind": "question",
+      "summary": "The host asks about know, it's, chase.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0149"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about it's, south, capsized.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0150"
+      ],
+      "kind": "question",
+      "summary": "The host asks about it's, game, korea.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0151",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0152"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about know, they're, didn't.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0153"
+      ],
+      "kind": "question",
+      "summary": "The host asks about angels, background, contact.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0154"
+      ],
+      "kind": "unclear",
+      "summary": "An uncertain side voice covers what, believe, china.",
+      "speaker_attribution": "Show intro / side voice",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0155"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about isn't, know, there.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0156",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0157",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0158"
+      ],
+      "kind": "question",
+      "summary": "The host asks about know, what, can't.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0159"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about know, china, that's.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0160"
+      ],
+      "kind": "question",
+      "summary": "The host asks about china, future, know.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0161"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about that's, china, china's.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0162"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on think, future, allowed.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0163",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0164",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0165"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about what, look, open.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0166",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0167"
+      ],
+      "kind": "question",
+      "summary": "The host asks about remember, know, people.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0168"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about listen, mean, right.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0169",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0170"
+      ],
+      "kind": "question",
+      "summary": "The host asks about what, don't, know.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0171"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about look, world, actually.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0172"
+      ],
+      "kind": "question",
+      "summary": "The host asks about know, always, certain.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0173"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about right, socialism, 1850s.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0174"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on real, that's, agree.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0175"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about always, it's, what.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0176"
+      ],
+      "kind": "question",
+      "summary": "The host asks about look, know, long.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0177",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0178",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0179"
+      ],
+      "kind": "question",
+      "summary": "The host asks about know, what, don't.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0180",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0181"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about civil, know, exactly.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0182",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0183",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0184"
+      ],
+      "kind": "question",
+      "summary": "The host asks about that's, it's, they're.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0185"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about digital, monitor, purpose.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0186"
+      ],
+      "kind": "question",
+      "summary": "The host asks about that's, digital, game.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0187"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about best, girlfriend, good.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0188",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0189",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0190",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0191",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0192"
+      ],
+      "kind": "question",
+      "summary": "The host asks about it's, know, right.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0193"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about mean, subvert, that's.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0194"
+      ],
+      "kind": "question",
+      "summary": "The host asks about don't, he's, jang.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0195"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about know, show, cool.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0196"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on show, good, interview.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0197"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about conversation, it's, guys.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0198"
+      ],
+      "kind": "question",
+      "summary": "The host asks about mean, what, attacking.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0199"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about said, attention, also.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0200"
+      ],
+      "kind": "question",
+      "summary": "The host asks about blessings, bless, blesses.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0201"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about he's, saying, know.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0202"
+      ],
+      "kind": "question",
+      "summary": "The host asks about he's, girlfriend, know.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0203"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about he's, know, mean.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0204"
+      ],
+      "kind": "question",
+      "summary": "The host asks about hope, more, states.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0205",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0206"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about europe, three, what.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0207"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on belief, it's, raids.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0208"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about exactly, know, mean.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0209"
+      ],
+      "kind": "question",
+      "summary": "The host asks about spongebob, funny, secret.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0210"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about right, schools, back.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0211",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0212",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0213"
+      ],
+      "kind": "question",
+      "summary": "The host asks about sumo, it's, that's.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0214"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about actually, don't, good.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0215"
+      ],
+      "kind": "question",
+      "summary": "The host asks about something, when, blow.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0216"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about high, it's, speed.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0217"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about gonna, it's, anymore.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0218"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on it's, maintaining, militaries.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0219"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about basically, know, more.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0220"
+      ],
+      "kind": "question",
+      "summary": "The host asks about boutique, left, right.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0221"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about wait, right, captured.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0222"
+      ],
+      "kind": "question",
+      "summary": "The host asks about here's, hitting, took.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0223"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about come, energy, fact.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0224"
+      ],
+      "kind": "question",
+      "summary": "The host asks about asset, come, fact.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0225"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about 2020, maduro, participated.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0226"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on watch, election, good.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0227"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about well, 2020, elections.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0228"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on it's, believable, coming.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0229"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about american, guardian, know.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0230"
+      ],
+      "kind": "question",
+      "summary": "The host asks about mean, again, best.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0231"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about know, houthis, american.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0232"
+      ],
+      "kind": "question",
+      "summary": "The host asks about booker, society, shabtai.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0233"
+      ],
+      "kind": "question",
+      "summary": "The host asks about many, don't, going.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0234"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about know, china, isis.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0235"
+      ],
+      "kind": "question",
+      "summary": "The host asks about game, friends, here.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0236"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about theory, semester, certain.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0237"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on brother, christ, could.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0238"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about eventually, i'll, paul.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0239"
+      ],
+      "kind": "question",
+      "summary": "The host asks about china, communism, history.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0240"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about china, israel, best.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0241"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on don't, ever, fight.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0242"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about look, when, attacks.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0243"
+      ],
+      "kind": "question",
+      "summary": "The host asks about blew, face, girl's.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0244"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about basically, can't, chain.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0245",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0246"
+      ],
+      "kind": "question",
+      "summary": "The host asks about right, columbus, iphone.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0247"
+      ],
+      "kind": "unclear",
+      "summary": "An uncertain side voice covers there's, building, columbus.",
+      "speaker_attribution": "Show intro / side voice",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0248"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on vows, real, that's.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0249"
+      ],
+      "kind": "unclear",
+      "summary": "An uncertain side voice covers columbus, historically, knights.",
+      "speaker_attribution": "Show intro / side voice",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0250"
+      ],
+      "kind": "question",
+      "summary": "The host asks about don't, know, what.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0251"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about sorry, wait, what.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0252",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0253"
+      ],
+      "kind": "question",
+      "summary": "The host asks about don't, know, israel.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0254"
+      ],
+      "kind": "unclear",
+      "summary": "An uncertain side voice covers dance, know, chinese.",
+      "speaker_attribution": "Show intro / side voice",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0255"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on dance, dress, goth.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0256"
+      ],
+      "kind": "unclear",
+      "summary": "An uncertain side voice covers chinese, culture, wait.",
+      "speaker_attribution": "Show intro / side voice",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0257"
+      ],
+      "kind": "question",
+      "summary": "The host asks about it's, know, scientology.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0258"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about it's, adjacent, 1990s.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0259"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on another, country, empire.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0260"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about influential, it's, amazing.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0261"
+      ],
+      "kind": "question",
+      "summary": "The host asks about want, what, christian.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0262"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about groups, they're, america.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0263",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0264"
+      ],
+      "kind": "question",
+      "summary": "The host asks about it's, people, look.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0265"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about look, cult, it's.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0266"
+      ],
+      "kind": "question",
+      "summary": "The host asks about china, doing, mean.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0267"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about know, mean, religion.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0268"
+      ],
+      "kind": "question",
+      "summary": "The host asks about influencers, coin, crypto.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0269"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about that's, brazilian, dream.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0270"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on beat, boxing, brother.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0271"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about fights, loses, recently.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0272"
+      ],
+      "kind": "question",
+      "summary": "The host asks about friend, killed, something.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0273"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about it's, afterwards, defeat.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0274",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0275"
+      ],
+      "kind": "question",
+      "summary": "The host asks about know, disney, it's.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0276"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers about spend, america's, china.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0277"
+      ],
+      "kind": "exchange",
+      "summary": "The host riffs on true, coming, gotta.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0278"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang talks about appreciate, hang, huge.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0279"
+      ],
+      "kind": "question",
+      "summary": "The host asks about watch, what, will.",
+      "speaker_attribution": "Host",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0001"
+      ],
+      "note": "This voice appears to be intro sting, production chatter, or another side participant rather than the main Jiang-host exchange.",
+      "suggested_speaker": "Side voice / intro audio",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0065"
+      ],
+      "note": "This voice appears to be intro sting, production chatter, or another side participant rather than the main Jiang-host exchange.",
+      "suggested_speaker": "Side voice / intro audio",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0068"
+      ],
+      "note": "This voice appears to be intro sting, production chatter, or another side participant rather than the main Jiang-host exchange.",
+      "suggested_speaker": "Side voice / intro audio",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0070"
+      ],
+      "note": "This voice appears to be intro sting, production chatter, or another side participant rather than the main Jiang-host exchange.",
+      "suggested_speaker": "Side voice / intro audio",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0154"
+      ],
+      "note": "This voice appears to be intro sting, production chatter, or another side participant rather than the main Jiang-host exchange.",
+      "suggested_speaker": "Side voice / intro audio",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0247"
+      ],
+      "note": "This voice appears to be intro sting, production chatter, or another side participant rather than the main Jiang-host exchange.",
+      "suggested_speaker": "Side voice / intro audio",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0249"
+      ],
+      "note": "This voice appears to be intro sting, production chatter, or another side participant rather than the main Jiang-host exchange.",
+      "suggested_speaker": "Side voice / intro audio",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0254"
+      ],
+      "note": "This voice appears to be intro sting, production chatter, or another side participant rather than the main Jiang-host exchange.",
+      "suggested_speaker": "Side voice / intro audio",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0256"
+      ],
+      "note": "This voice appears to be intro sting, production chatter, or another side participant rather than the main Jiang-host exchange.",
+      "suggested_speaker": "Side voice / intro audio",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says I'm in Beijing. And we have a scooter problem. We have a scooter problem. Not a motorcycle problem. Oh, yeah, that's right. Because scooters are like...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "problem",
+        "scooter",
+        "scooters"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Shanghai is Europe, man. You're not really in China. So it's not... But you were really in the best part of China. So you should come...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "china",
+        "back",
+        "beijing"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says They cheated you. You know, they cheated you.",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "cheated",
+        "know"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says So to eat authentically in China, you need to eat pig's brain, rats, locusts, you know... Look at your cheese, Nikolai.",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "authentically",
+        "brain",
+        "cheese"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says So I'm not really a professor. I mean, like, I'm a professor as much as you are a judge, right?",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "professor",
+        "judge",
+        "mean"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says So, yeah, I teach high school and I have a B.A. from Yale and that's the extent of my education.",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "education",
+        "extent",
+        "high"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Yeah. I got sick of school. Yeah. Yeah.",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "school",
+        "sick"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Yeah. And he knows everything, right? So there you go.",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "everything",
+        "knows",
+        "right"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Hey, so I was wondering if you could do me a favor. I was hoping you could title this episode, The Multiverse of Madness, because I'm...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "could",
+        "insane",
+        "hoping"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says So, so there's this famous Chinese dissident, Ai Weiwei, he's his famous artist and he left for Germany like 10 years ago. Because, you know, he...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "germany",
+        "china",
+        "famous"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says You know, apparently it's the worst in Britain because you know, if you start a pedophile ring, you're protected by the law, but you speak out...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "know",
+        "against",
+        "apparently"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says No, these guys. These guys are subcontractors, right? They're like, like, you know, I tell I look at them. Yeah.",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "guys",
+        "know",
+        "look"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Oh, John le Carre. He wrote these spy novels. He was very popular in a day. What? Um, so. So his most famous is the spy...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "know",
+        "novels",
+        "wrote"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Yeah, yeah. But but but I mean, the point is that he never really quit, right? He was always part of that apparatus. And we read...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "it's",
+        "know",
+        "always"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says So there's this great comment back in the 2020 Democratic primaries where Cory Booker was up against Pete Buttigieg. And Cory Booker is clearly gay, right?...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "booker",
+        "cory",
+        "he's"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says And now my theory. Sorry, my theory is that there's going to be more anti semitism in the world. you're like all these di guys in...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "theory",
+        "anti",
+        "behave"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says molested well you know if you go back to history you know Sparta the entire Spartan society was structured around the traumatization of children because what...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "would",
+        "every",
+        "kids"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a position in the right right so all of Spartan society was structured around",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "right",
+        "position",
+        "society"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says look wall street and khan's party are the best of friends okay i mean these two groups are so closely knit and look you just google...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "where",
+        "kids",
+        "look"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says kind of which uh these people do so yeah princelings are everywhere aren't they and you look at like the major social media influencers of today...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "andrew",
+        "aren't",
+        "everywhere"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says yeah so So I was going to say, like, how we know that this US -China conflict, it's all just a show. It's not real. It's...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "it's",
+        "china",
+        "know"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Yeah. And so, like, you know, in Top Gun Maverick, the enemy was Iran, right? And if you look at Captain America, Brave New World, the...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "china",
+        "enemy",
+        "japan"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Well, you know, Hollywood is a huge Chinese money -laundering operation. Say that again? Well, Hollywood is a huge Chinese money -laundering operation.",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "chinese",
+        "hollywood",
+        "huge"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says He's the president of Putin, right?",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "he's",
+        "president",
+        "putin"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Well, Putin has good taste, then. Yeah.",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "good",
+        "putin",
+        "taste"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Okay, so I don't know what you're referring to, because Lee is a very common surname in China. So could you provide some background?",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "background",
+        "china",
+        "common"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Right. You know, I don't know much about this. Yeah. So, I mean, I think you're referring to the fact that… You know, when the British...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0073"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "know",
+        "right",
+        "british"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Yeah, yeah, around China. And they made a bundle, and they stored their wealth in Britain, in the Bank of England. And after the Communist Revolution,...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0075"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "hong",
+        "kong",
+        "triad"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Oh, yeah, yeah. Like, everyone knows this. Yeah. And Jackie Chan is like mafia… Like, sorry, triad adjacent. You know, he's clearly a member of a...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0077"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "triad",
+        "adjacent",
+        "can't"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Yeah, yeah. I mean, like, you look at any of the secret societies, right? And they're all the same structure, right? You have different layers. You...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "right",
+        "mean",
+        "same"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Yeah, and the higher you climb, the crazier it gets, because the entire point of these eschatologies is to confuse you and to force you into...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0081"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "know",
+        "nonsense",
+        "right"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says All of them. So, what do you think accounts for the success of the Mormons in America?",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0084"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "accounts",
+        "america",
+        "mormons"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says also if you do anything to make a book right yeah hey I want to ask you I want to pick your brain about Trump comes...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0087"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "want",
+        "also",
+        "anything"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says do whatever we want to you now that's how i look at it so so my question then is what does trump want where is he...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0091"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "want",
+        "america",
+        "can't"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says right so world war iii is um is is is happening but but also it seems as though he's starting a civil war as well right...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "happening",
+        "right",
+        "also"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says right so so i want to talk about minnesota right because like let's look at the events before they're any good shooting where nick shirley right...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "right",
+        "minnesota",
+        "seems"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says trick everywhere blm look look it's a classic color revolution playbook in iran where uh they have these ngos who organize people they control information spaces...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0100",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0101"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "able",
+        "iran",
+        "starlink"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says and that's why trump is delaying the airstrikes because the idea of a color revolution is you have these protests spread and then you have the...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0103"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "right",
+        "airstrikes",
+        "insurgents"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says in washington dc yes and and the couple were christian zionists who are working for the israeli",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0105"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "christian",
+        "couple",
+        "israeli"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says think they were jewish but i think they were christian zionists they were evangelicals and",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0107"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "think",
+        "christian",
+        "evangelicals"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says well there's certainly a pattern to all these school shootings right where the shooter has have has a parent who is either a psychologist right who...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0110"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "right",
+        "adjacent",
+        "becoming"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says yeah yeah you you know you know i have to say like you know they're trying to cook shooting it seemed like 9 11 but like...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0113"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "know",
+        "components",
+        "cook"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says no it's really interesting how this entire narrative it just blow up in their face right because like you remember like after charlie cook shooting the...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0117"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "kirk",
+        "barry",
+        "charlie"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says in charge almost like there's no way she's in charge and someone else is in charge is how it looks to me right so so so...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0119"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "there's",
+        "charge",
+        "right"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says film yeah yeah it's just given off but you know there's a script in place they've been paid and now they just have to have to...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0121"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "it's",
+        "there's",
+        "game"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that yeah but but i mean like like george martin set it up so it could be finished i mean like like really it can't be...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0123"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "world",
+        "can't",
+        "it's"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says what he represents to me so so i have a theory about guys like george martin and donald trump okay um you know even if they...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0125"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "kabbalah",
+        "guys",
+        "point"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says everyone's attention you know and like and like before this wasn't before this wasn't possible but now we the advent of film of media of the...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0127"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "attention",
+        "know",
+        "trump"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says etsy's pr agent right they were talking about how to go over trump right so so it's a pretty nasty world but you know what what...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0129"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "what",
+        "trump",
+        "attention"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says or there's nothing yeah and and you know i mean like and so that's why george martin can't finish the book because the point the point...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0132"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "point",
+        "book",
+        "can't"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says gray with this yes yeah because what do people think about when they think about george when they think about like when he's gonna finish a...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0134"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "think",
+        "when",
+        "book"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says throw him away when you find the spoilers exactly exactly and you know what you know what i bet you he's right i bet you he...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0136"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "exactly",
+        "know",
+        "long"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says i'll i'll answer this yeah absolutely uh it's amazing it's it's like disturbing how much in love chinese are with america you know like in america...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0140",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0141"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "america",
+        "know",
+        "that's"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says they don't want the yeah okay they hate the ei they want whites okay seriously yeah no i saw",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0143"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "want",
+        "don't",
+        "hate"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says don't know i have to watch it myself all these are like",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0146"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "don't",
+        "know",
+        "myself"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says crazy so so you may have heard that uh in south korea a ferry was capsized like nearly 10 years ago right so there's this theory...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0149"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "it's",
+        "south",
+        "capsized"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says say secret societies and besides secret studies there are like all these like clubs as well called like there's like the elizabethan club so like yale...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0151",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0152"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "know",
+        "they're",
+        "didn't"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says government tells them to believe um they're you know for i mean like like chinese have been conditioned to be the most compliant people on earth...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0155"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "isn't",
+        "know",
+        "there"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says in iowa the artist who just came back to china he says the same thing where you know in china you know where the lines are...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0159"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "know",
+        "china",
+        "that's"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says you know that that's exactly what's gonna happen in china where if the economy tanks they will declare like a virus and everyone's just stuck at...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0161"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "that's",
+        "china",
+        "china's"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says oh yeah yeah look look look look look look i'll i'll tell you this okay so my theory is this so you know there was a...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0163",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0164",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0165"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "what",
+        "look",
+        "open"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says listen, like I listen to you a lot and you make this great point where they have to do this crap because Occupy Washington really freaked...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0168"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "listen",
+        "mean",
+        "right"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says ago dude nobody remembers from the month ago look look i i'm look look at world war ii okay how much of world war ii that...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0171"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "look",
+        "world",
+        "actually"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says it's over i like the um all right dang from like nick fuentes of today where at that time in the 1850s social democracy socialism was...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0173"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "right",
+        "socialism",
+        "1850s"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says there that's what it always works i mean it's it's really simple what they do and it always works",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0175"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "always",
+        "it's",
+        "what"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says tell you look look all these ice tactics i mean it was pioneered and refined overseas right so like you know you know occupations what's happening...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0180",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0181"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "civil",
+        "know",
+        "exactly"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says so like why are they putting like these children off 200 dollars of these data centers all the time around america like for what purpose it's...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0185"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "digital",
+        "monitor",
+        "purpose"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says i had to see no well you have a good one you know your girlfriend and you'll love her to dev yeah the best thing that...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0187"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "best",
+        "girlfriend",
+        "good"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says hiding things and i mean that's just what the fuck it is no well look the easiest way to infiltrate and subvert a country is through...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0193"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "mean",
+        "subvert",
+        "that's"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says cool okay yeah you know i watch your show all the time so i know exactly what to expect on your show",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0195"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "know",
+        "show",
+        "cool"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says it's not a conversation man it's not meant to be a conversation no uh i love you guys see",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0197"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "conversation",
+        "it's",
+        "guys"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that that that got a lot of attention he said this but he also said that he said that the that that got a lot of...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0199"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "said",
+        "attention",
+        "also"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says tracy yeah do you okay he's been saying this as well where he's been saying like you know like",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0201"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "he's",
+        "saying",
+        "know"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says bit i mean let's not okay well i mean like but like what's funny is like he says this but he's also very passionate about it...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0203"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "he's",
+        "know",
+        "mean"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says with us uh what was that what you were talking about before uh ai future model okay so i was talking about the idea of pax...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0205",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0206"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "europe",
+        "three",
+        "what"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says too coordinated it seems too intentional i mean like i mean again they have all this um social science um data from studying uh facebook from...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0208"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "exactly",
+        "know",
+        "mean"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says but yeah that's clearly what that is right so mystery schools right if you go back in history mr schools were just an opportunity for the...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0210"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "right",
+        "schools",
+        "back"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says this look i i don't know about this specifically but i will tell you that science education in china is terrible because it's all theoretical knowledge...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0214"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "actually",
+        "don't",
+        "good"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says yeah so um in china um if something happens you're incentivized to cover it up because um you know if it becomes a big deal then...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0216"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "high",
+        "it's",
+        "speed"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says eventually you're gonna reach a point where they can't maintain anymore and it's gonna fall apart it's like uh",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0217"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "gonna",
+        "it's",
+        "anymore"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says yeah basically basically you know you know yeah trump went from 1 trillion to 1.5 trillion yeah what people understand is that it doesn't mean a...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0219"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "basically",
+        "know",
+        "more"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says should push it so so evan's attention is on like this double force raid that captured maduro right who is who i think is a cia...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0221"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "wait",
+        "right",
+        "captured"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says energy weapons there's like no shit that's just misinformation come up with the fact",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0223"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "come",
+        "energy",
+        "fact"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says during the trial maduro will say that venezuela participated in the stealing of the 2020",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0225"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "2020",
+        "maduro",
+        "participated"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that that's a real twist yeah the smartmatic machines right uh they're using that as well and and maduro's gonna say that uh venezuela participated in...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0227"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "well",
+        "2020",
+        "elections"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says no i was gonna point out that you know it's like the american military seems very impressive but then you you look at operation prosperity guardian...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0229"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "american",
+        "guardian",
+        "know"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a scheme it was a hilarious thing because you have this american navy with all like they know they're destroyers you have to deal with ford...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0231"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "know",
+        "houthis",
+        "american"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says look look you know uyghurs in china were getting on fine then they then then you know this war and terror happens right and then isis...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0234"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "know",
+        "china",
+        "isis"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says theory this semester last semester i taught six societies this theory this is i'm teaching game theory um and okay tell us about game theory yeah...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0236"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "theory",
+        "semester",
+        "certain"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says gnostic with the internet now well yeah no no i mean like like i will eventually go these places but like like at this point i'm...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0238"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "eventually",
+        "i'll",
+        "paul"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says yo yeah yeah israel is huge in china israel does a lot of business in china you have a lot of israelis um in in china...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0240"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "china",
+        "israel",
+        "best"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says um yeah i mean um like like look look you're talking about the hasbella the the hasbilla pager attacks right when when israel just blew up...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0242"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "look",
+        "when",
+        "attacks"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says this right what it tells us is basically that israeli's control the global supply chain and you can't do that without the help of china",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0244"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "basically",
+        "can't",
+        "chain"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says there dude uh wait wait wait sorry sorry i i think what what he meant is um the fractional reserve system where if you you know...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0251"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "sorry",
+        "wait",
+        "what"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says heard anything like that yeah no um um i mean the fellow was a huge thing back in the 1990s um and it's um cia adjacent...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0258"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "it's",
+        "adjacent",
+        "1990s"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says as amazing it's influential it's influential like epic times i mean it's pretty influential united",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0260"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "influential",
+        "it's",
+        "amazing"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says what's really funny is like these um these chinese groups this isn't groups in america they're all right wing they're all they think it's the messiah...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0262"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "groups",
+        "they're",
+        "america"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says like what's really interesting is that china is the most atheist country in the world it's more most materialistic but like you look at any chinese...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0265"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "look",
+        "cult",
+        "it's"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the issue is that they're all like that i mean like like you know jack ma is the most successful but like they're all like that...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0267"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "know",
+        "mean",
+        "religion"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that's that's this is your big new brazilian dream you a uh min point and then rip you off",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0269"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "that's",
+        "brazilian",
+        "dream"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says some gay guy recently yeah yeah and like like why is it like whoever fights them like loses",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0271"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "fights",
+        "loses",
+        "recently"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says yeah but if you look at this the history of people who engage in fights with with um jake paul and who lou who like defeat...",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0273"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "it's",
+        "afterwards",
+        "defeat"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says you're going to see america's future just come to china and and spend spend a couple weeks right",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0276"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "spend",
+        "america's",
+        "china"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says appreciate it uh yeah no i'm a huge fan of the show i mean like it was it's so much fun to hang",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0278"
+      ],
+      "temporal_scope": "Statement made in this 2026-01-16 interview.",
+      "topic_tags": [
+        "appreciate",
+        "hang",
+        "huge"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0003"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "I'm in Beijing. And we have a scooter problem. We have a scooter problem. Not a",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0009"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "So to eat authentically in China, you need to eat pig's brain, rats, locusts, you know...",
+      "why_it_matters": "It captures Jiang's sharp comparative framing rather than a neutral travel observation.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0019"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "Hey, so I was wondering if you could do me a favor. I was hoping you",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0031"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "Oh, John le Carre. He wrote these spy novels. He was very popular in a day.",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0040"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "And now my theory. Sorry, my theory is that there's going to be more anti semitism",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0042"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "molested well you know if you go back to history you know Sparta the entire Spartan",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0052"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "yeah so So I was going to say, like, how we know that this US -China",
+      "why_it_matters": "It captures Jiang's sharp comparative framing rather than a neutral travel observation.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0057"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "Well, you know, Hollywood is a huge Chinese money -laundering operation. Say that again? Well, Hollywood",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0067"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "Okay, so I don't know what you're referring to, because Lee is a very common surname",
+      "why_it_matters": "It captures Jiang's sharp comparative framing rather than a neutral travel observation.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0075"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "Yeah, yeah, around China. And they made a bundle, and they stored their wealth in Britain,",
+      "why_it_matters": "It captures Jiang's sharp comparative framing rather than a neutral travel observation.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0081"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "Yeah, and the higher you climb, the crazier it gets, because the entire point of these",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0096"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "right so so i want to talk about minnesota right because like let's look at the",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0100"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "trick everywhere blm look look it's a classic color revolution playbook in iran where uh they",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0110"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "well there's certainly a pattern to all these school shootings right where the shooter has have",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0119"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "in charge almost like there's no way she's in charge and someone else is in charge",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0123"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "that yeah but but i mean like like george martin set it up so it could",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0129"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "etsy's pr agent right they were talking about how to go over trump right so so",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0140"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "i'll i'll answer this yeah absolutely uh it's amazing it's it's like disturbing how much in",
+      "why_it_matters": "It compresses Jiang's habit of reading China as a preview or model for broader political futures.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0151"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "say secret societies and besides secret studies there are like all these like clubs as well",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0155"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "government tells them to believe um they're you know for i mean like like chinese have",
+      "why_it_matters": "It turns an institutional diagnosis into a memorable image about charisma, obedience, and organizational form.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0164"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "what openai did and that's why it was so expensive like figure out every piece of",
+      "why_it_matters": "It compresses Jiang's habit of reading China as a preview or model for broader political futures.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0171"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "ago dude nobody remembers from the month ago look look i i'm look look at world",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0180"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "tell you look look all these ice tactics i mean it was pioneered and refined overseas",
+      "why_it_matters": "It compresses Jiang's habit of reading China as a preview or model for broader political futures.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0185"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "so like why are they putting like these children off 200 dollars of these data centers",
+      "why_it_matters": "It compresses Jiang's habit of reading China as a preview or model for broader political futures.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0193"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "hiding things and i mean that's just what the fuck it is no well look the",
+      "why_it_matters": "It turns an institutional diagnosis into a memorable image about charisma, obedience, and organizational form.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0205"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "with us uh what was that what you were talking about before uh ai future model",
+      "why_it_matters": "It compresses Jiang's habit of reading China as a preview or model for broader political futures.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0216"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "yeah so um in china um if something happens you're incentivized to cover it up because",
+      "why_it_matters": "It captures Jiang's sharp comparative framing rather than a neutral travel observation.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0221"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "should push it so so evan's attention is on like this double force raid that captured",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0229"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "no i was gonna point out that you know it's like the american military seems very",
+      "why_it_matters": "It compresses Jiang's habit of reading China as a preview or model for broader political futures.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0236"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "theory this semester last semester i taught six societies this theory this is i'm teaching game",
+      "why_it_matters": "It turns an institutional diagnosis into a memorable image about charisma, obedience, and organizational form.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0242"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "um yeah i mean um like like look look you're talking about the hasbella the the",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0251"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "there dude uh wait wait wait sorry sorry i i think what what he meant is",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0258"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "heard anything like that yeah no um um i mean the fellow was a huge thing",
+      "why_it_matters": "It turns an institutional diagnosis into a memorable image about charisma, obedience, and organizational form.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0267"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "the issue is that they're all like that i mean like like you know jack ma",
+      "why_it_matters": "It turns an institutional diagnosis into a memorable image about charisma, obedience, and organizational form.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0273"
+      ],
+      "moment": "Jiang lands the packet with a line he uses as a compressed image for the surrounding claim.",
+      "source_phrase": "yeah but if you look at this the history of people who engage in fights with",
+      "why_it_matters": "It preserves the packet's most memorable phrasing for later episode compression.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Ai Weiwei",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Chinese dissident artist invoked as a witness whose time in Germany supposedly reversed his free-speech expectations.",
+      "confidence": "medium"
+    },
+    {
+      "term": "color revolution",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0100"
+      ],
+      "definition_or_usage": "Used for externally managed protest destabilization scripts.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Falun Gong",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0257"
+      ],
+      "definition_or_usage": "Named as a Chinese religious movement that Jiang describes as CIA-adjacent after its founder built a media empire in New York.",
+      "confidence": "medium"
+    },
+    {
+      "term": "anticipatory compliance",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0261"
+      ],
+      "definition_or_usage": "Host phrase for rule-following learned in advance so authorities do not need to state the rule directly.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Club 33",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0275"
+      ],
+      "definition_or_usage": "Exclusive Disney park club invoked as part of a quasi-sovereign or elite-gated institutional ecosystem.",
+      "confidence": "medium"
+    },
+    {
+      "term": "15-minute city",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0275"
+      ],
+      "definition_or_usage": "Used for Disney/EPCOT-style managed urban design as a prototype of tightly administered everyday life.",
+      "confidence": "medium"
+    },
+    {
+      "term": "EPCOT",
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0275"
+      ],
+      "definition_or_usage": "Disney prototype city cited as an early version of the controlled urban future.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0008"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0023"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0030"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0038"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0099"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0137"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0149"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0160"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0162"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0177"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0191"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0204"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0205"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0225"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0227"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0235"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0252"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0258"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0276"
+      ],
+      "note": "This packet includes an explicit time marker or retrospective/forward-looking cue that may matter for chronology-sensitive reading.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0002"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0003"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0004"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0005"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0005"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0009"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0010"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0010"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0019"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0022"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0025"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0030"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0031"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0039"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0041"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0041"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0042"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0045",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0046"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0045",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0046"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0047"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0048"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0049"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0050",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0051"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0062"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0065"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0066"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0071",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0072"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0073"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0080"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0082",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0083"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0085",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0086"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0085",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0086"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0088"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0088"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0089",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0090"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0089",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0090"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0092"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0093"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0094",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0095"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0094",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0095"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0096"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0097",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0098",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0099"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0097",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0098",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0099"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0100",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0101"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0103"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0103"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0107"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0108",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0109"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0108",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0109"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0111",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0112"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0113"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0114",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0115",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0116"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0114",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0115",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0116"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0117"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0118"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0119"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0119"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0122"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0124"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0125"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0127"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0129"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0129"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0130",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0131"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0130",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0131"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0135"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0137",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0138",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0139"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0137",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0138",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0139"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0140",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0141"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0140",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0141"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0142"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0144"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0145"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0145"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0147",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0148"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0147",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0148"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0149"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0149"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0150"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0151",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0152"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0151",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0152"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0153"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0153"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0154"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0154"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0155"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0156",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0157",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0158"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0159"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0160"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0161"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0162"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0163",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0164",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0165"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0166",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0167"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0168"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0169",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0170"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0169",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0170"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0172"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0172"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0173"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0174"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0176"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0176"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0177",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0178",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0179"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0180",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0181"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0180",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0181"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0182",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0183",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0184"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0182",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0183",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0184"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0185"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0186"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0188",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0189",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0190",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0191",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0192"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0188",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0189",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0190",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0191",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0192"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0193"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0197"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0199"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0202"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0202"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0204"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0204"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0205",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0206"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0207"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0208"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0209"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0211",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0212",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0213"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0211",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0212",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0213"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0214"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0215"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0215"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0216"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0217"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0221"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0221"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0222"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0227"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0228"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0231"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0232"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0232"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0233"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0235"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0235"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0236"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0237"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0238"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0239"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0239"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0240"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0242"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0245",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0246"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0247"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0248"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0249"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0249"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0250"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0250"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0251"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0251"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0252",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0253"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0252",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0253"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0256"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0256"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0257"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0257"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0258"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0258"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0261"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0262"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0263",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0264"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0266"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0267"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0268"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0269"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0270"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0272"
+      ],
+      "note": "This stretch is framed with speculation or hearsay rather than source-demonstrated fact."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0273"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0274",
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0275"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0277"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0278"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    },
+    {
+      "refs": [
+        "video:interview-dhlr7zydlj8@transcript:v1#seg-0279"
+      ],
+      "note": "The transcript in this span is somewhat noisy or self-correcting, so exact wording should be checked against the underlying audio if the phrase becomes public-facing."
+    }
+  ]
+}

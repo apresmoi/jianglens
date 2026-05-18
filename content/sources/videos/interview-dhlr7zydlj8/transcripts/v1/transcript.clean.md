@@ -202,13 +202,13 @@ Ref: video:interview-dhlr7zydlj8@transcript:v1#seg-0033
 
 ## seg-0034 / 00:07:52-00:08:39 / SPEAKER_02
 
-Well, do they have rules where like, really has gotten on? It's really, from what I could tell, I've known to deal with actually, like an orientation, which would imply some kind of mutual, you know, enjoyment. It's like a weird power, Alexander, the great thing, you know, like, can I be AC do see it? Like, why? Why would Barack Obama have to go be an actor? Why would he have been a crack escort for some gay guy that Tucker has on? Why would he have had to do that? Well, that's the thing they do in those circles. It's an initiation. Yeah, you know, and you like La Femme Nikita, like Obama had to do that move. And so it's got nothing to do with I mean, if you like, let's say you're gay, you probably got to pretend you're straight. Or if you're like Pete Buttigieg, you got to pretend you're gay for some reason. You
+Well, do they have rules where like, really has gotten on? It's really, from what I could tell, I've known to deal with actually, like an orientation, which would imply some kind of mutual, you know, enjoyment. It's like a weird power, Alexander, the great thing, you know, like, can I be AC do see it? Like, why? Why would Barack Obama have to go be an actor? Why would he have been a crack escort for some gay guy that Tucker has on? Why would he have had to do that? Well, that's the thing they do in those circles. It's an initiation. Yeah, you know, and you like La Femme Nikita, like Obama had to do that move. And so it's got nothing to do with I mean, if you like, let's say you're gay, you probably got to pretend you're straight. Or if you're like Pete Buttigieg, you got to pretend you're gay for some reason. You never know.
 
 Ref: video:interview-dhlr7zydlj8@transcript:v1#seg-0034
 
 ## seg-0035 / 00:08:39-00:08:39 / SPEAKER_02
 
-never know.
+
 
 Ref: video:interview-dhlr7zydlj8@transcript:v1#seg-0035
 
@@ -326,15 +326,15 @@ Yeah. And so, like, you know, in Top Gun Maverick, the enemy was Iran, right? An
 
 Ref: video:interview-dhlr7zydlj8@transcript:v1#seg-0054
 
-## seg-0055 / 00:15:42-00:16:40 / SPEAKER_02
+## seg-0055 / 00:15:42-00:16:42 / SPEAKER_02
 
-Oh, yeah. Well, oh, no. Yeah, obviously, because Disney wants to push their… I can't believe they would push, like, their own Mulan that nobody in China would like, which is, like, a Chinese thing. That was brilliant on Disney's part. Yeah. That's why the one… What's it called? The original I love, where, like, Russia and Cuba invade from the guy made… What is it, Mark? Do you remember? I'm blanking out. The Wolverines. The football team has to fight the commies that invaded the fucking heartland. Ah, they remade it with Thor. And they changed the themes of it. In the original one, it's all these, like, survival… Red Dawn. Yeah, Red Dawn. So, Red Dawn was… And John Milius… I love, like, movies from, like, a maniac that's got, like, that much vision. He's just, like, he has so much vision as a maniac. That's why Conan is so great. It's just such, like, a… Anyway. They
+Oh, yeah. Well, oh, no. Yeah, obviously, because Disney wants to push their… I can't believe they would push, like, their own Mulan that nobody in China would like, which is, like, a Chinese thing. That was brilliant on Disney's part. Yeah. That's why the one… What's it called? The original I love, where, like, Russia and Cuba invade from the guy made… What is it, Mark? Do you remember? I'm blanking out. The Wolverines. The football team has to fight the commies that invaded the fucking heartland. Ah, they remade it with Thor. And they changed the themes of it. In the original one, it's all these, like, survival… Red Dawn. Yeah, Red Dawn. So, Red Dawn was… And John Milius… I love, like, movies from, like, a maniac that's got, like, that much vision. He's just, like, he has so much vision as a maniac. That's why Conan is so great. It's just such, like, a… Anyway. They remake it, and they change it.
 
 Ref: video:interview-dhlr7zydlj8@transcript:v1#seg-0055
 
-## seg-0056 / 00:16:40-00:17:13 / SPEAKER_02
+## seg-0056 / 00:16:42-00:17:13 / SPEAKER_02
 
-remake it, and they change it. So, they're not… They're not self -sufficient anymore. They're… The guy who's in… He's an ex -soldier, so that's why he can do it and train them. And then it's, like, get… And it was intended to be China. I don't know who, like, when… Something else had to be going on, some trade thing, where they had to hastily go back and CGI North Korean flags on everything. Yeah. Yeah. And North Korea, I gotta say, I never really bought the idea that North Korea was gonna invade America at any point. Right. I don't think that was really on the table ever.
+So, they're not… They're not self -sufficient anymore. They're… The guy who's in… He's an ex -soldier, so that's why he can do it and train them. And then it's, like, get… And it was intended to be China. I don't know who, like, when… Something else had to be going on, some trade thing, where they had to hastily go back and CGI North Korean flags on everything. Yeah. Yeah. And North Korea, I gotta say, I never really bought the idea that North Korea was gonna invade America at any point. Right. I don't think that was really on the table ever.
 
 Ref: video:interview-dhlr7zydlj8@transcript:v1#seg-0056
 
@@ -422,15 +422,15 @@ Yeah, like, who would be on the list if we were going to name, like, some elite 
 
 Ref: video:interview-dhlr7zydlj8@transcript:v1#seg-0070
 
-## seg-0071 / 00:20:14-00:20:57 / SPEAKER_02
+## seg-0071 / 00:20:14-00:21:01 / SPEAKER_02
 
-And I don't know about it a lot. I know… I know that there's part of it, but I've never… You know, beyond that thing of goo, which is Austin, Osmond Spare, the sigil guy was into that. And so my girls are power cash. I hadn't watched it, but I had this terrible dream of eating centipedes out of a dish in, like, a red and gold kind of background. And I was like, this sucks. Why do I have to do this? And I woke up, and it tasted so bad in my mouth that I thought a spider went in my mouth or something. It wasn't just, like, puking in your sleep. So it disturbed me for a while, this dream. I'm like, I better… I ate a bug in my sleep. Anyway, she tells me about this guy later that he was into this thing called GU, goo. And you put poisonous shit in a dish,
+And I don't know about it a lot. I know… I know that there's part of it, but I've never… You know, beyond that thing of goo, which is Austin, Osmond Spare, the sigil guy was into that. And so my girls are power cash. I hadn't watched it, but I had this terrible dream of eating centipedes out of a dish in, like, a red and gold kind of background. And I was like, this sucks. Why do I have to do this? And I woke up, and it tasted so bad in my mouth that I thought a spider went in my mouth or something. It wasn't just, like, puking in your sleep. So it disturbed me for a while, this dream. I'm like, I better… I ate a bug in my sleep. Anyway, she tells me about this guy later that he was into this thing called GU, goo. And you put poisonous shit in a dish, you know, a centipede, a scorpion, whatever, and you close it.
 
 Ref: video:interview-dhlr7zydlj8@transcript:v1#seg-0071
 
-## seg-0072 / 00:20:57-00:21:31 / SPEAKER_02
+## seg-0072 / 00:21:01-00:21:31 / SPEAKER_02
 
-you know, a centipede, a scorpion, whatever, and you close it. And then whoever's alive, you eat that one to absorb the strength of it. It's like some old… And I think I just picked it up on Wi -Fi or something, you know, from sleeping. I don't think I've done that. It's not passed away for anything like that. But that's… But all the commonalities I notice with, like, a serpent or a dragon or a lizard that's a dragon or a… I mean, it seems to be very common worldwide that the real important people came from some sort of a dragon. Right, right. Why?
+And then whoever's alive, you eat that one to absorb the strength of it. It's like some old… And I think I just picked it up on Wi -Fi or something, you know, from sleeping. I don't think I've done that. It's not passed away for anything like that. But that's… But all the commonalities I notice with, like, a serpent or a dragon or a lizard that's a dragon or a… I mean, it seems to be very common worldwide that the real important people came from some sort of a dragon. Right, right. Why?
 
 Ref: video:interview-dhlr7zydlj8@transcript:v1#seg-0072
 

@@ -1,0 +1,40 @@
+{
+  "source_slug": "interview-dhlr7zydlj8",
+  "decisions": [
+    {
+      "candidate_id": "seg-0034->seg-0035:move-leading-completion-to-previous:3112cd6aebd7",
+      "decision": "approve",
+      "reason": "Moves 'never know.' back to the dangling 'You' to restore the obvious completion 'You never know.'"
+    },
+    {
+      "candidate_id": "seg-0052->seg-0053:move-leading-completion-to-previous:a89f7d908d04",
+      "decision": "reject",
+      "reason": "This is a speaker-turn response, not a continuation of the previous segment's unfinished clause."
+    },
+    {
+      "candidate_id": "seg-0055->seg-0056:move-leading-completion-to-previous:d38581782440",
+      "decision": "approve",
+      "reason": "Moves 'remake it, and they change it.' back to the dangling 'They' and restores one sentence across the split."
+    },
+    {
+      "candidate_id": "seg-0068->seg-0069:move-leading-completion-to-previous:98c9f1334326",
+      "decision": "reject",
+      "reason": "The next segment is the professor's answer naming the families, not a completion of the host's prompt."
+    },
+    {
+      "candidate_id": "seg-0070->seg-0071:move-leading-completion-to-previous:8bfded0fbc09",
+      "decision": "reject",
+      "reason": "This boundary marks a question-to-answer turn; moving the answer would hide the speaker change."
+    },
+    {
+      "candidate_id": "seg-0071->seg-0072:move-leading-completion-to-previous:b30fc3649d09",
+      "decision": "approve",
+      "reason": "Moves the ingredient list back to the dangling setup 'And you put poisonous shit in a dish,' to complete the thought."
+    },
+    {
+      "candidate_id": "seg-0073->seg-0074:move-leading-completion-to-previous:870281f8728b",
+      "decision": "reject",
+      "reason": "The next segment is a host interjection, not the missing end of the professor's triad sentence."
+    }
+  ]
+}
