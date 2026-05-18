@@ -2,15 +2,15 @@
 
 Source: https://www.youtube.com/watch?v=ACPE2tGkBjE
 
-## seg-0001 / 00:00:05-00:01:04 / SPEAKER_01
+## seg-0001 / 00:00:05-00:01:05 / SPEAKER_01
 
-You're watching Capital Cosm. My name is Danny. It is January 9th, 2026 and do not adjust your mobile screen, your television screen, laptop screen, whatever you're using to watch this episode because we've got two of the biggest heavy hitters on the Fintwit geopolitical space. It is Professor Jang from Predictive History and Simon Dixon from, you know, he's a Bitcoin OG investor as well as he has his own YouTube channel as well. Simon Dixon as well. So, gents, I know you're heavily respected in your respected fields. And, you know, with the way things are happening right now, it seems like we're witnessing a change in the world order. And the last time I interviewed you, Professor Jang, you had your own idea on where the trajectory was heading. You participated. You posited the notion that we were heading into a Pax Judaica world, transitioning from Pax Americana to Pax Judaica. Simon, you had a bit of
+You're watching Capital Cosm. My name is Danny. It is January 9th, 2026 and do not adjust your mobile screen, your television screen, laptop screen, whatever you're using to watch this episode because we've got two of the biggest heavy hitters on the Fintwit geopolitical space. It is Professor Jang from Predictive History and Simon Dixon from, you know, he's a Bitcoin OG investor as well as he has his own YouTube channel as well. Simon Dixon as well. So, gents, I know you're heavily respected in your respected fields. And, you know, with the way things are happening right now, it seems like we're witnessing a change in the world order. And the last time I interviewed you, Professor Jang, you had your own idea on where the trajectory was heading. You participated. You posited the notion that we were heading into a Pax Judaica world, transitioning from Pax Americana to Pax Judaica. Simon, you had a bit of a different take.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0001
 
-## seg-0002 / 00:01:04-00:01:37 / SPEAKER_01
+## seg-0002 / 00:01:05-00:01:37 / SPEAKER_01
 
-a different take. You see, you actually see Israel being treated as a toxic asset and eventually leading to a GCC -led Middle East. So, I want to kind of reconcile some of the differences here and kind of get your takes on, you know, how you view one another's theories. But we'll start off with you, Professor Jang. For those who may have not watched our last episode or any, or have just been, not been introduced to your work on Pax Judaica yet, just a brief overview on your Pax Judaica thesis.
+You see, you actually see Israel being treated as a toxic asset and eventually leading to a GCC -led Middle East. So, I want to kind of reconcile some of the differences here and kind of get your takes on, you know, how you view one another's theories. But we'll start off with you, Professor Jang. For those who may have not watched our last episode or any, or have just been, not been introduced to your work on Pax Judaica yet, just a brief overview on your Pax Judaica thesis.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0002
 
@@ -32,75 +32,75 @@ All right. Well, thank you, Professor J. Simon, if you don't mind giving us your
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0005
 
-## seg-0006 / 00:03:21-00:04:07 / SPEAKER_02
+## seg-0006 / 00:03:21-00:04:10 / SPEAKER_02
 
-Yeah. So, I follow financial flows and then financial flows are allowed to access strategic choke points and resolve strategic choke points and give you access to technology as well. Yeah. So, I follow financial flows and then financial flows are allowed to access strategic choke points and resolve strategic choke points and give you access to technology as well. Yeah. So, I follow financial flows and then financial flows are allowed to access strategic choke points and resolve strategic choke points and give you access to technology as well. Yeah. So, I follow financial flows and then financial flows are allowed to access strategic choke points and resolve strategic choke points and give you access to technology as well. prop up the stock market, which gives more power to corporate interests. So effectively, America has no sovereign power left, it is fully co -opted by corporate interests. And when you look at that corporate interest, you can split, there's
+Yeah. So, I follow financial flows and then financial flows are allowed to access strategic choke points and resolve strategic choke points and give you access to technology as well. Yeah. So, I follow financial flows and then financial flows are allowed to access strategic choke points and resolve strategic choke points and give you access to technology as well. Yeah. So, I follow financial flows and then financial flows are allowed to access strategic choke points and resolve strategic choke points and give you access to technology as well. Yeah. So, I follow financial flows and then financial flows are allowed to access strategic choke points and resolve strategic choke points and give you access to technology as well. prop up the stock market, which gives more power to corporate interests. So effectively, America has no sovereign power left, it is fully co -opted by corporate interests. And when you look at that corporate interest, you can split, there's more, but you can split it into three or four very powerful factions.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0006
 
-## seg-0007 / 00:04:07-00:05:18 / SPEAKER_02
+## seg-0007 / 00:04:10-00:05:19 / SPEAKER_02
 
-more, but you can split it into three or four very powerful factions. One is military, which used to dominate American foreign policy. But military became public companies and became subordinate to financial power, because it needed access to capital and Pentagon budgets. And so the military industrial complex became subordinate later to the financial industrial complex, which gave rise to the technical industrial complex, where algorithm and everything and access to data became more important. But still, the technical industrial complex is subordinate to the financial industrial complex, because it needs access to capital. And so that's what I think of America, now when I see Israel, I see Israel as representing Western interest as a money laundering organization to test a legal technology, and destabilize the Middle East, but the money ultimately always comes back to Western corporate interest. So it represents Google and Microsoft and the main Palantir and various other giants that host themselves on the
+One is military, which used to dominate American foreign policy. But military became public companies and became subordinate to financial power, because it needed access to capital and Pentagon budgets. And so the military industrial complex became subordinate later to the financial industrial complex, which gave rise to the technical industrial complex, where algorithm and everything and access to data became more important. But still, the technical industrial complex is subordinate to the financial industrial complex, because it needs access to capital. And so that's what I think of America, now when I see Israel, I see Israel as representing Western interest as a money laundering organization to test a legal technology, and destabilize the Middle East, but the money ultimately always comes back to Western corporate interest. So it represents Google and Microsoft and the main Palantir and various other giants that host themselves on the US stock market.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0007
 
-## seg-0008 / 00:05:18-00:06:31 / SPEAKER_02
+## seg-0008 / 00:05:20-00:06:34 / SPEAKER_02
 
-US stock market. So historically, the US stock market. So historically, the The strategic goal of America propping up their global hegemon was to always allow for no unification across the Middle East so that there could be an Arab League and a Persian unification around oil resources. And they executed that using Israel, Turkey, Iran and Qatar, where they would essentially through covert operations proxies that were on opposite sides. And build military bases in each of the respective regions, but then use Iran as a boogie monster to have strategic tension between Iran and Israel that caused all the problems and all the wars. That funneled off trillions of dollars of profits that propped up the dollar. And basically now what has changed right now is a rising power has risen to close to military supremacy, financial supremacy. And technical supremacy, which is China. And so now America, where we find ourselves today, is they are energy and
+So historically, the US stock market. So historically, the The strategic goal of America propping up their global hegemon was to always allow for no unification across the Middle East so that there could be an Arab League and a Persian unification around oil resources. And they executed that using Israel, Turkey, Iran and Qatar, where they would essentially through covert operations proxies that were on opposite sides. And build military bases in each of the respective regions, but then use Iran as a boogie monster to have strategic tension between Iran and Israel that caused all the problems and all the wars. That funneled off trillions of dollars of profits that propped up the dollar. And basically now what has changed right now is a rising power has risen to close to military supremacy, financial supremacy. And technical supremacy, which is China. And so now America, where we find ourselves today, is they are energy and oil exporters that compete with the Middle East.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0008
 
-## seg-0009 / 00:06:31-00:07:37 / SPEAKER_02
+## seg-0009 / 00:06:35-00:07:39 / SPEAKER_02
 
-oil exporters that compete with the Middle East. And China is the manufacturing base of most of the world. And so Chinese money purchases oil of Middle Eastern countries and other regions as well, which funds Gulf sovereign wealth. And Gulf sovereign wealth has made a partnership with Western power. And that Western power is not the military industrial complex, it's the financial industrial complex. And so when you look at the faction of power around the world today, you have a Chinese manufacturing base and Chinese money that can strategically weaken its currency in order to dominate. You have Gulf sovereign wealth and you have Western financial industrial complex. Now, we are made to look like Chinese. Like everyone's at war with each other, but actually they are unified more than we have ever seen in terms of resolving the world and splitting it up into pieces. Now, at the very same time, America right now has done the
+And China is the manufacturing base of most of the world. And so Chinese money purchases oil of Middle Eastern countries and other regions as well, which funds Gulf sovereign wealth. And Gulf sovereign wealth has made a partnership with Western power. And that Western power is not the military industrial complex, it's the financial industrial complex. And so when you look at the faction of power around the world today, you have a Chinese manufacturing base and Chinese money that can strategically weaken its currency in order to dominate. You have Gulf sovereign wealth and you have Western financial industrial complex. Now, we are made to look like Chinese. Like everyone's at war with each other, but actually they are unified more than we have ever seen in terms of resolving the world and splitting it up into pieces. Now, at the very same time, America right now has done the same operation on Israel.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0009
 
-## seg-0010 / 00:07:37-00:08:25 / SPEAKER_02
+## seg-0010 / 00:07:40-00:08:26 / SPEAKER_02
 
-same operation on Israel. So Israel is nationalizing its country, which means that it's burdening itself through debt through these wars and then privatizing all of its interests. Now we all live in a world with a budget system that is actually for farming interests currently comes up in the post tienes, unfortunately, both sides. In terms of working out how we can engage with other countries without altering the balance between real estate and development. And most of these doing very effectively not where it originally began. The balance between the two is where they in the next five to ten years will opt to see. And the number one limit that się often. You're very well known for being the hers of last year. WhyThanks so much money. We just began from there and then the west led the same thing. So I'll be done beginnen. to the GCC, and Israel is being strategically acquired and burdened with
+So Israel is nationalizing its country, which means that it's burdening itself through debt through these wars and then privatizing all of its interests. Now we all live in a world with a budget system that is actually for farming interests currently comes up in the post tienes, unfortunately, both sides. In terms of working out how we can engage with other countries without altering the balance between real estate and development. And most of these doing very effectively not where it originally began. The balance between the two is where they in the next five to ten years will opt to see. And the number one limit that się often. You're very well known for being the hers of last year. WhyThanks so much money. We just began from there and then the west led the same thing. So I'll be done beginnen. to the GCC, and Israel is being strategically acquired and burdened with debt.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0010
 
-## seg-0011 / 00:08:25-00:09:16 / SPEAKER_02
+## seg-0011 / 00:08:26-00:09:16 / SPEAKER_02
 
-debt. However, it is now leveraging what resources it has, which is its intelligence and its technology, to be useful to the financial industrial complex. So what we get right now is optics that makes it look like the world is moving to World War III when there's massive coordination and resolution of all strategic points in the world, a movement to multipolarity, and a changing role of Israel from a destabilization to being co -opted by the banks to provide regional stability so that they can make money out of the Middle East, while Western financial powers diversify over to China, the Middle East, and the Global South. Excellent. Well, I'll let Professor Zhang respond to anything
+However, it is now leveraging what resources it has, which is its intelligence and its technology, to be useful to the financial industrial complex. So what we get right now is optics that makes it look like the world is moving to World War III when there's massive coordination and resolution of all strategic points in the world, a movement to multipolarity, and a changing role of Israel from a destabilization to being co -opted by the banks to provide regional stability so that they can make money out of the Middle East, while Western financial powers diversify over to China, the Middle East, and the Global South. Excellent. Well, I'll let Professor Zhang respond to anything that he'd like to say.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0011
 
 ## seg-0012 / 00:09:16-00:10:19 / SPEAKER_01
 
-that he'd like to say. Thank you. I'd like to on that front, but I'd also like to pose a question for you, Professor Zhang. When Simon mentions a GCC -controlled Middle East or transitioning away from an Israeli -dominated Middle East to a GCC -controlled Middle East, does it really matter if it's GCC or Israel? If Israel controls or has huge influence on the GCC, Israel doesn't need to conquer the land's physically of the Gulf countries. It could just, you know, have just undue influence within those confines. It sounds like, you know, I guess what I'm really trying to ask is, doesn't Israel have influence within the GCC? Or do you see it in light of what Simon just alluded to that the GCC could be breaking away? Are there signs that the GCC is breaking away from Israel? Yeah. So how do you, how do you respond to that?
+Thank you. I'd like to on that front, but I'd also like to pose a question for you, Professor Zhang. When Simon mentions a GCC -controlled Middle East or transitioning away from an Israeli -dominated Middle East to a GCC -controlled Middle East, does it really matter if it's GCC or Israel? If Israel controls or has huge influence on the GCC, Israel doesn't need to conquer the land's physically of the Gulf countries. It could just, you know, have just undue influence within those confines. It sounds like, you know, I guess what I'm really trying to ask is, doesn't Israel have influence within the GCC? Or do you see it in light of what Simon just alluded to that the GCC could be breaking away? Are there signs that the GCC is breaking away from Israel? Yeah. So how do you, how do you respond to that?
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0012
 
-## seg-0013 / 00:10:20-00:11:12 / SPEAKER_00
+## seg-0013 / 00:10:20-00:11:11 / SPEAKER_00
 
-Well, I've always understood that if there were, if Pax Judaica were to come into being, then Israel would be the hegemon, and Saudi Arabia and the UAE would play a, would be partners to Pax Judaica. And, and that's how I would perceive it. So, first of all, I'm uncertain what GCC will do. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. Because, as you know, Saudi Arabia and UAE have had some military conflicts these past few days. And I'm really uncertain how GCC would organize itself. Would it be like a commonwealth? Or would it be a hegemon? Because Saudi Arabia would see itself as really the leader of the GCC. Is that
+Well, I've always understood that if there were, if Pax Judaica were to come into being, then Israel would be the hegemon, and Saudi Arabia and the UAE would play a, would be partners to Pax Judaica. And, and that's how I would perceive it. So, first of all, I'm uncertain what GCC will do. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. I'm not sure. Because, as you know, Saudi Arabia and UAE have had some military conflicts these past few days. And I'm really uncertain how GCC would organize itself. Would it be like a commonwealth? Or would it be a hegemon? Because Saudi Arabia would see itself as really the leader of the GCC.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0013
 
-## seg-0014 / 00:11:12-00:12:19 / SPEAKER_02
+## seg-0014 / 00:11:11-00:12:20 / SPEAKER_02
 
-correct? Yeah. So I think we move into a collective sovereignty, where people have different skills. And so imagine an Israel that is no longer backed by Pentagon budgets to destabilize the region and instead is utilized for its technology. And then as we have seen, technology becomes subordinate to financial capital. And so the Gulf countries are essentially, they've been unifying and playing different roles. This is very apparent in Yemen right now. So UAE, which is a part of Abraham Accords and Saudi Arabia that has said, we won't join until Palestine is recognized as a state and we have the two -state solution. They get to play good cop, bad cop. And so UAE in this equation, the wars are essentially, the military is dumping Israel by burdening it with massive debt and its debt to GDP is going up and up and up. Its stocks are going up and up and up, which is privatization of
+Is that correct? Yeah. So I think we move into a collective sovereignty, where people have different skills. And so imagine an Israel that is no longer backed by Pentagon budgets to destabilize the region and instead is utilized for its technology. And then as we have seen, technology becomes subordinate to financial capital. And so the Gulf countries are essentially, they've been unifying and playing different roles. This is very apparent in Yemen right now. So UAE, which is a part of Abraham Accords and Saudi Arabia that has said, we won't join until Palestine is recognized as a state and we have the two -state solution. They get to play good cop, bad cop. And so UAE in this equation, the wars are essentially, the military is dumping Israel by burdening it with massive debt and its debt to GDP is going up and up and up. Its stocks are going up and up and up, which is privatization of the resources.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0014
 
-## seg-0015 / 00:12:19-00:13:22 / SPEAKER_02
+## seg-0015 / 00:12:21-00:13:22 / SPEAKER_02
 
-the resources. And then they're being acquired by the UAE sovereign wealth fund playing bad cop and making it look like they lick the boots of Israel while Saudi Arabia is playing good cop and the Western media is making it out like Israel rules the world. And so when you have, for example, making AIPAC look more powerful than the military lobby, financial lobby, insurance lobby, technical lobby, AIPAC's like the 15th number in terms of money lobby. But when you make it look like Jewish American billionaires within America, they utilize AIPAC to fulfill their financial interest. And by making AIPAC look like it rules the world, you get these great narratives. As America is a falling empire, they get to say, we would never do it side. It's just those pecks, they're just a bunch of Jews and you get to blame shift everything on Israel. And don't get me wrong, what Israel is doing is fundamentally
+And then they're being acquired by the UAE sovereign wealth fund playing bad cop and making it look like they lick the boots of Israel while Saudi Arabia is playing good cop and the Western media is making it out like Israel rules the world. And so when you have, for example, making AIPAC look more powerful than the military lobby, financial lobby, insurance lobby, technical lobby, AIPAC's like the 15th number in terms of money lobby. But when you make it look like Jewish American billionaires within America, they utilize AIPAC to fulfill their financial interest. And by making AIPAC look like it rules the world, you get these great narratives. As America is a falling empire, they get to say, we would never do it side. It's just those pecks, they're just a bunch of Jews and you get to blame shift everything on Israel. And don't get me wrong, what Israel is doing is fundamentally evil.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0015
 
-## seg-0016 / 00:13:22-00:14:27 / SPEAKER_02
+## seg-0016 / 00:13:22-00:14:32 / SPEAKER_02
 
-evil. I'm very against it, but I'm looking at where the money and whose interests they're actually serving. And so the Gulf countries have built alternative payment rails. They've reduced the petrodollar to the petroyuan about 70, 30 right now. China have built with Iran and Russia, these rails, and the US have built with the US and the US have built with Iran and Russia these rails, that are kind of like a credit system where you can sell goods without avoiding sanctions. Saudi sovereign wealth funds have been buying like refiners in Texas. They've been buying, you know, the many strategic partnerships. And so through their sovereign wealth funds, they're effectively acquiring what they need to run a collective sovereignty. And then they're unifying with Turkey and Egypt, which are providing military capacity. You know, and then eventually, as they join this unification, they have a collective power where no one controls everything. But they're all unified around
+I'm very against it, but I'm looking at where the money and whose interests they're actually serving. And so the Gulf countries have built alternative payment rails. They've reduced the petrodollar to the petroyuan about 70, 30 right now. China have built with Iran and Russia, these rails, and the US have built with the US and the US have built with Iran and Russia these rails, that are kind of like a credit system where you can sell goods without avoiding sanctions. Saudi sovereign wealth funds have been buying like refiners in Texas. They've been buying, you know, the many strategic partnerships. And so through their sovereign wealth funds, they're effectively acquiring what they need to run a collective sovereignty. And then they're unifying with Turkey and Egypt, which are providing military capacity. You know, and then eventually, as they join this unification, they have a collective power where no one controls everything. But they're all unified around technical and financial rails that the Gulf has essentially built out.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0016
 
 ## seg-0017 / 00:14:27-00:14:32 / SPEAKER_02
 
-technical and financial rails that the Gulf has essentially built out.
+
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0017
 
@@ -118,13 +118,13 @@ Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0019
 
 ## seg-0020 / 00:16:14-00:17:15 / SPEAKER_02
 
-of this collective flow of funds rather than now, each individual country gets to have their own narrative, their own religion, their own leadership. And I believe even right now, Iran is on board with this vision. They've got their own internal issues due to economic warfare. But I believe that any war and the 12 day war was to take out the IRGC members. As an example. They've got an inside job that needed in order to move towards this new collective vision and all the proxies are being dumped right now where they either unify, get eliminated and essentially Israel is being if you look at what America and Israel has now become, they have become the military for this unification of financial interest. They can go and take Venezuelan oil, but the profits flow through Chinese. They can go and take Venezuelan oil, but the profits flow through Chinese. Infrastructure, Gulf sovereign wealth and Western financial banking
+of this collective flow of funds rather than now, each individual country gets to have their own narrative, their own religion, their own leadership. And I believe even right now, Iran is on board with this vision. They've got their own internal issues due to economic warfare. But I believe that any war and the 12 day war was to take out the IRGC members. As an example. They've got an inside job that needed in order to move towards this new collective vision and all the proxies are being dumped right now where they either unify, get eliminated and essentially Israel is being if you look at what America and Israel has now become, they have become the military for this unification of financial interest. They can go and take Venezuelan oil, but the profits flow through Chinese. They can go and take Venezuelan oil, but the profits flow through Chinese. Infrastructure, Gulf sovereign wealth and Western financial banking interests.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0020
 
 ## seg-0021 / 00:17:15-00:17:15 / SPEAKER_02
 
-interests.
+
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0021
 
@@ -140,15 +140,15 @@ China, transnational capital is looking for a new host that would be safe and th
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0023
 
-## seg-0024 / 00:18:37-00:19:34 / SPEAKER_02
+## seg-0024 / 00:18:37-00:19:37 / SPEAKER_02
 
-Yeah. So even if you look at the British Empire, what was the British Empire? As you said, it was the private interest, which was the British East India Company. It was the government, which is you enslave it through debt until it's bankrupt. And and the Bank of England, which was the privatization of the resources and mercantilism, where you steal all the world's real money through printed money. And so you take the gold from India, you take China's silver through opium wars. But in the end, they end up with the hard assets and the corporate interests. And the government ends up with all of the the the the the stock assets and the government just becomes the piggy bank. They repeat they repeated that exercise with the US. The government is the piggy bank, BlackRock and transnational capital and State Street and Vanguard are the British East India Company ending up with all the assets and
+Yeah. So even if you look at the British Empire, what was the British Empire? As you said, it was the private interest, which was the British East India Company. It was the government, which is you enslave it through debt until it's bankrupt. And and the Bank of England, which was the privatization of the resources and mercantilism, where you steal all the world's real money through printed money. And so you take the gold from India, you take China's silver through opium wars. But in the end, they end up with the hard assets and the corporate interests. And the government ends up with all of the the the the the stock assets and the government just becomes the piggy bank. They repeat they repeated that exercise with the US. The government is the piggy bank, BlackRock and transnational capital and State Street and Vanguard are the British East India Company ending up with all the assets and the Federal Reserve is owned by the banks.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0024
 
-## seg-0025 / 00:19:34-00:20:41 / SPEAKER_02
+## seg-0025 / 00:19:37-00:20:41 / SPEAKER_02
 
-the Federal Reserve is owned by the banks. And now the banks are owned by the money managers as well. So you've got this stateless transnational capital, which I think it's always been, we've just had the illusion of nationalism previously, which was just a utility of building an army under the guise of religion or, or, you know, or religion or, or army. So now you've got this new transnational financial capital. And. You know that they they essentially call the shots, and they're deciding which zones are going to be the war zones, Middle East, they, they have regional stability, China is going to have its growth story and manufacturing base, and America is going to be civil unrest and Europe is going to be sacrificed as a war zone. And so military are moving from the Middle East over to Europe, and financial capital has got a new partner, which is China. And so military are moving
+And now the banks are owned by the money managers as well. So you've got this stateless transnational capital, which I think it's always been, we've just had the illusion of nationalism previously, which was just a utility of building an army under the guise of religion or, or, you know, or religion or, or army. So now you've got this new transnational financial capital. And. You know that they they essentially call the shots, and they're deciding which zones are going to be the war zones, Middle East, they, they have regional stability, China is going to have its growth story and manufacturing base, and America is going to be civil unrest and Europe is going to be sacrificed as a war zone. And so military are moving from the Middle East over to Europe, and financial capital has got a new partner, which is China. And so military are moving
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0025
 
@@ -158,15 +158,15 @@ from the Middle East over to Europe, and financial capital has got a new partner
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0026
 
-## seg-0027 / 00:20:56-00:22:00 / SPEAKER_00
+## seg-0027 / 00:20:56-00:22:01 / SPEAKER_00
 
-Okay, I understand. Okay, so it seems to me, our disagreement is this, you think that they will relocate to the GCC, whereas I think transnational capital will center itself in Jerusalem. So let me explain to you why I think Jerusalem makes more sense. For transnational capital than the GCC. First of all, Israel, the state of Israel has a wide network of Jewish diaspora, right? So the Jewish diaspora everywhere, and you look at the presence of Mexico, of a lot of places, they're, they're Jewish. So if Israel were to become back to Judea, you could leverage this wide, Jewish diaspora to your benefit. That's number one. Number two is Mossad. Mossad is the most effective intelligence agency in the world. So in today's world, if you, if there's anyone who opposes you, you don't have to actually have to go and, and sort of war. You can use targeted assassinations, you can use blackmail, you can
+Okay, I understand. Okay, so it seems to me, our disagreement is this, you think that they will relocate to the GCC, whereas I think transnational capital will center itself in Jerusalem. So let me explain to you why I think Jerusalem makes more sense. For transnational capital than the GCC. First of all, Israel, the state of Israel has a wide network of Jewish diaspora, right? So the Jewish diaspora everywhere, and you look at the presence of Mexico, of a lot of places, they're, they're Jewish. So if Israel were to become back to Judea, you could leverage this wide, Jewish diaspora to your benefit. That's number one. Number two is Mossad. Mossad is the most effective intelligence agency in the world. So in today's world, if you, if there's anyone who opposes you, you don't have to actually have to go and, and sort of war. You can use targeted assassinations, you can use blackmail, you can use surveillance.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0027
 
-## seg-0028 / 00:22:00-00:22:52 / SPEAKER_00
+## seg-0028 / 00:22:01-00:22:52 / SPEAKER_00
 
-use surveillance. And that's what Mossad is very, very good, good at. That's point number two. Point number three is, Israel is the only country in the Middle East which has nuclear weapons. The GCC does not have nuclear weapons. That's a huge advantage for Israel, and that's what keeps Israel safe. Israel has a central option where if it feels threatened, and it nukes the world, not, not its enemies, but the entire world. So that's a huge advantage for Israel. And I don't think the GCC could ever compensate for, for, for that. Number four is that Israel has tremendous human capital. Israel is one of the most well -educated societies in the world. Where would you find the human capital in the GCC? Well, in Saudi Arabia, Dubai, Qatar imports most of its human capital. So what, if I'm trying to establish capital, why would I, why would I go up, go to the GCC and, and
+And that's what Mossad is very, very good, good at. That's point number two. Point number three is, Israel is the only country in the Middle East which has nuclear weapons. The GCC does not have nuclear weapons. That's a huge advantage for Israel, and that's what keeps Israel safe. Israel has a central option where if it feels threatened, and it nukes the world, not, not its enemies, but the entire world. So that's a huge advantage for Israel. And I don't think the GCC could ever compensate for, for, for that. Number four is that Israel has tremendous human capital. Israel is one of the most well -educated societies in the world. Where would you find the human capital in the GCC? Well, in Saudi Arabia, Dubai, Qatar imports most of its human capital. So what, if I'm trying to establish capital, why would I, why would I go up, go to the GCC and, and
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0028
 
@@ -176,21 +176,21 @@ establish all this knowledge infrastructure that I would need to run my enterpri
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0029
 
-## seg-0030 / 00:23:33-00:24:36 / SPEAKER_02
+## seg-0030 / 00:23:33-00:24:37 / SPEAKER_02
 
-Yeah. So, um, if you look at what's happening right now is, um, BlackRock via Saudi Aramco has a board seat on, um, uh, uh, you know, the, one of the executives is now a board member of BlackRock. BlackRock is setting up their, um, office in Saudi Arabia. Um, you've got many of the banks that are relocating. Um, China just did, uh, Saudi Arabia just did their bond offering, um, with China. Um, it was denominated in dollars, but it was done via Saudi investment banks. Um, and China also did a bond offering. Um, so all of these are alternative payment rails and alternative. Financial rails, um, are being built. So what's actually effectively happening is you've got Western financial interest that is unifying with this, this Gulf capital. Um, now in terms of the, uh, the nuclear power. So here's what I think. So there is no, well, there is, there's a tiny Israeli sovereign wealth
+Yeah. So, um, if you look at what's happening right now is, um, BlackRock via Saudi Aramco has a board seat on, um, uh, uh, you know, the, one of the executives is now a board member of BlackRock. BlackRock is setting up their, um, office in Saudi Arabia. Um, you've got many of the banks that are relocating. Um, China just did, uh, Saudi Arabia just did their bond offering, um, with China. Um, it was denominated in dollars, but it was done via Saudi investment banks. Um, and China also did a bond offering. Um, so all of these are alternative payment rails and alternative. Financial rails, um, are being built. So what's actually effectively happening is you've got Western financial interest that is unifying with this, this Gulf capital. Um, now in terms of the, uh, the nuclear power. So here's what I think. So there is no, well, there is, there's a tiny Israeli sovereign wealth fund.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0030
 
-## seg-0031 / 00:24:36-00:25:37 / SPEAKER_02
+## seg-0031 / 00:24:37-00:25:38 / SPEAKER_02
 
-fund. Um, now it's assets are being utilized by this financial industrial. Complex, um, but none of the value of what Israel's building is being maintained, um, to keep Israel sovereign. Um, and so it is just like America, just becoming a tool and a utility for greater financial power. Um, and that greater financial power is not consolidated around just Jewish power. Um, if you look at global wealth right now, um, the last study that was done and you can question the data. About 55%. Of global wealth was affiliated with people that call themselves Christians, 36 % atheist, which obviously accounts for the rise of China. Um, and then you've got about six to 8%, um, Muslim, and I think. About 6 % Hindu with the rise of the Gulf countries and the rise of China, um, uh, India. Um, and then it's about one to 2 % of known Jewish wealth. Now, is that correct? I
+Um, now it's assets are being utilized by this financial industrial. Complex, um, but none of the value of what Israel's building is being maintained, um, to keep Israel sovereign. Um, and so it is just like America, just becoming a tool and a utility for greater financial power. Um, and that greater financial power is not consolidated around just Jewish power. Um, if you look at global wealth right now, um, the last study that was done and you can question the data. About 55%. Of global wealth was affiliated with people that call themselves Christians, 36 % atheist, which obviously accounts for the rise of China. Um, and then you've got about six to 8%, um, Muslim, and I think. About 6 % Hindu with the rise of the Gulf countries and the rise of China, um, uh, India. Um, and then it's about one to 2 % of known Jewish wealth. Now, is that correct? I don't know.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0031
 
-## seg-0032 / 00:25:37-00:26:45 / SPEAKER_02
+## seg-0032 / 00:25:38-00:26:45 / SPEAKER_02
 
-don't know. Um, there's all of these, uh, you know, trusts. Company structures that could make that data, um, fairly inaccurate. Um, but I do believe all. Israel had will be integrated into, um, this GCC, um, and this Abraham accords union, um, that is being built. Uh, and, and that is, um, and so all of those tools, um, which we even saw, for example, Israel had that $35 billion. Um, energy. The agreement with Egypt, now that creates a dependency upon Egyptian revenue when America's no longer going to be, uh, funding some of that revenue. Um, you've got a, it will be integrated into these rails. Um, and so I don't see it becoming now. The nuclear question is a very good question. My, my personal belief, and I can't prove this and it's just a theory. Um, is obviously the way the nukes were. Um. Well, the, the nukes were achieved by Israel with the assassination
+Um, there's all of these, uh, you know, trusts. Company structures that could make that data, um, fairly inaccurate. Um, but I do believe all. Israel had will be integrated into, um, this GCC, um, and this Abraham accords union, um, that is being built. Uh, and, and that is, um, and so all of those tools, um, which we even saw, for example, Israel had that $35 billion. Um, energy. The agreement with Egypt, now that creates a dependency upon Egyptian revenue when America's no longer going to be, uh, funding some of that revenue. Um, you've got a, it will be integrated into these rails. Um, and so I don't see it becoming now. The nuclear question is a very good question. My, my personal belief, and I can't prove this and it's just a theory. Um, is obviously the way the nukes were. Um. Well, the, the nukes were achieved by Israel with the assassination
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0032
 
@@ -202,13 +202,13 @@ Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0033
 
 ## seg-0034 / 00:27:30-00:28:21 / SPEAKER_00
 
-Okay. So, um, let's focus on Saudi Arabia. Um, I'm trying to answer capital. I have $200 and I want to invest. Okay. But Saudi Arabia has something called. The line, and I'm not sure what the budget was, a trillion dollars or something like that. Okay. Which was this, this, this like linear city, um, in the desert. So if I'm trying to start some capital, you know, I'm like, I'm a, I'm a pretty smart guy. I'm gonna ask some questions. Um, my first question is why would they come up? Why would they, why would, why would they have these ideas? Like, like what is the rationale for the line? That's number one. Number two is how does this thing get approved? Is there no process? Which architects and experts can tell, uh, the leadership of Saudi Arabia? The line is absolutely insane. Don't do it. Is, are there, are there no checks and balances in Saudi
+Okay. So, um, let's focus on Saudi Arabia. Um, I'm trying to answer capital. I have $200 and I want to invest. Okay. But Saudi Arabia has something called. The line, and I'm not sure what the budget was, a trillion dollars or something like that. Okay. Which was this, this, this like linear city, um, in the desert. So if I'm trying to start some capital, you know, I'm like, I'm a, I'm a pretty smart guy. I'm gonna ask some questions. Um, my first question is why would they come up? Why would they, why would, why would they have these ideas? Like, like what is the rationale for the line? That's number one. Number two is how does this thing get approved? Is there no process? Which architects and experts can tell, uh, the leadership of Saudi Arabia? The line is absolutely insane. Don't do it. Is, are there, are there no checks and balances in Saudi Arabia?
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0034
 
 ## seg-0035 / 00:28:21-00:28:45 / SPEAKER_00
 
-Arabia? That's number two. Number three is if you're an investor in the line and they canceled a project, how, how can you get your money back? I mean, like, like, and like, I'm not an investor, but I'm just saying like, you know, if I have $200, I would want to know these questions. How do these projects get approved in Saudi Arabia? How are these projects conceived? And what happens? If these projects go sideways, um, as, as, as, as what has happened with the line?
+That's number two. Number three is if you're an investor in the line and they canceled a project, how, how can you get your money back? I mean, like, like, and like, I'm not an investor, but I'm just saying like, you know, if I have $200, I would want to know these questions. How do these projects get approved in Saudi Arabia? How are these projects conceived? And what happens? If these projects go sideways, um, as, as, as, as what has happened with the line?
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0035
 
@@ -284,15 +284,15 @@ Well, they're not investing in GC basically what's happened is you've got the ab
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0047
 
-## seg-0048 / 00:32:23-00:33:09 / SPEAKER_02
+## seg-0048 / 00:32:23-00:33:12 / SPEAKER_02
 
-I think real power, and I'm not saying the golf is the power I'm saying real power, China, um, which to some degree, Russia has become dependent upon and us, which is Western financial power. Um, they've decided that the golf sovereign wealth funds and the middle Eastern corridors and the energy that's needed for all of these. The British essentially, uh, they're basically they're not the only ones with the advantage of the labor market. They've decided that with the darling of the wealth and financial intelligence, um, um, with the connection between theführer and the financial intelligence project, um, that the middle East is going to be included in that. Um, and they get to set the price of oil to a greater degree while China has built massive reserves. Um, but they've been utilizing all of these different conflicts in order to acquire it cheaper. Um, and then. Okay. America has now become an energy exporter. Um,
+I think real power, and I'm not saying the golf is the power I'm saying real power, China, um, which to some degree, Russia has become dependent upon and us, which is Western financial power. Um, they've decided that the golf sovereign wealth funds and the middle Eastern corridors and the energy that's needed for all of these. The British essentially, uh, they're basically they're not the only ones with the advantage of the labor market. They've decided that with the darling of the wealth and financial intelligence, um, um, with the connection between theführer and the financial intelligence project, um, that the middle East is going to be included in that. Um, and they get to set the price of oil to a greater degree while China has built massive reserves. Um, but they've been utilizing all of these different conflicts in order to acquire it cheaper. Um, and then. Okay. America has now become an energy exporter. Um, exporter, but they can't compete with the middle East in terms of the cost base.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0048
 
-## seg-0049 / 00:33:09-00:33:57 / SPEAKER_02
+## seg-0049 / 00:33:12-00:33:57 / SPEAKER_02
 
-exporter, but they can't compete with the middle East in terms of the cost base. If they need to combat inflation. Um, so it's an opportunity for them to be able to, to improve the economy. inflation by pushing down the price of oil which seems to be one of the strategies like you know inflation in America is being tackled by replacing jobs with AI and robotics charging more tax through tariffs which takes money out of the money supply and also getting down the price of oil which bankrupts many of the Western oil producers that can't produce at those cost base so inflation is being you know clearly controlled but um again it's sovereign China sovereign wealth in the Middle East and then Western Financial Industrial Complex that's every transaction you'll see right
+If they need to combat inflation. Um, so it's an opportunity for them to be able to, to improve the economy. inflation by pushing down the price of oil which seems to be one of the strategies like you know inflation in America is being tackled by replacing jobs with AI and robotics charging more tax through tariffs which takes money out of the money supply and also getting down the price of oil which bankrupts many of the Western oil producers that can't produce at those cost base so inflation is being you know clearly controlled but um again it's sovereign China sovereign wealth in the Middle East and then Western Financial Industrial Complex that's every transaction you'll see right
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0049
 
@@ -320,15 +320,15 @@ don't think that the Western framing of that their subordinate to Israel is the 
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0053
 
-## seg-0054 / 00:36:48-00:37:43 / SPEAKER_02
+## seg-0054 / 00:36:48-00:37:49 / SPEAKER_02
 
-benefit from it there's Gulf sovereign wealth funds that get to benefit uh from it um and the key dependency is obviously all the strategic choke points as well um but what I'm saying is that Jerusalem being the capital fine that that can totally work out but in terms of Israel as a jurisdiction maintaining all the power as the new power of of the world I don't think it's an accurate um representation of the collective um sovereignty that is needed across the region um with Israel being a small country with a small population that is incurring higher and higher level of date that privatizing more and more of its assets and being gobbled up by West Western and Middle Eastern financial powers all right quick break here because if you're buying
+benefit from it there's Gulf sovereign wealth funds that get to benefit uh from it um and the key dependency is obviously all the strategic choke points as well um but what I'm saying is that Jerusalem being the capital fine that that can totally work out but in terms of Israel as a jurisdiction maintaining all the power as the new power of of the world I don't think it's an accurate um representation of the collective um sovereignty that is needed across the region um with Israel being a small country with a small population that is incurring higher and higher level of date that privatizing more and more of its assets and being gobbled up by West Western and Middle Eastern financial powers all right quick break here because if you're buying gold or silver the normal way you're probably paying by a lot.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0054
 
-## seg-0055 / 00:37:43-00:38:44 / SPEAKER_01
+## seg-0055 / 00:37:49-00:38:44 / SPEAKER_01
 
-gold or silver the normal way you're probably paying by a lot. And that's because most retail dealers quietly tack on these huge markups, sometimes 10%, sometimes 20%, sometimes even 30%. And you don't even notice it. It's like paying $115 for a hundred dollar bill. It doesn't make sense, right? So that's why I've been using the Bullion Standard Pro. It's a membership that basically lets you buy precious metals at real wholesale prices, the same prices that dealers get. So no inflated premiums, no middleman games, their platform updates every five seconds straight from mints and distributors. So what you see is literally the real market. And here's the crazy part. If you buy something like this gold American Eagle, here's the amount of money you're going to be saving at the time of this recording, at least. So it basically pays for itself multiple folds on many occasions, depending on what you buy. But if you want
+And that's because most retail dealers quietly tack on these huge markups, sometimes 10%, sometimes 20%, sometimes even 30%. And you don't even notice it. It's like paying $115 for a hundred dollar bill. It doesn't make sense, right? So that's why I've been using the Bullion Standard Pro. It's a membership that basically lets you buy precious metals at real wholesale prices, the same prices that dealers get. So no inflated premiums, no middleman games, their platform updates every five seconds straight from mints and distributors. So what you see is literally the real market. And here's the crazy part. If you buy something like this gold American Eagle, here's the amount of money you're going to be saving at the time of this recording, at least. So it basically pays for itself multiple folds on many occasions, depending on what you buy. But if you want
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0055
 
@@ -344,51 +344,51 @@ Yeah. What I think we're witnessing right now is the optics of we're about to go
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0057
 
-## seg-0058 / 00:40:27-00:41:24 / SPEAKER_02
+## seg-0058 / 00:40:27-00:41:25 / SPEAKER_02
 
-now is historically the West has used Turkey, Iran, and Qatar to fund proxies to destabilize the region. And then obviously Israel and Iran enemy is the narrative. And then obviously Israel and Iran enemy is the narrative. What we're seeing, right now, is I think Iran has stepped back. They've abandoned the proxies. Qatar was the one that was funding Hamas for the last 10 years. Qatar is an ally of America with the largest Western base. And so the proxies right now are gaining territory for various factions of power, which is Turkey, which is the Gulf countries, which is Western financial interest. And everyone in a coordinated fashion is using the proxies to destabilize the region. And so the proxies are using the proxies to destabilize the region. And everyone in a coordinated fashion, just like I think Venezuela, was coordinated with Chinese powers, Russian powers, American powers, and various other factions of power. And they're all
+now is historically the West has used Turkey, Iran, and Qatar to fund proxies to destabilize the region. And then obviously Israel and Iran enemy is the narrative. And then obviously Israel and Iran enemy is the narrative. What we're seeing, right now, is I think Iran has stepped back. They've abandoned the proxies. Qatar was the one that was funding Hamas for the last 10 years. Qatar is an ally of America with the largest Western base. And so the proxies right now are gaining territory for various factions of power, which is Turkey, which is the Gulf countries, which is Western financial interest. And everyone in a coordinated fashion is using the proxies to destabilize the region. And so the proxies are using the proxies to destabilize the region. And everyone in a coordinated fashion, just like I think Venezuela, was coordinated with Chinese powers, Russian powers, American powers, and various other factions of power. And they're all being resolved one by one.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0058
 
-## seg-0059 / 00:41:24-00:42:27 / SPEAKER_02
+## seg-0059 / 00:41:25-00:42:27 / SPEAKER_02
 
-being resolved one by one. So all of the proxies right now, they either integrate, get eliminated, or they serve the interests that they've been paid to serve at the moment. And so in the case of Yemen, you've got the Houthis, which have historically been funded via Haitian promotion by thebuds, right? Then that added up hands Iran. You then got Saudi and UAE that had interest. And Saudi and UAE, they historically pay good cop, bad cop. And so what I think we're witnessing is just like the 12 -day war, we're getting a bit of theater where Saudi will end up the main power over Yemen. And then at the same time, you had Israel recognizing Somaliland. Somaliland is dominated by UAE investment. And so in that particular case, Israel recognizing it supported UAE interests at the same time as Yemen escalating. And then at the same time, Turkey, which is mainly representing many of the Syrian
+So all of the proxies right now, they either integrate, get eliminated, or they serve the interests that they've been paid to serve at the moment. And so in the case of Yemen, you've got the Houthis, which have historically been funded via Haitian promotion by thebuds, right? Then that added up hands Iran. You then got Saudi and UAE that had interest. And Saudi and UAE, they historically pay good cop, bad cop. And so what I think we're witnessing is just like the 12 -day war, we're getting a bit of theater where Saudi will end up the main power over Yemen. And then at the same time, you had Israel recognizing Somaliland. Somaliland is dominated by UAE investment. And so in that particular case, Israel recognizing it supported UAE interests at the same time as Yemen escalating. And then at the same time, Turkey, which is mainly representing many of the Syrian
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0059
 
-## seg-0060 / 00:42:27-00:43:28 / SPEAKER_02
+## seg-0060 / 00:42:27-00:43:29 / SPEAKER_02
 
-interests, as well as the Israel and Kurds that represent Western financial powers, big oil and various other interests, Turkey got Somalia. At the same time in the West, you had all this controversy with Somalia. And so all this to say is that Turkey's interest in Somalia, UAE's interest in Somaliland, Saudi Arabian interest in Yemen, Iran is engaging in, I believe, shedding some of its IRGC hardliners and all of the proxies are being eliminated and integrated because the Gulf countries and the Western financial industry are not interested in Somalia. And so all this to say is that Turkey's interest in Somaliland is engaged in the internal conflict with Saudi Arabia. And so that is it's going to be a real conflict. The Western are using Israel gain as much land as possible, give us as much leverage, so that when we're negotiating Syria, we're negotiating Yemen, we're negotiating Lebanon, we have as much power as possible
+interests, as well as the Israel and Kurds that represent Western financial powers, big oil and various other interests, Turkey got Somalia. At the same time in the West, you had all this controversy with Somalia. And so all this to say is that Turkey's interest in Somalia, UAE's interest in Somaliland, Saudi Arabian interest in Yemen, Iran is engaging in, I believe, shedding some of its IRGC hardliners and all of the proxies are being eliminated and integrated because the Gulf countries and the Western financial industry are not interested in Somalia. And so all this to say is that Turkey's interest in Somaliland is engaged in the internal conflict with Saudi Arabia. And so that is it's going to be a real conflict. The Western are using Israel gain as much land as possible, give us as much leverage, so that when we're negotiating Syria, we're negotiating Yemen, we're negotiating Lebanon, we have as much power as possible to get the best terms.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0060
 
-## seg-0061 / 00:43:28-00:43:50 / SPEAKER_02
+## seg-0061 / 00:43:30-00:43:52 / SPEAKER_02
 
-to get the best terms. And all of the regions are being divvied up. Now, the Middle East, the strategy is regional stability, because essentially China normalized between Iran and Saudi Arabia. So you've got the West using Israel to get the best terms. Arabia. So you're getting the shedding of all the proxies. Professor Jang, I want to ask you
+And all of the regions are being divvied up. Now, the Middle East, the strategy is regional stability, because essentially China normalized between Iran and Saudi Arabia. So you've got the West using Israel to get the best terms. Arabia. So you're getting the shedding of all the proxies. Professor Jang, I want to ask you a similar question as well.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0061
 
-## seg-0062 / 00:43:50-00:44:31 / SPEAKER_01
+## seg-0062 / 00:43:52-00:44:31 / SPEAKER_01
 
-a similar question as well. Where do you see the fate of the Middle East heading, at least in the media term? It looks like things are coming to a head pretty soon between Iran and Israel. The internet went out yesterday. The phone lines have been cut off in the protests. I don't know what to make of these protests. I don't know how legit they are. We're in the fog of war. It's all PSYOP and I'm sure there's CIA and Mossad deeply embedded within these protests as they found using Starlink and so forth. But do you see this as the grand finale between the Israeli -Iranian conflict here? Is this coming to a head here pretty soon?
+Where do you see the fate of the Middle East heading, at least in the media term? It looks like things are coming to a head pretty soon between Iran and Israel. The internet went out yesterday. The phone lines have been cut off in the protests. I don't know what to make of these protests. I don't know how legit they are. We're in the fog of war. It's all PSYOP and I'm sure there's CIA and Mossad deeply embedded within these protests as they found using Starlink and so forth. But do you see this as the grand finale between the Israeli -Iranian conflict here? Is this coming to a head here pretty soon?
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0062
 
-## seg-0063 / 00:44:32-00:45:28 / SPEAKER_00
+## seg-0063 / 00:44:32-00:45:29 / SPEAKER_00
 
-So what we're seeing in Iran is a classic color revolution playbook, right? Where you flood information space, you control information space. Where you infiltrate Iran, you co -opt criminal networks, ethnic minorities, as many different groups as possible. You embed Mossad agents. There are Mossad agents on the ground right now. There are US special forces on the ground right now because we know this because police officers are being shot. Iranian police officers are being shot. But the last step to the color revolution, which is most pivotal, is your capacity to co -opt the security services, right? So if you're in Iran, you're going to have to go to the security services. But in Nepal, the security services were bribed and they sort of just disappeared. So that's the question. How loyal is the Revolutionary Guard Corps to the regime? And I think they're very loyal. So I think at the end of the day, there'll be
+So what we're seeing in Iran is a classic color revolution playbook, right? Where you flood information space, you control information space. Where you infiltrate Iran, you co -opt criminal networks, ethnic minorities, as many different groups as possible. You embed Mossad agents. There are Mossad agents on the ground right now. There are US special forces on the ground right now because we know this because police officers are being shot. Iranian police officers are being shot. But the last step to the color revolution, which is most pivotal, is your capacity to co -opt the security services, right? So if you're in Iran, you're going to have to go to the security services. But in Nepal, the security services were bribed and they sort of just disappeared. So that's the question. How loyal is the Revolutionary Guard Corps to the regime? And I think they're very loyal. So I think at the end of the day, there'll be a lot of bloodshed.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0063
 
-## seg-0064 / 00:45:28-00:46:38 / SPEAKER_00
+## seg-0064 / 00:45:30-00:46:40 / SPEAKER_00
 
-a lot of bloodshed. Israel might intervene with Arab campaigns, but the regime will still stand. So the big question is what's going to happen in Iran? If Simon's theory is correct, then I think what will happen is that, as Simon points out, these factions that are opposed to the rise of the GCC, they will be eliminated and leaving behind a regime that is very much cooperative. But if the war becomes very nasty and it draws in US ground troops, then the entire Middle East could be on fire, right? Because at the end of the day, the GCC, it's just an... oil field. And Iran has basically developed its arsenal to destroy the GCC. It has drones, it has ballistic missiles, it has proxies, the Houthis, Hezbollah that are still standing. And if the GCC were to enter in a conflict with Iran, then Iran could very quickly wipe out the GCC. So I'm not sure
+Israel might intervene with Arab campaigns, but the regime will still stand. So the big question is what's going to happen in Iran? If Simon's theory is correct, then I think what will happen is that, as Simon points out, these factions that are opposed to the rise of the GCC, they will be eliminated and leaving behind a regime that is very much cooperative. But if the war becomes very nasty and it draws in US ground troops, then the entire Middle East could be on fire, right? Because at the end of the day, the GCC, it's just an... oil field. And Iran has basically developed its arsenal to destroy the GCC. It has drones, it has ballistic missiles, it has proxies, the Houthis, Hezbollah that are still standing. And if the GCC were to enter in a conflict with Iran, then Iran could very quickly wipe out the GCC. So I'm not sure how much of this is theater, how much of this is coordinated.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0064
 
-## seg-0065 / 00:46:38-00:46:48 / SPEAKER_00
+## seg-0065 / 00:46:40-00:46:48 / SPEAKER_00
 
-how much of this is theater, how much of this is coordinated. Because if things go sideways, then it's going to be a lot of conflict. And if the GCC were to enter in a conflict, then it's going to be a lot of conflict. And if the GCC were to enter in a conflict, then Saudi Arabia, UAE, Qatar could find themselves in a lot of trouble.
+Because if things go sideways, then it's going to be a lot of conflict. And if the GCC were to enter in a conflict, then it's going to be a lot of conflict. And if the GCC were to enter in a conflict, then Saudi Arabia, UAE, Qatar could find themselves in a lot of trouble.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0065
 
@@ -406,13 +406,13 @@ Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0067
 
 ## seg-0068 / 00:48:22-00:49:28 / SPEAKER_00
 
-Russia would just allow Iran to fall without much of a struggle, I mean, I find that hard to believe. I mean, basically, if Iran falls, the American empire has won. It now controls the world. It controls the oceans with its navy. And now it controls the continent, Eurasia, because it controls the pivot point, Iran. It's able to control all global trade. But if Iran were to survive, then that's a threat to the US empire, because now what Russia, China, and Iran can do is build a railway network, Belt and Road, North -South Corridor, whatever you call it, that would preclude the United States. So Iran really is the pivotal question. And I don't think that Iran is as fragile as people believe it to be. Iran is a huge, huge country. You have lots and lots of different ethnic minorities. There are lots of areas that Iran doesn't even bother governing, because really, there's no
+Russia would just allow Iran to fall without much of a struggle, I mean, I find that hard to believe. I mean, basically, if Iran falls, the American empire has won. It now controls the world. It controls the oceans with its navy. And now it controls the continent, Eurasia, because it controls the pivot point, Iran. It's able to control all global trade. But if Iran were to survive, then that's a threat to the US empire, because now what Russia, China, and Iran can do is build a railway network, Belt and Road, North -South Corridor, whatever you call it, that would preclude the United States. So Iran really is the pivotal question. And I don't think that Iran is as fragile as people believe it to be. Iran is a huge, huge country. You have lots and lots of different ethnic minorities. There are lots of areas that Iran doesn't even bother governing, because really, there's no point.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0068
 
 ## seg-0069 / 00:49:28-00:49:56 / SPEAKER_00
 
-point. So if Mossad is able to infiltrate these areas and establish bases, then Iran would accept that. Remember, during the 12 -Day War, Mossad was able to establish bases inside Tehran. It had these apartments, which were these drill making facilities. So yeah, I think it's easy for Mossad to infiltrate Iran. The problem is that does it have the capacity to actually engage in a sustainable war against Iran and survive?
+So if Mossad is able to infiltrate these areas and establish bases, then Iran would accept that. Remember, during the 12 -Day War, Mossad was able to establish bases inside Tehran. It had these apartments, which were these drill making facilities. So yeah, I think it's easy for Mossad to infiltrate Iran. The problem is that does it have the capacity to actually engage in a sustainable war against Iran and survive?
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0069
 
@@ -434,81 +434,81 @@ but has strategic leverage points and choke points which is utilizing right now 
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0072
 
-## seg-0073 / 00:52:59-00:54:11 / SPEAKER_02
+## seg-0073 / 00:52:59-00:54:20 / SPEAKER_02
 
-same thing which required changing what israel and iran do and so now you're witnessing operations to change what israel and iran do and at the end of any tit for tat that we're about to see which won't be iraq you know it won't lead to iraq full -blown war it will just lead to weakening of iran and israel um ira israel will be burdened with debt as a result of this which is their debt to gdp went up significantly that creates dependency where later you can acquire assets bankruptcies. Basically, the Red Sea was shut down. That's causing financial distress in the economy. And essentially, Iran has a very strategic point with the Strait of Hormuz. Now, that is effectively what these different choke points in this new multipolar world is what's being negotiated. And so by having a war that looks like we're about to go to World War III, but is highly coordinated, essentially,
+same thing which required changing what israel and iran do and so now you're witnessing operations to change what israel and iran do and at the end of any tit for tat that we're about to see which won't be iraq you know it won't lead to iraq full -blown war it will just lead to weakening of iran and israel um ira israel will be burdened with debt as a result of this which is their debt to gdp went up significantly that creates dependency where later you can acquire assets bankruptcies. Basically, the Red Sea was shut down. That's causing financial distress in the economy. And essentially, Iran has a very strategic point with the Strait of Hormuz. Now, that is effectively what these different choke points in this new multipolar world is what's being negotiated. And so by having a war that looks like we're about to go to World War III, but is highly coordinated, essentially, Iran is outsourcing factions of its trimming of IRGC hardliners to Israel.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0073
 
-## seg-0074 / 00:54:11-00:55:32 / SPEAKER_02
+## seg-0074 / 00:54:20-00:55:35 / SPEAKER_02
 
-Iran is outsourcing factions of its trimming of IRGC hardliners to Israel. Israel is going to suffer the debt burden. Israel is going to be weaker financially at the end of it. But all are cooperating with the greater powers because Israel has changed its role, which is rather than being military industrial complex destabilization campaign, is moved towards get as much leverage for the financial industrial complex while we negotiate regional stability. And so Israel works for the banks, where historically it worked for Lockheed Martin before. Iran is cooperating with transnational capital. It is shedding. It's proxies. And in order to achieve that, I don't think this was all coordinated. I do think there was a currency war waged through sanctions, currency manipulation by transnational capital that created an inflationary cycle, severe economic distress for many. And also, they had to prop up much of their power through corruption. And so combining corruption with currency crash, with inflation,
+Israel is going to suffer the debt burden. Israel is going to be weaker financially at the end of it. But all are cooperating with the greater powers because Israel has changed its role, which is rather than being military industrial complex destabilization campaign, is moved towards get as much leverage for the financial industrial complex while we negotiate regional stability. And so Israel works for the banks, where historically it worked for Lockheed Martin before. Iran is cooperating with transnational capital. It is shedding. It's proxies. And in order to achieve that, I don't think this was all coordinated. I do think there was a currency war waged through sanctions, currency manipulation by transnational capital that created an inflationary cycle, severe economic distress for many. And also, they had to prop up much of their power through corruption. And so combining corruption with currency crash, with inflation, then you have an organic bottom up.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0074
 
-## seg-0075 / 00:55:32-00:56:41 / SPEAKER_02
+## seg-0075 / 00:55:35-00:56:45 / SPEAKER_02
 
-then you have an organic bottom up. And then you also have the co -opting through the traditional color revolution. But to me, the greater powers in Iran, they are cooperating. And I think this is part of the cooperation. So I think it will remain internal. They are cooperating with China, cooperating with transnational capital, shedding its proxies. And everybody is on the same page, that there will be regional stability in the Middle East, because that's what's needed to usher in all this vast energy, vast artificial intelligence, vast robotics infrastructure. And the China and American power leading up to their meeting in April have already decided what the world looks like. We're not witnessing chaos. We're witnessing splitting up the world as greater powers have already agreed. And Trump was installed to execute this. He's not Trump's tariff policy, it was BlackRock's policy to split the world up. Trump looks like he's making all these spontaneous decisions,
+And then you also have the co -opting through the traditional color revolution. But to me, the greater powers in Iran, they are cooperating. And I think this is part of the cooperation. So I think it will remain internal. They are cooperating with China, cooperating with transnational capital, shedding its proxies. And everybody is on the same page, that there will be regional stability in the Middle East, because that's what's needed to usher in all this vast energy, vast artificial intelligence, vast robotics infrastructure. And the China and American power leading up to their meeting in April have already decided what the world looks like. We're not witnessing chaos. We're witnessing splitting up the world as greater powers have already agreed. And Trump was installed to execute this. He's not Trump's tariff policy, it was BlackRock's policy to split the world up. Trump looks like he's making all these spontaneous decisions, but he's fully subordinate to the financial industrial complex.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0075
 
-## seg-0076 / 00:56:41-00:57:07 / SPEAKER_02
+## seg-0076 / 00:56:45-00:57:07 / SPEAKER_02
 
-but he's fully subordinate to the financial industrial complex. Every policy that Trump does has helped this transnational capital and the private sector is becoming more and more power. and the state is becoming more and more burdened with debt. So Trump represents that interest. There's mass coordination here. And I think it's just, we're witnessing the execution.
+Every policy that Trump does has helped this transnational capital and the private sector is becoming more and more power. and the state is becoming more and more burdened with debt. So Trump represents that interest. There's mass coordination here. And I think it's just, we're witnessing the execution.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0076
 
-## seg-0077 / 00:57:08-00:58:03 / SPEAKER_01
+## seg-0077 / 00:57:08-00:58:04 / SPEAKER_01
 
-Professor, I'm going to ask you the same question. Is there a grand bargain here? Not the same question, but I'm going to piggyback off of the point that Simon is making. Is there a grand bargain here at play, secretly under the table? Because when President Trump or the U.S. military kidnapped Maduro, there wasn't really any pushback, any at all, from China and Russia. We just seized one of their oil tankers, a Russian oil tanker, just a few days ago. No pushback from the Russians. They did launch a Resnick's into Ukraine, into Lviv, though, pretty heavily. But yesterday, Trump was being interviewed, and they asked him, one of the reporters asked him about, about Taiwan. And they asked him if China was looking to take Taiwan soon. And President Trump replied back by saying, well, that's really up to President Xi, whether he wants to or not. And if he does, then I just won't
+Professor, I'm going to ask you the same question. Is there a grand bargain here? Not the same question, but I'm going to piggyback off of the point that Simon is making. Is there a grand bargain here at play, secretly under the table? Because when President Trump or the U.S. military kidnapped Maduro, there wasn't really any pushback, any at all, from China and Russia. We just seized one of their oil tankers, a Russian oil tanker, just a few days ago. No pushback from the Russians. They did launch a Resnick's into Ukraine, into Lviv, though, pretty heavily. But yesterday, Trump was being interviewed, and they asked him, one of the reporters asked him about, about Taiwan. And they asked him if China was looking to take Taiwan soon. And President Trump replied back by saying, well, that's really up to President Xi, whether he wants to or not. And if he does, then I just won't be happy about it.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0077
 
-## seg-0078 / 00:58:03-00:58:21 / SPEAKER_01
+## seg-0078 / 00:58:04-00:58:21 / SPEAKER_01
 
-be happy about it. So it looks like a wink and a nudge to China to just go for it. It seems like a deal may have been made. The U.S. takes Venezuela. China takes Taiwan. Maybe even Russia takes Ukraine. Do you see a grand bargain? Are there signs of a grand bargain here? Are there signs of a grand bargain?
+So it looks like a wink and a nudge to China to just go for it. It seems like a deal may have been made. The U.S. takes Venezuela. China takes Taiwan. Maybe even Russia takes Ukraine. Do you see a grand bargain? Are there signs of a grand bargain here? Are there signs of a grand bargain?
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0078
 
-## seg-0079 / 00:58:22-00:59:31 / SPEAKER_00
+## seg-0079 / 00:58:22-00:59:32 / SPEAKER_00
 
-Right. So let's assume there is a grand bargain where Russia and China respect the Monroe Doctrine, and Trump controls the entire Western Hemisphere. He takes over Canada. He takes over Ukraine. Okay. That's what's in the Hemisphere. Russia is allowed to steamroll Europe and Ukraine, and it absorbs Ukraine back into Russia. Right? China is allowed to take Taiwan. Okay. This sounds great in theory, but let's look at what happens in practice. The Japanese Prime Minister Takeuchi has said that Taiwan is considered a Japanese strategic interest. What does she mean by that? What she meant by that is that if Taiwan were to be reabsorbed back into China, then China could embargo Japan. Japan depends on most of its oil from the Middle East. It goes through the Strait of Malacca. And so if Taiwan were to be absorbed back into China, China can now just blockade Japan and destroy the Japanese economy. Is Japan going to
+Right. So let's assume there is a grand bargain where Russia and China respect the Monroe Doctrine, and Trump controls the entire Western Hemisphere. He takes over Canada. He takes over Ukraine. Okay. That's what's in the Hemisphere. Russia is allowed to steamroll Europe and Ukraine, and it absorbs Ukraine back into Russia. Right? China is allowed to take Taiwan. Okay. This sounds great in theory, but let's look at what happens in practice. The Japanese Prime Minister Takeuchi has said that Taiwan is considered a Japanese strategic interest. What does she mean by that? What she meant by that is that if Taiwan were to be reabsorbed back into China, then China could embargo Japan. Japan depends on most of its oil from the Middle East. It goes through the Strait of Malacca. And so if Taiwan were to be absorbed back into China, China can now just blockade Japan and destroy the Japanese economy. Is Japan going to take that chance?
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0079
 
-## seg-0080 / 00:59:31-01:00:34 / SPEAKER_00
+## seg-0080 / 00:59:32-01:00:38 / SPEAKER_00
 
-take that chance? Probably not. So if there's any possibility that China and Taiwan were to sign a re -unification agreement, I guarantee that Japan would invade. Right. So there would be no choice in the matter. If Taiwan were to be returned to China, Japan would face an existential crisis. And the same would be true if Taiwan were to be part of a Japanese alliance. So what Trump is really saying to both Japan and China is, you guys need me. I don't need you guys. Okay. China is going to invade Taiwan? Go ahead, man. It's what happens to you. Okay. So. So the idea that the United States is going to cede any part of its empire, that it's going to just retreat to the Western Hemisphere is just nonsense. If you look at the National Security Strategy, it's very explicit that the Western Hemisphere belongs to America. It doesn't care about Europe anymore. And it
+Probably not. So if there's any possibility that China and Taiwan were to sign a re -unification agreement, I guarantee that Japan would invade. Right. So there would be no choice in the matter. If Taiwan were to be returned to China, Japan would face an existential crisis. And the same would be true if Taiwan were to be part of a Japanese alliance. So what Trump is really saying to both Japan and China is, you guys need me. I don't need you guys. Okay. China is going to invade Taiwan? Go ahead, man. It's what happens to you. Okay. So. So the idea that the United States is going to cede any part of its empire, that it's going to just retreat to the Western Hemisphere is just nonsense. If you look at the National Security Strategy, it's very explicit that the Western Hemisphere belongs to America. It doesn't care about Europe anymore. And it will challenge China in Africa.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0080
 
-## seg-0081 / 01:00:34-01:01:34 / SPEAKER_00
+## seg-0081 / 01:00:38-01:01:34 / SPEAKER_00
 
-will challenge China in Africa. And it will work with its allies to contain China in East Asia. Okay. So rather than the United States takes the pivotal role in East Asia, let Japan do it. Because Japan has actually no choice in the matter. So there's no grand bargain here. It's just pure power politics. And what we're seeing right now is a complete collapse of the national system where it's every man for himself. You know, the idea that you have these alliances still around aren't going to hold. I mean, it's possible today, China is with the United States. It's tomorrow, Japan and China get together and attack the United States. Okay. Anything is possible now. It's all up in the air because right now there's this great rush for resources, especially oil and water. And if you don't plan ahead for the next 10, 20 years, your people could starve. And that's a crisis facing the
+And it will work with its allies to contain China in East Asia. Okay. So rather than the United States takes the pivotal role in East Asia, let Japan do it. Because Japan has actually no choice in the matter. So there's no grand bargain here. It's just pure power politics. And what we're seeing right now is a complete collapse of the national system where it's every man for himself. You know, the idea that you have these alliances still around aren't going to hold. I mean, it's possible today, China is with the United States. It's tomorrow, Japan and China get together and attack the United States. Okay. Anything is possible now. It's all up in the air because right now there's this great rush for resources, especially oil and water. And if you don't plan ahead for the next 10, 20 years, your people could starve. And that's a crisis facing the entire world.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0081
 
-## seg-0082 / 01:01:34-01:01:55 / SPEAKER_00
+## seg-0082 / 01:01:36-01:01:55 / SPEAKER_00
 
-entire world. I mean, like Simon's idea makes a bit of a sense, but I want to ask him this question. Okay. And it's really important question for me. What happens if the Al -Aqsa Mosque is destroyed in the next two years? What would happen to the Middle East if that would happen?
+I mean, like Simon's idea makes a bit of a sense, but I want to ask him this question. Okay. And it's really important question for me. What happens if the Al -Aqsa Mosque is destroyed in the next two years? What would happen to the Middle East if that would happen?
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0082
 
-## seg-0083 / 01:01:57-01:03:06 / SPEAKER_02
+## seg-0083 / 01:01:57-01:03:12 / SPEAKER_02
 
-That's a great question. Shall I finish off the China thread and then we'll go to that and then we'll go to Venezuela. So just so we can move on from the China one. So I don't believe that China will hostile. Take Taiwan. It only works. They're happy with strategic ambiguity. Status quo is what they want. And if there were a unification, it would have to be because Taiwanese leadership was either regime changed or wanted it or something like that. But I do believe that the West wants the world to think that it's about to happen so it can sell more weapons to Taiwan, Japan and the Philippines. But then you've got to look at what the tariff policy is. The tariff policy was a reset of everyone's relationship. And so since the tariff policy, we've essentially seen strategic theatrical divorces all around the world. And what we're now seeing is that ever since Liberation Day,
+That's a great question. Shall I finish off the China thread and then we'll go to that and then we'll go to Venezuela. So just so we can move on from the China one. So I don't believe that China will hostile. Take Taiwan. It only works. They're happy with strategic ambiguity. Status quo is what they want. And if there were a unification, it would have to be because Taiwanese leadership was either regime changed or wanted it or something like that. But I do believe that the West wants the world to think that it's about to happen so it can sell more weapons to Taiwan, Japan and the Philippines. But then you've got to look at what the tariff policy is. The tariff policy was a reset of everyone's relationship. And so since the tariff policy, we've essentially seen strategic theatrical divorces all around the world. And what we're now seeing is that ever since Liberation Day, April the 2nd, when Trump launched, he said, we're going to liberate.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0083
 
-## seg-0084 / 01:03:06-01:04:15 / SPEAKER_02
+## seg-0084 / 01:03:13-01:04:21 / SPEAKER_02
 
-April the 2nd, when Trump launched, he said, we're going to liberate. Essentially, he liberated the world from the dollar. So the dollar lost 11 percent of its value in 2025, which historically is significant because currencies like Hong Kong and Saudi and many others that peg to the dollar, they now have to sell their treasuries and they have to sell their gold to maintain the peg. They're not going to do that forever. They're not going to drain their gold reserves. But they are going to sell their treasuries. And so now we've had an exodus. So the largest lender to the US government primarily is Cayman Islands, which just means BlackRock effectively, because it's not Cayman Islands as a sovereign nation. Then it is UK who's suffering, will suffering austerity, potential IMF bailout, real estate correction, UK full subordination to BlackRock and Blackstone. There are $ resurrection, financial interests. So it will need to sell those or
+Essentially, he liberated the world from the dollar. So the dollar lost 11 percent of its value in 2025, which historically is significant because currencies like Hong Kong and Saudi and many others that peg to the dollar, they now have to sell their treasuries and they have to sell their gold to maintain the peg. They're not going to do that forever. They're not going to drain their gold reserves. But they are going to sell their treasuries. And so now we've had an exodus. So the largest lender to the US government primarily is Cayman Islands, which just means BlackRock effectively, because it's not Cayman Islands as a sovereign nation. Then it is UK who's suffering, will suffering austerity, potential IMF bailout, real estate correction, UK full subordination to BlackRock and Blackstone. There are $ resurrection, financial interests. So it will need to sell those or maybe it's just so subordinate, you can't even make a sovereign decision at the moment.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0084
 
-## seg-0085 / 01:04:15-01:05:15 / SPEAKER_02
+## seg-0085 / 01:04:22-01:05:15 / SPEAKER_02
 
-maybe it's just so subordinate, you can't even make a sovereign decision at the moment. And then you've got Japan, Japan has been selling their treasuries, and then we had the breaking of many pillars that prop up the dollar. So you had the petrol dollar being strategically weakened with the petro -yuan. You had the breaking of the peg by weakening the currency. you had central banks all around the world buying gold you had the silver operation where silver essentially did a bit of an embargo i'm sorry china essentially did a bit of an embargo even though that was a long -term strategic plan um and at the same time japan started hiking its rates for the first time and that breaks the japan carry trade so why is cayman island the number one lender to the us government because it borrows those uh from the bank of japan at zero percent and it creates derivatives to
+And then you've got Japan, Japan has been selling their treasuries, and then we had the breaking of many pillars that prop up the dollar. So you had the petrol dollar being strategically weakened with the petro -yuan. You had the breaking of the peg by weakening the currency. you had central banks all around the world buying gold you had the silver operation where silver essentially did a bit of an embargo i'm sorry china essentially did a bit of an embargo even though that was a long -term strategic plan um and at the same time japan started hiking its rates for the first time and that breaks the japan carry trade so why is cayman island the number one lender to the us government because it borrows those uh from the bank of japan at zero percent and it creates derivatives to
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0085
 
@@ -518,15 +518,15 @@ hedge out the risks and so the japan carry trade is now being strategically weak
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0086
 
-## seg-0087 / 01:06:22-01:07:22 / SPEAKER_02
+## seg-0087 / 01:06:22-01:07:24 / SPEAKER_02
 
-weaker and weaker and weaker it means that american exports get cheaper and cheaper and cheaper now what's going to happen in america at the same time well they're not going to rebuild their manufacturing business they're not going to build their manufacturing business they're not going to demусов based they're going to rebuild their ai and robotic space so there'll be lots of unemployment and various other things um now uh so i believe that china and america already reached the deal um it was before trump and trump was installed to implement tariff policies to execute that then leads to a series of theatrical wars that shed all the proxies resolve the issues russia gets half a ukraine blah blah blah blah blah blah BlackRock gets the rest. Europe is sacrificed and goes into austerity and distressed acquisition of all assets. The military gets to make up for additional profits. The ECB and the Bank of England get
+weaker and weaker and weaker it means that american exports get cheaper and cheaper and cheaper now what's going to happen in america at the same time well they're not going to rebuild their manufacturing business they're not going to build their manufacturing business they're not going to demусов based they're going to rebuild their ai and robotic space so there'll be lots of unemployment and various other things um now uh so i believe that china and america already reached the deal um it was before trump and trump was installed to implement tariff policies to execute that then leads to a series of theatrical wars that shed all the proxies resolve the issues russia gets half a ukraine blah blah blah blah blah blah BlackRock gets the rest. Europe is sacrificed and goes into austerity and distressed acquisition of all assets. The military gets to make up for additional profits. The ECB and the Bank of England get to print another trillion dollars.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0087
 
-## seg-0088 / 01:07:22-01:07:58 / SPEAKER_02
+## seg-0088 / 01:07:24-01:07:58 / SPEAKER_02
 
-to print another trillion dollars. It props up the US stock market and we get mass extraction of resources in the West and the transnational capital gets all of those deals and financially aligns these strategic blocks. So I don't think you'll get escalation within Taiwan that leads to economic chaos for absolutely everybody. There's no interest in that. I don't know if you want to comment back on that and then we can go back to Al -Aqsa Mosque in Venezuela.
+It props up the US stock market and we get mass extraction of resources in the West and the transnational capital gets all of those deals and financially aligns these strategic blocks. So I don't think you'll get escalation within Taiwan that leads to economic chaos for absolutely everybody. There's no interest in that. I don't know if you want to comment back on that and then we can go back to Al -Aqsa Mosque in Venezuela.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0088
 
@@ -632,15 +632,15 @@ therefore through these blackmail networks, no one can default from the power an
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0105
 
-## seg-0106 / 01:19:22-01:20:26 / SPEAKER_02
+## seg-0106 / 01:19:22-01:20:30 / SPEAKER_02
 
-country and I don't think it's run by ideologues that want to bring back the Messiah and are motivated by religion. So what I think they're doing is they're creating a mechanism to make those that believe into the end of time prophecies in both evangelical Christianity, Judaism and Islam they're really, reenacting it so that they can galvanize an army to make it look like we're reaching an end of time prophecy which is a recruitment tool for the various factions of power and army to create a divide and conquer strategy. And so if you're right and Israel rules the world then they will bring in the end of time prophecy but the real power won't be doing it for ideological reasons. It will be doing it to create a divide and conquer between those that believe in those end of time prophecies to create absolute carnage, World War III and usher in maybe a global central bank
+country and I don't think it's run by ideologues that want to bring back the Messiah and are motivated by religion. So what I think they're doing is they're creating a mechanism to make those that believe into the end of time prophecies in both evangelical Christianity, Judaism and Islam they're really, reenacting it so that they can galvanize an army to make it look like we're reaching an end of time prophecy which is a recruitment tool for the various factions of power and army to create a divide and conquer strategy. And so if you're right and Israel rules the world then they will bring in the end of time prophecy but the real power won't be doing it for ideological reasons. It will be doing it to create a divide and conquer between those that believe in those end of time prophecies to create absolute carnage, World War III and usher in maybe a global central bank digital currency powered by AI and social credit scores.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0106
 
-## seg-0107 / 01:20:26-01:20:40 / SPEAKER_02
+## seg-0107 / 01:20:31-01:20:40 / SPEAKER_02
 
-digital currency powered by AI and social credit scores. That's kind of that way or we go into multipolarity and we've got strategic interests. These are the two directions the world's going I think.
+That's kind of that way or we go into multipolarity and we've got strategic interests. These are the two directions the world's going I think.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0107
 
@@ -652,55 +652,55 @@ Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0108
 
 ## seg-0109 / 01:21:29-01:22:16 / SPEAKER_01
 
-is linked in the description box down below if you want to check that out as well as a pinned comment. And every single time, every time, I'm reminded why I've stayed a member for years. Right now they're offering a special $1,000 discount on the Insider subscription but it's only for Capital Cosm viewers so you're only going to get it by clicking the link down below in the description box or the pinned comment. You're not going to find this anywhere else. Click the link, lock it in, and start getting the same game -changing research I've been using since 2020. Professor Jang, I want to ask you a question, and I think this is where you and Simon may agree on as well, and that is the end of Pax Americana. What we're seeing today in America, you know, we have these protests that are now popping up over this Minnesota killing of this girl by
+is linked in the description box down below if you want to check that out as well as a pinned comment. And every single time, every time, I'm reminded why I've stayed a member for years. Right now they're offering a special $1,000 discount on the Insider subscription but it's only for Capital Cosm viewers so you're only going to get it by clicking the link down below in the description box or the pinned comment. You're not going to find this anywhere else. Click the link, lock it in, and start getting the same game -changing research I've been using since 2020. Professor Jang, I want to ask you a question, and I think this is where you and Simon may agree on as well, and that is the end of Pax Americana. What we're seeing today in America, you know, we have these protests that are now popping up over this Minnesota killing of this girl by ICE.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0109
 
 ## seg-0110 / 01:22:16-01:23:19 / SPEAKER_01
 
-ICE. And last night we had protests erupt in New York, the West Coast, in Minnesota, all over the place. And then you've got the White House pretty much in, you know, you can be pro -ICE, you can be pro deportation, all this stuff, but it was just a very cold response. And they've been very callous about it and everything. It's just, this seems very inhumane over the killing of this lady. And it seems like they're, are they trying to create civil unrest? Is this some sort of dialectic in place? Are they trying to bring about the conditions for martial law? What's going on within, in your view, you know, as a person from the outside looking in, what's going on internally here in the United States? And then, what is this leading to, exactly? It seems like President Trump may be setting himself up to cross the Rubicon in some regard? Are we just out
+And last night we had protests erupt in New York, the West Coast, in Minnesota, all over the place. And then you've got the White House pretty much in, you know, you can be pro -ICE, you can be pro deportation, all this stuff, but it was just a very cold response. And they've been very callous about it and everything. It's just, this seems very inhumane over the killing of this lady. And it seems like they're, are they trying to create civil unrest? Is this some sort of dialectic in place? Are they trying to bring about the conditions for martial law? What's going on within, in your view, you know, as a person from the outside looking in, what's going on internally here in the United States? And then, what is this leading to, exactly? It seems like President Trump may be setting himself up to cross the Rubicon in some regard? Are we just out
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0110
 
 ## seg-0111 / 01:23:19-01:23:20 / SPEAKER_01
 
-of a republic
+of a republic into an empire?
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0111
 
-## seg-0112 / 01:23:20-01:24:21 / SPEAKER_00
+## seg-0112 / 01:23:21-01:24:22 / SPEAKER_00
 
-into an empire? Yep, that's exactly it. So, if you look at empires and how they fall, whether it be the Athenian Empire or the Roman Empire, it's a similar pattern where there's internal chaos where, and there's military interventionism overseas. And this military interventionism creates a demagogue like Julius Caesar, who is able to seize the imagination of the people and then cross the Rubicon and that's what we're seeing right now in America, where, you know, Venezuela, it's really about the display of Delta Force. And, you know, all this rhetoric about war ethics and all that. I think Trump's trying to create a military faction that is loyal to him and to him only. In very much the same way that, you know, when Julius Caesar sent his army to Gaul, Gaul was this great plundering campaign which enriched his soldiers, who were very poor, and made these soldiers fanatically loyal to Julius Caesar, which allowed him
+Yep, that's exactly it. So, if you look at empires and how they fall, whether it be the Athenian Empire or the Roman Empire, it's a similar pattern where there's internal chaos where, and there's military interventionism overseas. And this military interventionism creates a demagogue like Julius Caesar, who is able to seize the imagination of the people and then cross the Rubicon and that's what we're seeing right now in America, where, you know, Venezuela, it's really about the display of Delta Force. And, you know, all this rhetoric about war ethics and all that. I think Trump's trying to create a military faction that is loyal to him and to him only. In very much the same way that, you know, when Julius Caesar sent his army to Gaul, Gaul was this great plundering campaign which enriched his soldiers, who were very poor, and made these soldiers fanatically loyal to Julius Caesar, which allowed him to cross the Rubicon.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0112
 
-## seg-0113 / 01:24:21-01:25:30 / SPEAKER_00
+## seg-0113 / 01:24:22-01:25:36 / SPEAKER_00
 
-to cross the Rubicon. So I think that you'll see Trump using special forces more, especially Delta Force, and that builds loyalty to Trump personally. You'll also see ICE deploy more throughout the United States in order to create all this civil chaos in order to justify the deployment of the National Guard. Remember, there's this plan to deploy the National Guard in all 50 states this year. And, like, this conflict where, you know, ICE agents are battling local residents, that's a perfect pretext for it. I see what happened in Minnesota as a turning point. Something that we should also watch out for over the next few weeks, and I worry about this, is the possibility that Trump pardons Derek Chauvin, who was a police officer who was in prison for basically strangling George Floyd to death, which is what ignited the Black Lives Matter protests during the first Trump term. And why Trump would do that is
+So I think that you'll see Trump using special forces more, especially Delta Force, and that builds loyalty to Trump personally. You'll also see ICE deploy more throughout the United States in order to create all this civil chaos in order to justify the deployment of the National Guard. Remember, there's this plan to deploy the National Guard in all 50 states this year. And, like, this conflict where, you know, ICE agents are battling local residents, that's a perfect pretext for it. I see what happened in Minnesota as a turning point. Something that we should also watch out for over the next few weeks, and I worry about this, is the possibility that Trump pardons Derek Chauvin, who was a police officer who was in prison for basically strangling George Floyd to death, which is what ignited the Black Lives Matter protests during the first Trump term. And why Trump would do that is to basically give his middle finger to the left, right?
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0113
 
-## seg-0114 / 01:25:30-01:26:22 / SPEAKER_00
+## seg-0114 / 01:25:36-01:26:28 / SPEAKER_00
 
-to basically give his middle finger to the left, right? And remember, the George Floyd protests happen in Minnesota as well. So from a theatrical perspective, and Trump loves theatrics, this is something that he would do in order to ignite a civil war. And even if that were to happen, just the... I mean, America right now, it's a powder keg, right? Because you have these ICE agents who are basically a hostile force who've been sent in to kidnap members of community, and these members of community, these local residents, feel besieged by ICE, who are masked, who are not accountable to anyone, and who are above the law. And so maybe in the future, you will see random shootings of ICE agents on the streets. It's very
+And remember, the George Floyd protests happen in Minnesota as well. So from a theatrical perspective, and Trump loves theatrics, this is something that he would do in order to ignite a civil war. And even if that were to happen, just the... I mean, America right now, it's a powder keg, right? Because you have these ICE agents who are basically a hostile force who've been sent in to kidnap members of community, and these members of community, these local residents, feel besieged by ICE, who are masked, who are not accountable to anyone, and who are above the law. And so maybe in the future, you will see random shootings of ICE agents on the streets. It's very odd, Professor, because most people don't know this, but Obama deported 3 million people.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0114
 
-## seg-0115 / 01:26:23-01:26:39 / SPEAKER_01
+## seg-0115 / 01:26:29-01:26:39 / SPEAKER_01
 
-odd, Professor, because most people don't know this, but Obama deported 3 million people. But he didn't make a big stink about it. He kept it a hush -hush. But they're going out of their way to... It's like they're trying to get the left to do something.
+But he didn't make a big stink about it. He kept it a hush -hush. But they're going out of their way to... It's like they're trying to get the left to do something.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0115
 
-## seg-0116 / 01:26:41-01:27:48 / SPEAKER_00
+## seg-0116 / 01:26:41-01:27:49 / SPEAKER_00
 
-Look, at the end of the day, Trump is a king of chaos. And as an executive, if there's chaos, he can impose martial law by deploying the National Guard. He can declare war against other nations. He can... I mean, there's a lot of power when chaos arises. And so Trump thrives in this sort of environment. He loves all this attention. And the word... I mean, if you just look at Trump through the first term and the second term, something that he's very consistent on is he tells law enforcement and his soldiers you have to get rough. Just Google that. Trump saying get rough. And you'll see he's saying this all this time to police officers during the Black Lives Matter protests. And so when you do that, you're creating the conditions for a full -scale civil war. Because people don't like being shot at. People don't like to feel as though they're besieged. This is
+Look, at the end of the day, Trump is a king of chaos. And as an executive, if there's chaos, he can impose martial law by deploying the National Guard. He can declare war against other nations. He can... I mean, there's a lot of power when chaos arises. And so Trump thrives in this sort of environment. He loves all this attention. And the word... I mean, if you just look at Trump through the first term and the second term, something that he's very consistent on is he tells law enforcement and his soldiers you have to get rough. Just Google that. Trump saying get rough. And you'll see he's saying this all this time to police officers during the Black Lives Matter protests. And so when you do that, you're creating the conditions for a full -scale civil war. Because people don't like being shot at. People don't like to feel as though they're besieged. This is why we have the American Revolution.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0116
 
-## seg-0117 / 01:27:48-01:28:34 / SPEAKER_00
+## seg-0117 / 01:27:49-01:28:34 / SPEAKER_00
 
-why we have the American Revolution. So I'm not sure if it's intentional. I'm not sure if it's part of a larger plan, a larger conspiracy to eventually move all the transnational capital to the GCC or wherever. But I think the trend is pretty clear. I think that you will see sustained civil conflict throughout America. And again, this is how empires collapse. And as the economy gets worse and worse, as the violence committed by ICE gets worse and worse, then the civil conflict will just get worse and worse.
+So I'm not sure if it's intentional. I'm not sure if it's part of a larger plan, a larger conspiracy to eventually move all the transnational capital to the GCC or wherever. But I think the trend is pretty clear. I think that you will see sustained civil conflict throughout America. And again, this is how empires collapse. And as the economy gets worse and worse, as the violence committed by ICE gets worse and worse, then the civil conflict will just get worse and worse.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0117
 
@@ -716,39 +716,39 @@ Yeah, so in this essentially the larger operation that I think transnational cap
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0119
 
-## seg-0120 / 01:29:54-01:31:10 / SPEAKER_02
+## seg-0120 / 01:29:54-01:31:14 / SPEAKER_02
 
-of technological power where they make the media irrelevant because they can control humans through algorithm and artificial intelligence. And then they can score everybody and they can essentially take over military through covert operations of cybersecurity and integration into drones and all of their technology is what they beta tested through Israel. They basically did service in Gaza, occupation as a service in West Bank. They did pre -crime in UK where they were arresting people for social media posts. They did open border closed borders immigration policy in Europe. They did crowd control through Palantir controlling Hajj in Saudi Arabia. They did integration into drones in Ukraine. And so their technology was beta tested around the world in order to come back home and build a prison state in the West because they know that civil unrest is how they gain power. They were the net beneficiaries from COVID. They were net beneficiaries from, you know, and so
+of technological power where they make the media irrelevant because they can control humans through algorithm and artificial intelligence. And then they can score everybody and they can essentially take over military through covert operations of cybersecurity and integration into drones and all of their technology is what they beta tested through Israel. They basically did service in Gaza, occupation as a service in West Bank. They did pre -crime in UK where they were arresting people for social media posts. They did open border closed borders immigration policy in Europe. They did crowd control through Palantir controlling Hajj in Saudi Arabia. They did integration into drones in Ukraine. And so their technology was beta tested around the world in order to come back home and build a prison state in the West because they know that civil unrest is how they gain power. They were the net beneficiaries from COVID. They were net beneficiaries from, you know, and so the finance guys were the beneficiaries from the global financial crisis.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0120
 
-## seg-0121 / 01:31:10-01:32:16 / SPEAKER_02
+## seg-0121 / 01:31:14-01:32:17 / SPEAKER_02
 
-the finance guys were the beneficiaries from the global financial crisis. The tech guys were the net beneficiaries from COVID. And at the moment, they're supporting subordinate to finance because they still need access to capital. But if you can recreate control grids, then you can control global capital. You can control military. And so there is a power struggle between the real factions of power that finance might become subordinate to technical control grids. And that's a real power. And so if you look at who Trump represents, he needs to use military narrative in order to make the American factions think America strong. But who does he work for? He works for technical and financial. He was funded by Elon Musk, Bank of New York, Mellon, and then the Israeli side is Maryam Adelson. But his number one backer was Elon. And Elon relies upon Pentagon budgets, deep state integration. He was allowed to buy X by borrowing
+The tech guys were the net beneficiaries from COVID. And at the moment, they're supporting subordinate to finance because they still need access to capital. But if you can recreate control grids, then you can control global capital. You can control military. And so there is a power struggle between the real factions of power that finance might become subordinate to technical control grids. And that's a real power. And so if you look at who Trump represents, he needs to use military narrative in order to make the American factions think America strong. But who does he work for? He works for technical and financial. He was funded by Elon Musk, Bank of New York, Mellon, and then the Israeli side is Maryam Adelson. But his number one backer was Elon. And Elon relies upon Pentagon budgets, deep state integration. He was allowed to buy X by borrowing against his X stock.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0121
 
-## seg-0122 / 01:32:16-01:33:20 / SPEAKER_02
+## seg-0122 / 01:32:17-01:33:22 / SPEAKER_02
 
-against his X stock. He got a loan and he co -invested with Gulf countries. So you can see this power structure and this power grid and internal conflict. And so Trump is doing what he is meant to do. He is weakening the dollar. And all you need to do is look at all his investments. He's got mass debt to the largest bank in China, ICBC. He's building all his Trump towers in UAE, Qatar, Saudi Arabia. He's got affinity with his investors that was funded by MBS and ran by Jared Kushner. Jared Kushner is investing in Israeli settlements, buying many Israeli assets, and also bribing Trump to say that you can get a chunk of Gaza if we can get this two state solution. And so he is satisfying the requirements to move to the next phase of this regional stability, which is what finance wants as well. And so they want to weaken the dollar
+He got a loan and he co -invested with Gulf countries. So you can see this power structure and this power grid and internal conflict. And so Trump is doing what he is meant to do. He is weakening the dollar. And all you need to do is look at all his investments. He's got mass debt to the largest bank in China, ICBC. He's building all his Trump towers in UAE, Qatar, Saudi Arabia. He's got affinity with his investors that was funded by MBS and ran by Jared Kushner. Jared Kushner is investing in Israeli settlements, buying many Israeli assets, and also bribing Trump to say that you can get a chunk of Gaza if we can get this two state solution. And so he is satisfying the requirements to move to the next phase of this regional stability, which is what finance wants as well. And so they want to weaken the dollar to reset the world order.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0122
 
-## seg-0123 / 01:33:20-01:34:24 / SPEAKER_02
+## seg-0123 / 01:33:22-01:34:24 / SPEAKER_02
 
-to reset the world order. Technology wants to take over. And so civil unrest is the perfect way of doing it. All Trump does is he's an agent of chaos because his job is to deconstruct everything that propped up the dollar. When you take out USAID, that was all the covert operations through the National Endowment of Democracy, that propped up the dollar. When you rage war with Japan and they start increasing their interest rates, that's taking away the Bank of Japan carry trade. When you wage war on Europe and start saying they're the crazy you know, then you break the Euro dollar. And when you create peace in the Middle East, you break the Petro dollar. And so Trump is perfectly executing all of that in the narrative of make America great again which is causing the civil unrest that's needed in order to usher in the police state and think of 9 -11 as a
+Technology wants to take over. And so civil unrest is the perfect way of doing it. All Trump does is he's an agent of chaos because his job is to deconstruct everything that propped up the dollar. When you take out USAID, that was all the covert operations through the National Endowment of Democracy, that propped up the dollar. When you rage war with Japan and they start increasing their interest rates, that's taking away the Bank of Japan carry trade. When you wage war on Europe and start saying they're the crazy you know, then you break the Euro dollar. And when you create peace in the Middle East, you break the Petro dollar. And so Trump is perfectly executing all of that in the narrative of make America great again which is causing the civil unrest that's needed in order to usher in the police state and think of 9 -11 as a
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0123
 
-## seg-0124 / 01:34:24-01:35:22 / SPEAKER_02
+## seg-0124 / 01:34:24-01:35:27 / SPEAKER_02
 
-precursor for, you know, the Patriot Act and the wars that they wanted to rage in the Clean Break memo. That's what's happening right now in America. So what they're doing is they're using the algorithms to drive you into the narrative that meets your map of the world. So if you think everything's a Jewish conspiracy, you can go on X, you can go to a space and you can listen to people that will tell you how everything evil in the world is the Jews. If you believe that it's because Qatar is funding and Muslim Brotherhood are terrorists, then you can go into a space and all day they'll tell you how Qatar funding is all this problem and that the Muslims are about and then you get Muslim Brotherhood, they're about to do an invasion via ISIS and Hezbollah and Al Qaeda. Basically, if you want to follow, if you want to go into the Tucker
+precursor for, you know, the Patriot Act and the wars that they wanted to rage in the Clean Break memo. That's what's happening right now in America. So what they're doing is they're using the algorithms to drive you into the narrative that meets your map of the world. So if you think everything's a Jewish conspiracy, you can go on X, you can go to a space and you can listen to people that will tell you how everything evil in the world is the Jews. If you believe that it's because Qatar is funding and Muslim Brotherhood are terrorists, then you can go into a space and all day they'll tell you how Qatar funding is all this problem and that the Muslims are about and then you get Muslim Brotherhood, they're about to do an invasion via ISIS and Hezbollah and Al Qaeda. Basically, if you want to follow, if you want to go into the Tucker Carlson, which is more like the white nationalist Christian male narrative, you can go over there.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0124
 
-## seg-0125 / 01:35:22-01:36:05 / SPEAKER_02
+## seg-0125 / 01:35:28-01:36:05 / SPEAKER_02
 
-Carlson, which is more like the white nationalist Christian male narrative, you can go over there. If you like the female Christian nationalists, then you can go over to Candace Owen. If you're more extreme, you can go over to Nick Fuentes. Basically, they're using algorithms and accelerating people into boxes. So that you get presented with everything that makes you hate the other faction more. Radical left, right, Muslims, Jews, all that stuff. The algorithms are really galvanizing civil unrest because they want to usher in a surveillance state and remove the constitution one step at a time.
+If you like the female Christian nationalists, then you can go over to Candace Owen. If you're more extreme, you can go over to Nick Fuentes. Basically, they're using algorithms and accelerating people into boxes. So that you get presented with everything that makes you hate the other faction more. Radical left, right, Muslims, Jews, all that stuff. The algorithms are really galvanizing civil unrest because they want to usher in a surveillance state and remove the constitution one step at a time.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0125
 
@@ -770,21 +770,21 @@ Just really quick, Simon, this was actually posted by the US Department of Labor
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0128
 
-## seg-0129 / 01:37:53-01:38:57 / SPEAKER_02
+## seg-0129 / 01:37:53-01:38:59 / SPEAKER_02
 
-Trump is really galvanizing the QTards that think that Trump is going to be a wild card and come out. And this is just to normalize when everything is chaos, they're normalizing the Trump cult. And that's why he personally was chosen for this role. Because he has a cult following. He has the QTard psyop. He has the MAGA narrative while the dollar is being weakened. And basically he can switch every narrative into making it look like this is about making America great again. But if you follow all his money, his money is invested in multi -polarity. He's long Bitcoin with his children because he's short the dollar. And so he knows what he's doing. And he is personally, I believe, he's all theatrics and he's the perfect person for the role. And he's doing everything that he needs to do for the tech powers and the financial powers. And making it look like the military are
+Trump is really galvanizing the QTards that think that Trump is going to be a wild card and come out. And this is just to normalize when everything is chaos, they're normalizing the Trump cult. And that's why he personally was chosen for this role. Because he has a cult following. He has the QTard psyop. He has the MAGA narrative while the dollar is being weakened. And basically he can switch every narrative into making it look like this is about making America great again. But if you follow all his money, his money is invested in multi -polarity. He's long Bitcoin with his children because he's short the dollar. And so he knows what he's doing. And he is personally, I believe, he's all theatrics and he's the perfect person for the role. And he's doing everything that he needs to do for the tech powers and the financial powers. And making it look like the military are as powerful as they used to be.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0129
 
-## seg-0130 / 01:38:57-01:40:06 / SPEAKER_02
+## seg-0130 / 01:39:00-01:40:07 / SPEAKER_02
 
-as powerful as they used to be. And Venezuela was the perfect operation to do that. It requires 200 billion to 400 billion dollars of investment to take advantage of Venezuela's oil. Chevron can't do it. They already they were already in Venezuela. And they were already buying, selling oil to China. And Maduro had already agreed that the Venezuelan people and there'd be no Venezuelan sovereign wealth fund. And sanctions were just ensuring that the Venezuelan people and the government couldn't get it. And when Maduro went it's either two things. It's either you agree to this new faction of power that consists of all the powers, Russia, China, and this transnational capital. They agreed what was going to happen. And I don't think there would be much pushback on that. And either Maduro is involved in that and therefore he coordinated and he's going to get a good deal. He'll be very rich. All his financial flows are
+And Venezuela was the perfect operation to do that. It requires 200 billion to 400 billion dollars of investment to take advantage of Venezuela's oil. Chevron can't do it. They already they were already in Venezuela. And they were already buying, selling oil to China. And Maduro had already agreed that the Venezuelan people and there'd be no Venezuelan sovereign wealth fund. And sanctions were just ensuring that the Venezuelan people and the government couldn't get it. And when Maduro went it's either two things. It's either you agree to this new faction of power that consists of all the powers, Russia, China, and this transnational capital. They agreed what was going to happen. And I don't think there would be much pushback on that. And either Maduro is involved in that and therefore he coordinated and he's going to get a good deal. He'll be very rich. All his financial flows are figured out.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0130
 
-## seg-0131 / 01:40:06-01:40:51 / SPEAKER_02
+## seg-0131 / 01:40:07-01:40:51 / SPEAKER_02
 
-figured out. He's got all that Bitcoin and stablecoin wealth from selling the oil via the crypto networks. Or he genuinely didn't consent to what greater powers wanted. And so therefore he was taken out, but under the consent of all regional powers. So this is not confrontational. China, Russia, they would agree to this. And I think they've been negotiating and they get what they get. I don't think there is a genuine hostile war. There's a competitor between China and American powers. But I think they're agreeing one at a time. And it's not going to end up in World War III.
+He's got all that Bitcoin and stablecoin wealth from selling the oil via the crypto networks. Or he genuinely didn't consent to what greater powers wanted. And so therefore he was taken out, but under the consent of all regional powers. So this is not confrontational. China, Russia, they would agree to this. And I think they've been negotiating and they get what they get. I don't think there is a genuine hostile war. There's a competitor between China and American powers. But I think they're agreeing one at a time. And it's not going to end up in World War III.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0131
 
@@ -794,21 +794,21 @@ Professor Jang, I want to get your comment on what transpired last week with the
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0132
 
-## seg-0133 / 01:41:30-01:42:43 / SPEAKER_00
+## seg-0133 / 01:41:30-01:42:48 / SPEAKER_00
 
-So Trump is scheduled to visit China in April. And I think Trump wants a grand bargain with China, meaning that Trump needs China to continue to buy U.S. dollars. So what Trump needs to do before April is stabilize the Western Hemisphere and show the world that the Western Hemisphere belongs to America. And he did that initially with this raid in Venezuela. And he will continue these attacks against Mexico, against Colombia. He will continue to threaten Greenland. He will probably help in the partitioning of Canada. Alberta will eventually vote to succeed from Canada and join the United States. So all this is to show China that America controls the Western Hemisphere. This is important because China relies on the Western Hemisphere for copper, lithium, silver, rare earths that are crucial for the AI industry, for data centers, for batteries, for EV, for robotics. So China has to come to an agreement with America. And I
+So Trump is scheduled to visit China in April. And I think Trump wants a grand bargain with China, meaning that Trump needs China to continue to buy U.S. dollars. So what Trump needs to do before April is stabilize the Western Hemisphere and show the world that the Western Hemisphere belongs to America. And he did that initially with this raid in Venezuela. And he will continue these attacks against Mexico, against Colombia. He will continue to threaten Greenland. He will probably help in the partitioning of Canada. Alberta will eventually vote to succeed from Canada and join the United States. So all this is to show China that America controls the Western Hemisphere. This is important because China relies on the Western Hemisphere for copper, lithium, silver, rare earths that are crucial for the AI industry, for data centers, for batteries, for EV, for robotics. So China has to come to an agreement with America. And I think China will because look, China has reinvested billions of dollars into Venezuela.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0133
 
-## seg-0134 / 01:42:43-01:43:39 / SPEAKER_00
+## seg-0134 / 01:42:49-01:43:39 / SPEAKER_00
 
-think China will because look, China has reinvested billions of dollars into Venezuela. And it really wasn't getting that much from these investments because Venezuela was corrupt. It was being sanctioned by the United States. So if China is able to access more oil in Venezuela under American leadership, then China is probably happy to ink a deal. And the idea that America will send in these oil companies like Exxon into Venezuela, as Simon points out, is ridiculous because it's too much of an investment for these American companies. But Chinese companies will do so. And Chinese companies already owe tens of billion dollars by the Venezuelans anyway, right? So I think a grand bargain will come into place where Chinese companies will go into Venezuela and modernize the oil infrastructure to allow China to extract more oil resources as well as mineral resources from Venezuela. And China will pay the United States the privilege of doing so in
+And it really wasn't getting that much from these investments because Venezuela was corrupt. It was being sanctioned by the United States. So if China is able to access more oil in Venezuela under American leadership, then China is probably happy to ink a deal. And the idea that America will send in these oil companies like Exxon into Venezuela, as Simon points out, is ridiculous because it's too much of an investment for these American companies. But Chinese companies will do so. And Chinese companies already owe tens of billion dollars by the Venezuelans anyway, right? So I think a grand bargain will come into place where Chinese companies will go into Venezuela and modernize the oil infrastructure to allow China to extract more oil resources as well as mineral resources from Venezuela. And China will pay the United States the privilege of doing so in US dollars.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0134
 
-## seg-0135 / 01:43:39-01:44:22 / SPEAKER_00
+## seg-0135 / 01:43:40-01:44:22 / SPEAKER_00
 
-US dollars. And this will also hedge against the possibility of a war in the Middle East because China gets 50 % of its oil from the Middle East so if there's a war and China loses its oil supply then it can just pivot to the Western Hemisphere to buy more oil from Canada, the United States and Venezuela. So I think that's the grand strategy here. And I think that China is probably happy to go along with this. I don't think the entire Chinese leadership is happy with this because it causes dependency on the United States, but as Simon points out, there is a faction in China that is beholding the transnational capital. They're part of this grand alliance of transnational capital and they're probably happy to go along with this arrangement.
+And this will also hedge against the possibility of a war in the Middle East because China gets 50 % of its oil from the Middle East so if there's a war and China loses its oil supply then it can just pivot to the Western Hemisphere to buy more oil from Canada, the United States and Venezuela. So I think that's the grand strategy here. And I think that China is probably happy to go along with this. I don't think the entire Chinese leadership is happy with this because it causes dependency on the United States, but as Simon points out, there is a faction in China that is beholding the transnational capital. They're part of this grand alliance of transnational capital and they're probably happy to go along with this arrangement.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0135
 
@@ -818,15 +818,15 @@ Interesting. Simon, what's your view overall? What we just saw last week with th
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0136
 
-## seg-0137 / 01:44:46-01:45:47 / SPEAKER_02
+## seg-0137 / 01:44:46-01:45:49 / SPEAKER_02
 
-Yeah, I mean the Western Hemisphere is a thing and America will dominate and be a regional power, but they're no longer global hegemon. They aren't global hegemon now. They get to exert force that makes them look powerful, but the sacrifice they're making is the dollar. So this becomes really interesting in the April meeting because if you look at the dollar by DXY, which is a basket of foreign currencies, even the worst of the worst currencies like Euros, it's still lost 11 % over to that basket. And that basket is dominated by Euros. So you can see that this is all about asset stripping by utilizing the government to take on more debt, pumping that value into the stock market while weakening the dollar. And that's exactly what I think this transnational capital are doing right now. And so the government debt goes up, stock markets go up, the price of the dollar relative to foreign
+Yeah, I mean the Western Hemisphere is a thing and America will dominate and be a regional power, but they're no longer global hegemon. They aren't global hegemon now. They get to exert force that makes them look powerful, but the sacrifice they're making is the dollar. So this becomes really interesting in the April meeting because if you look at the dollar by DXY, which is a basket of foreign currencies, even the worst of the worst currencies like Euros, it's still lost 11 % over to that basket. And that basket is dominated by Euros. So you can see that this is all about asset stripping by utilizing the government to take on more debt, pumping that value into the stock market while weakening the dollar. And that's exactly what I think this transnational capital are doing right now. And so the government debt goes up, stock markets go up, the price of the dollar relative to foreign currency goes down.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0137
 
-## seg-0138 / 01:45:47-01:46:10 / SPEAKER_02
+## seg-0138 / 01:45:49-01:46:10 / SPEAKER_02
 
-currency goes down. Gold, Bitcoin, and silver goes down in a gradual transition, just like that 10 to 20 year period between the British Empire and the American Empire. That's what I think is happening. Now, bringing that back to Venezuela, did you want to go through the chart before I cover Venezuela?
+Gold, Bitcoin, and silver goes down in a gradual transition, just like that 10 to 20 year period between the British Empire and the American Empire. That's what I think is happening. Now, bringing that back to Venezuela, did you want to go through the chart before I cover Venezuela?
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0138
 
@@ -836,27 +836,27 @@ I was just showing the gold chart just to kind of exemplify your point. The gold
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0139
 
-## seg-0140 / 01:46:38-01:47:49 / SPEAKER_02
+## seg-0140 / 01:46:38-01:47:55 / SPEAKER_02
 
-Yeah, it had a bit of strength on the Venezuelan action. The stock market loved Venezuela, including the Venezuelan stock market, which, by the way, the Venezuelan stock market has just a tight knit of, I'm sure Maduro owned a chunk of it, but it's like a few financial institutions and banks mainly insulated. It doesn't benefit the Venezuelan people, but there was a massive pump in the Venezuelan stock market after this action. All these stock markets are being pumped with government debt, which is historically end of empire territory. Transnational capital will use the dollar for as long as it's useful. It wants to keep the liquidity of the US stock market, and it wants to extract everything out of the American people, the European people, the Canadian people, the Australian people, and the Brits. They are fully owned by this power structure, and there's no such thing as America first, Britain first, I think Israel is being
+Yeah, it had a bit of strength on the Venezuelan action. The stock market loved Venezuela, including the Venezuelan stock market, which, by the way, the Venezuelan stock market has just a tight knit of, I'm sure Maduro owned a chunk of it, but it's like a few financial institutions and banks mainly insulated. It doesn't benefit the Venezuelan people, but there was a massive pump in the Venezuelan stock market after this action. All these stock markets are being pumped with government debt, which is historically end of empire territory. Transnational capital will use the dollar for as long as it's useful. It wants to keep the liquidity of the US stock market, and it wants to extract everything out of the American people, the European people, the Canadian people, the Australian people, and the Brits. They are fully owned by this power structure, and there's no such thing as America first, Britain first, I think Israel is being put through the same operation of subordination to this capital structure.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0140
 
-## seg-0141 / 01:47:49-01:49:06 / SPEAKER_02
+## seg-0141 / 01:47:56-01:49:12 / SPEAKER_02
 
-put through the same operation of subordination to this capital structure. Venezuela is pretty interesting because what will probably happen is it makes America look great again, it shrinks the world into a regional power, the southern hemisphere, we get more and more operations. What's actually happening here, essentially, finance is saying, go use the military to get us these resources. There's no American sovereign wealth fund, there's no Venezuelan sovereign wealth fund. Essentially, the US military industrial complex is becoming a militia, much like Muslim Brotherhood is like a militia, and Muslim Brotherhood is being brought home to destabilize. The US military is saying, you go get those resources and we'll beta test the model. It's only, really, Chinese infrastructure that would be able to rebuild the wreck in Venezuela. And then finance needs to fund it, but they're not going to fund it because it's not actually that profitable. So who would fund it? Well, the countries that
+Venezuela is pretty interesting because what will probably happen is it makes America look great again, it shrinks the world into a regional power, the southern hemisphere, we get more and more operations. What's actually happening here, essentially, finance is saying, go use the military to get us these resources. There's no American sovereign wealth fund, there's no Venezuelan sovereign wealth fund. Essentially, the US military industrial complex is becoming a militia, much like Muslim Brotherhood is like a militia, and Muslim Brotherhood is being brought home to destabilize. The US military is saying, you go get those resources and we'll beta test the model. It's only, really, Chinese infrastructure that would be able to rebuild the wreck in Venezuela. And then finance needs to fund it, but they're not going to fund it because it's not actually that profitable. So who would fund it? Well, the countries that are sovereign long term and can produce oil at $5 to $10 per barrel.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0141
 
-## seg-0142 / 01:49:06-01:50:16 / SPEAKER_02
+## seg-0142 / 01:49:13-01:50:18 / SPEAKER_02
 
-are sovereign long term and can produce oil at $5 to $10 per barrel. They'll fund it. The Gulf countries will fund it. China infrastructure. China is being used as the military might to go get the resources. And what does America need in order to combat the mass inflation that will be created by repatriating capital and weakening the dollar? There's only three ways to get down inflation. You tax more in order to take money out of the supply. That's not a viable option. You create a deflationary force, which is AI robotics, which creates unemployment. Or you get the price of oil down. And so when you get the price of oil down, the American oil refiners go bankrupt and transnational capital can acquire them all. Whereas Saudi can still sell oil at that rate and they can finance these operations. And Saudi and the Gulf countries are funded by China. So this is what I think
+They'll fund it. The Gulf countries will fund it. China infrastructure. China is being used as the military might to go get the resources. And what does America need in order to combat the mass inflation that will be created by repatriating capital and weakening the dollar? There's only three ways to get down inflation. You tax more in order to take money out of the supply. That's not a viable option. You create a deflationary force, which is AI robotics, which creates unemployment. Or you get the price of oil down. And so when you get the price of oil down, the American oil refiners go bankrupt and transnational capital can acquire them all. Whereas Saudi can still sell oil at that rate and they can finance these operations. And Saudi and the Gulf countries are funded by China. So this is what I think a beta test for this infrastructure.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0142
 
-## seg-0143 / 01:50:16-01:50:39 / SPEAKER_02
+## seg-0143 / 01:50:19-01:50:39 / SPEAKER_02
 
-a beta test for this infrastructure. I think it's really important to get the assets over to this alliance of the world order, get Gulf money, get financial industrial complex money, and then get China to build and invest in the infrastructure and align all of these assets around that new world order.
+I think it's really important to get the assets over to this alliance of the world order, get Gulf money, get financial industrial complex money, and then get China to build and invest in the infrastructure and align all of these assets around that new world order.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0143
 
@@ -872,21 +872,21 @@ disconnect between oil service companies as well as the price of oil, as well as
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0145
 
-## seg-0146 / 01:51:52-01:53:04 / SPEAKER_02
+## seg-0146 / 01:51:52-01:53:06 / SPEAKER_02
 
-Yeah, so this is the asset stripping operation. You're decoupling the commodity from the corporate that benefits from the commodity. And so what you're doing is you're using US debt to create inflation and pump it back into the stock market. And then you're handing over, you're basically bankrupting the government, pushing all the value into the stock market, which gives more power to corporate Corporate then are using lobby to change policy, using deep state to bribe judicial, using Senate to change law, using Congress to get votes. And all politicians are subordinate to corporate power in this structure. And so then you can take the resources, maintain the value in the stock market, but use financial engineering even though it's not, you know, it's just games, which means that essentially finance are using derivatives, media weaponization, index passive flows, and money printing to prop up the stock market, which is asset stripping the country. So remember, there is
+Yeah, so this is the asset stripping operation. You're decoupling the commodity from the corporate that benefits from the commodity. And so what you're doing is you're using US debt to create inflation and pump it back into the stock market. And then you're handing over, you're basically bankrupting the government, pushing all the value into the stock market, which gives more power to corporate Corporate then are using lobby to change policy, using deep state to bribe judicial, using Senate to change law, using Congress to get votes. And all politicians are subordinate to corporate power in this structure. And so then you can take the resources, maintain the value in the stock market, but use financial engineering even though it's not, you know, it's just games, which means that essentially finance are using derivatives, media weaponization, index passive flows, and money printing to prop up the stock market, which is asset stripping the country. So remember, there is no such thing as a stock price anymore.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0146
 
-## seg-0147 / 01:53:04-01:54:06 / SPEAKER_02
+## seg-0147 / 01:53:06-01:54:08 / SPEAKER_02
 
-no such thing as a stock price anymore. The stock price is dependent upon the ability to roll over the debt to print more money. It is also media manipulation because nothing's based upon earnings per share and that is based upon being geopolitically and strategically important to financial power. Then they control the media. And also, the other part of it is remember, nobody's investing in the stock market anymore. They're giving all their money to BlackRock, all the insurance premiums, all the welfare state, all the pension contributions, all the ETF money. So they're gaining more and more power. They've gone from $12 trillion of assets to $12 trillion of the management when they were about a trillion in the global financial crisis. And so they get to control the index funds. So they can say to someone like Elon Musk, Elon, you do this, and if you don't, we'll send the derivative complex and the hedge fund
+The stock price is dependent upon the ability to roll over the debt to print more money. It is also media manipulation because nothing's based upon earnings per share and that is based upon being geopolitically and strategically important to financial power. Then they control the media. And also, the other part of it is remember, nobody's investing in the stock market anymore. They're giving all their money to BlackRock, all the insurance premiums, all the welfare state, all the pension contributions, all the ETF money. So they're gaining more and more power. They've gone from $12 trillion of assets to $12 trillion of the management when they were about a trillion in the global financial crisis. And so they get to control the index funds. So they can say to someone like Elon Musk, Elon, you do this, and if you don't, we'll send the derivative complex and the hedge fund complex to crash your price.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0147
 
-## seg-0148 / 01:54:06-01:54:33 / SPEAKER_02
+## seg-0148 / 01:54:08-01:54:33 / SPEAKER_02
 
-complex to crash your price. That will affect your stock options. That will affect your inclusion in the S &P 500. And then you don't get access to full subordination. The government is handing over the power to corporate. Corporate's handing the power over to financial. And then financial's in a power struggle with technical. That's what's happening here.
+That will affect your stock options. That will affect your inclusion in the S &P 500. And then you don't get access to full subordination. The government is handing over the power to corporate. Corporate's handing the power over to financial. And then financial's in a power struggle with technical. That's what's happening here.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0148
 
@@ -926,21 +926,21 @@ No, I think we did that. But I just want to also say I appreciate the professor'
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0154
 
-## seg-0155 / 01:56:38-01:57:51 / SPEAKER_00
+## seg-0155 / 01:56:38-01:57:53 / SPEAKER_00
 
-Yeah, no, it's been a great conversation. I've learned a lot. It's my special reason in economics or finance. So just having a chance to hear Simon and process what he says has been really enlightening for me. So thank you so much, Simon and Danny. Yeah, so my concluding remarks is this. I understand the sort of logic that Simon is using to explain what's going on. But I wonder, first of all, are people as rational as Simon believes that they are? That we're governed by these monetary forces that are rational? I think we sort of discount the role of ego and short -term interest in our calculations. So that's my first point. My second point is that there's always going to be struggles and conflicts within all groups. So even within China, even within the United States, even within transnational groups, you're going to have different factions that are top dog. And these conflicts will never
+Yeah, no, it's been a great conversation. I've learned a lot. It's my special reason in economics or finance. So just having a chance to hear Simon and process what he says has been really enlightening for me. So thank you so much, Simon and Danny. Yeah, so my concluding remarks is this. I understand the sort of logic that Simon is using to explain what's going on. But I wonder, first of all, are people as rational as Simon believes that they are? That we're governed by these monetary forces that are rational? I think we sort of discount the role of ego and short -term interest in our calculations. So that's my first point. My second point is that there's always going to be struggles and conflicts within all groups. So even within China, even within the United States, even within transnational groups, you're going to have different factions that are top dog. And these conflicts will never go away.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0155
 
-## seg-0156 / 01:57:52-01:59:02 / SPEAKER_00
+## seg-0156 / 01:57:54-01:59:03 / SPEAKER_00
 
-go away. Because ultimately, at the end of the day, only a few people can win out. Not everyone can win out. That's point number two. And point number three is we don't really appreciate the volatility of the situation in the world right now. Around the world, people are frustrated with the way things are. The people are just disgusted with the elite. The elite live in their own bubble. You know, during New Year's, like a hundred mega yachts converged at St. Barks Island. Right? And they were like 80 % of the world's wealth. So the world isn't as rational as I think someone likes to point out. I think there's a lot of volatility. I think there's a lot of conflict. There's a lot of ego involved in decision making. And I'm not... I make predictions, but I really can't say ultimately who will triumph in this. But there will be a lot of conflict. There
+Because ultimately, at the end of the day, only a few people can win out. Not everyone can win out. That's point number two. And point number three is we don't really appreciate the volatility of the situation in the world right now. Around the world, people are frustrated with the way things are. The people are just disgusted with the elite. The elite live in their own bubble. You know, during New Year's, like a hundred mega yachts converged at St. Barks Island. Right? And they were like 80 % of the world's wealth. So the world isn't as rational as I think someone likes to point out. I think there's a lot of volatility. I think there's a lot of conflict. There's a lot of ego involved in decision making. And I'm not... I make predictions, but I really can't say ultimately who will triumph in this. But there will be a lot of conflict. There will be a lot of tensions.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0156
 
-## seg-0157 / 01:59:02-01:59:11 / SPEAKER_00
+## seg-0157 / 01:59:03-01:59:11 / SPEAKER_00
 
-will be a lot of tensions. There will be a lot of unrest over the next few years. And you can feel the tension in the air already. So that's my concluding remarks.
+There will be a lot of unrest over the next few years. And you can feel the tension in the air already. So that's my concluding remarks.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0157
 
@@ -950,33 +950,33 @@ Yeah, well thank you so much, Professor Simon.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0158
 
-## seg-0159 / 01:59:18-02:00:16 / SPEAKER_02
+## seg-0159 / 01:59:18-02:00:18 / SPEAKER_02
 
-Yeah, I'd agree with most of that. Now I follow financial flows. And you know, by following the money it's helped me try and get ahead a few things. But it's certainly not a perfect science. And humans are crazy. There's ideology. There's all sorts of stuff that factor in the equation. I tend to think ideology is weaponized. But you know, money and power are two forces that I'm able to kind of draw these types of conclusions. And I'd say in game theory, which is not perfect as well, you have different types of games. You have a finite game where you can think very short term based upon a time frame and an infinite game where you can think much, much longer term. Sovereign countries are able to think much, much longer term because they're playing an infinite game. You can make losses and you can make better decisions because no one can achieve anything in two
+Yeah, I'd agree with most of that. Now I follow financial flows. And you know, by following the money it's helped me try and get ahead a few things. But it's certainly not a perfect science. And humans are crazy. There's ideology. There's all sorts of stuff that factor in the equation. I tend to think ideology is weaponized. But you know, money and power are two forces that I'm able to kind of draw these types of conclusions. And I'd say in game theory, which is not perfect as well, you have different types of games. You have a finite game where you can think very short term based upon a time frame and an infinite game where you can think much, much longer term. Sovereign countries are able to think much, much longer term because they're playing an infinite game. You can make losses and you can make better decisions because no one can achieve anything in two years, four years, three months.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0159
 
-## seg-0160 / 02:00:16-02:01:18 / SPEAKER_02
+## seg-0160 / 02:00:19-02:01:20 / SPEAKER_02
 
-years, four years, three months. Corporations, they're in a three -month game. In order to get their next access to capital, they have to play a three -month game and be subordinate to capital flows. And democracies where you have, for example, Trump, he's playing a four -year game, which is condensed into a two -year game. And now you're going to see every policy that he may have ideologically wanted to do will now kick into what do I need to do to raise the capital for my campaign financing. So you can set up these finite games in order to control and remove much of this ideological stuff. And I think you can see right now that China's playing an infinite game, America's playing a finite game, and corporate interest is all short term value extraction and asset stripping. And there's no concept of what's right for the people. But if you can play an infinite game, then
+Corporations, they're in a three -month game. In order to get their next access to capital, they have to play a three -month game and be subordinate to capital flows. And democracies where you have, for example, Trump, he's playing a four -year game, which is condensed into a two -year game. And now you're going to see every policy that he may have ideologically wanted to do will now kick into what do I need to do to raise the capital for my campaign financing. So you can set up these finite games in order to control and remove much of this ideological stuff. And I think you can see right now that China's playing an infinite game, America's playing a finite game, and corporate interest is all short term value extraction and asset stripping. And there's no concept of what's right for the people. But if you can play an infinite game, then you invest in your human capital.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0160
 
-## seg-0161 / 02:01:18-02:02:16 / SPEAKER_02
+## seg-0161 / 02:01:20-02:02:16 / SPEAKER_02
 
-you invest in your human capital. And at the moment, the rest of the West that's controlled by this capital, they're not investing in human capital. They see us as a product. They want us to be debt -slaved. They want us to be algorithmic slaves. And sadly, only those that are able to understand the game accumulate the assets that get them to get ahead of the trend. They're the only ones that will be a part of the elite. And there's no morality in this equation. And once you can get your head around that your government doesn't work for you, and understand who the forces are, you understand people's power is not actually in voting. It's actually reallocating your money and investing in your local community, spending in your local community, and buying assets that actually help your community. And that's how you get the ultimate vote. Because these powers, they're huge powers, but it all comes
+And at the moment, the rest of the West that's controlled by this capital, they're not investing in human capital. They see us as a product. They want us to be debt -slaved. They want us to be algorithmic slaves. And sadly, only those that are able to understand the game accumulate the assets that get them to get ahead of the trend. They're the only ones that will be a part of the elite. And there's no morality in this equation. And once you can get your head around that your government doesn't work for you, and understand who the forces are, you understand people's power is not actually in voting. It's actually reallocating your money and investing in your local community, spending in your local community, and buying assets that actually help your community. And that's how you get the ultimate vote. Because these powers, they're huge powers, but it all comes
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0161
 
-## seg-0162 / 02:02:16-02:02:39 / SPEAKER_02
+## seg-0162 / 02:02:16-02:02:45 / SPEAKER_02
 
-down to the macro, your relationship with yourself, your family, your community, and you should use your money in order to support that infrastructure when you can't control this ginormous infrastructure. But you can boycott it. You don't need to invest in it. And that's where I'd say it's your money that's your power, rather than your vote, because the political process is corrupted. And it seems
+down to the macro, your relationship with yourself, your family, your community, and you should use your money in order to support that infrastructure when you can't control this ginormous infrastructure. But you can boycott it. You don't need to invest in it. And that's where I'd say it's your money that's your power, rather than your vote, because the political process is corrupted. And it seems like that's already happening in a way with these precious metals rallying with gold and silver.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0162
 
-## seg-0163 / 02:02:39-02:03:23 / SPEAKER_01
+## seg-0163 / 02:02:45-02:03:23 / SPEAKER_01
 
-like that's already happening in a way with these precious metals rallying with gold and silver. It seems like, at least within the smart money class. I think it may have gone into the retail class as well, but there is a sense in the air that a new system is coming. And so people are running to safety. They're running to a neutral asset like gold. And even silver is becoming more of a monetary metal. I'm looking at the price of silver today. It's back up to over $79 spot. Both metals are rallying. Do you see that? I know we said closing statements, but I can't help but ask. Do you see the rally in precious metals as a sign of that consciousness coming through?
+It seems like, at least within the smart money class. I think it may have gone into the retail class as well, but there is a sense in the air that a new system is coming. And so people are running to safety. They're running to a neutral asset like gold. And even silver is becoming more of a monetary metal. I'm looking at the price of silver today. It's back up to over $79 spot. Both metals are rallying. Do you see that? I know we said closing statements, but I can't help but ask. Do you see the rally in precious metals as a sign of that consciousness coming through?
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0163
 
@@ -1012,12 +1012,12 @@ Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0168
 
 ## seg-0169 / 02:04:56-02:05:43 / SPEAKER_01
 
-Excellent. We'll have the links to your websites, your socials down below. So check them all out, guys. And if you got value out of this content, quite frankly, I don't know how you wouldn't get value. But hit that like button. Support the channel. Write, Go Simon Go. Write, Go Professor Jang Go in the comments section if you agreed or disagreed with either one of these fine gentlemen here. And let me know your thoughts on the debate, discussion, whatever you want to call it. Let me know who you agreed with, what you disagreed on. I do, in fact, read all the comments. So drop me your thoughts. Subscribe to the channel so you don't miss another episode. And follow me on Substack as well. Capitalcosm.substack.com And I, you know, again, I want to re -emphasize hitting that like, hitting that subscribe button, hitting, you know, engaging with the content does help in pushing us
+Excellent. We'll have the links to your websites, your socials down below. So check them all out, guys. And if you got value out of this content, quite frankly, I don't know how you wouldn't get value. But hit that like button. Support the channel. Write, Go Simon Go. Write, Go Professor Jang Go in the comments section if you agreed or disagreed with either one of these fine gentlemen here. And let me know your thoughts on the debate, discussion, whatever you want to call it. Let me know who you agreed with, what you disagreed on. I do, in fact, read all the comments. So drop me your thoughts. Subscribe to the channel so you don't miss another episode. And follow me on Substack as well. Capitalcosm.substack.com And I, you know, again, I want to re -emphasize hitting that like, hitting that subscribe button, hitting, you know, engaging with the content does help in pushing us in the algorithm.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0169
 
-## seg-0170 / 02:05:43-02:05:56 / SPEAKER_01
+## seg-0170 / 02:05:44-02:05:56 / SPEAKER_01
 
-in the algorithm. So if you want to support this type of content, a little bit does go a long way. So just an FYI, guys. I appreciate your time. Thank you so much for watching. Hope you enjoyed it. And I will catch you later. Bye.
+So if you want to support this type of content, a little bit does go a long way. So just an FYI, guys. I appreciate your time. Thank you so much for watching. Hope you enjoyed it. And I will catch you later. Bye.
 
 Ref: video:interview-acpe2tgkbje@transcript:v1#seg-0170
