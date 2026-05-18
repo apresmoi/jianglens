@@ -50,27 +50,27 @@ can you give us our macro perspective your macro perspective on the year of 2026
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0008
 
-## seg-0009 / 00:04:25-00:05:42 / SPEAKER_02
+## seg-0009 / 00:04:25-00:05:46 / SPEAKER_02
 
-is the middle of the year uh so that means that this year is going to be the next year of world war of trends that we saw previously last year so these trends include uh the larger macro economic picture where the world is headed towards economic collapse who consume and you have very few people who produce. You have the over -financialization of the global economy. It's all just a Ponzi scheme. So we're seeing this sort of like great macroeconomic picture where this Ponzi scheme seems to be imploding in 2026. We'll probably have an AI bubble burst at some point because right now you have these companies, seven I believe, that spent $200 producing these data centers and there's really no product. There's really no way to monetize these data centers. So that's very dim. But then you have the larger geopolitical picture where nations now believe that in the future, because of economic collapse, they
+is the middle of the year uh so that means that this year is going to be the next year of world war of trends that we saw previously last year so these trends include uh the larger macro economic picture where the world is headed towards economic collapse who consume and you have very few people who produce. You have the over -financialization of the global economy. It's all just a Ponzi scheme. So we're seeing this sort of like great macroeconomic picture where this Ponzi scheme seems to be imploding in 2026. We'll probably have an AI bubble burst at some point because right now you have these companies, seven I believe, that spent $200 producing these data centers and there's really no product. There's really no way to monetize these data centers. So that's very dim. But then you have the larger geopolitical picture where nations now believe that in the future, because of economic collapse, they have to consolidate trade access.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0009
 
-## seg-0010 / 00:05:42-00:06:40 / SPEAKER_02
+## seg-0010 / 00:05:46-00:06:40 / SPEAKER_02
 
-have to consolidate trade access. They have to consolidate resources. And that's where we're seeing America right now, extending its empire militarily throughout the world. And that's where it's going to be in the Western Hemisphere. Recently, Trump announced a national security strategy which called for the consolidation of the Western Hemisphere under American rule, what he calls a corollary to the Monroe Doctrine. That's the Western Hemisphere. But now you also have China and Japan in East Asia. They have conflict over Taiwan Strait. And the reason why is Taiwan Strait guarantees access to the Strait of Malacca, which then guarantees access to the Middle East oil. You're seeing flare -ups in the Middle East. So Trump seems to, he basically green -lighted an attack on Iran, but he canceled it at the last minute. There are protests in Iran. So the Middle East is important because of all the oil and the trade access in the Middle East.
+They have to consolidate resources. And that's where we're seeing America right now, extending its empire militarily throughout the world. And that's where it's going to be in the Western Hemisphere. Recently, Trump announced a national security strategy which called for the consolidation of the Western Hemisphere under American rule, what he calls a corollary to the Monroe Doctrine. That's the Western Hemisphere. But now you also have China and Japan in East Asia. They have conflict over Taiwan Strait. And the reason why is Taiwan Strait guarantees access to the Strait of Malacca, which then guarantees access to the Middle East oil. You're seeing flare -ups in the Middle East. So Trump seems to, he basically green -lighted an attack on Iran, but he canceled it at the last minute. There are protests in Iran. So the Middle East is important because of all the oil and the trade access in the Middle East.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0010
 
-## seg-0011 / 00:06:41-00:07:38 / SPEAKER_02
+## seg-0011 / 00:06:41-00:07:44 / SPEAKER_02
 
-And the third thing we're seeing is just the breakdown of nation -state. So you look at America, where in Minnesota, you have a lot of these ingredients for civil conflict. Right? There was this recent shooting of this model of three by this ICE officer. And now you're seeing this massive protest converge in Minnesota, which is conveniently also where the George Floyd protest happened in 2020, right? So we're seeing almost a replay of the Black Lives Matter protest. Europe right now is under siege. There is a lot of civil conflict. So European citizens feel as though they're under siege from these Islamic refugees who are escaping. They're escaping war in the Middle East, right? A lot of these refugees are from Iraq, Afghanistan, Syria, and Libya. And they're also victims of America's war on terror. But the Europeans feel as though their cultural cohesion is under threat from these refugees. And response is European governments have
+And the third thing we're seeing is just the breakdown of nation -state. So you look at America, where in Minnesota, you have a lot of these ingredients for civil conflict. Right? There was this recent shooting of this model of three by this ICE officer. And now you're seeing this massive protest converge in Minnesota, which is conveniently also where the George Floyd protest happened in 2020, right? So we're seeing almost a replay of the Black Lives Matter protest. Europe right now is under siege. There is a lot of civil conflict. So European citizens feel as though they're under siege from these Islamic refugees who are escaping. They're escaping war in the Middle East, right? A lot of these refugees are from Iraq, Afghanistan, Syria, and Libya. And they're also victims of America's war on terror. But the Europeans feel as though their cultural cohesion is under threat from these refugees. And response is European governments have passed these social media laws that restrict the citizens' ability to express themselves online.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0011
 
-## seg-0012 / 00:07:38-00:08:43 / SPEAKER_02
+## seg-0012 / 00:07:44-00:08:43 / SPEAKER_02
 
-passed these social media laws that restrict the citizens' ability to express themselves online. This is causing a lot of social conflict in Europe. Right. There's talk of Europe remilitarization in order to deal with the Russian threat in Ukraine. And this is very popular in Germany, very popular in Romania, and a lot of places. But it seems as though the Europeans are committed to war. And I would say another thing that's happening is just the breakdown in faith in the system, right? So right now, and you probably know this, but in America, the largest growing faith is orthodox. Right. Right. People are leaving these mainstream churches and embracing more alternatives. People are embracing more psychedelics, individual spiritual exploration. So I mean, just look at all the side. It really seems as though it's the end of days. Yes. So that's a larger macro picture. And I don't think things will come to a head in 2026.
+This is causing a lot of social conflict in Europe. Right. There's talk of Europe remilitarization in order to deal with the Russian threat in Ukraine. And this is very popular in Germany, very popular in Romania, and a lot of places. But it seems as though the Europeans are committed to war. And I would say another thing that's happening is just the breakdown in faith in the system, right? So right now, and you probably know this, but in America, the largest growing faith is orthodox. Right. Right. People are leaving these mainstream churches and embracing more alternatives. People are embracing more psychedelics, individual spiritual exploration. So I mean, just look at all the side. It really seems as though it's the end of days. Yes. So that's a larger macro picture. And I don't think things will come to a head in 2026.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0012
 
@@ -80,15 +80,15 @@ I think they will come to a head later on. But what we're seeing right now is an
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0013
 
-## seg-0014 / 00:08:51-00:09:50 / SPEAKER_01
+## seg-0014 / 00:08:51-00:09:54 / SPEAKER_01
 
-And Metropolitan Iofitos made a comment when the Russian -Ukraine war first began. He said this was the sort of beginning momentum of what he considered the Great World War and this coming conflict. And videos just a couple of years ago, he kept saying, you know, beloved, when Israel attacks the nuclear facilities of Iran, the now global situation, that's the first domino that's actually fallen, and it has begun. It may. It may take years. It may take months. We don't know the time or the day. But the process has begun. And so that was before June of 2025, when Israel and the US supposedly knocked out the nuclear facilities of Iran. Seems like some type of a negotiation between the powers to both avoid some type of humiliation. But now the rhetoric is getting much more intense. Trump has moved the goalposts from nuclear programs to ballistic missiles, and Mossad, MI6, and CIA are all involved
+And Metropolitan Iofitos made a comment when the Russian -Ukraine war first began. He said this was the sort of beginning momentum of what he considered the Great World War and this coming conflict. And videos just a couple of years ago, he kept saying, you know, beloved, when Israel attacks the nuclear facilities of Iran, the now global situation, that's the first domino that's actually fallen, and it has begun. It may. It may take years. It may take months. We don't know the time or the day. But the process has begun. And so that was before June of 2025, when Israel and the US supposedly knocked out the nuclear facilities of Iran. Seems like some type of a negotiation between the powers to both avoid some type of humiliation. But now the rhetoric is getting much more intense. Trump has moved the goalposts from nuclear programs to ballistic missiles, and Mossad, MI6, and CIA are all involved in causing these protests and these uprisings in northern Iran.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0014
 
-## seg-0015 / 00:09:50-00:10:24 / SPEAKER_01
+## seg-0015 / 00:09:54-00:10:24 / SPEAKER_01
 
-in causing these protests and these uprisings in northern Iran. What are your thoughts on this whole Iranian situation? We obviously have the Zionists. We have the Likud. We have Netanyahu, the Greater Israel Project, of which the Trump administration is beholden to. At the same time, Trump calls himself the peace president and then is causing and instigating potential conflicts further. Now, what are your thoughts on where this Iranian conflict is? Because it seems like if you listen to many commentators right now, it could pop off any day or any week in the very near future.
+What are your thoughts on this whole Iranian situation? We obviously have the Zionists. We have the Likud. We have Netanyahu, the Greater Israel Project, of which the Trump administration is beholden to. At the same time, Trump calls himself the peace president and then is causing and instigating potential conflicts further. Now, what are your thoughts on where this Iranian conflict is? Because it seems like if you listen to many commentators right now, it could pop off any day or any week in the very near future.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0015
 
@@ -110,69 +110,69 @@ And Israel gifted him, they minted him the Cyrus the Great coin, insinuating he 
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0018
 
-## seg-0019 / 00:12:41-00:13:33 / SPEAKER_02
+## seg-0019 / 00:12:41-00:13:34 / SPEAKER_02
 
-But so in the second term, all this has accelerated. Right. So you mentioned the bombing of the Iranian nuclear facilities. And so once you do that, you've basically committed yourself to war. Right. Now, there's talk among MAGA people that, no, no, no, Trump is just trying to pull off war. Because by bombing nuclear facilities, what he's done is taken the pretext for war away from the Israelis. That's just nonsense. Because if you just look at the events of the 12 -Day War, the Israelis had a plan, a strategy in motion, where they would take a bomb. They would decapitate the regime. They killed dozens of senior officials in the Iranian government. And then they launched these airstrikes. And the plan at that point was they believed that this would cause an overthrow of the regime, because they believed that the regime was a house of cards. They could not possibly expect the regime to be
+But so in the second term, all this has accelerated. Right. So you mentioned the bombing of the Iranian nuclear facilities. And so once you do that, you've basically committed yourself to war. Right. Now, there's talk among MAGA people that, no, no, no, Trump is just trying to pull off war. Because by bombing nuclear facilities, what he's done is taken the pretext for war away from the Israelis. That's just nonsense. Because if you just look at the events of the 12 -Day War, the Israelis had a plan, a strategy in motion, where they would take a bomb. They would decapitate the regime. They killed dozens of senior officials in the Iranian government. And then they launched these airstrikes. And the plan at that point was they believed that this would cause an overthrow of the regime, because they believed that the regime was a house of cards. They could not possibly expect the regime to be this resilient.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0019
 
-## seg-0020 / 00:13:33-00:14:36 / SPEAKER_02
+## seg-0020 / 00:13:35-00:14:41 / SPEAKER_02
 
-this resilient. And so Trump basically saved their ass by intervening. Now, this is important in context, because this past week, we're seeing act two, where after Netanyahu visited Trump in Mar -a -Lago, immediately, you have these widespread protests in Iran. And Mike Pompeo, he had a tweet saying, Happy New Year to all these Mossad agents who are helping to spread the protest. So it's clearly a Mossad thing. And courage will be brought in from Iraq to reinforce this. So this is clearly a color revolution playbook. This is what they did in Libya. This is what they did in Syria. So the playbook was there. What they didn't expect was that the Iranians could knock out Starlink. So Starlink was that internet that allowed these protesters to coordinate. But then the Iranians not only just knocked out, jammed the Starlink signal, but they figured out where the Starlink terminals were. So they were able to round
+And so Trump basically saved their ass by intervening. Now, this is important in context, because this past week, we're seeing act two, where after Netanyahu visited Trump in Mar -a -Lago, immediately, you have these widespread protests in Iran. And Mike Pompeo, he had a tweet saying, Happy New Year to all these Mossad agents who are helping to spread the protest. So it's clearly a Mossad thing. And courage will be brought in from Iraq to reinforce this. So this is clearly a color revolution playbook. This is what they did in Libya. This is what they did in Syria. So the playbook was there. What they didn't expect was that the Iranians could knock out Starlink. So Starlink was that internet that allowed these protesters to coordinate. But then the Iranians not only just knocked out, jammed the Starlink signal, but they figured out where the Starlink terminals were. So they were able to round up these local assets that were fueling these protests.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0020
 
-## seg-0021 / 00:14:36-00:15:36 / SPEAKER_02
+## seg-0021 / 00:14:41-00:15:38 / SPEAKER_02
 
-up these local assets that were fueling these protests. And so in the color revolution playbook, Libya playbook, what happens is that once these protests spread to a certain point, you launch airstrikes. And then these airstrikes almost like thunder from God, which tells people, look, the mandate of heaven has shifted. And then people lose faith in the regime. But because these protests dissipated, airstrikes didn't long have any purpose. So Trump had no choice but to cancel these airstrikes. So Act II, this is Act II, it didn't work out either, which is going to lead us to Act III, which is lots of false flags where American military assets in the Middle East are threatened. And America feels its only response is now to threaten Iran. So we're just seeing a play out. But what's interesting is that the Iranian regime, from an American -Israeli perspective, is much more resilient, much more determined, and much more cohesive
+And so in the color revolution playbook, Libya playbook, what happens is that once these protests spread to a certain point, you launch airstrikes. And then these airstrikes almost like thunder from God, which tells people, look, the mandate of heaven has shifted. And then people lose faith in the regime. But because these protests dissipated, airstrikes didn't long have any purpose. So Trump had no choice but to cancel these airstrikes. So Act II, this is Act II, it didn't work out either, which is going to lead us to Act III, which is lots of false flags where American military assets in the Middle East are threatened. And America feels its only response is now to threaten Iran. So we're just seeing a play out. But what's interesting is that the Iranian regime, from an American -Israeli perspective, is much more resilient, much more determined, and much more cohesive than they originally imagined.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0021
 
-## seg-0022 / 00:15:36-00:15:52 / SPEAKER_02
+## seg-0022 / 00:15:39-00:15:52 / SPEAKER_02
 
-than they originally imagined. But from their perspective, this is the end of the eschatology. You know? Right. Right. And they're not going to stop. And Trump is fully bought into the idea that he is Cyrus the Great. Right. He really is. Yes.
+But from their perspective, this is the end of the eschatology. You know? Right. Right. And they're not going to stop. And Trump is fully bought into the idea that he is Cyrus the Great. Right. He really is. Yes.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0022
 
-## seg-0023 / 00:15:52-00:16:48 / SPEAKER_01
+## seg-0023 / 00:15:52-00:16:50 / SPEAKER_01
 
-So I fully agree with that. Iran, their greatest allies, at least what we're told, is China and Russia, both of which are giving strategic aid regarding this potential conflict. And this is exactly what the saints of the church said, that the global powers, the way that they would divide is Persia, Russia, China, Israel, Europe, America, and so on. And that's exactly what we're seeing unfold right now. My question for you, because it's hard to really get clear insight from the media bubble here in the West of other perspectives globally, what is the Chinese perspective on what's going on with Iran? I'm not even totally sure what the relationship between Israel and China is, because you can find articles stating the opposite on both sides, that there's great relationships, there's antagonistic relationships. What is the Chinese perspective? What is the Chinese perspective on what's going on in the Middle East, specifically with Iran? And then maybe
+So I fully agree with that. Iran, their greatest allies, at least what we're told, is China and Russia, both of which are giving strategic aid regarding this potential conflict. And this is exactly what the saints of the church said, that the global powers, the way that they would divide is Persia, Russia, China, Israel, Europe, America, and so on. And that's exactly what we're seeing unfold right now. My question for you, because it's hard to really get clear insight from the media bubble here in the West of other perspectives globally, what is the Chinese perspective on what's going on with Iran? I'm not even totally sure what the relationship between Israel and China is, because you can find articles stating the opposite on both sides, that there's great relationships, there's antagonistic relationships. What is the Chinese perspective? What is the Chinese perspective on what's going on in the Middle East, specifically with Iran? And then maybe you can touch Israel in there.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0023
 
-## seg-0024 / 00:16:48-00:16:53 / SPEAKER_01
+## seg-0024 / 00:16:50-00:16:53 / SPEAKER_01
 
-you can touch Israel in there. And how does Israel play with China?
+And how does Israel play with China?
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0024
 
-## seg-0025 / 00:16:54-00:18:05 / SPEAKER_02
+## seg-0025 / 00:16:54-00:18:08 / SPEAKER_02
 
-Right. So China is not eschatological. It doesn't have a religion. It doesn't really perceive the world in eschatological terms, the way that Russia, Israel, Iran, America does. Right. For China, it's a very materialistic, very political perspective in that I get raw resources, and then I have factories that employ my millions of workers to turn them into manufactured goods for export. And this is a model that it's consistently had for the past few years, even though it's proven detrimental to its own economy, because what it's done is that it's really dampened household consumption. And so China is not really a balanced economy. But the Chinese leadership, it's committed to this certain world view, where it extracts resources from the world and then gives the world manufactured goods. And Iran is a very important part of this puzzle, because China imports a lot of oil from Iran. China is Iran's biggest customer. And so basically, the Chinese
+Right. So China is not eschatological. It doesn't have a religion. It doesn't really perceive the world in eschatological terms, the way that Russia, Israel, Iran, America does. Right. For China, it's a very materialistic, very political perspective in that I get raw resources, and then I have factories that employ my millions of workers to turn them into manufactured goods for export. And this is a model that it's consistently had for the past few years, even though it's proven detrimental to its own economy, because what it's done is that it's really dampened household consumption. And so China is not really a balanced economy. But the Chinese leadership, it's committed to this certain world view, where it extracts resources from the world and then gives the world manufactured goods. And Iran is a very important part of this puzzle, because China imports a lot of oil from Iran. China is Iran's biggest customer. And so basically, the Chinese regime is propping up the Iranian regime.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0025
 
-## seg-0026 / 00:18:05-00:19:03 / SPEAKER_02
+## seg-0026 / 00:18:09-00:19:05 / SPEAKER_02
 
-regime is propping up the Iranian regime. But look. Look, the Chinese are opportunistic, OK? So another thing is the Chinese have a great relationship with Israel as well. And an example is, OK, I'm not going to go too much into specifics, because it's too long. But look at the Hezbollah pager attacks, right? Right. For Israel to have pulled that off, they needed to have control over the global supply chain, which means that they had to work hand in glove with Chinese manufacturers. That's the only way they could have pulled that off, OK? That shows you the level of penetration of Israel into China. I'll give you another example, OK? And this is an important example. But people say that there's this AI race between America and China. That's nonsense. It's not a race. It's cooperation, OK? And so I'll give you an example where OpenAI spent years and years and tens of billions of dollars
+But look. Look, the Chinese are opportunistic, OK? So another thing is the Chinese have a great relationship with Israel as well. And an example is, OK, I'm not going to go too much into specifics, because it's too long. But look at the Hezbollah pager attacks, right? Right. For Israel to have pulled that off, they needed to have control over the global supply chain, which means that they had to work hand in glove with Chinese manufacturers. That's the only way they could have pulled that off, OK? That shows you the level of penetration of Israel into China. I'll give you another example, OK? And this is an important example. But people say that there's this AI race between America and China. That's nonsense. It's not a race. It's cooperation, OK? And so I'll give you an example where OpenAI spent years and years and tens of billions of dollars to create ChatGPT.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0026
 
-## seg-0027 / 00:19:03-00:20:05 / SPEAKER_02
+## seg-0027 / 00:19:05-00:20:06 / SPEAKER_02
 
-to create ChatGPT. How did they do so? By stripping the internet, right? It was just grunt work. You just saw it. You just covered the entire internet. And you just extract every piece of data that you can in order to create your model, OK? Right. But then what happened a few months later after the announcement of ChatGPT is that this Chinese company called DeepSeek said, oh, we were able to create another chat model using much less money, much less computing power. And that shocked the world, OK? But the only way they were able to do that is take all the data, that ChatGPT had already consolidated, and then optimize that data to create algorithms that were faster, more, which cost less energy, OK? So in other words, they're not in competition with each other. They're working with each other, OK? So in other words, the people behind ChatGPT, OpenAI, and the people behind DeepSeek are
+How did they do so? By stripping the internet, right? It was just grunt work. You just saw it. You just covered the entire internet. And you just extract every piece of data that you can in order to create your model, OK? Right. But then what happened a few months later after the announcement of ChatGPT is that this Chinese company called DeepSeek said, oh, we were able to create another chat model using much less money, much less computing power. And that shocked the world, OK? But the only way they were able to do that is take all the data, that ChatGPT had already consolidated, and then optimize that data to create algorithms that were faster, more, which cost less energy, OK? So in other words, they're not in competition with each other. They're working with each other, OK? So in other words, the people behind ChatGPT, OpenAI, and the people behind DeepSeek are the same people.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0027
 
-## seg-0028 / 00:20:05-00:20:57 / SPEAKER_02
+## seg-0028 / 00:20:06-00:20:57 / SPEAKER_02
 
-the same people. And where are they based? They're probably based in Israel, OK? Right. So that's the grand geopolitical picture. So this idea of a US -China war, it's all nonsense. And we know, because I'll give you a very clear example. If these two nations are at war, why has Hollywood not produced a movie where China is the antagonist? Right. This is never going to happen. That's kind of strange. It is true, right. You know, in the 1980s, you had this stupid movie called Red Dawn. You don't have that in America. In fact, they tried to make a Red Dawn movie with China as the antagonist, the villain. And they had to cancel it. They had to make North Korea the villain in order to enter the global market. So this talk of this US -China rivalry is overhyped. China is not a threat to the United States. In fact, you can make the argument,
+And where are they based? They're probably based in Israel, OK? Right. So that's the grand geopolitical picture. So this idea of a US -China war, it's all nonsense. And we know, because I'll give you a very clear example. If these two nations are at war, why has Hollywood not produced a movie where China is the antagonist? Right. This is never going to happen. That's kind of strange. It is true, right. You know, in the 1980s, you had this stupid movie called Red Dawn. You don't have that in America. In fact, they tried to make a Red Dawn movie with China as the antagonist, the villain. And they had to cancel it. They had to make North Korea the villain in order to enter the global market. So this talk of this US -China rivalry is overhyped. China is not a threat to the United States. In fact, you can make the argument, OK?
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0028
 
 ## seg-0029 / 00:20:57-00:21:11 / SPEAKER_02
 
-OK? And I would make the argument that, in many ways, China is a colony of the American empire. And so I don't know. I don't know. I mean, it's a very complicated situation, OK?
+And I would make the argument that, in many ways, China is a colony of the American empire. And so I don't know. I don't know. I mean, it's a very complicated situation, OK?
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0029
 
@@ -188,15 +188,15 @@ Look. Look. I would make it even more simpler. I would just say, the children, f
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0031
 
-## seg-0032 / 00:21:58-00:22:51 / SPEAKER_01
+## seg-0032 / 00:21:58-00:22:52 / SPEAKER_01
 
-Very simple, yet to the point. Right, right. Well, you really kind of blew me away with your discussion there on Deep Sea, because I hadn't thought about the, the backdoor connections between some of these AI. Because looking at it, and some of the rhetoric coming out of these companies, they view themselves in sort of this Manhattan Project -like race for AGI, which I'm totally skeptical of. I don't think it's possible. I think it's all fiction. But they believe it, whether, at least, according to many of these transhumanists, I would include Musk as one of them. And so when you mentioned that there's coordination behind the scenes. That there's this Manhattan Project. Facade really isn't the case that all these corporations are in collaboration with each other to advance the ultimate goal that all of them has is this sort of transhumanist utopia and, you know, sentient AI. That was really inside of I hadn't even
+Very simple, yet to the point. Right, right. Well, you really kind of blew me away with your discussion there on Deep Sea, because I hadn't thought about the, the backdoor connections between some of these AI. Because looking at it, and some of the rhetoric coming out of these companies, they view themselves in sort of this Manhattan Project -like race for AGI, which I'm totally skeptical of. I don't think it's possible. I think it's all fiction. But they believe it, whether, at least, according to many of these transhumanists, I would include Musk as one of them. And so when you mentioned that there's coordination behind the scenes. That there's this Manhattan Project. Facade really isn't the case that all these corporations are in collaboration with each other to advance the ultimate goal that all of them has is this sort of transhumanist utopia and, you know, sentient AI. That was really inside of I hadn't even thought about that.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0032
 
-## seg-0033 / 00:22:51-00:23:47 / SPEAKER_01
+## seg-0033 / 00:22:52-00:23:47 / SPEAKER_01
 
-thought about that. But when you mention AI, you know, your video that you did on Pax Judaica, which I thought was fantastic, it really highlighted at least the astrological perspective that orthodoxy has regarding the developments in the Middle East and even the nation state of Israel since 1948. Because we theologically believe that the church is Israel because we follow the second covenant of Christ. And therefore, it supersedes the first covenant as who Israel is. And so Jews, Israel itself is sort of defined by their rejection. And when you're talking in the Pax Judaica video, you're talking about something that just a week and a half ago, Elon Musk came out publicly and said that he had a conversation with Netanyahu about relocating data centers, AI, and robotics. And he said, well, you know, we've been talking about AI and robotics for about three or four years. And now it's like in the news. And I
+But when you mention AI, you know, your video that you did on Pax Judaica, which I thought was fantastic, it really highlighted at least the astrological perspective that orthodoxy has regarding the developments in the Middle East and even the nation state of Israel since 1948. Because we theologically believe that the church is Israel because we follow the second covenant of Christ. And therefore, it supersedes the first covenant as who Israel is. And so Jews, Israel itself is sort of defined by their rejection. And when you're talking in the Pax Judaica video, you're talking about something that just a week and a half ago, Elon Musk came out publicly and said that he had a conversation with Netanyahu about relocating data centers, AI, and robotics. And he said, well, you know, we've been talking about AI and robotics for about three or four years. And now it's like in the news. And I
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0033
 
@@ -278,15 +278,15 @@ first comment is is that the greeks okay specifically aristotle um believe that 
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0046
 
-## seg-0047 / 00:31:31-00:32:31 / SPEAKER_02
+## seg-0047 / 00:31:31-00:32:33 / SPEAKER_02
 
-almost as though people are crying for a monarch, to relieve them of debt, to relieve them of corruption, to provide leadership in this world. And that's what Trump is doing. Trump understands that it's his historical opportunity to be king of America when things are most desperate. And to do that, what he's doing is he's trying to construct a myth of himself as this great leader. And how do you create this myth? Through easy victories, okay? So Venezuela was an easy victory where clearly the elite of Venezuela, the leadership was compromised. Okay? Either Maduro was part of the deal or Delsi Rodriguez was part of the deal. Someone betrayed, there were lots of, it was pretty easy to basically bribe the elite because those 32 Cuban security that were special forces, they weren't killed by the Americans. They were killed by the Venezuelans, okay? So it seemed as though everyone was neutralized. And then Donald Ford
+almost as though people are crying for a monarch, to relieve them of debt, to relieve them of corruption, to provide leadership in this world. And that's what Trump is doing. Trump understands that it's his historical opportunity to be king of America when things are most desperate. And to do that, what he's doing is he's trying to construct a myth of himself as this great leader. And how do you create this myth? Through easy victories, okay? So Venezuela was an easy victory where clearly the elite of Venezuela, the leadership was compromised. Okay? Either Maduro was part of the deal or Delsi Rodriguez was part of the deal. Someone betrayed, there were lots of, it was pretty easy to basically bribe the elite because those 32 Cuban security that were special forces, they weren't killed by the Americans. They were killed by the Venezuelans, okay? So it seemed as though everyone was neutralized. And then Donald Ford just came in to extract money.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0047
 
-## seg-0048 / 00:32:31-00:33:25 / SPEAKER_02
+## seg-0048 / 00:32:33-00:33:25 / SPEAKER_02
 
-just came in to extract money. Okay? So I think that's the best explanation for what happened. But this event, from a geopolitical perspective, it was just silly and unnecessary and stupid because Maduro was willing to take a deal, okay? So the Americans went in and they insulted the nation of Israel by kidnapping the president, okay? That's number one. But they also destroyed the mausoleum of Hugo Chavez, who is almost their founder, right? And so the Americans basically engaged all this gratuitous violence. That insulted the Venezuelan people. And then they took Maduro and they paraded him through New York, as though it was a triumph. Right, they did. A Roman triumph, right? And that's just a complete insult to not only the people of Venezuela, but also the people of South America because they remember the times of Yankee imperialism and all this American interference in their internal sphere.
+Okay? So I think that's the best explanation for what happened. But this event, from a geopolitical perspective, it was just silly and unnecessary and stupid because Maduro was willing to take a deal, okay? So the Americans went in and they insulted the nation of Israel by kidnapping the president, okay? That's number one. But they also destroyed the mausoleum of Hugo Chavez, who is almost their founder, right? And so the Americans basically engaged all this gratuitous violence. That insulted the Venezuelan people. And then they took Maduro and they paraded him through New York, as though it was a triumph. Right, they did. A Roman triumph, right? And that's just a complete insult to not only the people of Venezuela, but also the people of South America because they remember the times of Yankee imperialism and all this American interference in their internal sphere.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0048
 
@@ -296,21 +296,21 @@ That was the blueprint in the 19th century.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0049
 
-## seg-0050 / 00:33:27-00:34:18 / SPEAKER_02
+## seg-0050 / 00:33:27-00:34:21 / SPEAKER_02
 
-Exactly. And so this cannot lead to any good things. So eventually what's going to happen is that the Venezuelan government is going to have to do something. What's going to happen is, you know, Trump thinks he's won because, you know, he says that Venezuelans must obey him because he's holding their head of state hostage or whatever, okay? But that's not what's going to happen. There'll be a general election in Venezuela. This general election will be heavily contested. And Trump will be forced to send, you know, ground forces in order to maintain the peace. And this will gradually spiral, mission creep. And this is exactly what happened in Vietnam as well. You know, Brazil, Colombia, Mexico. Mexico are all crosshairs of Trump. And look, right now it's politically popular to go against Trump, right? So there'll be more conflict. I think Cuba is next on the top list. Cuba makes the most sense because, you know,
+Exactly. And so this cannot lead to any good things. So eventually what's going to happen is that the Venezuelan government is going to have to do something. What's going to happen is, you know, Trump thinks he's won because, you know, he says that Venezuelans must obey him because he's holding their head of state hostage or whatever, okay? But that's not what's going to happen. There'll be a general election in Venezuela. This general election will be heavily contested. And Trump will be forced to send, you know, ground forces in order to maintain the peace. And this will gradually spiral, mission creep. And this is exactly what happened in Vietnam as well. You know, Brazil, Colombia, Mexico. Mexico are all crosshairs of Trump. And look, right now it's politically popular to go against Trump, right? So there'll be more conflict. I think Cuba is next on the top list. Cuba makes the most sense because, you know, by cutting off Venezuela oil to Cuba, you will destroy the economy.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0050
 
-## seg-0051 / 00:34:18-00:35:15 / SPEAKER_02
+## seg-0051 / 00:34:21-00:35:19 / SPEAKER_02
 
-by cutting off Venezuela oil to Cuba, you will destroy the economy. And that makes Cuba vulnerable to an invasion or to a hostile takeover. You know, Trump is engaged in self -engagement. You know, he wants to make himself vulnerable. He wants to make himself look like a Julius Caesar, this great conqueror, but it's causing all sorts of geopolitical problems for America in the Western Hemisphere. So you know, geopolitically, it's stupid. And the problem is that there's no more check and balance on Trump's authority because Congress is dysfunctional. It's designed to be dysfunctional because people in Congress, they're almost like bureaucrats, right? They're there to become lobbyists. They're not there to serve the American people. They're there to do the five years, collect a pension, and then become a lobbyist, which is where the real money is. And the way you don't rock the boat is by doing anything, okay? So Thomas Massey is a really
+And that makes Cuba vulnerable to an invasion or to a hostile takeover. You know, Trump is engaged in self -engagement. You know, he wants to make himself vulnerable. He wants to make himself look like a Julius Caesar, this great conqueror, but it's causing all sorts of geopolitical problems for America in the Western Hemisphere. So you know, geopolitically, it's stupid. And the problem is that there's no more check and balance on Trump's authority because Congress is dysfunctional. It's designed to be dysfunctional because people in Congress, they're almost like bureaucrats, right? They're there to become lobbyists. They're not there to serve the American people. They're there to do the five years, collect a pension, and then become a lobbyist, which is where the real money is. And the way you don't rock the boat is by doing anything, okay? So Thomas Massey is a really weird bird in Congress because Thomas Massey actually stands for something.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0051
 
-## seg-0052 / 00:35:15-00:35:24 / SPEAKER_02
+## seg-0052 / 00:35:19-00:35:24 / SPEAKER_02
 
-weird bird in Congress because Thomas Massey actually stands for something. He actually believes in something. But everyone else is just, you know, like a bureaucrat.
+He actually believes in something. But everyone else is just, you know, like a bureaucrat.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0052
 
@@ -320,15 +320,15 @@ Yeah.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0053
 
-## seg-0054 / 00:35:25-00:36:17 / SPEAKER_02
+## seg-0054 / 00:35:25-00:36:19 / SPEAKER_02
 
-Yeah. So you have this terrible situation in America where Trump's trying to be king. But there are no institutional checks and balances on him, okay? Possibly the Supreme Court, but please remember that he appointed, personally, three of the nine justices to the Supreme Court. And the Supreme Court themselves are beholden to corporate interests. So as long as Trump is launching these wars overseas, as long as he's helping these oligarchs become very wealthy, as long as he's funding AI, there's going to be massive oligarchal support for what he does. Remember what's happening in America right now. Yeah. So Trump is going to become king. But also, much more problematic, there's a civil war going on between the old oligarchs and the new oligarchs. The old oligarchs, of course, are the financial elite, the financial global elite, Wall Street. And then the new oligarchs, of course, are people like Elon Musk, Peter Thiel, the Silicon Valley types
+Yeah. So you have this terrible situation in America where Trump's trying to be king. But there are no institutional checks and balances on him, okay? Possibly the Supreme Court, but please remember that he appointed, personally, three of the nine justices to the Supreme Court. And the Supreme Court themselves are beholden to corporate interests. So as long as Trump is launching these wars overseas, as long as he's helping these oligarchs become very wealthy, as long as he's funding AI, there's going to be massive oligarchal support for what he does. Remember what's happening in America right now. Yeah. So Trump is going to become king. But also, much more problematic, there's a civil war going on between the old oligarchs and the new oligarchs. The old oligarchs, of course, are the financial elite, the financial global elite, Wall Street. And then the new oligarchs, of course, are people like Elon Musk, Peter Thiel, the Silicon Valley types who want to create an AI, civilian state.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0054
 
 ## seg-0055 / 00:36:17-00:36:19 / SPEAKER_02
 
-who want to create an AI, civilian state.
+
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0055
 
@@ -358,13 +358,13 @@ Ref: video:interview-id4whhypcuy@transcript:v1#seg-0059
 
 ## seg-0060 / 00:37:47-00:38:44 / SPEAKER_01
 
-Right. And it makes no sense why Netflix would give him a movie deal knowing that he had plans to run for Congress as Republican. That doesn't make any sense unless, to your larger point, which I agree with, this is all crafted. This has been planned for years and years. In regards to America, I want to shift your focus over to Europe. So regarding the Venezuelan fallout, there was the US seizure of a Russian tanker. And then obviously what's happening with Greenland. Denmark was just here, representatives for, well, yesterday, talking about Trump has now argued that Greenland is a necessity for US security, military security. And that it's either going to be taken by China or Russia. And this has then caused the Europeans to all of a sudden get a spine and act like they're going to fight the US over Greenland. Meanwhile, they're also posturing and wanting to fight Russia over on their Eastern
+Right. And it makes no sense why Netflix would give him a movie deal knowing that he had plans to run for Congress as Republican. That doesn't make any sense unless, to your larger point, which I agree with, this is all crafted. This has been planned for years and years. In regards to America, I want to shift your focus over to Europe. So regarding the Venezuelan fallout, there was the US seizure of a Russian tanker. And then obviously what's happening with Greenland. Denmark was just here, representatives for, well, yesterday, talking about Trump has now argued that Greenland is a necessity for US security, military security. And that it's either going to be taken by China or Russia. And this has then caused the Europeans to all of a sudden get a spine and act like they're going to fight the US over Greenland. Meanwhile, they're also posturing and wanting to fight Russia over on their Eastern front.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0060
 
 ## seg-0061 / 00:38:44-00:39:02 / SPEAKER_01
 
-front. So what are your thoughts on this relationship, what appears to be a precarious relationship between Trump, NATO, and the fallout regarding Greenland? Who's going to get it? Because it seems like the energy is that, yeah, we don't have it right now. But America's getting ready to get it. We're going to get Greenland. What are your thoughts on that?
+So what are your thoughts on this relationship, what appears to be a precarious relationship between Trump, NATO, and the fallout regarding Greenland? Who's going to get it? Because it seems like the energy is that, yeah, we don't have it right now. But America's getting ready to get it. We're going to get Greenland. What are your thoughts on that?
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0061
 
@@ -376,13 +376,13 @@ Ref: video:interview-id4whhypcuy@transcript:v1#seg-0062
 
 ## seg-0063 / 00:39:58-00:40:57 / SPEAKER_02
 
-They laughed at him in his first term. They mocked him. And then they conspired against him to steal that election from his mind, okay? So he really hates the European elite. And so what we're seeing right now is he's trying to destroy the European elite. The National Security Strategy, what it says is that, listen, Europe is not a reliable ally. Why? Because Europe has engaged in these DI politics. It's rejected Western civilization. True. But he's really talking about the Western European elite because he still has partners for Hungary, for Poland, for Austria, right? More government that align with his particular vision. So what he really wants to do is undermine the Western European elite. And the way you do that is by showing how toothless and incompetent they are, right? So Greenland is this showcase where, you know, these Western European countries like Denmark, Germany, England, they get all riled up. They send troops. They
+They laughed at him in his first term. They mocked him. And then they conspired against him to steal that election from his mind, okay? So he really hates the European elite. And so what we're seeing right now is he's trying to destroy the European elite. The National Security Strategy, what it says is that, listen, Europe is not a reliable ally. Why? Because Europe has engaged in these DI politics. It's rejected Western civilization. True. But he's really talking about the Western European elite because he still has partners for Hungary, for Poland, for Austria, right? More government that align with his particular vision. So what he really wants to do is undermine the Western European elite. And the way you do that is by showing how toothless and incompetent they are, right? So Greenland is this showcase where, you know, these Western European countries like Denmark, Germany, England, they get all riled up. They send troops. They send troops.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0063
 
 ## seg-0064 / 00:40:57-00:41:44 / SPEAKER_02
 
-send troops. But Trump's still going to get it, and it just shows how incompetent they are. And at the same time, they're still committed to this stupid war in Ukraine, in which they have absolutely no hope of winning, in which they will sacrifice thousands, possibly tens of thousands of soldiers for no good reason. And it's going to lead eventually to the overflow. That's what Trump wants. Trump is first and foremost concerned about regime change in Western Europe, which he sees as a source of power for the global financial system. He sees it as a source of power for the global financial elite, who he sees as his real enemies, right? So remember, in 2020, $6 billion was spent to defeat Trump. And Trump still thought, I still won. But then you cheated with this mail -in balloting, with these smartmatic machines. So Trump is almost on a revenge tour.
+But Trump's still going to get it, and it just shows how incompetent they are. And at the same time, they're still committed to this stupid war in Ukraine, in which they have absolutely no hope of winning, in which they will sacrifice thousands, possibly tens of thousands of soldiers for no good reason. And it's going to lead eventually to the overflow. That's what Trump wants. Trump is first and foremost concerned about regime change in Western Europe, which he sees as a source of power for the global financial system. He sees it as a source of power for the global financial elite, who he sees as his real enemies, right? So remember, in 2020, $6 billion was spent to defeat Trump. And Trump still thought, I still won. But then you cheated with this mail -in balloting, with these smartmatic machines. So Trump is almost on a revenge tour.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0064
 
@@ -634,13 +634,13 @@ Ref: video:interview-id4whhypcuy@transcript:v1#seg-0105
 
 ## seg-0106 / 01:08:14-01:09:09 / SPEAKER_01
 
-Oh, interesting. Okay, so I said last question. I got one more. I have to ask you just while you're here. India. So India doesn't seem like it's a massive player right now. Obviously, they're part of BRICS, or the BRICS monetary system. I'm sorry. BRICS, they've recently claimed the status of the largest nation in the world from China. I am curious how many people are in China. There's a recent viral video here in the West of some Chinese national claiming that it's much, much smaller than what we're told it is. Curious what your thoughts are on that. But the tensions, we're told that there's these serious tensions in the Himalayas between standoff between China and India. What is the role of India? Because most of the Western world, at least here in America, a lot of people are fed up with the massive amounts of immigration. I mean, India has basically taken over entire cities here
+Oh, interesting. Okay, so I said last question. I got one more. I have to ask you just while you're here. India. So India doesn't seem like it's a massive player right now. Obviously, they're part of BRICS, or the BRICS monetary system. I'm sorry. BRICS, they've recently claimed the status of the largest nation in the world from China. I am curious how many people are in China. There's a recent viral video here in the West of some Chinese national claiming that it's much, much smaller than what we're told it is. Curious what your thoughts are on that. But the tensions, we're told that there's these serious tensions in the Himalayas between standoff between China and India. What is the role of India? Because most of the Western world, at least here in America, a lot of people are fed up with the massive amounts of immigration. I mean, India has basically taken over entire cities here in the United States.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0106
 
-## seg-0107 / 01:09:09-01:09:20 / SPEAKER_01
+## seg-0107 / 01:09:10-01:09:20 / SPEAKER_01
 
-in the United States. But what is there? What is their role geopolitically as the nation? They have all these people, but they don't really seem to be a power player with other nations around them.
+But what is there? What is their role geopolitically as the nation? They have all these people, but they don't really seem to be a power player with other nations around them.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0107
 
@@ -692,27 +692,27 @@ MGM Studio or yeah, studies fantastic content. Huge thank you to you both. Well,
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0115
 
-## seg-0116 / 01:13:26-01:13:47 / SPEAKER_02
+## seg-0116 / 01:13:26-01:13:51 / SPEAKER_02
 
-I agree. I think both Putin and Trump want to kill NATO. I mean, as I said earlier, Trump hates NATO. And so what you're seeing in Greenland, Ukraine, I mean, the Europeans are just looking like idiots. And then the fact that Stormer had to say that, you know, he's he's at least five years old to find us one. Ukraine. He looks like a complete moron. What leverage does Europe have? It seems like Europe
+I agree. I think both Putin and Trump want to kill NATO. I mean, as I said earlier, Trump hates NATO. And so what you're seeing in Greenland, Ukraine, I mean, the Europeans are just looking like idiots. And then the fact that Stormer had to say that, you know, he's he's at least five years old to find us one. Ukraine. He looks like a complete moron. What leverage does Europe have? It seems like Europe has zero leverage, and yet they bark like an angry dog.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0116
 
-## seg-0117 / 01:13:47-01:14:16 / SPEAKER_01
+## seg-0117 / 01:13:51-01:14:16 / SPEAKER_01
 
-has zero leverage, and yet they bark like an angry dog. They're done. They're done. That's what it is. Yeah, I totally agree. Ironically, still not good. This still does not demonstrate U.S. willingness to sustain losses like Russia has. I'm not sure what that was referred to. Professor Jiang, do you foresee a crossing of the Rubicon for the U.S., a fall of the republic and beginning of empire, so to speak? Thank you. Yeah, it's going to be a 2028
+They're done. They're done. That's what it is. Yeah, I totally agree. Ironically, still not good. This still does not demonstrate U.S. willingness to sustain losses like Russia has. I'm not sure what that was referred to. Professor Jiang, do you foresee a crossing of the Rubicon for the U.S., a fall of the republic and beginning of empire, so to speak? Thank you. Yeah, it's going to be a 2028 election.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0117
 
-## seg-0118 / 01:14:16-01:14:46 / SPEAKER_02
+## seg-0118 / 01:14:16-01:14:48 / SPEAKER_02
 
-election. So, Aaron Adeson has committed $250 million to finance a Trump third term. And I wouldn't be surprised in 2028, you see a Trump -Obama match, where both are the vice presidents of their respective parties. And it doesn't really matter who's at the top of the ticket. But I'm saying that's a possibility. If that would happen, it would be a crossing of Rubicon, where if Trump were to win, it would be a crossing of the Rubicon. And if Trump were to win, it would be a crossing of the Rubicon. If Trump were to win, it would be a crossing of the Rubicon. And if Trump were to win, it would be a crossing of the Rubicon. And if Trump were to win, it would be a crossing of the Rubicon. And all, you know, political convention, all constitutional checks and balances,
+So, Aaron Adeson has committed $250 million to finance a Trump third term. And I wouldn't be surprised in 2028, you see a Trump -Obama match, where both are the vice presidents of their respective parties. And it doesn't really matter who's at the top of the ticket. But I'm saying that's a possibility. If that would happen, it would be a crossing of Rubicon, where if Trump were to win, it would be a crossing of the Rubicon. And if Trump were to win, it would be a crossing of the Rubicon. If Trump were to win, it would be a crossing of the Rubicon. And if Trump were to win, it would be a crossing of the Rubicon. And if Trump were to win, it would be a crossing of the Rubicon. And all, you know, political convention, all constitutional checks and balances, it's just blowing out the door.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0118
 
-## seg-0119 / 01:14:46-01:15:09 / SPEAKER_01
+## seg-0119 / 01:14:48-01:15:09 / SPEAKER_01
 
-it's just blowing out the door. That's what I feel like we're moving towards with, obviously, the Maduro kidnapping, as I was saying. It seems like he's operating on a, you know, just totally disregarding Congress, which I get. Nobody really cares what Congress has to say or does. They're totally ineffective. But it seems like we are sort of in this new era where Trump joking about a third term now seems like really plausible.
+That's what I feel like we're moving towards with, obviously, the Maduro kidnapping, as I was saying. It seems like he's operating on a, you know, just totally disregarding Congress, which I get. Nobody really cares what Congress has to say or does. They're totally ineffective. But it seems like we are sort of in this new era where Trump joking about a third term now seems like really plausible.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0119
 
@@ -734,33 +734,33 @@ the only check on me is my own morality he did say that he did say that so no it
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0122
 
-## seg-0123 / 01:15:26-01:16:13 / SPEAKER_01
+## seg-0123 / 01:15:26-01:16:16 / SPEAKER_01
 
-feels like it's setting up for uh for a sort of uh monarchical political structure uh which as an orthodox i'm not a disagreeing if they were christian but not a not a zionist first uh monarchy that sounds terrible for the world uh never would have thought i would see you two together a pleasant surprise cheers to you both thank you very much um thank you dph for interviewing professor jiang and thank you professor jiang for agreeing interesting that greater land map is the same as babylon lots of babylon worship in certain areas of the u.s um he was kings um why do people act as if it is a or if okay if donald trump is opposing the dps - side of what he said and he's not right and he's not right and he's like oh come on guys deep state. He was molded and raised by Roy Cohn, the OG blackmailer, and
+feels like it's setting up for uh for a sort of uh monarchical political structure uh which as an orthodox i'm not a disagreeing if they were christian but not a not a zionist first uh monarchy that sounds terrible for the world uh never would have thought i would see you two together a pleasant surprise cheers to you both thank you very much um thank you dph for interviewing professor jiang and thank you professor jiang for agreeing interesting that greater land map is the same as babylon lots of babylon worship in certain areas of the u.s um he was kings um why do people act as if it is a or if okay if donald trump is opposing the dps - side of what he said and he's not right and he's not right and he's like oh come on guys deep state. He was molded and raised by Roy Cohn, the OG blackmailer, and his uncle managed Tesla's tech after he was offed.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0123
 
-## seg-0124 / 01:16:13-01:17:04 / SPEAKER_01
+## seg-0124 / 01:16:16-01:17:05 / SPEAKER_01
 
-his uncle managed Tesla's tech after he was offed. Each nation state will eat its own people. Yeah, I mean, I think clearly Trump has been involved with the oligarchical elite his entire adult life. And what are your thoughts on the Epstein fallout? Clearly, there's something going on. Now people, the magazine base is saying it has to do with protecting his donor class and some of his friends. The FBI apparently spent a million dollars just marking out Donald Trump's name and all the Epstein files that are potentially going to be released. Seems like he's more implicated in it, whether he was ever interested in children or not. It doesn't seem like he's that kind of guy, but maybe nefarious relationships with younger women or something like that. What are your thoughts on
+Each nation state will eat its own people. Yeah, I mean, I think clearly Trump has been involved with the oligarchical elite his entire adult life. And what are your thoughts on the Epstein fallout? Clearly, there's something going on. Now people, the magazine base is saying it has to do with protecting his donor class and some of his friends. The FBI apparently spent a million dollars just marking out Donald Trump's name and all the Epstein files that are potentially going to be released. Seems like he's more implicated in it, whether he was ever interested in children or not. It doesn't seem like he's that kind of guy, but maybe nefarious relationships with younger women or something like that. What are your thoughts on the Epstein stuff?
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0124
 
-## seg-0125 / 01:17:04-01:18:09 / SPEAKER_02
+## seg-0125 / 01:17:05-01:18:12 / SPEAKER_02
 
-the Epstein stuff? Yeah, the Epstein fallout, it's very interesting. But let's look at what's happened because of certain release. Who's fallen because of the Epstein files? Larry Summers, who's this democratic deep state operative. You can argue he's probably more powerful than Bill Clinton, but Larry Summers has fallen. He's still disgraced at Harvard. Noam Chomsky has fallen because for the longest time, if you've thought about the quintessential left intellectual that everyone admired was Noam Chomsky. Now everyone's like, whoa, man. I think he lost credibility during COVID. Right, right. And I think that eventually Bill Clinton will be implicated as well, right? Because which individual is probably most implicated in the Epstein files? I would argue Bill Clinton. So it's really interesting how things are playing out, right? Trump is definitely trying to protect his donor class. But at the same time, the way that it's been, that it's playing out is that people who are falling
+Yeah, the Epstein fallout, it's very interesting. But let's look at what's happened because of certain release. Who's fallen because of the Epstein files? Larry Summers, who's this democratic deep state operative. You can argue he's probably more powerful than Bill Clinton, but Larry Summers has fallen. He's still disgraced at Harvard. Noam Chomsky has fallen because for the longest time, if you've thought about the quintessential left intellectual that everyone admired was Noam Chomsky. Now everyone's like, whoa, man. I think he lost credibility during COVID. Right, right. And I think that eventually Bill Clinton will be implicated as well, right? Because which individual is probably most implicated in the Epstein files? I would argue Bill Clinton. So it's really interesting how things are playing out, right? Trump is definitely trying to protect his donor class. But at the same time, the way that it's been, that it's playing out is that people who are falling happen to be Trump's enemies.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0125
 
-## seg-0126 / 01:18:09-01:19:07 / SPEAKER_02
+## seg-0126 / 01:18:13-01:19:11 / SPEAKER_02
 
-happen to be Trump's enemies. So is there a grand strategy here? I don't think people should underestimate Trump. Another thing I will say is that Trump was in fact mentored by Roy Cohn, who is this notorious blackmailer. He was like the OG Jeffrey Epstein of his time, right? And so what happens if you're mentored by someone like that? Well, you basically learn how to get blackmailed, right? So look, Trump, I mean, scandal has followed him his entire life, okay? We have pictures of him going backstage into like this Miss Teen USA pageant, which he owns, when they were naked. Okay, we have pictures of that, okay? I mean, like, is that illegal? No, it's not illegal. Is it wrong? Is it immoral? Yes, but again, he's always checked by his own morality. Right? So nothing implicates Trump, and Trump is just doing this, I think, one, to protect his donor class, two, to sort of
+So is there a grand strategy here? I don't think people should underestimate Trump. Another thing I will say is that Trump was in fact mentored by Roy Cohn, who is this notorious blackmailer. He was like the OG Jeffrey Epstein of his time, right? And so what happens if you're mentored by someone like that? Well, you basically learn how to get blackmailed, right? So look, Trump, I mean, scandal has followed him his entire life, okay? We have pictures of him going backstage into like this Miss Teen USA pageant, which he owns, when they were naked. Okay, we have pictures of that, okay? I mean, like, is that illegal? No, it's not illegal. Is it wrong? Is it immoral? Yes, but again, he's always checked by his own morality. Right? So nothing implicates Trump, and Trump is just doing this, I think, one, to protect his donor class, two, to sort of blow things out of proportion, and three, to slowly go after his enemies strategically.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0126
 
-## seg-0127 / 01:19:07-01:19:12 / SPEAKER_02
+## seg-0127 / 01:19:12-01:19:12 / SPEAKER_02
 
-blow things out of proportion, and three, to slowly go after his enemies strategically. Right.
+Right.
 
 Ref: video:interview-id4whhypcuy@transcript:v1#seg-0127
 
