@@ -1,0 +1,195 @@
+{
+  "packet_id": "interview-uhidrgfypno-semantics-pkt-0007",
+  "source_id": "video:interview-uhidrgfypno",
+  "source_date": "2026-01-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0049",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0050",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0051"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers that Huawei hostility is rooted in the Meng Wanzhou detention and the resulting intelligence-world bad blood, while the host briefly clarifies Trump's role in that episode.",
+      "speaker_attribution": "Jiang answer with host interjection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0052",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0053"
+      ],
+      "kind": "question",
+      "summary": "The host asks what really drives the repeated accusations of Chinese interference in Canadian politics.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0055"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that intelligence bureaucracies manufacture threats to justify themselves and says China has neither reason nor capacity to interfere meaningfully in Canadian politics.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "The host closes the interview on broad agreement with Jiang's diagnosis.",
+      "speaker_attribution": "Host close",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054"
+      ],
+      "note": "The start of Jiang's answer contains a repeated fragment of the host's question before Jiang's actual response becomes clear.",
+      "suggested_speaker": "Jiang after transcript spillover",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says hostility to Huawei is driven less by present security evidence than by lingering bad blood from Meng Wanzhou's detention and the retaliatory hostage crisis.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0049",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Current political diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Huawei",
+        "Meng Wanzhou",
+        "Canada-China",
+        "intelligence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the larger Canada-China agreement is already in place, so intelligence agencies no longer meaningfully control the overall strategic direction.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Current strategic diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Canada-China agreement",
+        "intelligence agencies",
+        "strategy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says intelligence bureaucracies routinely invent or inflate threats in order to justify their existence.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "General model stated on 2026-01-22.",
+      "topic_tags": [
+        "intelligence agencies",
+        "bureaucracy",
+        "threat inflation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the Chinese government gains nothing from interfering in Canadian politics and lacks the expertise, resources, and time to prioritize it.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Current political diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "China",
+        "Canada",
+        "interference",
+        "politics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang contrasts China with India by saying India has more obvious reasons to interfere in Canadian politics but does not receive the same threat framing.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Comparative diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "India",
+        "Canada",
+        "interference",
+        "double standards"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054"
+      ],
+      "moment": "Spy agencies appear less as guardians than as bureaucrats manufacturing the conditions of their own importance.",
+      "source_phrase": "They're always looking to create threats",
+      "why_it_matters": "It condenses Jiang's explanation for why China-interference narratives persist despite weak evidence.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054"
+      ],
+      "moment": "The intelligence world becomes an ecosystem of enemies who may need each other more than they fight each other.",
+      "source_phrase": "These spies, they benefit actually more from working together than they do from fighting against each other",
+      "why_it_matters": "It is Jiang's sharpest image for bureaucratic threat production as mutual reproduction.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "manufactured threat",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Jiang uses this for enemy narratives inflated by intelligence agencies to justify budgets and institutional importance.",
+      "confidence": "high"
+    },
+    {
+      "term": "bad blood",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0049",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Used for the enduring Huawei/Meng/Wanzhou-era resentment structuring Canada-China intelligence hostility.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0049",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0051"
+      ],
+      "note": "Jiang grounds the current Huawei backlash in the earlier Meng Wanzhou detention and the retaliatory detention of two Canadians.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0055"
+      ],
+      "note": "The anti-interference diagnosis is strongly polemical and partly garbled at the segment boundary, so the packet should be read as Jiang's argumentative model rather than a neutral fact pattern."
+    }
+  ]
+}

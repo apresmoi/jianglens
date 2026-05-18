@@ -1,0 +1,1318 @@
+{
+  "id": "evidence:semanticvideo-interview-uhidrgfypno:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-uhidrgfypno",
+  "source_id": "video:interview-uhidrgfypno",
+  "source_title": "Trump's War on Iran / Davos / Canada-China Relations w/ Prof. Jiang Xueqin of Predictive History",
+  "source_url": "https://www.youtube.com/watch?v=uHIdRgFypNo",
+  "source_date": "2026-01-22",
+  "date_precision": "day",
+  "transcript_id": "video:interview-uhidrgfypno@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-uhidrgfypno/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-uhidrgfypno/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-uhidrgfypno/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-uhidrgfypno/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-uhidrgfypno/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-uhidrgfypno/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-uhidrgfypno/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-uhidrgfypno/packet-0008.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-uhidrgfypno/source.yaml",
+    "transcript_path": "content/sources/videos/interview-uhidrgfypno/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 8,
+    "interactions": 31,
+    "speaker_notes": 1,
+    "claims": 37,
+    "signature_moments": 14,
+    "predictions": 9,
+    "models": 8,
+    "glossary_terms": 14,
+    "chronology_notes": 8,
+    "uncertainty_notes": 7
+  },
+  "first_refs": [
+    "video:interview-uhidrgfypno@transcript:v1#seg-0005",
+    "video:interview-uhidrgfypno@transcript:v1#seg-0006",
+    "video:interview-uhidrgfypno@transcript:v1#seg-0008",
+    "video:interview-uhidrgfypno@transcript:v1#seg-0011",
+    "video:interview-uhidrgfypno@transcript:v1#seg-0012",
+    "video:interview-uhidrgfypno@transcript:v1#seg-0014",
+    "video:interview-uhidrgfypno@transcript:v1#seg-0016",
+    "video:interview-uhidrgfypno@transcript:v1#seg-0020"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0001",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0002"
+      ],
+      "kind": "question",
+      "summary": "The host opens the interview, frames Iran as the urgent new topic, and sets up a Fox clip about whether a Trump attack is imminent.",
+      "speaker_attribution": "Host opening setup",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0003"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A quoted Fox News clip lays out an expanded US target set against Iran, its leaders, and associated retaliation risks.",
+      "speaker_attribution": "Quoted Jack Keane clip",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0004"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Jiang still thinks a strike is likely and whether Iran remains too resilient for a decisive American victory.",
+      "speaker_attribution": "Host main Iran question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0005",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Trump will strike Iran, but mostly through recurring airstrikes that cannot deliver regime-change war aims without ground troops.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0007"
+      ],
+      "kind": "question",
+      "summary": "The host asks what a prolonged closure of the Strait of Hormuz would do to the global economy.",
+      "speaker_attribution": "Host follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Hormuz closure would paralyze East Asian energy flows and represents Iran's last-resort escalation card rather than its first move.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0009"
+      ],
+      "kind": "answer",
+      "summary": "Jiang finishes the Hormuz answer by placing closure at the top of an escalation ladder that would amount to world war.",
+      "speaker_attribution": "Jiang continuation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0010"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang how to read reports of a Chinese military airlift into Iran.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0011",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0012"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers from a Chinese strategic perspective that a strike on Iran is fundamentally an attempt to strangle China economically, so Beijing must support Iran materially short of open war.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0013"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether China might send naval vessels into the region.",
+      "speaker_attribution": "Host follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0014"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says China lacks a blue-water navy for direct challenge, so Russia would instead stretch American sea power while China finances the effort.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0015"
+      ],
+      "kind": "question",
+      "summary": "The host pivots from Iran to Mark Carney's Davos speech and introduces the 'values-based realism' topic.",
+      "speaker_attribution": "Host transition question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0016"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A quoted Carney excerpt defines values-based realism as naming great-power rivalry, applying standards consistently, and reducing coercive leverage.",
+      "speaker_attribution": "Quoted Carney speech",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0017",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0018",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0019"
+      ],
+      "kind": "question",
+      "summary": "The host lays out a skeptical reading of Carney's values-based realism, contrasting it with Canadian silence on Israeli violence and asking Jiang for a broader interpretation of the speech.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0020",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0021",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0022",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0023",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Carney's speech is a banker-coded lament: America now exploits its former allies, Canada has become a toxic asset, and the speech markets a search for new backers more than a real moral strategy.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0025"
+      ],
+      "kind": "answer",
+      "summary": "Jiang caps the Carney analysis with a concrete forecast: early election, landslide, then asset stripping.",
+      "speaker_attribution": "Jiang continuation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0026",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0027"
+      ],
+      "kind": "question",
+      "summary": "The host asks what advice Jiang would give a highly dependent Canada facing an aggressive White House and an impossible military comparison with the United States.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0028",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0029",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0030"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Canada has little practical ability to resist absorption and turns the advice question into a deliberately extreme provocation about worshipping Trump to make the pressure disappear.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0031",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0032"
+      ],
+      "kind": "question",
+      "summary": "The host pivots to Carney's Beijing trip, quotes the EV quota terms, and frames the trade package as modest rather than transformative.",
+      "speaker_attribution": "Host transition and setup",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0033",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0034"
+      ],
+      "kind": "question",
+      "summary": "The host describes the EV and canola terms as modest and asks whether the China deal is really strategic and how Trump will respond.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0035",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0036",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0037",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0038",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0039"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the deal is a breakthrough because it slots Canada into a larger North American funnel for Chinese demand, Chinese savings, and future Trump-negotiated financial arrangements.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0040"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Beijing fully understands the long-term banker logic Jiang is attributing to Carney.",
+      "speaker_attribution": "Host follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0041",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0042",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0043"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the real decisions sit at the central-bank level and says Canada-China coordination was arranged before the leaders ever met in Beijing.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0044"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Chinese EV makers might shift production into Canada rather than simply export into the market.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0045",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0046"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says joint-venture production in Canada is already part of the plan and explains EVs as a subsidized political prestige instrument rather than a clean market product.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0047",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "The host shifts to Huawei and asks whether security-establishment hostility is really about spying or something deeper.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0049",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0050",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0051"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers that Huawei hostility is rooted in the Meng Wanzhou detention and the resulting intelligence-world bad blood, while the host briefly clarifies Trump's role in that episode.",
+      "speaker_attribution": "Jiang answer with host interjection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0052",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0053"
+      ],
+      "kind": "question",
+      "summary": "The host asks what really drives the repeated accusations of Chinese interference in Canadian politics.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0055"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that intelligence bureaucracies manufacture threats to justify themselves and says China has neither reason nor capacity to interfere meaningfully in Canadian politics.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "The host closes the interview on broad agreement with Jiang's diagnosis.",
+      "speaker_attribution": "Host close",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0057"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang gives a one-word closing signoff after the host ends the interview.",
+      "speaker_attribution": "Jiang signoff",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054"
+      ],
+      "note": "The start of Jiang's answer contains a repeated fragment of the host's question before Jiang's actual response becomes clear.",
+      "suggested_speaker": "Jiang after transcript spillover",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang predicts that Trump will strike Iran with sustained airstrikes, but those strikes alone will not achieve American war aims.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Immediate forecast stated on 2026-01-22.",
+      "topic_tags": [
+        "Iran",
+        "airstrikes",
+        "Trump",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the US-Iran conflict will remain in the background throughout 2026 because Trump will pause and later resume strikes rather than resolve the war decisively.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "2026 forecast stated on 2026-01-22.",
+      "topic_tags": [
+        "Iran",
+        "2026",
+        "war tempo",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that without committing ground troops, Trump cannot actually topple the Iranian regime because it is too resilient, resourceful, and cohesive.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Current strategic diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Iran",
+        "regime resilience",
+        "ground troops"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats Trump's first-term withdrawal from the nuclear deal, Jerusalem embassy move, Abraham Accords, and Soleimani assassination as the continuity behind the coming Iran strike.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0005",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Retrospective chronology restated on 2026-01-22.",
+      "topic_tags": [
+        "Trump first term",
+        "Iran",
+        "Soleimani",
+        "Israel"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says closing the Strait of Hormuz would paralyze the global economy, especially China, Japan, and South Korea, and would likely force broader military responses.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "War-contingency model stated on 2026-01-22.",
+      "topic_tags": [
+        "Strait of Hormuz",
+        "global economy",
+        "East Asia",
+        "energy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Washington's long-term strategy is to strangle China economically rather than defeat it directly in Southeast Asia through open military confrontation.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Current strategic diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "China",
+        "United States",
+        "economic warfare",
+        "strategy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that a first-island-chain choke plus war in Iran would cut China off from critical oil flows and therefore explains why Beijing must back Iran now.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0011",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Current war model stated on 2026-01-22.",
+      "topic_tags": [
+        "first island chain",
+        "Iran",
+        "China energy",
+        "oil"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that China will send weapon systems and financing to Iran but will not send soldiers or formally enter a war with the United States.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Immediate forecast stated on 2026-01-22.",
+      "topic_tags": [
+        "China",
+        "Iran",
+        "military aid",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that Russia will try to turn its shuttle fleet into a blue-water attritional force and that China will finance that maritime challenge.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "2026 forecast stated on 2026-01-22.",
+      "topic_tags": [
+        "Russia",
+        "blue-water navy",
+        "China financing",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Carney's quoted values-based realism defines the current order as intensifying great-power rivalry conducted through coercive economic integration.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Quoted speech excerpt delivered on 2026-01-22 context.",
+      "topic_tags": [
+        "Mark Carney",
+        "values-based realism",
+        "great-power rivalry"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Carney's Thucydides reference as a signal that America's former allies have become exploited vassals who now need relief from another hegemonic center.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0020",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Interpretive reading stated on 2026-01-22.",
+      "topic_tags": [
+        "Mark Carney",
+        "Thucydides",
+        "hegemony",
+        "Canada"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Carney's Havel allusion amounts to an admission that Canada knowingly benefited from a fraudulent rules-based order while it served the hegemon.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0021",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Interpretive reading stated on 2026-01-22.",
+      "topic_tags": [
+        "Vaclav Havel",
+        "rules-based order",
+        "Canada",
+        "hypocrisy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Carney's speech is not a serious grand strategy but a lament from a jilted ally forced to seek a new arrangement with China.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Current political diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Mark Carney",
+        "China",
+        "Canada",
+        "strategy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Canada's core problem is hollowing-out: capital and talent are fleeing while banker elites tied to transnational capital still govern it.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Current economic diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Canada",
+        "capital flight",
+        "talent flight",
+        "bankers"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang calls Canada a toxic asset whose banker logic is to sell overpriced real estate and weakened legitimacy to foreign capital, especially Qataris and Chinese.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Current economic diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Canada",
+        "toxic asset",
+        "real estate",
+        "foreign capital"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that Carney will call an early election in late spring, win by a landslide, and then begin asset-stripping Canada.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "2026 forecast stated on 2026-01-22.",
+      "topic_tags": [
+        "Mark Carney",
+        "election",
+        "Canada",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Canada has no realistic way to stop American colonization because Washington can entice Canadians with passport conversion and financial guarantees rather than military force.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Current strategic diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Canada",
+        "United States",
+        "colonization",
+        "passports"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Canada's internal vulnerabilities include weak loyalty among a large foreign-born population, bureaucracy-heavy employment, and entrepreneurial flight toward the United States.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Current social diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Canada",
+        "bureaucracy",
+        "entrepreneurship",
+        "migration"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang identifies Alberta separatist pressure as a major vulnerability that Trump could exploit inside Canada.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Current political diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Alberta",
+        "separatism",
+        "Trump",
+        "Canada"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang's stated 'advice' is a rhetorical provocation that total symbolic submission to Trump would buy Canada relief more effectively than resistance.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0029",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Provocative hypothetical stated on 2026-01-22.",
+      "topic_tags": [
+        "Trump",
+        "Canada",
+        "submission",
+        "provocation"
+      ],
+      "claim_type": "normative",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the Carney-Xi deal is a breakthrough that will quickly open the way to larger strategic partnerships.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Near-term forecast stated on 2026-01-22.",
+      "topic_tags": [
+        "Canada-China",
+        "Mark Carney",
+        "breakthrough",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Trump's pressure on Latin America is partly about forcing China to source more agricultural imports from North America instead of Brazil and its neighbors.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Current trade-strategy diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Trump",
+        "Latin America",
+        "Brazil",
+        "China trade"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says a war in Iran would push China to buy more oil from Canada and the United States, making the Canada-China opening part of a larger North American energy logic.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "War-contingency model stated on 2026-01-22.",
+      "topic_tags": [
+        "Iran war",
+        "China oil",
+        "Canada",
+        "United States"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang defines Canada's economic model as resource sales to America, cheap immigrant labor, and money laundering into real estate.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Current structural diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Canada",
+        "economic model",
+        "immigration",
+        "real estate"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the EV deal is a spearhead for broader collaboration that lets Canada attract Chinese savings and lets Chinese firms and households move money into Canadian assets.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0037",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Current strategic model stated on 2026-01-22.",
+      "topic_tags": [
+        "EVs",
+        "Chinese savings",
+        "Canada",
+        "capital flows"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that Trump will let Carney test this arrangement and then seek the same deal himself during an April Beijing visit.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0038",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Near-term forecast stated on 2026-01-22.",
+      "topic_tags": [
+        "Trump",
+        "Beijing",
+        "April",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the decisive Canada-China talks happen between central banks and at the Bank for International Settlements rather than primarily between elected governments.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0041",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Current institutional diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "central banks",
+        "BIS",
+        "Canada-China",
+        "institutional power"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Canada's problem is absorbing global savings into a Ponzi-like asset system while China's problem is underconsumption driven by insecurity and hoarding.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0041",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Current macroeconomic diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Canada",
+        "China",
+        "savings",
+        "consumption"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the memorandum was effectively settled before the Beijing summit and that its real shape will reveal itself over the following year.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Near-term forecast stated on 2026-01-22.",
+      "topic_tags": [
+        "MOU",
+        "Beijing summit",
+        "Canada-China",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that Chinese EV factories will move into Canada through joint ventures as part of the agreement.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Near-term forecast stated on 2026-01-22.",
+      "topic_tags": [
+        "EV factories",
+        "joint ventures",
+        "Canada",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats EVs in China as a political prestige tool for technological image-making rather than a purely economic product line.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Current model stated on 2026-01-22.",
+      "topic_tags": [
+        "EVs",
+        "China",
+        "prestige",
+        "technology"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Chinese EVs are heavily subsidized, lose money, and exist amid overcapacity, so success in Canada would matter politically more than commercially.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0045",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Current industrial diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "EV subsidies",
+        "overcapacity",
+        "Canada",
+        "China"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says hostility to Huawei is driven less by present security evidence than by lingering bad blood from Meng Wanzhou's detention and the retaliatory hostage crisis.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0049",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Current political diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Huawei",
+        "Meng Wanzhou",
+        "Canada-China",
+        "intelligence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the larger Canada-China agreement is already in place, so intelligence agencies no longer meaningfully control the overall strategic direction.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Current strategic diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "Canada-China agreement",
+        "intelligence agencies",
+        "strategy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says intelligence bureaucracies routinely invent or inflate threats in order to justify their existence.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "General model stated on 2026-01-22.",
+      "topic_tags": [
+        "intelligence agencies",
+        "bureaucracy",
+        "threat inflation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the Chinese government gains nothing from interfering in Canadian politics and lacks the expertise, resources, and time to prioritize it.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Current political diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "China",
+        "Canada",
+        "interference",
+        "politics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang contrasts China with India by saying India has more obvious reasons to interfere in Canadian politics but does not receive the same threat framing.",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Comparative diagnosis stated on 2026-01-22.",
+      "topic_tags": [
+        "India",
+        "Canada",
+        "interference",
+        "double standards"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0008"
+      ],
+      "moment": "Hormuz appears as an escalation device more catastrophic than the weapon it resembles.",
+      "source_phrase": "It would really be the nuclear option. It'd be worse than a nuclear bomb",
+      "why_it_matters": "It gives Jiang's Iran model a memorable image for how trade choke points can outrank conventional battlefield destruction.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0005"
+      ],
+      "moment": "Jiang turns the Iran war into a recurring background hum rather than a clean campaign with an endpoint.",
+      "source_phrase": "this U.S.-Iran conflict will be in the background throughout 2026",
+      "why_it_matters": "It sets the temporal structure for the whole interview's geopolitical forecast.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0012"
+      ],
+      "moment": "Jiang reframes Iran from a Middle Eastern target into the hinge of an anti-China strangulation plan.",
+      "source_phrase": "the real reason that trump is going after iran is to destroy chinese economy",
+      "why_it_matters": "It gives the interview its core pivot from regional war to systemic pressure on China.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0014"
+      ],
+      "moment": "The sea contest becomes a grim logistics problem in which Russia absorbs punishment while China bankrolls the friction.",
+      "source_phrase": "create a war of attrition in the seas",
+      "why_it_matters": "It shows Jiang's preference for attritional systems over clean battlefield victory narratives.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0022"
+      ],
+      "moment": "Carney's foreign-policy speech becomes a breakup speech from a discarded imperial partner.",
+      "source_phrase": "We're a jilted lover",
+      "why_it_matters": "It compresses Jiang's whole reading of Canada's mood after American abandonment into one memorable emotional image.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0024"
+      ],
+      "moment": "The nation itself is recast as a diseased financial product waiting for foreign buyers.",
+      "source_phrase": "Canada is a toxic asset",
+      "why_it_matters": "It becomes the organizing metaphor for the later trade, savings, and stablecoin sections.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0030"
+      ],
+      "moment": "Jiang turns geopolitical helplessness into grotesque ceremonial worship.",
+      "source_phrase": "They should make Trump into a god",
+      "why_it_matters": "It is the packet's sharpest provocation and exposes the asymmetry he thinks Canada faces.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0025"
+      ],
+      "moment": "The Carney thesis lands not as generic decline but as a timed electoral sequence ending in disposal of the country.",
+      "source_phrase": "he'll start to asset strip Canada",
+      "why_it_matters": "It converts the prior packet's banker diagnosis into a specific political forecast.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0037"
+      ],
+      "moment": "The trade opening is recast as an attempt to pour Chinese household savings into an overvalued Canadian shell.",
+      "source_phrase": "what Carney really wants ... is access to the household savings of the average Chinese citizen",
+      "why_it_matters": "It is the clearest statement of Jiang's banker reading of the whole Canada-China opening.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0038"
+      ],
+      "moment": "Carney appears as a financier packaging a country the way a salesperson packages a dubious instrument.",
+      "source_phrase": "package a financial resource and sell it really expensive to stupid investors",
+      "why_it_matters": "It sharpens Jiang's moral reading of the Canada file and explains why the deal is about finance more than trade.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0045"
+      ],
+      "moment": "Jiang turns electric vehicles from transport into stagecraft for national prestige.",
+      "source_phrase": "EVs, it's not an economic tool. It's a political tool",
+      "why_it_matters": "It is the packet's sharpest conceptual reversal and explains why EV expansion matters even if the units lose money.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0046"
+      ],
+      "moment": "Canada becomes the place where Chinese overcapacity can be converted into symbolic victory.",
+      "source_phrase": "it would be a huge political victory for the Chinese leadership",
+      "why_it_matters": "It explains why Jiang thinks the Canada market matters despite the small absolute volumes.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054"
+      ],
+      "moment": "Spy agencies appear less as guardians than as bureaucrats manufacturing the conditions of their own importance.",
+      "source_phrase": "They're always looking to create threats",
+      "why_it_matters": "It condenses Jiang's explanation for why China-interference narratives persist despite weak evidence.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054"
+      ],
+      "moment": "The intelligence world becomes an ecosystem of enemies who may need each other more than they fight each other.",
+      "source_phrase": "These spies, they benefit actually more from working together than they do from fighting against each other",
+      "why_it_matters": "It is Jiang's sharpest image for bureaucratic threat production as mutual reproduction.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "nuclear option",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang uses this for Iran's ability to close the Strait of Hormuz and trigger global economic paralysis.",
+      "confidence": "high"
+    },
+    {
+      "term": "escalation ladder",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Used for the sequence of retaliatory moves before Iran would play its most damaging trade choke-point card.",
+      "confidence": "high"
+    },
+    {
+      "term": "first island chain",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Used for the Japan-Taiwan-Philippines arc that Jiang treats as the key maritime choke on China.",
+      "confidence": "high"
+    },
+    {
+      "term": "blue-water navy",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Jiang uses this for ocean-going naval capacity able to challenge US sea power beyond coastal defense.",
+      "confidence": "high"
+    },
+    {
+      "term": "toxic asset",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang uses this banker metaphor for a hollowed-out Canada whose overvalued property and declining legitimacy must be offloaded onto outsiders.",
+      "confidence": "high"
+    },
+    {
+      "term": "values-based realism",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0017",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "In this packet Jiang treats the phrase as rebranding rhetoric rather than a meaningful break from the old order.",
+      "confidence": "high"
+    },
+    {
+      "term": "asset strip Canada",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0025"
+      ],
+      "definition_or_usage": "Used for Jiang's forecast that a Carney supermajority would convert Canada into saleable pieces for outside capital.",
+      "confidence": "high"
+    },
+    {
+      "term": "colonizing Canada",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "Jiang uses this for absorption by the United States through consent, incentives, and internal weakness rather than only invasion.",
+      "confidence": "high"
+    },
+    {
+      "term": "money laundering economy",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0036",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Jiang uses this for a Canadian model in which outside savings and illicit or flight capital are parked in domestic assets.",
+      "confidence": "high"
+    },
+    {
+      "term": "stable coins",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Used here as a possible channel through which Chinese households could buy Canadian currency and resources.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Bank for International Settlements",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "Jiang names it as the coordinating venue where central banks compare problems and align high-level solutions.",
+      "confidence": "high"
+    },
+    {
+      "term": "overcapacity",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Used for a Chinese EV sector producing more units than the domestic market can absorb.",
+      "confidence": "high"
+    },
+    {
+      "term": "manufactured threat",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Jiang uses this for enemy narratives inflated by intelligence agencies to justify budgets and institutional importance.",
+      "confidence": "high"
+    },
+    {
+      "term": "bad blood",
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0049",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Used for the enduring Huawei/Meng/Wanzhou-era resentment structuring Canada-China intelligence hostility.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0005",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0006"
+      ],
+      "note": "Jiang explicitly ties the January 22, 2026 strike forecast back to Trump's first-term Iran and Israel actions, especially Soleimani's assassination.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0015",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0016"
+      ],
+      "note": "This packet closes the Iran escalation thread and then pivots directly into the January 2026 Davos/Carney material.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0020",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0024"
+      ],
+      "note": "Jiang moves from ancient and Cold War allusions inside Carney's speech to a present-tense diagnosis of Canada as a failing asset to be sold abroad.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0025",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0031"
+      ],
+      "note": "The packet closes Jiang's Carney-election forecast and immediately transitions into the Beijing-trip trade agreement details that he says make the forecast plausible.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0033",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0039"
+      ],
+      "note": "The packet moves from the specific January 2026 trade concessions to Jiang's forecast of a larger April Trump-Beijing negotiation built on the same template.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0043",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0044",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0047"
+      ],
+      "note": "The packet moves from the behind-the-scenes prehistory of the Beijing agreement to EV implementation details and then into the Huawei backlash those details triggered.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0049",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0051"
+      ],
+      "note": "Jiang grounds the current Huawei backlash in the earlier Meng Wanzhou detention and the retaliatory detention of two Canadians.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0057"
+      ],
+      "note": "This final packet is only the closing signoff and adds no substantive source claims beyond confirming the interview's end.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0003",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0005",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0008"
+      ],
+      "note": "This packet mixes a quoted US general's threat framing with Jiang's own forecasts about war tempo and Hormuz escalation; the predictive claims are Jiang's model, not transcript-demonstrated outcomes."
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0010",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0011",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0014"
+      ],
+      "note": "The airlift report is introduced as unconfirmed, and Jiang's Chinese, Russian, and US strategic claims are analytic forecasts rather than independently verified logistics facts."
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0020",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0021",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0024"
+      ],
+      "note": "The packet is interpretive and polemical: Jiang is inferring what Carney's allusions and banker background reveal, rather than citing an explicit admission of these motives."
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0028",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0030"
+      ],
+      "note": "The advice sequence is deliberately hyperbolic and satirical in tone, so the normative content should be read as rhetorical pressure rather than a literal policy memo."
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0035",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0038",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0039"
+      ],
+      "note": "These claims about Trump's North American trade design, Carney's motives, and an April Beijing deal are Jiang's speculative synthesis rather than evidenced negotiations in the transcript."
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0041",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0043",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0045"
+      ],
+      "note": "The BIS coordination claim, pre-signed-agreement claim, and EV-factory plan are Jiang's inferred institutional map rather than directly documented agreement text in this packet."
+    },
+    {
+      "refs": [
+        "video:interview-uhidrgfypno@transcript:v1#seg-0054",
+        "video:interview-uhidrgfypno@transcript:v1#seg-0055"
+      ],
+      "note": "The anti-interference diagnosis is strongly polemical and partly garbled at the segment boundary, so the packet should be read as Jiang's argumentative model rather than a neutral fact pattern."
+    }
+  ]
+}
