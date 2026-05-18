@@ -35,6 +35,20 @@ This does not license a jump from every public face to an omnipotent hidden auth
 <span id="secret-society-public-faces-carry-hidden-power" class="lens-point-anchor"></span>
 Public faces carry hidden power when visible officials, billionaires, operatives, platforms, or civilian interfaces serve as agents, mascots, laundering surfaces, imagination-catchers, or timing beneficiaries for a deeper coordination layer that remains harder to name.
 
+## Membership Can Outrank Ideology
+
+The late-processed **2026-01-16** interview adds a noisy but useful test case. Jiang does not treat the public U.S.-China rivalry as unreal in every material respect. He treats the cultural and elite circuits beneath it as evidence that national ideology may be the wrong layer. In his compressed claim, [Wall Street and the Communist Party are closely knit through elite children, schools, and residence patterns]{evidence="video:interview-dhlr7zydlj8@transcript:v1#seg-0047"}. The public story says hostile civilizations. The secret-society lens asks whether the real coordination layer is membership.
+
+The triad passage sharpens the same point. Jiang says the British opium trade was facilitated by triads, that this wealth moved through Britain and Hong Kong, and that the network remained tied to film and elite culture in Hong Kong. The passage should stay attributed and caveated, not treated as independent proof of every named claim. Its lens value is the mechanism: [portable wealth, covert organization, and cultural production can outlive a regime change]{evidence="video:interview-dhlr7zydlj8@transcript:v1#seg-0073 video:interview-dhlr7zydlj8@transcript:v1#seg-0075"}.
+
+The same interview then restates the organizational formula in unusually bare form. Asked whether triads work like other secret societies, Jiang answers that they share [layers, initiation, and eschatologies]{evidence="video:interview-dhlr7zydlj8@transcript:v1#seg-0079"}. He then adds the psychological function: the higher layer becomes stranger because [the eschatology confuses the member and forces loyalty]{evidence="video:interview-dhlr7zydlj8@transcript:v1#seg-0081"}. In this form, doctrine does not need to be coherent to work. It may work because it is incoherent enough that belonging requires self-submission.
+
+<!-- lens-point id="secret-society-membership-outranks-ideology" concept="secret-society-coordination" evidence="video:interview-dhlr7zydlj8@transcript:v1#seg-0047 video:interview-dhlr7zydlj8@transcript:v1#seg-0079 video:interview-dhlr7zydlj8@transcript:v1#seg-0081" -->
+<span id="secret-society-membership-outranks-ideology" class="lens-point-anchor"></span>
+Secret-society coordination outranks ideology when rival national, religious, or public narratives remain visible, but the effective trust layer is shared membership: schools, families, initiation, esoteric doctrine, portable wealth, and loyalty to the club.
+
+This belongs here rather than on [Nation As God-Machine](/lens/nation-as-god-machine/) because the active mechanism is not population unity or state capacity. It belongs here rather than on [How Stories Control Reality](/lens/how-stories-control-reality/) because Hollywood appears as a symptom of permitted imagination, not the main world-making machine. It belongs here rather than on [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) because compliance grids manage populations, while this passage asks how elites recognize one another across the public split.
+
 ## Why Secrecy Is Not Enough
 
 Jiang's cleanest model appears in the **2025-10-17** Secret History lecture on conspiracy. He asks two practical questions: [how secret societies keep everyone quiet, and how they exert power]{evidence="video:predictive-history-ihh1fdw4-ca@transcript:v1#seg-0038"}. The answer is not "because they are invisible." Invisibility alone would make them brittle. The stronger answer is structure.
@@ -112,6 +126,7 @@ This is why the page belongs next to [Eschatology As Script](/lens/eschatology/)
 - **Agency Test**: Does the ritual, oath, command, or sacred role let members say they were instruments of a higher power rather than responsible actors?
 - **Bureaucracy Test**: Is a public institution too siloed to coordinate itself, while an informal network can coordinate across its departments?
 - **Mobility Test**: If capital leaves place, what trust machinery lets it keep moving, pooling, and recognizing partners?
+- **Membership Test**: Do the public ideologies say rivalry while schools, families, wealth storage, initiation, or elite culture show a shared trust layer?
 - **Script Test**: Does the group need explicit command, or does a shared eschatology, prophecy, myth, or mission already make separate actors audition for compatible roles?
 - **Face Test**: Is the visible person or organization the real decision layer, or is it functioning as agent, mascot, legitimacy shell, imagination-catcher, blame surface, or timing beneficiary for a less visible coordination layer?
 - **Guardrail Test**: Is the page naming a real coordination technology, or would incompetence, factional rivalry, incentive convergence, or non-top-down game motion explain the scene better?
@@ -125,6 +140,7 @@ This is why the page belongs next to [Eschatology As Script](/lens/eschatology/)
 - **2025-10-17**, [Secret History #10: The Conspiracy of Evil](/episodes/predictive-history-ihh1fdw4-ca/): The strongest organizational model appears: layers, need-to-know knowledge, incentives, blackmail, transgression, confirmation bias, and cross-bureaucratic coordination.
 - **2025-12-09**, [Secret History #25: Capital of Evil](/episodes/predictive-history-b5fthagng8c/): Secret societies become the trust machinery of mobile capital, and ritual becomes a way to displace responsibility for acts individuals could not bear alone.
 - **2025-12-18**, [Secret History #END: Pax Judaica](/episodes/predictive-history-wfwizn3qopg/): Jiang presents the most caveated version of the conspiracy model: a theory that cannot be proved, but that he treats as useful if it connects past, explains present, and predicts future.
+- **2026-01-16**, [China Without The Good Monorail](/interviews/interview-dhlr7zydlj8/): A noisy interview restates the membership layer directly: rival public ideologies may matter less than elite children, schools, triad wealth, initiation, esoteric doctrine, and club loyalty.
 - **2026-03-11**, [Hubris, Holy War, and the Petrodollar Trap](/interviews/interview-6tqrwlvswrs/): Jiang turns visible names into operational layers of power while preserving the caveat that hidden actors may be positioning around events rather than scripting every event from above.
 - **2026-03-19**, [Game Theory #14: The Law of Proximity](/episodes/predictive-history-noqqgy4boby/): Jiang rejects a unified Jewish-conspiracy reading of Israel by emphasizing old factional division and internal conflict.
 - **2026-04-09**, [Game Theory #20: Mid-Term Examination](/episodes/predictive-history-ue8y5e3hnhe/): Jiang complicates the puppet-master model: agents, secret societies, and myths form a dynamic game rather than a top-down system.
