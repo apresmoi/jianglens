@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-18: Stablecoin debt-transfer belongs inside Power As Alchemy when Jiang frames Treasury-backed digital currency as a way to turn sovereign debt into ordinary money use, platform access, or legal compliance that recruits distant households into financing the issuer. Route attention/wealth-storage claims to Attention Capture, legislative/state channeling to Nation, and Taiwan/capital-control/chokepoint bargaining to Strategy Material Test.
+
 - 2026-05-17: Living-school dark-age thought belongs inside Living School when Jiang frames crisis preparation through teaching: the few students who show up, deeper observation, speculative model testing, thought-process formation, wisdom-seeking, and helping others through darkness. Route will/chosen reality to Free Will, relational/spiritual resilience to Human Heart, AI/screen dependence to Attention, and end-times roles to Eschatology.
 
 - Stable id is `plato`; symbolic name is Plato.
