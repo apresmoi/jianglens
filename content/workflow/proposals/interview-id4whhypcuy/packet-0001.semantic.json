@@ -1,0 +1,137 @@
+{
+  "packet_id": "interview-id4whhypcuy-semantics-pkt-0001",
+  "source_id": "video:interview-id4whhypcuy",
+  "source_date": "2026-01-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0001",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0004"
+      ],
+      "kind": "question",
+      "summary": "The host opens by praising Jiang's game-theoretic and eschatological analysis and asks him to explain who he is and why his analysis has suddenly spread online.",
+      "speaker_attribution": "Host setup and biographical question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0005",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says he studies historical patterns through game theory, validates his models by making predictions, and attributes his recent rise to a correct prediction that Trump would launch war against Iran.",
+      "speaker_attribution": "Jiang self-description",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0007",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0008"
+      ],
+      "kind": "question",
+      "summary": "The host links Jiang's analysis to Orthodox prophecy and asks for Jiang's macro view of 2026 as a possible year of world-war-level upheaval.",
+      "speaker_attribution": "Host macro question",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says his method is to analyze historical patterns with game theory, make predictions, and refine his models according to whether those predictions prove correct.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0005",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Method statement given on 2026-01-17.",
+      "topic_tags": [
+        "game theory",
+        "method",
+        "prediction"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he rose to prominence after correctly predicting that Trump would launch a war against Iran and that current events are now moving toward that climax.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Retrospective on a prior prediction, restated on 2026-01-17.",
+      "topic_tags": [
+        "Iran",
+        "Trump",
+        "prediction",
+        "public rise"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The host frames 2026 as a possible year of world-war-level turmoil and directly prompts Jiang to assess that possibility.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0007",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Question framing on 2026-01-17.",
+      "topic_tags": [
+        "2026",
+        "World War III",
+        "Orthodox prophecy"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0005",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0006"
+      ],
+      "moment": "Jiang presents prediction itself as the test bench for geopolitics rather than as a side effect of commentary.",
+      "source_phrase": "I test these theories by making predictions",
+      "why_it_matters": "It gives the interview its operating rule: Jiang treats forecast accuracy as the way to validate or revise a geopolitical model.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0005"
+      ],
+      "moment": "Jiang ties his internet breakout to one concrete Iran-war call rather than to generic punditry.",
+      "source_phrase": "I blew up on the internet six months ago",
+      "why_it_matters": "It anchors the source in a specific self-understanding: Jiang sees himself as a forecaster whose social credibility came from one war prediction landing.",
+      "tone": "provocation",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "game theory analysis",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0005",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang uses this as historical-pattern analysis of why states act as they do, validated by explicit prediction.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0005"
+      ],
+      "note": "Jiang dates his public breakout to roughly six months before this January 17, 2026 interview and ties it to an earlier Iran-war prediction.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0005"
+      ],
+      "note": "The prior prediction is described only in Jiang's retrospective summary here; the packet does not itself provide the earlier dated source for that prediction."
+    }
+  ]
+}

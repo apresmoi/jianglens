@@ -1,0 +1,153 @@
+{
+  "packet_id": "interview-id4whhypcuy-semantics-pkt-0015",
+  "source_id": "video:interview-id4whhypcuy",
+  "source_date": "2026-01-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0113",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0114"
+      ],
+      "kind": "question",
+      "summary": "An audience member asks for introductory game-theory reading and Jiang recommends Thucydides' account of the Peloponnesian War.",
+      "speaker_attribution": "Audience question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0115",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0116"
+      ],
+      "kind": "question",
+      "summary": "Another audience comment suggests Trump and Putin are trying to weaken NATO and EU power, and Jiang agrees.",
+      "speaker_attribution": "Audience prompt and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0117",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0120"
+      ],
+      "kind": "exchange",
+      "summary": "The host asks whether the US is approaching a Rubicon moment where republic turns to empire, and Jiang ties that danger to a possible 2028 Trump third-term bid.",
+      "speaker_attribution": "Host question and Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang recommends Thucydides' Peloponnesian War as his main entry point into game theory because it traces the structural forces driving conflict.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0114"
+      ],
+      "temporal_scope": "Method recommendation stated on 2026-01-17.",
+      "topic_tags": [
+        "game theory",
+        "Thucydides",
+        "Peloponnesian War"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang agrees that both Putin and Trump want to destroy NATO and sees European behavior around Greenland and Ukraine as proof of their weakness and lack of leverage.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0116",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0117"
+      ],
+      "temporal_scope": "Current geopolitical diagnosis stated on 2026-01-17.",
+      "topic_tags": [
+        "NATO",
+        "Putin",
+        "Trump",
+        "Europe"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that the decisive US constitutional threshold will be the 2028 election, possibly involving a Trump third-term maneuver backed by massive financing.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0118",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0120"
+      ],
+      "temporal_scope": "2028 forecast stated on 2026-01-17.",
+      "topic_tags": [
+        "2028 election",
+        "Trump third term",
+        "Rubicon",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says a Trump third-term outcome would blow through constitutional conventions and checks and balances, marking a genuine American Rubicon crossing.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0118",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0120"
+      ],
+      "temporal_scope": "Conditional constitutional forecast stated on 2026-01-17.",
+      "topic_tags": [
+        "constitution",
+        "checks and balances",
+        "Trump",
+        "empire"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0114"
+      ],
+      "moment": "Game theory is grounded not in abstract math but in a historian who could see structural coercion at work.",
+      "source_phrase": "he sort of steps back and look at the larger structural forces",
+      "why_it_matters": "It names the exact habit Jiang values in geopolitical reading.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0120"
+      ],
+      "moment": "Jiang strips away any playful ambiguity about presidential overreach.",
+      "source_phrase": "He's not joking, man",
+      "why_it_matters": "That blunt line becomes the packet's emotional hinge for the 2028 monarchy-imperium warning.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "crossing of the Rubicon",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0117",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0118"
+      ],
+      "definition_or_usage": "Used for the point where American constitutional forms would give way to open imperial-monarchical politics.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0118"
+      ],
+      "note": "Jiang explicitly places the republic-to-empire threshold at the 2028 election rather than treating it as an undefined long-term drift.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0118"
+      ],
+      "note": "The specific financing amount, ticket scenario, and constitutional outcome are speculative forward projections rather than evidence demonstrated within the source."
+    }
+  ]
+}

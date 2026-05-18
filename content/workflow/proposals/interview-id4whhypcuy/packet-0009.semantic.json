@@ -1,0 +1,151 @@
+{
+  "packet_id": "interview-id4whhypcuy-semantics-pkt-0009",
+  "source_id": "video:interview-id4whhypcuy",
+  "source_date": "2026-01-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0065",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0067"
+      ],
+      "kind": "exchange",
+      "summary": "The host proposes a regionalized world-order reading of American nationalism, and Jiang agrees that major powers appear to be carving the globe into zones.",
+      "speaker_attribution": "Host prompt and Jiang agreement",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0068",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0070"
+      ],
+      "kind": "question",
+      "summary": "The host asks how to read the Russia-Ukraine war, intelligence-agency autonomy, and Russia's wider strategic pressure from Iran and China.",
+      "speaker_attribution": "Host Russia question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0071",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0072"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the western alliance is internally at war, NATO has always been the real belligerent against Russia, and Putin is deliberately prolonging the conflict to fight on favorable attritional terms.",
+      "speaker_attribution": "Jiang Russia answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang agrees that large powers are dividing the world into macro-regions, with America focused on the Western Hemisphere, Israel on the Middle East, and Russia extending eastward.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Current strategic map stated on 2026-01-17.",
+      "topic_tags": [
+        "regions",
+        "Western Hemisphere",
+        "Israel",
+        "Russia"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the western alliance is in civil war between old and new oligarchic factions, so Trump appears in control only superficially while deep-state components still operate autonomously.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Current diagnosis stated on 2026-01-17.",
+      "topic_tags": [
+        "deep state",
+        "western alliance",
+        "oligarchs"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says NATO has effectively been at war with Russia since February 2022 and that actions like major sabotage operations should be read as NATO acts rather than merely Ukrainian ones.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0071",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Retrospective diagnosis restated on 2026-01-17.",
+      "topic_tags": [
+        "NATO",
+        "Russia",
+        "Ukraine war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Putin is dragging out the war intentionally because a long attritional struggle deepens Europe's sunk-cost commitment and lets Russia fight NATO on advantageous terms.",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Strategic model stated on 2026-01-17.",
+      "topic_tags": [
+        "Putin",
+        "attrition",
+        "Europe",
+        "sunk cost"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0072"
+      ],
+      "moment": "Jiang insists that what looks like a Ukrainian war is actually a NATO war in disguise.",
+      "source_phrase": "it's always been NATO",
+      "why_it_matters": "This is the packet's key reframing device for how he wants readers to interpret the entire conflict.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0067"
+      ],
+      "moment": "Nationalism is reinterpreted as the road back into regionalized imperial blocs, not away from them.",
+      "source_phrase": "America will take control of the Western Hemisphere",
+      "why_it_matters": "It turns what looks like anti-globalist energy into a new form of geopolitical partition.",
+      "tone": "reversal",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "sunk cost policy",
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "Jiang uses this to explain why NATO gets more committed as the Ukraine war drags on.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0071",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0072"
+      ],
+      "note": "Jiang dates the real NATO-Russia war back to February 2022 and frames everything since as an intentionally prolonged attrition campaign rather than a stalled invasion.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-id4whhypcuy@transcript:v1#seg-0068",
+        "video:interview-id4whhypcuy@transcript:v1#seg-0071"
+      ],
+      "note": "The host folds many outside reports and intelligence claims into his question; Jiang's answer selectively confirms the larger thesis rather than addressing each factual detail separately."
+    }
+  ]
+}
