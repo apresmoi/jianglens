@@ -8,27 +8,27 @@ welcome everyone good evening welcome back to the show it's your host danny haif
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0001
 
-## seg-0002 / 00:00:57-00:02:02 / SPEAKER_02
+## seg-0002 / 00:00:57-00:02:03 / SPEAKER_02
 
-as the trump administration has said that it has paused strikes we now have lots of news coming out that this could indeed be a very brief pause uh the trump administration told politico donald trump did it's time to look for new leadership in iran this comes as israeli media according to jordanian media citing israeli media saying that a u.s strike against iran is still inevitable and uh that it could only be a matter of timing rather than a possibility according to israel's channel 12. now professor john what's so interesting is we have a situation where the united states got so close to striking iran planes were actually in the air according to many sources and then suddenly there was a pause not going to happen trump says that iran is not going to execute people anymore but i think the truth is a lot deeper than this. Talk about where you see this going
+as the trump administration has said that it has paused strikes we now have lots of news coming out that this could indeed be a very brief pause uh the trump administration told politico donald trump did it's time to look for new leadership in iran this comes as israeli media according to jordanian media citing israeli media saying that a u.s strike against iran is still inevitable and uh that it could only be a matter of timing rather than a possibility according to israel's channel 12. now professor john what's so interesting is we have a situation where the united states got so close to striking iran planes were actually in the air according to many sources and then suddenly there was a pause not going to happen trump says that iran is not going to execute people anymore but i think the truth is a lot deeper than this. Talk about where you see this going in 2026.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0002
 
-## seg-0003 / 00:02:02-00:02:19 / SPEAKER_02
+## seg-0003 / 00:02:04-00:02:20 / SPEAKER_02
 
-in 2026. Is the Iran flashpoint for the United States empire going to be what triggers a major cataclysmic global world war that we have been talking about so much on the show with you and with others? Or is there something
+Is the Iran flashpoint for the United States empire going to be what triggers a major cataclysmic global world war that we have been talking about so much on the show with you and with others? Or is there something else going on?
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0003
 
-## seg-0004 / 00:02:19-00:03:32 / SPEAKER_01
+## seg-0004 / 00:02:20-00:03:33 / SPEAKER_01
 
-else going on? Right? Yeah. So let's talk about Iran. And let's look at the chain of events that led us to today. So for New Year's, Benjamin Netanyahu met with Trump in Mar -a -Lago. And then right afterwards, what happened was that cursing speculators caused the Iranian real to collapse. And so you have these merchants who legitimately went to protest the corruption, the mismanagement of the economy. But then very quickly, these protests, these protests, these protests, started to spread like wildfire across Iran. And then the information landscape, social media, became dominated by anti -Iranian posts saying that the regime was on the brink of collapse. The mullahs had fled to Moscow. All this is just misinformation. And then you saw some protesters who were clearly provocateurs. They started to kill police officers. And then like Pompeo, who used to be Trump's Secretary of State in his first term, he tweeted out that he wished a
+Right? Yeah. So let's talk about Iran. And let's look at the chain of events that led us to today. So for New Year's, Benjamin Netanyahu met with Trump in Mar -a -Lago. And then right afterwards, what happened was that cursing speculators caused the Iranian real to collapse. And so you have these merchants who legitimately went to protest the corruption, the mismanagement of the economy. But then very quickly, these protests, these protests, these protests, started to spread like wildfire across Iran. And then the information landscape, social media, became dominated by anti -Iranian posts saying that the regime was on the brink of collapse. The mullahs had fled to Moscow. All this is just misinformation. And then you saw some protesters who were clearly provocateurs. They started to kill police officers. And then like Pompeo, who used to be Trump's Secretary of State in his first term, he tweeted out that he wished a Happy New Year to these Iranian protesters.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0004
 
-## seg-0005 / 00:03:32-00:04:25 / SPEAKER_01
+## seg-0005 / 00:03:34-00:04:25 / SPEAKER_01
 
-Happy New Year to these Iranian protesters. He believed that regime change was imminent. And he also wanted to greet those Mossad agents who were working alongside those protesters. So he basically let people know that this is in fact a Mossad -CI operation. And then you had these diplomat families, Russians, who were fleeing. And then you had these diplomat families, Russians, who were fleeing. And then you had these diplomat families, Russians, who were fleeing. And then you had these Israel and the Middle East. And then you had these military assets of Americans start to evacuate the Middle East as well. So it seemed very likely that a military operation was imminent. But then what happened next was that the Iranians were able to jam the Starlink terminals. They basically shut off the internet. And then they were able to locate the Starlink terminals and thus able to locate all the Mossad assets working within Iran and
+He believed that regime change was imminent. And he also wanted to greet those Mossad agents who were working alongside those protesters. So he basically let people know that this is in fact a Mossad -CI operation. And then you had these diplomat families, Russians, who were fleeing. And then you had these diplomat families, Russians, who were fleeing. And then you had these diplomat families, Russians, who were fleeing. And then you had these Israel and the Middle East. And then you had these military assets of Americans start to evacuate the Middle East as well. So it seemed very likely that a military operation was imminent. But then what happened next was that the Iranians were able to jam the Starlink terminals. They basically shut off the internet. And then they were able to locate the Starlink terminals and thus able to locate all the Mossad assets working within Iran and
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0005
 
@@ -116,21 +116,21 @@ the israel israelis they're all saying no no this isn't a permanent stop this is
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0019
 
-## seg-0020 / 00:15:46-00:16:55 / SPEAKER_01
+## seg-0020 / 00:15:46-00:16:57 / SPEAKER_01
 
-so uh let's game theory of this war um between the united states and iran how it might play out so Americans, their entire military strategy, regime change, rests on three pillars. These three pillars are propaganda, bombs, and US dollars. Propaganda means that the Americans control the entire information landscape. They're able to create this narrative. Everyone buys into this narrative because the empire controls the medias of authority, including the New York Times, CNN, BBC. It controls YouTube. It controls Facebook. So the Americans are able to inundate the information space with propaganda. We saw this actually with the Ukraine war, where in the first few days, social media was actually convinced that Ukrainians would destroy the Russians. There was this meme called the Ghost of Kiev. I'm not sure if you remember that, but the idea was that there was this one plane, one fighter jet in Kiev knocking down five or six Russian MiGs. It was
+so uh let's game theory of this war um between the united states and iran how it might play out so Americans, their entire military strategy, regime change, rests on three pillars. These three pillars are propaganda, bombs, and US dollars. Propaganda means that the Americans control the entire information landscape. They're able to create this narrative. Everyone buys into this narrative because the empire controls the medias of authority, including the New York Times, CNN, BBC. It controls YouTube. It controls Facebook. So the Americans are able to inundate the information space with propaganda. We saw this actually with the Ukraine war, where in the first few days, social media was actually convinced that Ukrainians would destroy the Russians. There was this meme called the Ghost of Kiev. I'm not sure if you remember that, but the idea was that there was this one plane, one fighter jet in Kiev knocking down five or six Russian MiGs. It was just complete nonsense, but everyone bought into it.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0020
 
-## seg-0021 / 00:16:55-00:18:01 / SPEAKER_01
+## seg-0021 / 00:16:57-00:18:03 / SPEAKER_01
 
-just complete nonsense, but everyone bought into it. That just shows you the power of American propaganda. So that's propaganda. We'll see this a lot where for this entire year, it'll be nothing but propaganda. Basically, you just have to shut off social media because 99 % of what you see on Twitter, on Facebook, on YouTube will just be complete nonsense, right? The media will be focused on how corrupt the regime is in Iran, how popular protests continue to spread throughout Iran, how the Crown Prince, Reza Pahlavi, he's this charismatic man who will restore Iran to its former glory. So it'll be nothing but complete nonsense throughout social media for the next year, okay? I guarantee you, that's propaganda. Then bombs just means that America will use its air supremacy. It has air supremacy throughout the world for some quick strikes, okay? Very similar to Operation Midnight Hammer when they hit a bunker, a military bunker, and
+That just shows you the power of American propaganda. So that's propaganda. We'll see this a lot where for this entire year, it'll be nothing but propaganda. Basically, you just have to shut off social media because 99 % of what you see on Twitter, on Facebook, on YouTube will just be complete nonsense, right? The media will be focused on how corrupt the regime is in Iran, how popular protests continue to spread throughout Iran, how the Crown Prince, Reza Pahlavi, he's this charismatic man who will restore Iran to its former glory. So it'll be nothing but complete nonsense throughout social media for the next year, okay? I guarantee you, that's propaganda. Then bombs just means that America will use its air supremacy. It has air supremacy throughout the world for some quick strikes, okay? Very similar to Operation Midnight Hammer when they hit a bunker, a military bunker, and it did nothing whatsoever, okay?
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0021
 
-## seg-0022 / 00:18:01-00:19:04 / SPEAKER_01
+## seg-0022 / 00:18:03-00:19:04 / SPEAKER_01
 
-it did nothing whatsoever, okay? But for propaganda, they were inflated. They will show how the security of American air power, okay? So that's bombs. And last thing that's most important is US dollars. The idea here is that they're going to use US dollars, US dollars to buy out groups in Iran that might be opposed to the regime. This includes dissidents who have always been there. This includes ethnic minorities, like the Baluchs in Iran. This also includes insurgents in Iraq, so the Kurds. So there was a Kurdish incursion into Iran. Turkey provided some intelligence and the Iranians were able to wipe out these Kurdish insurgents. But expect more of that, okay? So basically, America is trying to print as much US dollars as possible and bribe both the security services as well as insurgents to undermine the regime as possible. So this is what I believe how the war will play out over the next year.
+But for propaganda, they were inflated. They will show how the security of American air power, okay? So that's bombs. And last thing that's most important is US dollars. The idea here is that they're going to use US dollars, US dollars to buy out groups in Iran that might be opposed to the regime. This includes dissidents who have always been there. This includes ethnic minorities, like the Baluchs in Iran. This also includes insurgents in Iraq, so the Kurds. So there was a Kurdish incursion into Iran. Turkey provided some intelligence and the Iranians were able to wipe out these Kurdish insurgents. But expect more of that, okay? So basically, America is trying to print as much US dollars as possible and bribe both the security services as well as insurgents to undermine the regime as possible. So this is what I believe how the war will play out over the next year.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0022
 
@@ -224,33 +224,33 @@ so the national security strategy um outlines how to maintain the american empir
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0037
 
-## seg-0038 / 00:30:02-00:30:58 / SPEAKER_01
+## seg-0038 / 00:30:02-00:31:05 / SPEAKER_01
 
-and so um the national security strategy um calls for either the betterment of europe or the or the undermining of western europe in favoring the rise of right -wing regimes in uh eastern europe that would be much more amenable to american power which include poland hungary austria okay so so that's what the national security strategy says and once we understand what the national security strategy says then what's going on in the world why uh trump is um you know um doing what he what he's doing in the caribbean why he's doing what he's doing in iraq a lot of it is to maintain the american empire and a lot of it is to strangle china economically uh to basically blockade um china so you know china is blockaded um on its eastern front by the first island chain uh and that's why it doesn't really have blue water navy and if iran were to fall
+and so um the national security strategy um calls for either the betterment of europe or the or the undermining of western europe in favoring the rise of right -wing regimes in uh eastern europe that would be much more amenable to american power which include poland hungary austria okay so so that's what the national security strategy says and once we understand what the national security strategy says then what's going on in the world why uh trump is um you know um doing what he what he's doing in the caribbean why he's doing what he's doing in iraq a lot of it is to maintain the american empire and a lot of it is to strangle china economically uh to basically blockade um china so you know china is blockaded um on its eastern front by the first island chain uh and that's why it doesn't really have blue water navy and if iran were to fall law, then China would be blockaded on its Western front as well.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0038
 
-## seg-0039 / 00:30:58-00:31:57 / SPEAKER_01
+## seg-0039 / 00:31:05-00:31:59 / SPEAKER_01
 
-law, then China would be blockaded on its Western front as well. So a lot of it is geared towards China. I'm not saying this is the primary reason, but I'm saying that China is a consideration. So this is a strategy. The problem is that it's schizophrenic and it's confusing because why are you sending a third of your naval assets to the Caribbean to bomb fishing vessels and to kidnap Maduro? And at the same time, you are calling for regime change in Iran. From an American perspective, it's insane what America is doing. And a lot of people didn't believe that Trump would actually strike Iran because the naval assets weren't in place yet. They had to get the ships from the Caribbean all the way back to Iran. They had to go back to the Middle East. And if you keep on doing this, you're just going to exhaust the military. The military just can't move
+So a lot of it is geared towards China. I'm not saying this is the primary reason, but I'm saying that China is a consideration. So this is a strategy. The problem is that it's schizophrenic and it's confusing because why are you sending a third of your naval assets to the Caribbean to bomb fishing vessels and to kidnap Maduro? And at the same time, you are calling for regime change in Iran. From an American perspective, it's insane what America is doing. And a lot of people didn't believe that Trump would actually strike Iran because the naval assets weren't in place yet. They had to get the ships from the Caribbean all the way back to Iran. They had to go back to the Middle East. And if you keep on doing this, you're just going to exhaust the military. The military just can't move back and forth on a whim.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0039
 
-## seg-0040 / 00:31:57-00:33:04 / SPEAKER_01
+## seg-0040 / 00:31:59-00:33:04 / SPEAKER_01
 
-back and forth on a whim. It takes months of planning. It's extremely expensive. These sailors need rest. Trump is just going to exhaust the American military. Trump is not a planner. Look at it this way. He had the most successful TV show. For the longest time, The Apprentice. So he's very good at creating TV ratings. At the same time, every business he touched, whether it's casinos, whether it's restaurants, he bankrupted it. So this is a guy who's concerned first and foremost about optics, doesn't really care about fundamentals, the fundamentals of business, the fundamentals of military. That's why I think in 2026, it's just going to be exhausting where, okay, we know what he's trying to do. But it doesn't make any military sense. Strategically, militarily, geopolitically, it's just idiotic. Why are you pissing off the Europeans who are your allies? Why are you threatening the Canadians who are your allies? Why are you saying, I'm
+It takes months of planning. It's extremely expensive. These sailors need rest. Trump is just going to exhaust the American military. Trump is not a planner. Look at it this way. He had the most successful TV show. For the longest time, The Apprentice. So he's very good at creating TV ratings. At the same time, every business he touched, whether it's casinos, whether it's restaurants, he bankrupted it. So this is a guy who's concerned first and foremost about optics, doesn't really care about fundamentals, the fundamentals of business, the fundamentals of military. That's why I think in 2026, it's just going to be exhausting where, okay, we know what he's trying to do. But it doesn't make any military sense. Strategically, militarily, geopolitically, it's just idiotic. Why are you pissing off the Europeans who are your allies? Why are you threatening the Canadians who are your allies? Why are you saying, I'm
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0040
 
-## seg-0041 / 00:33:04-00:33:54 / SPEAKER_01
+## seg-0041 / 00:33:04-00:33:58 / SPEAKER_01
 
-going to go regime change in Iran when you don't actually have the military capacity to do so and your generals tell you we can't do so? Why are you kidnapping Maduro, which is a direct insult to the sovereignty of the South Americans? So none of this makes sense. Okay? But again, the problem is that Trump is first and foremost concerned about optics. Looking like a great conquering hero. So he's interested in cheap, easy wins, okay? Such as Maduro. Greenland will be a cheap, easy win for him, and then Cuba will probably be a cheap, easy win for him. He's not interested in these long protracted conflicts that might backfire on him. But what he's doing is really delaying the inevitable, right? Because eventually, you're going to have to go to war in Iran, and the further you spread yourself out, it's like what we'll call imperial oversight. The weaker you're going to be in this
+going to go regime change in Iran when you don't actually have the military capacity to do so and your generals tell you we can't do so? Why are you kidnapping Maduro, which is a direct insult to the sovereignty of the South Americans? So none of this makes sense. Okay? But again, the problem is that Trump is first and foremost concerned about optics. Looking like a great conquering hero. So he's interested in cheap, easy wins, okay? Such as Maduro. Greenland will be a cheap, easy win for him, and then Cuba will probably be a cheap, easy win for him. He's not interested in these long protracted conflicts that might backfire on him. But what he's doing is really delaying the inevitable, right? Because eventually, you're going to have to go to war in Iran, and the further you spread yourself out, it's like what we'll call imperial oversight. The weaker you're going to be in this final boss fight with Iran, which is going to happen sooner or later.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0041
 
-## seg-0042 / 00:33:54-00:34:02 / SPEAKER_01
+## seg-0042 / 00:33:58-00:34:02 / SPEAKER_01
 
-final boss fight with Iran, which is going to happen sooner or later. So what's happening in the world, it's just moronic.
+So what's happening in the world, it's just moronic.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0042
 
@@ -266,39 +266,39 @@ as you have pointed out, isolating China and maybe to an extent Russia, but if w
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0044
 
-## seg-0045 / 00:35:54-00:37:04 / SPEAKER_01
+## seg-0045 / 00:35:54-00:37:08 / SPEAKER_01
 
-So I think like the best historical analogy for what's happening today is the Peloponnesian War. It's a book written by Fusilides, who is this Athenian general who was trying to analyze this 30 year war between Sparta and Athens that really destroyed the Athenian empire. And he goes on and lists the mistakes that the Athenian empire made in order to doom itself. And it's the same mistakes that the Americans are making as well, okay? So after the Persian Wars, Athens came across as a savior of the Greek diaspora, okay, across the Aegean. And so it's very similar to, you know, how after World War II, the Europeans thanked America for saving Europe from fascism. But the fear among the Europeans is that the Americans would abandon Europe like they did after World War I. So they created NATO. And the idea of NATO was to ensure that America would always have a military presence in Europe
+So I think like the best historical analogy for what's happening today is the Peloponnesian War. It's a book written by Fusilides, who is this Athenian general who was trying to analyze this 30 year war between Sparta and Athens that really destroyed the Athenian empire. And he goes on and lists the mistakes that the Athenian empire made in order to doom itself. And it's the same mistakes that the Americans are making as well, okay? So after the Persian Wars, Athens came across as a savior of the Greek diaspora, okay, across the Aegean. And so it's very similar to, you know, how after World War II, the Europeans thanked America for saving Europe from fascism. But the fear among the Europeans is that the Americans would abandon Europe like they did after World War I. So they created NATO. And the idea of NATO was to ensure that America would always have a military presence in Europe and defend Europe against the Soviet Union.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0045
 
-## seg-0046 / 00:37:05-00:38:07 / SPEAKER_01
+## seg-0046 / 00:37:09-00:38:11 / SPEAKER_01
 
-and defend Europe against the Soviet Union. And you could argue that as part of this deal, they created something called the Bretton Woods. Okay? And the idea of the Bretton Woods agreement is that the U.S. dollar would become the global reserve currency to facilitate global trade and to ensure that the Americans would not abuse this exorbitant privilege, the U.S. dollar would be paid to gold, okay? So that was the agreement after World War II. Probably since 1971, America was bankrupt, okay? America had spent billions on fighting this pointless war in Vietnam. America was funding the Great Society, Lyndon Johnson's Great Society, which was a great program for Americans, but which was also bankrupting America as well. America had spent billions on the space race as well, sending a man to the moon. So by 1971, America was bankrupt. So Nixon basically said, you know what? I know we promised to pay everyone back
+And you could argue that as part of this deal, they created something called the Bretton Woods. Okay? And the idea of the Bretton Woods agreement is that the U.S. dollar would become the global reserve currency to facilitate global trade and to ensure that the Americans would not abuse this exorbitant privilege, the U.S. dollar would be paid to gold, okay? So that was the agreement after World War II. Probably since 1971, America was bankrupt, okay? America had spent billions on fighting this pointless war in Vietnam. America was funding the Great Society, Lyndon Johnson's Great Society, which was a great program for Americans, but which was also bankrupting America as well. America had spent billions on the space race as well, sending a man to the moon. So by 1971, America was bankrupt. So Nixon basically said, you know what? I know we promised to pay everyone back in gold in exchange for U.S.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0046
 
-## seg-0047 / 00:38:07-00:39:10 / SPEAKER_01
+## seg-0047 / 00:38:11-00:39:13 / SPEAKER_01
 
-in gold in exchange for U.S. dollars, but you know what? Forget that. Forget that. Where U.S. dollar will not be pegged to anything, okay? So too bad. Just imagine U.S. dollars as a tax you pay in order to be free, okay? And after the Soviet Union fell, everyone had no choice but to buy into the system, right? And this created over -financialization in the U.S. economy. It allowed the rich to get richer and the poor to remain rich. And then basically, America became very lazy and shifted its manufacturing to China. And because of all this, we are in a situation where we are today, where basically America is living off rent it collects from the rest of the world. It basically colonized the entire world, and the mechanism it's able to do this is, of course, through the U.S. dollar. And this doesn't work fine until 2022, when Putin invaded
+dollars, but you know what? Forget that. Forget that. Where U.S. dollar will not be pegged to anything, okay? So too bad. Just imagine U.S. dollars as a tax you pay in order to be free, okay? And after the Soviet Union fell, everyone had no choice but to buy into the system, right? And this created over -financialization in the U.S. economy. It allowed the rich to get richer and the poor to remain rich. And then basically, America became very lazy and shifted its manufacturing to China. And because of all this, we are in a situation where we are today, where basically America is living off rent it collects from the rest of the world. It basically colonized the entire world, and the mechanism it's able to do this is, of course, through the U.S. dollar. And this doesn't work fine until 2022, when Putin invaded Ukraine and showed that he's willing to challenge America.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0047
 
-## seg-0048 / 00:39:10-00:40:05 / SPEAKER_01
+## seg-0048 / 00:39:14-00:40:07 / SPEAKER_01
 
-Ukraine and showed that he's willing to challenge America. And not only that, but the Americans used their financial system, they weaponized the financial system in order to sanction Russia. And the classic example, of course, is Schiff. It's Swift. Swift. It basically knocked Russia off, Swift, and it sanctioned Russia. But it failed, and it showed that the U.S. financial system isn't as powerful as you imagine. The other thing that America did, though, which was really stupid, was it basically seized $200 billion in Russian assets. So this is money. that the Russian central bank had stored in Europe and America and basically America said nope it belongs, you can't touch it anymore. And this caused massive panic around the world because if you put your money into America you do so because you think it's protected by law and if America can just seize your money for any reason then people are not willing to put
+And not only that, but the Americans used their financial system, they weaponized the financial system in order to sanction Russia. And the classic example, of course, is Schiff. It's Swift. Swift. It basically knocked Russia off, Swift, and it sanctioned Russia. But it failed, and it showed that the U.S. financial system isn't as powerful as you imagine. The other thing that America did, though, which was really stupid, was it basically seized $200 billion in Russian assets. So this is money. that the Russian central bank had stored in Europe and America and basically America said nope it belongs, you can't touch it anymore. And this caused massive panic around the world because if you put your money into America you do so because you think it's protected by law and if America can just seize your money for any reason then people are not willing to put their money into America anymore.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0048
 
-## seg-0049 / 00:40:05-00:41:07 / SPEAKER_01
+## seg-0049 / 00:40:07-00:41:13 / SPEAKER_01
 
-their money into America anymore. So this caused the Japanese, the Chinese, basically everyone to start buying more gold and exchange their US Treasuries for gold. So basically another way of saying this is that America is this corrupt empire that insists on collecting rent from everyone. People are sick of paying this extortion and they're rebelling against this and so America is using force. Okay? And this is the same thing that the Athenians did back in the Peloponnesian War and it turned these allies into vassal states and eventually into enemies as well and that's what we're seeing happening in Europe today where these former vassal states are now, now have come to see that America is actually a real threat to their peace and prosperity, not Russia. But the other thing that's really interesting about all this and it's really interesting okay is that while this is happening, while America is finally stupid. Sorry, while the Athenians
+So this caused the Japanese, the Chinese, basically everyone to start buying more gold and exchange their US Treasuries for gold. So basically another way of saying this is that America is this corrupt empire that insists on collecting rent from everyone. People are sick of paying this extortion and they're rebelling against this and so America is using force. Okay? And this is the same thing that the Athenians did back in the Peloponnesian War and it turned these allies into vassal states and eventually into enemies as well and that's what we're seeing happening in Europe today where these former vassal states are now, now have come to see that America is actually a real threat to their peace and prosperity, not Russia. But the other thing that's really interesting about all this and it's really interesting okay is that while this is happening, while America is finally stupid. Sorry, while the Athenians are fighting these stupid wars overseas, the Athenians also engage in a civil war.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0049
 
-## seg-0050 / 00:41:07-00:42:18 / SPEAKER_01
+## seg-0050 / 00:41:13-00:42:18 / SPEAKER_01
 
-are fighting these stupid wars overseas, the Athenians also engage in a civil war. Okay? And the reason why is you have this massive oligarchy that comes into being due to all the corruption and this oligarchy creates like they are fighting amongst themselves for status. And we're actually seeing the same situation in America where if you think about it, what's happening in Washington is actually a civil war between the deep state establishment that's financial. Which is Wall Street and making the power through the Clinton or Obama years. Now what Trump represents is the sort of like the new money, the Silicon Valley, AI, surveillance state elite. Okay? As embodying the people like Peter Thiel, Elon Musk, Sam Altman, Palantir, okay? So that's the conflict that's happening and I think that a lot of this domestic business, this conflict in America, it's driven by this deeper divide within the oligarchy. So this pattern we've seen before, okay?
+Okay? And the reason why is you have this massive oligarchy that comes into being due to all the corruption and this oligarchy creates like they are fighting amongst themselves for status. And we're actually seeing the same situation in America where if you think about it, what's happening in Washington is actually a civil war between the deep state establishment that's financial. Which is Wall Street and making the power through the Clinton or Obama years. Now what Trump represents is the sort of like the new money, the Silicon Valley, AI, surveillance state elite. Okay? As embodying the people like Peter Thiel, Elon Musk, Sam Altman, Palantir, okay? So that's the conflict that's happening and I think that a lot of this domestic business, this conflict in America, it's driven by this deeper divide within the oligarchy. So this pattern we've seen before, okay?
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0050
 
@@ -308,15 +308,15 @@ And it leads ultimately what? It leads ultimately to one, revolution in Athens. 
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0051
 
-## seg-0052 / 00:42:53-00:43:46 / SPEAKER_02
+## seg-0052 / 00:42:53-00:43:50 / SPEAKER_02
 
-Yeah. Yeah. I mean, we are now, we already have two flashpoints in 2026 that have already exploded in many ways. We have Venezuela and then Iran and Iran is not done. Neither is Venezuela. Venezuela, which from my estimation, Professor Jiang, the Trump administration essentially conducted a kidnapping operation, left the same government in power and has now millions upon millions of people who support the current government in Venezuela, very angry that their leader was taken from them. And in a context of a regional situation, which I've said this on the show, Professor Jiang, the regional situation in Latin America and South America was not necessarily unfavorable to the United States. And that's because the government was heavily influenced by the West. about what you think it will look like before this? And I know that you have opinions on where that's going to go. So in terms of the future of the American empire, this is
+Yeah. Yeah. I mean, we are now, we already have two flashpoints in 2026 that have already exploded in many ways. We have Venezuela and then Iran and Iran is not done. Neither is Venezuela. Venezuela, which from my estimation, Professor Jiang, the Trump administration essentially conducted a kidnapping operation, left the same government in power and has now millions upon millions of people who support the current government in Venezuela, very angry that their leader was taken from them. And in a context of a regional situation, which I've said this on the show, Professor Jiang, the regional situation in Latin America and South America was not necessarily unfavorable to the United States. And that's because the government was heavily influenced by the West. about what you think it will look like before this? And I know that you have opinions on where that's going to go. So in terms of the future of the American empire, this is a major focus now between Iran and Venezuela.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0052
 
-## seg-0053 / 00:43:46-00:44:01 / SPEAKER_02
+## seg-0053 / 00:43:50-00:44:01 / SPEAKER_02
 
-a major focus now between Iran and Venezuela. How do these two contexts then you know, kind of build the future of the American empire or lay the foundations for the future of the American empire in 2026?
+How do these two contexts then you know, kind of build the future of the American empire or lay the foundations for the future of the American empire in 2026?
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0053
 
@@ -350,27 +350,27 @@ to fight against you
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0058
 
-## seg-0059 / 00:47:34-00:48:37 / SPEAKER_02
+## seg-0059 / 00:47:34-00:48:41 / SPEAKER_02
 
-you. Yeah. Yeah. I mean, you said there's a long history, Professor Jung, of this kind of behavior pissing off people in South America, Latin America, the Caribbean. Now, the Trump administration, the United States, they're not ones to hide. And I think this is a big problem for the American Empire. They're not ones to hide how exactly they want to do things. And we've heard repeatedly from the Trump administration with regard to Iran, for example, and now Venezuela, too, that they want quick, decisive blows. So they want to kind of have their cake and eat it, too. How do you see this playing out now in the rest of 2020 since? Because if the Trump administration is going to try to move in with overwhelming force or sneak attacks or kidnapping operations, coups, this sort of thing, those have a high risk of nothing. So you're saying that they're not succeeding, as we have now seen
+you. Yeah. Yeah. I mean, you said there's a long history, Professor Jung, of this kind of behavior pissing off people in South America, Latin America, the Caribbean. Now, the Trump administration, the United States, they're not ones to hide. And I think this is a big problem for the American Empire. They're not ones to hide how exactly they want to do things. And we've heard repeatedly from the Trump administration with regard to Iran, for example, and now Venezuela, too, that they want quick, decisive blows. So they want to kind of have their cake and eat it, too. How do you see this playing out now in the rest of 2020 since? Because if the Trump administration is going to try to move in with overwhelming force or sneak attacks or kidnapping operations, coups, this sort of thing, those have a high risk of nothing. So you're saying that they're not succeeding, as we have now seen twice already in the first month of 2026.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0059
 
-## seg-0060 / 00:48:37-00:48:58 / SPEAKER_02
+## seg-0060 / 00:48:42-00:48:58 / SPEAKER_02
 
-twice already in the first month of 2026. What does this do then for how does this portend for the rest of even just this year, given that the Trump administration, they want quick, decisive blows? Sounds like they're going to try to land more than a few in the upcoming weeks and months to come.
+What does this do then for how does this portend for the rest of even just this year, given that the Trump administration, they want quick, decisive blows? Sounds like they're going to try to land more than a few in the upcoming weeks and months to come.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0060
 
-## seg-0061 / 00:48:58-00:50:01 / SPEAKER_01
+## seg-0061 / 00:48:58-00:50:04 / SPEAKER_01
 
-Right. So that's exactly Trump's mentality, where he wants quick victory, in order to create the uptake that he is Julius Caesar, that he's just a great conquering hero who will restore the American empire to its greatness. And quite honestly, most Americans actually support his imperial ambitions. I mean, that's just reality on the ground. Poles may say something different, but in their hearts, most Americans aspire to an imperial greatness. It's just human nature. So the reality, though, is that Iran's not going to fall. I mean, yes, it looks unstable. It's been depressed because of American sanctions for decades. But the mullahs are much more resilient, much more resourceful, much more creative than Americans give them credit for. So Iran's not going to fall. So what's going to happen is that Trump's going to get frustrated with the situation in Iran and shift his focus elsewhere, which includes Greenland. Greenland is a quick, easy victory because there's
+Right. So that's exactly Trump's mentality, where he wants quick victory, in order to create the uptake that he is Julius Caesar, that he's just a great conquering hero who will restore the American empire to its greatness. And quite honestly, most Americans actually support his imperial ambitions. I mean, that's just reality on the ground. Poles may say something different, but in their hearts, most Americans aspire to an imperial greatness. It's just human nature. So the reality, though, is that Iran's not going to fall. I mean, yes, it looks unstable. It's been depressed because of American sanctions for decades. But the mullahs are much more resilient, much more resourceful, much more creative than Americans give them credit for. So Iran's not going to fall. So what's going to happen is that Trump's going to get frustrated with the situation in Iran and shift his focus elsewhere, which includes Greenland. Greenland is a quick, easy victory because there's actually nothing the Europeans can do about this.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0061
 
-## seg-0062 / 00:50:01-00:51:12 / SPEAKER_01
+## seg-0062 / 00:50:04-00:51:12 / SPEAKER_01
 
-actually nothing the Europeans can do about this. If Trump just says, listen, I'm going to annex Greenland, no one can stop him. The Germans and the French and the Swedes and the Norwegians are like, we will military defend Greenland. So what do they do? Well, Germany sent 15 soldiers to Greenland. The French sent 13 soldiers to Greenland. Guess what? There's already 150 American troops in Greenland already. So the idea that the Europeans can actually resist this American annexation of Greenland is just retarded. So that's a quick victory. Another quick victory for Trump would be Canada. So the Canadian housing market has collapsed. There's going to be massive layoffs this year. And you'll have certain areas, like Alberta is the most obvious example, that's going to vote to succeed from Canada. And then maybe 20 % of Albertans who vote to actually join the United States. But Trump doesn't care. For him, it's like 100%. 20
+If Trump just says, listen, I'm going to annex Greenland, no one can stop him. The Germans and the French and the Swedes and the Norwegians are like, we will military defend Greenland. So what do they do? Well, Germany sent 15 soldiers to Greenland. The French sent 13 soldiers to Greenland. Guess what? There's already 150 American troops in Greenland already. So the idea that the Europeans can actually resist this American annexation of Greenland is just retarded. So that's a quick victory. Another quick victory for Trump would be Canada. So the Canadian housing market has collapsed. There's going to be massive layoffs this year. And you'll have certain areas, like Alberta is the most obvious example, that's going to vote to succeed from Canada. And then maybe 20 % of Albertans who vote to actually join the United States. But Trump doesn't care. For him, it's like 100%. 20
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0062
 
@@ -404,15 +404,15 @@ Yeah, exactly. That's what I said. That's exactly why I bring this up. It's like
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0067
 
-## seg-0068 / 00:54:28-00:54:48 / SPEAKER_02
+## seg-0068 / 00:54:28-00:54:52 / SPEAKER_02
 
-play in shaping all these other flashpoints in theaters of conflict that the empire is looking at. So where do you see this going in 2026 and influencing the larger geopolitical map here? Yeah, so I think the biggest story in 2026 will be the
+play in shaping all these other flashpoints in theaters of conflict that the empire is looking at. So where do you see this going in 2026 and influencing the larger geopolitical map here? Yeah, so I think the biggest story in 2026 will be the conflict between Russia and the United States in the oceans.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0068
 
-## seg-0069 / 00:54:48-00:55:42 / SPEAKER_01
+## seg-0069 / 00:54:53-00:55:42 / SPEAKER_01
 
-conflict between Russia and the United States in the oceans. So, you know, as everyone knows, the United States for these past couple of months have been engaging in piracy. It embarked on a lot of things. It embarked on a lot of things. It embarked on a lot of things. So if you're an oil tanker, part of the shadow fleet that goes into Venezuela, the Americans reserved the right to board you. And they actually commandeered a couple of ships and basically stole tens of millions of dollars of oil in these ships. Now, what's interesting is the story about Bella 1. Bella 1 is a ship that's part of the shadow fleet. And the American Coast Guard tried to board the ship and Bella 1 just ran away. and uh and then bella one uh raised the russian flag meaning that it's not part of the russian fleet and there was this massive standoff actually uh for
+So, you know, as everyone knows, the United States for these past couple of months have been engaging in piracy. It embarked on a lot of things. It embarked on a lot of things. It embarked on a lot of things. So if you're an oil tanker, part of the shadow fleet that goes into Venezuela, the Americans reserved the right to board you. And they actually commandeered a couple of ships and basically stole tens of millions of dollars of oil in these ships. Now, what's interesting is the story about Bella 1. Bella 1 is a ship that's part of the shadow fleet. And the American Coast Guard tried to board the ship and Bella 1 just ran away. and uh and then bella one uh raised the russian flag meaning that it's not part of the russian fleet and there was this massive standoff actually uh for
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0069
 
@@ -482,21 +482,21 @@ after centuries it is time for Denmark to give back world peace is at stake Chin
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0080
 
-## seg-0081 / 01:04:31-01:04:47 / SPEAKER_02
+## seg-0081 / 01:04:31-01:05:19 / SPEAKER_02
 
-the White House talking about Russia and China regarding this Russia and China are being talked about regarding the naval blockade there's a lot of Russian China on the mind here uh what's the real ploy what's the what's the reality of the situation okay so
+the White House talking about Russia and China regarding this Russia and China are being talked about regarding the naval blockade there's a lot of Russian China on the mind here uh what's the real ploy what's the what's the reality of the situation okay so let's get into what's going on here okay so let's just start off with China's way.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0081
 
-## seg-0082 / 01:04:49-01:06:14 / SPEAKER_01
+## seg-0082 / 01:05:19-01:06:15 / SPEAKER_01
 
-let's get into what's going on here okay so let's just start off with China's way. So the Arctic passage, the Chinese call this the Polar Silk Road. So the Arctic has become a very important geopolitical frontier. That's number one. Number two is that Greenland has tremendous resources. So it has lots of oil off its shores. It has lots of rare earths. Number three is that it's virgin territory. So there's talk of these AI companies going to Greenland and these data centers in Greenland because apparently the electricity there is a lot cheaper. Geothermal energy is a lot cheaper than elsewhere. And plus, because of the temperature, you don't have to worry so much about cooling. So there are lots and lots of good reasons why you want to take Greenland. I think for Trump, again, it's pure optics where you just look at a map. And you're trying to enforce the Monroe Doctrine, the Don Monroe
+So the Arctic passage, the Chinese call this the Polar Silk Road. So the Arctic has become a very important geopolitical frontier. That's number one. Number two is that Greenland has tremendous resources. So it has lots of oil off its shores. It has lots of rare earths. Number three is that it's virgin territory. So there's talk of these AI companies going to Greenland and these data centers in Greenland because apparently the electricity there is a lot cheaper. Geothermal energy is a lot cheaper than elsewhere. And plus, because of the temperature, you don't have to worry so much about cooling. So there are lots and lots of good reasons why you want to take Greenland. I think for Trump, again, it's pure optics where you just look at a map. And you're trying to enforce the Monroe Doctrine, the Don Monroe Doctrine.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0082
 
-## seg-0083 / 01:06:14-01:07:00 / SPEAKER_01
+## seg-0083 / 01:06:15-01:07:00 / SPEAKER_01
 
-Doctrine. Greenland is important because you just look at a map. Greenland is the edge of the Western Hemisphere. So when you take Greenland, you have Greenland up here. You have Alaska over here. Canada is in between. So now, just like mentally speaking, just look at the map. Canada belongs to America. And this is just in terms of optics, perception, which is really the only thing that Trump cares about. Greenland is important. It just looks good on a map for Trump. He wants to be able to pull the green. He wants to have this map and post it everywhere. And the Canadians will freak out because the Canadians will be like, where next? So Trump wants Greenland. He's going to get Greenland. There's nothing the Europeans can do about it. It's that simple.
+Greenland is important because you just look at a map. Greenland is the edge of the Western Hemisphere. So when you take Greenland, you have Greenland up here. You have Alaska over here. Canada is in between. So now, just like mentally speaking, just look at the map. Canada belongs to America. And this is just in terms of optics, perception, which is really the only thing that Trump cares about. Greenland is important. It just looks good on a map for Trump. He wants to be able to pull the green. He wants to have this map and post it everywhere. And the Canadians will freak out because the Canadians will be like, where next? So Trump wants Greenland. He's going to get Greenland. There's nothing the Europeans can do about it. It's that simple.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0083
 
@@ -520,13 +520,13 @@ Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0086
 
 ## seg-0087 / 01:09:25-01:10:19 / SPEAKER_01
 
-much credit okay the United States has become a mafia Empire and Trump is just a mafia boss so what what what they want is money okay and so the idea is the Chinese have the highest household household savings rate in the world about 40 percent okay that's a lot of money and so basically it's very simple Trump is saying to China we want that money okay we want Chinese to buy U.S dollars it's that simple man okay and there are different ways you can do this okay so so let's go over three ways okay the first is buy houses so so the average Chinese consumer is allowed to buy uh property in the Anglo -American Empire which includes Canada Australia New Zealand United States okay that's number one number two is um uh study overseas right so Trump has talked about doubling the number of Chinese students from 200 000 300 000 to 600
+much credit okay the United States has become a mafia Empire and Trump is just a mafia boss so what what what they want is money okay and so the idea is the Chinese have the highest household household savings rate in the world about 40 percent okay that's a lot of money and so basically it's very simple Trump is saying to China we want that money okay we want Chinese to buy U.S dollars it's that simple man okay and there are different ways you can do this okay so so let's go over three ways okay the first is buy houses so so the average Chinese consumer is allowed to buy uh property in the Anglo -American Empire which includes Canada Australia New Zealand United States okay that's number one number two is um uh study overseas right so Trump has talked about doubling the number of Chinese students from 200 000 300 000 to 600 000.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0087
 
 ## seg-0088 / 01:10:19-01:10:52 / SPEAKER_01
 
-000. um okay that's number two number three is stable coins and stable coins are basically these this digital currency that you can purchase from Apple or Google but it's backed by U.S Treasuries and so it's a workaround against capital controls in in China okay so so that's what Trump wants and like you know you'll hear a lot about graduate political strategy and you know a new world order and all that but it's not this nonsense at the end of the day it's just a business transaction Trump is a mafia boss and
+um okay that's number two number three is stable coins and stable coins are basically these this digital currency that you can purchase from Apple or Google but it's backed by U.S Treasuries and so it's a workaround against capital controls in in China okay so so that's what Trump wants and like you know you'll hear a lot about graduate political strategy and you know a new world order and all that but it's not this nonsense at the end of the day it's just a business transaction Trump is a mafia boss and
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0088
 
@@ -640,13 +640,13 @@ Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0106
 
 ## seg-0107 / 01:24:38-01:25:24 / SPEAKER_01
 
-moment it'll be the same at the end of the day right how stupid canadians are i mean like like like you have canadian conservatives on social media saying like oh my god we are we are now hugging the the dragon we are now hugging the the dragon the dragon we are now hugging the the dragon You know, we're currently surrendering our sovereignty to China. Oh, my God. Like, do you guys not know what's going on? Canada has never been a sovereign nation. It's never been sovereign. It's never been a democracy. It is a resource colony of the Anglo -American Empire. It's a vassal state. Right now, Canada has become a toxic asset because of inflated housing prices that have destroyed the Canadian economy. The entire Canadian economy is based on money laundering, by the way. So now that it's a toxic asset, what do you do? Well, as a banker, right? Mark Carney is a
+moment it'll be the same at the end of the day right how stupid canadians are i mean like like like you have canadian conservatives on social media saying like oh my god we are we are now hugging the the dragon we are now hugging the the dragon the dragon we are now hugging the the dragon You know, we're currently surrendering our sovereignty to China. Oh, my God. Like, do you guys not know what's going on? Canada has never been a sovereign nation. It's never been sovereign. It's never been a democracy. It is a resource colony of the Anglo -American Empire. It's a vassal state. Right now, Canada has become a toxic asset because of inflated housing prices that have destroyed the Canadian economy. The entire Canadian economy is based on money laundering, by the way. So now that it's a toxic asset, what do you do? Well, as a banker, right? Mark Carney is a banker.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0107
 
 ## seg-0108 / 01:25:24-01:25:28 / SPEAKER_01
 
-banker. You dump it off to foreign investors. That's what you do. That's the entire game plan, guys.
+You dump it off to foreign investors. That's what you do. That's the entire game plan, guys.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0108
 
@@ -668,15 +668,15 @@ Yeah. Yeah. We have one audience question, Professor Zhang, that I definitely wa
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0111
 
-## seg-0112 / 01:25:59-01:26:59 / SPEAKER_01
+## seg-0112 / 01:25:59-01:27:00 / SPEAKER_01
 
-So I know this is going to sound counterintuitive, okay? But the U.S. treasury is a trap for these nations, okay? So there's a popular saying in finance. If you owe the bank a million dollars, the bank owns you. But if you owe the bank $500 billion, you own the bank, okay? So U.S. treasuries. You don't, I mean, like, don't perceive it as, you know, America owing money to Europe, Japan, and China. It's really, you know, Europe, China, and Japan paying a bribe to America in order to maintain global peace and global trade, okay? So the idea that they would dump the treasuries is nonsense because, one, who would buy these stupid things, okay? I mean, like, no one's going to buy $500 billion of U.S. treasuries. That's number one. Number two is that this is actually a declaration of war because you are now attacking the U.S. dollar, which is a
+So I know this is going to sound counterintuitive, okay? But the U.S. treasury is a trap for these nations, okay? So there's a popular saying in finance. If you owe the bank a million dollars, the bank owns you. But if you owe the bank $500 billion, you own the bank, okay? So U.S. treasuries. You don't, I mean, like, don't perceive it as, you know, America owing money to Europe, Japan, and China. It's really, you know, Europe, China, and Japan paying a bribe to America in order to maintain global peace and global trade, okay? So the idea that they would dump the treasuries is nonsense because, one, who would buy these stupid things, okay? I mean, like, no one's going to buy $500 billion of U.S. treasuries. That's number one. Number two is that this is actually a declaration of war because you are now attacking the U.S. dollar, which is a source of American power.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0112
 
-## seg-0113 / 01:26:59-01:27:29 / SPEAKER_01
+## seg-0113 / 01:27:01-01:27:29 / SPEAKER_01
 
-source of American power. So what the American empire is going to do is come attack you to, like, you know, teach you a lesson. It teaches the world a lesson. And number three, and this is the most important, is that there's actually no viable alternative to the U.S. dollar at this point. If you want to engage in global trade and China, Japan, and Europe need to engage in global trade, then you need the U.S. dollar. It's the most liquid, it's the most universally accepted, it's the most transparent. Unfortunately, that's the case.
+So what the American empire is going to do is come attack you to, like, you know, teach you a lesson. It teaches the world a lesson. And number three, and this is the most important, is that there's actually no viable alternative to the U.S. dollar at this point. If you want to engage in global trade and China, Japan, and Europe need to engage in global trade, then you need the U.S. dollar. It's the most liquid, it's the most universally accepted, it's the most transparent. Unfortunately, that's the case.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0113
 
@@ -718,12 +718,12 @@ Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0119
 
 ## seg-0120 / 01:29:46-01:30:34 / SPEAKER_02
 
-Of course. It was a great conversation, everybody. Thank you to everyone who gave. Thank you to all the members here as well. Many of you gave super chats are already members. That's great. Without further ado, everyone, hit the like button before you go, because that helps keep the conversation going for those who didn't catch the live. It boosts the stream in YouTube's algorithm. Go to the video description to find both Professor Jiang's YouTube and sub -stack, as well as all the places to support this work, Patreon, sub -stack, and much more. I will be back in a couple of days. I'll let you know what's going on. I'm in the process of moving, as you can see. So expect that it will be maybe a little more hectic these days. But nonetheless, you will get the information and the analysis coming to you for the rest of the month. So without further ado, everyone, take
+Of course. It was a great conversation, everybody. Thank you to everyone who gave. Thank you to all the members here as well. Many of you gave super chats are already members. That's great. Without further ado, everyone, hit the like button before you go, because that helps keep the conversation going for those who didn't catch the live. It boosts the stream in YouTube's algorithm. Go to the video description to find both Professor Jiang's YouTube and sub -stack, as well as all the places to support this work, Patreon, sub -stack, and much more. I will be back in a couple of days. I'll let you know what's going on. I'm in the process of moving, as you can see. So expect that it will be maybe a little more hectic these days. But nonetheless, you will get the information and the analysis coming to you for the rest of the month. So without further ado, everyone, take care.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0120
 
 ## seg-0121 / 01:30:34-01:30:43 / SPEAKER_02
 
-care. I'll see you again soon. Thanks for coming out on this Martin Luther King Jr. Saturday weekend. And I'll see you again soon. Bye bye.
+I'll see you again soon. Thanks for coming out on this Martin Luther King Jr. Saturday weekend. And I'll see you again soon. Bye bye.
 
 Ref: video:interview-h5lcj0d4dpy@transcript:v1#seg-0121
