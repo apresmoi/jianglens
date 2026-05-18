@@ -40,6 +40,8 @@ shared:
     secrets:
       - name: GH_TOKEN
         required: true
+      - name: MOLTNET_AGENT_TOKEN
+        required: true
       - name: MOLTNET_OPERATOR_TOKEN
         required: true
     packages:
@@ -70,8 +72,24 @@ networks:
         bind: 0.0.0.0
         port: 8787
       auth:
-        mode: open
+        mode: bearer
+        public_read: true
+        agent_registration: disabled
+        client:
+          token_id: agent-attachments
         tokens:
+          - id: agent-attachments
+            secret: MOLTNET_AGENT_TOKEN
+            scopes:
+              - observe
+              - write
+              - attach
+            agents:
+              - socrates
+              - sentinel
+              - virgil
+              - aristotle
+              - plato
           - id: operator-console
             secret: MOLTNET_OPERATOR_TOKEN
             scopes:
@@ -84,9 +102,15 @@ networks:
           mode: durable
       human_ingress: true
       direct_messages: false
+      trust_forwarded_proto: true
+      allowed_origins:
+        - https://moltnet.jianglens.com
+        - http://178.104.47.56:8787
     rooms:
       - id: episode-floor
         name: Episode Floor
+        visibility: public
+        write_policy: members
         members:
           - socrates
           - sentinel
@@ -95,6 +119,8 @@ networks:
           - plato
       - id: lead-office
         name: Lead Office
+        visibility: private
+        write_policy: members
         members:
           - socrates
 
