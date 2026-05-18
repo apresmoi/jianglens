@@ -1,0 +1,35 @@
+id: "video:interview-acpe2tgkbje@transcript:v1"
+source_id: "video:interview-acpe2tgkbje"
+version: 1
+language: "en"
+language_probability: 0.998
+duration_seconds: 7558.978
+segments: 170
+word_count: 19392
+speakers:
+  - "SPEAKER_00"
+  - "SPEAKER_01"
+  - "SPEAKER_02"
+chronology:
+  source_date: "2026-01-09"
+  date_precision: "day"
+  chronology_status: "dated"
+  date_gate_passed: true
+automation:
+  canon_promotion_allowed: true
+  human_review_policy: "report-driven"
+  speaker_label_source: "diarization"
+  semantic_pass: "agent-required"
+  accepts_error_reports: true
+segmentation:
+  strategy: "word-timestamp-chunks"
+  max_words: 160
+  max_seconds: 180
+  timed_phrase_chunks: "preserved-when-word-timestamps-exist"
+generated_from:
+  source_artifact_dir: "content/sources/raw/youtube/Interviews/UCaHcyeCeN0GXHvLFgDWSOxg/ACPE2tGkBjE"
+  youtube_metadata: null
+  youtube_metadata_source: null
+  transcription_json_sha256: "4818cb4186d7f5e74657bfddd201d5ae6c9ba9af621c2d10b906b51d2f7724ba"
+  grouped_json_sha256: "82f6ae83bb45cd46f9aec9834e5ed9e122c136c35fbcd24e6f47a2a32e196688"
+  dump_json_sha256: "196ce81955ccb9949b32c12cdcfbca77af9af8673f66970c29030457d0fe7b66"
