@@ -2,27 +2,27 @@
 
 Source: https://www.youtube.com/watch?v=MCJNO0XrlY8
 
-## seg-0001 / 00:00:09-00:00:46 / SPEAKER_01
+## seg-0001 / 00:00:09-00:00:48 / SPEAKER_01
 
-Welcome to Recombination Nation. Today, I am talking to one of my favorite new geopolitical analysts, Professor Jiang, who I've been following his work for, I think, at least a year now. It's exploded on YouTube with his prolific series of lectures and podcasts that he's done, talking about all of the different threads in history and geopolitics and culture, weaving them together in a way that I think the world is hungry for at the moment in these uncertain times. So, Professor Jiang, do you want to tell us a bit more about your life journey and how you ended up in this
+Welcome to Recombination Nation. Today, I am talking to one of my favorite new geopolitical analysts, Professor Jiang, who I've been following his work for, I think, at least a year now. It's exploded on YouTube with his prolific series of lectures and podcasts that he's done, talking about all of the different threads in history and geopolitics and culture, weaving them together in a way that I think the world is hungry for at the moment in these uncertain times. So, Professor Jiang, do you want to tell us a bit more about your life journey and how you ended up in this really peculiar position in life?
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0001
 
-## seg-0002 / 00:00:46-00:01:41 / SPEAKER_00
+## seg-0002 / 00:00:49-00:01:43 / SPEAKER_00
 
-really peculiar position in life? Yeah, well, thanks so much for inviting me to be on your show, Shane. I'm really looking forward to having a pretty thorough discussion with you. So, for most of my career, I have been an educator. So, I'm very interested in inspiring young people to think for themselves. And I've tried many different strategies. And these past four years, I've been focused on the teaching of history and trying to tell history as a coherent story, how we got to where we are and where we're going. And I've been uploading these lectures on YouTube. And one thing that I do that's interesting is I try to use history as a guide to understand history. And I've been doing that for a long time. And I've been doing that for a long time. And I've been doing that for a long time. And I've been doing that for a long time. And I've been
+Yeah, well, thanks so much for inviting me to be on your show, Shane. I'm really looking forward to having a pretty thorough discussion with you. So, for most of my career, I have been an educator. So, I'm very interested in inspiring young people to think for themselves. And I've tried many different strategies. And these past four years, I've been focused on the teaching of history and trying to tell history as a coherent story, how we got to where we are and where we're going. And I've been uploading these lectures on YouTube. And one thing that I do that's interesting is I try to use history as a guide to understand history. And I've been doing that for a long time. And I've been doing that for a long time. And I've been doing that for a long time. And I've been doing that for a long time. And I've been doing that for a long time.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0002
 
-## seg-0003 / 00:01:41-00:02:21 / SPEAKER_00
+## seg-0003 / 00:01:43-00:02:21 / SPEAKER_00
 
-doing that for a long time. And I've been doing that for a long time. And I've been doing that for a long time. And I've been doing that for a long time. And now, I'm going to maybe expand my energy a little bit so that I can Ohhh, we can take a break, but let's start looking at studying history. I've been playing a game called Cryptomime challenges. A new game that I've been playing and now I'm playing one for, for Polish Telia Piece. So, as far as I know, that's how beaucoup I don't know how to explain everything that really goes with theatrics yet. And it's much better. And I've been playing a game called поддерж, which I started playing doing I predicted that he would start a war with Iran and I predicted that there'll be civil conflict in the United States. So those are my three major predictions. And unfortunately, they're unfolding pretty
+And I've been doing that for a long time. And I've been doing that for a long time. And I've been doing that for a long time. And now, I'm going to maybe expand my energy a little bit so that I can Ohhh, we can take a break, but let's start looking at studying history. I've been playing a game called Cryptomime challenges. A new game that I've been playing and now I'm playing one for, for Polish Telia Piece. So, as far as I know, that's how beaucoup I don't know how to explain everything that really goes with theatrics yet. And it's much better. And I've been playing a game called поддерж, which I started playing doing I predicted that he would start a war with Iran and I predicted that there'll be civil conflict in the United States. So those are my three major predictions. And unfortunately, they're unfolding pretty accurately.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0003
 
 ## seg-0004 / 00:02:21-00:02:25 / SPEAKER_00
 
-accurately. So that's why my channel blew up on YouTube.
+So that's why my channel blew up on YouTube.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0004
 
@@ -32,27 +32,27 @@ So what would you say is your ultimate motivation for all the research and the o
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0005
 
-## seg-0006 / 00:02:34-00:03:26 / SPEAKER_00
+## seg-0006 / 00:02:34-00:03:27 / SPEAKER_00
 
-Well, I have three kids. I have three young children. And I want to build them a legacy. I want to educate them to think for themselves. I want them to give them the tools to be masters of their own destiny. So that's what personally drives me. At the same time, I feel that even though we as humans were headed towards decades of tribulation, of chaos, of conflict. I still believe that during this time of troubles and tribulation, we still have the capacity to imagine for ourselves a brighter future. And so, I want to teach people to think in a certain way that allows them to better understand the past so as to better imagine
+Well, I have three kids. I have three young children. And I want to build them a legacy. I want to educate them to think for themselves. I want them to give them the tools to be masters of their own destiny. So that's what personally drives me. At the same time, I feel that even though we as humans were headed towards decades of tribulation, of chaos, of conflict. I still believe that during this time of troubles and tribulation, we still have the capacity to imagine for ourselves a brighter future. And so, I want to teach people to think in a certain way that allows them to better understand the past so as to better imagine the future.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0006
 
-## seg-0007 / 00:03:26-00:04:01 / SPEAKER_01
+## seg-0007 / 00:03:27-00:04:01 / SPEAKER_01
 
-the future. Yeah. Yeah. I see that as wisdom as a form of cultural inheritance that one generation can gather together and pass on to the next to help them make the best decisions possible in life. Exactly. That's exactly correct. Yes. And also, you have an unusual kind of backstory for a historian that you started out, I believe, in literature and philosophy. And how has that kind of changed your approach? Does that give you a kind of outsider's advantage over people who are just trained to be historians from like the very beginning?
+Yeah. Yeah. I see that as wisdom as a form of cultural inheritance that one generation can gather together and pass on to the next to help them make the best decisions possible in life. Exactly. That's exactly correct. Yes. And also, you have an unusual kind of backstory for a historian that you started out, I believe, in literature and philosophy. And how has that kind of changed your approach? Does that give you a kind of outsider's advantage over people who are just trained to be historians from like the very beginning?
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0007
 
-## seg-0008 / 00:04:02-00:05:01 / SPEAKER_00
+## seg-0008 / 00:04:02-00:05:04 / SPEAKER_00
 
-Well, from a very early age, I love to read. And my reading is very broad. So, I love to read science fiction. I love to read history. I was a major fan of the Foundation series by Asimov. Like, I read all his books. And there were like dozens and dozens of them. And I've always been a very curious person. I've been a very astute observer. I'm very interested in why people behave the way they do. I really have a deep sense of empathy. And so, I think those are my three major strengths. I'm a curious person. I love to read. And I have high empathy. I studied English literature at Yale because that was really the best department at Yale. I actually went into Yale hoping to study physics and mathematics because I'm Chinese. But I just fell in love with literature. I just fell in love with Milton. I just fell in love with
+Well, from a very early age, I love to read. And my reading is very broad. So, I love to read science fiction. I love to read history. I was a major fan of the Foundation series by Asimov. Like, I read all his books. And there were like dozens and dozens of them. And I've always been a very curious person. I've been a very astute observer. I'm very interested in why people behave the way they do. I really have a deep sense of empathy. And so, I think those are my three major strengths. I'm a curious person. I love to read. And I have high empathy. I studied English literature at Yale because that was really the best department at Yale. I actually went into Yale hoping to study physics and mathematics because I'm Chinese. But I just fell in love with literature. I just fell in love with Milton. I just fell in love with Shakespeare, with Keats, with Shelley.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0008
 
-## seg-0009 / 00:05:01-00:05:36 / SPEAKER_00
+## seg-0009 / 00:05:05-00:05:36 / SPEAKER_00
 
-Shakespeare, with Keats, with Shelley. Because for me, they were asking the question of like, why are we here? And where are we going? They were trying to, in their poetry, decipher the fundamental truths of what it means to be human. And that's something that I've wrestled with all my life. So, I don't think that I'm a historian. If you ask me like what you do, like who are you? I would just say I'm an educator. And I'm interested in the pursuit of knowledge. I'm a deeply curious person. And it's really the internet that has grounded me as a historian.
+Because for me, they were asking the question of like, why are we here? And where are we going? They were trying to, in their poetry, decipher the fundamental truths of what it means to be human. And that's something that I've wrestled with all my life. So, I don't think that I'm a historian. If you ask me like what you do, like who are you? I would just say I'm an educator. And I'm interested in the pursuit of knowledge. I'm a deeply curious person. And it's really the internet that has grounded me as a historian.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0009
 
@@ -68,15 +68,15 @@ had an even longer, bigger economic boom due to Chinese trade, but it didn't tri
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0011
 
-## seg-0012 / 00:07:00-00:08:07 / SPEAKER_00
+## seg-0012 / 00:07:00-00:08:10 / SPEAKER_00
 
-Yeah, that's a great question. And that's very observant. And I think this is true for most nations in the world. I think that Japanese culture, it's very pervasive. You know, so anime is extremely popular among young kids. But then you look at Japanese literature, and especially Japanese cinema, right? So, Karasawa is one of my favorite movie makers of all time. And some of these Japanese movies are just, you know, they're just, you know, they're just, you know, they're just profound, deeply profound. Tokyo Story is one of the best films ever made. Chinese philosophy, Shintoism, it's really deep. And when you go to Japan, it's very easy to fall in love with the culture because Japanese people take extreme pride in being Japanese. There's a professionalism, there's a profound patriotism that is embedded in Japanese society. And that is a very inspiring, very moving feeling when you're in Japan. The problem with China is that Chinese
+Yeah, that's a great question. And that's very observant. And I think this is true for most nations in the world. I think that Japanese culture, it's very pervasive. You know, so anime is extremely popular among young kids. But then you look at Japanese literature, and especially Japanese cinema, right? So, Karasawa is one of my favorite movie makers of all time. And some of these Japanese movies are just, you know, they're just, you know, they're just, you know, they're just profound, deeply profound. Tokyo Story is one of the best films ever made. Chinese philosophy, Shintoism, it's really deep. And when you go to Japan, it's very easy to fall in love with the culture because Japanese people take extreme pride in being Japanese. There's a professionalism, there's a profound patriotism that is embedded in Japanese society. And that is a very inspiring, very moving feeling when you're in Japan. The problem with China is that Chinese society and Japanese society are not alike in any way.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0012
 
-## seg-0013 / 00:08:07-00:09:07 / SPEAKER_00
+## seg-0013 / 00:08:11-00:09:07 / SPEAKER_00
 
-society and Japanese society are not alike in any way. So Japan, Japanese people and Chinese people, they share genetic origins. They're basically the same race. Japan was settled by Chinese who migrated over there like 1000, 1000 years ago. So it's really the same, same race of people. But the cultures are night and day. So Japan, it's an island. And it's a very poor island that has always been threatened by China, which is hegemon. And that forced Japanese people to be more insular, but also more unified, to see themselves as one people. And they're an extremely resilient people. So whenever they feel as though they're falling behind, they come together as a people and make the necessary social, political, and cultural changes. And that's what I think is really important. I think in Japan, there's a lot of economic changes to improve as a people. So the most recent example, of course, was the Meiji Restoration.
+So Japan, Japanese people and Chinese people, they share genetic origins. They're basically the same race. Japan was settled by Chinese who migrated over there like 1000, 1000 years ago. So it's really the same, same race of people. But the cultures are night and day. So Japan, it's an island. And it's a very poor island that has always been threatened by China, which is hegemon. And that forced Japanese people to be more insular, but also more unified, to see themselves as one people. And they're an extremely resilient people. So whenever they feel as though they're falling behind, they come together as a people and make the necessary social, political, and cultural changes. And that's what I think is really important. I think in Japan, there's a lot of economic changes to improve as a people. So the most recent example, of course, was the Meiji Restoration.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0013
 
@@ -88,13 +88,13 @@ Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0014
 
 ## seg-0015 / 00:09:37-00:09:46 / SPEAKER_01
 
-Whereas China's had the luxury of being so big that they can afford to ignore the rest of the world for much of the time. That's exactly correct. That's exactly
+Whereas China's had the luxury of being so big that they can afford to ignore the rest of the world for much of the time. That's exactly correct. That's exactly correct.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0015
 
 ## seg-0016 / 00:09:46-00:11:02 / SPEAKER_00
 
-correct. So China is in the opposite situation where it is the hegemon of East Asia. And it feels invincible because it's protected by these natural borders. It has the sea to the east. It has the Himalaya to the west, desert to the north, and then the jungles of Southeast Asia to the South. So China feels invincible. It's a middle kingdom, and it's never really developed a culture of self -reflection and open -mindedness and innovation. Much more problematic is that for thousands of years, it's had this bureaucratic culture. And the bureaucracy is first and foremost interested in it does that by controlling the culture and so there's very little grassroots dynamic innovation in China and whatever innovation is created through you know local storytelling it's captured by the center and it's at it and it's edited out it's diluted it like the the culture becomes extremely conformist extremely bureaucratic extremely top -down and as a result
+So China is in the opposite situation where it is the hegemon of East Asia. And it feels invincible because it's protected by these natural borders. It has the sea to the east. It has the Himalaya to the west, desert to the north, and then the jungles of Southeast Asia to the South. So China feels invincible. It's a middle kingdom, and it's never really developed a culture of self -reflection and open -mindedness and innovation. Much more problematic is that for thousands of years, it's had this bureaucratic culture. And the bureaucracy is first and foremost interested in it does that by controlling the culture and so there's very little grassroots dynamic innovation in China and whatever innovation is created through you know local storytelling it's captured by the center and it's at it and it's edited out it's diluted it like the the culture becomes extremely conformist extremely bureaucratic extremely top -down and as a result
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0016
 
@@ -572,15 +572,15 @@ So another thing I wonder. I wonder if there's parallels between the world wars 
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0095
 
-## seg-0096 / 00:56:29-00:57:33 / SPEAKER_00
+## seg-0096 / 00:56:29-00:57:34 / SPEAKER_00
 
-Yeah, I think the wars will be driven by civil discontent around the world. So let's just use the United States as an example. So you have the problem of elite overproduction, meaning, like, as the pie gets smaller and smaller, because the economy is shrinking and America's global hegemony is declining, then... But the problem is that the elites just keep on increasing. You know, you have more wealthy people, you have more powerful people. And so now they're competing against each other for more power. In fact, the way that I understand the second Trump presidency is a civil war. We're in a deep state in the United States. And I think that's what's happening. I think that Trump and his allies, they plan to overthrow the establishment. You know, next week, or sorry, this week, Peter Hexdev has called a meeting of, like, 800 of, like, the top military officers of the American empire. And Trump will
+Yeah, I think the wars will be driven by civil discontent around the world. So let's just use the United States as an example. So you have the problem of elite overproduction, meaning, like, as the pie gets smaller and smaller, because the economy is shrinking and America's global hegemony is declining, then... But the problem is that the elites just keep on increasing. You know, you have more wealthy people, you have more powerful people. And so now they're competing against each other for more power. In fact, the way that I understand the second Trump presidency is a civil war. We're in a deep state in the United States. And I think that's what's happening. I think that Trump and his allies, they plan to overthrow the establishment. You know, next week, or sorry, this week, Peter Hexdev has called a meeting of, like, 800 of, like, the top military officers of the American empire. And Trump will be there as well.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0096
 
-## seg-0097 / 00:57:33-00:58:24 / SPEAKER_00
+## seg-0097 / 00:57:34-00:58:24 / SPEAKER_00
 
-be there as well. This has never happened in history, because, like, why would you do this? And I think the answer is you're planning on a bureaucratic... You're planning to force these generals to swear loyalty to the Trump regime. And as a result of this, then you will have much more conflict in America. You know, Antifa, in many ways, it's the militant arm of the Democratic Party. And these white -winged militias that are the militant arm of the Republican Party. And I can easily see in the next couple of years these forces clashing against each other. So... It's not that the people are organically fighting each other. It's, like, the deep state is trying to resolve their political differences in the streets of America by instigating a civil war, basically.
+This has never happened in history, because, like, why would you do this? And I think the answer is you're planning on a bureaucratic... You're planning to force these generals to swear loyalty to the Trump regime. And as a result of this, then you will have much more conflict in America. You know, Antifa, in many ways, it's the militant arm of the Democratic Party. And these white -winged militias that are the militant arm of the Republican Party. And I can easily see in the next couple of years these forces clashing against each other. So... It's not that the people are organically fighting each other. It's, like, the deep state is trying to resolve their political differences in the streets of America by instigating a civil war, basically.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0097
 
@@ -590,15 +590,15 @@ Another thing I'm really curious about is the potential for new technologies to 
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0098
 
-## seg-0099 / 00:59:05-01:00:15 / SPEAKER_00
+## seg-0099 / 00:59:05-01:00:20 / SPEAKER_00
 
-Yeah, I would say, like, for the past 20 years, America has perfected this sort of, like, shadow warfare, right? This shadow asymmetrical information warfare. And Libya, Syria are all examples of this, where America was not... They didn't send its soldiers, but its special forces were backing these militia groups. It was using the Internet to spread propaganda. And it was using aerial bombardment to weaken the regime. Most of warfare nowadays is psychological. You're trying to change people's perceptions, right? You're trying to weaken their resolve. And that's what we're seeing happening, actually, in Iran today. Where, you know, there's this massive propaganda campaign against the Iranian people. Trying to reduce their resolve. Trying to make them more frustrated with the regime. And that's really the future warfare. Even in Ukraine, it... I mean... Russia was fighting NATO all this time. Because even though it was, you know, the Ukrainians that were the boots on the ground, it
+Yeah, I would say, like, for the past 20 years, America has perfected this sort of, like, shadow warfare, right? This shadow asymmetrical information warfare. And Libya, Syria are all examples of this, where America was not... They didn't send its soldiers, but its special forces were backing these militia groups. It was using the Internet to spread propaganda. And it was using aerial bombardment to weaken the regime. Most of warfare nowadays is psychological. You're trying to change people's perceptions, right? You're trying to weaken their resolve. And that's what we're seeing happening, actually, in Iran today. Where, you know, there's this massive propaganda campaign against the Iranian people. Trying to reduce their resolve. Trying to make them more frustrated with the regime. And that's really the future warfare. Even in Ukraine, it... I mean... Russia was fighting NATO all this time. Because even though it was, you know, the Ukrainians that were the boots on the ground, it was NATO military strategy and tactics.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0099
 
-## seg-0100 / 01:00:15-01:00:41 / SPEAKER_00
+## seg-0100 / 01:00:20-01:00:41 / SPEAKER_00
 
-was NATO military strategy and tactics. It was NATO targeting, NATO weaponry, NATO drones, NATO special forces. So, the idea... So, in all future wars, these wars will be much more hybrid. It'll be much more diverse. It'll be much more stealth, much more informational, much more psychological.
+It was NATO targeting, NATO weaponry, NATO drones, NATO special forces. So, the idea... So, in all future wars, these wars will be much more hybrid. It'll be much more diverse. It'll be much more stealth, much more informational, much more psychological.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0100
 
@@ -650,15 +650,15 @@ It's a diminishing return on complexity, basically. And I wonder if the elites �
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0108
 
-## seg-0109 / 01:05:51-01:06:45 / SPEAKER_00
+## seg-0109 / 01:05:51-01:06:47 / SPEAKER_00
 
-Right. Okay. So I think you're making an incorrect assumption. The incorrect assumption is that with more data, with more technology, the bureaucrats are able to make better decisions. And that's not true. So you just look at an example like ChatGPT, right? So my students have access to ChatGPT. And you would think that with ChatGPT, they could write better essays because ChatGPT will provide the structure. They have instant access to all the evidence, all the facts that they would need. They just have to, like, you know, make some subtle changes and make it more human -like. But guess what? They become over -reliant on ChatGPT and their essays become obviously written by artificial intelligence, right? It's – they don't even try anymore. So that's the issue with technology in that. We assume that technology, it will empower us to be better thinkers, and that's true for maybe, like, 1 % of the population. But for most
+Right. Okay. So I think you're making an incorrect assumption. The incorrect assumption is that with more data, with more technology, the bureaucrats are able to make better decisions. And that's not true. So you just look at an example like ChatGPT, right? So my students have access to ChatGPT. And you would think that with ChatGPT, they could write better essays because ChatGPT will provide the structure. They have instant access to all the evidence, all the facts that they would need. They just have to, like, you know, make some subtle changes and make it more human -like. But guess what? They become over -reliant on ChatGPT and their essays become obviously written by artificial intelligence, right? It's – they don't even try anymore. So that's the issue with technology in that. We assume that technology, it will empower us to be better thinkers, and that's true for maybe, like, 1 % of the population. But for most people, it's – people are lazy.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0109
 
-## seg-0110 / 01:06:45-01:07:22 / SPEAKER_00
+## seg-0110 / 01:06:47-01:07:22 / SPEAKER_00
 
-people, it's – people are lazy. They're – they'll become dependent. They'll become subservient to the technology. And I don't think – I don't think this is different in the bureaucracy. Like, you know, Palantir, if they provide all this information to the police, it's not going to make the police much more efficient. It's going to make them much more inefficient because they're going to stop using their brains and they're going to start relying more on the software. And the software is clumsy. Like, all software, it's badly coded. It's very clumsy. It's going to make tons of mistakes. And what's going to happen is that the bureaucracy will spend so much time trying to remedy these mistakes or justifying these mistakes, you know, they don't have time to be proactive.
+They're – they'll become dependent. They'll become subservient to the technology. And I don't think – I don't think this is different in the bureaucracy. Like, you know, Palantir, if they provide all this information to the police, it's not going to make the police much more efficient. It's going to make them much more inefficient because they're going to stop using their brains and they're going to start relying more on the software. And the software is clumsy. Like, all software, it's badly coded. It's very clumsy. It's going to make tons of mistakes. And what's going to happen is that the bureaucracy will spend so much time trying to remedy these mistakes or justifying these mistakes, you know, they don't have time to be proactive.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0110
 
@@ -686,15 +686,15 @@ mm -hmm a couple of related questions do you think civilizations get better at g
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0114
 
-## seg-0115 / 01:10:02-01:11:00 / SPEAKER_00
+## seg-0115 / 01:10:02-01:11:02 / SPEAKER_00
 
-well I'll refer to Oswald Spengler here right for Oswald Spengler a civilization is no different from a human life it's meant to be born it's meant to rise and it's meant to die so civilizations aren't meant to be born they're meant to die and go away and I think that's why the Western civilization has been so innovative because these civilizations died and a new selection came into place and these civilizations were able to learn the mistakes of previous civilizations and adapt to new circumstances, you know, like periods of tremendous human creativity include the Bronze Age collapse, right? Because after the Bronze Age collapse, you had the collapse of the Mycenaean state, and then the rise of the Greek polis, which became the foundation for Western civilization. But you also had, because of the decline of Egyptian power, the rise of a new kingdom called the Kingdom of Israel, run by David, the Davidic kingdom. And
+well I'll refer to Oswald Spengler here right for Oswald Spengler a civilization is no different from a human life it's meant to be born it's meant to rise and it's meant to die so civilizations aren't meant to be born they're meant to die and go away and I think that's why the Western civilization has been so innovative because these civilizations died and a new selection came into place and these civilizations were able to learn the mistakes of previous civilizations and adapt to new circumstances, you know, like periods of tremendous human creativity include the Bronze Age collapse, right? Because after the Bronze Age collapse, you had the collapse of the Mycenaean state, and then the rise of the Greek polis, which became the foundation for Western civilization. But you also had, because of the decline of Egyptian power, the rise of a new kingdom called the Kingdom of Israel, run by David, the Davidic kingdom. And that's what gave us the Bible.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0115
 
-## seg-0116 / 01:11:00-01:11:27 / SPEAKER_00
+## seg-0116 / 01:11:02-01:11:27 / SPEAKER_00
 
-that's what gave us the Bible. So, I think all civilizations, they should die at some point, because then it allows for innovation, human creativity to flourish. The problem with China is that because of its unique geographic location, because of its size, because of the basic, just the law of inertia, it's been around for like too long. And eventually, it needs to go away.
+So, I think all civilizations, they should die at some point, because then it allows for innovation, human creativity to flourish. The problem with China is that because of its unique geographic location, because of its size, because of the basic, just the law of inertia, it's been around for like too long. And eventually, it needs to go away.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0116
 
@@ -706,13 +706,13 @@ Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0117
 
 ## seg-0118 / 01:11:47-01:12:54 / SPEAKER_00
 
-Yeah, so the rule that I learned in China is, if you don't get in people's way, if you don't really try to make too much money for yourself, no one cares. Because the paradigm is, you only want power in order to obtain wealth. Because power is a zero sum game, and everyone's in competition with each other. So if you're not participating in this game of power, then people think that it's because you're worthless, or you're stupid, or you're weak, in which case you don't matter. So to be honest with you, I've been here for almost 30 years, I've had multiple opportunities to become extremely wealthy. And I chose not to participate in money making. So the easiest example is, you know, I was in China doing international education in 2008. And this was like, at the start of the boom. And I was at a very good public school and I had all these connections
+Yeah, so the rule that I learned in China is, if you don't get in people's way, if you don't really try to make too much money for yourself, no one cares. Because the paradigm is, you only want power in order to obtain wealth. Because power is a zero sum game, and everyone's in competition with each other. So if you're not participating in this game of power, then people think that it's because you're worthless, or you're stupid, or you're weak, in which case you don't matter. So to be honest with you, I've been here for almost 30 years, I've had multiple opportunities to become extremely wealthy. And I chose not to participate in money making. So the easiest example is, you know, I was in China doing international education in 2008. And this was like, at the start of the boom. And I was at a very good public school and I had all these connections overseas.
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0118
 
 ## seg-0119 / 01:12:54-01:13:47 / SPEAKER_00
 
-overseas. I'm a Yale graduate, and I knew a lot of mission officers in America, and I could have easily, easily started a construction company. I had a consultancy like a boutique consultancy and made millions of dollars for myself a year. But if I were to do that, I would surrender my freedom to think for myself. Because I would have to have investors, I would need to pay off officials, I would need to have you know, partners, I would bought into the system. In which case I become... Captive of success. Yeah, yeah, I would lose my independence. Yeah. I would lose my independence. um i will maintain my freedom but i will have to give a success because you cannot have both okay and and you know i'll be honest with you you know there's many many years when i wanted to move back to the western world when i would when i gave up on
+I'm a Yale graduate, and I knew a lot of mission officers in America, and I could have easily, easily started a construction company. I had a consultancy like a boutique consultancy and made millions of dollars for myself a year. But if I were to do that, I would surrender my freedom to think for myself. Because I would have to have investors, I would need to pay off officials, I would need to have you know, partners, I would bought into the system. In which case I become... Captive of success. Yeah, yeah, I would lose my independence. Yeah. I would lose my independence. um i will maintain my freedom but i will have to give a success because you cannot have both okay and and you know i'll be honest with you you know there's many many years when i wanted to move back to the western world when i would when i gave up on
 
 Ref: video:interview-mcjno0xrly8@transcript:v1#seg-0119
 
