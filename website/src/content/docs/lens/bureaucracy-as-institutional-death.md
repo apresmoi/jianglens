@@ -31,6 +31,18 @@ Bureaucracy processes compliant innocence when procedure needs activity more tha
 
 The human result is alienation. People do not want to work because the organization no longer needs them as humans. They cannot negotiate, cannot rise, and feel like machines. In Jiang's closing phrase, [the world is becoming more bureaucratic and it is killing us]{evidence="video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0064"}. The death is not only economic. It is civic and spiritual: people stop believing their effort changes anything.
 
+## Security Threats As Office Fuel
+
+The **2026-01-22** Canada-China interview gives the same problem-selling machine a state-security form. The topic is Huawei, Canadian intelligence hostility, and accusations of Chinese interference. Jiang first refuses the clean public explanation. The hostility is not only a neutral risk assessment; he traces it to [bad blood between Huawei, Canada, China, and intelligence agencies after the Meng Wanzhou affair]{evidence="video:interview-uhidrgfypno@transcript:v1#seg-0049 video:interview-uhidrgfypno@transcript:v1#seg-0051"}. Then he generalizes through John le Carre's spy novels: intelligence services appear as bureaucracies that must keep proving why they exist.
+
+The important move is not the country label. Jiang is not saying every accusation is false because bureaucracy exists. He is naming a reproduction mechanism. A security office gains budget, status, secrecy, media relevance, and institutional necessity when there is a threat to manage. That creates pressure to discover threats, preserve threats, or even cooperate with adversaries in ways that keep the office meaningful. His sharp phrase is that spies are [basically bureaucrats, always looking to create threats]{evidence="video:interview-uhidrgfypno@transcript:v1#seg-0054"}.
+
+<!-- lens-point id="bureaucracy-manufactures-threats" concept="bureaucracy-institutional-death" evidence="video:interview-uhidrgfypno@transcript:v1#seg-0054 video:interview-uhidrgfypno@transcript:v1#seg-0055" -->
+<span id="bureaucracy-manufactures-threats" class="lens-point-anchor"></span>
+Bureaucracy manufactures threats when security offices, spy services, or threat experts need danger to justify their existence; enemies can become co-producers of institutional relevance rather than only targets of institutional action.
+
+This belongs on the bureaucracy page because the active mechanism is institutional self-justification. [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/) owns hidden cross-silo trust and covert binding. [Strategy Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) owns whether a named enemy can actually damage the board. Bureaucracy owns the office logic: the threat may be real, exaggerated, stale, displaced, or selectively emphasized, but the institution has an incentive to keep the threat surface alive.
+
 ## The Empire That Wins And Freezes
 
 Bureaucracy is not always useless at first. This is what keeps the concept from becoming a slogan.
@@ -89,6 +101,8 @@ Ask whether problems are being solved at the human level or escalated into proce
 
 Ask who is easiest to process. A bureaucracy that avoids dangerous work while pursuing compliant people is no longer responding to guilt, need, or risk. It is selecting targets that keep procedure alive.
 
+Ask what threat keeps the office alive. A security bureaucracy may need a foreign agent, extremist, disinformation campaign, campus danger, compliance risk, or public-health emergency not only because danger exists, but because danger is how the office explains its budget, secrecy, authority, and media relevance.
+
 Ask what the bureaucracy monopolizes. Status? Literacy? Data? History? Funding? Promotion? Narrative? The stronger the monopoly over the reality in which everyone else must speak, the more likely the institution can survive while killing rival sources of life.
 
 Ask whether the system can still admit the person who founded its greatness. Could this university hire the teacher who would disrupt it? Could this science fund Newton's theology, Galileo's abrasiveness, or Einstein's odd path? Could this empire tolerate artists, merchants, generals, prophets, and borderland innovators who do not need official approval?
@@ -122,6 +136,13 @@ Finally, ask what exits remain. Jiang's modern bureaucracy lecture ends with gri
   `video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0045`
   `video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0048`  
   `video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0064`
+
+- **2026-01-22**, [Iran As Chokepoint, Canada As Toxic Asset](/interviews/interview-uhidrgfypno/)  
+  The interview extends the problem-selling machine into state security: Huawei hostility and China-interference accusations become a case where intelligence bureaucracies preserve relevance by creating or maintaining threat narratives.
+  `video:interview-uhidrgfypno@transcript:v1#seg-0049`
+  `video:interview-uhidrgfypno@transcript:v1#seg-0051`
+  `video:interview-uhidrgfypno@transcript:v1#seg-0054`
+  `video:interview-uhidrgfypno@transcript:v1#seg-0055`
 
 ## Related Concepts
 
