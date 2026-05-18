@@ -67,6 +67,18 @@ Mass society becomes a digital permission grid when identity, money, apps, locat
 
 This belongs on the mass-society page because the active mechanism is population-scale administration. [Power As Alchemy](/lens/power-as-alchemy/) owns stablecoins when sovereign debt becomes ordinary money use. [Attention Capture](/lens/attention-capture-as-capital-extraction/) owns AI when it directs consciousness from inside the person. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the state body that wants population, loyalty, and war capacity. Mass society owns the control grid as such: the infrastructure that makes large populations legible enough to manage.
 
+## Ruin Becomes Administrative Terrain
+
+The late-processed **January 17, 2026** interview adds a harsher origin story for the same grid. Jiang is not only describing a stable society adding digital controls to an existing population. He imagines destroyed states as blank administrative terrain: Libya, Syria, Iraq, and Gaza become places where reconstruction can import labor, install AI infrastructure, and rebuild society around surveillance from the beginning.
+
+His formulation is deliberately brutal. Once a place is destroyed, [what can now be built is a utopia for control]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0036"}: imported Filipino, Chinese, or Indian labor can be made dependent, microchipped, and managed as obedient workers. The point is not that Jiang is offering a policy endorsement. It is that he sees ruin itself as an opportunity for population design. Destruction strips away older social bonds, law, memory, and claims to place; reconstruction can then make the new order feel normal because every wage, ID, worksite, apartment, app, and border permission is built into the same environment.
+
+<!-- lens-point id="mass-society-ruin-becomes-administrative-terrain" concept="mass-society-constraint" evidence="video:interview-id4whhypcuy@transcript:v1#seg-0035 video:interview-id4whhypcuy@transcript:v1#seg-0036 video:interview-id4whhypcuy@transcript:v1#seg-0037" -->
+<span id="mass-society-ruin-becomes-administrative-terrain" class="lens-point-anchor"></span>
+Mass-society control can begin in reconstruction when ruined territory, imported labor, AI infrastructure, microchipping, and surveillance are joined so a population is administered from the first conditions of rebuilt life.
+
+This belongs here because the active mechanism is not only AI, empire, or eschatology. [Attention Capture](/lens/attention-capture-as-capital-extraction/) owns the inner steering of consciousness. [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) owns the war and geography that create the ruins. [Eschatology As Script](/lens/eschatology/) owns the sacred role language around Israel, AI, and end-times order. Mass society owns the rebuilt environment as population-management system: a place where control is not added after society forms, but installed as the condition under which mass life resumes.
+
 ## Artificial Elites And The Human Heart
 
 The 2024 psychohistory final class adds a political anthropology. Jiang says mass society is a historical accident, a deviation from most human history. Once it exists, it needs elites. But the elites are artificial. The people in charge are not metaphysically better than everyone else; they require fictions that make power feel legitimate.
@@ -117,6 +129,7 @@ Use this lens when a political system, reform, revolution, school, platform, or 
 - **Control Test**: What keeps the mass from tearing the order apart: bureaucracy, religion, war, school, money, media, surveillance, welfare, or sacred authority?
 - **Infrastructure Test**: Is the visible platform or office only the public face of a deeper cable, classroom, clinic, feed, payment, or security system?
 - **Permission-Grid Test**: Which identity, payment, app, location, purchase, or AI-analysis layer can grant, delay, freeze, or deny ordinary action without dramatic public force?
+- **Reconstruction Test**: After destruction, who designs the rebuilt environment, imports the labor, controls identity and movement, and decides whether surveillance is optional or part of ordinary life?
 - **Exit Test**: If capitalism, theocracy, nationalism, or bureaucracy is rejected, what carries the functions it was carrying?
 - **Heart Test**: Does coordination preserve curiosity, love, creation, courage, and growth, or does it require obedience and human-heart repression?
 - **Forgetting Test**: What older relation to nature, divinity, imagination, family, community, or practical courage has been made illegible by machine-function?
@@ -128,6 +141,7 @@ Use this lens when a political system, reform, revolution, school, platform, or 
 - **2025-03-27**, [The Iron Cage Of Protestant Anxiety](/episodes/predictive-history-tcxloijz8v0/): Jiang gives the cleanest political formula: mass society limits options because millions or billions must be fed, organized, and occupied.
 - **2025-09-11**, [You Are Now The Pharaoh](/episodes/predictive-history-6pdfd44dkqa/): Jiang projects the mass-society control problem into early civilizations, modern control surfaces, and infrastructure beneath public platforms, while explicitly caveating the Egyptian reconstruction as speculative.
 - **2025-10-21**, [Imagination Came Before Civilization](/episodes/predictive-history-lvhsg5qtds8/): Jiang names mass society as spiritual forgetting: obedience, machine-function, work, school, and separation from the divine.
+- **2026-01-17**, [World War As Ponzi Collapse, Kingship, And Chokepoint Empire](/interviews/interview-id4whhypcuy/): Jiang describes ruined Middle Eastern states as possible reconstruction terrain for imported labor, AI infrastructure, microchipping, and surveillance-centered control.
 - **2026-01-24**, [Iran Is The Pivot, And Empire Burns The World Around It](/interviews/interview-2f3osvzg2ti/): Jiang describes the digital-permission form of control: child-safety language can open the path to digital ID, digital currency, financial repression, and quiet bank-account freezing.
 - **2026-02-15** and **2026-04-07**, [War Prediction, Control, And The Rebellion Of Imagination](/interviews/interview-lma4p2gdxzm/) and [The Empire Has No Easy Off-Ramp](/interviews/interview-wio-7-gios/): the same grid widens into AI surveillance, data centers, online monitoring, phone location, purchases, and political microanalysis.
 - **2026-04-28**, [The Population Becomes The Weapon](/episodes/predictive-history-txgpfnxgzce/): Jiang turns the constraint into war: population management becomes survival when enemies target civilians, infrastructure, anger, and unrest.
@@ -139,4 +153,5 @@ Use this lens when a political system, reform, revolution, school, platform, or 
 - [Education As A Soul Game](/lens/education-as-a-soul-game/) - for school as the formation system that trains obedience, abstraction, national memory, or living judgment.
 - [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) - for the inner powers mass control represses or must learn to honor.
 - [Eschatology As Script](/lens/eschatology/) - for the story-form that can make suffering, martyrdom, and endurance meaningful under population-targeting pressure.
+- [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) - for the war, geography, and empire decisions that can produce the ruins mass administration later rebuilds.
 - [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/) - for the metaphysical wall where attention and imagination make the managed environment feel like the only reality.
