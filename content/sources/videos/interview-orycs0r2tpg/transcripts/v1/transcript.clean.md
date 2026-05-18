@@ -32,27 +32,27 @@ So 2026 then, what are, I guess, the main things you are looking at?
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0005
 
-## seg-0006 / 00:01:26-00:02:32 / SPEAKER_00
+## seg-0006 / 00:01:26-00:02:36 / SPEAKER_00
 
-Right, so for me, I think the big event of 2026. Will be this April, when Trump visits China on a state visit, his first and his second term. And the US -China relationship will be the big question for 2026. Russia, the war in Ukraine, it's basically pretty settled. It's stabilized. What will happen between Europe, NATO, Russia, we can basically forecast easily. But what's really up in the air. Is the US -China relationship. So what Trump wants to do is go to China and negotiate a grand bargain between China and the United States. Remember that in 1971, Nixon removed the US dollar from the gold standard. And so the US dollar was now free floating. So to stabilize the US dollar, to give it value, he did two things. The first is he established the petrol dollar. Meaning that Saudi Arabia would only allow for. Its oil to be purchased by US dollars. And the second
+Right, so for me, I think the big event of 2026. Will be this April, when Trump visits China on a state visit, his first and his second term. And the US -China relationship will be the big question for 2026. Russia, the war in Ukraine, it's basically pretty settled. It's stabilized. What will happen between Europe, NATO, Russia, we can basically forecast easily. But what's really up in the air. Is the US -China relationship. So what Trump wants to do is go to China and negotiate a grand bargain between China and the United States. Remember that in 1971, Nixon removed the US dollar from the gold standard. And so the US dollar was now free floating. So to stabilize the US dollar, to give it value, he did two things. The first is he established the petrol dollar. Meaning that Saudi Arabia would only allow for. Its oil to be purchased by US dollars. And the second thing that he did was he visited China to open up China.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0006
 
-## seg-0007 / 00:02:32-00:03:31 / SPEAKER_00
+## seg-0007 / 00:02:37-00:03:36 / SPEAKER_00
 
-thing that he did was he visited China to open up China. And so what America did in the 1980s was transfer technology. Um, and, um, expertise to China, open its market so that China would become addicted to the US dollar. And for, you know, a few decades, this relationship worked really well, but then the United States started to abuse its exorbitant privilege. It started to print too much US dollars. It started to engage in these wars in the Middle East that were causing the, um, debt to balloon. Then you have the 2008, 2009, uh, great financial crisis. So China became much more worried about the value, the stability of the US dollar. So now, so then it began, began to, uh, try to internationalize the, the UN, uh, it created something called the gold corridor, the Shanghai gold exchange. So it's trying to, uh, recalibrate the financial market. So it become much more stable and
+And so what America did in the 1980s was transfer technology. Um, and, um, expertise to China, open its market so that China would become addicted to the US dollar. And for, you know, a few decades, this relationship worked really well, but then the United States started to abuse its exorbitant privilege. It started to print too much US dollars. It started to engage in these wars in the Middle East that were causing the, um, debt to balloon. Then you have the 2008, 2009, uh, great financial crisis. So China became much more worried about the value, the stability of the US dollar. So now, so then it began, began to, uh, try to internationalize the, the UN, uh, it created something called the gold corridor, the Shanghai gold exchange. So it's trying to, uh, recalibrate the financial market. So it become much more stable and China would have much more sovereignty, um, in the global trade system.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0007
 
-## seg-0008 / 00:03:31-00:04:26 / SPEAKER_00
+## seg-0008 / 00:03:36-00:04:29 / SPEAKER_00
 
-China would have much more sovereignty, um, in the global trade system. And this is now destabilizing the US dollar. So what Trump wants to do is to, um, force China to continue to buy US dollars, because remember if China were to dump all of its US treasuries, then there'll be a sovereign debt crisis in United States. So, um, Trump needs to figure out how to liberalize the Chinese financial markets and to get, to get Chinese. He needs to continue to buy, uh, more US dollars. And that's where we're seeing what we're seeing right now. Right. So, uh, by invading Venezuela, um, what Trump hopes to do is force China to, uh, buy oil using US dollars. So where, where does China get most of its oil? It gets most of its oil from the Middle East. So if it were, if Trump were to attack Iran and destabilize the Middle East, then China will be
+And this is now destabilizing the US dollar. So what Trump wants to do is to, um, force China to continue to buy US dollars, because remember if China were to dump all of its US treasuries, then there'll be a sovereign debt crisis in United States. So, um, Trump needs to figure out how to liberalize the Chinese financial markets and to get, to get Chinese. He needs to continue to buy, uh, more US dollars. And that's where we're seeing what we're seeing right now. Right. So, uh, by invading Venezuela, um, what Trump hopes to do is force China to, uh, buy oil using US dollars. So where, where does China get most of its oil? It gets most of its oil from the Middle East. So if it were, if Trump were to attack Iran and destabilize the Middle East, then China will be forced to rely more on the Western hemisphere for its oil supply.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0008
 
-## seg-0009 / 00:04:26-00:05:06 / SPEAKER_00
+## seg-0009 / 00:04:29-00:05:06 / SPEAKER_00
 
-forced to rely more on the Western hemisphere for its oil supply. Um, but not just the oil supply, but also for silver, for gold, for lithium, for copper, basically all the, um, minerals that, that China needs to power its EV industry, its AI industry. So this is the grand strategy that's been played out where Trump is conducting, conducting all these wars around the world in order to strangle the Chinese economy. So that they, so, so that China becomes reliant on the Western hemisphere for its supply. And then, and then in China will be forced to, uh, buy. More US dollars. And, uh, that's the great game that we're being played with that we are witnessing right now in 2026.
+Um, but not just the oil supply, but also for silver, for gold, for lithium, for copper, basically all the, um, minerals that, that China needs to power its EV industry, its AI industry. So this is the grand strategy that's been played out where Trump is conducting, conducting all these wars around the world in order to strangle the Chinese economy. So that they, so, so that China becomes reliant on the Western hemisphere for its supply. And then, and then in China will be forced to, uh, buy. More US dollars. And, uh, that's the great game that we're being played with that we are witnessing right now in 2026.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0009
 
@@ -68,51 +68,51 @@ if you took the Venezuelan. Case. Instead of being forced by US dollar, uh, by g
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0011
 
-## seg-0012 / 00:06:33-00:07:32 / SPEAKER_00
+## seg-0012 / 00:06:33-00:07:34 / SPEAKER_00
 
-You're absolutely right. I completely agree. Um, the United States, if it were to perceive China as a peer, uh, and were to treat China with respect, to see China as a sovereign nation that is worthy of respect, then we would have no issues. China would be perfectly happy to trade, uh, as equals with the United States. The problem is that the United States is the global hegemon. And they insist on maintaining. It's global hegemony. So China must be a subordinate to the American empire and China refuses to do that. China is a sovereign nation and it wants to be respected on the world stage. But as you point out, these two nations are codependent on each other. Um, if China were to lose access to oil in the Middle East and in the Western Hemisphere, it could depend on Russian oil, but it, Russia could not meet China's. Uh, energy needs China imports three quarter
+You're absolutely right. I completely agree. Um, the United States, if it were to perceive China as a peer, uh, and were to treat China with respect, to see China as a sovereign nation that is worthy of respect, then we would have no issues. China would be perfectly happy to trade, uh, as equals with the United States. The problem is that the United States is the global hegemon. And they insist on maintaining. It's global hegemony. So China must be a subordinate to the American empire and China refuses to do that. China is a sovereign nation and it wants to be respected on the world stage. But as you point out, these two nations are codependent on each other. Um, if China were to lose access to oil in the Middle East and in the Western Hemisphere, it could depend on Russian oil, but it, Russia could not meet China's. Uh, energy needs China imports three quarter of all its oils from overseas.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0012
 
-## seg-0013 / 00:07:32-00:08:21 / SPEAKER_00
+## seg-0013 / 00:07:34-00:08:21 / SPEAKER_00
 
-of all its oils from overseas. 50 % of its oil comes, uh, from, sorry, uh, trying to import three quarters of all its oil needs of half of those come from the Middle East. 20 % come from Russia. If China tomorrow could import all its oil from Russia, it would do so, but Russia does not have the capacity to do that. You still have to fill those pipelines, which will take years and years and cost tens of billions of dollars. And so, uh, China is sort of stuck right now, but as you point out, um, China does have a lot of tools. Um, it does have a lot of weapons. For example, it could continue to destabilize the US dollar and we saw that with the, um, civil markets, right? So what China did at the start of this year was announced that it would restrict exports of its silver and China dominates the civil
+50 % of its oil comes, uh, from, sorry, uh, trying to import three quarters of all its oil needs of half of those come from the Middle East. 20 % come from Russia. If China tomorrow could import all its oil from Russia, it would do so, but Russia does not have the capacity to do that. You still have to fill those pipelines, which will take years and years and cost tens of billions of dollars. And so, uh, China is sort of stuck right now, but as you point out, um, China does have a lot of tools. Um, it does have a lot of weapons. For example, it could continue to destabilize the US dollar and we saw that with the, um, civil markets, right? So what China did at the start of this year was announced that it would restrict exports of its silver and China dominates the civil market.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0013
 
-## seg-0014 / 00:08:21-00:09:16 / SPEAKER_00
+## seg-0014 / 00:08:21-00:09:18 / SPEAKER_00
 
-market. And this caused the price of silver to skyrocket, um, in, um, Colmax. The, um. They, they, they come up commodities exchange in the United States and this destabilized the US financial markets. So what we're seeing is almost mutually assured destruction, right? So if the United States were to cut off China's, um, oil, if, if the United States were to embargo, uh, China, China could just dump all its US treasuries, could just cause financial havoc and both nations would be destroyed. So what we're seeing, and, and, and, and here's a metaphor, okay. Imagine a ladder over in a. Abyss and, um, both China and the United States are trying to climb this ladder and it would be their best interest to climb it together at the same time, the United States, for whatever reason, insist on being higher than China. Now, if, if, um, the United States goes too far and leaves China far behind,
+And this caused the price of silver to skyrocket, um, in, um, Colmax. The, um. They, they, they come up commodities exchange in the United States and this destabilized the US financial markets. So what we're seeing is almost mutually assured destruction, right? So if the United States were to cut off China's, um, oil, if, if the United States were to embargo, uh, China, China could just dump all its US treasuries, could just cause financial havoc and both nations would be destroyed. So what we're seeing, and, and, and, and here's a metaphor, okay. Imagine a ladder over in a. Abyss and, um, both China and the United States are trying to climb this ladder and it would be their best interest to climb it together at the same time, the United States, for whatever reason, insist on being higher than China. Now, if, if, um, the United States goes too far and leaves China far behind, uh, the ladder destabilizes and they both fall into the abyss.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0014
 
-## seg-0015 / 00:09:16-00:09:38 / SPEAKER_00
+## seg-0015 / 00:09:19-00:09:38 / SPEAKER_00
 
-uh, the ladder destabilizes and they both fall into the abyss. If China overtakes the United States and climbs too far, they also both fall into the abyss. So this is a really dangerous. Uh, and really stupid game. They're both playing. Um, and again, we would not be in a situation if the United States showed some humility, um, and start to treat China as an equal, but unfortunately we are in the situation.
+If China overtakes the United States and climbs too far, they also both fall into the abyss. So this is a really dangerous. Uh, and really stupid game. They're both playing. Um, and again, we would not be in a situation if the United States showed some humility, um, and start to treat China as an equal, but unfortunately we are in the situation.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0015
 
 ## seg-0016 / 00:09:39-00:10:28 / SPEAKER_01
 
-Yeah. That's why I initially asked about ideology because, uh, often in, um, at least for political realist, the assumption is the states are rational, but, uh, we see with ideology over the past 30 years, a whole political class being raised on the notion that, uh, peace in the world needs, well, requires the hegemony. Yeah. Of the West, because then we'll elevate this liberal democratic value. So it's the idea that, uh, they can't imagine a world in which they do, it's not based on dominance. And I think this is, uh, fueling a lot of irrational behavior. I mean, if it's a problem in the U S is definitely a problem in, in Europe. Uh, I, I liked it that you, that you pulled the China into the Venezuelan issue because many people miss that the Venezuela, they did offer to accommodate all this American energy companies though, but it's not about only the U S getting
+Yeah. That's why I initially asked about ideology because, uh, often in, um, at least for political realist, the assumption is the states are rational, but, uh, we see with ideology over the past 30 years, a whole political class being raised on the notion that, uh, peace in the world needs, well, requires the hegemony. Yeah. Of the West, because then we'll elevate this liberal democratic value. So it's the idea that, uh, they can't imagine a world in which they do, it's not based on dominance. And I think this is, uh, fueling a lot of irrational behavior. I mean, if it's a problem in the U S is definitely a problem in, in Europe. Uh, I, I liked it that you, that you pulled the China into the Venezuelan issue because many people miss that the Venezuela, they did offer to accommodate all this American energy companies though, but it's not about only the U S getting access.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0016
 
 ## seg-0017 / 00:10:28-00:11:05 / SPEAKER_01
 
-access. It's also denying or conditioning the access of, uh, rival great powers. So I think, uh, yeah, that's an important aspect. Um, but also in terms of, uh, accommodating China, though, Kissinger made a similar comment back in 2014 in regard to Russia. He said, if they are a great power and we should, then we should treat it as such, uh, accommodate their interests so they can be accommodated into the U S led order. If not, we're going to end up with stupid policies such as trying to defeat or destroy them. And that's what he went against. And I, I figured that's the direction they're going with, uh, China as well. Um, how do you see though?
+It's also denying or conditioning the access of, uh, rival great powers. So I think, uh, yeah, that's an important aspect. Um, but also in terms of, uh, accommodating China, though, Kissinger made a similar comment back in 2014 in regard to Russia. He said, if they are a great power and we should, then we should treat it as such, uh, accommodate their interests so they can be accommodated into the U S led order. If not, we're going to end up with stupid policies such as trying to defeat or destroy them. And that's what he went against. And I, I figured that's the direction they're going with, uh, China as well. Um, how do you see though?
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0017
 
-## seg-0018 / 00:11:05-00:11:50 / SPEAKER_00
+## seg-0018 / 00:11:05-00:11:55 / SPEAKER_00
 
-Sorry, sorry, sorry, sorry. Um, you know, I, I love what you said. So let me make two points to reinforce what you said. First of all, I don't think it's ideology. I think it's this hubris and racism. Okay. I think that Americans think that they are the best and they hate it, hate the fact that China is catching up to America. Okay. So it's, I think it's hubris and you can also say it's racism right now. What's happening in this Europe. Local order. That's number one. Number two is that, you know, we saw what happened in Venezuela, you know, Medora being kidnapped and all people say or saying that America did this to capture Venezuela oil resources. That's not true. What America did was to spite China because America's going to go in and build up Venezuela's oil infrastructure. That'll cost, you know, tens of billions of dollars. It'll take many, many years before America
+Sorry, sorry, sorry, sorry. Um, you know, I, I love what you said. So let me make two points to reinforce what you said. First of all, I don't think it's ideology. I think it's this hubris and racism. Okay. I think that Americans think that they are the best and they hate it, hate the fact that China is catching up to America. Okay. So it's, I think it's hubris and you can also say it's racism right now. What's happening in this Europe. Local order. That's number one. Number two is that, you know, we saw what happened in Venezuela, you know, Medora being kidnapped and all people say or saying that America did this to capture Venezuela oil resources. That's not true. What America did was to spite China because America's going to go in and build up Venezuela's oil infrastructure. That'll cost, you know, tens of billions of dollars. It'll take many, many years before America can, can, um, really bring the Venezuela oil industry up to modern standards.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0018
 
-## seg-0019 / 00:11:50-00:12:10 / SPEAKER_00
+## seg-0019 / 00:11:55-00:12:10 / SPEAKER_00
 
-can, can, um, really bring the Venezuela oil industry up to modern standards. What is, what it's doing is cutting off access. To China, that's, that's, that's the entire goal, right? So, um, it's not to clean the oil and it's not to, um, benefit us oil companies. It's just to spite China. That's all it is.
+What is, what it's doing is cutting off access. To China, that's, that's, that's the entire goal, right? So, um, it's not to clean the oil and it's not to, um, benefit us oil companies. It's just to spite China. That's all it is.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0019
 
@@ -128,21 +128,21 @@ and easy solutions and, um, yeah, like this tariff policies or allow economic co
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0021
 
-## seg-0022 / 00:13:21-00:14:14 / SPEAKER_00
+## seg-0022 / 00:13:21-00:14:16 / SPEAKER_00
 
-Right. So America, the American economy has some major weaknesses and you're right that, um, it's possible that. That America faces a great financial crisis, uh, this year. So let's go over some of the major, uh, problem areas of the American economy. The first is artificial intelligence, where right now, most American GDP is driven by investment in AI. So just building data centers, which consume a lot of water and electricity, uh, in local communities. And what's a problem is that these data centers cost tens of billions of dollars. And it's really unclear how these data centers will make money because right now, uh, how. How most people will make, uh, how most, how most people use AI is to generate videos and to like cheat in school, right. To get to write their essays. It's unclear how this will be beneficial to the economy. And if it's possible for AI to be profitable, this will cause
+Right. So America, the American economy has some major weaknesses and you're right that, um, it's possible that. That America faces a great financial crisis, uh, this year. So let's go over some of the major, uh, problem areas of the American economy. The first is artificial intelligence, where right now, most American GDP is driven by investment in AI. So just building data centers, which consume a lot of water and electricity, uh, in local communities. And what's a problem is that these data centers cost tens of billions of dollars. And it's really unclear how these data centers will make money because right now, uh, how. How most people will make, uh, how most, how most people use AI is to generate videos and to like cheat in school, right. To get to write their essays. It's unclear how this will be beneficial to the economy. And if it's possible for AI to be profitable, this will cause millions of dollars, millions of jobs to be lost.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0022
 
-## seg-0023 / 00:14:14-00:15:04 / SPEAKER_00
+## seg-0023 / 00:14:16-00:15:03 / SPEAKER_00
 
-millions of dollars, millions of jobs to be lost. So it seems as though the AI bubble is about to be to a burst. The problem though, is that right now the US economy doesn't make any sense, right? So there's Michael Berry. Who is very famous for, uh, famous for predicting that in 2008, the, uh, supply market, the CDO market would collapse. And he, he took out billions of dollars in, uh, in, uh, bets against, uh, this market and he made a lot of money. And then he, uh, made a bet against AI because he was certain that none of the fundamentals made any sense in the industry. And then he suddenly announced that he was actually leaving the industry. And the reason why is okay. The AI, the AI industry. It doesn't make any sense, but guess what? The American, the entire American financial industry doesn't make any more sense anymore. Meaning that right now
+So it seems as though the AI bubble is about to be to a burst. The problem though, is that right now the US economy doesn't make any sense, right? So there's Michael Berry. Who is very famous for, uh, famous for predicting that in 2008, the, uh, supply market, the CDO market would collapse. And he, he took out billions of dollars in, uh, in, uh, bets against, uh, this market and he made a lot of money. And then he, uh, made a bet against AI because he was certain that none of the fundamentals made any sense in the industry. And then he suddenly announced that he was actually leaving the industry. And the reason why is okay. The AI, the AI industry. It doesn't make any sense, but guess what? The American, the entire American financial industry doesn't make any more sense anymore.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0023
 
-## seg-0024 / 00:15:04-00:16:02 / SPEAKER_00
+## seg-0024 / 00:15:03-00:16:02 / SPEAKER_00
 
-the American financial industry it's controlled by a few oligarchs. Uh, it's, it's controlled by a minority of people who can dictate the market to their will. And so the average consumer, the average investor, um, market fundamentals no longer apply to what's happening. So yes, in theory, uh, the AM AR market could collapse, but because, um, there's so few. Players within the AM market, it's controlled by, you know, seven companies, they can do whatever they want. And, um, the American government, uh, has something called operation Stargate, uh, project Stargate. And so there, so Trump has promised hundreds of billion dollars to invest in the AI infrastructure. So it's possible that this bubble keeps on going on and on. Okay. So, um, this, this, this means that right now the American financial industry lacks a capacity to self -correct. Um, and. So if the market collapses, it's gonna, it's probably gonna take the entire economy with it.
+Meaning that right now the American financial industry it's controlled by a few oligarchs. Uh, it's, it's controlled by a minority of people who can dictate the market to their will. And so the average consumer, the average investor, um, market fundamentals no longer apply to what's happening. So yes, in theory, uh, the AM AR market could collapse, but because, um, there's so few. Players within the AM market, it's controlled by, you know, seven companies, they can do whatever they want. And, um, the American government, uh, has something called operation Stargate, uh, project Stargate. And so there, so Trump has promised hundreds of billion dollars to invest in the AI infrastructure. So it's possible that this bubble keeps on going on and on. Okay. So, um, this, this, this means that right now the American financial industry lacks a capacity to self -correct. Um, and. So if the market collapses, it's gonna, it's probably gonna take the entire economy with it.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0024
 
@@ -152,15 +152,15 @@ And so that's a great problem facing the us financial industry. That's problem. 
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0025
 
-## seg-0026 / 00:17:01-00:17:51 / SPEAKER_00
+## seg-0026 / 00:17:01-00:17:56 / SPEAKER_00
 
-burst, you know, it, like what we saw in silver was almost like a small bank run, but it's not just silver. It's almost all these commodities where, uh, these commodities aren't used for manufacturing needs. They're used for speculation. And so, um, the American financial industry, it's one, this, this great policy scheme that's about to explode at any point. Um, and the third great, uh, weakness of the us economy, of course, is cryptocurrency, um, where, you know, Bitcoin. It's. It's all just speculation. It brings actually no benefit to society. So you have all these major weaknesses in, uh, the American economy, but because first of all, um, you have a few org arcs who control all the resources. Second of all, the American government can print as much money as it wants. There's something called quantitative easing. Um, and third of all, there's really no challenger to the us dollar. Um, this bubble can sustain itself
+burst, you know, it, like what we saw in silver was almost like a small bank run, but it's not just silver. It's almost all these commodities where, uh, these commodities aren't used for manufacturing needs. They're used for speculation. And so, um, the American financial industry, it's one, this, this great policy scheme that's about to explode at any point. Um, and the third great, uh, weakness of the us economy, of course, is cryptocurrency, um, where, you know, Bitcoin. It's. It's all just speculation. It brings actually no benefit to society. So you have all these major weaknesses in, uh, the American economy, but because first of all, um, you have a few org arcs who control all the resources. Second of all, the American government can print as much money as it wants. There's something called quantitative easing. Um, and third of all, there's really no challenger to the us dollar. Um, this bubble can sustain itself past 2026, but when it collapses, the entire society collapses.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0026
 
-## seg-0027 / 00:17:51-00:18:02 / SPEAKER_00
+## seg-0027 / 00:17:56-00:18:02 / SPEAKER_00
 
-past 2026, but when it collapses, the entire society collapses. So you're basically looking at. Civil war. So civil war in America. Yes.
+So you're basically looking at. Civil war. So civil war in America. Yes.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0027
 
@@ -170,15 +170,15 @@ Well, uh, so in terms of gold and silver, you, you would assume that this rally 
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0028
 
-## seg-0029 / 00:18:18-00:19:00 / SPEAKER_00
+## seg-0029 / 00:18:18-00:19:02 / SPEAKER_00
 
-Look, the reality is that, um, the man exceeds supply, right? So silver goes into AI goes into. EVs batteries because silver is the best metal conductor in the world. And there's no second call. Copper is, is, um, second, but it's far behind silver. So you need silver and the world cannot produce produce enough silver. And this has been, has been true for the past five years and China and the United States are having investing heavily into AI. So right now there's a major, uh, fight for. For access to silver. And this goes back again to Venezuela, where lots of people. Have become super focused on the AI and the AI has become very much lower than it has been to the rest of the world. Like in Latin America, um, in Latin America, the other world is historically known as Latin America. And Latin America, uh, Latin America and Latin America actually are the world's
+Look, the reality is that, um, the man exceeds supply, right? So silver goes into AI goes into. EVs batteries because silver is the best metal conductor in the world. And there's no second call. Copper is, is, um, second, but it's far behind silver. So you need silver and the world cannot produce produce enough silver. And this has been, has been true for the past five years and China and the United States are having investing heavily into AI. So right now there's a major, uh, fight for. For access to silver. And this goes back again to Venezuela, where lots of people. Have become super focused on the AI and the AI has become very much lower than it has been to the rest of the world. Like in Latin America, um, in Latin America, the other world is historically known as Latin America. And Latin America, uh, Latin America and Latin America actually are the world's greatest producers of silver.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0029
 
-## seg-0030 / 00:19:00-00:19:09 / SPEAKER_00
+## seg-0030 / 00:19:02-00:19:09 / SPEAKER_00
 
-greatest producers of silver. So if it controls Latin America and South America basically has, uh, control over the AI future.
+So if it controls Latin America and South America basically has, uh, control over the AI future.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0030
 
@@ -250,103 +250,103 @@ Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0041
 
 ## seg-0042 / 00:27:24-00:28:20 / SPEAKER_01
 
-Yeah. Even now that the loss, NATO losing Ukraine is starting to become obvious, the new goal appears to be, well, let's lose slower. Let's keep the Ukrainians a little bit longer in the fight, even though it will be a humanitarian disaster for Ukraine and also a strategic disaster for Europe, because this is not good for them. But how do you see this playing out in the European security architecture, though? Because again, the EU and NATO. The two main pillars of how Europe has been structured in the post -Cold War era, they were supposed to be the hegemonic order of Europe also. But what the US unipolarity was supposed to rest on, especially NATO, did you see them being able to survive? Well, 2026 might hold on, but how do you see this? Well, what would you expect from 2026? A complete collapse isn't necessarily in the cards, but it is. It seems to be deteriorating
+Yeah. Even now that the loss, NATO losing Ukraine is starting to become obvious, the new goal appears to be, well, let's lose slower. Let's keep the Ukrainians a little bit longer in the fight, even though it will be a humanitarian disaster for Ukraine and also a strategic disaster for Europe, because this is not good for them. But how do you see this playing out in the European security architecture, though? Because again, the EU and NATO. The two main pillars of how Europe has been structured in the post -Cold War era, they were supposed to be the hegemonic order of Europe also. But what the US unipolarity was supposed to rest on, especially NATO, did you see them being able to survive? Well, 2026 might hold on, but how do you see this? Well, what would you expect from 2026? A complete collapse isn't necessarily in the cards, but it is. It seems to be deteriorating fast.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0042
 
 ## seg-0043 / 00:28:20-00:28:36 / SPEAKER_01
 
-fast. I mean, as we speak, Trump is laying claim to Greenland. And the Danish prime minister trying to refer to Article 5, but I'm not sure if America would come to the defense of Greenland if America goes after Greenland. I mean, this is kind of absurd stuff.
+I mean, as we speak, Trump is laying claim to Greenland. And the Danish prime minister trying to refer to Article 5, but I'm not sure if America would come to the defense of Greenland if America goes after Greenland. I mean, this is kind of absurd stuff.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0043
 
-## seg-0044 / 00:28:38-00:29:48 / SPEAKER_00
+## seg-0044 / 00:28:38-00:29:49 / SPEAKER_00
 
-Look, the reality is that Trump hates Europe. He's hated Europe ever since 2016, when Europe was, when Europe basically, during his first presidency, Europe thought he was a joke, he was a charlatan, and Europe conspired with Obama to overthrow him in 2020. So Trump hates Europe. And you can tell because, you know, what was the first thing that happened after Trump won election? He sent J.D. Vance to Europe to scold Europe for failing Western civilization, right, for letting in too many immigrants, for embracing woke ideology. For betraying Christian values. And so, Trump would be more than happy to see the entire NATO system collapse. And you could argue that, like, like, you know, Trump is forcing NATO to collapse because Trump is forcing NATO to fight a war it could possibly not win against Russia. So I think what's going to happen is that NATO will sleepwalk into disaster into Ukraine. And the reason
+Look, the reality is that Trump hates Europe. He's hated Europe ever since 2016, when Europe was, when Europe basically, during his first presidency, Europe thought he was a joke, he was a charlatan, and Europe conspired with Obama to overthrow him in 2020. So Trump hates Europe. And you can tell because, you know, what was the first thing that happened after Trump won election? He sent J.D. Vance to Europe to scold Europe for failing Western civilization, right, for letting in too many immigrants, for embracing woke ideology. For betraying Christian values. And so, Trump would be more than happy to see the entire NATO system collapse. And you could argue that, like, like, you know, Trump is forcing NATO to collapse because Trump is forcing NATO to fight a war it could possibly not win against Russia. So I think what's going to happen is that NATO will sleepwalk into disaster into Ukraine. And the reason why is that it's going to be a disaster.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0044
 
-## seg-0045 / 00:29:48-00:30:34 / SPEAKER_00
+## seg-0045 / 00:29:49-00:30:35 / SPEAKER_00
 
-why is that it's going to be a disaster. It's this, this lumbering bureaucracy that cannot, that cannot possibly imagine its own demise. And these are just bureaucrats who just want to collect their own paycheck and who are looking for their own pension. So they don't really care what happens. They'll just do what they're told. And this war will be settled in Odessa. I think that NATO will collapse in Odessa because NATO will commit to defending Odessa. Russia will encircle it, blockade it, and NATO will not be able to hold on. NATO will not be able to hold on. They will force Europeans to be conscripted into the army to die in Odessa. They will refuse. And you will have civil war throughout Europe. But this is, this is like a five to 10 year timeframe. It's going to happen this year. It'll be, it's going to be another five to 10 years, but it's a
+It's this, this lumbering bureaucracy that cannot, that cannot possibly imagine its own demise. And these are just bureaucrats who just want to collect their own paycheck and who are looking for their own pension. So they don't really care what happens. They'll just do what they're told. And this war will be settled in Odessa. I think that NATO will collapse in Odessa because NATO will commit to defending Odessa. Russia will encircle it, blockade it, and NATO will not be able to hold on. NATO will not be able to hold on. They will force Europeans to be conscripted into the army to die in Odessa. They will refuse. And you will have civil war throughout Europe. But this is, this is like a five to 10 year timeframe. It's going to happen this year. It'll be, it's going to be another five to 10 years, but it's a slow death for Europe.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0045
 
 ## seg-0046 / 00:30:34-00:30:35 / SPEAKER_00
 
-slow death for Europe.
+
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0046
 
-## seg-0047 / 00:30:36-00:31:31 / SPEAKER_01
+## seg-0047 / 00:30:36-00:31:35 / SPEAKER_01
 
-So Odessa would be the end of the Ukraine war then? Yes. Yeah. No, well, that makes sense. Uh, the Russians have set their eyes on Odessa as the, as this is to a large extent about the black sea. And of course this is where NATO. Attacks Russia from primarily from Odessa. And, uh, I think the British and French would never, uh, except giving up Odessa. This is, uh, I think the key price in, uh, in, in this war. So, you know, you're probably spot on there. Um, how about the Europe's goal of strategic autonomy? This was, we heard for many years, uh, strategic autonomy, uh, European sovereignty. These were the slogans of the EU. Uh, it's, it's very stark contrast to, uh. The subservience to us, which hates Europe. Uh, but, uh, how do you see the internal cohesion holding in, in place? Because I think Europe, you know, it succeeded when it was able
+So Odessa would be the end of the Ukraine war then? Yes. Yeah. No, well, that makes sense. Uh, the Russians have set their eyes on Odessa as the, as this is to a large extent about the black sea. And of course this is where NATO. Attacks Russia from primarily from Odessa. And, uh, I think the British and French would never, uh, except giving up Odessa. This is, uh, I think the key price in, uh, in, in this war. So, you know, you're probably spot on there. Um, how about the Europe's goal of strategic autonomy? This was, we heard for many years, uh, strategic autonomy, uh, European sovereignty. These were the slogans of the EU. Uh, it's, it's very stark contrast to, uh. The subservience to us, which hates Europe. Uh, but, uh, how do you see the internal cohesion holding in, in place? Because I think Europe, you know, it succeeded when it was able to live, deliver economic benefits to its member state as a collective bargaining power.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0047
 
-## seg-0048 / 00:31:31-00:31:36 / SPEAKER_01
+## seg-0048 / 00:31:35-00:31:36 / SPEAKER_01
 
-to live, deliver economic benefits to its member state as a collective bargaining power. I don't see that anymore.
+I don't see that anymore.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0048
 
-## seg-0049 / 00:31:37-00:32:32 / SPEAKER_00
+## seg-0049 / 00:31:37-00:32:33 / SPEAKER_00
 
-Yeah. So after 1945, Europe was forced to adopt the ideas of the open society, right? This is Karl Popper who argued that World War II was caused by fascism, by this excessive embrace of nationalism. Yeah. Um, so to prevent another great war, we, uh, societies have become much more open, multicultural, tolerant, and that was a strategy for the EU bureaucracy for the past few decades. That's why, uh, they've let in some of the immigrants. That's why they've embraced that. That's why they've embraced woke ideology. And it's basically made these societies, um, you know, uh, much more, uh, polarized. So you have the real possible civil war in Britain, in France, because they've let in. All these immigrants and, uh, the natives see these immigrants as a threat to their cultural identity. Um, and so, you know, wars are fought because people want to fight them to protect the ones they love and they fight them
+Yeah. So after 1945, Europe was forced to adopt the ideas of the open society, right? This is Karl Popper who argued that World War II was caused by fascism, by this excessive embrace of nationalism. Yeah. Um, so to prevent another great war, we, uh, societies have become much more open, multicultural, tolerant, and that was a strategy for the EU bureaucracy for the past few decades. That's why, uh, they've let in some of the immigrants. That's why they've embraced that. That's why they've embraced woke ideology. And it's basically made these societies, um, you know, uh, much more, uh, polarized. So you have the real possible civil war in Britain, in France, because they've let in. All these immigrants and, uh, the natives see these immigrants as a threat to their cultural identity. Um, and so, you know, wars are fought because people want to fight them to protect the ones they love and they fight them for their homeland.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0049
 
-## seg-0050 / 00:32:32-00:33:24 / SPEAKER_00
+## seg-0050 / 00:32:33-00:33:24 / SPEAKER_00
 
-for their homeland. But right now, if you go to Britain and you ask them like, what does Britain mean to you? I think British people would be hard to answer you. If you, you know, um, these immigrants in Britain, if you interview them and you say, Hey, are you willing to go fight a war in Ukraine to defend Britain? And they'll say no. And hell, hell no. Um, and they just are like, why would I, uh, leave this land to go die in Ukraine so that these immigrants can take it over after I'm dead? So the idea of, you know, getting these Europeans go fight anywhere is just ridiculous now. And yeah, I mean, you will conscript quite a few because, um, these European nations have become authoritarian. Um, but it's going to destroy the societies. So. It's no longer capable of fighting, um, full scale of conflict with Russia.
+But right now, if you go to Britain and you ask them like, what does Britain mean to you? I think British people would be hard to answer you. If you, you know, um, these immigrants in Britain, if you interview them and you say, Hey, are you willing to go fight a war in Ukraine to defend Britain? And they'll say no. And hell, hell no. Um, and they just are like, why would I, uh, leave this land to go die in Ukraine so that these immigrants can take it over after I'm dead? So the idea of, you know, getting these Europeans go fight anywhere is just ridiculous now. And yeah, I mean, you will conscript quite a few because, um, these European nations have become authoritarian. Um, but it's going to destroy the societies. So. It's no longer capable of fighting, um, full scale of conflict with Russia.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0050
 
-## seg-0051 / 00:33:26-00:34:17 / SPEAKER_01
+## seg-0051 / 00:33:26-00:34:19 / SPEAKER_01
 
-Sometimes I get a feeling of some similarities with, uh, with, uh, the Soviets after the Bolshevik revolution, when they, when, when they were fighting, because, uh, the Russians were deeply religious. So when you, when they were essentially going to fight on their Bolshevik or a Soviet flag, the, the, the, the problem then was, uh, what exactly are they fighting for? Uh, so they, they kind of. Had to allow the, the church to come, to come back in because this is why, what, what people fought for. And I get the same impression now that the Europeans are being told that we have to go and, you know, die for them to fight Russia. And if you ask why they will refer to, uh, you know, the nation and, you know, the typical things people would die for, but, uh, but they spent the past, uh, years, not decades to express their, uh, you know, contempt for
+Sometimes I get a feeling of some similarities with, uh, with, uh, the Soviets after the Bolshevik revolution, when they, when, when they were fighting, because, uh, the Russians were deeply religious. So when you, when they were essentially going to fight on their Bolshevik or a Soviet flag, the, the, the, the problem then was, uh, what exactly are they fighting for? Uh, so they, they kind of. Had to allow the, the church to come, to come back in because this is why, what, what people fought for. And I get the same impression now that the Europeans are being told that we have to go and, you know, die for them to fight Russia. And if you ask why they will refer to, uh, you know, the nation and, you know, the typical things people would die for, but, uh, but they spent the past, uh, years, not decades to express their, uh, you know, contempt for our faith, our traditions, our culture.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0051
 
-## seg-0052 / 00:34:17-00:35:08 / SPEAKER_01
+## seg-0052 / 00:34:20-00:35:10 / SPEAKER_01
 
-our faith, our traditions, our culture. And now. Now we're supposed to die for it. I mean, it's what, what are we dying for? It doesn't really make any sense. I mean, this is what people, nationalism is people kill for it, but they're also willing to die for it. I think, I think the smearing of nationalism, even though it was introduced in the French revolution with democratization, I think it's been another flaw, but, um, yeah. Uh, so, um, uh, how, how does this, uh, uh, play into the, to the United States because the Europeans were a key partner of the U S in the. Past in order to, well, uh, during cold war and the hegemonic era, but, uh, what do you see the Americans doing now, if they drifting further away from the Europeans, uh, will they abandon block politics or will they simply demand subservience? How, how is the, how will the U S
+And now. Now we're supposed to die for it. I mean, it's what, what are we dying for? It doesn't really make any sense. I mean, this is what people, nationalism is people kill for it, but they're also willing to die for it. I think, I think the smearing of nationalism, even though it was introduced in the French revolution with democratization, I think it's been another flaw, but, um, yeah. Uh, so, um, uh, how, how does this, uh, uh, play into the, to the United States because the Europeans were a key partner of the U S in the. Past in order to, well, uh, during cold war and the hegemonic era, but, uh, what do you see the Americans doing now, if they drifting further away from the Europeans, uh, will they abandon block politics or will they simply demand subservience? How, how is the, how will the U S build this power moving forward?
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0052
 
-## seg-0053 / 00:35:08-00:35:32 / SPEAKER_01
+## seg-0053 / 00:35:10-00:35:32 / SPEAKER_01
 
-build this power moving forward? Because this is what perplexes many of your public European politicians. Every time America slams them or threatens the Greenland, they, they all go on Twitter going, well, you know, we, we, we, we're good allies. So you, you, you had, you need us to be great, but, uh, but, uh, it doesn't appear that his sentiment is shared by Washington. So how, how, what, what will the U S build its power on?
+Because this is what perplexes many of your public European politicians. Every time America slams them or threatens the Greenland, they, they all go on Twitter going, well, you know, we, we, we, we're good allies. So you, you, you had, you need us to be great, but, uh, but, uh, it doesn't appear that his sentiment is shared by Washington. So how, how, what, what will the U S build its power on?
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0053
 
-## seg-0054 / 00:35:33-00:36:24 / SPEAKER_00
+## seg-0054 / 00:35:33-00:36:25 / SPEAKER_00
 
-Look, the United States is now transactional. It's an empire and it's going to exploit its vassals. And if you're going to exploit its vassals, it will just abandon them. So the United States right now, it's uncertain. What it can derive from Europe, right? Europe is, has an aging population. Um, it is not willing to fight wars. It does not have that many able -bodied men. It has very few resources. So the United States doesn't really know what it can do with Europe. And in fact, United States believe that Europe has been, um, stealing and exploiting United States for the past few decades. It's the American security infrastructure that has protected Europe that has allowed Europe to create its welfare state. That has allowed, uh, Europe, uh, to, um, basically, um, the Americans think that the Europeans are just lazy, um, and decadent and corrupt. And so the United States is going to throw Europe like
+Look, the United States is now transactional. It's an empire and it's going to exploit its vassals. And if you're going to exploit its vassals, it will just abandon them. So the United States right now, it's uncertain. What it can derive from Europe, right? Europe is, has an aging population. Um, it is not willing to fight wars. It does not have that many able -bodied men. It has very few resources. So the United States doesn't really know what it can do with Europe. And in fact, United States believe that Europe has been, um, stealing and exploiting United States for the past few decades. It's the American security infrastructure that has protected Europe that has allowed Europe to create its welfare state. That has allowed, uh, Europe, uh, to, um, basically, um, the Americans think that the Europeans are just lazy, um, and decadent and corrupt. And so the United States is going to throw Europe like overboard, right?
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0054
 
-## seg-0055 / 00:36:24-00:37:10 / SPEAKER_00
+## seg-0055 / 00:36:25-00:37:11 / SPEAKER_00
 
-overboard, right? Just abandon Europe to Russia and forget about it. And so, uh, Europe, uh, so the United States national security strategy, it's very clear. It's going to use the Western hemisphere to project its power overseas. So the example goes after China, where listen in the future, China, if you want resources, don't think about the middle East because it's on fire. Right. Uh, the entire place is at war. Don't think about Europe because Europe is dead. Um, don't think about Africa because we're going to challenge you there as well. You're going to have to come and buy resources from, from the Western hemisphere. And therefore you're, you're going to have to buy from us. Um, so I think that's the national security strategy going forward. Uh, the United States is intent on maintaining its hegemony for the, for the us dollar. And so it needs to make China subordinate to the US dollar dependent on
+Just abandon Europe to Russia and forget about it. And so, uh, Europe, uh, so the United States national security strategy, it's very clear. It's going to use the Western hemisphere to project its power overseas. So the example goes after China, where listen in the future, China, if you want resources, don't think about the middle East because it's on fire. Right. Uh, the entire place is at war. Don't think about Europe because Europe is dead. Um, don't think about Africa because we're going to challenge you there as well. You're going to have to come and buy resources from, from the Western hemisphere. And therefore you're, you're going to have to buy from us. Um, so I think that's the national security strategy going forward. Uh, the United States is intent on maintaining its hegemony for the, for the us dollar. And so it needs to make China subordinate to the US dollar dependent on the US dollar.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0055
 
 ## seg-0056 / 00:37:10-00:37:11 / SPEAKER_00
 
-the US dollar.
+
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0056
 
-## seg-0057 / 00:37:13-00:38:01 / SPEAKER_01
+## seg-0057 / 00:37:13-00:38:04 / SPEAKER_01
 
-Yeah. This idea that they will. In, in this new Imperial phase of the United States that they will either exploit or abandon. I don't think the Europeans, uh, appreciate this because I heard the same from Americans as well. Like we, we were trying to decide whether or not we should make an, an exclusive Syria influence for the United States or just extract the wealth. But, uh, if it's the option between being exploiting or abandoning the Europeans can't envision a future without the leadership of the US. So they're allowing, I think the US to extract wealth at the moment through all this, uh, you know, trying to try. Yeah. Putting companies across the Atlantic or, um, or this trade deals, which are so horrible, uh, but they still signed them on Trump's golf course. Uh, but of course this is temporary, a temporary fix. Once, uh, America extracted everything it needs, Europe is even weaker, more
+Yeah. This idea that they will. In, in this new Imperial phase of the United States that they will either exploit or abandon. I don't think the Europeans, uh, appreciate this because I heard the same from Americans as well. Like we, we were trying to decide whether or not we should make an, an exclusive Syria influence for the United States or just extract the wealth. But, uh, if it's the option between being exploiting or abandoning the Europeans can't envision a future without the leadership of the US. So they're allowing, I think the US to extract wealth at the moment through all this, uh, you know, trying to try. Yeah. Putting companies across the Atlantic or, um, or this trade deals, which are so horrible, uh, but they still signed them on Trump's golf course. Uh, but of course this is temporary, a temporary fix. Once, uh, America extracted everything it needs, Europe is even weaker, more irrelevant, and, uh, they will be abandoned anyways.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0057
 
-## seg-0058 / 00:38:01-00:38:16 / SPEAKER_01
+## seg-0058 / 00:38:04-00:38:16 / SPEAKER_01
 
-irrelevant, and, uh, they will be abandoned anyways. But, uh, uh, well, again, there's no, no discussion in the political class what to do. It's just the assumption of this, that Trump is the bad man. And if we just wait him out. Things will go back to normal.
+But, uh, uh, well, again, there's no, no discussion in the political class what to do. It's just the assumption of this, that Trump is the bad man. And if we just wait him out. Things will go back to normal.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0058
 
@@ -370,25 +370,25 @@ Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0061
 
 ## seg-0062 / 00:40:20-00:41:15 / SPEAKER_00
 
-did the Americans go kidnapped, uh, head of state, a sovereign head of state who represent the state itself, but they also destroyed the master of Liam of Hugo Savas, um, who is the spiritual here of the Shavasmo Shavasmo movement in Venezuela, who is the current, uh, regime in Venezuela. So Trump has made it impossible now for the United States to seek an arrangement for, for, uh, Venezuela, even if there's some negotiation. That takes place. It's gonna end, end up in bad faith because the Venezuelans have lost trust in, uh, United States, but not only that, but South America right now will rally against United States. Trump has threatened both Mexico and, um, Columbia. He has his eyes set on Cuba, uh, on Nicaragua. So now the South Americans are like, you know, we can't, we can't trust in Americans. We need to stick together and they're gonna resist American, American power. And, and then Africa,
+did the Americans go kidnapped, uh, head of state, a sovereign head of state who represent the state itself, but they also destroyed the master of Liam of Hugo Savas, um, who is the spiritual here of the Shavasmo Shavasmo movement in Venezuela, who is the current, uh, regime in Venezuela. So Trump has made it impossible now for the United States to seek an arrangement for, for, uh, Venezuela, even if there's some negotiation. That takes place. It's gonna end, end up in bad faith because the Venezuelans have lost trust in, uh, United States, but not only that, but South America right now will rally against United States. Trump has threatened both Mexico and, um, Columbia. He has his eyes set on Cuba, uh, on Nicaragua. So now the South Americans are like, you know, we can't, we can't trust in Americans. We need to stick together and they're gonna resist American, American power. And, and then Africa, Europe.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0062
 
-## seg-0063 / 00:41:15-00:42:06 / SPEAKER_00
+## seg-0063 / 00:41:15-00:42:08 / SPEAKER_00
 
-Europe. Uh, the entire world is gonna see America for the bully that it is. So listen, America had the greatest Nate military for the past 50, 60 years. It didn't really want to use its military because once you start using your military, you're stuck using the military forever, right? You're better off using soft power through, um, you're, you're, you're better off using covert ops, uh, um, propaganda, um, you know, infiltration. And that's what America did really well for these 50, 60 years. And, and it could have done the same thing. In Venezuela, where, you know, they could have to basically bribe Maduro, bribe the elite to seek in, um, an economic treaty with the United States where all oil belong to the United States and Venezuela would have agreed to this. And all of South America would have been happy with this deal. Um, but instead it chose to, uh, do what it did because
+Uh, the entire world is gonna see America for the bully that it is. So listen, America had the greatest Nate military for the past 50, 60 years. It didn't really want to use its military because once you start using your military, you're stuck using the military forever, right? You're better off using soft power through, um, you're, you're, you're better off using covert ops, uh, um, propaganda, um, you know, infiltration. And that's what America did really well for these 50, 60 years. And, and it could have done the same thing. In Venezuela, where, you know, they could have to basically bribe Maduro, bribe the elite to seek in, um, an economic treaty with the United States where all oil belong to the United States and Venezuela would have agreed to this. And all of South America would have been happy with this deal. Um, but instead it chose to, uh, do what it did because it wanted to project strength and power.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0063
 
-## seg-0064 / 00:42:06-00:43:04 / SPEAKER_00
+## seg-0064 / 00:42:08-00:43:05 / SPEAKER_00
 
-it wanted to project strength and power. And so it sacrificed strategy for optics, and this is a sign of an empire in decline. Where it's no longer capable of grand strategy, where it's no longer capable of foresight, it's no longer capable of restraint and humility. It's complete hubris. We see this all the time when empires are in, uh, decline, where not only does it antagonize its enemies, but also antagonize its own allies and exploits its vassals. So what the United States is doing, it's suicidal, it's, um, short term, it's stupid and look in the short term. I say. For the next two to three years, it will look great in that, you know, America is able to control the entire Western hemisphere or the world bows to America. In the long term, um, you, you have sold the seats for global, um, discontent for global revolution against American power. And basically I think that the
+And so it sacrificed strategy for optics, and this is a sign of an empire in decline. Where it's no longer capable of grand strategy, where it's no longer capable of foresight, it's no longer capable of restraint and humility. It's complete hubris. We see this all the time when empires are in, uh, decline, where not only does it antagonize its enemies, but also antagonize its own allies and exploits its vassals. So what the United States is doing, it's suicidal, it's, um, short term, it's stupid and look in the short term. I say. For the next two to three years, it will look great in that, you know, America is able to control the entire Western hemisphere or the world bows to America. In the long term, um, you, you have sold the seats for global, um, discontent for global revolution against American power. And basically I think that the American empire is done with.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0064
 
 ## seg-0065 / 00:43:04-00:43:05 / SPEAKER_00
 
-American empire is done with.
+
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0065
 
@@ -446,15 +446,15 @@ Well, on the global South though. Do you see any other developments? Predictions
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0074
 
-## seg-0075 / 00:48:01-00:49:00 / SPEAKER_00
+## seg-0075 / 00:48:01-00:49:03 / SPEAKER_00
 
-Look, Trump is going to continue his attacks everywhere. Okay. So expect land strikes against cartels in Mexico, expect land strikes in Columbia. That's a massive American Navy assembled in Caribbean. It's not going away. It's still going to attack fishing boats. It's still going to do what it's going to do. So the American military presence in the Caribbean, it's only going to increase because what Trump wants to do is win the entire global sub under its control. And then in April, when he goes to China, he now has leverage over China. Okay. Everything is leading to April where Trump wants to sit down with China and negotiate a grand bargain in which, and an example is where, okay, you know what? You're the subordinate to the empire of China. So what's going to happen is this, we control Venezuela, but we will allow you to go into Venezuela and build the oil infrastructure so you can
+Look, Trump is going to continue his attacks everywhere. Okay. So expect land strikes against cartels in Mexico, expect land strikes in Columbia. That's a massive American Navy assembled in Caribbean. It's not going away. It's still going to attack fishing boats. It's still going to do what it's going to do. So the American military presence in the Caribbean, it's only going to increase because what Trump wants to do is win the entire global sub under its control. And then in April, when he goes to China, he now has leverage over China. Okay. Everything is leading to April where Trump wants to sit down with China and negotiate a grand bargain in which, and an example is where, okay, you know what? You're the subordinate to the empire of China. So what's going to happen is this, we control Venezuela, but we will allow you to go into Venezuela and build the oil infrastructure so you can extract it and buy from us with US dollars.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0075
 
-## seg-0076 / 00:49:00-00:49:08 / SPEAKER_00
+## seg-0076 / 00:49:04-00:49:08 / SPEAKER_00
 
-extract it and buy from us with US dollars. Okay. That's literally what Trump has planned in April.
+Okay. That's literally what Trump has planned in April.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0076
 
@@ -464,15 +464,15 @@ And how will the Chinese respond to this though?
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0077
 
-## seg-0078 / 00:49:13-00:50:05 / SPEAKER_00
+## seg-0078 / 00:49:13-00:50:07 / SPEAKER_00
 
-That's a great question. And how China responds will determine next five years. So I'm based in China. I know China very well. And I will tell you right now, there's a lot of debate within China. There's a lot of different factions who propose different strategies. Some are very pro -Russian and says, listen, in the long term, we're better off with Russia. But there are also some other factions who are like, you know what, we don't become too reliant on Russia. If we get 100 % of our oil supply from Russia, that's going to be a problem. So maybe it's better to get 50 % of our oil supply from Russia. 50 % from America, 50 % from Russia. So you have a whole spectrum of views. And what China will decide in April will depend on how these different factions coalesce together. And they will also have to look at the geopolitical environment. And then
+That's a great question. And how China responds will determine next five years. So I'm based in China. I know China very well. And I will tell you right now, there's a lot of debate within China. There's a lot of different factions who propose different strategies. Some are very pro -Russian and says, listen, in the long term, we're better off with Russia. But there are also some other factions who are like, you know what, we don't become too reliant on Russia. If we get 100 % of our oil supply from Russia, that's going to be a problem. So maybe it's better to get 50 % of our oil supply from Russia. 50 % from America, 50 % from Russia. So you have a whole spectrum of views. And what China will decide in April will depend on how these different factions coalesce together. And they will also have to look at the geopolitical environment. And then there are these domestic concerns as well.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0078
 
-## seg-0079 / 00:50:05-00:50:29 / SPEAKER_00
+## seg-0079 / 00:50:07-00:50:29 / SPEAKER_00
 
-there are these domestic concerns as well. So I couldn't tell you right now what will happen in April. But my thinking is, if I were a betting man, I would think that China and the United States will come together. They will come to a grand bargain. But this grand bargain will not actually alter the geopolitical landscape, meaning that the empire will still collapse. And you'll still have wars raging over around the world.
+So I couldn't tell you right now what will happen in April. But my thinking is, if I were a betting man, I would think that China and the United States will come together. They will come to a grand bargain. But this grand bargain will not actually alter the geopolitical landscape, meaning that the empire will still collapse. And you'll still have wars raging over around the world.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0079
 
@@ -482,21 +482,21 @@ Yeah, well, I think the three main rules of energy security is diversify, divers
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0080
 
-## seg-0081 / 00:51:32-00:52:35 / SPEAKER_00
+## seg-0081 / 00:51:32-00:52:34 / SPEAKER_00
 
-So I think that Trump was elected. The Israelis helped to elect Trump, because remember, Mayor Adelson gave $100 million to Trump, right? And a lot of it was that Trump agreed that he would resolve the Iran issue. And we saw that in June in Operation May Not Hammer. But Trump is transactional. So he is going to invade Iran at some point, but he wants to maximize his own personal benefit. So what this means is that he's looking for as much as possible from the Israelis. So what's happened is that Elon Musk has promised Trump $200 million. Okay. For the midterms in November. Mayor Adelson has promised Trump $250 million if he were to run for a third term, okay? So Trump is just trying to maximize as many benefits as possible before he pulls a trigger and orders an American attack on Iran. But all the seeds are in place, right? Because we're seeing all
+So I think that Trump was elected. The Israelis helped to elect Trump, because remember, Mayor Adelson gave $100 million to Trump, right? And a lot of it was that Trump agreed that he would resolve the Iran issue. And we saw that in June in Operation May Not Hammer. But Trump is transactional. So he is going to invade Iran at some point, but he wants to maximize his own personal benefit. So what this means is that he's looking for as much as possible from the Israelis. So what's happened is that Elon Musk has promised Trump $200 million. Okay. For the midterms in November. Mayor Adelson has promised Trump $250 million if he were to run for a third term, okay? So Trump is just trying to maximize as many benefits as possible before he pulls a trigger and orders an American attack on Iran. But all the seeds are in place, right?
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0081
 
-## seg-0082 / 00:52:35-00:53:36 / SPEAKER_00
+## seg-0082 / 00:52:34-00:53:36 / SPEAKER_00
 
-these protests in Iran. We can never know for sure the extent of these protests, but we can know that, listen, you have these Mossad agents in there. You've got all these American special forces in there. A lot of money is being spent on bribing these criminal networks, minorities, dissidents to cause as much havoc as possible in Iran. And quite honestly, Iran itself is facing a lot of economic issues because of its American embargo. So Iran is in a lot of trouble in 2026. But whether or not Trump pulls the trigger in 2026, I can't tell you. It's possible he launches more strikes. But the real issue is, will Trump launch a ground invasion of Iran? Because Israel wants regime change in Iran, and the only way we can do that is with ground troops. Airstrikes won't do it. And Israel itself cannot do it by itself. So it needs the United States to send in
+Because we're seeing all these protests in Iran. We can never know for sure the extent of these protests, but we can know that, listen, you have these Mossad agents in there. You've got all these American special forces in there. A lot of money is being spent on bribing these criminal networks, minorities, dissidents to cause as much havoc as possible in Iran. And quite honestly, Iran itself is facing a lot of economic issues because of its American embargo. So Iran is in a lot of trouble in 2026. But whether or not Trump pulls the trigger in 2026, I can't tell you. It's possible he launches more strikes. But the real issue is, will Trump launch a ground invasion of Iran? Because Israel wants regime change in Iran, and the only way we can do that is with ground troops. Airstrikes won't do it. And Israel itself cannot do it by itself. So it needs the United States to send in ground troops.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0082
 
-## seg-0083 / 00:53:36-00:53:48 / SPEAKER_00
+## seg-0083 / 00:53:38-00:53:48 / SPEAKER_00
 
-ground troops. So 2026, I think we'll see an acceleration of events. But we'll see. But maybe 2027 is when we'll have the full climax.
+So 2026, I think we'll see an acceleration of events. But we'll see. But maybe 2027 is when we'll have the full climax.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0083
 
@@ -508,25 +508,25 @@ Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0084
 
 ## seg-0085 / 00:54:22-00:55:10 / SPEAKER_00
 
-Sorry. Facts don't matter to Trump. They've never mattered to Trump. They tried for the longest time to give Trump press briefings, daily briefings where he was updated on geopolitics. And at first it was a page, and they recognized he doesn't even have the attention span for a page. So they made it a paragraph, and they recognized, oh, my God, he can't even read a paragraph. So what they really figured out was that he doesn't even have the attention span for a TV set. This guy watches TV all the time. So if you want Trump's attention, if you want him to recognize certain aspects of foreign policy, you need to go on Fox News and tell it to him there. So this guy's brain is a TV set. And so he doesn't recognize the fundamental rules of geopolitics. He doesn't understand what it means to be overextended, what it means to have enough resources to fight
+Sorry. Facts don't matter to Trump. They've never mattered to Trump. They tried for the longest time to give Trump press briefings, daily briefings where he was updated on geopolitics. And at first it was a page, and they recognized he doesn't even have the attention span for a page. So they made it a paragraph, and they recognized, oh, my God, he can't even read a paragraph. So what they really figured out was that he doesn't even have the attention span for a TV set. This guy watches TV all the time. So if you want Trump's attention, if you want him to recognize certain aspects of foreign policy, you need to go on Fox News and tell it to him there. So this guy's brain is a TV set. And so he doesn't recognize the fundamental rules of geopolitics. He doesn't understand what it means to be overextended, what it means to have enough resources to fight wars.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0085
 
 ## seg-0086 / 00:55:10-00:55:38 / SPEAKER_00
 
-wars. All he sees is optics, right? So he thinks that this thing in Venezuela was a huge success. Why can't we do the same thing in Mexico? Why can't we do the same thing in Cuba? And why can't we do the same thing in Iran? So for Trump, it's all about optics, about visuals. He sees these teleforce operators flying into Tehran and blowing things up. And that's how his mind works.
+All he sees is optics, right? So he thinks that this thing in Venezuela was a huge success. Why can't we do the same thing in Mexico? Why can't we do the same thing in Cuba? And why can't we do the same thing in Iran? So for Trump, it's all about optics, about visuals. He sees these teleforce operators flying into Tehran and blowing things up. And that's how his mind works.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0086
 
-## seg-0087 / 00:55:39-00:56:31 / SPEAKER_01
+## seg-0087 / 00:55:39-00:56:33 / SPEAKER_01
 
-Yeah. There's a lot of focus on the United States overextending its hard power. But I think it's also overextending its diplomatic capabilities. Yeah. Because Trump only speaks in this language of, oh, this is my dear friend, they were best friends in order to be as his good cop, or he's going to destroy you, which is his bad copy. But it was either or, and he tends to switch back and forth to the point, at least what I hear from the Russians, that they don't take him that seriously anymore because nothing he says will last for more than a week because he will switch again. I mean, now he's, oh, Vladimir, my good friend. Now I will destroy their economy and we'll kill some more Russians. I mean, this is, there's no consistency. It's either. Yeah. But that was my point with Chinese as well. Either you build trust, trust in America's economic infrastructure, or you
+Yeah. There's a lot of focus on the United States overextending its hard power. But I think it's also overextending its diplomatic capabilities. Yeah. Because Trump only speaks in this language of, oh, this is my dear friend, they were best friends in order to be as his good cop, or he's going to destroy you, which is his bad copy. But it was either or, and he tends to switch back and forth to the point, at least what I hear from the Russians, that they don't take him that seriously anymore because nothing he says will last for more than a week because he will switch again. I mean, now he's, oh, Vladimir, my good friend. Now I will destroy their economy and we'll kill some more Russians. I mean, this is, there's no consistency. It's either. Yeah. But that was my point with Chinese as well. Either you build trust, trust in America's economic infrastructure, or you try to coerce something, but you can't do both.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0087
 
 ## seg-0088 / 00:56:31-00:56:33 / SPEAKER_01
 
-try to coerce something, but you can't do both.
+
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0088
 
@@ -542,15 +542,15 @@ Well, do you have any final thoughts on 2026 before we wrap up?
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0090
 
-## seg-0091 / 00:57:24-00:58:24 / SPEAKER_00
+## seg-0091 / 00:57:24-00:58:23 / SPEAKER_00
 
-Yeah. So I would say that this event in April, when Trump visits China, Trump needs to figure out a lot of things before April. Okay. So what we're seeing in South America is the United States establishing hegemony, military hegemony throughout South America. And we can see it. We will see an escalation of that. Over the next few months, especially with regards to Columbia and Mexico, possibly Brazil as well, where Trump gets into an argument with Lula for whatever reason, Trump likes that to show that he's the boss. We can also expect to see more conflict in Africa as well, because Africa is where in national security strategy, Trump said very vocally that he will not see Africa to China, that they, that America and its allies will change. So I would say that this is going to challenge America, or challenge China wherever it can. And the last area would be China, Japan. So I
+Yeah. So I would say that this event in April, when Trump visits China, Trump needs to figure out a lot of things before April. Okay. So what we're seeing in South America is the United States establishing hegemony, military hegemony throughout South America. And we can see it. We will see an escalation of that. Over the next few months, especially with regards to Columbia and Mexico, possibly Brazil as well, where Trump gets into an argument with Lula for whatever reason, Trump likes that to show that he's the boss. We can also expect to see more conflict in Africa as well, because Africa is where in national security strategy, Trump said very vocally that he will not see Africa to China, that they, that America and its allies will change. So I would say that this is going to challenge America, or challenge China wherever it can. And the last area would be China, Japan.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0091
 
-## seg-0092 / 00:58:24-00:59:21 / SPEAKER_00
+## seg-0092 / 00:58:23-00:59:21 / SPEAKER_00
 
-would say that as time goes by, the conflict between Japan and China will just increase because Trump needs to exert as much leverage over China as much as possible. And then you'll have this meeting in April, and I think there are four meetings actually scheduled for 2026. So Trump needs to resolve the China issue. And the reason why is the end game is Iran. He needs to resolve the China issue before he launches a full scale invasion of Iran. Russia will come to Iran's defense. There's something that Trump can do about it. The wild card right now is China, what China will do in response to an Iran invasion. And so the end game is Iran. China is maybe the penultimate boss before Iran. But but but I think if I were a betting man. Yeah. And I think people will be surprised by this, China and the United States will come to an arrangement.
+So I would say that as time goes by, the conflict between Japan and China will just increase because Trump needs to exert as much leverage over China as much as possible. And then you'll have this meeting in April, and I think there are four meetings actually scheduled for 2026. So Trump needs to resolve the China issue. And the reason why is the end game is Iran. He needs to resolve the China issue before he launches a full scale invasion of Iran. Russia will come to Iran's defense. There's something that Trump can do about it. The wild card right now is China, what China will do in response to an Iran invasion. And so the end game is Iran. China is maybe the penultimate boss before Iran. But but but I think if I were a betting man. Yeah. And I think people will be surprised by this, China and the United States will come to an arrangement.
 
 Ref: video:interview-orycs0r2tpg@transcript:v1#seg-0092
 
