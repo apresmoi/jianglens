@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-18: Shared elite membership belongs inside Secret Society when public national or ideological rivalry remains visible but schools, families, initiation, esoteric doctrine, portable wealth, and club loyalty supply the effective trust layer. Route state population unity to Nation, media world-making to Stories, population-scale compliance infrastructure to Mass Society, and material rivalry tests to Strategy.
+
 - 2026-05-18: Monarchy-as-crisis-relief belongs inside Legitimacy Fiction when oligarchic decay makes personal rule feel like relief from debt, corruption, leaderlessness, and inert institutions. Use exact marks that carry relief, triumph spectacle, institutional impotence, or inner-morality replacing constitutional checks; route material blowback of easy victories to Strategy, careerist institutional rot to Bureaucracy, population-scale despair/control to Mass Society, and broad national sacred machinery to Nation.
 
 - 2026-05-18: Treasury-holder trap belongs inside Power As Alchemy when Jiang frames U.S. Treasuries as a reserve asset that foreign states cannot freely dump because it is tied to trade access, dollar liquidity, peace/bribe payments, and punishment risk. Route war-exit credibility and protection audits to Strategy Material Test, institutional payment/trade pipes to Nation, and replacement-order rightfulness to Legitimacy Fiction.
