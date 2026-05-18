@@ -1,0 +1,152 @@
+{
+  "packet_id": "interview-orycs0r2tpg-semantics-pkt-0009",
+  "source_id": "video:interview-orycs0r2tpg",
+  "source_date": "2026-01-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0066",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0068",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0070",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "The host compares US behavior to micro-militarism, national humiliation, TV politics, and possible delusion about Venezuela.",
+      "speaker_attribution": "Host argumentative prompts",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0067",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0069",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0071"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that humiliating Maduro humiliates the Venezuelan nation and that Trump confuses reality-TV spectacle with geopolitical reality.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0065"
+      ],
+      "note": "Segment seg-0065 is empty after boundary repair and carries no semantic content.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says kidnapping and humiliating Maduro humiliates not just a leader but the Venezuelan state and, by proxy, South American publics.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Current political diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Maduro",
+        "Venezuela",
+        "humiliation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues Trump believes capturing a leader means capturing the country itself.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Current diagnosis of Trump’s mindset stated on 2026-01-05.",
+      "topic_tags": [
+        "Trump",
+        "Venezuela",
+        "political psychology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump’s reality-TV mentality produces good visuals but destroys actual statecraft.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0069",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Current diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Trump",
+        "TV",
+        "statecraft"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts this spectacle-first mentality will destroy America while temporarily boosting Trump’s ratings and image.",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0069",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Forward-looking diagnosis stated on 2026-01-05.",
+      "topic_tags": [
+        "Trump",
+        "America",
+        "ratings"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0071"
+      ],
+      "moment": "Trump’s political ontology is described as make-believe that becomes real if enough people see it on screen.",
+      "source_phrase": "if I can make enough people believe this idea, it will become reality",
+      "why_it_matters": "It is Jiang’s clearest psychological model for why optics outrun facts in this interview.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0069"
+      ],
+      "moment": "Business failure and television success are fused into one portrait of rule.",
+      "source_phrase": "he is gonna get great TV ratings ... but he should destroy America in the process",
+      "why_it_matters": "It preserves the sting of Jiang’s indictment rather than smoothing it into generic anti-Trump commentary.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "micro-militarism",
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0066"
+      ],
+      "definition_or_usage": "The host uses Emmanuel Todd’s term for a declining empire projecting strength through force against weaker states.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0066",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0071"
+      ],
+      "note": "This packet shifts from structural empire decline to a tighter psychological model of how Trump executes that decline in the present.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0069",
+        "video:interview-orycs0r2tpg@transcript:v1#seg-0071"
+      ],
+      "note": "The claims about Trump’s inner beliefs are interpretive character judgments made by Jiang, not direct evidence of internal intent."
+    }
+  ]
+}
