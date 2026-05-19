@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-19: Screen-world governance belongs inside How Stories Control Reality when a staged image, rating, humiliation scene, or televised victory feels like completed power before obedience, trust, resources, or strategy have changed. Route the later material audit to Strategy Material Test, abstraction-becomes-lived-reality to Power As Alchemy, and legitimacy spectacle to Legitimacy Fiction unless the active failure is the screen becoming the decision-maker's operating world.
+
 - 2026-05-18: Money-game faction limit belongs inside Game Theory when Jiang accepts that financial flows can identify a real payoff but refuses Simon-style monetary rationalism as total explanation; use it when ego, short-term interest, volatility, and factional struggle persist inside China, the United States, transnational capital, or any other bloc. Route money becoming lived reality to Power, hidden elite trust to Secret Society, and missile/resource/chokepoint audits to Strategy.
 
 - 2026-05-18: Shared elite membership belongs inside Secret Society when public national or ideological rivalry remains visible but schools, families, initiation, esoteric doctrine, portable wealth, and club loyalty supply the effective trust layer. Route state population unity to Nation, media world-making to Stories, population-scale compliance infrastructure to Mass Society, and material rivalry tests to Strategy.
