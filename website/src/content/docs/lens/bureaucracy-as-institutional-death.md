@@ -43,6 +43,22 @@ Bureaucracy manufactures threats when security offices, spy services, or threat 
 
 This belongs on the bureaucracy page because the active mechanism is institutional self-justification. [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/) owns hidden cross-silo trust and covert binding. [Strategy Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) owns whether a named enemy can actually damage the board. Bureaucracy owns the office logic: the threat may be real, exaggerated, stale, displaced, or selectively emphasized, but the institution has an incentive to keep the threat surface alive.
 
+## The Self-Reinforcing Failure Bubble
+
+The **2026-01-05** Europe section gives the same institutional-death pattern a live geopolitical form. Jiang is not only saying that European policy toward Russia is wrong. He is saying that the European elite has become a closed bureaucratic reality, where media repetition, official morale, and institutional self-protection keep a failed strategy alive after the board has answered back.
+
+The first layer is refusal of the material test. Jiang says Europe will remilitarize against Russia even though it has [no path to victory in Ukraine]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0036"}. In his account, the war was supposed to solve domestic fragility: Russian defeat would permit indemnity and relieve Europe's physical problems. When that expectation fails, admission becomes dangerous. The bureaucracy would have to face economic trouble at home, policy error abroad, and the possibility that its own strategic class was not a guardian of reality.
+
+Then the institution closes the loop. Jiang says the European elite [lives in its own reality]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0040"}: media repeats that Russia will collapse tomorrow, one more day of waiting becomes the proof of eventual victory, and the repetition becomes what he calls a self-reinforcing bubble. The important phrase is his institutional one: [the EU becomes a self-reinforcing bureaucracy incapable of imagining defeat or different possibilities]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0040"}. The office does not merely lie to the public. It needs its own consoling story to remain administratively possible.
+
+<!-- lens-point id="bureaucracy-self-reinforcing-failure-bubble" concept="bureaucracy-institutional-death" evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0036 video:interview-orycs0r2tpg@transcript:v1#seg-0040 video:interview-orycs0r2tpg@transcript:v1#seg-0041 video:interview-orycs0r2tpg@transcript:v1#seg-0045" -->
+<span id="bureaucracy-self-reinforcing-failure-bubble" class="lens-point-anchor"></span>
+Bureaucracy becomes a self-reinforcing failure bubble when officials, media, and offices repeat the story that protects their prior decision until defeat, error, and alternative possibilities become institutionally unimaginable.
+
+The World War I comparison makes the moral cost explicit. Jiang asks why leaders would sacrifice millions because they could not afford to admit a mistake, then applies the same logic to the present: peace talks, Nord Stream, NATO expansion, and the refusal to say "we were wrong" all become too humiliating to process. In the sharpest line, they are [willing to sacrifice their own nations to avoid admitting error]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0041"}. This is bureaucracy as institutional death because living feedback has been replaced by face-saving continuity.
+
+The later Odessa forecast belongs mostly to [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/): encirclement, blockade, conscription, refusal, and civil conflict are strategic claims about the material board. But the passage also supplies a bureaucracy boundary. Jiang calls NATO [a lumbering bureaucracy that cannot imagine its own demise]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0045"}, staffed by officials seeking paychecks and pensions while doing what they are told. Strategy owns whether the Odessa prediction comes true. Bureaucracy owns the institutional condition that makes such a prediction plausible in Jiang's model: an organization can keep moving because no office inside it is responsible for imagining the death of the whole.
+
 ## The Empire That Wins And Freezes
 
 Bureaucracy is not always useless at first. This is what keeps the concept from becoming a slogan.
@@ -137,6 +153,13 @@ Finally, ask what exits remain. Jiang's modern bureaucracy lecture ends with gri
   `video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0048`  
   `video:predictive-history-hk-yhi3-prw@transcript:v1#seg-0064`
 
+- **2026-01-05**, [An Empire That Sacrifices Strategy For Optics](/interviews/interview-orycs0r2tpg/)  
+  The Europe section shows bureaucracy as a self-reinforcing failure bubble: a strategic class repeats the story of Russian collapse, cannot imagine defeat, and keeps the institution moving because admitting error would threaten the whole official reality.
+  `video:interview-orycs0r2tpg@transcript:v1#seg-0036`
+  `video:interview-orycs0r2tpg@transcript:v1#seg-0040`
+  `video:interview-orycs0r2tpg@transcript:v1#seg-0041`
+  `video:interview-orycs0r2tpg@transcript:v1#seg-0045`
+
 - **2026-01-22**, [Iran As Chokepoint, Canada As Toxic Asset](/interviews/interview-uhidrgfypno/)  
   The interview extends the problem-selling machine into state security: Huawei hostility and China-interference accusations become a case where intelligence bureaucracies preserve relevance by creating or maintaining threat narratives.
   `video:interview-uhidrgfypno@transcript:v1#seg-0049`
@@ -152,3 +175,4 @@ Finally, ask what exits remain. Jiang's modern bureaucracy lecture ends with gri
 - [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/) - for the unofficial cross-silo network that can move through mature bureaucracy better than the bureaucracy moves through itself.
 - [The Guide Who Becomes A Trap](/lens/the-guide-who-becomes-a-trap/) - for authority that begins as necessary help and later becomes captivity.
 - [How Stories Control Reality](/lens/how-stories-control-reality/) - for bureaucracy's narrative monopoly over what can be seen as real.
+- [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) - for the war-board audit when a bureaucracy's refusal to admit error meets logistics, conscription, alliance credibility, and enemy adaptation.
