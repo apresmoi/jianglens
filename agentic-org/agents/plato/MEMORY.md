@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-19: Game Theory now treats empathic state modeling as distinct from Human Heart empathy: use it when Jiang says psychohistory marries psychoanalysis to game theory, treats states as actors with memory/worldview/motive/reasoning, and tests whether an enemy move becomes rational inside that actor's security logic. Route relational love, compassion, and flourishing to Human Heart; route material war judgment to Strategy.
+
 - 2026-05-19: Game Theory now treats prediction-as-anti-propaganda as part of the audit method: use it when Jiang says history becomes indoctrination or winner propaganda unless forced to risk future claims. Keep AI simulation and forecast machinery in Game Theory when the active mechanism is model testing; route love, creativity, learning, and relation as the purpose of flourishing to Human Heart, and classroom formation to Living School.
 
 - 2026-05-19: Game Theory now treats elite-overproduction domestic war as a proximity-game form: use it when Jiang says too many elites compete inside a shrinking hierarchy, externalize the fight through nation-states or proxies, and turn popular rage or street conflict into the public surface of elite struggle. Route military-industrial justification to Bureaucracy, hybrid psyops and proxy mechanics to Strategy or Stories by active mechanism, and youth docility or scale management to Gerontocracy/Mass Society/Attention.
