@@ -57,6 +57,18 @@ Jiang later applies the same method to contemporary American civil-war risk. He 
 
 This belongs inside game theory because the mechanism is methodological. It does not say domestic politics is always the hidden cause, and it does not turn every foreign event into a civil-war claim. It gives the analyst a test: when an external move looks strategically incoherent, ask whether a nearer audience, election, faction, bureaucracy, status contest, or spiritual struggle is the real game being won.
 
+## Identify The Real Player
+
+The undated Russia Today interview gives the Ukraine war a related player-identification test. The host asks about sunk cost: who will remove Ukraine from the casino after enough losses? Jiang's answer is that the visible nation is no longer the only player whose incentives matter. In his account, Ukrainian, European, and American elites can keep the war going because [the war economy rewards them while Ukraine itself absorbs the damage]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0034"}.
+
+That is why Jiang explicitly says that, from a game-theory perspective, [the war is not only between Ukraine and Russia but between Ukraine, Russia, and Europe]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0036"}. The claim is not a minor naming correction. Financing, weapons, special forces, command and control, intelligence, and targeting change who is actually playing. If the analyst treats Ukraine as the whole player, the war looks like irrational national self-harm. If Europe is also a player, the continuation becomes legible as a different game: the battlefield is Ukrainian, but the decision layer includes European sovereignty, NATO dependency, war-economy extraction, and the refusal to accept defeat.
+
+<!-- lens-point id="game-theory-proxy-war-real-player" concept="game-theory-method" evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0032 video:interview-qsxkdk4mzgk@transcript:v1#seg-0033 video:interview-qsxkdk4mzgk@transcript:v1#seg-0034 video:interview-qsxkdk4mzgk@transcript:v1#seg-0036 video:interview-qsxkdk4mzgk@transcript:v1#seg-0037 video:interview-qsxkdk4mzgk@transcript:v1#seg-0039" -->
+<span id="game-theory-proxy-war-real-player" class="lens-point-anchor"></span>
+Proxy war analysis starts by identifying the real player: the actor taking losses may not be the actor whose incentives prolong the game, and financing, weapons, intelligence, command, manpower, and elite profit can move agency away from the visible battlefield nation.
+
+The boundary with strategy matters. Odessa, conscription, desertion, morale, infrastructure, and the final battlefield peace belong to [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) when the active question is whether the war can still be fought. Game Theory owns the prior diagnostic: before judging whether a player is rational, ask whether the correct player has been named.
+
 ## Superstructure Changes The Game
 
 The same human desire does not create the same game in every world. Jiang uses "superstructure" to name the big picture that changes the rules: population, wealth, technology, enemies, demographics, economics, culture, politics, and religion. In the dating lecture, [the superstructure determines the nature of the game]{evidence="video:predictive-history-he4l9wylf3u@transcript:v1#seg-0020"}.
@@ -229,6 +241,7 @@ Ask:
 - What game is the stronger actor trying to make everyone accept, and who can survive only by refusing that board?
 - Which game is nearest to the actor: family, school, city, party, faction, bureaucracy, audience, election, or soul?
 - Is an external conflict carrying an unresolved internal hierarchy struggle, especially elite overproduction inside a shrinking status order?
+- Is the visible battlefield actor also the real player, or are financing, weapons, intelligence, command, manpower, and profit moving agency to another player?
 - Is the real payoff material, status-based, spiritual, narrative, emotional, institutional, or civilizational?
 - Who wrote the rules, and does playing well give command or only make the player useful inside someone else's game?
 - Who benefits if the visible system fails?
@@ -303,6 +316,9 @@ The final question is often the most important. A trap is not just a bad move. I
 
 - **2026-05-14**, [Game Theory #25: Trump in China as a Grand Bargain Engine](/episodes/predictive-history-bil5vjn6ohi/)
   The theater claim is made falsifiable: visible U.S.-China friction is treated as noise around a larger bargain only because Jiang attaches dated predictions and says the theory can be tested by whether those predictions hold.
+
+- **Unknown source date**, [History Must Predict Or It Becomes Propaganda](/interviews/interview-qsxkdk4mzgk/)
+  The Ukraine war sequence adds proxy-player identification: Jiang says the game is not reducible to Ukraine versus Russia because European financing, weaponry, command, intelligence, and future conscription make Europe a real player in the continuation of the war.
 
 ## Related Concepts
 
