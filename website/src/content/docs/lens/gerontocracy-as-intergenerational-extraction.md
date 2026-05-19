@@ -17,11 +17,19 @@ The first clear formulation appears before Jiang names gerontocracy as a modern 
 
 That makes the later gerontocracy page sharper. The problem is not only that old people have resources. It is that abundance can freeze the status ladder. Jiang's image is a line of rats or people waiting to climb a mountain. When the line moves, frustration remains bearable. When [status becomes locked and younger people cannot ascend into power and status]{evidence="video:predictive-history-npncq-gnqde@transcript:v1#seg-0054"}, anxiety turns sideways: the blocked young kick backward and fight one another instead of transforming the top.
 
-<!-- lens-point id="gerontocracy-status-lock-turns-youth-violent" concept="gerontocracy-extraction" evidence="video:predictive-history-npncq-gnqde@transcript:v1#seg-0054 video:predictive-history-npncq-gnqde@transcript:v1#seg-0055 video:predictive-history-npncq-gnqde@transcript:v1#seg-0056" -->
+<!-- lens-point id="gerontocracy-status-lock-turns-youth-violent" concept="gerontocracy-extraction" evidence="video:predictive-history-npncq-gnqde@transcript:v1#seg-0054 video:predictive-history-npncq-gnqde@transcript:v1#seg-0055 video:predictive-history-npncq-gnqde@transcript:v1#seg-0056 video:interview-mcjno0xrly8@transcript:v1#seg-0027 video:interview-mcjno0xrly8@transcript:v1#seg-0028" -->
 <span id="gerontocracy-status-lock-turns-youth-violent" class="lens-point-anchor"></span>
 Gerontocracy can begin as status lock inside abundance: wealth and long life keep old actors at the top, younger people cannot ascend into power or status, and blocked potential is spent sideways in anxiety, violence, war, or collapse instead of becoming renewal.
 
 The Peloponnesian War is the historical bridge. Jiang says the political world in 431 BCE and 404 BCE is almost unchanged; [the only difference is that many young people died]{evidence="video:predictive-history-npncq-gnqde@transcript:v1#seg-0056"}. This is not yet the full 2025 rich-pensioner model of housing, medicine, immigration, pensions, and surveillance. It is the primitive mechanism underneath it: abundance makes exit from the top slower, status transfer stalls, and war can burn off young energy while leaving the old order intact.
+
+The **2025-12-31** Recombination Nation interview returns to the same status-lock mechanism in the language of young withdrawal. Jiang says young people see [opportunities, wealth, and resources monopolized by older generations, especially baby boomers]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0027"}. The image is no longer a mountain queue or a rat colony. It is Monopoly: a few players already own Boardwalk and Park Avenue, everyone else still has to play, and the young keep [paying exorbitant rents inside a giant game of Monopoly]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0028"}.
+
+That sharpens the politics of refusal. In this source, quiet quitting and "let it rot" are not only mood or laziness. Jiang calls letting it rot [the least provocative and least violent option left when the natural response would be overthrowing the game]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0028"}. The old order also keeps the board playable through distraction: [depression, SSRIs, the internet, Netflix, pornography, and video games appear as ways to make young people continue playing when they see no hope]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0030"}. Gerontocracy here is not only extraction. It is a peacekeeping arrangement for a board that has become impossible for late entrants.
+
+<!-- lens-point id="gerontocracy-monopoly-board-withdrawal" concept="gerontocracy-extraction" evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0027 video:interview-mcjno0xrly8@transcript:v1#seg-0028 video:interview-mcjno0xrly8@transcript:v1#seg-0030" -->
+<span id="gerontocracy-monopoly-board-withdrawal" class="lens-point-anchor"></span>
+Gerontocracy becomes a Monopoly-board trap when older cohorts already own the assets, rules, and rents, while younger people are forced to keep playing; quiet quitting or letting it rot can become a low-violence refusal of a board they cannot enter or overthrow.
 
 ## The Question That Finds The Ruler
 
@@ -133,6 +141,8 @@ Another student asks the obvious escape: what happens when rich pension elders d
 
 Jiang gives two answers. First, wealth and modern medicine slow the exit. The rich elderly are [not simply dying off]{evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0055"}. Technology and medical abundance can keep wealthy people alive for years in severe decline.
 
+The late December interview gives the same durability problem an economic-circulation form. Jiang says bluntly that [the baby boomers are not dying]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0032"}: pension plans were designed for shorter lives, but long-lived boomers keep collecting and keep control over wealth, so money remains in property and stock markets instead of circulating into enterprise. That recurrence matters because it repeats the older lecture's warning from a different angle. Gerontocracy persists not only because old voters replace one another, but because old wealth can stay parked in assets long enough to starve succession.
+
 Second, cohort replacement renews the structure. When one old cohort leaves, the next aging cohort takes its place. Jiang's chart image is [when the green goes away, the red becomes the green]{evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0056"}. Gerontocracy is therefore not only the rule of one unusually old generation. It can become a self-renewing age structure, especially in societies with low birth rates, long lifespans, and political systems that reward older voters.
 
 This is why the concept is intergenerational extraction rather than a one-time transfer. The future is repeatedly mortgaged to the present old.
@@ -149,11 +159,13 @@ Third, watch how safety language expands. A safety-first society may protect rea
 
 Fourth, ask whether the country is still reproducing a future or only managing asset value. If housing, pensions, state payrolls, and regulatory systems protect claims while productivity, talent, enterprise, and young household formation leave, the system may be moving from extraction to liquidation.
 
-Fifth, ask whether affection is being converted into fiscal power. "Do you want to hurt your grandparents?" can be a real moral question and a political weapon at the same time.
+Fifth, ask what kinds of refusal remain available to the blocked young. When the board is already owned and the state also owns violence, withdrawal, quiet quitting, emigration, non-family-formation, or letting it rot may be political symptoms rather than mere decadence.
 
-Sixth, connect war to age. If the old decide and the young die, the war story needs a generational audit.
+Sixth, ask whether affection is being converted into fiscal power. "Do you want to hurt your grandparents?" can be a real moral question and a political weapon at the same time.
 
-Seventh, ask who inhabits the future implied by a strategy. An empire controlled by people who expect to die before the long consequences arrive may rationally enjoy the remaining system while letting younger people inherit collapse, war, debt, lost sovereignty, or national liquidation.
+Seventh, connect war to age. If the old decide and the young die, the war story needs a generational audit.
+
+Eighth, ask who inhabits the future implied by a strategy. An empire controlled by people who expect to die before the long consequences arrive may rationally enjoy the remaining system while letting younger people inherit collapse, war, debt, lost sovereignty, or national liquidation.
 
 ## Chronology So Far
 
@@ -164,6 +176,7 @@ Seventh, ask who inhabits the future implied by a strategy. An empire controlled
 - **2025-08-29**, same lecture: Housing, medical assistance in dying, fake prosperity, debt, surveillance, prisons, and war are treated as connected symptoms rather than separate topics.
 - **2025-08-29**, same lecture: The Q&A gives the trap mechanism: young people cannot easily overthrow gerontocracy because respect for elders is biologically and morally deep.
 - **2025-08-29**, same lecture: The final answer makes the structure self-renewing: wealth and medicine prolong old rule, and one aging cohort can replace another.
+- **2025-12-31**, [How This Civilisation Ends with Professor Jiang](/interviews/interview-mcjno0xrly8/): The interview restates status lock as a Monopoly-board trap: older generations monopolize wealth, opportunities, and rents, while quiet quitting and letting it rot become low-violence refusals by young people who cannot enter the board.
 - **2026-01-24**, [Trump's War On Iran / Davos / Canada-China Relations](/interviews/interview-2f3osvzg2ti/): The Canada liquidation section extends gerontocracy from domestic extraction into a toxic-asset diagnosis: real-estate speculation, pension pressure, old-age survival, dead entrepreneurship, and state bloat make the country legible as collateral to be sold in pieces.
 
 ## Source Trail
@@ -223,6 +236,13 @@ Seventh, ask who inhabits the future implied by a strategy. An empire controlled
   Wealth, medicine, and cohort replacement make gerontocracy durable.
   `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0055`
   `video:predictive-history-0g3yo1djilm@transcript:v1#seg-0056`
+
+- **2025-12-31**, [How This Civilisation Ends with Professor Jiang](/interviews/interview-mcjno0xrly8/)
+  The interview translates status lock into a Monopoly-board image: old cohorts monopolize opportunities, wealth, and resources; young people keep paying rent; letting it rot becomes the least violent remaining response; and long-lived boomers keep wealth from circulating into entrepreneurship.
+  `video:interview-mcjno0xrly8@transcript:v1#seg-0027`
+  `video:interview-mcjno0xrly8@transcript:v1#seg-0028`
+  `video:interview-mcjno0xrly8@transcript:v1#seg-0030`
+  `video:interview-mcjno0xrly8@transcript:v1#seg-0032`
 
 - **2026-01-24**, [Trump's War On Iran / Davos / Canada-China Relations](/interviews/interview-2f3osvzg2ti/)
   Canada becomes the liquidation case: a resource-colony sovereignty claim is joined to real-estate speculation, pension pressure, boomers not dying, dead entrepreneurship, state bloat, and sale of national pieces to outside capital.
