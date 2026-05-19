@@ -1,0 +1,75 @@
+{
+  "source_slug": "interview-mcjno0xrly8",
+  "decisions": [
+    {
+      "candidate_id": "seg-0001->seg-0002:move-leading-completion-to-previous:a8fcf6e3816e",
+      "decision": "approve",
+      "reason": "Moves the question ending back to complete the host's sentence."
+    },
+    {
+      "candidate_id": "seg-0002->seg-0003:move-leading-completion-to-previous:6d1e1de4ad77",
+      "decision": "approve",
+      "reason": "Completes the trailing 'And I've been' fragment without changing chronology."
+    },
+    {
+      "candidate_id": "seg-0003->seg-0004:move-leading-completion-to-previous:ef6d795cef59",
+      "decision": "approve",
+      "reason": "Moves 'accurately' back to finish the prediction sentence."
+    },
+    {
+      "candidate_id": "seg-0006->seg-0007:move-leading-completion-to-previous:bff1c1ef81f9",
+      "decision": "approve",
+      "reason": "Completes 'better imagine the future' across the boundary."
+    },
+    {
+      "candidate_id": "seg-0008->seg-0009:move-leading-completion-to-previous:7d6f242370b8",
+      "decision": "approve",
+      "reason": "Moves the list continuation back to complete 'fell in love with ...'."
+    },
+    {
+      "candidate_id": "seg-0012->seg-0013:move-leading-completion-to-previous:5297f31fb110",
+      "decision": "approve",
+      "reason": "Completes 'Chinese society and Japanese society' before the comparison continues."
+    },
+    {
+      "candidate_id": "seg-0015->seg-0016:move-leading-completion-to-previous:028f04c1cf3e",
+      "decision": "approve",
+      "reason": "Finishes the repeated 'That's exactly correct' affirmation."
+    },
+    {
+      "candidate_id": "seg-0080->seg-0081:move-leading-completion-to-previous:a98345828f29",
+      "decision": "reject",
+      "reason": "The proposed text reads like noisy ASR rather than an obvious clean completion, so the boundary is too uncertain."
+    },
+    {
+      "candidate_id": "seg-0086->seg-0087:move-leading-completion-to-previous:3430227fe8b9",
+      "decision": "reject",
+      "reason": "This begins a new sentence and topic expansion rather than completing the prior segment."
+    },
+    {
+      "candidate_id": "seg-0096->seg-0097:move-leading-completion-to-previous:45843b55765f",
+      "decision": "approve",
+      "reason": "Completes 'And Trump will be there as well' across the split."
+    },
+    {
+      "candidate_id": "seg-0099->seg-0100:move-leading-completion-to-previous:0e404a8f77c2",
+      "decision": "approve",
+      "reason": "Moves the predicate back to complete 'it was NATO military strategy and tactics'."
+    },
+    {
+      "candidate_id": "seg-0109->seg-0110:move-leading-completion-to-previous:db015c50a6bd",
+      "decision": "approve",
+      "reason": "Completes 'But for most people' before the thought continues."
+    },
+    {
+      "candidate_id": "seg-0115->seg-0116:move-leading-completion-to-previous:a7b7a11ccdd8",
+      "decision": "approve",
+      "reason": "Completes 'And that's what gave us the Bible' as one sentence."
+    },
+    {
+      "candidate_id": "seg-0118->seg-0119:move-leading-completion-to-previous:24fe531d5da0",
+      "decision": "approve",
+      "reason": "Moves 'overseas' back to finish 'all these connections overseas'."
+    }
+  ]
+}

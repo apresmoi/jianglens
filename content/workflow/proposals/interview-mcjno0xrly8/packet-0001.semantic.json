@@ -1,0 +1,230 @@
+{
+  "packet_id": "interview-mcjno0xrly8-semantics-pkt-0001",
+  "source_id": "video:interview-mcjno0xrly8",
+  "source_date": "2025-12-31",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0001"
+      ],
+      "kind": "question",
+      "summary": "The host introduces Jiang as a fast-rising geopolitical analyst and asks how his life path led him into this public role.",
+      "speaker_attribution": "Host opening question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0002",
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0003",
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0004"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by describing himself as an educator who spent the last four years teaching history as a coherent story, then pivots through noisy ASR into the claim that several major geopolitical predictions drove his YouTube breakout.",
+      "speaker_attribution": "Jiang opening answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0005"
+      ],
+      "kind": "question",
+      "summary": "The host asks what strategic goal or deeper motivation drives Jiang's research and public outreach.",
+      "speaker_attribution": "Host motivation question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says his immediate motive is building a legacy for his children, while his broader aim is teaching people to understand the past well enough to imagine a brighter future during decades of coming turmoil.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0007"
+      ],
+      "kind": "question",
+      "summary": "The host reframes Jiang's project as cultural inheritance and asks whether Jiang's literature-and-philosophy background gives him an outsider advantage over conventionally trained historians.",
+      "speaker_attribution": "Host follow-up question with brief Jiang affirmation embedded",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang traces his method to broad reading, curiosity, and empathy, then explains that literature drew him away from physics and mathematics because poets were asking the deepest human questions.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0003"
+      ],
+      "note": "Segment 0003 contains heavy ASR corruption and repetition, but its clean recoverable throughline is that Jiang is expanding his work and points to earlier Iran-war and US-civil-conflict predictions as reasons his channel gained traction.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0007"
+      ],
+      "note": "The host's segment includes a brief Jiang affirmation ('Exactly. That's exactly correct. Yes.') before continuing into the next question, so this line is best treated as a host-led question rather than a pure monologue.",
+      "suggested_speaker": "Host with brief Jiang interjection",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says that for most of his career he has been an educator focused on inspiring young people to think for themselves, and that during the past four years he has concentrated on teaching history as a coherent story about how the present emerged and where it is heading.",
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Career summary and current teaching method stated on 2025-12-31.",
+      "topic_tags": [
+        "education",
+        "history",
+        "method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he uses history as a guide for understanding history, presenting his lectures as a narrative method rather than isolated fact collection.",
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Method claim stated on 2025-12-31.",
+      "topic_tags": [
+        "history",
+        "method",
+        "narrative"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Through a noisy segment, Jiang says his major predictions included a coming war with Iran and civil conflict in the United States, and he argues that these forecasts are now unfolding accurately enough to explain his rapid YouTube growth.",
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0003",
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Retrospective prediction claim stated on 2025-12-31.",
+      "topic_tags": [
+        "Iran",
+        "United States",
+        "prediction",
+        "YouTube"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang says his personal motivation is to build a legacy for his three children by teaching them to think for themselves and giving them tools to become masters of their own destiny.",
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Personal motivation stated on 2025-12-31.",
+      "topic_tags": [
+        "family",
+        "education",
+        "agency"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that humanity is heading into decades of tribulation, chaos, and conflict, but he still sees the possibility of imagining a brighter future if people learn to understand the past properly.",
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Forward-looking civilizational diagnosis stated on 2025-12-31.",
+      "topic_tags": [
+        "tribulation",
+        "future",
+        "history",
+        "civilization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his literary formation matters because writers such as Milton, Shakespeare, Keats, and Shelley were wrestling with the deepest questions about human existence and destiny.",
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Biographical and intellectual self-description stated on 2025-12-31.",
+      "topic_tags": [
+        "literature",
+        "education",
+        "human nature"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0006"
+      ],
+      "moment": "Jiang compresses his family motive and civilizational mission into giving the next generation the capacity to steer itself through disorder.",
+      "source_phrase": "masters of their own destiny",
+      "why_it_matters": "It links his parenting, pedagogy, and geopolitical work into one repeatable aim: forming agency before the coming crisis deepens.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0006"
+      ],
+      "moment": "The future arrives first as an atmosphere of prolonged breakdown rather than a single event.",
+      "source_phrase": "decades of tribulation, of chaos, of conflict",
+      "why_it_matters": "This gives the interview its underlying horizon: Jiang is not preparing listeners for a brief shock but for a long civilizational strain.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0008"
+      ],
+      "moment": "Jiang refuses the simple label of historian and roots his method in literature's larger metaphysical questions.",
+      "source_phrase": "why are we here? And where are we going?",
+      "why_it_matters": "It explains why his history work keeps widening into philosophy, culture, and civilizational destiny instead of staying narrowly archival.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0002"
+      ],
+      "note": "Jiang dates his shift into history teaching to the previous four years, making this interview an explicit late-2025 retrospective on the phase of work that built Predictive History.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0003",
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0004"
+      ],
+      "note": "The opening packet presents Jiang as already publicly identified with geopolitical forecasting, especially around Iran and US domestic conflict, before the interview turns to deeper models later on.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0003"
+      ],
+      "note": "Segment 0003 is badly corrupted by ASR, so the prediction list and the exact count of 'three major predictions' should be treated as approximate until compared against later cleaner references or Jiang's prior materials."
+    }
+  ]
+}
