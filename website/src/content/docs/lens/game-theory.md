@@ -145,6 +145,14 @@ The boundary matters. This is not a separate "great man" theory and not a licens
 
 ## Theater Becomes A Prediction Test
 
+The late-processed **2026-01-05** Glenn Diesen interview gives the May lecture an earlier public formulation. Jiang treats April not as a calendar curiosity but as a board position. Trump, in this dated forecast, wants Caribbean pressure, Western Hemisphere control, African competition, and China-Japan tension to accumulate before the China meeting because [everything is leading to April, where leverage can be converted into a grand bargain]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0075 video:interview-orycs0r2tpg@transcript:v1#seg-0091 video:interview-orycs0r2tpg@transcript:v1#seg-0092"}. That is a game-theory move before it is a strategy claim: the summit is not the game; it is the moment where previous moves try to change the payoff table.
+
+<!-- lens-point id="game-theory-bargain-as-sequence" concept="game-theory-method" evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0075 video:interview-orycs0r2tpg@transcript:v1#seg-0078 video:interview-orycs0r2tpg@transcript:v1#seg-0079 video:interview-orycs0r2tpg@transcript:v1#seg-0091 video:interview-orycs0r2tpg@transcript:v1#seg-0092" -->
+<span id="game-theory-bargain-as-sequence" class="lens-point-anchor"></span>
+A bargain is a sequence rather than an event when the analyst asks what earlier pressure, factional alignment, leverage, and next-game positioning make a summit rational, even if the agreement itself will not stabilize the larger board.
+
+The same interview also preserves the method's limit. Jiang says he cannot know exactly what China will do because Chinese factions, Russia dependence, domestic concerns, and the wider geopolitical environment still have to coalesce; then he makes a bet that [China and the United States will come to a grand bargain without altering the geopolitical landscape]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0078 video:interview-orycs0r2tpg@transcript:v1#seg-0079"}. The point is not that every bargain is fake. The point is that a deal can solve one player's immediate sequence while leaving the next game intact. In Jiang's January version, China is treated as [the penultimate boss before Iran]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0092"}, so the China bargain matters precisely because it clears or blocks a later war path.
+
 The May 2026 U.S.-China lecture adds a practical discipline to the same rule. Jiang begins with a visible diplomatic scene: Trump in China, an unusually heavy U.S. entourage, AI and finance figures near the table, and public friction still filling the news. His game-theory move is not to deny the friction. It is to ask whether the friction is the real game or the visible noise around a larger bargain. He says that if the class uses game theory and looks at the broad contours, it can make better predictions, then names the surface conflict [just theater]{evidence="video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0007"}.
 
 This matters because "theater" is easy to abuse. In Jiang's stronger form, theater is not an excuse to believe any hidden story. It has to cash out as a forecast. He explicitly calls the model speculative, asks students to question and debate it, and says that once they understand the theory they can make predictions; [the predictions then test whether the theory is correct]{evidence="video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0016"}. The lecture closes the same way: the grand-bargain claim will be known soon enough because [the prediction can be wrong within days]{evidence="video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067"}.
@@ -229,6 +237,9 @@ The final question is often the most important. A trap is not just a bad move. I
 
 - **2025-08-29**, [Secret History #4: How Evil Triumphs](/episodes/predictive-history-btlwoqwlm9q/)  
   Game theory becomes morally severe: hidden coordination, cheating, taboo breach, and transgression are analyzed as ways groups can bind themselves and win.
+
+- **2026-01-05**, [An Empire That Sacrifices Strategy For Optics](/interviews/interview-orycs0r2tpg/)
+  The April grand-bargain forecast shows the sequence rule: pressure across theaters, internal Chinese factions, and the later Iran endgame make the China meeting one move in a wider game rather than a self-contained diplomatic event.
 
 - **2026-01-06**, [Game Theory #1: The Dating Game](/episodes/predictive-history-he4l9wylf3u/)  
   The course definition appears: players, rules or constraints, and incentives. The dating case shows how status can be the real game behind sex, marriage, and fertility.
