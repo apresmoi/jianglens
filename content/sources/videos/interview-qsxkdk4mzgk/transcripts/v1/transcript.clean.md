@@ -20,15 +20,15 @@ Now, I'm really taken by your concept or rather your method of psychohistory, wh
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0003
 
-## seg-0004 / 00:01:28-00:02:24 / SPEAKER_00
+## seg-0004 / 00:01:28-00:02:22 / SPEAKER_00
 
-Right, so what I do is, as you mentioned, psycho history. So I marry psychoanalysis with game theory. Basically the idea is that, you know, I see nation states as individuals with their own history, with their own worldview, with their own motivations and with their own reasoning. And once you have empathy, once you understand how these nation states have behaved in the past, you can better predict their future. And what I try to do is I try to model that, meaning I have a theoretical framework, but then I apply to the present and make certain predictions of the future. And if these predictions should not be accurate, then my framework, my framework is accurate. And so that's what I do. And as you mentioned, this could be a tremendous benefit to humanity. It could mark a new age for us where we have better control over geopolitics. We can avoid war, devastation, calamities. But as you
+Right, so what I do is, as you mentioned, psycho history. So I marry psychoanalysis with game theory. Basically the idea is that, you know, I see nation states as individuals with their own history, with their own worldview, with their own motivations and with their own reasoning. And once you have empathy, once you understand how these nation states have behaved in the past, you can better predict their future. And what I try to do is I try to model that, meaning I have a theoretical framework, but then I apply to the present and make certain predictions of the future. And if these predictions should not be accurate, then my framework, my framework is accurate. And so that's what I do. And as you mentioned, this could be a tremendous benefit to humanity. It could mark a new age for us where we have better control over geopolitics. We can avoid war, devastation, calamities.
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0004
 
-## seg-0005 / 00:02:24-00:02:54 / SPEAKER_00
+## seg-0005 / 00:02:22-00:02:54 / SPEAKER_00
 
-also mentioned, these elites in power are extremely self -interested and they're only interested in maintaining power. And so what I do is I try to map things out over centuries because over time, these elites, because of their hubris, because of their arrogance, they will lead their societies to collapse. But then a new elite will come to power and then they can use the cycle of history, the standards from the past, to create societies that are much more resilient, that are much more open, and which are much more compassionate.
+But as you also mentioned, these elites in power are extremely self -interested and they're only interested in maintaining power. And so what I do is I try to map things out over centuries because over time, these elites, because of their hubris, because of their arrogance, they will lead their societies to collapse. But then a new elite will come to power and then they can use the cycle of history, the standards from the past, to create societies that are much more resilient, that are much more open, and which are much more compassionate.
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0005
 
@@ -86,15 +86,15 @@ Now, you mentioned game theory that plays a big role in your analysis, and it's 
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0014
 
-## seg-0015 / 00:08:05-00:08:46 / SPEAKER_00
+## seg-0015 / 00:08:05-00:08:50 / SPEAKER_00
 
-So game theory, the problem with game theory applied is that it's often too mathematical and not psychological enough. So there's not enough empathy in game theory where you respect your opponent and you respect the rational decision -making process of your opponent. And that's the issue we're facing in geopolitics today, where America is a hegemon, and America believes that whatever you do is correct, it suffers from hubris, and whatever others do is irrational. So for example, Russia's war in Ukraine is irrational because it's breaking the rules -based national order. So for example, Russia's war in Ukraine is irrational because it's breaking the rules -based national order. So for example, Russia's war in Ukraine is irrational because it's breaking the rules -based national order. But if you employ empathy, if you're playing game theory, you recognize that it is a rational decision made by Putin because Russia was being threatened by NATO expansion. So any rational leader
+So game theory, the problem with game theory applied is that it's often too mathematical and not psychological enough. So there's not enough empathy in game theory where you respect your opponent and you respect the rational decision -making process of your opponent. And that's the issue we're facing in geopolitics today, where America is a hegemon, and America believes that whatever you do is correct, it suffers from hubris, and whatever others do is irrational. So for example, Russia's war in Ukraine is irrational because it's breaking the rules -based national order. So for example, Russia's war in Ukraine is irrational because it's breaking the rules -based national order. So for example, Russia's war in Ukraine is irrational because it's breaking the rules -based national order. But if you employ empathy, if you're playing game theory, you recognize that it is a rational decision made by Putin because Russia was being threatened by NATO expansion. So any rational leader in his shoes would be forced to do something about it.
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0015
 
-## seg-0016 / 00:08:46-00:09:03 / SPEAKER_00
+## seg-0016 / 00:08:51-00:09:03 / SPEAKER_00
 
-in his shoes would be forced to do something about it. So the issue right now is that we are run by the American empire, and the American empire is insistent on imposing its values and its worldview on everyone. If you disagree, then you are irrational. If you disagree, then you are irrational.
+So the issue right now is that we are run by the American empire, and the American empire is insistent on imposing its values and its worldview on everyone. If you disagree, then you are irrational. If you disagree, then you are irrational.
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0016
 
@@ -116,15 +116,15 @@ Now, speaking about other players, whether we like Donald Trump or not, or wheth
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0019
 
-## seg-0020 / 00:11:09-00:12:09 / SPEAKER_00
+## seg-0020 / 00:11:09-00:12:15 / SPEAKER_00
 
-Well, I mean, Donald Trump has come in and he's turned America from an empire that hides behind the facade of a multilateral rules -based liberal order to one that's just a bully. If you look at the national security strategy of America, what it says is that America will now enforce its power around the world, especially Western hemisphere, right? And that's some corollary to the Monroe Doctrine. The Monroe Doctrine says that the Western hemisphere belongs to America and China and Russia may not at all engage with South America. And this war in Venezuela is an expression of that idea. And quite honestly, before America was very much protective of global naval trade, now America's behaving like pirates, right? So this Venezuela oil tanker was just boarded and hijacked and sent to Houston, Texas. All this oil, $60 million of oil, was stolen from the Venezuelans. So Trump, because he's so aggressive, because he's so belligerent, and
+Well, I mean, Donald Trump has come in and he's turned America from an empire that hides behind the facade of a multilateral rules -based liberal order to one that's just a bully. If you look at the national security strategy of America, what it says is that America will now enforce its power around the world, especially Western hemisphere, right? And that's some corollary to the Monroe Doctrine. The Monroe Doctrine says that the Western hemisphere belongs to America and China and Russia may not at all engage with South America. And this war in Venezuela is an expression of that idea. And quite honestly, before America was very much protective of global naval trade, now America's behaving like pirates, right? So this Venezuela oil tanker was just boarded and hijacked and sent to Houston, Texas. All this oil, $60 million of oil, was stolen from the Venezuelans. So Trump, because he's so aggressive, because he's so belligerent, and because he behaves like a mafia don, it's forcing people to behave and respond to it.
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0020
 
-## seg-0021 / 00:12:09-00:12:44 / SPEAKER_00
+## seg-0021 / 00:12:15-00:12:44 / SPEAKER_00
 
-because he behaves like a mafia don, it's forcing people to behave and respond to it. And different players, given their different circumstances, will employ different strategies. So as you mentioned, China needs to stand up and protect its rights. Europe is a vassal state, and therefore it has no choice but to bend its knee to Trump. Israel is the pit bull. It's the vassal state of America. Putin is a master strategist, and so he's trying to maintain flexibility while negotiating with Trump. And so all these different players are behaving in a way that is in their best interest.
+And different players, given their different circumstances, will employ different strategies. So as you mentioned, China needs to stand up and protect its rights. Europe is a vassal state, and therefore it has no choice but to bend its knee to Trump. Israel is the pit bull. It's the vassal state of America. Putin is a master strategist, and so he's trying to maintain flexibility while negotiating with Trump. And so all these different players are behaving in a way that is in their best interest.
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0021
 
@@ -134,15 +134,15 @@ Now, you mentioned the US new national security strategy, and one more aspect to
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0022
 
-## seg-0023 / 00:13:28-00:14:24 / SPEAKER_00
+## seg-0023 / 00:13:28-00:14:27 / SPEAKER_00
 
-So America is intent on maintaining its empire, and no empire in history has ever been a country that has given up its power willingly and voluntarily. So what America is doing is shifting its strategy. So before, it was hiding behind the facade of a multilateral liberal rules -based order, and now it recognizes that this hypocrisy doesn't really work. People see through this hypocrisy. So now it's employing a much more standard imperial tactic, which is divide and rule. So rather than confront China directly in Southeast Asia, it's going to let Japan engage China. Rather than confront Russia directly, it's going to have Europe. Europe, go fight Russia. And so America's not retreating anywhere. America's just shifting strategies. Even in Africa, America is very explicit in that it will challenge Chinese economic dominance in Africa. How? By employing the resources of its allies, primarily Japan. So America basically sees Japan as a vassal state, and all of
+So America is intent on maintaining its empire, and no empire in history has ever been a country that has given up its power willingly and voluntarily. So what America is doing is shifting its strategy. So before, it was hiding behind the facade of a multilateral liberal rules -based order, and now it recognizes that this hypocrisy doesn't really work. People see through this hypocrisy. So now it's employing a much more standard imperial tactic, which is divide and rule. So rather than confront China directly in Southeast Asia, it's going to let Japan engage China. Rather than confront Russia directly, it's going to have Europe. Europe, go fight Russia. And so America's not retreating anywhere. America's just shifting strategies. Even in Africa, America is very explicit in that it will challenge Chinese economic dominance in Africa. How? By employing the resources of its allies, primarily Japan. So America basically sees Japan as a vassal state, and all of its resources and wealth in Japan belongs to America.
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0023
 
-## seg-0024 / 00:14:24-00:14:44 / SPEAKER_00
+## seg-0024 / 00:14:27-00:14:44 / SPEAKER_00
 
-its resources and wealth in Japan belongs to America. And, you know, we've seen this historically before. The Athenians in the Peloponnesian War basically used its vassals as cannon fodder, as proxies in its war against Sparta, and it caused a massive rebellion among its allies. So this is a very standard historical pattern.
+And, you know, we've seen this historically before. The Athenians in the Peloponnesian War basically used its vassals as cannon fodder, as proxies in its war against Sparta, and it caused a massive rebellion among its allies. So this is a very standard historical pattern.
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0024
 
@@ -212,15 +212,15 @@ Now, you also forecast before that the fate of Ukraine will be decided in Odessa
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0035
 
-## seg-0036 / 00:22:12-00:23:04 / SPEAKER_00
+## seg-0036 / 00:22:12-00:23:05 / SPEAKER_00
 
-So from a Game Theory perspective, this war isn't really between Ukraine and Russia. It's a war between Ukraine and Russia and Europe. Because it's the Europeans, NATO, that's providing Ukrainians with the financing, with the weaponry, with the special forces, with the command and control, with the intelligence, with the targeting that the Ukrainians need to fight this war. When a bridge gets blown by Crimea, it's not the Ukrainians doing this, it's the Europeans doing this. So it doesn't really matter what happens to Ukraine. It matters what happens in Europe. So what's going to happen is that the Europeans are going to call up a draft. They're going to conscript adult men to fight in Odessa because that really is the last stand. As I said before, if Odessa falls, the war is over because Ukraine becomes a de facto rump state dependent on European warfare. There's no more point in fighting this war. So the last
+So from a Game Theory perspective, this war isn't really between Ukraine and Russia. It's a war between Ukraine and Russia and Europe. Because it's the Europeans, NATO, that's providing Ukrainians with the financing, with the weaponry, with the special forces, with the command and control, with the intelligence, with the targeting that the Ukrainians need to fight this war. When a bridge gets blown by Crimea, it's not the Ukrainians doing this, it's the Europeans doing this. So it doesn't really matter what happens to Ukraine. It matters what happens in Europe. So what's going to happen is that the Europeans are going to call up a draft. They're going to conscript adult men to fight in Odessa because that really is the last stand. As I said before, if Odessa falls, the war is over because Ukraine becomes a de facto rump state dependent on European warfare. There's no more point in fighting this war. So the last stand will be Odessa.
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0036
 
-## seg-0037 / 00:23:04-00:23:34 / SPEAKER_00
+## seg-0037 / 00:23:05-00:23:34 / SPEAKER_00
 
-stand will be Odessa. So Europeans will draft soldiers to fight in Odessa. This is going to cause massive political tumult within Europe because these young men don't want to fight in Ukraine. There's no point. Russia has no intention of ever invading Europe. And so this is going to cause a lot of political division. And eventually there'll be a certain civil war, political revolutions in Europe and we have regime change. And then eventually these new European leaders will seek a ceasefire and a peace agreement with Russia.
+So Europeans will draft soldiers to fight in Odessa. This is going to cause massive political tumult within Europe because these young men don't want to fight in Ukraine. There's no point. Russia has no intention of ever invading Europe. And so this is going to cause a lot of political division. And eventually there'll be a certain civil war, political revolutions in Europe and we have regime change. And then eventually these new European leaders will seek a ceasefire and a peace agreement with Russia.
 
 Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0037
 
