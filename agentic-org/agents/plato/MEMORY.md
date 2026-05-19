@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-19: Gerontocracy now treats Monopoly-board withdrawal as the younger-generation response to old-age status lock: use it when Jiang says older cohorts already own the opportunities, assets, rules, and rents while young people must keep playing, making quiet quitting or letting it rot a low-violence refusal. Route platform/drug focus management to Attention Capture when the capture mechanism is primary, and route generic payoff analysis to Game Theory.
+
 - 2026-05-19: Screen-world governance belongs inside How Stories Control Reality when a staged image, rating, humiliation scene, or televised victory feels like completed power before obedience, trust, resources, or strategy have changed. Route the later material audit to Strategy Material Test, abstraction-becomes-lived-reality to Power As Alchemy, and legitimacy spectacle to Legitimacy Fiction unless the active failure is the screen becoming the decision-maker's operating world.
 
 - 2026-05-18: Money-game faction limit belongs inside Game Theory when Jiang accepts that financial flows can identify a real payoff but refuses Simon-style monetary rationalism as total explanation; use it when ego, short-term interest, volatility, and factional struggle persist inside China, the United States, transnational capital, or any other bloc. Route money becoming lived reality to Power, hidden elite trust to Secret Society, and missile/resource/chokepoint audits to Strategy.
