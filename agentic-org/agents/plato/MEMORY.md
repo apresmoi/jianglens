@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-19: Game Theory now treats proxy-war player identification as distinct from Strategy's material war audit: use it when Jiang says the named battlefield nation is not the whole player because financing, weapons, intelligence, command, manpower, and elite profit move agency to another actor. Route Odessa, conscription capacity, battlefield peace, logistics, and war endurance to Strategy Material Test.
+
 - 2026-05-19: Game Theory now treats empathic state modeling as distinct from Human Heart empathy: use it when Jiang says psychohistory marries psychoanalysis to game theory, treats states as actors with memory/worldview/motive/reasoning, and tests whether an enemy move becomes rational inside that actor's security logic. Route relational love, compassion, and flourishing to Human Heart; route material war judgment to Strategy.
 
 - 2026-05-19: Game Theory now treats prediction-as-anti-propaganda as part of the audit method: use it when Jiang says history becomes indoctrination or winner propaganda unless forced to risk future claims. Keep AI simulation and forecast machinery in Game Theory when the active mechanism is model testing; route love, creativity, learning, and relation as the purpose of flourishing to Human Heart, and classroom formation to Living School.
