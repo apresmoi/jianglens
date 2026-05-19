@@ -27,6 +27,14 @@ The **2026-03-11** Alex Ray interview gives the method a biographical origin. Ji
 
 That is the psychological layer behind the public method. If each player has a distinct strategy, the analyst cannot begin by asking what a reasonable person should do. The analyst has to ask what this player wants, what this player's personality can see, and what move maximizes this player's reward inside the board. Jiang condenses the lesson later in the same answer: [human society is a game, with major players whose psychology has to be understood]{evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0012"}. In this version, game theory is not cold rationalism. It is a way to make human irrationality legible without pretending that all players share the same idea of winning.
 
+The undated Russia Today interview adds the state-level form of that psychological correction. Jiang defines psychohistory by saying he [marries psychoanalysis with game theory and treats nation-states as individuals with histories, worldviews, motivations, and reasoning]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0004"}. Empathy does not mean sentimental approval. It means inhabiting enough of another actor's security logic to ask what would count as rational from that position.
+
+<!-- lens-point id="game-theory-empathic-state-modeling" concept="game-theory-method" evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0004 video:interview-qsxkdk4mzgk@transcript:v1#seg-0015 video:interview-qsxkdk4mzgk@transcript:v1#seg-0016" -->
+<span id="game-theory-empathic-state-modeling" class="lens-point-anchor"></span>
+Empathic state modeling keeps game theory psychological: the analyst treats states as actors with memory, worldview, motive, and reasoning, then tests whether an apparently irrational enemy move becomes rational from inside that actor's own security logic.
+
+Jiang immediately turns the rule against imperial analysis. Applied game theory fails when it is [too mathematical and not psychological enough]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0015"}. The hegemon's temptation is to call its own moves rational and every opposing move irrational. In Jiang's Ukraine example, Russia's war becomes legible only if the analyst can model NATO expansion from Russia's position, even while remaining free to judge the war materially, morally, or strategically. If disagreement itself becomes proof of irrationality, game theory has stopped testing the other player's motive and has become the empire's worldview in technical dress.
+
 ## The Nearest Game Wins
 
 The March 2026 proximity lecture adds a second correction. People and states do not merely play the game analysts name from outside. They play many games at once, and the closest game can govern the visible one.
