@@ -8,9 +8,9 @@
         "video:interview-mcjno0xrly8@transcript:v1#seg-0097"
       ],
       "kind": "answer",
-      "summary": "Jiang continues his prior answer by predicting that efforts to force military loyalty to Trump will intensify intra-American conflict and spill elite rivalry into street-level clashes between partisan militant formations.",
-      "speaker_attribution": "Jiang answer continuing from packet 0012",
-      "confidence": "medium"
+      "summary": "Jiang extends his second-Trump-presidency argument by reading the planned mass meeting with senior military officers as an unprecedented loyalty exercise that could deepen domestic conflict and push elite factions toward street-level proxy violence in the United States over the next few years.",
+      "speaker_attribution": "Jiang answer continuing from the prior packet",
+      "confidence": "high"
     },
     {
       "refs": [
@@ -19,7 +19,7 @@
         "video:interview-mcjno0xrly8@transcript:v1#seg-0100"
       ],
       "kind": "exchange",
-      "summary": "The host asks whether drones and especially unattributable bioweapons could change conflict dynamics, and Jiang replies that the more important transformation is a mature American style of shadow warfare built from militias, propaganda, bombardment, and NATO-enabled proxy war, making future conflict increasingly hybrid, informational, and psychological.",
+      "summary": "The host asks whether new technologies such as bioweapons and non-attributable tools will alter conflict, and Jiang replies that the United States has already spent two decades perfecting shadow warfare in places like Libya and Syria, with psychological operations, propaganda, proxies, aerial force, and NATO-backed hybrid war becoming the model for future conflicts.",
       "speaker_attribution": "Host question followed by Jiang extended answer",
       "confidence": "high"
     },
@@ -29,7 +29,7 @@
         "video:interview-mcjno0xrly8@transcript:v1#seg-0102"
       ],
       "kind": "exchange",
-      "summary": "The host compares this style of coercion to Mongol terror and economic-hitman leverage, and Jiang agrees, recasting modern conflict as technological infiltration of a nation's power centers through NGOs, internet influence, and engineered discontent.",
+      "summary": "The host compares these methods to Mongol intimidation and the economic-hitman model, and Jiang agrees, arguing that modern technology lets outside powers infiltrate a country, map its power centers, recruit youth through NGOs, sow discontent online, and dominate the information space during color-revolution style operations.",
       "speaker_attribution": "Host analogy followed by Jiang answer",
       "confidence": "high"
     },
@@ -39,7 +39,7 @@
         "video:interview-mcjno0xrly8@transcript:v1#seg-0104"
       ],
       "kind": "exchange",
-      "summary": "The host asks whether truly organic revolutions are still possible, and Jiang answers that most successful revolutions were always elite-led mobilizations of popular discontent, while genuinely organic peasant uprisings are usually crushed.",
+      "summary": "The host asks whether modern populations can still produce organic revolutions, and Jiang answers that revolutions have usually depended on elite factions that mobilize popular anger; purely peasant or organic uprisings, in his telling, are usually crushed unless they acquire an intellectual leadership class capable of directing the revolt.",
       "speaker_attribution": "Host question followed by Jiang answer",
       "confidence": "high"
     }
@@ -49,153 +49,153 @@
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0097"
       ],
-      "note": "Seg-0097 is the completion of Jiang's seg-0096 answer about elite overproduction and the second Trump presidency, not a fresh exchange.",
+      "note": "Seg-0097 is fully Jiang and should be read as the continuation and completion of his seg-0096 answer about elite civil conflict in the United States, not as a new standalone topic.",
       "suggested_speaker": "Jiang",
       "confidence": "high"
     },
     {
       "refs": [
-        "video:interview-mcjno0xrly8@transcript:v1#seg-0102"
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0101"
       ],
-      "note": "The phrasing in seg-0102 is slightly rough, but the speaker is clearly Jiang throughout; the packet preserves his causal sequence from NGO penetration to internet-driven discontent and information control.",
-      "suggested_speaker": "Jiang",
+      "note": "Seg-0101 is the host's analogy-building question; the references to the Mongols and 'Confessions of an Economic Hitman' belong to the host, not to Jiang.",
+      "suggested_speaker": "Host",
       "confidence": "high"
     },
     {
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0104"
       ],
-      "note": "The transcript renders 'Anabasta movement' in seg-0104; the historical referent is unclear from ASR alone, so the packet keeps the source wording without normalization.",
+      "note": "Seg-0104 is entirely Jiang despite rough ASR around the historical example rendered as the 'Anabasta movement'; the substantive point is his distinction between elite-led and peasant revolts.",
       "suggested_speaker": "Jiang",
-      "confidence": "medium"
+      "confidence": "high"
     }
   ],
   "claims": [
     {
-      "claim": "Jiang predicts that attempts to force top American generals into personal loyalty to Trump will intensify U.S. internal conflict and help push partisan militant groups toward open clashes in the next couple of years.",
+      "claim": "Jiang interprets the planned meeting between Trump and hundreds of senior U.S. military officers as an attempt to force the generals to swear loyalty to the Trump regime, which he says will intensify conflict inside America.",
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0097"
       ],
-      "temporal_scope": "Near-future American conflict forecast stated on 2025-12-31.",
+      "temporal_scope": "Contemporary U.S. political diagnosis stated on 2025-12-31.",
       "topic_tags": [
         "Trump",
         "United-States",
-        "civil-conflict",
         "military",
+        "loyalty",
+        "civil-conflict"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that within the next couple of years left- and right-aligned militias in the United States could clash in the streets as elite factions externalize their struggle into public violence.",
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0097"
+      ],
+      "temporal_scope": "Near-term U.S. conflict forecast stated on 2025-12-31 for the next few years.",
+      "topic_tags": [
+        "United-States",
+        "militias",
+        "civil-war",
+        "elite-conflict",
         "prediction"
       ],
       "claim_type": "prediction",
       "confidence": "medium"
     },
     {
-      "claim": "Jiang argues that American shadow warfare over the past 20 years has combined proxy militias, special forces backing, internet propaganda, and aerial bombardment to weaken target regimes without conventional troop deployment.",
+      "claim": "Jiang says the United States has spent roughly the last 20 years perfecting shadow asymmetrical information warfare in places such as Libya and Syria by combining special-forces backing, propaganda, and aerial bombardment without relying primarily on conventional troop deployments.",
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0099"
       ],
-      "temporal_scope": "Retrospective warfare model stated on 2025-12-31 about the prior two decades.",
+      "temporal_scope": "Retrospective warfare diagnosis stated on 2025-12-31 about the prior two decades.",
       "topic_tags": [
         "United-States",
         "shadow-warfare",
-        "proxy-war",
+        "Libya",
+        "Syria",
+        "information-warfare"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that most warfare now is psychological: the main task is to reshape perceptions, weaken resolve, and manipulate the information environment rather than simply destroy enemy forces head-on.",
+      "refs": [
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0099"
+      ],
+      "temporal_scope": "General war model stated on 2025-12-31.",
+      "topic_tags": [
+        "psychological-warfare",
         "propaganda",
-        "special-forces"
+        "resolve",
+        "information-space",
+        "war-model"
       ],
       "claim_type": "model",
       "confidence": "high"
     },
     {
-      "claim": "Jiang says most warfare today is psychological because the aim is to alter perception and weaken resolve rather than simply destroy armies directly.",
-      "refs": [
-        "video:interview-mcjno0xrly8@transcript:v1#seg-0099"
-      ],
-      "temporal_scope": "Present-tense warfare diagnosis stated on 2025-12-31.",
-      "topic_tags": [
-        "warfare",
-        "psychology",
-        "perception",
-        "resolve",
-        "information-war"
-      ],
-      "claim_type": "diagnosis",
-      "confidence": "high"
-    },
-    {
-      "claim": "Jiang interprets current pressure on Iran as a propaganda campaign aimed at reducing public resolve and increasing frustration with the regime, presenting it as a live example of future warfare.",
-      "refs": [
-        "video:interview-mcjno0xrly8@transcript:v1#seg-0099"
-      ],
-      "temporal_scope": "Contemporary Iran diagnosis stated on 2025-12-31.",
-      "topic_tags": [
-        "Iran",
-        "propaganda",
-        "resolve",
-        "regime-pressure",
-        "future-war"
-      ],
-      "claim_type": "diagnosis",
-      "confidence": "medium"
-    },
-    {
-      "claim": "Jiang says Russia has really been fighting NATO in Ukraine because Ukrainian troops are paired with NATO strategy, targeting, weapons, drones, and special forces.",
+      "claim": "Jiang says the war in Ukraine should be understood as Russia fighting NATO because Ukrainian troops supplied the ground presence while NATO provided strategy, targeting, weapons, drones, and special forces support.",
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0099",
         "video:interview-mcjno0xrly8@transcript:v1#seg-0100"
       ],
-      "temporal_scope": "Contemporary Ukraine-war interpretation stated on 2025-12-31.",
+      "temporal_scope": "Contemporary war diagnosis stated on 2025-12-31.",
       "topic_tags": [
         "Ukraine",
         "Russia",
         "NATO",
         "proxy-war",
-        "military-strategy"
+        "hybrid-war"
       ],
       "claim_type": "diagnosis",
       "confidence": "medium"
     },
     {
-      "claim": "Jiang predicts that future wars will be hybrid, stealthy, informational, and psychological rather than straightforward conventional contests between clearly bounded armies.",
+      "claim": "Jiang predicts that future wars will become more hybrid, stealthy, informational, and psychological than the large conventional conflicts people associate with earlier eras.",
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0100"
       ],
-      "temporal_scope": "Future-war forecast stated on 2025-12-31.",
+      "temporal_scope": "General war forecast stated on 2025-12-31.",
       "topic_tags": [
         "future-war",
         "hybrid-war",
         "stealth",
-        "information",
-        "psychology"
+        "information-warfare",
+        "prediction"
       ],
       "claim_type": "prediction",
       "confidence": "high"
     },
     {
-      "claim": "Jiang argues that modern technology makes it easy to infiltrate another country, map its internal power centers, recruit youth through NGOs, and use the internet to cultivate discontent and steer political outcomes.",
+      "claim": "Jiang argues that modern technology makes it easy for outside powers to infiltrate a nation, map its internal power blocs, recruit young people through NGOs, and use the internet to cultivate discontent and control the information space during regime-change operations.",
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0102"
       ],
-      "temporal_scope": "Model of technologically mediated regime subversion stated on 2025-12-31.",
+      "temporal_scope": "Contemporary regime-change model stated on 2025-12-31.",
       "topic_tags": [
         "technology",
-        "infiltration",
         "NGOs",
-        "internet",
-        "color-revolution"
+        "color-revolutions",
+        "regime-change",
+        "information-control"
       ],
       "claim_type": "model",
       "confidence": "high"
     },
     {
-      "claim": "Jiang argues that successful revolutions were usually led by an elite faction that organized popular anger, while organic peasant uprisings without such leadership are easily and bloodily suppressed.",
+      "claim": "Jiang says revolutions are typically led by elite factions that channel popular frustration, while genuinely organic peasant uprisings without an intellectual leadership stratum are usually suppressed violently.",
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0104"
       ],
-      "temporal_scope": "Historical revolution model stated on 2025-12-31.",
+      "temporal_scope": "Historical-political model stated on 2025-12-31.",
       "topic_tags": [
         "revolution",
         "elites",
         "peasants",
-        "suppression",
-        "political-theory"
+        "leadership",
+        "suppression"
       ],
       "claim_type": "model",
       "confidence": "high"
@@ -206,9 +206,9 @@
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0097"
       ],
-      "moment": "American street violence is framed not as spontaneous polarization but as the deep state trying to settle its own internal dispute by instigating civil war in public.",
-      "source_phrase": "the deep state is trying to resolve their political differences in the streets of America",
-      "why_it_matters": "This is the sharpest compression of Jiang's regime-conflict reading: elite struggle spills downward and recruits the public as battlefield material.",
+      "moment": "The planned Trump-military meeting is cast as a loyalty ritual that could turn elite struggle into street conflict.",
+      "source_phrase": "force these generals to swear loyalty to the Trump regime",
+      "why_it_matters": "This compresses Jiang's American civil-war reading into one stark image of regime consolidation and looming domestic violence.",
       "tone": "provocation",
       "confidence": "high"
     },
@@ -216,40 +216,40 @@
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0099"
       ],
-      "moment": "War is recoded from battlefield attrition into the engineering of other people's perceptions and resolve.",
+      "moment": "War is redefined away from conventional battle and toward perception management.",
       "source_phrase": "Most of warfare nowadays is psychological",
-      "why_it_matters": "This line crystallizes the whole packet by subordinating drones and bioweapons to Jiang's broader theory of informational and emotional conquest.",
-      "tone": "definition",
+      "why_it_matters": "This is the packet's central reversal: conflict is framed less as troop-on-troop destruction than as systematic manipulation of morale, narrative, and resolve.",
+      "tone": "reversal",
       "confidence": "high"
     },
     {
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0102"
       ],
-      "moment": "Modern conquest is pictured as entering a society through NGOs and the internet, mapping its power quarters, and planting discontent from the inside.",
-      "source_phrase": "infiltrate a nation and map out the different quarters of power",
-      "why_it_matters": "The image updates imperial penetration from armies at the gate to social and informational architecture inside the target society.",
-      "tone": "image",
+      "moment": "Modern intervention is pictured as entering a society, charting its power quarters, and cultivating discontent from inside.",
+      "source_phrase": "map out the different quarters of power within that nation",
+      "why_it_matters": "The phrase gives Jiang's color-revolution model a concrete operational method rather than leaving it as vague anti-NGO rhetoric.",
+      "tone": "method",
       "confidence": "high"
     },
     {
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0104"
       ],
-      "moment": "The romantic idea of the people rising on their own is reversed: revolutions succeed when an elite faction gives rage a brain and a direction.",
-      "source_phrase": "It was always an elite. A certain faction of the elite, which galvanized the people",
-      "why_it_matters": "This reversal links Jiang's historical theory of revolution directly to his earlier claims about elite competition and managed unrest.",
+      "moment": "Organic revolution is denied as a romantic myth because rage without elite leadership gets crushed.",
+      "source_phrase": "if it's an organic peasant movement, it will be easily suppressed",
+      "why_it_matters": "This line turns the packet's discussion of covert influence into a broader theory of political change: raw discontent alone does not win power.",
       "tone": "reversal",
       "confidence": "high"
     }
   ],
   "glossary_terms": [
     {
-      "term": "shadow warfare",
+      "term": "shadow asymmetrical information warfare",
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0099"
       ],
-      "definition_or_usage": "Jiang's label for indirect warfare that mixes proxies, propaganda, special forces, and bombardment rather than overt large-scale troop deployment.",
+      "definition_or_usage": "Jiang's label for a style of conflict that uses proxies, propaganda, information shaping, and indirect force rather than overt mass deployment of regular troops.",
       "confidence": "high"
     },
     {
@@ -257,7 +257,7 @@
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0100"
       ],
-      "definition_or_usage": "Jiang's name for future conflict as a blended form of stealth, information operations, psychological pressure, and irregular military tools.",
+      "definition_or_usage": "Jiang's forecast term for future conflict that mixes stealth, information operations, psychology, drones, proxy actors, and conventional tools.",
       "confidence": "high"
     },
     {
@@ -265,8 +265,8 @@
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0102"
       ],
-      "definition_or_usage": "Used here as Jiang's example of externally cultivated unrest in which NGOs, youth recruitment, and information control help destabilize a target state.",
-      "confidence": "medium"
+      "definition_or_usage": "Referenced by Jiang as cases where outside actors enter a country, recruit through NGOs, shape online discontent, and steer regime pressure from inside the information space.",
+      "confidence": "high"
     },
     {
       "term": "organic revolution",
@@ -274,7 +274,7 @@
         "video:interview-mcjno0xrly8@transcript:v1#seg-0103",
         "video:interview-mcjno0xrly8@transcript:v1#seg-0104"
       ],
-      "definition_or_usage": "A revolution arising from popular discontent without elite intellectual leadership; Jiang uses the term mainly to argue such uprisings are usually suppressed.",
+      "definition_or_usage": "The host's term, accepted and reworked by Jiang, for a revolt that emerges directly from popular grievance without elite or intellectual leadership; Jiang argues such movements are usually defeated.",
       "confidence": "high"
     }
   ],
@@ -283,26 +283,19 @@
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0097"
       ],
-      "note": "On 2025-12-31 Jiang extends his second-Trump-presidency reading from elite civil war inside the state to an imminent forecast of street-level partisan clashes in the next couple of years.",
+      "note": "On 2025-12-31 Jiang extends his late-2025 second-Trump-presidency diagnosis into a near-term forecast of factional street conflict in the United States over the next few years.",
       "possible_update_to_prior_position": false,
       "confidence": "high"
     },
     {
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0099",
-        "video:interview-mcjno0xrly8@transcript:v1#seg-0100"
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0100",
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0102"
       ],
-      "note": "Jiang presents Libya, Syria, Iran, and Ukraine together on 2025-12-31 as evidence for a current transition toward hybrid and psychological war rather than a strictly future possibility.",
+      "note": "This late-2025 interview records Jiang treating hybrid psychological warfare and color-revolution style information operations as already-mature methods that define the present and near future of conflict.",
       "possible_update_to_prior_position": false,
       "confidence": "high"
-    },
-    {
-      "refs": [
-        "video:interview-mcjno0xrly8@transcript:v1#seg-0104"
-      ],
-      "note": "Jiang's revolution theory is stated historically on 2025-12-31 through examples ranging from a 17th-century movement to the French Revolution, but he uses those examples to comment on present questions about whether revolts can still be organic.",
-      "possible_update_to_prior_position": false,
-      "confidence": "medium"
     }
   ],
   "uncertainty_notes": [
@@ -310,20 +303,19 @@
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0097"
       ],
-      "note": "The names of the partisan militant groups are partly ASR-rough, but the broader point is clear: Jiang forecasts proxy street conflict between opposing political camps."
+      "note": "The segment's political specifics rely on Jiang's contemporaneous interpretation of a planned Trump-era military meeting and contain rough ASR around names from the prior segment, so the packet records the frame as his diagnosis rather than as independently verified reporting."
     },
     {
       "refs": [
-        "video:interview-mcjno0xrly8@transcript:v1#seg-0099",
-        "video:interview-mcjno0xrly8@transcript:v1#seg-0100"
+        "video:interview-mcjno0xrly8@transcript:v1#seg-0102"
       ],
-      "note": "The claims about Libya, Syria, Iran, Ukraine, and NATO are preserved as Jiang's interpretive account in the interview and are not independently verified within the packet."
+      "note": "The Nepal and NGO examples are presented as Jiang's interpretive model of color-revolution operations inside the interview, not as a sourced case-study demonstration within this packet."
     },
     {
       "refs": [
         "video:interview-mcjno0xrly8@transcript:v1#seg-0104"
       ],
-      "note": "The historical label rendered as 'Anabasta movement' is left in source form because the ASR transcript does not support a confident normalization."
+      "note": "The transcript renders one historical reference as the 'Anabasta movement'; the packet preserves Jiang's larger point about failed peasant uprisings without normalizing the exact term."
     }
   ]
 }
