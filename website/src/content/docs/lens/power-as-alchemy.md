@@ -131,6 +131,14 @@ Power installs national memory when school, language, history, and geography mak
 
 This is where alchemy touches the war and story pages. A state does not only need an army. It needs the inner conversion by which a stranger's death becomes "our" sacrifice, a border becomes a sacred body, and obedience feels like love.
 
+The December 31, 2025 Recombination Nation interview adds the counter-test. Jiang first says that [history is a tool of power]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0134"} because elites can rewrite the past for new imagined communities, and every hegemon is tempted to present itself as [the end of history]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0137"}. But he does not answer by treating history as a fixed archive outside imagination. He says [history is what we imagine it to be, and the future is what we imagine it to be]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0142"}. The difference between power's alchemy and liberating inquiry is the use of imagination: power closes the past into an official origin and therefore closes the future; inquiry keeps the past dynamic enough that a different future can still be imagined.
+
+<!-- lens-point id="power-alchemy-opens-history-to-future" concept="power-alchemy" evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0134 video:interview-mcjno0xrly8@transcript:v1#seg-0142 video:interview-mcjno0xrly8@transcript:v1#seg-0143" -->
+<span id="power-alchemy-opens-history-to-future" class="lens-point-anchor"></span>
+Power owns history when it turns the past into an official origin story that makes its world feel inevitable; counter-alchemy reopens history by asking whether a story deepens understanding enough to make another future imaginable.
+
+That boundary matters because the same sentence can be flattened into relativism if detached from the source. Jiang immediately gives a test: do not ask only which civilization can claim the first origin; ask whether [the story makes sense and improves understanding of the universe]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0143"}. This belongs here because the active mechanism is still alchemical conversion: imagination makes a past and future inhabitable. [How Stories Control Reality](/lens/how-stories-control-reality/) owns the narrative craft and commandless coordination. [Living School For Psychohistory](/lens/living-school-for-psychohistory/) owns the educational practice of forming people who can think this way. Power-as-alchemy owns the political conversion by which official memory can trap a future, and open inquiry can break the trap.
+
 ## Monotheism And Modern Abstraction
 
 Jiang's genealogy is provocative: money, the individual, and the nation-state come from monotheism.
@@ -154,6 +162,8 @@ Ask what visible suffering refreshes belief. Poverty, crisis, humiliation, enemi
 Ask who benefits if the abstraction feels scarce, sacred, personal, or inevitable. The beneficiary may be a state, bank, school, bureaucracy, empire, profession, or platform.
 
 Ask whether the abstraction still serves life. Jiang's exit is not "nothing is real." It is that if human imagination accidentally built a miserable system, [imagination can also create a new system for eudaimonia]{evidence="video:predictive-history-ajfxykt9joo@transcript:v1#seg-0095"}. Alchemy can enslave because imagination is real. It can also liberate for the same reason.
+
+Ask whether the past is being closed or opened. Does a historical story make the current order feel inevitable, original, or final, or does it improve understanding enough that another future can be imagined?
 
 ## Related Concepts
 
