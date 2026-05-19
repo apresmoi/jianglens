@@ -39,6 +39,14 @@ The law of proximity says actors play many games at once, but the nearest visibl
 
 That is why the Iran war in the proximity lecture is not analyzed first as a clean state-versus-state board. American parties can support an unpopular war because each side imagines a nearer domestic payoff. Jiang's sharp sentence is that [the war is not really about America defeating Iran]{evidence="video:predictive-history-noqqgy4boby@transcript:v1#seg-0018"} but about Democrats and Republicans obtaining or keeping power. Later, the same method reaches intelligence and assassination. Jiang explicitly caveats that he lacks direct evidence, but argues that game theory gives the best explanation: [internal factions can provide intelligence to external enemies in order to limit domestic rivals]{evidence="video:predictive-history-noqqgy4boby@transcript:v1#seg-0040 video:predictive-history-noqqgy4boby@transcript:v1#seg-0041"}.
 
+The **2025-12-31** Recombination Nation interview gives an earlier, more structural version of the same proximity rule. The host asks whether interstate tension is partly staged for domestic consumption, and Jiang answers that it is [entirely for domestic consumption]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0077"}. His explanation is not that geopolitics disappears. It is that [elite overproduction turns hierarchy into factional struggle, and factions draw other nation-states into the fight to defer their own power struggle]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0077 video:interview-mcjno0xrly8@transcript:v1#seg-0078"}. The board the public sees as United States versus Russia, or one state against another, may be a later layer over a nearer elite game.
+
+<!-- lens-point id="game-theory-elite-overproduction-domestic-war" concept="game-theory-method" evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0077 video:interview-mcjno0xrly8@transcript:v1#seg-0096 video:interview-mcjno0xrly8@transcript:v1#seg-0097 video:interview-mcjno0xrly8@transcript:v1#seg-0104" -->
+<span id="game-theory-elite-overproduction-domestic-war" class="lens-point-anchor"></span>
+Elite overproduction turns foreign conflict and civil unrest into a proximity game when too many elites compete inside a shrinking hierarchy, externalize the struggle through states or proxies, and then use public rage as the street-level surface of elite conflict.
+
+Jiang later applies the same method to contemporary American civil-war risk. He reads the second Trump presidency as [a civil war inside the American elite]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0096"}, with militant arms and street clashes as the downstream form. The important game-theory claim is the agency reversal: [political differences inside the deep state are resolved in the streets by instigating civil war]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0097"}. His follow-up on revolutions keeps the same boundary. Pure peasant rage is usually crushed; successful revolution needs [an elite faction that can galvanize popular discontent and lead it]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0104"}.
+
 This belongs inside game theory because the mechanism is methodological. It does not say domestic politics is always the hidden cause, and it does not turn every foreign event into a civil-war claim. It gives the analyst a test: when an external move looks strategically incoherent, ask whether a nearer audience, election, faction, bureaucracy, status contest, or spiritual struggle is the real game being won.
 
 ## Superstructure Changes The Game
@@ -208,6 +216,7 @@ Ask:
 - What is the declared prize, and what behavior suggests a different prize?
 - What game is the stronger actor trying to make everyone accept, and who can survive only by refusing that board?
 - Which game is nearest to the actor: family, school, city, party, faction, bureaucracy, audience, election, or soul?
+- Is an external conflict carrying an unresolved internal hierarchy struggle, especially elite overproduction inside a shrinking status order?
 - Is the real payoff material, status-based, spiritual, narrative, emotional, institutional, or civilizational?
 - Who wrote the rules, and does playing well give command or only make the player useful inside someone else's game?
 - Who benefits if the visible system fails?
@@ -237,6 +246,9 @@ The final question is often the most important. A trap is not just a bad move. I
 
 - **2025-08-29**, [Secret History #4: How Evil Triumphs](/episodes/predictive-history-btlwoqwlm9q/)  
   Game theory becomes morally severe: hidden coordination, cheating, taboo breach, and transgression are analyzed as ways groups can bind themselves and win.
+
+- **2025-12-31**, [How This Civilisation Ends with Professor Jiang](/interviews/interview-mcjno0xrly8/)
+  The law of proximity gains a domestic-conflict form: elite overproduction makes foreign tension, civil-war risk, and revolutionary leadership legible as nearer elite games using states, proxies, and popular rage as their public surface.
 
 - **2026-01-05**, [An Empire That Sacrifices Strategy For Optics](/interviews/interview-orycs0r2tpg/)
   The April grand-bargain forecast shows the sequence rule: pressure across theaters, internal Chinese factions, and the later Iran endgame make the China meeting one move in a wider game rather than a self-contained diplomatic event.
