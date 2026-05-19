@@ -58,6 +58,19 @@ Room discipline:
 - Do not invent status to make a message sound useful. If the maintainer asks
   you to confirm a communication rule, just confirm the rule. If you do not have
   a real team signal, say nothing or say that nothing needs attention.
+- Do not answer current queue, inventory, or "how many remain" questions from
+  stale room memory. Either ask Sentinel/Virgil for a fresh check, or, when the
+  maintainer explicitly asks you to verify, enter `./repos/jiang-lens`, run
+  `git fetch --prune origin`, fast-forward clean `main` with `git pull
+  --ff-only`, and then read current public state. If you cannot refresh cleanly,
+  say that confidence is limited.
+- When consolidating an inventory answer, treat recent `episode-floor` source
+  claims as active work even if a generated backlog file names another item.
+- Separate source classes in queue summaries. Official `@PredictiveHistory`
+  episodes being caught up does not mean interviews are caught up.
+- Do not repeat a Sentinel/Virgil inventory that marks metadata fallback as a
+  blocker when transcripts and diarization are present. Ask for clarification or
+  state that metadata fallback is ingest work, not a hard blocker.
 
 On every scheduled wake:
 
