@@ -1,0 +1,291 @@
+# Professor Jiang's Interview with Russia Today @PredictiveHistory
+
+Source: https://www.youtube.com/watch?v=QSXkdK4mzgk
+
+## seg-0001 / 00:00:11-00:00:51 / SPEAKER_01
+
+Hello and welcome to Worlds Apart. Since time immemorial, thinkers and leaders have used history to understand the present and plan for the future. But after the 20th century with its unconscionable carnage and pleas of never again, the claim of the right side of history seems to have overtaken the actual study of it. Is it still possible to keep history from being molested by geopolitics? Well, to discuss that, I'm now joined by Zhang Xieqing, Chinese historian and host of the Predictive History YouTube channel. Mr. Zhang, it's amazing to talk to you. Thank you very much for being here.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0001
+
+## seg-0002 / 00:00:51-00:00:52 / SPEAKER_00
+
+Thanks so much for inviting me.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0002
+
+## seg-0003 / 00:00:52-00:01:28 / SPEAKER_01
+
+Now, I'm really taken by your concept or rather your method of psychohistory, which is essentially about applying psychoanalysis to geopolitics. And I know that you argue that social behavior far from being random, follows quantifiable patterns, which once properly understood could guide humanity towards wiser collective choices. Now, the first question I have for you is what makes you believe that the people in the positions of power won't allow humanity to go that way towards wiser ends?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0003
+
+## seg-0004 / 00:01:28-00:02:22 / SPEAKER_00
+
+Right, so what I do is, as you mentioned, psycho history. So I marry psychoanalysis with game theory. Basically the idea is that, you know, I see nation states as individuals with their own history, with their own worldview, with their own motivations and with their own reasoning. And once you have empathy, once you understand how these nation states have behaved in the past, you can better predict their future. And what I try to do is I try to model that, meaning I have a theoretical framework, but then I apply to the present and make certain predictions of the future. And if these predictions should not be accurate, then my framework, my framework is accurate. And so that's what I do. And as you mentioned, this could be a tremendous benefit to humanity. It could mark a new age for us where we have better control over geopolitics. We can avoid war, devastation, calamities.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0004
+
+## seg-0005 / 00:02:22-00:02:54 / SPEAKER_00
+
+But as you also mentioned, these elites in power are extremely self -interested and they're only interested in maintaining power. And so what I do is I try to map things out over centuries because over time, these elites, because of their hubris, because of their arrogance, they will lead their societies to collapse. But then a new elite will come to power and then they can use the cycle of history, the standards from the past, to create societies that are much more resilient, that are much more open, and which are much more compassionate.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0005
+
+## seg-0006 / 00:02:54-00:03:50 / SPEAKER_01
+
+But I think, you know, we can not look either at the present or at the future without actually understanding the past and not just the sort of political or ideologically driven interpretation of the past, but more or less neutral understanding of the human dynamics, because none of us, none of our societies have been born perfect. I mean, that's a narcissistic claim to begin with. That's an omnipotent claim. But, you know, people and societies evolve over time and that involves, you know, understanding some of the wrongs of the past in order to deal with them in real time. Now, one big question I have for you is this, because over the last couple of years, the narrative of the right side of history has become very prominent. And many Western elites claim that they know the way for the rest of the world. How do you find your way around it? Because that kind of claim,
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0006
+
+## seg-0007 / 00:03:51-00:04:02 / SPEAKER_01
+
+it's not only based on, you know, the claim to universal wisdom, but it also comes with a lot of intimidation towards those who disagree with that.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0007
+
+## seg-0008 / 00:04:02-00:04:58 / SPEAKER_00
+
+You're absolutely right. So the problem for us is that history is not an objective study of the human condition. It's really a tool of indoctrination. And so this history that we've studied in the past, it's very problematic. So everyone knows, Francis Fukuyama wrote an essay called The End of History, saying that with the fall of the Soviet Union, that shows that consumer liberal democracy is the best system in the world ever. And so if everyone adopts neoliberalism, then the world will be a better place. That's just propaganda we know, because after 20 years of neoliberalism, it's left to massive inequality in the world. It's left to massive corruption in Western democracies, and it's led to war and devastation. So history is often a tool of propaganda in which the winners and the writers of history use it to manipulate the poor and the losers of history. Neoliberalism is just a mechanism of colonial exploitation. And
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0008
+
+## seg-0009 / 00:04:58-00:05:14 / SPEAKER_00
+
+so what we try to do is we try to rescue history from this indoctrination by forcing it to make predictions. So if your history is bad, if your historical model is correct, then it has to be able to make certain predictions about the future. If this prediction is something accurate, then your historical model is accurate.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0009
+
+## seg-0010 / 00:05:14-00:05:53 / SPEAKER_01
+
+Now, let me know if you disagree with me, but I think an unexploitative study of history, just like psychology, always comes with a certain degree of relativity. You look not only at what's good or what's desirable for humanity as a whole or in the abstract, but also at what's possible for this concrete individual, for this particular society at this stage, at this point of time, with this amount of resources. And that seems very commonsensical, but yet when it comes to modern day geopolitics, for some reason it's totally lacking or at least in very short supply. Why do you think that is?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0010
+
+## seg-0011 / 00:05:54-00:06:42 / SPEAKER_00
+
+At the end of the day, these moral values, it's a way for the elite to enforce its war and power over people. So for example, these Western values of individualism, of liberalism, of free market, they are not consistent for the human condition. And in fact, not everyone would want individualism and liberalism because that often means an erosion of traditional moral values. So when people talk about morality, it's not about what is true and objective for all humans. It's often about a certain group of people who want to impose their values on others as well. So that's why making predictions is so important, because when you are forced to make predictions, you are forced to accept the limitations of your moral values. You're forced to recognize your prejudices.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0011
+
+## seg-0012 / 00:06:42-00:07:20 / SPEAKER_01
+
+And I think it's also not about picking one or the other, let's say individualism versus collectivism, but actually finding the balance between the two. Because I just came back from vacation to Shanghai, where I went with my family, and we were amazed how both collective and very individualistic Chinese people are. When you ride the Shanghai Metro, you see people very, very different. They're very respectful to each other, but at the same time, in terms of their clothes, in terms of their makeup, everything, they're very much into themselves. So it's not about choosing one or the other, but rather combining them in an effective way.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0012
+
+## seg-0013 / 00:07:20-00:07:40 / SPEAKER_00
+
+So all humans are diverse and dynamic. All societies will change over time, and all societies will have a spectrum of viewpoints. And so I think the key is to recognize the diversity, the plurality, the openness and the dynamism of the human experience. And that's what will lead to a more prosperous world.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0013
+
+## seg-0014 / 00:07:40-00:08:04 / SPEAKER_01
+
+Now, you mentioned game theory that plays a big role in your analysis, and it's been around since the mid -1940s. It's used extensively in marketing, in industry, in logistics. But when it comes to geopolitics, is it actually being employed at all, this current state of world disorder? Do you think that's a result of a particular strategy or on the contrary, the lack of any strategy?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0014
+
+## seg-0015 / 00:08:05-00:08:50 / SPEAKER_00
+
+So game theory, the problem with game theory applied is that it's often too mathematical and not psychological enough. So there's not enough empathy in game theory where you respect your opponent and you respect the rational decision -making process of your opponent. And that's the issue we're facing in geopolitics today, where America is a hegemon, and America believes that whatever you do is correct, it suffers from hubris, and whatever others do is irrational. So for example, Russia's war in Ukraine is irrational because it's breaking the rules -based national order. So for example, Russia's war in Ukraine is irrational because it's breaking the rules -based national order. So for example, Russia's war in Ukraine is irrational because it's breaking the rules -based national order. But if you employ empathy, if you're playing game theory, you recognize that it is a rational decision made by Putin because Russia was being threatened by NATO expansion. So any rational leader in his shoes would be forced to do something about it.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0015
+
+## seg-0016 / 00:08:51-00:09:03 / SPEAKER_00
+
+So the issue right now is that we are run by the American empire, and the American empire is insistent on imposing its values and its worldview on everyone. If you disagree, then you are irrational. If you disagree, then you are irrational.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0016
+
+## seg-0017 / 00:09:04-00:09:38 / SPEAKER_01
+
+Now, I do want to get to the war in Ukraine, but before we do that, let's discuss the American imperialism, as you put it, because I think if you look at this past year, this second term or the second coming of Donald Trump definitely was a major instability factor in the already disintegrating global system. I wonder what does Donald Trump as a political phenomenon signify to you? What do you think it is about? Not him personally, but the phenomenon, the political force that he represents?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0017
+
+## seg-0018 / 00:09:39-00:10:32 / SPEAKER_00
+
+Historically, he's very similar to Julius Caesar. Julius Caesar was a false messiah of the Roman people. He came at a time when the Roman Republic was divided, when the elite and the people could not get along, and the elite were extremely exploitative, they were corrupt, they were depraved, and people were begging for a savior. At the same time, Rome was having problems maintaining its hegemony. And so the empire was looking for a great warrior to lead it out of its chaos. And that's the situation Donald Trump finds itself in, where there's a majority of Americans who believe that Donald Trump will go to war against the elite and create a much more democratic America. Right now, America is not a democracy, it's an oligarchy. It's a very corrupt, depraved oligarchy. So Donald Trump is very much a Julius Caesar figure, and he will probably ignite a civil war in America.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0018
+
+## seg-0019 / 00:10:33-00:11:08 / SPEAKER_01
+
+Now, speaking about other players, whether we like Donald Trump or not, or whether we like the current state of America or not, various countries had to find their way of adjusting their policies to the Trumpian America. And I think we've seen Europe becoming more fawning, Israel becoming more insisting or perhaps more daring, China becoming more forthright, and Russia, to my surprise, becoming more flexible. You know, when you look at all of this, where do you think the world is heading?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0019
+
+## seg-0020 / 00:11:09-00:12:15 / SPEAKER_00
+
+Well, I mean, Donald Trump has come in and he's turned America from an empire that hides behind the facade of a multilateral rules -based liberal order to one that's just a bully. If you look at the national security strategy of America, what it says is that America will now enforce its power around the world, especially Western hemisphere, right? And that's some corollary to the Monroe Doctrine. The Monroe Doctrine says that the Western hemisphere belongs to America and China and Russia may not at all engage with South America. And this war in Venezuela is an expression of that idea. And quite honestly, before America was very much protective of global naval trade, now America's behaving like pirates, right? So this Venezuela oil tanker was just boarded and hijacked and sent to Houston, Texas. All this oil, $60 million of oil, was stolen from the Venezuelans. So Trump, because he's so aggressive, because he's so belligerent, and because he behaves like a mafia don, it's forcing people to behave and respond to it.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0020
+
+## seg-0021 / 00:12:15-00:12:44 / SPEAKER_00
+
+And different players, given their different circumstances, will employ different strategies. So as you mentioned, China needs to stand up and protect its rights. Europe is a vassal state, and therefore it has no choice but to bend its knee to Trump. Israel is the pit bull. It's the vassal state of America. Putin is a master strategist, and so he's trying to maintain flexibility while negotiating with Trump. And so all these different players are behaving in a way that is in their best interest.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0021
+
+## seg-0022 / 00:12:44-00:13:28 / SPEAKER_01
+
+Now, you mentioned the US new national security strategy, and one more aspect to it is that it specifically says that the United States will no longer try to impose its democratic rules on other nations. In fact, it shows a degree of historicity. It says that, you know, other countries may have different circumstances, so it makes no sense of trying to, you know, submit them to the same standards as the United States, although perhaps it's different for the Western hemisphere. Now, is that something that you tend to believe in? Do you think that means that perhaps, at least on our side of the world, the United States will be less interventionist?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0022
+
+## seg-0023 / 00:13:28-00:14:27 / SPEAKER_00
+
+So America is intent on maintaining its empire, and no empire in history has ever been a country that has given up its power willingly and voluntarily. So what America is doing is shifting its strategy. So before, it was hiding behind the facade of a multilateral liberal rules -based order, and now it recognizes that this hypocrisy doesn't really work. People see through this hypocrisy. So now it's employing a much more standard imperial tactic, which is divide and rule. So rather than confront China directly in Southeast Asia, it's going to let Japan engage China. Rather than confront Russia directly, it's going to have Europe. Europe, go fight Russia. And so America's not retreating anywhere. America's just shifting strategies. Even in Africa, America is very explicit in that it will challenge Chinese economic dominance in Africa. How? By employing the resources of its allies, primarily Japan. So America basically sees Japan as a vassal state, and all of its resources and wealth in Japan belongs to America.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0023
+
+## seg-0024 / 00:14:27-00:14:44 / SPEAKER_00
+
+And, you know, we've seen this historically before. The Athenians in the Peloponnesian War basically used its vassals as cannon fodder, as proxies in its war against Sparta, and it caused a massive rebellion among its allies. So this is a very standard historical pattern.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0024
+
+## seg-0025 / 00:14:44-00:16:37 / SPEAKER_01
+
+I see. Well, Mr. Zhang, what's also standard for this program, and it's indeed this set pattern, is to take a very short break, which we are going to do right now, but we will be back in just a few moments. Stay tuned. Welcome back to Worlds Apart with Zhang Shijing, Chinese historian and host of the Predictive History YouTube channel. Mr. Zhang, back in 2024, you warned that a second Trump presidency could result in an American invasion of Iran, and we haven't seen a full -scale invasion, but the United States did attack Iran's nuclear facilities. And, you know, just a couple of days ago, I interviewed Iran's foreign minister, and he told us that, you know, the Iranian side are still pretty concerned about, or at least they are not ruling out the possibility of another attack. Do you think it's likely to happen in the coming year?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0025
+
+## seg-0026 / 00:16:37-00:17:29 / SPEAKER_00
+
+I think that an attack against Iran will be very likely and very soon. The reason why is that the great fear of the American empire is an alliance between Russia, Iran, and China, basically for the Eurasian continent to unite in a peaceful economic bloc. And the reason why is that if that were to happen, then the Eurasian heartland can just trade internally through railways and then connect to Africa, to Middle East, and to Europe, and to India. And so this would negate American sea power. And America has $38 trillion in debt, so it cannot afford to lose out in an economic way. Therefore, the only way to stop an alliance between China, Russia, and Iran from emerging is to go destroy Iran. So in the long term, America has no choice but to eventually try to destroy Iran.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0026
+
+## seg-0027 / 00:17:29-00:18:08 / SPEAKER_01
+
+Well, that's a rather pessimistic scenario. Now, I heard you say that in order to win a war, you need to avoid encirclement, mask your forces, and protect your supply lines. And that's impossible in the context of Iran. But the problem with the Americans is that over the last couple of decades, they're not really aiming or planning for winning a war decisively, but they can deliver a lot of damage and sabotage a country's development by limited strikes. Are there any ways of protecting against that? Is history offering anything in this regard?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0027
+
+## seg-0028 / 00:18:08-00:19:11 / SPEAKER_00
+
+You're absolutely right. America doesn't intend a war against Iran. It needs to destroy the Iranian infrastructure enough so that the economy is set back decades. And there's so much chaos that it's impossible for Russia and China to link up with Iran. And that's the intention. Remember back in 2003, America used a two -week shock and awe campaign to destroy Iraq, and then it went in and destroyed the society even further through democratization. So America is intent on a certain policy, and we've seen this before. There's really little that Iran can do about this because at the end of the day, America has naval and aerial supremacy. I know that Iran has naval supremacy, has aerial defense, and it has ballistic missiles, but there's very little that America can do about it. But America will go into Iran, and America will overstretch itself, and America will collapse. And then what will happen is that all of
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0028
+
+## seg-0029 / 00:19:11-00:19:17 / SPEAKER_00
+
+its Middle East assets will then transfer over to Israel, and then a new superpower in the Middle East will actually become Israel.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0029
+
+## seg-0030 / 00:19:18-00:19:28 / SPEAKER_01
+
+Well, Mr. Zhang, if we are to take your metrics for winning a war and apply them to the Ukrainian conflict, which side is likely to emerge as the winner?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0030
+
+## seg-0031 / 00:19:28-00:20:25 / SPEAKER_00
+
+Look, from my perspective, this war was over a year ago. Russia has clearly and decisively won this war. If you just look at the front lines, Russia is dominating the front lines. It has had tremendous breakthroughs these past two months. The morale among Russian soldiers is extremely high, whereas the morale among Ukrainian soldiers has broken down. You have about 100,000 Ukrainian soldiers who have deserted. And right now, they're just kidnapping old men off the streets of Ukraine to fight this census war. You've got millions of Ukrainians who have fled the country. So from my perspective, Russia has won this war, and Ukraine has lost it. The thing, though, is that Russia fights war slowly because Russia wants to reduce civilian casualties. It wants to maintain infrastructure because Russia still wants to govern Donbass after this war. It sees Eastern Ukraine as part of Russian civilization, so it doesn't want to do too much damage.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0031
+
+## seg-0032 / 00:20:25-00:20:45 / SPEAKER_00
+
+So that's why this war is slow, methodical. Unfortunately, this will give time for the Europeans to intervene because the Europeans do not want Ukraine to collapse. So the Ukrainian front lines will be reinforced by Polish volunteers, and so this war is going to drag out, even though this war is lost, mainly because the Europeans absolutely refuse to accept defeat.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0032
+
+## seg-0033 / 00:20:45-00:21:09 / SPEAKER_01
+
+I heard you say before that at this point of time, the Ukrainians cannot cut down their losses because of the sunk cost fallacy, just like in a casino, the more you lose, the harder it is to stop betting. But in a casino, sooner or later, security will accompany you out. Who is that likely to be in the case of Ukraine? And do you think we will see it happen in the year of 2026?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0033
+
+## seg-0034 / 00:21:10-00:21:49 / SPEAKER_00
+
+The problem with the war in Ukraine is that the Ukrainians, the Europeans, the Americans don't really care, right? Because the Ukrainian elite, people like Zelenskyy, their family is overseas. Zelenskyy's family is in London. They've got millions of dollars, you know, banked up. They don't really care if Ukraine loses this war. The European elite don't really care either. The Americans benefit from this war because they can sell weapons to the Europeans. So rather than a war for civilization, rather than a war to protect homeland, this war is really about stealing as much money as you can while this war is happening. And this is just the way the military -industrial complex works in the West, unfortunately.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0034
+
+## seg-0035 / 00:21:49-00:22:12 / SPEAKER_01
+
+Now, you also forecast before that the fate of Ukraine will be decided in Odessa. And if Ukraine loses it, it will become landlocked, essentially a ramp state of its former self. If that indeed comes to pass, do you think Ukraine will have enough capacity to continue as a sovereign or at least semi -independent state?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0035
+
+## seg-0036 / 00:22:12-00:23:05 / SPEAKER_00
+
+So from a Game Theory perspective, this war isn't really between Ukraine and Russia. It's a war between Ukraine and Russia and Europe. Because it's the Europeans, NATO, that's providing Ukrainians with the financing, with the weaponry, with the special forces, with the command and control, with the intelligence, with the targeting that the Ukrainians need to fight this war. When a bridge gets blown by Crimea, it's not the Ukrainians doing this, it's the Europeans doing this. So it doesn't really matter what happens to Ukraine. It matters what happens in Europe. So what's going to happen is that the Europeans are going to call up a draft. They're going to conscript adult men to fight in Odessa because that really is the last stand. As I said before, if Odessa falls, the war is over because Ukraine becomes a de facto rump state dependent on European warfare. There's no more point in fighting this war. So the last stand will be Odessa.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0036
+
+## seg-0037 / 00:23:05-00:23:34 / SPEAKER_00
+
+So Europeans will draft soldiers to fight in Odessa. This is going to cause massive political tumult within Europe because these young men don't want to fight in Ukraine. There's no point. Russia has no intention of ever invading Europe. And so this is going to cause a lot of political division. And eventually there'll be a certain civil war, political revolutions in Europe and we have regime change. And then eventually these new European leaders will seek a ceasefire and a peace agreement with Russia.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0037
+
+## seg-0038 / 00:23:35-00:24:09 / SPEAKER_01
+
+So you do think that a peace agreement with Russia is likely from the European side? Because I mean, I'm hearing a lot of analysts in this country being far more negative because they believe since Europe has already, you know, gave the world two world wars, it is very likely to repeat the same pattern. And rather than trying to cut losses and, you know, do some peace deal on realistic conditions, that they may actually push it forward to the level of global conflict.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0038
+
+## seg-0039 / 00:24:09-00:24:54 / SPEAKER_00
+
+Right now, the leaders of Europe, Macron, Stormer, Merz, they are NATO puppets. They just listen to whatever the American generals tell them to do. Okay. So they're not really in charge. They really don't care about their people. They really don't care about their sovereignty. So these leaders need to go before a peace settlement can come into place. And so you're gonna have another five to 10 years of warfare. Millions are gonna have to die before there's a revolution in Europe, before new regimes come into power that are much more interested in protecting their national sovereignty. And so I'm not saying it's gonna be tomorrow. I'm gonna say, you'll have a bloody war in Odessa where a lot of people are gonna die. And then there'll be a ceasefire. This peace will have to be won on the battlefield.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0039
+
+## seg-0040 / 00:24:55-00:25:45 / SPEAKER_01
+
+Now, Mr. Zhang, we've given our audience a little bit of taste of what psychohistory is all about. And I think this method provides not only the crystal ball that everybody wants, but also to some extent the entire governing strategy. I heard you say before that it could be realized through artificial intelligence and supervised machine learning, provided, of course, that it rests on sound theoretical foundations. Do you think your country, China, will sooner or later attempt to do that, not only in terms of trying to predict future developments, but actually governing itself based on both game theory, the understanding of human psychology, collective human psychology, as well as the understanding of large historical patterns?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0040
+
+## seg-0041 / 00:25:45-00:26:17 / SPEAKER_00
+
+I hope so. I mean, like, that's my ambition. That's my dream. But I also recognize that there are certain paradigms embedded in academia. There's a certain way of understanding science, history, economics. And it's very hard to displace traditional paradigms. So I'm not thinking about tomorrow. I'm thinking about, like, 100 years from now. And what I'm trying to do is build a blueprint for, as you mentioned, an AI, which can provide hundreds of different simulations based on different actions. And this will guide leaders better in the future.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0041
+
+## seg-0042 / 00:26:17-00:26:39 / SPEAKER_01
+
+Now, speaking about those sound theoretical foundations, given the diversity of cultures and the variability in national experiences and national developments, do you think it's possible to synthesize those universal precepts that would form the basis of human flourishing across the board, across boundaries?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0042
+
+## seg-0043 / 00:26:39-00:27:02 / SPEAKER_00
+
+I think that every human strives for love, for creativity, and for learning. We all prosper. We all flourish when we are learning new things, when we are in love with other people, and when we're contributing to society in a very creative and productive manner. And I think that is consistent throughout history and across all cultures.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0043
+
+## seg-0044 / 00:27:03-00:27:33 / SPEAKER_01
+
+That's a very tempting point to end the program on because it's very optimistic. But I do want to ask you one more question that perhaps would upset the festive mood. I heard you speak about the problems of elite overproduction and power illiteracy as impediments to a society that utilizes both data, imagination, and perhaps a bit of love to serve the public good. What can be done about it, the problem of elite overproduction and elite illiteracy?
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0044
+
+## seg-0045 / 00:27:33-00:28:27 / SPEAKER_00
+
+So if you just, like, look at the world today, we're heading towards a very dark age. You've got people who have overpopulation. You've got resource depletion. You have a magnetic pole excursion coming up that's going to create a mini ice age. Climate change. You have environmental pollution. You have a tremendous gap between the poor and the rich. You've got wars everywhere. You've got, as you mentioned, elite overproduction. So we're heading for certain crises that's going to cause a reset in the world. And my hope is that whatever emerges will use gameplay and game theory will use psychohistory to build a better society in which all humans flourish. And that is, I think, and I believe, I'm very optimistic about this. I believe that we humans are extremely resilient. Even though we are entering a world of darkness, we still will shine with great light at the end of it.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0045
+
+## seg-0046 / 00:28:27-00:28:36 / SPEAKER_01
+
+Well, let's keep our fingers crossed, at least as long as we are alive. Thank you very much for this very inspiring conversation, Mr. Zhang.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0046
+
+## seg-0047 / 00:28:36-00:28:36 / SPEAKER_00
+
+Thank you so much.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0047
+
+## seg-0048 / 00:28:37-00:28:41 / SPEAKER_01
+
+And thank you for watching. Hope to see you again. Next year on Worlds Apart.
+
+Ref: video:interview-qsxkdk4mzgk@transcript:v1#seg-0048
