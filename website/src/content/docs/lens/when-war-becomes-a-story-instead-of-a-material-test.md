@@ -195,6 +195,18 @@ The boundary is important because this source touches several neighboring pages.
 
 The forecast caveat belongs inside the mechanism. Jiang says the two-pole Israel-Iran order is [theory, not prophecy]{evidence="video:predictive-history-mk4vchtawso@transcript:v1#seg-0058"}, and that warning keeps replacement-empire analysis from becoming an oracle. Use it as a material diagnostic: which actor is being evaluated as the next muscle, what proof is being offered, what infrastructure would make the replacement real, and what would falsify the audition?
 
+## Vassals As Proxy Attrition
+
+The undated Russia Today interview gives the same page a smaller but reusable imperial tactic. Asked whether Trump's less liberal security language might mean less intervention, Jiang says no. America is still intent on maintaining empire, but the method changes when the old moral cover stops working. The empire moves from liberal hypocrisy to [standard divide and rule]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0023"}.
+
+The mechanism is material before it is rhetorical. Jiang's examples are not only diplomatic labels. Rather than confront China directly in Southeast Asia, America can let Japan engage China; rather than confront Russia directly, it can tell Europe to fight Russia; in Africa, it can challenge Chinese economic dominance through allied resources. In his blunt formulation, [Japan's resources and wealth are treated as belonging to America]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0023"} because Japan is read as a vassal state.
+
+<!-- lens-point id="strategy-vassal-proxy-attrition" concept="strategy-material-test" evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0021 video:interview-qsxkdk4mzgk@transcript:v1#seg-0023 video:interview-qsxkdk4mzgk@transcript:v1#seg-0024" -->
+<span id="strategy-vassal-proxy-attrition" class="lens-point-anchor"></span>
+Vassal proxy attrition appears when an empire avoids direct confrontation by making dependent allies spend bodies, resources, territory, wealth, or regional legitimacy against the rival, preserving imperial power in the short run while risking rebellion from allies treated as expendable material.
+
+The Peloponnesian analogy makes the cost visible. Jiang says Athens used vassals as [cannon fodder and proxies against Sparta]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0024"}, producing a massive allied rebellion. That is why this belongs on the Strategy page rather than only on [Game Theory](/lens/game-theory/). Game Theory owns the player-positioning question: different players, under different circumstances, choose different strategies. Strategy owns the material audit after the positioning is named: whose bodies, ports, factories, debt capacity, resource base, and domestic legitimacy are being consumed, and whether the proxy layer can absorb the cost without turning against the patron.
+
 ## Hybrid War Before Visible War
 
 The August 2025 eschatology update adds a pre-kinetic layer to the same strategy map. Asked why the U.S.-Iran conflict had not yet become open world war, Jiang answers that the visible battlefield is the wrong instrument. In his dated formulation, [modern warfare is hybrid warfare and much of it is not visible]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0001"}: media control, electronic and cyber pressure, psychological weakening, covert operations, sanctions, economic sabotage, and leadership targeting.
@@ -322,6 +334,8 @@ Ask these questions when applying this lens.
 **What is the replacement capacity?** Aircraft, ships, missiles, pilots, soldiers, factories, fertilizer, fuel, public trust, and alliance patience all have replacement curves.
 
 **Who is auditioning to replace the muscle?** When the incumbent empire looks brittle, ask which actor is being evaluated for unity, capacity, determination, casualty tolerance, cost effectiveness, and infrastructure control.
+
+**Who is being spent as proxy material?** If an empire says it is withdrawing or merely coordinating allies, ask whether vassal states are being made to supply the bodies, territory, resources, wealth, or legitimacy needed for the confrontation.
 
 **Where are the gates?** If trade, energy, food, ships, cables, resources, or payment systems must pass through a narrow point, ask who can grant permission, who can deny access, and whether control can be made too costly to maintain.
 
