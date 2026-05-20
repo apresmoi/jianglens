@@ -1,0 +1,3383 @@
+{
+  "id": "evidence:semanticvideo-interview-f7n-6pid0tk:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-f7n-6pid0tk",
+  "source_id": "video:interview-f7n-6pid0tk",
+  "source_title": "Professor Jiang Xueqin | Sabbatai Zevi, Jacob Frank, & The Secret Faith Of Power",
+  "source_url": "https://www.youtube.com/watch?v=f7n_6pid0tk",
+  "source_date": "2025-12-28",
+  "date_precision": "day",
+  "transcript_id": "video:interview-f7n-6pid0tk@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-f7n-6pid0tk/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-f7n-6pid0tk/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-f7n-6pid0tk/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-f7n-6pid0tk/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-f7n-6pid0tk/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-f7n-6pid0tk/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-f7n-6pid0tk/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-f7n-6pid0tk/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-f7n-6pid0tk/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-f7n-6pid0tk/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-f7n-6pid0tk/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-f7n-6pid0tk/packet-0012.semantic.json",
+      "content/workflow/proposals/interview-f7n-6pid0tk/packet-0013.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-f7n-6pid0tk/source.yaml",
+    "transcript_path": "content/sources/videos/interview-f7n-6pid0tk/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 13,
+    "interactions": 41,
+    "speaker_notes": 24,
+    "claims": 97,
+    "signature_moments": 42,
+    "predictions": 5,
+    "models": 41,
+    "glossary_terms": 42,
+    "chronology_notes": 17,
+    "uncertainty_notes": 27
+  },
+  "first_refs": [
+    "video:interview-f7n-6pid0tk@transcript:v1#seg-0007",
+    "video:interview-f7n-6pid0tk@transcript:v1#seg-0008",
+    "video:interview-f7n-6pid0tk@transcript:v1#seg-0009",
+    "video:interview-f7n-6pid0tk@transcript:v1#seg-0010",
+    "video:interview-f7n-6pid0tk@transcript:v1#seg-0011",
+    "video:interview-f7n-6pid0tk@transcript:v1#seg-0012",
+    "video:interview-f7n-6pid0tk@transcript:v1#seg-0013",
+    "video:interview-f7n-6pid0tk@transcript:v1#seg-0014"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0001",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0002",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0003"
+      ],
+      "kind": "exchange",
+      "summary": "The show opens with Higher Side Chats framing about cyclical time, occult power, and elite continuity, then Greg Carlwood reintroduces Jiang as a returning guest whose predictive-history method connects esoteric insight to geopolitics.",
+      "speaker_attribution": "Opening bumper and host introduction, with Jiang's brief thanks at the end of the intro.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0004",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0005"
+      ],
+      "kind": "exchange",
+      "summary": "Greg asks about feedback from the prior interview; Jiang answers by praising the interview depth and Greg's interviewing, with both voices compressed into the same segment boundary.",
+      "speaker_attribution": "Greg Carlwood and Jiang, with mixed speech inside seg-0005.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0006"
+      ],
+      "kind": "question",
+      "summary": "Greg pivots to Sabbatai Zevi and Jacob Frank and asks why those seventeenth- and eighteenth-century events are still important for understanding power today.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0007",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by naming three enduring modern mysteries, the spread of communism, Freud's durable influence, and occult symbolism in public power, and argues that Sabbatai Zevi and Jacob Frank are the connective thread needed to understand them.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0009"
+      ],
+      "kind": "answer",
+      "summary": "Jiang completes his opening thesis by saying Sabbatai Zevi and Jacob Frank remain historically important because their ideas are still embedded in modernity even if their names no longer circulate publicly.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0010",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0011"
+      ],
+      "kind": "question",
+      "summary": "Greg reframes Jiang's thesis as the broader problem of whether old power networks and ideologies ever really disappear, then introduces Robert Sepehr's book and uses its description to set up the Sabbatai Zevi story.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0012"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Greg reads a secondary-source description of Sabbatai Zevi as a 1666 messiah preaching redemption through sin, mass following, ritual inversion, and antinomian sexual transgression.",
+      "speaker_attribution": "Greg Carlwood reading Robert Sepehr's book description",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0013",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0014",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0015",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang gives the historical background for Zevi: repeated conversion and persecution crises, Spanish expulsion and later violence in the Polish-Lithuanian world, the resulting messianic desperation, and the reinterpretation of Zevi's conversion to Islam as a redemptive act that absolved converted Jews.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0017",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0018",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0019",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0020",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0021"
+      ],
+      "kind": "answer",
+      "summary": "Jiang extends the Sabbatai Zevi story into a continuity argument: the Dönmeh preserved Zevi's inversion theology after conversion, embedded themselves in Ottoman and later Turkish power, and became useful intermediaries for British imperial destabilization.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0023",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0024"
+      ],
+      "kind": "question",
+      "summary": "Greg accepts the Zevi background as context, pivots to the Frankist branch, and reads Jiang's post framing Jacob Frank as Zevi's reincarnation, a protected convert to Catholicism, and a rumored founder of the Illuminati whose line shaped later occult and elite networks.",
+      "speaker_attribution": "Greg Carlwood, including a quoted reading from Jiang's post",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0025"
+      ],
+      "kind": "question",
+      "summary": "Greg presses Jiang to justify the strongest Frankist claim: that Jacob Frank was not merely adjacent to the Illuminati but had direct meetings with Adam Weishaupt and a real hand in founding it.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0026",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0027",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0028",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0029",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0030",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0031"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with a layered model: he cites Robert Sepehr's \"1666\" for a Weishaupt-Frank-Rothschild founding story, argues Frank's proximity to European nobility makes the Illuminati link plausible, reads Goethe's \"Faust\" as a Frankist text of transgression-as-knowledge, and then broadens the claim into a theory that Jacob Frank's real magic was narrative itself, because stories infect consciousness and reorganize reality.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "Greg accepts Jiang's storytelling argument and extends it into his own longstanding puzzle about fiction and conspiracy events, proposing that narrative may prime or even manifest later real-world events.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0033",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0034",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0035",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0036"
+      ],
+      "kind": "question",
+      "summary": "Greg extends Jiang's story-magic model into collective manifestation, compares it with Neville Goddard-style wish fulfillment and 9/11 predictive-seeding, then asks whether the elite's seemingly Gnostic behavior differs from morally serious Gnosticism and requests Jacob Frank stories that show the mechanism.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0037",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0038",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0039",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Jacob Frank works from a Gnostic framework of divine spark, interconnectedness, reincarnation, and embodied wisdom, but then inverts it by using love and free will as technologies of conquest; he illustrates the logic with a story where four loving brothers frighten off a bear better than tens of thousands of villagers.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0041",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0042",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0043",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0044"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang continues his Jacob Frank interpretation by arguing that Frank weaponizes free will and divine forgiveness as a loophole, seduces followers with stories, and teaches visualization as a method for dissolving taboo and imagining kingship.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0045"
+      ],
+      "kind": "exchange",
+      "summary": "Greg responds that the Frankist logic is intelligible as a jailbreak or hack on morality: by treating man-made rules as a rival god, it recategorizes transgression as fidelity to a higher divine authority.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0046",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0047"
+      ],
+      "kind": "answer",
+      "summary": "Jiang accepts Greg's framing and extends it sociologically: Frank's doctrine reassures guilty elites, spreads like a virus, and enables covert entry into multiple religions and institutions through strategic conversion.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0048"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Greg begins reading a Substack story Jiang previously discussed about a poor widow who is told to pose as a healer, setting up the next packet's example of spiritual belief being tactically exploited.",
+      "speaker_attribution": "Greg Carlwood reading Jiang's cited story",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0049",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0050"
+      ],
+      "kind": "question",
+      "summary": "Greg finishes the widow story, links it to Jiang's claim that Jacob Frank exploited superstition, and asks whether elite displays of occult menace work the same way today by making the powerful seem beyond ordinary human challenge.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0051",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0052",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0053"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by clarifying Jacob Frank's worldview: Frank sees himself as founding a new nation against a satanic world, treats sin as a way to expose the false god's powerlessness, and concludes that the stupid and evil masses must be manipulated rather than morally persuaded.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0054",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0055",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0056"
+      ],
+      "kind": "question",
+      "summary": "Greg says the logic is warped but legible, then asks how far Sabbatean-Frankism can be traced into the modern timeline, whether influential people still adopt it, and how to argue that it survives as a living elite pattern rather than dead Illuminati folklore.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0057",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0058",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0059",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0060",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0061",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0062",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0063"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers Greg's continuity challenge by naming contemporary figures whose smooth rise, unusual backing, and mutual patronage he reads as signs of a living Frankist network: Zuckerberg, Sam Altman, Elizabeth Holmes, Jared Kushner, Mohammed bin Salman, and the House of Saud.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "Greg briefly confirms Jiang's Kushner example by recalling the family's troubled Manhattan property and its numerically charged street address.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0065",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0066",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0067"
+      ],
+      "kind": "answer",
+      "summary": "Jiang extends his living-continuity argument by tying Kushner, Mohammed bin Salman, Elon Musk, and Sam Altman to a Frankist elite logic in which seamless ascent and transhumanist projects express an end-times desire for immortal fleshly enjoyment rather than spiritual transcendence.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0068",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0069",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0070"
+      ],
+      "kind": "question",
+      "summary": "Greg says Jiang's case becomes more interesting once it moves beyond ethnic labels into a shared elite ideology of fearlessness and extreme risk, then pivots to Jiang's earlier warning that global cataclysm could wipe out most of humanity within a century and asks how soon that danger will become obvious.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0071",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0072"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that recurring mini Ice Ages and magnetic pole excursions have repeatedly driven social collapse, and that a modern electrified civilization built for efficiency rather than resilience would be devastated if a large solar event hit during one of these cycles.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0073",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0074"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues his catastrophe answer by arguing that worsening earthquakes, weather extremes, volcanic activity, and a weakening magnetic field point toward a likely geophysical event, and says governments and scientists are not candidly preparing the public while the rich quietly build bunkers.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0075",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0076",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0077"
+      ],
+      "kind": "exchange",
+      "summary": "Greg jokes that listeners should imitate elites by limiting their kids' tech exposure and building bunkers, but Jiang pushes back that community solidarity matters more than bunkers, after which Greg agrees and gives a practical example from his own well-water vulnerability and hand-pump planning.",
+      "speaker_attribution": "Greg Carlwood and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0078",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0079"
+      ],
+      "kind": "answer",
+      "summary": "Jiang offers a more radical preparation ethic: stop treating money, gold, or Bitcoin as salvation, because catastrophe survival depends on spirituality, community, creativity, and the imaginative capacity to build a new world rather than collapsing into despair.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0080"
+      ],
+      "kind": "question",
+      "summary": "Greg briefly endorses Jiang's advice by citing John Michael Greer's phrase 'collapse now and avoid the rush,' then closes the interview by asking what Jiang plans to teach next and where listeners should follow his work.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0081"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers Greg's closing question by announcing a next-semester game theory course and directing listeners to his Predictive History Substack for geopolitical analysis.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0082",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0083"
+      ],
+      "kind": "monologue",
+      "summary": "After thanking Jiang, Greg shifts into a solo post-interview wrap-up that says Jiang made the continuity argument more convincing than earlier guests and speculates that hidden elite groups may simply pursue every agenda at once while avoiding mutual exposure.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0084",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0085",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0086",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0087",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0088"
+      ],
+      "kind": "monologue",
+      "summary": "Greg extends the outro into a speculative historical riff about Trump's 1776-themed military payment, Jesuit suppression, Illuminati formation, Eva Frank's succession, and Czar Alexander I's visit, treating those details as suggestive evidence that Frankist and related elite networks did not really disappear.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0089"
+      ],
+      "kind": "unclear",
+      "summary": "A brief interjection appears at the transition point in Greg's historical riff, but it is too short to carry standalone meaning.",
+      "speaker_attribution": "Unclear brief interjection",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0090",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0091"
+      ],
+      "kind": "monologue",
+      "summary": "Greg continues his solo commentary by tying Alexander I, the British royal family, Jesuit education, conversos, and Sabbatean-Frankist inversion into one still-active ideological mix, then pivots into a pitch for the paid plus show.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0092",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0093",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0094"
+      ],
+      "kind": "monologue",
+      "summary": "Greg previews the plus-show topics that extended the Jiang conversation, reflects on the fear of raising children amid cataclysm, and announces plans to expand Higher Side Chats beyond a rigid interview-only format while keeping the current free-versus-paid hour structure.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0095",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0096"
+      ],
+      "kind": "monologue",
+      "summary": "Greg closes the packet by reviewing a previous episode's lower rating, defending the guests against superficial judgment, and arguing that the episode still mattered because listeners with similar losses found it cathartic.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0097",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0098"
+      ],
+      "kind": "monologue",
+      "summary": "Greg closes his wrap-up by predicting the Jiang interview will land more universally than some earlier niche episodes, then moves into meetup-calendar announcements and a broader reflection on using the community to offset social isolation.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0099",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0100"
+      ],
+      "kind": "monologue",
+      "summary": "Greg ends the episode with New Year remarks about controller-class psyops, upcoming Mayan-calendar material, gratitude for fifteen years of support, renewed praise for Jiang, and a final direct challenge to the Sabbatean-Frankist controller class.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0101"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A closing song lyric follows the spoken outro.",
+      "speaker_attribution": "Closing music / lyric",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0001"
+      ],
+      "note": "The first segment appears to be an opening bumper or song lyric rather than interview dialogue.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0003",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0005",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0006"
+      ],
+      "note": "Several early interview segments contain two speakers stitched together by ASR, so interaction boundaries must be inferred from direct address and sentence flow rather than diarization labels alone.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0012"
+      ],
+      "note": "This segment is Greg reading a book description aloud, not Jiang's own narration, so its details should be treated as quoted setup rather than Jiang-originated evidence.",
+      "suggested_speaker": "Greg Carlwood reading Robert Sepehr",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0013",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0014"
+      ],
+      "note": "The ASR is noisy around the Spain exile discussion, including garbled wording and an apparent mistranscription of 'Polish-Lithuanian Commonwealth.'",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0017"
+      ],
+      "note": "The opening of seg-0017 repeats the end of seg-0016 because of transcript overlap, but the substantive speaker remains Jiang throughout.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0023",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0024"
+      ],
+      "note": "These segments are Greg summarizing and reading from Jiang's published material, so details about Jacob Frank's biography and rumored Illuminati role enter here as quoted setup rather than Jiang's fresh argument in this packet.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0026"
+      ],
+      "note": "Jiang is explicitly leaning on Robert Sepehr's book \"1666\" here, so the three-founder account of the Illuminati is secondhand source material incorporated into his answer rather than a newly demonstrated archival finding inside the packet.",
+      "suggested_speaker": "Jiang citing Robert Sepehr",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0032"
+      ],
+      "note": "Greg's segment is responsive but not a clean standalone question; it is better treated as an exchange where he affirms Jiang's model and begins mapping it onto predictive-programming style examples.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0033",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0036"
+      ],
+      "note": "Greg's turn is a long reflective prompt, not a sequence of separate public questions. It works best as one compound question/exchange that joins manifestation, Gnosticism, morality, and the request for Frank stories.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0038"
+      ],
+      "note": "This segment is materially degraded by ASR noise, but the recoverable through-line is still Jiang's rhetorical move: if divine spark is love, could that love be focused to conquer the world?",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0045"
+      ],
+      "note": "Greg is not asking a clean standalone factual question here; he is restating Jiang's argument in his own language and stress-testing its internal logic before Jiang continues.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0048"
+      ],
+      "note": "This is quoted narrative material read aloud by Greg from a story Jiang wrote about, not Greg's own historical claim or analysis.",
+      "suggested_speaker": "Greg Carlwood reading quoted material",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0051"
+      ],
+      "note": "ASR badly mangles key names here ('sticker friend' and 'Patriot Jacob'), but context makes clear Jiang is still explaining Jacob Frank and his self-understanding as a patriarchal founder.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0054",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0056"
+      ],
+      "note": "Greg's final turn is one continuous prompt that begins with a half-joking empathy for elite contempt and ends as the packet's real question about present-day continuity.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0059",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0060"
+      ],
+      "note": "ASR repeatedly mangles 'Jacob Frank', 'Frankist', and related terms, but the narrative line is clear: Jiang is mapping Frank's stories onto modern elite behavior.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0062",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0063",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0064"
+      ],
+      "note": "The Kushner example is split by a short Greg interjection, but it functions as one continuous Jiang example about bailout, elite ties, and Frankist-family linkages.",
+      "suggested_speaker": "Jiang with Greg interjection at seg-0064",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0065",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0066"
+      ],
+      "note": "ASR heavily distorts proper nouns and one institutional pathway in Jiang's Kushner/House-of-Saud continuity argument, but the overall speaker attribution and argument direction remain clear.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0071",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0072"
+      ],
+      "note": "The ASR phrase 'quarantine event' is almost certainly Jiang referring to the Carrington event or a similar historic solar-storm example; the important semantic point is the precedent for solar disruption before full electrification.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0075"
+      ],
+      "note": "Greg marks his bunker line as a joke in the immediately following exchange, so the segment should be read as banter rather than a literal recommendation.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0080"
+      ],
+      "note": "This segment blends Greg's approving gloss on Jiang's advice with the final substantive outro question about Jiang's upcoming projects and links.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0082"
+      ],
+      "note": "The formal interview has ended by this point; Greg is speaking alone in a host wrap-up rather than questioning Jiang further.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0084",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0085",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0086"
+      ],
+      "note": "Greg appears to be paraphrasing or reading from secondary sources with noisy ASR, especially around historical names, dates, and locations.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0091",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0092"
+      ],
+      "note": "The plus-show promo contains several noisy proper nouns and compressed references to earlier topics, but the overall function is clear: Greg is advertising the extended conversation and summarizing its themes.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0101"
+      ],
+      "note": "The final segment is lyrical bumper material rather than ordinary spoken commentary and should not be treated as evidence for the interview's substantive historical claims.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says major features of modernity remain hard to explain unless one can account for the origins of communism, Freud's dominance, and recurring occult symbolism in public institutions.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0007",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Dated interview segment from 2025-12-28.",
+      "topic_tags": [
+        "modernity",
+        "occult-symbolism",
+        "historical-causation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He frames the global success of communism as a historical mystery because a radical ideology based on Marx's theory of capitalism managed to conquer Russia and China despite the might of capitalism.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Historical claim discussed in a 2025-12-28 interview.",
+      "topic_tags": [
+        "communism",
+        "marxism",
+        "capitalism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang calls Freud's theories nonsense yet argues that Freud dominated mainstream psychology for decades and that core Freudian assumptions still shape neuroscience.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0007",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical and present-tense diagnosis voiced on 2025-12-28.",
+      "topic_tags": [
+        "freud",
+        "psychology",
+        "neuroscience"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that visible public symbolism, from Apollo and Artemis rocket names to the dollar bill and Washington's layout, is evidence that occult and Masonic patterns remain embedded in modern power.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Present-tense diagnosis voiced on 2025-12-28.",
+      "topic_tags": [
+        "freemasonry",
+        "occult-symbolism",
+        "state-power"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang's opening thesis is that Sabbatai Zevi and Jacob Frank, whether or not their names remain publicly salient, left ideas embedded inside modernity and therefore form the hidden connective tissue behind those modern mysteries.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Dated interview thesis from 2025-12-28.",
+      "topic_tags": [
+        "sabbatai-zevi",
+        "jacob-frank",
+        "modernity",
+        "hidden-lineage"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Sabbatai Zevi and Jacob Frank still matter because their ideas remain embedded in modernity even if the names themselves no longer resonate publicly.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Dated interview thesis from 2025-12-28.",
+      "topic_tags": [
+        "sabbatai-zevi",
+        "jacob-frank",
+        "modernity",
+        "hidden-lineage"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg frames the recurring research problem as hidden continuity: powerful orders or ideologies may appear to die out publicly while passing themselves forward in darker, less visible forms.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0010",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Host framing voiced on 2025-12-28.",
+      "topic_tags": [
+        "elite-continuity",
+        "secret-societies",
+        "hidden-lineage"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "In the quoted book description, Sabbatai Zevi is presented as a self-declared messiah in 1666 whose doctrine of redemption through sin inverted normal religious obligations and encouraged ritual transgression.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Secondary-source description read aloud during a 2025-12-28 interview.",
+      "topic_tags": [
+        "sabbatai-zevi",
+        "redemption-through-sin",
+        "inversion"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says seventeenth-century Jews in the Ottoman world faced a crisis of faith driven by mass conversion to Christianity and Islam plus repeated persecution, making messianic expectation unusually intense.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0013",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0014",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Historical diagnosis voiced on 2025-12-28 about the seventeenth century.",
+      "topic_tags": [
+        "jewish-history",
+        "messianism",
+        "persecution",
+        "conversion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that after Iberian expulsion and later violence in the Polish-Lithuanian sphere, Jewish hopelessness itself became a theological sign that the Messiah was near.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0014",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Historical interpretation voiced on 2025-12-28.",
+      "topic_tags": [
+        "messianism",
+        "exile",
+        "jewish-history"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Sabbatai Zevi's conversion to Islam was later interpreted by followers as part of the divine plan because the Messiah's own conversion could absolve Jews who had converted away from Judaism.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0015",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Historical theological interpretation voiced on 2025-12-28.",
+      "topic_tags": [
+        "sabbatai-zevi",
+        "conversion",
+        "messianism",
+        "redemption"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Zevi's conversion functioned as a redemptive act that absolved converted Jews, and the minority who grasped that logic followed him into Islam while keeping a crypto-Jewish Sabbatean faith.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Historical theological interpretation voiced on 2025-12-28.",
+      "topic_tags": [
+        "sabbatai-zevi",
+        "conversion",
+        "donmeh",
+        "redemption-through-sin"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes the Dönmeh as a small cluster of crypto-Jewish families who continued Zevi's inversion theology, including transgression and justification by sin, inside the Islamic world.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0017",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Historical description voiced on 2025-12-28.",
+      "topic_tags": [
+        "donmeh",
+        "sabbatianism",
+        "inversion",
+        "transgression"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Dönmeh families embedded themselves in upper Ottoman power and became central to the Young Turk movement, extending their relevance into modern Turkish state formation.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Historical-political claim voiced on 2025-12-28.",
+      "topic_tags": [
+        "donmeh",
+        "ottoman-empire",
+        "young-turks",
+        "turkey"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He presents modern Turkish leadership as still potentially marked by Dönmeh continuity, citing Ataturk's family background and rumors around Erdogan as signs that the line may still matter politically.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Present-relevance diagnosis voiced on 2025-12-28, combining historical reference with current rumor.",
+      "topic_tags": [
+        "turkey",
+        "donmeh",
+        "elite-continuity",
+        "erdogan"
+      ],
+      "claim_type": "evidence",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang cites captured Iraqi intelligence files from 2003 as evidence that regional actors themselves believed the Saudi royal family had Sabbatean or crypto-Jewish ties similar to those attributed to Turkish elites.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Historical intelligence claim discussed in a 2025-12-28 interview.",
+      "topic_tags": [
+        "saudi-arabia",
+        "iraq",
+        "sabbatianism",
+        "elite-continuity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says the route into power remains opaque because Sabbatean networks are secretive, but he hypothesizes a strong operational alliance with the British Empire based on Britain's preference for diplomacy, espionage, and indirect destabilization over land warfare.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0019",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Historical model and present hypothesis voiced on 2025-12-28.",
+      "topic_tags": [
+        "british-empire",
+        "spycraft",
+        "secret-societies",
+        "proxy-power"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang's model is that the British could recruit Sabbateans inside the Ottoman Empire through Freemasonry, making Sabbatean networks a useful covert asset against imperial rivals.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Historical geopolitical model voiced on 2025-12-28.",
+      "topic_tags": [
+        "british-empire",
+        "freemasonry",
+        "ottoman-empire",
+        "sabbatianism"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He frames transnational capital and the British imperial order as an alliance between Sabbatean networks and the British royal sphere, then generalizes that empires repeatedly sponsor radical sects, from Wahhabis to Bolsheviks to ISIS, in order to destabilize regions.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical pattern claim voiced on 2025-12-28 with present-tense implications.",
+      "topic_tags": [
+        "transnational-capital",
+        "british-empire",
+        "wahhabism",
+        "bolshevism",
+        "isis",
+        "destabilization"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg's Frankist setup defines Jacob Frank as a later Sabbatean heir who converted to Catholicism, moved among European elites, and is rumored in this interpretive tradition to have helped found the Illuminati.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0023",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Quoted host framing voiced on 2025-12-28 about eighteenth-century figures.",
+      "topic_tags": [
+        "jacob-frank",
+        "illuminati",
+        "catholic-conversion",
+        "elite-networks"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg frames the key evidentiary issue as whether Jacob Frank merely overlapped chronologically with Adam Weishaupt or actually participated in the creation of the Illuminati through direct meetings and influence.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Host framing voiced on 2025-12-28 about the late eighteenth century.",
+      "topic_tags": [
+        "jacob-frank",
+        "illuminati",
+        "adam-weishaupt",
+        "elite-continuity"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Robert Sepehr's \"1666\" describes the Illuminati as founded by Adam Weishaupt, Jacob Frank, and the Rothschild family, with the Rothschilds supplying financing.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Secondary-source founding claim repeated by Jiang on 2025-12-28.",
+      "topic_tags": [
+        "illuminati",
+        "jacob-frank",
+        "adam-weishaupt",
+        "rothschild",
+        "1666-book"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He further characterizes the Illuminati as an alliance of six societies and specifically names Frankists, Freemasons, and Jesuits as constituent streams, with Weishaupt's Jesuit identity used to support that alignment.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Historical organizational model voiced on 2025-12-28.",
+      "topic_tags": [
+        "illuminati",
+        "frankism",
+        "freemasonry",
+        "jesuits",
+        "secret-societies"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Jacob Frank was the main founder or animating force behind the Illuminati because Frank traveled across Europe and cultivated patronage from major aristocratic houses, especially in Austria and Russia.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0026",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Historical influence claim voiced on 2025-12-28.",
+      "topic_tags": [
+        "jacob-frank",
+        "illuminati",
+        "european-nobility",
+        "austria",
+        "russia"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang uses Goethe's membership in elite societies and the plot of \"Faust\" as evidence that Frankist inversion theology flowed into major European intellectual culture.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0027",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Historical-literary influence claim voiced on 2025-12-28.",
+      "topic_tags": [
+        "goethe",
+        "faust",
+        "illuminati",
+        "frankism",
+        "literature"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "His reading of \"Faust\" is that transgression, inversion, and taboo-breaking appear as the road to knowledge and eventual salvation, which Jiang treats as distinctly Frankist rather than merely literary sensationalism.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0028",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Interpretive model voiced on 2025-12-28 about Goethe's work.",
+      "topic_tags": [
+        "faust",
+        "transgression",
+        "knowledge",
+        "frankism",
+        "inversion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang generalizes from Frank's writings to a broader theory of Europe and modernity: a Faustian ethos of endless experimentation, accumulation, conquest, and self-overcoming is one expression of Frankist spirit.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Civilizational diagnosis voiced on 2025-12-28.",
+      "topic_tags": [
+        "modernity",
+        "europe",
+        "faustianism",
+        "jacob-frank",
+        "self-empowerment"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang defines real magic not as numerology or astrology but as storytelling, because stories project into consciousness, capture attention, and reshape how people perceive themselves and the world.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0030",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Conceptual model voiced on 2025-12-28.",
+      "topic_tags": [
+        "storytelling",
+        "magic",
+        "consciousness",
+        "attention",
+        "kabbalah"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's model, Jacob Frank's stories are powerful because they act like memetic technology: memorable, seductive narratives that enter consciousness and alter perception.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Interpretive claim voiced on 2025-12-28.",
+      "topic_tags": [
+        "jacob-frank",
+        "storytelling",
+        "memetics",
+        "seduction",
+        "consciousness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg responds that many conspiratorial events seem prefigured by earlier novels or scripts, which leads him to a model where narrative may prime or collectively manifest later events more plausibly than a simplistic predictive-programming explanation.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Host interpretation voiced on 2025-12-28.",
+      "topic_tags": [
+        "predictive-programming",
+        "storytelling",
+        "manifestation",
+        "conspiracy",
+        "collective-consciousness"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg proposes that narrative may collectively manifest reality: if an elite wants a major event, it may seed emotionally charged images and stories into culture until the public helps enact the script.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0033",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Host model voiced on 2025-12-28 using 9/11 as an example.",
+      "topic_tags": [
+        "storytelling",
+        "manifestation",
+        "predictive-programming",
+        "elite-power",
+        "9-11"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg says Neville Goddard's manifesting model works by entering the hypnagogic state and feeling a desired future as already accomplished so the subconscious moves the person toward that reality.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Host summary of Neville Goddard voiced on 2025-12-28.",
+      "topic_tags": [
+        "neville-goddard",
+        "manifestation",
+        "subconscious",
+        "hypnagogic-state"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg describes his own outlook as somewhat Gnostic: self-directed, anti-illusory, not dependent on gurus, and morally disciplined rather than transgressive.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0035",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Host self-description voiced on 2025-12-28.",
+      "topic_tags": [
+        "gnosticism",
+        "morality",
+        "self-direction",
+        "ascetic-discipline"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg contrasts moral Gnosticism with the elite behaviors Jiang links to Sabbatean-Frankism, arguing that strict practices like fasting, sobriety, and bodily purity are meant to preserve spiritual connection rather than justify inversion.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Host interpretation voiced on 2025-12-28 while referring back to the prior interview.",
+      "topic_tags": [
+        "gnosticism",
+        "sabbatean-frankism",
+        "asceticism",
+        "connection",
+        "morality"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Jacob Frank is working from a Gnostic framework in which a divine spark from the monad links humans to higher consciousness, and he adds reincarnation to that worldview.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Jiang's interpretive summary of Frank voiced on 2025-12-28.",
+      "topic_tags": [
+        "jacob-frank",
+        "gnosticism",
+        "divine-spark",
+        "monad",
+        "reincarnation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that embodied physical life matters because pain and pleasure make experience and wisdom possible, which helps explain why Frank's theology takes worldly existence seriously instead of treating it as irrelevant.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Jiang's explanatory gloss on 2025-12-28.",
+      "topic_tags": [
+        "embodiment",
+        "wisdom",
+        "pain-and-pleasure",
+        "jacob-frank",
+        "gnosticism"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang's pivotal inversion is that if the divine spark is love, that same spiritual force can be focused between people to conquer the world rather than merely to seek goodness or salvation.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0038",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Interpretive model voiced on 2025-12-28.",
+      "topic_tags": [
+        "divine-spark",
+        "love",
+        "conquest",
+        "free-will",
+        "inversion"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "In Jiang's bear story, four brothers fighting for one another are more powerful than thousands because love and mutual commitment create stronger force than mere numbers.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0039",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Illustrative story told by Jiang on 2025-12-28.",
+      "topic_tags": [
+        "bear-story",
+        "love",
+        "power",
+        "jacob-frank",
+        "mythic-example"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Jacob Frank agrees with Jesus and Dante that love and free will are real powers, but he inverts their moral orientation by using those powers as instruments for kingship and worldly domination.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Jiang's comparative reading voiced on 2025-12-28.",
+      "topic_tags": [
+        "jacob-frank",
+        "jesus",
+        "dante",
+        "free-will",
+        "love",
+        "inversion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Jacob Frank's power comes from taking long-standing mystical and spiritual teachings, finding a loophole in them through free will and divine forgiveness, and using that loophole to justify breaking human law in pursuit of kingship.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Interpretive model voiced by Jiang on 2025-12-28 about Jacob Frank's theology and rhetoric.",
+      "topic_tags": [
+        "jacob-frank",
+        "free-will",
+        "forgiveness",
+        "loophole",
+        "kingship",
+        "inversion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang compares Jacob Frank to Aleister Crowley and L. Ron Hubbard because Frank's charisma, hypnosis, seduction, and logic make followers experience his persuasive storytelling as a kind of magic.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Comparative diagnosis voiced on 2025-12-28.",
+      "topic_tags": [
+        "jacob-frank",
+        "aleister-crowley",
+        "l-ron-hubbard",
+        "charisma",
+        "seduction",
+        "magic"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang defines Frank's method as visualization: the leader shows followers what the world could be and teaches that if they vividly imagine the desired world, it can arrive.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Conceptual model voiced on 2025-12-28.",
+      "topic_tags": [
+        "visualization",
+        "storytelling",
+        "jacob-frank",
+        "manifestation",
+        "imagination"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses a story about Jacob Frank and two nuns to argue that taboo and sexual prohibition are sustained by imagination and can be dissolved if someone successfully visualizes a different moral world.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0042",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Illustrative narrative and interpretation voiced on 2025-12-28.",
+      "topic_tags": [
+        "jacob-frank",
+        "nuns-story",
+        "visualization",
+        "taboo",
+        "sexual-transgression",
+        "imagination"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Frank treats prejudices, norms, taboos, morality, and social laws as mental constructions, so liberation means imagining a new world where those limits no longer bind action and the self can become king.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0043",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Interpretive model voiced on 2025-12-28.",
+      "topic_tags": [
+        "imagination",
+        "taboo",
+        "morality",
+        "social-law",
+        "kingship",
+        "liberation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg summarizes the Frankist move as a high-level recategorization of morality: if man-made rules compete with God, then breaking those rules can be reframed as greater fidelity to God rather than rebellion.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Host interpretation voiced on 2025-12-28.",
+      "topic_tags": [
+        "morality",
+        "god",
+        "law",
+        "frankism",
+        "transgression"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Frank's message especially appeals to kings and aristocrats because it removes guilt from elite power and recasts vicious domination as legitimate once reality itself is treated as imagination.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Sociological diagnosis voiced on 2025-12-28.",
+      "topic_tags": [
+        "elites",
+        "aristocracy",
+        "guilt",
+        "power",
+        "jacob-frank",
+        "imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says once Frank's idea takes hold it spreads like a virus, because Frankists can convert outwardly into other religions and then infiltrate those institutions from within.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0046",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Historical-organizational model voiced on 2025-12-28.",
+      "topic_tags": [
+        "frankism",
+        "virus",
+        "conversion",
+        "infiltration",
+        "institutional-spread"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang specifically claims Frankists convert into Catholicism as Jesuits and into Protestantism as Freemasons, using those adopted faiths as shells for wider spread.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Historical continuity claim voiced on 2025-12-28.",
+      "topic_tags": [
+        "frankism",
+        "catholicism",
+        "jesuits",
+        "protestantism",
+        "freemasonry",
+        "conversion"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg's widow story begins as an example of a desperate person being told to perform healing authority through prayer and appearance, setting up a Frankist lesson about exploiting the world's credulity.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Quoted story setup read aloud on 2025-12-28.",
+      "topic_tags": [
+        "widow-story",
+        "healing",
+        "prayer",
+        "credulity",
+        "quoted-story"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg proposes that some elites may want the public to believe they wield occult powers or commit monstrous rituals because that aura makes them seem godlike and therefore undefeatable.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0049",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Host model voiced on 2025-12-28 about contemporary elite theater and intimidation.",
+      "topic_tags": [
+        "elite-power",
+        "occult-theater",
+        "superstition",
+        "fear",
+        "intimidation"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Jacob Frank does not see himself as an ordinary Jew but as the reincarnation of the patriarch Jacob, tasked with founding a new nation.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Jiang's interpretive summary of Frank voiced on 2025-12-28.",
+      "topic_tags": [
+        "jacob-frank",
+        "reincarnation",
+        "patriarch-jacob",
+        "new-nation",
+        "self-conception"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Frank's theology begins from the premise that the suffering world was created by Satan or a false god, because no good god would create a world of death and pain.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Doctrinal summary voiced by Jiang on 2025-12-28.",
+      "topic_tags": [
+        "jacob-frank",
+        "false-god",
+        "satan",
+        "suffering",
+        "world-creation"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that in Frank's logic sin is important because breaking the false world's rules proves that Satan is powerless.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Interpretive summary voiced on 2025-12-28.",
+      "topic_tags": [
+        "jacob-frank",
+        "sin",
+        "satan",
+        "inversion",
+        "transgression"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Frank's mission is to gather a new nation, conquer corrupt people, and lead them 'for their own good' rather than convert them through moral persuasion.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Political-theological model voiced on 2025-12-28.",
+      "topic_tags": [
+        "jacob-frank",
+        "new-nation",
+        "conquest",
+        "leadership",
+        "mission"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads the widow story as evidence that Frank despairs of persuading the world and instead teaches followers to exploit people's superstition, greed, and evil before those same people exploit you.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0052",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Jiang's interpretation of the cited story on 2025-12-28.",
+      "topic_tags": [
+        "widow-story",
+        "superstition",
+        "manipulation",
+        "greed",
+        "evil",
+        "strategy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says ordinary encounters with mass stupidity and selfishness can make elite contempt psychologically understandable even if the resulting doctrine is warped.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Host reflection voiced on 2025-12-28.",
+      "topic_tags": [
+        "elite-contempt",
+        "mass-behavior",
+        "psychology",
+        "retail",
+        "warped-logic"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg asks Jiang to demonstrate present-day continuity by naming influential modern people or structures that plausibly carry Sabbatean-Frankist logic rather than treating it as sealed eighteenth-century history.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0054",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0055",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Host challenge voiced on 2025-12-28 to move the interview into contemporary chronology.",
+      "topic_tags": [
+        "sabbatean-frankism",
+        "continuity",
+        "modern-elites",
+        "illuminati",
+        "freemasonry",
+        "chronology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang proposes Mark Zuckerberg as a contemporary elite case study because Zuckerberg refused large buyout offers while Facebook's rise and later expansion into AI and VR looked unnaturally smooth to him.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0057",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Jiang's modern continuity example voiced on 2025-12-28.",
+      "topic_tags": [
+        "mark-zuckerberg",
+        "facebook",
+        "meta",
+        "elite-ascent",
+        "continuity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang reads a Jacob Frank story about refusing buyout money and preferring power to wealth as a template that might have shaped Zuckerberg's posture toward Facebook acquisition offers.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0059",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Interpretive analogy voiced on 2025-12-28 between Frankist stories and present-day tech founders.",
+      "topic_tags": [
+        "jacob-frank",
+        "mark-zuckerberg",
+        "power-over-money",
+        "story-influence",
+        "frankism"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Jacob Frank teaches followers to recognize fellow Frankists by manner and speech and to help one another succeed at any cost, using the 'four brothers' story as the ethic of mutual advancement.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0059",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Jiang's summary of Frankist in-group ethics voiced on 2025-12-28.",
+      "topic_tags": [
+        "jacob-frank",
+        "four-brothers",
+        "mutual-aid",
+        "in-group-recognition",
+        "frankism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Frank's stories operate like viruses or memory cells: once read, they embed themselves in consciousness and continue directing behavior from within.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Cultural-transmission model voiced on 2025-12-28.",
+      "topic_tags": [
+        "stories",
+        "virus",
+        "memory",
+        "consciousness",
+        "frankism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang extends the same continuity model to Sam Altman and Elizabeth Holmes, arguing that both appear to receive inexplicably smooth advancement, institutional sponsorship, and elite backing disproportionate to their obvious track record.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0061",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Jiang's contemporary diagnosis voiced on 2025-12-28.",
+      "topic_tags": [
+        "sam-altman",
+        "elizabeth-holmes",
+        "elite-patronage",
+        "institutional-backing",
+        "continuity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang treats Jared Kushner's bailout history, his role in the Abraham Accords, and Mohammed bin Salman's large post-White-House investment as evidence of deeper family and ideological linkages among present-day elites.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0062",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0063",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Jiang's political continuity example voiced on 2025-12-28.",
+      "topic_tags": [
+        "jared-kushner",
+        "mohammed-bin-salman",
+        "abraham-accords",
+        "elite-linkages",
+        "continuity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang explicitly claims that the House of Saud is a Frankist family and suggests Kushner also comes from a Frankist line, extending his older argument that Frankists embedded themselves inside multiple institutions and lineages.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "High-stakes continuity claim voiced by Jiang on 2025-12-28.",
+      "topic_tags": [
+        "house-of-saud",
+        "jared-kushner",
+        "frankist-family",
+        "lineage",
+        "continuity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the real puzzle of modern power is not just what top figures do, but why certain people are permitted to rise so seamlessly through elite systems in the first place.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0058",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0061",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0062",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "General elite-selection model voiced on 2025-12-28.",
+      "topic_tags": [
+        "elite-selection",
+        "smooth-ascent",
+        "patronage",
+        "continuity",
+        "power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats Jared Kushner's alliance with Mohammed bin Salman, including the large post-White-House investment into Kushner's fund, as one more sign of hidden linkages among present-day elite families rather than ordinary geopolitical friendship.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Contemporary continuity example voiced on 2025-12-28.",
+      "topic_tags": [
+        "jared-kushner",
+        "mohammed-bin-salman",
+        "elite-linkages",
+        "continuity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the deeper mystery of modern power is why some people are allowed to succeed so seamlessly and what hidden obligations or behaviors are required to reach the top.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "General elite-selection model voiced on 2025-12-28.",
+      "topic_tags": [
+        "elite-selection",
+        "power",
+        "continuity",
+        "patronage"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang characterizes Frankist eschatology as a rejection of spiritual transcendence: at the end of history humans should remain flesh, enjoy material pleasures without limit, and gain immortality inside the world rather than leave it.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0066",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Jiang's doctrinal summary voiced on 2025-12-28.",
+      "topic_tags": [
+        "frankist-eschatology",
+        "flesh",
+        "immortality",
+        "material-pleasure"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that contemporary transhumanism expresses this same Frankist end-times logic, using Elon Musk, Sam Altman, AI, Neuralink, and space projects as examples of a drive toward engineered immortality and total material enjoyment.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0066",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Interpretive analogy voiced on 2025-12-28 between Frankist eschatology and present-day transhumanism.",
+      "topic_tags": [
+        "transhumanism",
+        "elon-musk",
+        "sam-altman",
+        "ai",
+        "neuralink",
+        "frankism"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg reads Jiang's continuity thesis as stronger once it explains why apparent civilizational or ethnic divisions disappear at elite levels: the shared ideology rewards fearlessness, extreme risk-taking, and indifference to ordinary judgment.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0068",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Greg's framing of Jiang's argument voiced on 2025-12-28.",
+      "topic_tags": [
+        "elite-ideology",
+        "risk-taking",
+        "fearlessness",
+        "continuity"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says human history repeatedly experiences mini Ice Age or 'killer year' events that trigger famine, social collapse, and political upheaval, citing the Bronze Age collapse and the 1848 revolutions as examples.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Historical-catastrophe model voiced on 2025-12-28.",
+      "topic_tags": [
+        "mini-ice-age",
+        "killer-year-events",
+        "social-collapse",
+        "1848",
+        "bronze-age-collapse"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that another major climate or magnetic event is due, and argues that a serious solar flare during a magnetic pole excursion could cripple today's electrified systems, knocking out power, refrigeration, heating, and other life-supporting infrastructure.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Forward-looking catastrophe prediction voiced on 2025-12-28.",
+      "topic_tags": [
+        "magnetic-pole-excursion",
+        "solar-flare",
+        "electric-grid",
+        "catastrophe",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the visible increase in earthquakes, extreme weather, volcanic activity, and worsening winters should be read as signs that a major geophysical event may be approaching.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0073"
+      ],
+      "temporal_scope": "Forward-looking geophysical diagnosis voiced on 2025-12-28.",
+      "topic_tags": [
+        "geophysical-event",
+        "earthquakes",
+        "extreme-weather",
+        "volcanoes",
+        "winter"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that if a major solar flare lands during a magnetic-field weakening, it could destroy the world's electric grid because modern life depends on electricity for nearly every critical function.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0073"
+      ],
+      "temporal_scope": "Specific catastrophe prediction voiced on 2025-12-28.",
+      "topic_tags": [
+        "solar-flare",
+        "electric-grid",
+        "magnetic-field",
+        "catastrophe",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the real failure is political and epistemic as well as physical: society is not having a serious public discussion about geophysical risk, and elites are privately preparing while ordinary people are not told what is happening.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Contemporary diagnosis voiced on 2025-12-28.",
+      "topic_tags": [
+        "elite-preparation",
+        "public-secrecy",
+        "risk-discussion",
+        "government",
+        "scientists"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang rejects bunker individualism as the primary answer to collapse and instead says survival depends on rebuilding local community so neighbors actively care about one another's plight.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Normative preparation model voiced on 2025-12-28.",
+      "topic_tags": [
+        "community",
+        "resilience",
+        "bunkers",
+        "collapse-preparation"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang advises people preparing for catastrophe to loosen their attachment to money, gold, and Bitcoin because those stores of value become useless in social collapse and psychologically trap people in despair.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Normative life advice voiced on 2025-12-28.",
+      "topic_tags": [
+        "money",
+        "bitcoin",
+        "gold",
+        "collapse-preparation",
+        "despair"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's model is that what kills many people in collapse is not only material deprivation but depression and surrender once their wealth-based identity fails.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Psychological survival model voiced on 2025-12-28.",
+      "topic_tags": [
+        "depression",
+        "identity",
+        "wealth",
+        "collapse",
+        "psychology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the durable basis for surviving catastrophe is to center spirituality, community, and creativity, because humans respond to crisis by coming together and imagining a new world and new solutions.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0078",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Human-resilience model voiced on 2025-12-28.",
+      "topic_tags": [
+        "spirituality",
+        "community",
+        "creativity",
+        "imagination",
+        "resilience"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says next semester he plans to teach a course on game theory and directs listeners seeking his geopolitical analysis to his Predictive History Substack.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0081"
+      ],
+      "temporal_scope": "Near-future project announcement and current contact point voiced on 2025-12-28.",
+      "topic_tags": [
+        "game-theory",
+        "predictive-history",
+        "substack",
+        "projects"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he will teach a course on game theory next semester for listeners who want a clearer window into how he thinks.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0081"
+      ],
+      "temporal_scope": "Near-future project announcement voiced on 2025-12-28.",
+      "topic_tags": [
+        "game-theory",
+        "projects",
+        "teaching"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang directs listeners seeking his geopolitical analysis to the Predictive History Substack.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0081"
+      ],
+      "temporal_scope": "Current contact point named on 2025-12-28.",
+      "topic_tags": [
+        "predictive-history",
+        "substack",
+        "geopolitics"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says Jiang filled in major gaps in the continuity argument and made the case for coordination among occult, Masonic, Jesuit, and Kabbalistic currents more convincing than previous guests had.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0082",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Host assessment voiced immediately after the interview on 2025-12-28.",
+      "topic_tags": [
+        "continuity",
+        "elite-coordination",
+        "host-assessment",
+        "occult-networks"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg speculates that elite factions may not need a single top dog because they can pursue multiple agendas at once while maintaining an implicit agreement not to expose one another.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Host speculation voiced on 2025-12-28.",
+      "topic_tags": [
+        "elite-factions",
+        "coordination",
+        "nonexposure",
+        "speculation"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg treats the Department of Defense's one-time 1776 holiday payment as symbolically suspicious when placed alongside the 1773 Jesuit suppression, the 1776 Illuminati founding, and Frankist activity in the same era.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0084",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Contemporary host speculation linked to eighteenth-century dates on 2025-12-28.",
+      "topic_tags": [
+        "1776",
+        "jesuits",
+        "illuminati",
+        "symbolism",
+        "warrior-dividend"
+      ],
+      "claim_type": "evidence",
+      "confidence": "low"
+    },
+    {
+      "claim": "Greg recounts Eva Frank's leadership after Jacob Frank's death as evidence that the movement persisted beyond Jacob himself rather than ending cleanly with the founder.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0085",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Host summary of post-1791 history voiced on 2025-12-28.",
+      "topic_tags": [
+        "eva-frank",
+        "jacob-frank",
+        "succession",
+        "continuity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg treats Czar Alexander I's reported visit to Eva Frank as suggestive evidence that Frankist networks still touched major royal circles as late as the early nineteenth century.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0086",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0087",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Host inference about events around 1813-1817, voiced on 2025-12-28.",
+      "topic_tags": [
+        "alexander-i",
+        "royal-networks",
+        "eva-frank",
+        "continuity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg says Alexander I's family ties and his reported trip to see Eva Frank suggest that Russian, British, Jesuit, and Frankist strands may have overlapped more than standard histories admit.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0090",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0091"
+      ],
+      "temporal_scope": "Host interpretation voiced on 2025-12-28 about early nineteenth-century history.",
+      "topic_tags": [
+        "alexander-i",
+        "royal-networks",
+        "jesuits",
+        "frankism",
+        "continuity"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg says Jiang's perspective works for him because it unifies conversos, Jesuit education, Sabbatean-Frankist inversion, and Christian framing into a both-and account rather than an either-or one.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0091"
+      ],
+      "temporal_scope": "Host assessment voiced on 2025-12-28.",
+      "topic_tags": [
+        "conversos",
+        "jesuits",
+        "frankism",
+        "christian-framing",
+        "host-assessment"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg says the paid plus show extended the Jiang discussion into Pax Judaica, Venezuela as a geopolitical flashpoint, Trump versus the deep state, factional infighting, and how to prepare the next generation for the coming cataclysm.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0092",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "Promotional summary voiced on 2025-12-28.",
+      "topic_tags": [
+        "plus-show",
+        "pax-judaica",
+        "venezuela",
+        "deep-state",
+        "cataclysm"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says he plans to expand Higher Side Chats beyond interviews into a wider mix of formats while preserving the rough structure of five free hours and five paid hours per month.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0094"
+      ],
+      "temporal_scope": "Forward-looking host programming plan voiced on 2025-12-28.",
+      "topic_tags": [
+        "higher-side-chats",
+        "format-change",
+        "programming",
+        "free-vs-paid"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg reports that the previous Jeremiah Skiba and Jake Graham episode landed around a 4.4 rating and says much of the listener criticism seemed tied to superficial judgments about appearance rather than only the substance of the discussion.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0095",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "Host review commentary voiced on 2025-12-28 about a recent prior episode.",
+      "topic_tags": [
+        "episode-ratings",
+        "listener-response",
+        "jeremiah-skiba",
+        "jake-graham"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg argues that the previous episode still mattered because some listeners said it was cathartic to hear another family's story of loss under COVID-era conditions.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "Host justification voiced on 2025-12-28.",
+      "topic_tags": [
+        "catharsis",
+        "covid-era-loss",
+        "listener-response",
+        "editorial-judgment"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg predicts this Jiang interview will have broader appeal than the earlier episode on biblical and flat-earth material because the continuity argument here feels more universal.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0097"
+      ],
+      "temporal_scope": "Host expectation voiced on 2025-12-28 about audience response.",
+      "topic_tags": [
+        "audience-response",
+        "host-assessment",
+        "episode-positioning"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg uses the meetup calendar to advertise January and early February 2026 community events and frames those meetups as a practical answer to shrinking social circles later in life.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0097",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0098"
+      ],
+      "temporal_scope": "Near-future community announcements voiced on 2025-12-28 for dates in January and February 2026.",
+      "topic_tags": [
+        "meetups",
+        "community",
+        "january-2026",
+        "february-2026"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says he expects the holiday season and the opening of 2026 to be prime time for psyops or attacks from the controller class, and he links his next material to Mayan-calendar cycles and change.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0099"
+      ],
+      "temporal_scope": "Forward-looking host speculation voiced at the end of 2025.",
+      "topic_tags": [
+        "psyops",
+        "controller-class",
+        "2026",
+        "mayan-calendar",
+        "cycles"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg frames the show's fifteen-year run as proof of durable audience trust and closes by directing renewed attention toward Jiang's Predictive History work.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0100"
+      ],
+      "temporal_scope": "Closing retrospective voiced on 2025-12-28.",
+      "topic_tags": [
+        "show-history",
+        "audience-trust",
+        "predictive-history",
+        "jiang"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "moment": "Jiang turns apparently unrelated puzzles into one diagnostic bundle.",
+      "source_phrase": "what connects all of these ideas, communism, Freud, and his psychology, occult symbolism throughout the world",
+      "why_it_matters": "This is the packet's organizing move: disparate modern phenomena become evidence of one hidden historical stream rather than separate curiosities.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "moment": "He compresses the episode thesis into an image of surviving ideological residue.",
+      "source_phrase": "their ideas are embedded in modernity",
+      "why_it_matters": "That phrase gives the public read a compact way to explain why an apparently dead sect still matters.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "moment": "Occult symbolism becomes a practical epistemic test for whether one really understands power.",
+      "source_phrase": "if you can't tackle these questions, then it's very hard to understand how the world really works",
+      "why_it_matters": "Jiang is not treating symbols as trivia; he makes them a threshold question for any serious model of modern power.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0009"
+      ],
+      "moment": "Jiang compresses the secret-history thesis into the image of dead names whose ideas still live inside the present.",
+      "source_phrase": "their ideas are embedded in modernity",
+      "why_it_matters": "This is the packet's compact explanation for why seemingly obsolete sects remain central to Jiang's model of modern power.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0012"
+      ],
+      "moment": "The interview foregrounds Zevi's creed as redemption reached not by purity but by transgression.",
+      "source_phrase": "redemption was available through acts of sin",
+      "why_it_matters": "That formula introduces the inversion logic that Jiang treats as one of the stream's enduring signatures.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0016"
+      ],
+      "moment": "Zevi's conversion becomes the paradoxical saving act rather than the scandal that disproves him.",
+      "source_phrase": "it was actually part of the divine plan",
+      "why_it_matters": "Jiang turns apparent apostasy into the mechanism of redemption, which is the theological hinge for the whole Sabbatean inversion story.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0017"
+      ],
+      "moment": "Zevi's conversion becomes not apostasy but a messianic absolution mechanism for everyone else who converted.",
+      "source_phrase": "it absolves all Jews of the original sin of conversion",
+      "why_it_matters": "This is Jiang's hinge for turning scandal into secret continuity: conversion itself becomes the redemptive template that later followers can imitate.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0018"
+      ],
+      "moment": "Jiang defines proof of real faith as the willingness to violate law and norm.",
+      "source_phrase": "your faith in God is so strong that it can bypass social convention and legal norms",
+      "why_it_matters": "That formula crystallizes the inversion ethic Jiang thinks survives from Sabbatai Zevi into later elite behavior.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0020",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0021"
+      ],
+      "moment": "Imperial power is pictured as a covert alliance that weaponizes secret sects for destabilization.",
+      "source_phrase": "these empires have a long history of sponsoring these extreme, extreme religious sects in order to destabilize regions",
+      "why_it_matters": "The packet moves from theology into Jiang's geopolitical mechanism: sectarian extremity becomes an imperial tool rather than just a fringe belief.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0028",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0029"
+      ],
+      "moment": "Jiang turns Faust into a Frankist scripture where sin is not the fall from truth but the engine of knowledge and liberation.",
+      "source_phrase": "sin, transgression, inversion is the path to knowledge",
+      "why_it_matters": "This is the packet's core reversal: a canonical European masterpiece becomes evidence that elite modernity internalized Frankist theology.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0029"
+      ],
+      "moment": "Europe itself is defined by a restless Faustian appetite for accumulation, conquest, fulfillment, and self-overcoming.",
+      "source_phrase": "constant process of accumulation, conquest, fulfillment",
+      "why_it_matters": "Jiang scales the Frankist argument up from one sect and one book to a diagnosis of modern civilizational drive.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0030",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0031"
+      ],
+      "moment": "Real black magic is relocated from occult calculation to stories that infect minds like a song.",
+      "source_phrase": "this song becomes a virus almost",
+      "why_it_matters": "That metaphor gives Jiang a portable mechanism for how narrative, not just institutions, carries hidden power across time.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0033",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0034"
+      ],
+      "moment": "Greg scales wish-fulfillment mysticism into a mass political technology where a story is planted so deeply that the collective starts to manifest the event.",
+      "source_phrase": "you put the narrative out and then almost like the collective manifests it",
+      "why_it_matters": "It shows the host translating Jiang's story-magic idea into a model of elite event-production rather than leaving it as literary metaphor.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0038",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0040"
+      ],
+      "moment": "The divine spark becomes a weapon: love is no longer just redemptive energy but a force you can aim at conquest.",
+      "source_phrase": "use the power of love to conquer the world",
+      "why_it_matters": "This is Jiang's sharpest formulation of Frankist inversion in the packet.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0039",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0040"
+      ],
+      "moment": "A bear is unmoved by armies but flees four brothers who love each other, turning affection into superior combat power.",
+      "source_phrase": "four people fighting together who love each other",
+      "why_it_matters": "The story gives Jiang a memorable mythic mechanism for why Frank treats bonded love as a more potent instrument than mass organization.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0041"
+      ],
+      "moment": "Frank becomes powerful by finding a loophole in a thousand years of spiritual teaching and using it to tell followers they can break human law and become kings.",
+      "source_phrase": "he finds a loophole",
+      "why_it_matters": "This compresses Jiang's whole Frankist inversion into a memorable juridical image: not abolishing theology, but hacking it from the inside.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0042",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0043",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0044"
+      ],
+      "moment": "Reality itself is recast as visualization: if taboo is only imagined, then a new kingship can be imagined into being as well.",
+      "source_phrase": "everything is really imagination",
+      "why_it_matters": "It gives Jiang a concrete mechanism for how Frank moves from theological inversion to practical domination.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0045"
+      ],
+      "moment": "Greg names the doctrine a jailbreak hack on morality, preserving the eerie fact that its logic is legible even while its ethics are warped.",
+      "source_phrase": "a workaround as a hack as a jailbreak",
+      "why_it_matters": "The host crystallizes why Jiang's account is persuasive rather than cartoonish: the transgressive move presents itself as a higher obedience.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0046",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0047"
+      ],
+      "moment": "The idea spreads like a virus, not just persuading individuals but entering whole religions through conversion and infiltration.",
+      "source_phrase": "once this idea takes hold it spreads like a virus",
+      "why_it_matters": "Jiang scales Frankism from personal charisma into a theory of civilizational transmission and institutional capture.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0050"
+      ],
+      "moment": "The occult aura itself becomes a weapon: what matters is not only whether elites do dark rites, but whether people believe those rites make the elite untouchable.",
+      "source_phrase": "makes them seem undefeatable",
+      "why_it_matters": "Greg compresses superstition into a political technology of intimidation and reverence.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0051"
+      ],
+      "moment": "No good God would make this world, so the creator must be false and sin becomes proof that Satan is powerless.",
+      "source_phrase": "no good God would create a world of suffering",
+      "why_it_matters": "This is Jiang's starkest doctrinal compression of Frankist inversion in the packet.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0052",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0053"
+      ],
+      "moment": "If the world is stupid and evil, stop trying to improve it and start using that stupidity and evil against it.",
+      "source_phrase": "take advantage of their stupidity",
+      "why_it_matters": "Jiang turns Frank from a mystical figure into a strategist of manipulation and conquest.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0055",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0056"
+      ],
+      "moment": "Greg forces the interview across the historical boundary by asking whether this is still an elite today rather than just interesting history.",
+      "source_phrase": "this isn't just interesting history",
+      "why_it_matters": "It sets up the packet-to-packet transition from doctrinal background into Jiang's living-network diagnosis of contemporary power.",
+      "tone": "turn",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0059"
+      ],
+      "moment": "The refusal of money becomes proof of a deeper appetite: not cash, but kingship and the right to reshape the world.",
+      "source_phrase": "I'm not in it for the money guys I'm in it for the power",
+      "why_it_matters": "Jiang uses this story to bridge Jacob Frank's mythic self-presentation into a modern elite psychology of power over purchase price.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0060"
+      ],
+      "moment": "Stories are not decorations but infections: once a Frankist story enters memory, it behaves like a virus living inside consciousness.",
+      "source_phrase": "these stories are like viruses",
+      "why_it_matters": "This is Jiang's clearest mechanism for how an eighteenth-century doctrine allegedly survives without public institutional continuity.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0061",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0062"
+      ],
+      "moment": "Modern elite ascent is framed less as merit than as a repeated mystery: at just the right moment someone appears, offers the opportunity, and the ladder keeps unfolding upward.",
+      "source_phrase": "someone always appears and offers him this tremendous opportunity",
+      "why_it_matters": "Jiang turns contemporary tech and political careers into evidence of hidden patronage rather than ordinary success.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0065"
+      ],
+      "moment": "The old network does not vanish; it reappears as family linkages, bailouts, diplomatic roles, and sovereign money moving between supposedly separate camps.",
+      "source_phrase": "you're seeing all these like linkages",
+      "why_it_matters": "This is the packet's payoff: Jiang answers Greg's history-versus-present challenge with a living-network picture of contemporary power.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0066"
+      ],
+      "moment": "The end of history is not a vaporizing ascent into spirit but a vindication of flesh: the body keeps its appetites and finally gets to enjoy the world without restraint.",
+      "source_phrase": "why would you become spirit we should be flesh",
+      "why_it_matters": "This is Jiang's sharpest definition of the eschatology he thinks later elite projects inherit, and it flips conventional religious end-times expectations upside down.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0067"
+      ],
+      "moment": "Transhumanism is recoded as an occult afterlife program for endless youth, sex, pleasure, and material continuation rather than a neutral technology story.",
+      "source_phrase": "transhumanism is embraced of this eschatology",
+      "why_it_matters": "This is the packet's strongest bridge from Jacob Frank theology to modern AI and bioengineering elites.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0071",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0072"
+      ],
+      "moment": "Civilizations do not merely suffer shocks; they build themselves in the wrong moral image, optimizing for efficiency right up to the moment fragility becomes lethal.",
+      "source_phrase": "our systems are designed to be efficient not resilient",
+      "why_it_matters": "Jiang moves from prophecy talk to a concrete systems diagnosis: collapse becomes thinkable because modern infrastructure is brittle by design.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0073"
+      ],
+      "moment": "The same civilization that wanted good news and efficient systems ends up electrically naked before the sky, with one unlucky solar strike threatening everything plugged into the grid.",
+      "source_phrase": "we want efficiency not resilience we want to hear good news",
+      "why_it_matters": "This sharpens Jiang's cataclysm argument from abstract climate talk into a civilizational character diagnosis: denial and efficiency worship create lethal fragility.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0076"
+      ],
+      "moment": "The real shelter is not the bunker but the neighborhood.",
+      "source_phrase": "rebuild a sense of community where neighbors take an interest in each other's plight",
+      "why_it_matters": "Jiang flips elite prepper logic into a communal survival ethic, making the packet's moral center unmistakable.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0078",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0079"
+      ],
+      "moment": "The strangest prepper advice in the interview is to get rid of most of your money so your imagination survives after the market world dies.",
+      "source_phrase": "the best way to prepare for a major catastrophe is to get rid of most of your money",
+      "why_it_matters": "This condenses Jiang's anti-hoarding ethic into a memorable provocation that links collapse survival to spiritual and imaginative freedom rather than asset accumulation.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0082"
+      ],
+      "moment": "Greg recasts Jiang as the guest who made the taboo continuity argument feel less like scattered trivia and more like a filled-in map.",
+      "source_phrase": "filled in a lot of gaps in the continuity",
+      "why_it_matters": "This is the host's cleanest verdict on what Jiang accomplished in the interview and why the conversation stood out from adjacent conspiracy material.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0083"
+      ],
+      "moment": "Instead of one mastermind, Greg imagines a cartel of agendas that can do everything at once except expose each other.",
+      "source_phrase": "do every agenda all the time and do everything but expose one another",
+      "why_it_matters": "It compresses the host's own meta-model of elite coordination into a memorable line that carries the interview's continuity logic past the formal Q&A.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0085"
+      ],
+      "moment": "The 1776 symbolism riff turns a patriotic military payment into a coded-history prompt: what exactly is being honored when those dates line up again?",
+      "source_phrase": "what is this symbolic tribute really tributing",
+      "why_it_matters": "This is the packet's sharpest example of Greg extending Jiang's symbolic-reading method on his own.",
+      "tone": "question",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0091"
+      ],
+      "moment": "Greg's verdict on Jiang is that the best explanation is not either-or but both-and: the hidden history hangs together when seemingly rival lineages are treated as mutually reinforcing.",
+      "source_phrase": "it's not really either or it's both and",
+      "why_it_matters": "This is the clearest single line in Greg's wrap-up about why he found Jiang's synthesis persuasive.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0093",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0094"
+      ],
+      "moment": "Greg turns burnout into a programming pivot, saying he wants to become excited about work again by breaking the routine and opening the show to stranger formats.",
+      "source_phrase": "i'm excited about being excited about work again",
+      "why_it_matters": "The outro is not only promo; it records a contemporaneous shift in Greg's own production philosophy at the end of 2025.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0096"
+      ],
+      "moment": "Greg's defense of the lower-rated episode rests on a different metric than popularity: if a painful conversation helped grieving listeners feel less alone, it justified itself.",
+      "source_phrase": "it seemed okay to put something out that helps those people feel like someone else out there gets it",
+      "why_it_matters": "It shows the host judging his platform by emotional usefulness as well as ratings, which shapes how he frames difficult content.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0098"
+      ],
+      "moment": "Greg makes the meetup calendar part of the worldview: if adulthood shrinks your circles, the antidote is to deliberately build new ones around shared inquiry.",
+      "source_phrase": "our circles tend to get a bit smaller later in life so here's a way to put a dent in that problem",
+      "why_it_matters": "It turns a routine housekeeping section into a compact statement of why the show's community layer matters.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0099"
+      ],
+      "moment": "The New Year blessing instantly flips into suspicion: holiday optimism itself is treated as the moment when the controller class most wants to throw a wrench into public morale.",
+      "source_phrase": "prime for psyops and attacks from the controller class",
+      "why_it_matters": "This line captures the host's habit of reading seasonal public mood through a pressure-and-counterpressure model.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0100"
+      ],
+      "moment": "Greg ends by naming Jiang 'Harry Seldon of the East' and then throwing the episode's final gauntlet at the Sabbatean-Frankist controller class.",
+      "source_phrase": "harry seldon of the east ... your fucking move",
+      "why_it_matters": "It is the packet's sharpest closing image: a mix of prophetic endorsement, performative defiance, and show-brand bravado.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Sabbatai Zevi",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0006",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Messianic figure Jiang treats as part of the hidden historical lineage connecting modern ideological and symbolic patterns.",
+      "confidence": "high"
+    },
+    {
+      "term": "Jacob Frank",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0006",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Companion figure to Sabbatai Zevi in Jiang's account of the secret faith of power and its survival inside modernity.",
+      "confidence": "high"
+    },
+    {
+      "term": "occult symbolism",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang's umbrella term for symbolic residues in rockets, money, and civic architecture that point to hidden continuity in elite power.",
+      "confidence": "high"
+    },
+    {
+      "term": "redemption through sin",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "The Sabbatean formula Greg reads aloud: redemption arrives through transgressive acts rather than through obedience to ordinary religious law.",
+      "confidence": "high"
+    },
+    {
+      "term": "Messianic age",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0012",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "The hoped-for end-times period when normal obligations are suspended and the Messiah restores Israel.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Sabbatai Zevi",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0012",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0015",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The seventeenth-century self-proclaimed messiah whose conversion to Islam Jiang presents as the founding theological scandal and template of Sabbatean inversion.",
+      "confidence": "high"
+    },
+    {
+      "term": "Dönmeh",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0017",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "The crypto-Jewish followers of Sabbatai Zevi who converted outwardly to Islam while preserving his inversion theology in secret.",
+      "confidence": "high"
+    },
+    {
+      "term": "justification by sin",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "Jiang's shorthand for the Sabbatean idea that transgression can validate faith and participate in redemption rather than merely violate law.",
+      "confidence": "high"
+    },
+    {
+      "term": "Young Turks",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "The late Ottoman reformist-revolutionary movement Jiang links to Dönmeh family influence in the transition to modern Turkey.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Sabbatean Frankism",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Greg's label for the historical stream running from Sabbatai Zevi to Jacob Frank and onward into secret-society and elite-continuity theories.",
+      "confidence": "high"
+    },
+    {
+      "term": "Illuminati",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0025",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "In this packet the Illuminati is treated not as a lone Bavarian club but as a cross-society alliance that Greg and Jiang connect to Jacob Frank, Adam Weishaupt, Jesuits, Freemasons, and elite financing.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Faustian attitude",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "Jiang's label for the European drive toward endless experimentation, conquest, accumulation, and self-expansion through transgressive pursuit of knowledge.",
+      "confidence": "high"
+    },
+    {
+      "term": "real magic",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0030",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Jiang's claim that the deepest operative magic is storytelling, because narrative embeds itself in consciousness and redirects attention and perception.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gnosticism",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0035",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "In this packet Greg uses the term for a self-directed, illusion-piercing, morally serious spiritual path, while Jiang treats Jacob Frank as borrowing a Gnostic framework of divine spark and higher consciousness.",
+      "confidence": "high"
+    },
+    {
+      "term": "divine spark",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0037",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Jiang's phrase for the inner connection to higher consciousness or the monad, which he says Frank reinterprets as a force of love that can also be directed toward worldly conquest.",
+      "confidence": "high"
+    },
+    {
+      "term": "monad",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "The higher source from which the divine spark proceeds in Jiang's summary of the Gnostic framework Frank is said to use.",
+      "confidence": "medium"
+    },
+    {
+      "term": "visualization",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0042",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Jiang's term for Jacob Frank's practical magic: vividly imagining the world one wants until taboo and reality are reorganized around that vision.",
+      "confidence": "high"
+    },
+    {
+      "term": "free will",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0041",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "In this packet free will is the loophole both Jiang and Greg attribute to Frank's logic: God-given agency becomes the justification for overruling man-made law.",
+      "confidence": "high"
+    },
+    {
+      "term": "Franks",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "Jiang uses the plural to refer to Jacob Frank's adherents or lineage, including his aside that many of them are lawyers and thus skilled at finding doctrinal loopholes.",
+      "confidence": "medium"
+    },
+    {
+      "term": "false god",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Jiang's term for the satanic creator of the present suffering world in his summary of Jacob Frank's cosmology.",
+      "confidence": "high"
+    },
+    {
+      "term": "new nation",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0051",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "Jiang's description of Frank's project: gather followers into a separate people who conquer and rule the corrupt world for its own good.",
+      "confidence": "high"
+    },
+    {
+      "term": "superstition",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0049",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "In this packet the term names both the public's fear of mystical power and the lever Jiang says Frank exploits rather than trying to dispel.",
+      "confidence": "high"
+    },
+    {
+      "term": "Frankist",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0059",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0065"
+      ],
+      "definition_or_usage": "In this packet Jiang uses the term for both the original followers of Jacob Frank and the alleged hidden lineage or mentality that still guides modern elite families and institutions.",
+      "confidence": "high"
+    },
+    {
+      "term": "four brothers",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "Jiang invokes the earlier Jacob Frank story here as a shorthand for mutual loyalty: if the bonded inner group helps its own members at any cost, it can conquer the world.",
+      "confidence": "high"
+    },
+    {
+      "term": "stories as viruses",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "Jiang's phrase for narrative transmission that implants memory and consciousness patterns durable enough to outlive the original historical movement.",
+      "confidence": "high"
+    },
+    {
+      "term": "Frankist eschatology",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0066",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "Jiang uses this for an end-times vision in which the redeemed remain embodied, immortal, and free to enjoy material and sexual pleasures rather than becoming pure spirit.",
+      "confidence": "high"
+    },
+    {
+      "term": "transhumanism",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "Here Jiang frames transhumanism not as neutral futurism but as a contemporary technological expression of Frankist fleshly immortality and endless pleasure.",
+      "confidence": "medium"
+    },
+    {
+      "term": "killer year events",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0071"
+      ],
+      "definition_or_usage": "Jiang's label for recurring mini Ice Age episodes that allegedly bring famine, collapse, and political upheaval.",
+      "confidence": "medium"
+    },
+    {
+      "term": "magnetic pole excursion",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0070",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "In this discussion it names a geophysical weakening of Earth's magnetic shielding that would make solar-flare damage to electrified civilization more severe.",
+      "confidence": "medium"
+    },
+    {
+      "term": "resilience",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0073",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0077"
+      ],
+      "definition_or_usage": "In this packet resilience means designing life and infrastructure to survive breakdowns rather than maximizing normal-time efficiency, and Greg applies it practically to water access and local preparedness.",
+      "confidence": "high"
+    },
+    {
+      "term": "magnetic pole excursion",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0073"
+      ],
+      "definition_or_usage": "Jiang invokes this as a geophysical weakening of the magnetic field that would leave electrified civilization more vulnerable to destructive solar-flare impacts.",
+      "confidence": "medium"
+    },
+    {
+      "term": "collapse now and avoid the rush",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0080"
+      ],
+      "definition_or_usage": "Greg uses John Michael Greer's phrase to summarize a strategy of separating from fragile systems early so adaptation happens before general breakdown.",
+      "confidence": "high"
+    },
+    {
+      "term": "Predictive History",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0081"
+      ],
+      "definition_or_usage": "Jiang identifies Predictive History as the Substack where listeners can follow his geopolitical analysis.",
+      "confidence": "high"
+    },
+    {
+      "term": "Warrior Dividend",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0084"
+      ],
+      "definition_or_usage": "Greg's cited name for the one-time 1776-themed payment reportedly distributed to U.S. service members, which he treats as symbolically loaded rather than merely commemorative.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Eva Frank",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0085",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0086"
+      ],
+      "definition_or_usage": "Jacob Frank's daughter, presented here as the movement's later leader and as a continuity figure after Jacob's death.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Alexander I",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0086",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0088"
+      ],
+      "definition_or_usage": "The Russian ruler Greg invokes to suggest overlap between royal dynasties and the lingering Frankist milieu.",
+      "confidence": "medium"
+    },
+    {
+      "term": "conversos",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0091"
+      ],
+      "definition_or_usage": "Greg invokes the term through Joseph Atwill's framing to describe crypto-Jews who outwardly act Catholic while allegedly preserving another hidden identity.",
+      "confidence": "medium"
+    },
+    {
+      "term": "PLUS SHOW",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0091",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0092"
+      ],
+      "definition_or_usage": "Greg's paid extended version of the conversation, used here to advertise additional material beyond the public interview.",
+      "confidence": "high"
+    },
+    {
+      "term": "THC",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0093",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0094"
+      ],
+      "definition_or_usage": "Short for Higher Side Chats, Greg's own show and production slate, which he says he plans to expand beyond the interview format.",
+      "confidence": "high"
+    },
+    {
+      "term": "Higher Side Meetups",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0097",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0098"
+      ],
+      "definition_or_usage": "Greg's community meetup network, presented as a way for listeners to find like-minded locals and offset social atomization.",
+      "confidence": "high"
+    },
+    {
+      "term": "controller class",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0099",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0100"
+      ],
+      "definition_or_usage": "Greg's label for the hidden ruling adversary he suspects of running psyops, attacks, and broader inversion agendas.",
+      "confidence": "high"
+    },
+    {
+      "term": "Harry Seldon of the East",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0100"
+      ],
+      "definition_or_usage": "Greg's complimentary title for Jiang, likening him to the predictive strategist from Foundation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0003",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0004",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0006"
+      ],
+      "note": "This interview is explicitly framed as a return appearance after an October conversation and after Jiang's more recent work on Sabbatai Zevi and Jacob Frank.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0012",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0015"
+      ],
+      "note": "The packet fixes the core chronology around 1666, when Sabbatai Zevi declares himself Messiah and is received by followers as inaugurating the messianic age.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0013",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0014"
+      ],
+      "note": "Jiang frames the Zevi eruption against longer background shocks, including the 1492 expulsion from Spain and later violence in the Polish-Lithuanian Commonwealth.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0017",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0018"
+      ],
+      "note": "The packet advances the Zevi story from his 1666 conversion into the later continuity of Dönmeh families inside the Ottoman and Turkish political sphere.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0023"
+      ],
+      "note": "Greg marks the transition to the Frankist branch by placing Jacob Frank roughly fifty years after Zevi's conversion, then dates him to 1726-1791 in the quoted setup.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0025",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0026"
+      ],
+      "note": "The packet fixes the late-eighteenth-century chronology around Adam Weishaupt's 1776 Bavarian Illuminati, while noting Jacob Frank remained alive until 1791 and therefore could overlap directly with the order's formation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0023",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0025"
+      ],
+      "note": "This packet continues the chronology shift from Sabbatai Zevi's 1666 conversion to Jacob Frank's 1726-1791 career and then into the 1776 Illuminati moment.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0036",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0037"
+      ],
+      "note": "The packet marks a conceptual transition inside the 2025-12-28 interview: Greg moves from modern predictive-programming analogies back into Jiang's theological genealogy of Jacob Frank rather than adding a new dated historical episode.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0041",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0047"
+      ],
+      "note": "Within the 2025-12-28 interview the argument shifts from Frank's theological inversion and erotic visualization stories to a broader transmission model about how Frankist logic recruits elites and migrates across institutions through conversion.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0048"
+      ],
+      "note": "The widow story begins here but is not completed inside this packet; it functions as a bridge into the next packet's example rather than a finished chronology claim on its own.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0049",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0056"
+      ],
+      "note": "This packet closes the interview's Jacob Frank story-analysis phase and explicitly pivots into the next chronology question: whether Frankist logic persists in named modern elites and institutions.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0057",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0065"
+      ],
+      "note": "This packet is the interview's first full move from early modern background into named present-day actors, explicitly treating Frankism as a living elite continuity model rather than a closed historical sect.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0066",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0070"
+      ],
+      "note": "This packet marks the interview's pivot from Jiang's continuity account of Frankist elite behavior into his separate but linked cataclysm forecast, with Greg explicitly tying the new question back to an earlier conversation and Jiang's recent 'Winter Is Coming' post.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0073",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0081"
+      ],
+      "note": "This packet completes the interview's last substantive Jiang turn: it carries the cataclysm forecast into practical and moral preparation advice, then closes with a dated pointer to Jiang's next-semester game theory course and his current Substack outlet.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0081",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0082"
+      ],
+      "note": "This packet marks the handoff from Jiang's last in-interview remarks to Greg's solo postscript, so later claims here are host editorial framing rather than new Jiang interpretation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0092",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0094"
+      ],
+      "note": "This end-of-year host postscript records late-2025 plans both for a plus-show extension of the Jiang interview and for a 2026 expansion of Greg's production format beyond standard interviews.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0098",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0099",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0100"
+      ],
+      "note": "This final packet is explicitly dated to the 2025-12-28 year-end closeout and includes forward references to January-February 2026 meetup dates, upcoming 2026 content, and the show's fifteen-year retrospective moment.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0001"
+      ],
+      "note": "The opening segment is noisy bumper material and not reliable evidence for the interview's substantive claims."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0007"
+      ],
+      "note": "ASR is unstable in the phrase around 'those four principles / might of capitalism,' so the exact wording of that clause is uncertain even though the anti-capitalism contrast is clear."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "note": "The transcript's spellings of Sabbatai Zevi and Frankism are inconsistent ('Sabatini,' 'Frankis'), but the referents are clear from the interview setup."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0009"
+      ],
+      "note": "The transcript misspells names in this segment ('Sabatini,' 'Frankis'), but the referents are clearly Sabbatai Zevi and Frankism from the surrounding setup."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0013",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0014"
+      ],
+      "note": "The Spain-to-Polish-Lithuanian background is partially garbled by ASR, so the exact wording of some historical details is unstable even though Jiang's broader crisis-of-faith argument is clear."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0012"
+      ],
+      "note": "The sexual transgression details in seg-0012 are part of a quoted secondary-source description read by Greg, not Jiang's own direct historical narration."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0018"
+      ],
+      "note": "The claims about Ataturk's Dönmeh lineage and rumors about Erdogan are presented as Jiang's asserted continuity evidence but are not independently established within the packet."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0019",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0020",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0021"
+      ],
+      "note": "The Iraq-file claim, British-Sabbatean alliance, Rothschild linkage, and empire-sponsored-extremist examples are Jiang's interpretive geopolitical model here, with several links stated as rumor, guess, or broad historical inference rather than source-demonstrated proof inside the interview."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0025"
+      ],
+      "note": "Greg self-corrects from 'Isaac Weishaupt' to Adam Weishaupt mid-sentence, so the transcript preserves a brief spoken slip rather than a substantive identity ambiguity."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0026",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0027"
+      ],
+      "note": "The claims that Jacob Frank was the main founder of the Illuminati and that Goethe's memberships straightforwardly demonstrate Frankist influence are interpretive inferences asserted in the interview, not independently established within the packet itself."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0032"
+      ],
+      "note": "Greg's references to 'Dean Kutz' and repeated phrases in this segment show ASR instability, but the larger point about fiction preceding public events remains legible."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0038"
+      ],
+      "note": "This segment is heavily corrupted by ASR noise. The extraction keeps only the stable argumentative core about divine spark, love, and conquest, and avoids overcommitting to the garbled intermediate wording."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0033",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0034"
+      ],
+      "note": "Greg's references to Neville Goddard, 9/11, and cultural seeding are exploratory analogies from the host rather than claims Jiang explicitly endorses in this packet."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0046"
+      ],
+      "note": "This segment has light ASR degradation around Jiang's phrasing about elite mobility and spread. The extraction keeps the stable argumentative core about guilt relief, viral spread, and institutional infiltration without forcing the garbled wording."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0048"
+      ],
+      "note": "Greg's quoted widow story is cut off mid-narrative at the packet boundary, so only the setup and function of the example are extracted here."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0051"
+      ],
+      "note": "ASR corrupts several key names and phrases in Jiang's doctrinal explanation, so the extraction keeps only the stable through-line about false creation, sin, and new-nation mission."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0054"
+      ],
+      "note": "Greg's retail-worker aside is informal and compressed; it is treated as a psychological gloss on elite contempt rather than a separate historical claim."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0059",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0060"
+      ],
+      "note": "ASR heavily corrupts Jiang's naming of Jacob Frank and Frankist followers here, so the extraction preserves the stable narrative logic while avoiding false precision on garbled proper nouns."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0061",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0065"
+      ],
+      "note": "Several factual specifics in Jiang's contemporary examples are voiced as his interpretive case-building rather than source-demonstrated proof inside this packet, so those claims are kept at medium confidence."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0065",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0066"
+      ],
+      "note": "The ASR corrupts some proper nouns and one lineage pathway in Jiang's elite-linkage argument, so specific family or institutional transmission details are kept at medium confidence while preserving the clear continuity claim."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0069",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0070"
+      ],
+      "note": "Greg's reference to Jiang thinking 99 percent of humanity could be wiped out within a century points to prior interview and Substack material rather than a fresh claim fully argued inside this packet, so it is treated as setup for the catastrophe question rather than independently extracted proof."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0072"
+      ],
+      "note": "The historical solar-storm example is garbled by ASR as a 'quarantine event'; the extraction retains only the stable point that Jiang is invoking a prior pre-grid solar disruption as precedent."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0073",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0074"
+      ],
+      "note": "Jiang presents the geophysical warning as a high-probability reading of visible events, but the cited evidence remains observational and interpretive rather than technically demonstrated within the interview itself."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0084",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0085",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0086"
+      ],
+      "note": "This historical riff relies on Greg's secondary-source narration and includes noisy ASR around names, places, and dates, so the packet should preserve his framing without treating each detail as independently verified by the interview itself."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0091",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0092"
+      ],
+      "note": "Several proper nouns and topic labels in the plus-show advertisement are noisy in ASR, so the packet should preserve the broad advertised themes without overcommitting to every exact wording or name."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0098"
+      ],
+      "note": "The meetup roll call is operationally useful as chronology, but many place names and venue names are noisy in ASR and should not be over-normalized without checking the original show notes."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0101"
+      ],
+      "note": "The closing lyric is part of the episode's sonic packaging, not part of the interview or Greg's analytical claims."
+    }
+  ]
+}
