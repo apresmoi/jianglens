@@ -1,0 +1,234 @@
+{
+  "packet_id": "interview-f7n-6pid0tk-semantics-pkt-0001",
+  "source_id": "video:interview-f7n-6pid0tk",
+  "source_date": "2025-12-28",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0001",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0002",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0003"
+      ],
+      "kind": "exchange",
+      "summary": "The show opens with Higher Side Chats framing about cyclical time, occult power, and elite continuity, then Greg Carlwood reintroduces Jiang as a returning guest whose predictive-history method connects esoteric insight to geopolitics.",
+      "speaker_attribution": "Opening bumper and host introduction, with Jiang's brief thanks at the end of the intro.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0004",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0005"
+      ],
+      "kind": "exchange",
+      "summary": "Greg asks about feedback from the prior interview; Jiang answers by praising the interview depth and Greg's interviewing, with both voices compressed into the same segment boundary.",
+      "speaker_attribution": "Greg Carlwood and Jiang, with mixed speech inside seg-0005.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0006"
+      ],
+      "kind": "question",
+      "summary": "Greg pivots to Sabbatai Zevi and Jacob Frank and asks why those seventeenth- and eighteenth-century events are still important for understanding power today.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0007",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by naming three enduring modern mysteries, the spread of communism, Freud's durable influence, and occult symbolism in public power, and argues that Sabbatai Zevi and Jacob Frank are the connective thread needed to understand them.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0001"
+      ],
+      "note": "The first segment appears to be an opening bumper or song lyric rather than interview dialogue.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0003",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0005",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0006"
+      ],
+      "note": "Several early interview segments contain two speakers stitched together by ASR, so interaction boundaries must be inferred from direct address and sentence flow rather than diarization labels alone.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says major features of modernity remain hard to explain unless one can account for the origins of communism, Freud's dominance, and recurring occult symbolism in public institutions.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0007",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Dated interview segment from 2025-12-28.",
+      "topic_tags": [
+        "modernity",
+        "occult-symbolism",
+        "historical-causation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He frames the global success of communism as a historical mystery because a radical ideology based on Marx's theory of capitalism managed to conquer Russia and China despite the might of capitalism.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Historical claim discussed in a 2025-12-28 interview.",
+      "topic_tags": [
+        "communism",
+        "marxism",
+        "capitalism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang calls Freud's theories nonsense yet argues that Freud dominated mainstream psychology for decades and that core Freudian assumptions still shape neuroscience.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0007",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Historical and present-tense diagnosis voiced on 2025-12-28.",
+      "topic_tags": [
+        "freud",
+        "psychology",
+        "neuroscience"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that visible public symbolism, from Apollo and Artemis rocket names to the dollar bill and Washington's layout, is evidence that occult and Masonic patterns remain embedded in modern power.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Present-tense diagnosis voiced on 2025-12-28.",
+      "topic_tags": [
+        "freemasonry",
+        "occult-symbolism",
+        "state-power"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang's opening thesis is that Sabbatai Zevi and Jacob Frank, whether or not their names remain publicly salient, left ideas embedded inside modernity and therefore form the hidden connective tissue behind those modern mysteries.",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Dated interview thesis from 2025-12-28.",
+      "topic_tags": [
+        "sabbatai-zevi",
+        "jacob-frank",
+        "modernity",
+        "hidden-lineage"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "moment": "Jiang turns apparently unrelated puzzles into one diagnostic bundle.",
+      "source_phrase": "what connects all of these ideas, communism, Freud, and his psychology, occult symbolism throughout the world",
+      "why_it_matters": "This is the packet's organizing move: disparate modern phenomena become evidence of one hidden historical stream rather than separate curiosities.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "moment": "He compresses the episode thesis into an image of surviving ideological residue.",
+      "source_phrase": "their ideas are embedded in modernity",
+      "why_it_matters": "That phrase gives the public read a compact way to explain why an apparently dead sect still matters.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "moment": "Occult symbolism becomes a practical epistemic test for whether one really understands power.",
+      "source_phrase": "if you can't tackle these questions, then it's very hard to understand how the world really works",
+      "why_it_matters": "Jiang is not treating symbols as trivia; he makes them a threshold question for any serious model of modern power.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Sabbatai Zevi",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0006",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Messianic figure Jiang treats as part of the hidden historical lineage connecting modern ideological and symbolic patterns.",
+      "confidence": "high"
+    },
+    {
+      "term": "Jacob Frank",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0006",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Companion figure to Sabbatai Zevi in Jiang's account of the secret faith of power and its survival inside modernity.",
+      "confidence": "high"
+    },
+    {
+      "term": "occult symbolism",
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang's umbrella term for symbolic residues in rockets, money, and civic architecture that point to hidden continuity in elite power.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0003",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0004",
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0006"
+      ],
+      "note": "This interview is explicitly framed as a return appearance after an October conversation and after Jiang's more recent work on Sabbatai Zevi and Jacob Frank.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0001"
+      ],
+      "note": "The opening segment is noisy bumper material and not reliable evidence for the interview's substantive claims."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0007"
+      ],
+      "note": "ASR is unstable in the phrase around 'those four principles / might of capitalism,' so the exact wording of that clause is uncertain even though the anti-capitalism contrast is clear."
+    },
+    {
+      "refs": [
+        "video:interview-f7n-6pid0tk@transcript:v1#seg-0008"
+      ],
+      "note": "The transcript's spellings of Sabbatai Zevi and Frankism are inconsistent ('Sabatini,' 'Frankis'), but the referents are clear from the interview setup."
+    }
+  ]
+}
