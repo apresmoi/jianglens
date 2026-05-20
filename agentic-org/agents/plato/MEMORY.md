@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-20: Holy empire AI obedience belongs inside Eschatology when Jiang frames AI, reason, Antichrist language, one-world government, or everyone thinking alike as an end-times salvation script that removes intention, subjectivity, disagreement, or autonomy. Route data centers/digital-ID surveillance grids to Mass Society or Platform Infrastructure, inner attention/focus capture to Attention Capture, hidden trust or lodge coordination to Secret Society, and love/free-will noncoercion to Free Will.
+
 - 2026-05-20: False-messiah savior legitimacy belongs inside Legitimacy Fiction when oligarchic decay makes people beg for a warrior-savior who promises to punish corrupt elites or restore democracy, but the role intensifies the republic's civil-war contradiction. Route elite-faction/street-player analysis to Game Theory, replacement sacred-national unity to Nation, screen-world spectacle to Stories/Attention, and material war executability to Strategy.
 
 - 2026-05-19: Game Theory now treats proxy-war player identification as distinct from Strategy's material war audit: use it when Jiang says the named battlefield nation is not the whole player because financing, weapons, intelligence, command, manpower, and elite profit move agency to another actor. Route Odessa, conscription capacity, battlefield peace, logistics, and war endurance to Strategy Material Test.
