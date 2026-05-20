@@ -1,0 +1,285 @@
+# ISRAEL'S IRAN WAR PLAN FOR TOTAL DOMINATION | PROFESSOR JIANG XUEQIN @PredictiveHistory
+
+Source: https://www.youtube.com/watch?v=HzIX1hy8hr0
+
+## seg-0001 / 00:00:00-00:00:41 / SPEAKER_01
+
+The only impediment to Israel becoming an empire in the Middle East is America. You have the American military assets in the Middle East, but if America were to be defeated in a war against Iran, then America retreats from the Middle East and all these American assets, military assets, CENTCOM would now transfer over to Israel and this would immediately create the Pax Judaica. So that's what I think is most likely scenario over the next few years. America finds itself in a terrible war with Iran, which destroys American morale. America retreats from the Middle East and surrenders its military assets to Israel, which now becomes a de facto superpower of the Middle East.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0001
+
+## seg-0002 / 00:00:41-00:01:28 / SPEAKER_00
+
+Welcome back to Legitimate Targets, everybody. I hope you're all having a great day. I've got a very special treat for all of you on today's episode. You probably recognize the man sitting right next to me. You've seen his YouTube videos or his appearances on other channels. The host of Predictive History, Professor Jiang Shui -Chen. He is doing amazing work trying to connect the dots of the unipolar world, how it upholds its system, and maybe how it's beginning to collapse. And really, I think it's touching on a lot of subjects that are beginning to be understood by the masses in America and people are beginning to ask these questions. And I have a lot of questions for Professor Tejada. So, thank you so much for joining me. How are you doing?
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0002
+
+## seg-0003 / 00:01:28-00:01:31 / SPEAKER_01
+
+I'm doing well. Thanks so much for inviting me. Of course.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0003
+
+## seg-0004 / 00:01:32-00:01:59 / SPEAKER_00
+
+I want to start off by asking you about your thoughts on Venezuela because I saw you put out a statement essentially saying that a war on Venezuela, invasion of Venezuela is not the most likely outcome. I'm paraphrasing. But that this will be an effort to apply pressure and disrupt trade coming out of Venezuela. Could you expound upon this idea that you have?
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0004
+
+## seg-0005 / 00:01:59-00:03:09 / SPEAKER_01
+
+Right. So, the White House a couple of weeks ago published the National Security Strategy. And it is a very clear statement that Trump considers the entire Western Hemisphere to be part of the American empire. So, there's a Trump corollary to the Moreno Doctrine. And the naval assets assembled in the Caribbean, or 10 % of all of America's naval assets, is to enforce the Monroe Doctrine. So, basically, the idea is that Trump believes that Russia and China have encroached too deeply into South America. Russia has the security arrangements with Cuba. China has investment and trade arrangements with the entirety of Latin and South America. China has about 30 ports in South America. It imports one -third of its food. From South America, especially Brazil, which provides most of its soybeans. China is building a mega port in Peru. So, this escalation with Venezuela, it's really to show the world that America can enforce the Monroe Doctrine.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0005
+
+## seg-0006 / 00:03:10-00:03:15 / SPEAKER_01
+
+And it's really to disrupt as much as possible China's burgeoning relationship with South America.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0006
+
+## seg-0007 / 00:03:18-00:03:48 / SPEAKER_00
+
+When you look at that, I mean, all those things are true. China obviously does have a very deep influence there. In Venezuela, though, the U.S. is still the top import -export trade partner. In Nicaragua, the same is true. In Honduras, the same is true. And these are, I guess, three of the major anti -U.S. states ideologically at the helm. What more do you think the U.S. wants to achieve and do you think it could be achieved through this gunboat diplomacy?
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0007
+
+## seg-0008 / 00:03:49-00:04:56 / SPEAKER_01
+
+Right. So, in 2026, President Xi and President Trump are scheduled to meet four times. The big event will be when Trump visits China on a state visit in April. So, these four meetings, they need to hash out an agreement, a new economic relationship for the next five to ten years. So, in the late 90s, when China and America was negotiating the WTO entry, basically, the idea was that over time, China would liberalize its financial markets and China would become more kind of like integrated with America, meaning that Chinese consumers would buy more products from America. But over time, from the American perspective, this relationship has become much more lopsided. And so, America really wants China to liberalize its financial markets, basically open the door for Wall Street to come in and start giving easy credit to Chinese consumers. The very idea behind this is that America feels that the American consumer has maxed out, the
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0008
+
+## seg-0009 / 00:04:56-00:05:39 / SPEAKER_01
+
+credit cards, and now it's time for the Chinese consumer to support the global economy by consuming more things. The problem is that the Chinese economy itself faces a lot of headwinds. And quite honestly, the Chinese consumer is not that optimistic about the future, and therefore, they don't want to spend that much money. So, this Venezuela conflict is actually part of a much bigger conflict between China and America. So, I mean, America basically wants to say to China, you either liberalize your markets or we will embargo you, okay? So, this Venezuela, it's basically a litmus test to see how far America can go and to see what the Chinese response will be.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0009
+
+## seg-0010 / 00:05:41-00:06:26 / SPEAKER_00
+
+What do you mean by liberalize? The US wants China to liberalize. In your eyes, what do you think that means? Because one could interpret that as saying China needs to relinquish its state -owned enterprises, it needs to give more Western influence in these companies. I mean, that would be the traditional way of thinking, I guess, looking at what Wall Street would probably want. On the flip side, looking at consumerism in China, it seems to me, looking at China, that they are quite self -sufficient in a lot of ways based on the things that they need in their country. So, why would they have any reason to buy an increased supply of goods from other countries?
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0010
+
+## seg-0011 / 00:06:26-00:07:26 / SPEAKER_01
+
+So, from the American perspective, liberalization just means that the renminbi is allowed to float and therefore, it's allowed to increase in value, which means that Chinese consumers will be empowered to buy more goods from overseas. It could also mean greater convertibility between the US and the renminbi. So, right now, China is a closed financial market. There's a lot of financial repression going on in China. So, the idea is that, right now, the United States is $3,200 in debt. It's a great Ponzi scheme. The only way to keep this Ponzi scheme rolling is to have more and more people buy US dollars. And so, the great hope is that the Chinese consumer can save the Ponzi scheme that is the US financial market. But you're absolutely right. So, why would China agree to such a deal? China is self -sufficient. The Chinese government has guaranteed a very high standard of living for the Chinese citizens.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0011
+
+## seg-0012 / 00:07:26-00:07:56 / SPEAKER_01
+
+And the great fear is that if there's liberalization going on, then China could receive too much easy credit like Japan did in the late 80s and early 90s, the Plasma Accords, right? And this really basically diluted the Japanese manufacturing power. So, that's a great fear. And so, China doesn't really want to liberalize its financial markets. And that's why America is applying pressure everywhere, especially in Venezuela.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0012
+
+## seg-0013 / 00:07:59-00:09:01 / SPEAKER_00
+
+Looking at China's actions over the past year during the trade war, I saw that they sold off a lot of their US Treasury bonds. This has obviously kind of been a slow but churning trend worldwide that a lot of countries are saying that these are either tools of weaponization of the dollar, or they're against their sovereign economies, they don't want to partake in this, or maybe they're just looking elsewhere to other opportunities. Can we expect that that trend will continue if the goal is making China further a sovereign nation, sovereign economy? There's no end in sight with Russia, really. I feel like maybe China and other countries would have a better reason to be open to buying more US Treasury bonds if they saw the US acting as a sane geopolitical actor, but that's not the case yet.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0013
+
+## seg-0014 / 00:09:01-00:10:02 / SPEAKER_01
+
+Listen, you're absolutely right. So, this trade war has been going on for about eight years now. And China is probably willing to negotiate with the United States, but the United States has been a bully. So, the United States has imposed tariffs unilaterally, which forced China to respond. The United States has eliminated, has limited technology to China. Basically, it forced China to develop its own semiconductor industry. And then there was an incident where the Huawei executive, Meng Wenzhou, was arrested and essentially detained for a number of years before she was finally released. So, the United States has been a bully to China. And you're absolutely right that China would be perfectly happy to sit down as equals and negotiate a fair agreement for which everyone benefits. But the United States doesn't behave like that. The United States is an imperial bully, expects China to obey its orders. And that means basically doing what the United States
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0014
+
+## seg-0015 / 00:10:02-00:10:17 / SPEAKER_01
+
+tells China to do, which is basically to float the room and be, consume more US products, and basically bankrupt Chinese consumers. That really is the angle of the US empire, to bankrupt China.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0015
+
+## seg-0016 / 00:10:19-00:10:56 / SPEAKER_00
+
+As a final question about Venezuela, how much of this conflict that we're watching do you think has to do with the fear that if China begins to allow for the refining of Venezuelan oil in very high quantities, the export of Venezuelan oil in very high quantities, 17 % of the world's oil reserves, albeit high sulfur content, that this will be done in petrochemicals, in petro -yuan rather than the petro -dollar? That poses a threat to US economic stability in the future.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0016
+
+## seg-0017 / 00:10:58-00:11:59 / SPEAKER_01
+
+So for the past 10 years, China has been developing a very strong relationship with South America. So before, in the 60s and 70s, the United States would go in and install these dictators that essentially bankrupted their regimes. And these, you know, South American elite would steal resources and then transfer these resources to America. China plays a different game. China's very focused on long -term economic stability. So it's building roads. It's building high -speed rails. It's building ports for the South American countries, which is helping them develop economically. China is very intent on establishing a win -win economic relationship. So they get a lot of food and energy from South America. So China is really interested in developing a long -term relationship. And the South Americans love this. And so this rattles America, right? Because America sees South America as its backyard. So it's really about soft power. It's really about perception. And the great fear
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0017
+
+## seg-0018 / 00:11:59-00:12:39 / SPEAKER_01
+
+is that if China is allowed to do what it wants in South America, eventually South America will turn against America and America will find itself isolated from South America. And so it's not just about Venezuela oil. It's really about all the resources of South America. Now, as everyone knows, South America contains a lot of resources. It has something called the Lithium Triangle, which is Chile, Argentina, and Bolivia. And they together hold about 50 % of the worth of lithium, which is crucial for EVs, for AI, for batteries. So South America is a crucial battleground between China and the United States.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0018
+
+## seg-0019 / 00:12:41-00:13:35 / SPEAKER_00
+
+Moving to the United States, which I think this is going to be the news of the day in the United States. We're obviously recording this. I don't know what time it is in America. It's nighttime there, I think. But I think we're going to see a lot of news about the Epstein files. Obviously, Congress passed this resolution, this bill saying that, you know, if they're not released by today, then there's going to be legal consequences. Possibly people could be prosecuted if they're not released. What do you think is the reason behind these files supposedly being released today? I mean, it seemed a bit odd. You had the entirety of Congress, with the exception of one man, 400 and some odd members that voted for this. What do you think is going on? Okay, so I'm not really positive that the Epstein files will be released today.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0019
+
+## seg-0020 / 00:13:35-00:14:23 / SPEAKER_01
+
+I mean, it's slated to be released, and there's a lot of pressure for it to be released. But, you know, if you look at the potty market, there's a guy who put in an $800,000 bet that it will not be released. On the 19th, today. And so he could send, like, a million dollars. You only do that if it's inside information, right? So it's possible, you know, the DOJ says, sorry, but there's some sensitive, confidential information in here that's pertaining to a particular case, so we cannot release it. So first of all, don't be surprised if it's not released today. If it is released today, then I don't think we should expect anything new coming from these emails, from these files. Basically, what we know is that the American elite, they're all literally in debt with each other doing the most nefarious things.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0020
+
+## seg-0021 / 00:14:23-00:15:17 / SPEAKER_01
+
+And Epstein just preyed on the depravities of the American elite. Just basically, like, you know, stoking their vanities, providing them, you know, with services to meet their depravities. We all know this already. So I'm not really sure what the Epstein files would reveal that would be new and spectacular. We already know who Epstein is associated with. We already know that Trump and Epstein have a very close relationship. But Epstein had a close relationship with everyone. So I think that the Epstein files show us more about how corrupt, how depraved, and how interconnected the American elite really is. You know, these battles between the Democrats and Republicans, it's really just theater. You know, behind the scenes at parties, they're all best friends. Yep.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0021
+
+## seg-0022 / 00:15:18-00:16:21 / SPEAKER_00
+
+The best part was, well, nothing about this is best, but I think a lot of people in America have long suspected that Noam Chomsky, the Trotskyite liberal, was really a CIA asset. And now there's these photos of him coming out with tons of Epstein on his plane, in his house, with Ehud Barak. I mean, it is, I guess, interesting to get confirmation on this stuff. But you are right. I think most Americans really deep down know this stuff. But that leads me to my next question, which is, if most Americans think about what has Israel's power been over the last several decades, you think about intelligence, you think about blackmail, you think about unparalleled military power in the region backed up by the US and secret nukes. What do you think Israel's banking on in the future besides those things to safeguard their interests and become and maintain their superpower identity, I guess, in the region?
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0022
+
+## seg-0023 / 00:16:21-00:16:21 / SPEAKER_00
+
+
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0023
+
+## seg-0024 / 00:16:22-00:17:22 / SPEAKER_01
+
+So, I mean, Israel just has a lot of advantages, right? The first advantage it has is that it has nuclear weapons. It has something called the deception option, where if it's threatened, it blows up the world. This is pretty well known. And we know that Israel is fanatical enough to actually use nuclear weapons if it is threatened. That's the first thing. Second thing is that America, for the past 20 years, has really destroyed the Middle East. America went in and destroyed Iraq, Syria, and Libya, which used to be middle -class, vibrant societies. They're all now destroyed. The people have left for Europe. There are slave markets in Libya. The third thing about Israel is that with American help, it's really become an AI superpower. So, going back to the Hezbollah pager attacks, right? Well, what it tells us is that Israel perhaps secretly controls the world's global supply chain. I mean, otherwise, I don't see how they're able to pull that off, right?
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0024
+
+## seg-0025 / 00:17:22-00:18:26 / SPEAKER_01
+
+And this is one of the things we know about. It's possible that Israel is spying on all our devices right now. So, 40 % of the world's VPNs are controlled by Israel. They have a unit 8200, which basically produces the world's greatest IT mines, computer mines. And then there are a lot of Israeli agents that are embedded in America's national security apparatus, especially NSA. So, Israel really is an AI superpower. So, that's the third thing. The fourth thing I would say is just the unity of the Jewish diaspora. The Jewish diaspora believe in Israel. Israel has become the new religion of the Jews around the world. They believe that first and foremost, they need to protect Israel in order to protect themselves. And so, you see this message going around the Jewish diaspora, and it's working very effectively. And as we all know, the Jewish diaspora is very wealthy.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0025
+
+## seg-0026 / 00:18:26-00:19:29 / SPEAKER_01
+
+It's really well educated, and it's really well connected. And many of these members of the Jewish diaspora will eventually return to Israel to contribute to the growth of Israel. And then I think the major advantage that Israel has is Mossad. Mossad is the world's first and best intelligence agency. And so, they've been able to infiltrate many of the states in the Middle East, the GCC, Turkey. Otherwise, it's hard for us to explain why, while there's a genocide going on in Palestine, no one has spoken up. So, despite the anger of the Arab population, these nation states have not spoken up against the genocide. So, we can assume that they are somehow compromised or blackmailed, like an Epstein -like figure. So, these are all major advantages that Israel has. The only impediment to Israel becoming an empire in the Middle East is America. You have the American military assets in the Middle East. But
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0026
+
+## seg-0027 / 00:19:29-00:20:01 / SPEAKER_01
+
+if America were to be defeated in a war against Iran, then America would retreat from the Middle East and all these American assets, military assets, CENTCOM, would now transfer over to Israel. And this would immediately create the Pax Judaica. So, that's what I think is the most likely scenario over the next few years. America finds itself in a terrible war with Iran, which destroys American morale. America retreats from the Middle East and surrenders its military assets to Israel, which now becomes a de facto superpower of the Middle East.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0027
+
+## seg-0028 / 00:20:04-00:20:57 / SPEAKER_00
+
+Oh, that's very interesting. You think that... Do you think that... I mean, you don't have to be an avid predictive historian or a military viewer, I guess, to understand that Israel has said multiple times that they want to do a war against Iran again, and either late this year or early next year, something to that effect. Do you think, though, that if Iran were to win a conflict with U.S. involvement and obviously that would involve blowing up a lot of these U.S. bases throughout the region, I think, and I could be wrong, but a lot of these countries, maybe they'd be okay with U.S. bases being forced upon them. The governments would. But having Israeli bases after this genocide, after what we've seen over the past three years, maybe Israel wants that, but that seems like it would be an impossibility.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0028
+
+## seg-0029 / 00:20:58-00:22:01 / SPEAKER_01
+
+Right. So Israel doesn't necessarily want a war with Iran. Israel wants a war between the United States and Iran because Israel cannot defeat Iran. And we know this from the 12 -Day War where Iran was raining ballistic missiles on Israel. So Israel is vulnerable. They wanted air defense system, the Iron Dome, the Sling of David. They did not hold up against these Iranian hypersonics. And the Iranians already said that they were not using their full capacity. So Israel does not want a full -scale war with Iran because Israel would most likely lose in this scenario. So what Israel wants, ideally, is for America to be dragged into a war with Iran. So Israel needs to finagle things to force Iran to close the Strait of Hormuz. And this would compel an American invasion to protect global trade. And I think that's the most likely scenario. If America is defeated and Iran is shattered, then there's no other power in the Middle East to resist Israel.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0029
+
+## seg-0030 / 00:22:02-00:22:25 / SPEAKER_01
+
+Now, I understand the geopolitics of the Middle East is very complicated. But for the past 10, 20 years, Israel has been doing whatever it wanted without any resistance. So if the Americans would leave, Israel would become a de facto power. And there's very little that the GCC could do to stop Israel.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0030
+
+## seg-0031 / 00:22:27-00:22:31 / SPEAKER_00
+
+What do you think stops or prevents Israel from launching nukes at Iran?
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0031
+
+## seg-0032 / 00:22:34-00:23:28 / SPEAKER_01
+
+Well, I mean, the problem when you launch nukes is you break the taboo. So if you launch nukes, everyone else can launch nukes. So I think there's a global taboo where you're not allowed to use nukes. And I think, like, we've built a lot of institutions to support this taboo. So Israel uses a central option, which is to say, you know, if we're threatened, we'll use nukes. Otherwise, it doesn't make sense for them to use tactical nukes in a war because they're still a small nation. So Iran is mountainous. If you use your nuclear weapons against Iran and you exhaust your nuclear weapons, it's not going to stand. But Israel is a desert. So one or two nuclear weapons can wipe out their 9 million population. So it's not something that Israel wants to find itself in. It's not a situation that Israel wants to find itself in, in a nuclear exchange. I mean, it's going to lose in this exchange.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0032
+
+## seg-0033 / 00:23:29-00:23:39 / SPEAKER_01
+
+And Israel doesn't need to use nuclear weapons. Again, the second option is, like, if the existence of Israel is threatened, then they will nuke the world. But only if the existence of Israel is threatened will they do that.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0033
+
+## seg-0034 / 00:23:42-00:24:15 / SPEAKER_00
+
+Before the 12 -day war, right? Russia had offered a North Korea -like security pact or a strategic cooperation pact with Iran. This had been worked on with Raisi. Raisi dies. Pazeshkian comes in. Zarif come in. And magically that deal is no longer in the works. After the 12 -day war, it comes back at Russia's suggestion one more time. Do you think there's any possibility that Russia would allow Iran to go down without a fight?
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0034
+
+## seg-0035 / 00:24:17-00:25:22 / SPEAKER_01
+
+I think that Iran has been preparing for about 20 years for this fight. In the 1980s, Iran fought this kind of cataclysmic war with Iraq where it lost millions of people. But it really built a can -do mentality in Iran. And then Iranians saw what America did in 2003 in Iraq. Then it saw what America did in Libya and Syria. So Iran knows that America is going to come for it eventually. Wesley Clark, after 9 -11, he did, talking to Amy Goodman, he did say that he saw some confidential documents saying that America will go after seven nations. There's only one nation left on that list, and it's Iran, right? They got Sudan. They got Syria. I can't remember every nation. But the only nation left on that list is Iran. So it's part of the plan. America will eventually come to Iran. And Iran's been preparing for the past 20 years. And the preparation is in drones and in hypersonics and ballistic missiles.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0035
+
+## seg-0036 / 00:25:22-00:26:09 / SPEAKER_01
+
+And the reason why is that America will always win a conventional warfare against Iran. So the only way to defeat America is to drag America into Iran and then use asymmetrical guerrilla warfare to disrupt supply lines and sap the morale of the American soldier. And America doesn't have the manufacturing capacity. It doesn't have the personnel to win a war against Iran. America will go into Iran thinking that it will be another Iraq where they do shock and awe for two weeks, and then the regime will be toppled, and then they can install whoever they want in Tehran. And I think they're going to be surprised when the opposite happens, when a shock and awe rallies and unifies the Iranian people against the American empire.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0036
+
+## seg-0037 / 00:26:11-00:27:23 / SPEAKER_00
+
+One last subject that I want to discuss a little bit is the video that you made predicting... Well, you were looking at, I guess, the more faith -based and cultural angle of the Russian Federation and what they seek to uphold in the world, which is a Christian worldview, Orthodox Christianity, these sorts of values. You talked about how Orthodox Christianity and Shia Iran have a lot of the same goals, cultural values, I guess, despite different religions. And they view what is going on right now as a war against the atheistic, godless West with backwards morals and values. And one thing that you drew attention to was the fact that this could serve as some sort of falling out between China and Russia in the future, and that Russia may have some contempt for China as a result of their atheistic, communist, very pragmatic materialism and materialist worldview. The question I'll pose to you regarding this is if that's true, which I mean, objectively, they are different worldviews.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0037
+
+## seg-0038 / 00:27:23-00:27:45 / SPEAKER_00
+
+If that's true, how can we... The first question I'll ask is how can we assess the relationship that Russia has with North Korea, which is everything China is, but even more so, and is a much smaller, less resourceful country, and less important country than China is for Russia?
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0038
+
+## seg-0039 / 00:27:47-00:28:59 / SPEAKER_01
+
+Right. So North Korea is not like China. North Korea is a very small nation, but it has its own religion. It's a very nationalistic religion, but it's a religion of self -reliance. And the relationship between North Korea and Russia has blossomed, right? So North Korea sent about 10,000 troops to fight in Ukraine, and that's really helped to train and build up the North Korean military. So I think in the coming years, North Korea will make bigger and bigger headlines because the Korean people in North Korea, they're extremely unified, and they are determined for greatness. That's what their national religion is. It's self -reliance, but to achieve the potential of the Korean people. And so I think that, North Korea will be a flashpoint in the next five to 10 years. Because as America, as China, and as Russia is embroiled in its own struggles, then North Korea can threaten South Korea. The entirety of South Korea is within 30 minutes of North Korean artillery.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0039
+
+## seg-0040 / 00:29:00-00:29:26 / SPEAKER_01
+
+Within like 30 minutes, I think North Korea could wipe out Seoul. So North Korea, given the geopolitical instability, and given the fact that North Korea is essentially a pariah state, it's in North Korea's best interest to threaten Seoul and demand ransom. And that's how North Korea can really build itself up by, but basically by threatening Japan, by threatening China, by threatening South Korea, and collecting ransom in exchange to keep the peace.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0040
+
+## seg-0041 / 00:29:29-00:30:42 / SPEAKER_00
+
+I agree with you. And I feel like it's crazy what's happening in South Korea, the decline of the society, birth rates, unaliving rates amongst the elderly in particular. But okay, so you bring up, this will be my last question, and thank you so much for your time. I really enjoyed this conversation. You brought up the idea of Juche Marxism in North Korea, which is the self -sufficiency religion, essentially the state ideology that they have. In China, one could look at China and say, well, China does not, even though godless, by all accounts, in South Korea, the state governance, they are not a Christian governance country. You look at what they actually uphold in their country, it is traditional values. It's not Juche, but it is this Confucian Mao Zedong thought. They block a lot of the propaganda surrounding LGBT values that come from the West. And maybe there are a lot of similarities between Chinese thought and Russian thought and their values.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0041
+
+## seg-0042 / 00:30:40-00:30:42 / SPEAKER_00
+
+
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0042
+
+## seg-0043 / 00:30:45-00:31:46 / SPEAKER_01
+
+Right. So, I mean, the reality in China is that for the past 30, 40 years, China has really embraced the West. So there is this fascination, almost obsession with anything American. So for the longest time, Chinese thought that going to Starbucks was a sign of class that you've made in the world. If you're able to drink coffee at Starbucks every day, then you were part of the elite. So there's really this obsession with America. You have like 300,000 Chinese students studying in American colleges. And there's just too much appetite for anything American. So American soft power has basically conquered China. And this has created a lot of problems for the government. You know, these past five, ten years, as you mentioned, there's been a great emphasis on Confucian values. There's a great emphasis on Chinese national identity. And so there's this conflict going on. You know, and I work in a school system, so
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0043
+
+## seg-0044 / 00:31:46-00:32:25 / SPEAKER_01
+
+I see this conflict every day where, you know, Chinese are trying to learn the best from the West, you know, AI, technology, STEM, and all that. They're trying to maintain its core Chinese identity. And I see this struggle every day. And it's really hard for me at this point to assess how this conflict will work out. I think in 2026, when Trump visits China, then we'll have a much clearer sign of the direction of this country. But I think that China, Russia, a lot of countries right now are facing identity crisis where their elite has been globalized. But at the same time, their people strive for a national identity.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0044
+
+## seg-0045 / 00:32:27-00:32:48 / SPEAKER_00
+
+I couldn't have said it better myself. I think that's a perfect way to wrap up this conversation. So, Professor, thank you so much for joining me today. We are going to have your YouTube linked in the description and the title of this video. I do have to ask one clarifying question. I see there's several YouTubes with your name in it online. Are those all yours or is just one of them yours?
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0045
+
+## seg-0046 / 00:32:48-00:33:06 / SPEAKER_01
+
+Yeah, so I only have one YouTube channel, Creative History. And that's where I upload my lectures. And there are others who basically take content and create clips. But they don't represent me. They're just doing it on their own initiative.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0046
+
+## seg-0047 / 00:33:07-00:33:20 / SPEAKER_00
+
+Well, very good. We'll have your YouTube channel linked and your sub stack. And your Twitter in the description for everyone to follow along. So thank you so much. And I hope to speak again with you very soon. Thanks. Look forward to it.
+
+Ref: video:interview-hzix1hy8hr0@transcript:v1#seg-0047
