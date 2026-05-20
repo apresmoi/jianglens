@@ -1,0 +1,312 @@
+{
+  "packet_id": "predictive-history-rg1clzlrfoo-semantics-pkt-0004",
+  "source_id": "video:predictive-history-rg1clzlrfoo",
+  "source_date": "2026-05-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0025"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes his reading of Freemasonry as a synthetic religion: it absorbs earlier traditions, asks each person to become a stoic stone, and imagines humanity assembled into a perfect temple that creates God on earth through reason and geometry.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0026"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang briefly hands the floor to Alan to continue reading the Pike material; this is a classroom prompt, not a substantive public question.",
+      "speaker_attribution": "Jiang directing a student reader.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0027",
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0028"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Alan reads Pike's claim that Masonry enlarges duty into universal freedom, treats despotism as the enemy of humanity, borrows stone-masonry symbols for a wider mission, and even aided the French Revolution before reappearing with restored order.",
+      "speaker_attribution": "Alan reading quoted material from Pike.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0029",
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0030",
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0031"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets Pike's passage as Freemasonry's eschatology: a crusade for a holy empire of reason that rewrites history so the Templars become Freemasons, the French Revolution and Napoleon become Masonic instruments, and secrecy becomes proof of persecuted legitimacy rather than evidence.",
+      "speaker_attribution": "Jiang lecture monologue interpreting Pike.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0032"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang again cues Alan to read, and the reading presents a providential Masonic universalism in which history's evils are folded into a divine process of redemption and regeneration.",
+      "speaker_attribution": "Jiang prompt plus Alan reading quoted material.",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0027",
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0028"
+      ],
+      "note": "These segments are student reading with clear ASR corruption in several words and names, but the quoted material's through-line about liberty, anti-despotism, and the French Revolution is still recoverable.",
+      "suggested_speaker": "Alan reading Pike",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0032"
+      ],
+      "note": "This ref contains both Jiang's prompt to keep reading and Alan's quoted reading; the diarization does not split the handoff cleanly.",
+      "suggested_speaker": "Jiang prompt followed by Alan reading Pike",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Freemasonry presents itself as the culmination of earlier religious and philosophical traditions, gathering the best ideas from Egyptian hermeticism, Greek mystery cults, and the Kabbalah into one synthetic order.",
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-19.",
+      "topic_tags": [
+        "Freemasonry",
+        "synthetic religion",
+        "hermeticism",
+        "Kabbalah"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Jiang's reading, the Masonic end state is anthropological and political at once: each person must become a stoic, perfected stone so that all humanity can be assembled into the temple of God and effectively create God on earth.",
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Lecture model on 2026-05-19.",
+      "topic_tags": [
+        "stone",
+        "temple",
+        "God on earth",
+        "geometry",
+        "self-perfection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang equates the height of humanity with reflection and reason that surrender emotion to geometry, using the line about Socrates entering Adam and producing Marcus Aurelius as a compressed image of moral and civilizational refinement.",
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-19.",
+      "topic_tags": [
+        "reason",
+        "geometry",
+        "Marcus Aurelius",
+        "self-mastery"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The Pike passage Jiang assigns presents Masonry as a force for enlarged political duty: freedom, free thought, free conscience, and free speech become universal rights, while despotism becomes a general enemy of the human race.",
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Quoted source read in lecture on 2026-05-19.",
+      "topic_tags": [
+        "freedom",
+        "rights",
+        "despotism",
+        "Masonry"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The same Pike reading claims Masonry adopted the symbols and tools of stone masonry as its mission widened and even aided the French Revolution before later reappearing with restored order.",
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0027",
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Quoted source read in lecture on 2026-05-19.",
+      "topic_tags": [
+        "stone masonry",
+        "French Revolution",
+        "symbols",
+        "order"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang interprets Pike's rhetoric as the eschatology of Freemasonry: a project to create a holy empire of reason through world revolution, with Napoleon cast as one instrument in that crusade.",
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-19 of Pike's program.",
+      "topic_tags": [
+        "holy empire of reason",
+        "eschatology",
+        "revolution",
+        "Napoleon"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Pike rewrites history so the Freemasons become the endpoint of the Knights Templars and uses prior persecution by the French crown and Catholic Church to justify secrecy, legitimacy, and authority for the later order.",
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0029",
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-05-19.",
+      "topic_tags": [
+        "Knights Templars",
+        "Freemasons",
+        "legitimacy",
+        "authority",
+        "secrecy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Pike's account of Masonic responsibility for the French Revolution, Napoleon, and long-range revenge for Jacques de Molay is not factual history but a mythic retrospective that grants the movement centuries of strategic depth and sacred mission.",
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0030",
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-05-19.",
+      "topic_tags": [
+        "Jacques de Molay",
+        "mythic history",
+        "strategic depth",
+        "French Revolution"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted Masonic text in seg-0032 frames worldly evil and misery as parts of a divine current moving toward redemption and regeneration, implying a providential view in which history's disorder is folded into a magnificent final result.",
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Quoted source read in lecture on 2026-05-19.",
+      "topic_tags": [
+        "providence",
+        "redemption",
+        "regeneration",
+        "evil"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0025"
+      ],
+      "moment": "If every human becomes a perfected stone, the whole species can be stacked into a temple and create God on earth.",
+      "source_phrase": "we can create the perfect temple of God. We can create God on Earth",
+      "why_it_matters": "This is the packet's sharpest compression of Jiang's link between spiritual discipline, geometry, and total social construction.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0025"
+      ],
+      "moment": "The ideal human is Marcus Aurelius produced when Socrates enters Adam and emotion yields to geometry.",
+      "source_phrase": "Socrates should enter into Adam and produce Marcus Aurelius",
+      "why_it_matters": "It preserves Jiang's strange but memorable fusion of philosophical lineage, ascetic refinement, and Masonic anthropology.",
+      "tone": "metaphor",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0029"
+      ],
+      "moment": "Freemasonry's real eschatology is a holy empire of reason built by revolution.",
+      "source_phrase": "a holy empire of reason",
+      "why_it_matters": "This phrase names the political theology Jiang thinks sits underneath Pike's symbolic rhetoric.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0029",
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0031"
+      ],
+      "moment": "The movement wins authority by going backward into history and writing itself in as the hidden endpoint all along.",
+      "source_phrase": "rewriting history to show that the Freemasons were the endpoint of history",
+      "why_it_matters": "It captures Jiang's core explanation for how elite orders manufacture legitimacy through retrospective myth rather than evidence.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "holy empire of reason",
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "Jiang's label for the Freemasonic end state: a world order built through revolution and justified as the triumph of reason.",
+      "confidence": "high"
+    },
+    {
+      "term": "Jacques de Molay",
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "The executed Templar leader Jiang says Pike invokes to give Freemasonry a revenge genealogy stretching from 1314 to the French Revolution.",
+      "confidence": "high"
+    },
+    {
+      "term": "Girondists",
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "A French Revolution faction named in the Pike reading when Masonry is said to disappear and then be reborn with restored order.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0025",
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0029",
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0031"
+      ],
+      "note": "On 2026-05-19 Jiang extends his earlier geometric-perfection reading into a historical legitimacy story: Freemasonry is presented not just as a symbolic order but as a synthetic religion that rewrites Templar, revolutionary, and Napoleonic history into one long mission of reason.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0027",
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0028"
+      ],
+      "note": "The ASR is noisy in the Pike reading, including corrupted words and names, so the extracted claims preserve only the clearly recoverable argument about liberty, anti-despotism, masonry's widened mission, and the French Revolution."
+    },
+    {
+      "refs": [
+        "video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0030"
+      ],
+      "note": "Jiang says Pike also casts America as the later vehicle for the same world-order project, but he references that as an unread passage rather than a direct quotation in this packet."
+    }
+  ]
+}
