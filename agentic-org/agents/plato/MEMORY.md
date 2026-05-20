@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-20: Story-virus/remade-consciousness belongs inside How Stories Control Reality when Jiang frames narrative as magic: a story or song lodges in memory, seeps into consciousness, alters how people see self/world, removes guilt or inhibition, and spreads through people/institutions. Route the membership/trust layer to Secret Society, taboo breach to Taboo, end-times flesh immortality to Eschatology, and catastrophe survival through relation/imagination to Human Heart or Living School.
+
 - 2026-05-20: Crisis-demanded dictatorship belongs inside Legitimacy Fiction when Jiang frames polarization, economic trouble, mass media, social crisis, or public anger as making people demand a Napoleon/Julius Caesar figure who can lead into dictatorship or controlled society. Route the AI/data/permission machinery to Mass Society, domestic faction payoff to Game Theory, sacred-national replacement to Nation, and end-times AI obedience to Eschatology.
 
 - 2026-05-20: Oracle / techno-Marxism database infrastructure belongs inside Mass Society when Jiang frames AI surveillance as population-scale administration: crisis-management technocracy, databases for companies/governments, data centers, and prediction systems that make behavior legible and governable. Route visible app/deeper pipes to Platform Infrastructure, end-times AI obedience to Eschatology, inner focus capture to Attention, and hidden trust/funding coordination to Secret Society.
