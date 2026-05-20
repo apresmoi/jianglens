@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-20: Hemisphere supply-line leverage belongs inside Strategy Material Test when Jiang frames Venezuela, Monroe Doctrine enforcement, food/oil access, embargo threats, limited airstrikes, or regional spectacle as coercive bargaining tools whose occupation and escalation risks must pass ships, nationalism, foreign forces, accidents, and material capacity. Route the downstream Chinese-consumer debt absorption to Power As Alchemy, player/payoff sequencing to Game Theory, and world-board education/trade pipes to Nation.
+
 - 2026-05-20: Story-virus/remade-consciousness belongs inside How Stories Control Reality when Jiang frames narrative as magic: a story or song lodges in memory, seeps into consciousness, alters how people see self/world, removes guilt or inhibition, and spreads through people/institutions. Route the membership/trust layer to Secret Society, taboo breach to Taboo, end-times flesh immortality to Eschatology, and catastrophe survival through relation/imagination to Human Heart or Living School.
 
 - 2026-05-20: Crisis-demanded dictatorship belongs inside Legitimacy Fiction when Jiang frames polarization, economic trouble, mass media, social crisis, or public anger as making people demand a Napoleon/Julius Caesar figure who can lead into dictatorship or controlled society. Route the AI/data/permission machinery to Mass Society, domestic faction payoff to Game Theory, sacred-national replacement to Nation, and end-times AI obedience to Eschatology.
