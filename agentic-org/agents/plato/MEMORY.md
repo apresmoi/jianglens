@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-20: False-messiah savior legitimacy belongs inside Legitimacy Fiction when oligarchic decay makes people beg for a warrior-savior who promises to punish corrupt elites or restore democracy, but the role intensifies the republic's civil-war contradiction. Route elite-faction/street-player analysis to Game Theory, replacement sacred-national unity to Nation, screen-world spectacle to Stories/Attention, and material war executability to Strategy.
+
 - 2026-05-19: Game Theory now treats proxy-war player identification as distinct from Strategy's material war audit: use it when Jiang says the named battlefield nation is not the whole player because financing, weapons, intelligence, command, manpower, and elite profit move agency to another actor. Route Odessa, conscription capacity, battlefield peace, logistics, and war endurance to Strategy Material Test.
 
 - 2026-05-19: Game Theory now treats empathic state modeling as distinct from Human Heart empathy: use it when Jiang says psychohistory marries psychoanalysis to game theory, treats states as actors with memory/worldview/motive/reasoning, and tests whether an enemy move becomes rational inside that actor's security logic. Route relational love, compassion, and flourishing to Human Heart; route material war judgment to Strategy.
