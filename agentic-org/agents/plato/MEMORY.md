@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-21: Money-glue legitimacy collapse belongs inside Legitimacy Fiction when Jiang frames a polity as "not a real civilization" because oligarchic design, money as social glue, blocked opportunity, failed external-enemy stories, and manufactured threats can no longer bind the public world. Route elite/player civil-war mechanics to Game Theory, human meaning/family/future collapse to Human Heart, population-control grids to Mass Society, and whole-life civilizational arrangements to Civilization As Inner Order.
+
 - 2026-05-21: Ally-bankrolling-retirement belongs inside Gerontocracy when Jiang frames American baby-boomer comfort as an imperial dividend and says a dying empire now wants Europe, Japan, South Korea, and others to bankroll its retirement despite their own aging populations. Route allied bodies/resources/rebellion capacity to Strategy Material Test, debt/treasury reality to Power As Alchemy, payoff sequencing to Game Theory, and world-board trade/security pipes to Nation.
 
 - 2026-05-21: Al-Aqsa/Third Temple escalation belongs inside Eschatology when Jiang frames red heifer sacrifice, Al-Aqsa destruction, Third Temple preparation, Pax Judaica, Messiah, Antichrist, and Jesus's return as a ritual sequence that compels actors into roles. Route material executability, Iran/US war costs, and escalation chains to Strategy; hidden personnel/trust apparatus to Secret Society; imperial authorization or sacred identity edits to Legitimacy Fiction.
