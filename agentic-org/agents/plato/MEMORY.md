@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-21: Al-Aqsa/Third Temple escalation belongs inside Eschatology when Jiang frames red heifer sacrifice, Al-Aqsa destruction, Third Temple preparation, Pax Judaica, Messiah, Antichrist, and Jesus's return as a ritual sequence that compels actors into roles. Route material executability, Iran/US war costs, and escalation chains to Strategy; hidden personnel/trust apparatus to Secret Society; imperial authorization or sacred identity edits to Legitimacy Fiction.
+
 - 2026-05-21: War-substitute AI surveillance belongs inside Mass Society when Jiang says nuclear escalation makes old war less usable for corrupt regimes, so digital ID, digital currency, data centers, behavior tracking, and AI monitoring become the way rulers prevent unrest and maintain power across major nation-states. Route ownership of software pipes, VPNs, intelligence access, or hidden empire to Platform Infrastructure or Secret Society; route end-times obedience to Eschatology; route inner focus capture to Attention.
 
 - 2026-05-21: The p5gg "Chinese consumers maxing out credit cards" passage strengthens the existing consumer debt absorber mechanism inside Power As Alchemy. Use it when Jiang frames an exhausted imperial consumer base as demanding another population's household spending, credit, or financial-market opening to absorb fiscal/economic burden. Route South America, oil/food access, chokepoints, and allied body-spending to Strategy Material Test; payoff sequencing to Game Theory; and trade/education institutional pipes to Nation.
