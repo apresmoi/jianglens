@@ -99,6 +99,18 @@ The institutional layer matters because the game cannot become global by metapho
 <span id="nation-god-machine-world-board-disciplines-entry" class="lens-point-anchor"></span>
 The American game becomes a world board when loans invite countries into play, repayment failure becomes policy discipline, and trade, dollar-transfer, banking, legal, and central-bank coordination pipes make the board playable everywhere.
 
+## When Soft Power Splits The National Body
+
+The late-processed **December 19, 2025** Hinkle interview adds the inward afterlife of that world board. Jiang is not only describing American influence abroad. He is describing how a foreign prestige system can enter another country's class structure, school system, and elite imagination until national recovery becomes an internal struggle.
+
+China is his immediate case. Jiang says that for thirty or forty years China embraced the West so deeply that [American consumer taste became a class marker]{evidence="video:interview-hzix1hy8hr0@transcript:v1#seg-0043"}: Starbucks meant one had "made it," American colleges attracted hundreds of thousands of Chinese students, and [American soft power had basically conquered China]{evidence="video:interview-hzix1hy8hr0@transcript:v1#seg-0043"}. The state answer is not simple rejection of the West. Over the previous five to ten years, he says, China had emphasized Confucian values and Chinese national identity, while schools still tried to learn Western AI, technology, and STEM. The conflict is therefore not outside the country. It is inside the formation system that decides what counts as aspiration.
+
+<!-- lens-point id="nation-god-machine-globalized-elite-split" concept="nation-god-machine" evidence="video:interview-hzix1hy8hr0@transcript:v1#seg-0043 video:interview-hzix1hy8hr0@transcript:v1#seg-0044" -->
+<span id="nation-god-machine-globalized-elite-split" class="lens-point-anchor"></span>
+The national body splits when globalized elites are formed by foreign prestige, schools, consumer symbols, and technical aspiration while the broader population still seeks a national identity that feels like its own.
+
+Jiang then widens the case beyond China. He says China, Russia, and many countries now face an identity crisis because [their elites have been globalized while their people strive for national identity]{evidence="video:interview-hzix1hy8hr0@transcript:v1#seg-0044"}. This belongs on the nation page because the active mechanism is not merely language or cultural export. [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/) owns the language-world and soft-power platform when English, Shakespeare, or performance reshapes perception. [Education As A Soul Game](/lens/education-as-a-soul-game/) owns school as person-formation. Nation-as-god-machine owns the fracture in the collective body: one layer has already been trained by the world board, while another still wants a shared national center strong enough to bind the people.
+
 ## When The Game Needs Replacement Unity
 
 The March 5, 2026 interview adds a later American failure mode to the same page. Jiang is not only describing a civil war forecast. He is describing what happens when the playable national board loses enough shared story that a harder sacred body can replace it.
@@ -132,6 +144,8 @@ Ask whether population is strength or target. In Jiang's later war model, number
 Ask what replaces God if nationalism recedes. Pax Americana tries rules, rights, free trade, consumer happiness, and individual identity; Jiang warns that this may produce its own helplessness and a later return of nationalism rather than a clean escape.
 
 Ask how the board is enforced. If a system presents itself as open play, check whether loans, repayment rules, private ownership requirements, transfer pipes, standards, courts, or quiet policy rooms make entry conditional on accepting the game.
+
+Ask whether foreign prestige has split the national body. If schools, elite taste, consumer status, foreign universities, or technical aspiration form one class while the broader people still want national identity, the nation may be fighting inside its own formation system.
 
 Ask what happens when the board loses its unifying story. If media, schools, courts, parties, civic rituals, and national myths no longer make a common people, ask which harder ideology claims it can bind the country again, and what older rules it says must be overridden.
 
