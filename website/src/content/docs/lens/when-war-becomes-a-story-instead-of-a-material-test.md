@@ -105,6 +105,18 @@ Limited war becomes systems fire when a supposedly local operation transmits thr
 
 This stays inside Strategy rather than [Game Theory](/lens/game-theory/) because the active mechanism is not only who benefits from a local move. It is whether the local move can remain local after material interdependence begins carrying pressure elsewhere. It also borders [Nation As God-Machine](/lens/nation-as-god-machine/) when conscription and sacrifice become the response, but this page owns the strategic transmission chain that forces those national machines to start moving.
 
+## Deathbed Hubris
+
+The same **2025-12-19** interview ends by naming the psychological form of the material trap. Jiang accepts Glenn's question about hubris, but he does not leave it as a personality flaw. He gives an empire-cycle rule: empires rise when they are [young, energetic, cohesive, and open]{evidence="video:interview-p5gg9xxbqze@transcript:v1#seg-0056"}, then peak, become arrogant and insular, and decline. The danger is not ordinary decline. It is refusal. In this source, the empire becomes most dangerous when it [refuses to admit mortality and refuses to die]{evidence="video:interview-p5gg9xxbqze@transcript:v1#seg-0056"}.
+
+That refusal changes the strategic board. A power that could accept limits might bargain, retreat, or let successors inherit parts of the order. A power that treats mortality as humiliation defends empire "to its dying breath," fights everywhere, uses allies as proxies and cannon fodder, and lets the rules facade fall into force, piracy, and mafia logic. Jiang's final forecast is therefore not only moral rhetoric. Because America still has unmatched technological, economic, and military sophistication, [its death will not be pretty and conflict may rage for 10 to 20 years]{evidence="video:interview-p5gg9xxbqze@transcript:v1#seg-0059 video:interview-p5gg9xxbqze@transcript:v1#seg-0060"}.
+
+<!-- lens-point id="strategy-deathbed-hubris-refuses-mortality" concept="strategy-material-test" evidence="video:interview-p5gg9xxbqze@transcript:v1#seg-0056 video:interview-p5gg9xxbqze@transcript:v1#seg-0057 video:interview-p5gg9xxbqze@transcript:v1#seg-0059 video:interview-p5gg9xxbqze@transcript:v1#seg-0060" -->
+<span id="strategy-deathbed-hubris-refuses-mortality" class="lens-point-anchor"></span>
+Deathbed hubris becomes a strategic material problem when a declining empire refuses mortality, treats retreat as humiliation, and spends its remaining technological, economic, military, allied, and narrative capacity to fight everywhere rather than let the imperial world die.
+
+This belongs on Strategy rather than only [Human Heart](/lens/human-heart-as-civilizational-measure/) or [Civilization As Inner Order](/lens/civilization-as-inner-order/) because Jiang is not only diagnosing pride or decadence. He is explaining why a dying power still moves ships, allies, proxies, resources, and war plans. [Gerontocracy As Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/) owns old cohorts preserving the world they expect to die inside; [Legitimacy Fiction](/lens/legitimacy-fiction/) owns the fading rules story. Strategy owns the material result: refusal of mortality makes exit unavailable and turns remaining capacity into a long conflict board.
+
 ## No-Exit War
 
 The **2026-03-13** Danny Haiphong interview gives the no-exit version of the Iran-war material test. Danny asks why an empire would keep digging if the war is already a trap. Jiang answers with [hubris and desperation]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0014"}: desperation because [a Russia-Iran-China alignment could create a Eurasian trade world that stops supporting the dollar]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0017 video:interview-px5wsnsqwme@transcript:v1#seg-0018"}, and hubris because [Iraq, Libya, Syria, and other one-sided interventions taught American elites that Middle Eastern force was cheap, fast, and survivable]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0018 video:interview-px5wsnsqwme@transcript:v1#seg-0019"}.
@@ -380,6 +392,8 @@ In **June 2024**, the Putin lecture defines overextension, debt, and civil disco
 In **November 2024**, the Rome lecture gives the ancient countercase: a story of no surrender can become real material endurance when institutions and manpower can carry it.
 
 In **April 2025**, the gunpowder lecture gives the older structural rule: military form determines political form, and effective gunpowder warfare requires a whole-society transformation before the weapon can become world conquest.
+
+In **December 2025**, the Glenn Diesen interview adds deathbed hubris: a declining empire that refuses mortality can turn its remaining technological, economic, military, and allied capacity into a long conflict board rather than accept retreat.
 
 In **June 2025**, the escalation-dominance update adds the credibility trap: the hegemon's power to climb can become compulsion to react.
 
