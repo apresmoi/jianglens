@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-21: Protestant money-proof belongs inside Power As Alchemy when Jiang frames money as the solution to religious paradox, double-predestination anxiety, God-as-symbol, measurable grace, and money becoming reality itself. Route anxiety that keeps people working to Attention Capture, mass-scale exit/theocracy traps to Mass Society, and religious office/filter discipline to Religion As Administrative Filter.
+
 - 2026-05-21: Frozen-asset trust detonation belongs inside Power As Alchemy when Jiang frames confiscated reserves as a trap/grenade because legal ownership, banking credibility, and currency safety are revealed as political permissions rather than stable monetary reality. Route Ukraine-war financing, battlefield/conscription pressure, and alliance credibility to Strategy; elite self-reinforcing failure to Bureaucracy; and the broader property-right story to Legitimacy Fiction.
 
 - 2026-05-21: Globalized-elite national split belongs inside Nation As God-Machine when Jiang frames foreign soft power, schools, consumer prestige, technical aspiration, and elite globalization as forming one class while the people still seek a national identity. Route language-world and imperial soft-power platform to Poetry, school person-formation to Education, abstraction conversion to Power As Alchemy, and civilizational whole-life confidence to Civilization As Inner Order.
