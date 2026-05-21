@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-21: The p5gg "Chinese consumers maxing out credit cards" passage strengthens the existing consumer debt absorber mechanism inside Power As Alchemy. Use it when Jiang frames an exhausted imperial consumer base as demanding another population's household spending, credit, or financial-market opening to absorb fiscal/economic burden. Route South America, oil/food access, chokepoints, and allied body-spending to Strategy Material Test; payoff sequencing to Game Theory; and trade/education institutional pipes to Nation.
+
 - 2026-05-20: Hemisphere supply-line leverage belongs inside Strategy Material Test when Jiang frames Venezuela, Monroe Doctrine enforcement, food/oil access, embargo threats, limited airstrikes, or regional spectacle as coercive bargaining tools whose occupation and escalation risks must pass ships, nationalism, foreign forces, accidents, and material capacity. Route the downstream Chinese-consumer debt absorption to Power As Alchemy, player/payoff sequencing to Game Theory, and world-board education/trade pipes to Nation.
 
 - 2026-05-20: Story-virus/remade-consciousness belongs inside How Stories Control Reality when Jiang frames narrative as magic: a story or song lodges in memory, seeps into consciousness, alters how people see self/world, removes guilt or inhibition, and spreads through people/institutions. Route the membership/trust layer to Secret Society, taboo breach to Taboo, end-times flesh immortality to Eschatology, and catastrophe survival through relation/imagination to Human Heart or Living School.
