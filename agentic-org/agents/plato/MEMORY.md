@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-21: Ally-bankrolling-retirement belongs inside Gerontocracy when Jiang frames American baby-boomer comfort as an imperial dividend and says a dying empire now wants Europe, Japan, South Korea, and others to bankroll its retirement despite their own aging populations. Route allied bodies/resources/rebellion capacity to Strategy Material Test, debt/treasury reality to Power As Alchemy, payoff sequencing to Game Theory, and world-board trade/security pipes to Nation.
+
 - 2026-05-21: Al-Aqsa/Third Temple escalation belongs inside Eschatology when Jiang frames red heifer sacrifice, Al-Aqsa destruction, Third Temple preparation, Pax Judaica, Messiah, Antichrist, and Jesus's return as a ritual sequence that compels actors into roles. Route material executability, Iran/US war costs, and escalation chains to Strategy; hidden personnel/trust apparatus to Secret Society; imperial authorization or sacred identity edits to Legitimacy Fiction.
 
 - 2026-05-21: War-substitute AI surveillance belongs inside Mass Society when Jiang says nuclear escalation makes old war less usable for corrupt regimes, so digital ID, digital currency, data centers, behavior tracking, and AI monitoring become the way rulers prevent unrest and maintain power across major nation-states. Route ownership of software pipes, VPNs, intelligence access, or hidden empire to Platform Infrastructure or Secret Society; route end-times obedience to Eschatology; route inner focus capture to Attention.
