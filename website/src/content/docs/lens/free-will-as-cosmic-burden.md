@@ -119,6 +119,14 @@ Self-made hell is imagination turned against itself: blocked love and blocked se
 
 That makes the lecture's Cato-Marcia paradox more than a literary puzzle. [Cato reaches purgatory while Marcia remains in limbo]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0052 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0053"}. If love is giving, why does Cato not rescue his wife? Jiang's answer is free will: Cato can will purgatory for himself through desire, self-reflection, and self-forgiveness, but he cannot force Marcia into the same motion. [If you truly love someone, you let that person choose]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0055 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0056"}.
 
+The **2026-05-22** Purgatorio lecture makes that chosen-redemption layer more exact. The mountain shakes when a soul is ready to rise, but Jiang says the motion is driven by will: [inferno and purgatory are both chosen states, and a soul with the will can cleanse itself because God is all-forgiving]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0048"}. The delay is not God's reluctance. It is the soul's own judgment. Jiang's blunt gloss is that [the issue is not that God has not forgiven us, but that we have not forgiven ourselves]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0050"}.
+
+That changes the meaning of self-love. It is not indulgence or self-esteem. In Jiang's reading, [love can require restraint, judgment, self-cleansing, and the desire to become worthy of God]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0052"}. The soul wants to move toward God, but because the soul is love, it cannot bring doubt, hatred, and sin into heaven as if forgiveness were only a legal pardon. It must become the pearl that can reflect the universe without carrying the distortion it refuses to face.
+
+<!-- lens-point id="free-will-purgatory-requires-self-forgiveness" concept="free-will-burden" evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0048 video:predictive-history-otyupkhptym@transcript:v1#seg-0050 video:predictive-history-otyupkhptym@transcript:v1#seg-0052" -->
+<span id="free-will-purgatory-requires-self-forgiveness" class="lens-point-anchor"></span>
+Purgatory is chosen self-forgiveness in Jiang's free-will model: God is already forgiving, but the soul must will its own cleansing, judge its distortions, and choose to become worthy of the love it seeks.
+
 This belongs here rather than on a separate love page because the controlling mechanism is agency. [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) owns forgiveness as the test of social order. The held love-as-recognition seed owns the narrower relation question when love itself becomes the object. [The Guide Who Becomes A Trap](/lens/the-guide-who-becomes-a-trap/) owns Virgil's mediation and bribe-like speech before Cato. Free Will owns the harshest claim: even love cannot make another soul choose redemption without violating the freedom that makes redemption real.
 
 ## The Inquisitor's Mercy
@@ -171,6 +179,7 @@ This is the practical test. Does the system ask the person to become more alive,
 - **2026-01-07**, [Great Books #1: Secrets of the Universe](/episodes/predictive-history-tsd-8fga84a/): Plato's cave turns free will into chosen slavery and the refusal to let the false world remain final.
 - **2026-04-08**, [Great Books #9: Dante's La Commedia](/episodes/predictive-history-6m1z-v3wgok/): Free will and reciprocity become contradictions; hell is chosen because will and desire form the soul.
 - **2026-04-29**, [Great Books #10: Hell Is the Imagination Turned Against Itself](/episodes/predictive-history-wgpdmya2bme/): Dante's Inferno gives the self-made hell version. Love expands imagination; blocked love and blocked self-forgiveness make hell; Cato shows that even love cannot force another person into redemption.
+- **2026-05-22**, [Great Books #11: Dante's Revolution](/episodes/predictive-history-otyupkhptym/): Purgatorio sharpens the positive form. The soul can rise when the will is ready, but the delay is self-forgiveness, self-judgment, and love choosing cleansing before ascent.
 
 ## Diagnostics
 
@@ -178,6 +187,7 @@ This is the practical test. Does the system ask the person to become more alive,
 - **Chosen Lie**: Where does the person call coercion freedom because the desired future was installed by the wall?
 - **Contractual God**: Where has love been translated into obedience, duty, payment, grades, debt, or institutional access?
 - **Self-Made Hell**: Where has imagination turned inward because love, forgiveness, or self-forgiveness is blocked?
+- **Purgatory Test**: Where is the obstacle not external pardon but the person's refusal, fear, or unreadiness to forgive the self and choose cleansing?
 - **Non-Coercive Love**: Where does rescue become a violation because the other person has to choose self-reflection and redemption?
 - **Truth-Becoming**: Where is truth treated as information to possess, and where does it require self-overcoming, moral action, and responsibility to others?
 - **No Endpoint**: Where does an institution, teacher, party, church, or ideology claim final arrival where Jiang's Asha would require becoming, correction, and return to others?
