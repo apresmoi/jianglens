@@ -59,6 +59,14 @@ The **April 2026** population-war lecture then hardens the same mechanism into e
 <span id="nation-god-machine-population-war" class="lens-point-anchor"></span>
 The nation-state turns population into war capacity when citizens, workers, children, schools, welfare, medicine, and industry are organized to replenish soldiers, produce weapons, and make people willing to die for the national body.
 
+The **May 21, 2026** Putin lecture supplies the reverse test at imperial scale. A student asks why American military power would weaken if the dollar system collapses, since the military appears to be the base of the global economic order. Jiang's answer is that a military is never free-floating power. It comes from a national body: [the nation-state provides weapons, manufacturing, soldiers, and financing]{evidence="video:predictive-history-x83hclwvhi8@transcript:v1#seg-0071"}. If the home state is in revolution or systemic breakdown, the military must turn inward; if overseas forces try to remain abroad, they still need another national body to house them. Jiang's speculative map is deliberately stark: East Asian forces would support Japan, European forces Germany, and Middle Eastern forces Israel because [different theaters of the American military would need a nation-state host]{evidence="video:predictive-history-x83hclwvhi8@transcript:v1#seg-0072"}.
+
+<!-- lens-point id="nation-god-machine-military-needs-host-state" concept="nation-god-machine" evidence="video:predictive-history-x83hclwvhi8@transcript:v1#seg-0071 video:predictive-history-x83hclwvhi8@transcript:v1#seg-0072" -->
+<span id="nation-god-machine-military-needs-host-state" class="lens-point-anchor"></span>
+Military power needs a host state when armies, bases, factories, financing, and soldiers cannot float above politics; if the original national body fractures, imperial forces must retreat inward or re-anchor themselves in another nation-state.
+
+This belongs on Nation rather than only on Strategy because the active claim is ontological: a military is made out of a national body before it can execute any plan. [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) owns the later audit of whether bases, allies, supply lines, and war plans can enforce the dollar order. Nation-as-god-machine owns the prior condition: military force needs a people, factories, finance, territory, loyalty, and a host capable of making the force socially real.
+
 ## Whole Society Becomes The Weapon
 
 The older gunpowder lecture supplies the material machinery behind the god-machine. Jiang's rule there is that the nature of the military determines the nature of the political system. Gunpowder cannot be handled by self-sufficient warriors alone. It requires taxation, conscription, material supply, specialists, industry, research, bureaucracy, and hierarchy.
@@ -148,6 +156,8 @@ Ask how the board is enforced. If a system presents itself as open play, check w
 Ask whether foreign prestige has split the national body. If schools, elite taste, consumer status, foreign universities, or technical aspiration form one class while the broader people still want national identity, the nation may be fighting inside its own formation system.
 
 Ask what happens when the board loses its unifying story. If media, schools, courts, parties, civic rituals, and national myths no longer make a common people, ask which harder ideology claims it can bind the country again, and what older rules it says must be overridden.
+
+Ask where the military is housed. If an army, base network, or overseas command appears to stand above politics, ask which national body supplies its weapons, factories, financing, soldiers, territory, and permission. If that body fractures, the force must either retreat inward or find another host.
 
 ## Related Concepts
 
