@@ -113,6 +113,14 @@ That is the surgical layer of the guide-trap. Dante [makes Virgil father, guide,
 
 Statius makes the wound visible. He is a Roman epic poet who loves Virgil and [should, by Virgil's own rule, remain excluded]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0037"}. Yet [Statius can ascend because he wants to]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0038"}. The contrast is not talent, chronology, or literary greatness. It is willingness to admit error and be changed. Virgil's greatness becomes the thing he defends against transformation.
 
+The **2026-05-22** Purgatorio lecture deepens the same wound from Statius's side. Jiang says Statius treats the *Aeneid* as mother, nurse, and model, so completely that [he wants to write the Aeneid and become Virgil]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0056"}. That should confirm the master's world. Instead it breaks it. A disciple formed by Virgil's poetry is climbing toward heaven while Virgil remains in limbo, and Jiang says this [destroys Virgil's framework for the universe]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0067"}.
+
+The lecture's image for this contradiction is a lamp carried behind the traveler. Statius says Virgil [carried the lamp behind him, helping those who followed while not helping himself]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0072"}. Jiang's gloss makes the guide-trap sharper: Statius loved Virgil's poetry but [chose to believe in himself and trust his own intuition rather than believe Virgil's world]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0074"}. The guide's light was real. The trap was the guide's claim that his own map exhausted what the light could reveal.
+
+<!-- lens-point id="guide-lamp-lights-road-behind-him" concept="guide-becomes-trap" evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0056 video:predictive-history-otyupkhptym@transcript:v1#seg-0064 video:predictive-history-otyupkhptym@transcript:v1#seg-0072 video:predictive-history-otyupkhptym@transcript:v1#seg-0074" -->
+<span id="guide-lamp-lights-road-behind-him" class="lens-point-anchor"></span>
+A guide may light the road for others without entering it himself: Virgil's poetry makes Statius a poet and a Christian, but Statius is saved by trusting the light beyond Virgil's own worldview.
+
 The final break comes when Beatrice appears. Dante turns toward the father-guide to share joy, but [Virgil runs away at the moment his task is complete]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0039 video:predictive-history-asbkjezwijm@transcript:v1#seg-0040"}. Jiang's verdict is brutal: [Virgil would rather burn in hell forever than admit he is wrong]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0041"}. Beatrice's answer is not a rescue mission. Let him go.
 
 <!-- lens-point id="guide-trap-surgical-release" concept="guide-becomes-trap" evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0007 video:predictive-history-asbkjezwijm@transcript:v1#seg-0008 video:predictive-history-asbkjezwijm@transcript:v1#seg-0038 video:predictive-history-asbkjezwijm@transcript:v1#seg-0041 video:predictive-history-asbkjezwijm@transcript:v1#seg-0042" -->
@@ -171,7 +179,7 @@ This is why the concept should not be flattened into a general suspicion of teac
 
 ## Chronology So Far
 
-The current evidence for this concept runs through two Dante lectures. The January source gives the repair technique: Dante has to loosen Virgil's hold from inside the reader's love. The April source gives the descent mechanics: the guide's speech, authority, memory, and desire show why that release is necessary.
+The current evidence for this concept runs through three Dante lectures. The January source gives the repair technique: Dante has to loosen Virgil's hold from inside the reader's love. The April source gives the descent mechanics: the guide's speech, authority, memory, and desire show why that release is necessary. The May source shows the same trap from Purgatory: Virgil's light can save a disciple without saving Virgil.
 
 - **2025-01-14**, [Civilization #30: Dante as the Second Coming of Homer](/episodes/predictive-history-asbkjezwijm/): The lecture gives the surgical release layer. Dante [makes Virgil father, guide, narrator, and hero]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0007 video:predictive-history-asbkjezwijm@transcript:v1#seg-0008"}, then the poem shows that [Statius can ascend because he wants to]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0038"} while Virgil [would rather burn in hell forever than admit error]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0041"}.
 - **2026-04-08**, [Great Books #9: Dante's La Commedia](/episodes/predictive-history-6m1z-v3wgok/): The later lecture gives the descent mechanics. Dante must [enter Inferno and confront Virgil's Aeneid-world before reaching paradise]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0007"}.
@@ -180,6 +188,7 @@ The current evidence for this concept runs through two Dante lectures. The Janua
 - **2026-04-08**, same lecture: Charon and the Aeneid grammar make the claim harsher. Virgil is [master of hell]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0025"} because [his poetry created the emotions that allow hell to exist]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0026"}.
 - **2026-04-08**, same lecture: Will and desire become the soul-mechanism. The damned [think hell is the best place for them and enter because they want to do so]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0030"}.
 - **2026-04-08**, same lecture: Minos and Dido give the reader's diagnostic. [The person Dante trusts most is probably the person he should trust least]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0038"}, and [restore memory where the guide refuses a name]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0047 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0048"}.
+- **2026-05-22**, [Great Books #11: Dante's Revolution](/episodes/predictive-history-otyupkhptym/): Purgatory adds the Statius lamp layer. Virgil's poem is [mother, nurse, and model for Statius]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0056"}, but Statius's ascent [destroys Virgil's framework for the universe]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0067"} because Virgil [lights the road for others without helping himself]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0072"}.
 
 ## How To See Through The Guide
 
@@ -194,6 +203,7 @@ That does not mean accepting any feeling as truth. The method is disciplined by 
 - Does the guide translate grace into contract, free will into obedience, or love into debt?
 - Is the guide obeyed by the world he claims merely to be passing through?
 - What does the guide make the soul want, and does that desire move toward freedom or toward hell?
+- Does the guide's light let a student see farther than the guide, and can the guide survive being surpassed?
 - Who is the Dido of the guide's map: the figure the guide understands, harmed, or created but refuses to name?
 - Can the guide admit correction when another authority, beloved, witness, or healed soul proves the map incomplete?
 - At what threshold does loyalty to the guide become refusal to enter the world the guide prepared you to see?
