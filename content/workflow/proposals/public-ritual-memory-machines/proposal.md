@@ -1,11 +1,12 @@
 # Public Ritual Memory Machines
 
 Date: 2026-05-07
-Status: reviewed lens seed; held from public promotion after cross-page review
+Status: reviewed lens seed; no standalone public page; narrow ritual-action edge absorbed into Sacred Machines on 2026-05-22
 Work type: proposal synthesis
 Reviews:
 - `content/workflow/reviews/public-ritual-memory-machines/local-judge-2026-05-07.md`
 - `content/workflow/reviews/public-ritual-memory-machines/cross-page-review-2026-05-07.md`
+- `content/workflow/reviews/public-ritual-memory-machines/reconciliation-2026-05-22.md`
 
 ## Proposed Boundary
 
@@ -76,12 +77,12 @@ If later promoted, the public surface should probably be an atlas relation first
 
 ## Candidate Lens Points
 
-These are not added yet because the cross-page review held the seed from public mutation. Future workers should add public anchors only if later source recurrence or public-page duplication makes the public-form mechanism necessary.
+The cross-page review held this seed from standalone public promotion. A later concept-scoped Sacred Machines pass absorbed the narrow ritual-action edge because the active mechanism was no longer a separate public-form concept; it was a staged action making invisible bonds publicly inhabitable. Future workers should not promote the whole seed by treating that absorption as approval for a standalone page.
 
 - `public-ritual-makes-collective-consciousness`  
   A public ritual becomes a memory machine when communal participation turns a staged event into shared consciousness.
 
-- `funeral-implants-memory-into-community`  
+- `funeral-implants-memory-into-community` / absorbed as `sacred-machine-ritual-action-makes-memory-public`
   The Viking funeral implants the dead into communal memory when everyone participates in sacrifice, burning, story, and obligation.
 
 - `triumph-stages-conquest-as-sacred-memory`  
@@ -95,7 +96,7 @@ These are not added yet because the cross-page review held the seed from public 
 
 ## Review Status
 
-Local judge review and cross-page review both held this as a routing seed rather than a public page or atlas relation. The public map already carries the active neighboring mechanisms: World-Making Media and Human Heart hold Greek theater and civic consciousness; Taboo holds triumph-as-sacrifice and public transgression; Sacred Machines holds ritual objects and architecture; Nation holds ceremony when it forms the national body; Civilization holds broad human-type formation; Stories Control holds commandless scripts. Use this seed only when a source foregrounds the staged public form as the machine that makes collective memory, judgment, sacrifice, or imagination durable.
+Local judge review and cross-page review both held this as a routing seed rather than a public page or atlas relation. A 2026-05-22 reconciliation records that the public map later absorbed the Viking funeral action-form into [Sacred Machines](/lens/sacred-machines/) as `lens-point:sacred-machine-ritual-action-makes-memory-public`, with exact episode links from [The Viking Memory Machine](/episodes/predictive-history-tymnsa83nhy/). That did not promote this seed as its own page. The public map still carries the active neighboring mechanisms: World-Making Media and Human Heart hold Greek theater and civic consciousness; Taboo holds triumph-as-sacrifice and public transgression; Sacred Machines holds material or staged forms that bridge invisible order into public life; Nation holds ceremony when it forms the national body; Civilization holds broad human-type formation; Stories Control holds commandless scripts. Use this seed only when a source foregrounds the staged public form as the machine that makes collective memory, judgment, sacrifice, or imagination durable.
 
 ## Promotion Test
 
