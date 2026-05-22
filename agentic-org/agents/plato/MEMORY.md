@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-22: Love-as-recognition can deepen Human Heart without becoming a standalone page when the active mechanism is relational recognition: private signs, secret language, shared objects, enemy visibility, or anti-love inversions test whether a relation makes the other person more visible and whole. Route non-coercive agency to Free Will, Virgil mediation to Guide Trap, Aeneid imperial training to Stories/Poetry, and broad civilizational flourishing to Human Heart.
+
 - 2026-05-21: Protestant money-proof belongs inside Power As Alchemy when Jiang frames money as the solution to religious paradox, double-predestination anxiety, God-as-symbol, measurable grace, and money becoming reality itself. Route anxiety that keeps people working to Attention Capture, mass-scale exit/theocracy traps to Mass Society, and religious office/filter discipline to Religion As Administrative Filter.
 
 - 2026-05-21: Frozen-asset trust detonation belongs inside Power As Alchemy when Jiang frames confiscated reserves as a trap/grenade because legal ownership, banking credibility, and currency safety are revealed as political permissions rather than stable monetary reality. Route Ukraine-war financing, battlefield/conscription pressure, and alliance credibility to Strategy; elite self-reinforcing failure to Bureaucracy; and the broader property-right story to Legitimacy Fiction.
