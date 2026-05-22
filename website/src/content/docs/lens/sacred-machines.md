@@ -41,6 +41,20 @@ This is why sacred machines are not irrational leftovers in Jiang's map. They ar
 
 The diagnostic here is not "were the ancients scientifically right?" It is "what kind of shared reality did this machine make possible?" A cave, temple, or pyramid can be wrong in modern physics and still real as a social machine. It can train memory, synchronize ritual, stabilize authority, and teach a people where they stand in the cosmos.
 
+## Ritual Action As Machine
+
+Sacred machines are often buildings, but Jiang's Viking funeral source shows the edge case: sometimes the machine is the public action-form itself. The ship, body, fire, wealth, sacrifice, song, shield-beating, and gathered community matter because they are arranged into a ritual that joins the dead, the living, mythology, family memory, war-band loyalty, and afterworld imagination.
+
+The lecture is careful about uncertainty. Jiang repeatedly says the Ibn Fadlan funeral account is difficult and that some of his reconstruction is speculative. But the mechanism he draws from it is clear. The slave girl's visions [implant her personal memory into the community as everyone observes and hears]{evidence="video:predictive-history-tymnsa83nhy@transcript:v1#seg-0031"}, and the final burning [celebrates the dead man by implanting his memory into the community because everyone participates]{evidence="video:predictive-history-tymnsa83nhy@transcript:v1#seg-0035"}. The ritual does not only dispose of a corpse. It makes the dead socially present.
+
+<!-- lens-point id="sacred-machine-ritual-action-makes-memory-public" concept="sacred-machine" evidence="video:predictive-history-tymnsa83nhy@transcript:v1#seg-0031 video:predictive-history-tymnsa83nhy@transcript:v1#seg-0035" -->
+<span id="sacred-machine-ritual-action-makes-memory-public" class="lens-point-anchor"></span>
+Ritual action becomes a sacred machine when staged participation makes invisible bonds public: the dead, the living, family memory, myth, sacrifice, and afterworld imagination are gathered into a scene the community must remember.
+
+The comparison with Rome and Greece keeps this from becoming a generic ritual category. Jiang says Romans had the triumph, where conquered wealth, captives, soldiers, and the general moved through the city toward sacrifice to Jupiter. Greece had theater, where citizens participated, watched, judged, and imagined war from an enemy's perspective. In each case, the public form trains a different collective consciousness. Rome stages conquest and sacred domination. Greece stages civic judgment and empathy. The Viking funeral stages memory, courage, loyalty, and terrible intimacy with the dead.
+
+That is why this section belongs on Sacred Machines rather than as a separate public page. The active mechanism is not "all ritual" or "all theater." It is the moment when a public form bridges invisible order into collective life. If the source is about forbidden killing, use [Taboo As Control Surface](/lens/taboo-as-control-surface/). If it is about theater making citizens see the human heart, use [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) or [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/). Sacred Machines owns the narrower question: what material or staged form makes the unseen order publicly inhabitable?
+
 ## Egypt's Manhattan Project
 
 The Great Pyramid is Jiang's strongest sacred-machine case. In the November 2024 pyramid lecture, he rejects the simple tomb explanation as too small. He also discusses energy theories only to transform them. If the pyramid is not a literal clean-energy battery, he asks what happens if the energy is divine.
@@ -99,6 +113,8 @@ Ask what the machine connects. Is it joining heaven and earth, ancestor and livi
 
 Ask what it gathers. A sacred machine is visible in the labor it can summon: pilgrims, builders, priests, students, soldiers, taxpayers, engineers, users, worshippers, consumers, or citizens.
 
+Ask whether the machine is an object, an action, or both. A pyramid, cave, temple, ship, parade, funeral, or theater becomes sacred-machine material only when it makes the unseen relation public enough for people to participate in it, remember it, and organize life around it.
+
 Ask what material audit can test it. Does the Nile flood? Does the war stay contained? Does the school form souls or only credentials? Does the market create abundance or anxiety? Does the monument preserve life or consume it?
 
 Ask who controls the interface. Sacred machines often require specialists: shamans, priests, Pharaohs, engineers, bureaucrats, teachers, scientists, central bankers, platform designers. The machine becomes dangerous when the interface class monopolizes access to reality.
@@ -118,6 +134,12 @@ Ask what happens after failure. A failed sacred machine can produce reform, new 
   `video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0007`  
   `video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0036`  
   `video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0039`
+
+- **2025-03-06**, [Civilization #36: The Viking Memory Machine](/episodes/predictive-history-tymnsa83nhy/)
+  The funeral source adds the staged-action edge: a ship burial, sacrifice, public hearing, and collective burning implant personal and chieftain memory into the community, while Roman triumph and Greek theater show adjacent civic action-forms.
+  `video:predictive-history-tymnsa83nhy@transcript:v1#seg-0031`
+  `video:predictive-history-tymnsa83nhy@transcript:v1#seg-0035`
+  `video:predictive-history-tymnsa83nhy@transcript:v1#seg-0036`
 
 - **2024-11-26**, [Civilization #18: The Great Pyramid as Ancient Egypt's Manhattan Project](/episodes/predictive-history-kssscznyrgo/)  
   The Great Pyramid becomes the strongest sacred-machine case: divine battery, Pharaoh-body portal, Nile-control project, and failed pyramid economy.  
@@ -143,5 +165,7 @@ Ask what happens after failure. A failed sacred machine can produce reform, new 
 - [Power As Alchemy](/lens/power-as-alchemy/) - for the root conversion by which invented forms become lived reality.
 - [How Stories Control Reality](/lens/how-stories-control-reality/) - for the narrative side of shared-world construction.
 - [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/) - for symbolic media as inner civilizational order.
+- [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) - for theater and tragedy as civic instruments for seeing revenge, grief, guilt, and judgment before they govern the city blindly.
+- [Taboo As Control Surface](/lens/taboo-as-control-surface/) - for public killing, forbidden breach, scapegoat purification, and sacrificial state ceremony when transgression is the active mechanism.
 - [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) - for the later interface class that can preserve the machine while draining its life.
 - [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) - for the modern replacement in which attention, money, anxiety, and platforms become the operating religion.
