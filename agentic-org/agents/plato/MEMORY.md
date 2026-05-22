@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-22: Purgatory self-forgiveness belongs inside Free Will when Jiang frames God as already forgiving but says the soul must will cleansing, judge its distortions, forgive itself, and become ready for ascent. Route Statius as lamp/teacher-surpassing-disciple to Guide Trap, relational recognition and shared forgiveness to Human Heart, and love-as-giving boundaries by active mechanism.
+
 - 2026-05-22: Statius as lamp-behind-him belongs inside Guide Trap when Jiang frames Virgil's poetry as real light that makes a disciple a poet/Christian while Virgil himself cannot enter or admit the truth his light made visible. Route Statius's chosen ascent, self-forgiveness, and intuition to Free Will when agency is primary; route giving/receiving love to Human Heart; route poetic world-making to Poetry or Stories.
 
 - 2026-05-22: Human Heart and Free Will now share an atlas relation for recognition/noncoercion. Use Human Heart when Jiang's love/forgiveness material asks whether a relation makes a concrete person visible enough for love, shared inquiry, enemy-recognition, or civic renewal. Use Free Will when the pressure is that rescue, redemption, self-reflection, or divine love cannot be forced without destroying the agency that makes salvation or self-forgiveness real.
