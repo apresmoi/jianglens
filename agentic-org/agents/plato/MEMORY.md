@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-22: Human Heart and Free Will now share an atlas relation for recognition/noncoercion. Use Human Heart when Jiang's love/forgiveness material asks whether a relation makes a concrete person visible enough for love, shared inquiry, enemy-recognition, or civic renewal. Use Free Will when the pressure is that rescue, redemption, self-reflection, or divine love cannot be forced without destroying the agency that makes salvation or self-forgiveness real.
+
 - 2026-05-22: Enemy-recognition forgiveness belongs inside Human Heart when Jiang frames Priam/Achilles, or an inversion of that scene, as the heart seeing a father, son, beloved, enemy soul, or shared grief strongly enough that revenge gives way to forgiveness or self-forgiveness. Route poetic inheritance and anti-Homer moral rewrites to Stories/Poetry, agency/nonintervention to Free Will, and imperial training through Virgil to Guide Trap or Legitimacy Fiction when those mechanisms are primary.
 
 - 2026-05-22: Sanctioned-state volatility belongs inside Strategy Material Test when Jiang frames Russia or another anti-imperial strategist linking sanctioned/dissatisfied states into low-cost theaters of pressure that force the policing empire to divide attention, finance allies, defend debt demand, and spend military credibility across Korea, Iran, Europe, Japan, or similar boards. Route monetary conversion/addiction to Power As Alchemy, player incentives to Game Theory, and military host-state machinery to Nation.
