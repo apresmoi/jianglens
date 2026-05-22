@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-22: Enemy-recognition forgiveness belongs inside Human Heart when Jiang frames Priam/Achilles, or an inversion of that scene, as the heart seeing a father, son, beloved, enemy soul, or shared grief strongly enough that revenge gives way to forgiveness or self-forgiveness. Route poetic inheritance and anti-Homer moral rewrites to Stories/Poetry, agency/nonintervention to Free Will, and imperial training through Virgil to Guide Trap or Legitimacy Fiction when those mechanisms are primary.
+
 - 2026-05-22: Sanctioned-state volatility belongs inside Strategy Material Test when Jiang frames Russia or another anti-imperial strategist linking sanctioned/dissatisfied states into low-cost theaters of pressure that force the policing empire to divide attention, finance allies, defend debt demand, and spend military credibility across Korea, Iran, Europe, Japan, or similar boards. Route monetary conversion/addiction to Power As Alchemy, player incentives to Game Theory, and military host-state machinery to Nation.
 
 - 2026-05-22: Love-as-recognition can deepen Human Heart without becoming a standalone page when the active mechanism is relational recognition: private signs, secret language, shared objects, enemy visibility, or anti-love inversions test whether a relation makes the other person more visible and whole. Route non-coercive agency to Free Will, Virgil mediation to Guide Trap, Aeneid imperial training to Stories/Poetry, and broad civilizational flourishing to Human Heart.
