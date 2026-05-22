@@ -1,0 +1,255 @@
+{
+  "packet_id": "interview-lhssc-w0bk4-semantics-pkt-0002",
+  "source_id": "video:interview-lhssc-w0bk4",
+  "source_date": "2025-12-09",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0009",
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0010"
+      ],
+      "kind": "question",
+      "summary": "The host lays out the changed geopolitical environment since their last talk and asks Jiang for his 2026 predictions, his present reading of the global chessboard, and the most likely next flashpoint.",
+      "speaker_attribution": "Canadian Prepper",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0011",
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0012"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Europe remains the decisive theater: the Ukrainian lines are near collapse, NATO may need reinforcement through Poland, and Europe is returning to the same war-zone logic it saw in 1914 and 1939.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0013"
+      ],
+      "kind": "question",
+      "summary": "The host presses on whether NATO will be forced to intervene directly or instead let Ukraine fall.",
+      "speaker_attribution": "Canadian Prepper",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0014",
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0015",
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang responds with a stack of anti-ceasefire reasons: NATO has internalized its own victory narrative, sunk immense cost into the war, fears a hegemonic Russia, depends on wartime corruption and regime survival in Kyiv, and still profits through the military-industrial complex.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0011"
+      ],
+      "note": "This answer contains several ASR-corrupted place and battle terms such as 'Provost' and 'Dolbask,' but the intended point is clear: Jiang thinks the eastern Ukrainian defensive line is breaking and that Europe remains the main theater.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0015"
+      ],
+      "note": "The transcript's 'Assad battalion' is likely an ASR corruption of a Ukrainian militia or battalion name; preserve the regime-instability claim without normalizing the proper noun.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the central 2026 flashpoint is Europe, specifically a Russia-NATO confrontation growing out of the Ukrainian war.",
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0011",
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Forecast for 2026 stated on 2025-12-09.",
+      "topic_tags": ["europe", "russia", "nato", "2026", "ukraine"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts that the Ukrainian front lines may collapse within two months because Ukraine cannot replenish losses and NATO may need to backfill the line with volunteers from Poland.",
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Near-term battlefield forecast stated on 2025-12-09.",
+      "topic_tags": ["ukraine", "poland", "front-lines", "manpower", "nato"],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Germany will likely remilitarize over the next couple of years and that Moldova could also be pulled into the conflict.",
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Short-horizon European forecast stated on 2025-12-09.",
+      "topic_tags": ["germany", "remilitarization", "moldova", "europe"],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang uses 1914 and 1939 as historical analogies and says history teaches that Europe repeatedly becomes the decisive flashpoint for world war.",
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0011",
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Historical model stated on 2025-12-09.",
+      "topic_tags": ["1914", "1939", "europe", "historical-analogy", "world-war"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says NATO and Ukraine cannot simply let the war end because their ruling narrative for four years has been that Russia is near defeat and eventual collapse.",
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Present-tense strategic diagnosis stated on 2025-12-09.",
+      "topic_tags": ["nato", "ukraine", "narrative", "russia", "war"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that NATO is trapped by a sunk-cost logic: trillions have already been spent on the expectation that Russia will be defeated and forced to repay Ukraine and Europe.",
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0014",
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Present-tense strategic diagnosis stated on 2025-12-09.",
+      "topic_tags": ["sunk-cost", "nato", "ukraine", "russia", "war-finance"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He repeats that a Russian takeover of Ukraine would make Russia a global hegemon with major leverage over agricultural supply and European security.",
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Conditional geopolitical diagnosis stated on 2025-12-09.",
+      "topic_tags": ["russia", "ukraine", "hegemony", "food", "europe"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says peace is dangerous for Zelensky and the Kyiv regime because a ceasefire could trigger coups, audits, public revolt, political assassinations, and prison for those benefiting from wartime corruption.",
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Present-tense regime-survival diagnosis stated on 2025-12-09.",
+      "topic_tags": ["zelensky", "kyiv", "regime-instability", "corruption", "ceasefire"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that the American military-industrial complex profits whether Ukraine is winning or losing, so the war structurally tends toward escalation rather than ceasefire.",
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Present-tense structural diagnosis stated on 2025-12-09.",
+      "topic_tags": ["military-industrial-complex", "united-states", "profit", "escalation", "ceasefire"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0011",
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0012"
+      ],
+      "moment": "Jiang frames Europe as history's permanent fuse-box, saying 2026 will repeat the same flashpoint logic seen in 1914 and 1939.",
+      "source_phrase": "Europe will be the major flashpoint in 2026, as it was in 1914 and 1939",
+      "why_it_matters": "It reveals the interview's method: he is not just predicting events but mapping the present back onto recurrent historical war-patterns.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0015"
+      ],
+      "moment": "NATO's Ukraine policy becomes the same gambler image from the cold open: they already lost at the casino, so they stay in the game because they cannot face the shame of stopping.",
+      "source_phrase": "they went to the casino, they lost a million dollars, they can't go home to face the wives",
+      "why_it_matters": "The repetition shows that Jiang treats escalation less as strategy than as an addiction produced by sunk cost and narrative humiliation.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0015"
+      ],
+      "moment": "Peace is not safety for the Kyiv regime; in Jiang's telling, peace is exactly what would expose corruption and get people overthrown or killed.",
+      "source_phrase": "if you're Zelensky, you're most afraid of peace",
+      "why_it_matters": "It flips the ordinary moral frame of ceasefire by presenting wartime survival as politically safer than peace for elites living off the conflict.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0016"
+      ],
+      "moment": "War appears here as a business model: the war cannot end because too many actors still make money from it.",
+      "source_phrase": "war is profitable. It's the most profitable industry in the world",
+      "why_it_matters": "This is Jiang's sharpest structural explanation for why battlefield logic and human interest fail to produce a ceasefire.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "sunk-cost fallacy",
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0014",
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Jiang's explanation for why NATO keeps escalating after spending trillions: prior losses make withdrawal psychologically and politically harder.",
+      "confidence": "high"
+    },
+    {
+      "term": "global hegemon",
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "The status Jiang says Russia would gain if victory in Ukraine gave it decisive leverage over food supply and trade.",
+      "confidence": "medium"
+    },
+    {
+      "term": "military industrial complex",
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Jiang's name for the U.S. profit structure that benefits from the war regardless of battlefield outcome and therefore favors escalation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0009",
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0016"
+      ],
+      "note": "These segments preserve Jiang's dated 2025-12-09 forecast for 2026: Europe stays the primary war theater, and the main anti-ceasefire mechanisms are narrative entrapment, sunk cost, regime survival, and war profit.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0011"
+      ],
+      "note": "Battlefield place names and some military terms in seg-0011 are ASR-corrupted, so the extraction keeps only the recoverable claim that Jiang thinks the eastern Ukrainian defensive line is failing and NATO may need to reinforce indirectly."
+    },
+    {
+      "refs": [
+        "video:interview-lhssc-w0bk4@transcript:v1#seg-0015"
+      ],
+      "note": "The transcript's militia name and a few surrounding words are unstable in seg-0015; the packet preserves the larger regime-instability and wartime-corruption argument without guessing the exact proper noun."
+    }
+  ]
+}
