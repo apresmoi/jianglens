@@ -1,0 +1,236 @@
+{
+  "packet_id": "predictive-history-otyupkhptym-semantics-pkt-0004",
+  "source_id": "video:predictive-history-otyupkhptym",
+  "source_date": "2026-05-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0025"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang restates Purgatory as a discipline that strips away material desire so the soul can recover its relation to the good.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0026",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0028"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Dante's request that Virgil define love and Virgil's answer that love is the soul's movement toward what beauty awakens.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0027"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang condenses the exchange into a stark premise: love is the universe's fundamental force and its direction determines whether action becomes good or bad.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0030"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets love as a confused embodied drive to possess beauty, using Dido's fixation on Aeneas as the example of the soul trying to consume what it finds beautiful.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0031"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The reading complicates the account by rejecting the idea that every love is praiseworthy and by raising the problem of merit if the soul is moved from without.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0026",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0028",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0031"
+      ],
+      "note": "SPEAKER_00 remains the student reader moving through the quoted passage from Purgatorio.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the purpose of Purgatory is to cleanse material wants so the soul can remember its origin and reconnect to the good before entering heaven.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Lecture summary on 2026-05-22.",
+      "topic_tags": ["Purgatory", "material desire", "good", "heaven"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames love as the fundamental force of the universe, with moral difference arising from whether we move toward or away from it.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Lecture definition on 2026-05-22.",
+      "topic_tags": ["love", "good", "evil", "universe"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil's definition, as read in class, says love is the soul's natural propulsion toward what pleases it, just as fire rises toward its proper sphere.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": ["love", "beauty", "soul", "fire"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets the soul as a memory of God trapped in a body, trying to return to the divine but getting confused by beautiful worldly objects.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": ["soul", "God", "body", "beauty"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says confused desire does not merely admire beauty but expands outward to absorb, control, and consume it.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Lecture psychological model on 2026-05-22.",
+      "topic_tags": ["desire", "consumption", "control", "beauty"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses Dido's relation to Aeneas as the paradigm of consuming love: desire mistakes possession for fulfillment and becomes destructive when the object withdraws.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Lecture literary example on 2026-05-22.",
+      "topic_tags": ["Dido", "Aeneas", "consuming love"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted passage rejects the thesis that every love is praiseworthy and raises the problem of how blame or merit are possible if love comes from outside the soul.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": ["merit", "love", "blame", "free will"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil's answer in this packet is incomplete on purpose: he can explain only what reason sees, and the fuller answer belongs to Beatrice and faith.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": ["Virgil", "Beatrice", "faith", "reason"],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0028"
+      ],
+      "moment": "Love is pictured as a firelike motion of the soul, rising toward what seems to belong to its own sphere.",
+      "source_phrase": "just as flames ascend",
+      "why_it_matters": "It provides the packet's core image for desire as motion rather than sentiment.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0030"
+      ],
+      "moment": "Jiang turns desire into a swallowing movement: the soul reaches toward beauty and tries to consume it whole.",
+      "source_phrase": "tries to swallow it whole",
+      "why_it_matters": "This is the packet's sharpest formulation of possessive love and sets up the later free-will problem.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0031"
+      ],
+      "moment": "The text refuses to sanctify love automatically: the wax may be good while the seal impressed into it is not.",
+      "source_phrase": "not each seal is fine, although the wax is",
+      "why_it_matters": "It preserves Dante's distinction between the underlying power of love and its morally distorted forms.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "motion of the spirit",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "Virgil's image for love as the soul's restless movement toward what beauty awakens.",
+      "confidence": "high"
+    },
+    {
+      "term": "memory of God",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "Jiang's phrase for the soul's divine origin, which explains why it longs to return upward even while embodied confusion misdirects it.",
+      "confidence": "high"
+    },
+    {
+      "term": "consuming love",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Jiang's account of desire as an attempt to possess and control beauty rather than give oneself to it.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0027",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0031"
+      ],
+      "note": "This 2026-05-22 lecture stages the free-will problem in sequence: Jiang first defines love as the universe's basic force and consuming movement, then leaves the explicit answer to the next packet via Virgil's deferral to Beatrice.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0030"
+      ],
+      "note": "Jiang says Dido sees Aeneas 'in the Iliad,' which is likely a lecture slip or transcript drift; the packet preserves the possessive-love example without normalizing the classical reference."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0032"
+      ],
+      "note": "seg-0032 is an empty transcript segment carried into the packet by the packetizer and does not contribute semantic content."
+    }
+  ]
+}

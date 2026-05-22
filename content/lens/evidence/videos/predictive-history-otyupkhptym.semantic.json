@@ -1,0 +1,2798 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-otyupkhptym:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-otyupkhptym",
+  "source_id": "video:predictive-history-otyupkhptym",
+  "source_title": "Great Books #11:  Dante's Revolution",
+  "source_url": "https://www.youtube.com/watch?v=otyUpKhpTYM",
+  "source_date": "2026-05-22",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-otyupkhptym@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-otyupkhptym/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-otyupkhptym/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-otyupkhptym/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-otyupkhptym/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-otyupkhptym/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-otyupkhptym/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-otyupkhptym/packet-0007.semantic.json",
+      "content/workflow/proposals/predictive-history-otyupkhptym/packet-0008.semantic.json",
+      "content/workflow/proposals/predictive-history-otyupkhptym/packet-0009.semantic.json",
+      "content/workflow/proposals/predictive-history-otyupkhptym/packet-0010.semantic.json",
+      "content/workflow/proposals/predictive-history-otyupkhptym/packet-0011.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-otyupkhptym/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-otyupkhptym/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 11,
+    "interactions": 41,
+    "speaker_notes": 19,
+    "claims": 82,
+    "signature_moments": 36,
+    "predictions": 1,
+    "models": 36,
+    "glossary_terms": 33,
+    "chronology_notes": 13,
+    "uncertainty_notes": 20
+  },
+  "first_refs": [
+    "video:predictive-history-otyupkhptym@transcript:v1#seg-0001",
+    "video:predictive-history-otyupkhptym@transcript:v1#seg-0002",
+    "video:predictive-history-otyupkhptym@transcript:v1#seg-0003",
+    "video:predictive-history-otyupkhptym@transcript:v1#seg-0004",
+    "video:predictive-history-otyupkhptym@transcript:v1#seg-0005",
+    "video:predictive-history-otyupkhptym@transcript:v1#seg-0006",
+    "video:predictive-history-otyupkhptym@transcript:v1#seg-0007",
+    "video:predictive-history-otyupkhptym@transcript:v1#seg-0008"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0001",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0002",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0003",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames Dante's comedy as the hinge into modernity by presenting it as a response to Virgil-Augustine-Catholic pessimism about human nature.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0005",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He reduces the stakes to a political-anthropological split: pessimism about human nature requires hierarchy and control, while optimism licenses intuition and freedom.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0007",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang maps the visual structure of Purgatory and sets up Virgil guiding Dante until Beatrice takes over, which becomes the lecture's first concrete narrative frame.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0009"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Dante's passage on envy, shared goods, and the paradox that heavenly goods increase when more people possess them together.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0010",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0011"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang pauses the reading and explains envy as a zero-sum misunderstanding that comes from treating reality as material scarcity instead of spiritual multiplication.",
+      "speaker_attribution": "Jiang lecture explanation after student reading",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0012",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0013"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student resumes with Dante's question and Jiang briefly clarifies that the first-person speaker is Dante.",
+      "speaker_attribution": "Student reading plus Jiang clarification",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0014",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0015"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The reading continues through Virgil's answer that heavenly good behaves like reflected light, growing with shared love and mirrored souls.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets the passage through Indra's net: each soul reflects the whole and any act ripples through the universe.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0017"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the Indra's-net explanation by saying moral conduct matters cosmically because each soul carries the fate of the universe in reflective form.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0018",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0020"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Virgil's teaching that all creatures love, but mental love can go wrong by choosing the wrong object or the wrong degree.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0019",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0021"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang glosses the reading by identifying love with the divine spark while reintroducing the soul-body duality that makes embodied desire vulnerable to error and in need of authority.",
+      "speaker_attribution": "Jiang explanation after student reading",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0022"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The reading catalogs ill love as prideful abasement, envious fear of another's superiority, and revenge after injury.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0023",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0024"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang translates Virgil's taxonomy into a pride-and-envy account of sin, then the reading shifts to the purgatorial sorting of distorted, lax, and excessive love.",
+      "speaker_attribution": "Jiang explanation plus student reading",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0025"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang restates Purgatory as a discipline that strips away material desire so the soul can recover its relation to the good.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0026",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0028"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Dante's request that Virgil define love and Virgil's answer that love is the soul's movement toward what beauty awakens.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0027"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang condenses the exchange into a stark premise: love is the universe's fundamental force and its direction determines whether action becomes good or bad.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0030"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets love as a confused embodied drive to possess beauty, using Dido's fixation on Aeneas as the example of the soul trying to consume what it finds beautiful.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0031"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The reading complicates the account by rejecting the idea that every love is praiseworthy and by raising the problem of merit if the soul is moved from without.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0033"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang restates Dante's puzzle: if the soul naturally lunges toward beauty and can confuse beauty with possession, why would God build a moral system that seems to compel evil?",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0034"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Virgil's answer that primal desire is morally neutral, while an inborn countermove sorts and restrains later longings; Beatrice will call that freedom free will.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0036",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0037",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0038"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang translates Virgil's answer into an obedience model: free will is not following emotion but submitting desire to reason, authority, and mission, as Aeneas does against pity and passion.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0039"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student begins a new passage in which Dante and Virgil encounter a shade rushing upward after the mountain has shaken.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang situates the new scene: the earthquake marks a soul finishing purgation and hurrying toward heaven after clearing all seven terraces.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0041",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0044",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0045",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads the exchange with the newly purified shade: Virgil explains why Dante still needs guidance, and the shade explains that the mountain shakes only when a soul becomes inwardly free enough to ascend.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0043",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0046"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang briefly clarifies the scene mechanics: the ascending soul is puzzled that Dante still lingers, and the shaking mountain marks completed cleansing.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extracts the packet's thesis from the scene: will is what drives cleansing, and both hell and purgatory are inhabited by souls who in different ways choose their own condition.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0049",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0050",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0051",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0052"
+      ],
+      "kind": "exchange",
+      "summary": "A student reads the purified soul's explanation that ascent was delayed by a just desire for penance, and Jiang recasts that delay as self-forgiveness and worthy love rather than divine refusal.",
+      "speaker_attribution": "Student reading Dante followed by Jiang interpretation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0053",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0054",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0055"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student continues with the shade's self-identification as Statius, the Roman poet formed by the Aeneid and willing to spend more purgatorial time for the chance to have lived with Virgil.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang situates Statius historically after the destruction of the Second Temple and stresses the extremity of Statius's devotion to Virgil as poetic mother, nurse, and model.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0057",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0058",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0059",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0060"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang names the Statius scene as a paradox: Virgil's heavenly disciple should not exist if the Aeneid's theory of love is false, yet Virgil simultaneously tries to suppress recognition when Statius praises him.",
+      "speaker_attribution": "Jiang interpretation around a quoted scene",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0061",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0062"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student reads Dante's disclosure that the guide is Virgil, followed by Statius's ecstatic attempt to kiss his teacher's feet and Virgil's reminder that both are only shades.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0063",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0064"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets Statius's ecstatic recognition and Virgil's embarrassment as the beginning of a hierarchy reversal in which the master cannot bear the student's transcendence.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0065",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0066",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0067"
+      ],
+      "kind": "exchange",
+      "summary": "A student reads Virgil's affectionate question about Statius's supposed avarice, and Jiang reframes the exchange as Virgil confronting a disciple whose salvation already breaks his own limbo logic.",
+      "speaker_attribution": "Student reading Dante followed by Jiang interpretation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0068",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0070"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student reads Statius's clarification that his real fault was prodigality rather than avarice, that ignorance delayed repentance, and that Virgil's own poetry helped correct him and provoked Virgil's next conversion question.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0069",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0071",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang condenses the issue to Statius finally understanding the universe and then lets the quoted answer reveal Virgil as a lamp that illuminated others while failing to save himself.",
+      "speaker_attribution": "Jiang gloss around quoted Statius response",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0073",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0074",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0075",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0076"
+      ],
+      "kind": "exchange",
+      "summary": "The student completes Statius's Christian confession, Jiang sharpens it into a paradox of secret faith that undercuts Virgil's rulebook, and the quoted scene moves toward the mountaintop and Beatrice.",
+      "speaker_attribution": "Student reading quoted Dante text followed by Jiang interpretation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0077",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0078"
+      ],
+      "kind": "exchange",
+      "summary": "A student reads Beatrice's veiled arrival, and Jiang interprets Dante's trembling as the return of lifelong love and the impulse to share that joy first with Virgil.",
+      "speaker_attribution": "Student reading Dante followed by Jiang interpretation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0079",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "The student reads Dante's turn toward Virgil and sudden loss, and Jiang turns that disappearance into the lecture's next paradox: ecstatic reunion collapses into despondency because Virgil is gone.",
+      "speaker_attribution": "Student reading Dante followed by Jiang interpretation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0081",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0082"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang extends the problem of Virgil's disappearance, then a student reads Beatrice's stern redirection away from mourning Virgil and toward Dante's next trial.",
+      "speaker_attribution": "Jiang interpretation followed by student reading Dante",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0083",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0084"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang offers one interpretive answer: Virgil leaves because the whole purgatorial journey has disproved his Christian exclusivism and exposed Dante's love for Beatrice as the opposite of Virgil's love logic with Dido.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0085"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang concludes that Virgil would rather remain in hell than admit his worldview is wrong, then closes the class by promising to finish the Divine Comedy the following Wednesday.",
+      "speaker_attribution": "Jiang lecture close",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0001"
+      ],
+      "note": "The lecture says 'Virgil's Iliad,' but the intended classical anchor may be imprecise or an in-lecture slip; preserve the statement as source evidence rather than normalize it.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0009"
+      ],
+      "note": "SPEAKER_00 is functioning as a student reader of the assigned passage rather than an independent discussant.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0010"
+      ],
+      "note": "The segment contains substantial ASR corruption in Jiang's explanation, but the surrounding lines make the intended contrast between material scarcity and spiritual sharing recoverable.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0018",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0020",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0022",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0024"
+      ],
+      "note": "SPEAKER_00 continues to function as the student reader of the assigned passage rather than as an independent interlocutor.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0026",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0028",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0031"
+      ],
+      "note": "SPEAKER_00 remains the student reader moving through the quoted passage from Purgatorio.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0034",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0039"
+      ],
+      "note": "SPEAKER_00 continues to function as the student reader of the assigned Dante passage, not as an independent discussant.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0034"
+      ],
+      "note": "The quoted passage has ASR damage, but the recoverable core is clear: primal desire itself is morally neutral, while an inborn faculty curbs and judges later loves under the name of free will.",
+      "suggested_speaker": "Student reader",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0041",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0044",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0045",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047"
+      ],
+      "note": "SPEAKER_00 remains the student reader of the assigned passage from Purgatorio.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0044"
+      ],
+      "note": "The quoted description of the mountain's physics contains ASR corruption, but the recoverable point is stable: this realm is not disturbed by ordinary weather or geology, only by moral-spiritual transition.",
+      "suggested_speaker": "Student reader",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0049",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0051",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0054",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0055"
+      ],
+      "note": "SPEAKER_00 remains the student reader of Dante's passage rather than an independent discussant.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0054"
+      ],
+      "note": "The ASR renders 'Stadius' for Statius and likely muddles some classical names, but the identification of the shade as Statius and his Aeneid devotion is stable from context.",
+      "suggested_speaker": "Student reader",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0058",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0061",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0062"
+      ],
+      "note": "SPEAKER_00 is still the student reading Dante's text rather than entering classroom dialogue.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0063"
+      ],
+      "note": "Jiang briefly corrects his own prior gloss by clarifying that Dante waits for Virgil's permission before revealing his identity to Statius.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0066",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0068",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0070",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0072"
+      ],
+      "note": "SPEAKER_00 remains the student reader voicing Dante's quoted dialogue between Virgil and Statius rather than a classroom participant.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0067",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0074"
+      ],
+      "note": "The ASR muddles several classical names as 'juvenile,' 'status,' and 'Thaddeus'; the stable referents are Juvenal and Statius from context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0073",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0075",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0077",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0079"
+      ],
+      "note": "SPEAKER_00 continues as the student reader performing Dante's text; the quoted voices shift within the poem, not in the classroom.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0074",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0076"
+      ],
+      "note": "Jiang's names for Statius and the Aeneid/Iliad relation are not text-critical here; the stable interpretive point is that Statius is saved by misreading Virgil toward Christianity.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0082"
+      ],
+      "note": "SPEAKER_00 is still the student reader voicing Beatrice's speech and Dante's narration, not an in-room questioner.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0083",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0085"
+      ],
+      "note": "Jiang explicitly frames his account of Virgil's exit as one interpretation among several rather than as a settled doctrinal reading.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang presents Dante's Divine Comedy as the most influential work in European literary history because it gives rise to the Reformation, the Enlightenment, the Renaissance, and modernity itself.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture framing claim on 2026-05-22.",
+      "topic_tags": [
+        "Dante",
+        "modernity",
+        "Europe"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Dante accomplishes this civilizational break by responding to Virgil, whose account of human nature became the basis for Augustine and then the Catholic Church.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture historical model on 2026-05-22.",
+      "topic_tags": [
+        "Dante",
+        "Virgil",
+        "Augustine",
+        "Catholic Church"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "In Jiang's reconstruction of Augustine, original sin is driven by pride: humans cannot bear humility before God and seek to overthrow Him.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "Augustine",
+        "original sin",
+        "pride"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's Virgil-Augustine framework says the soul is a divine spark but the body is dust, so human beings are naturally drawn toward the seven deadly sins.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0002",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture anthropology on 2026-05-22.",
+      "topic_tags": [
+        "human nature",
+        "divine spark",
+        "dust",
+        "sin"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "From that pessimistic anthropology, Jiang says the path to salvation becomes obedience or piety under the Catholic Church, because human intuition cannot be trusted.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture institutional model on 2026-05-22.",
+      "topic_tags": [
+        "obedience",
+        "piety",
+        "Catholic Church",
+        "authority"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang ties this anti-intuition framework to medieval Europe and argues it helped produce the Dark Ages by suppressing innovation, wealth, and intellectual creativity.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture historical diagnosis on 2026-05-22.",
+      "topic_tags": [
+        "Dark Ages",
+        "medieval Europe",
+        "intuition"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang presents Dante's counterclaim as the persistence of the divine spark: love reconnects the individual directly to God and activates imagination without needing the Church as mediator.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Lecture interpretive model on 2026-05-22.",
+      "topic_tags": [
+        "Dante",
+        "love",
+        "imagination",
+        "Church"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that for Dante creativity is not peripheral but the ultimate purpose of the universe, and he links that creativity to love rather than obedience.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0004",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture definition on 2026-05-22.",
+      "topic_tags": [
+        "creativity",
+        "love",
+        "Dante",
+        "universe"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang states the core debate in political terms: if human nature is bad, hierarchy is needed to control behavior; if it is good, individual intuition should be encouraged.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0005",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture model on 2026-05-22.",
+      "topic_tags": [
+        "human nature",
+        "hierarchy",
+        "intuition",
+        "politics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes Purgatory as a seven-terrace cleansing mountain where each removed 'P' strips away a sin until Beatrice can lead Dante upward.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0007",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture exposition on 2026-05-22.",
+      "topic_tags": [
+        "Purgatory",
+        "Beatrice",
+        "seven deadly sins"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Dante passage being read defines envy as a vice that arises when people desire divisible goods that become smaller when shared.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0009",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "envy",
+        "shared goods",
+        "Dante"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang explains envy as ignorance of the universe's real structure, because people mistake reality for a zero-sum material contest instead of a spiritual order where sharing increases good.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0010",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "envy",
+        "material world",
+        "spiritual world",
+        "ignorance"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "For Jiang, Virgil and Dante agree in this section that love, generosity, and forgiveness are self-multiplying goods rather than scarce possessions.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Lecture interpretive claim on 2026-05-22.",
+      "topic_tags": [
+        "Virgil",
+        "Dante",
+        "love",
+        "generosity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil's answer, as read in class, describes heavenly good as infinite and self-donating like light reflecting into polished bodies, with more loving souls producing more shared worth.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "heaven",
+        "light",
+        "love",
+        "reflection"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang translates this into the model of Indra's net: each soul is a pearl that reflects the whole universe, so every act reverberates through all other souls.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture model on 2026-05-22.",
+      "topic_tags": [
+        "Indra's net",
+        "soul",
+        "reflection",
+        "universe"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the soul is a fractal of the universe, which is why smiling, kindness, or anger propagate beyond the individual into cosmic consequence.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture cosmological claim on 2026-05-22.",
+      "topic_tags": [
+        "fractal",
+        "soul",
+        "kindness",
+        "anger"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says moral action matters because each person's heart reflects the whole universe, so sin and goodness propagate beyond the individual.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Lecture cosmological claim on 2026-05-22.",
+      "topic_tags": [
+        "universe",
+        "reflection",
+        "sin",
+        "goodness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The passage being read states that no creature is without love and that error enters when mental love chooses the wrong object or gives the wrong amount of force.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0018",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "love",
+        "mental love",
+        "error"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets love as a reflection of God breathed into creation, so every being has some share of love and the real question is its degree and direction.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "God",
+        "love",
+        "divine spark"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's Virgilian anthropology says the soul is pure love from the divine but the body is dust that strains toward material pleasure, which is why authority and obedience become necessary.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Lecture model on 2026-05-22.",
+      "topic_tags": [
+        "soul",
+        "body",
+        "authority",
+        "obedience"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil's discourse, as read in class, makes love the seed of both virtue and punishable action, and defines ill love through supremacy-seeking humiliation, status envy, and revenge.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "virtue",
+        "ill love",
+        "envy",
+        "revenge"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Virgil treats pride and envy toward other people, not hatred of God or self, as the operative source of sin.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "pride",
+        "envy",
+        "sin"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The reading divides disordered love into multiple purgatorial forms, including lax pursuit of good and profligate attachment to false goods.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "Purgatory",
+        "distorted love",
+        "false goods"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang explicitly says Dante and Virgil still agree at this stage of the lecture on the universe as a reflective moral order shaped by love.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Lecture comparative claim on 2026-05-22.",
+      "topic_tags": [
+        "Dante",
+        "Virgil",
+        "love",
+        "agreement"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the purpose of Purgatory is to cleanse material wants so the soul can remember its origin and reconnect to the good before entering heaven.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Lecture summary on 2026-05-22.",
+      "topic_tags": [
+        "Purgatory",
+        "material desire",
+        "good",
+        "heaven"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames love as the fundamental force of the universe, with moral difference arising from whether we move toward or away from it.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Lecture definition on 2026-05-22.",
+      "topic_tags": [
+        "love",
+        "good",
+        "evil",
+        "universe"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil's definition, as read in class, says love is the soul's natural propulsion toward what pleases it, just as fire rises toward its proper sphere.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "love",
+        "beauty",
+        "soul",
+        "fire"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets the soul as a memory of God trapped in a body, trying to return to the divine but getting confused by beautiful worldly objects.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "soul",
+        "God",
+        "body",
+        "beauty"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says confused desire does not merely admire beauty but expands outward to absorb, control, and consume it.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Lecture psychological model on 2026-05-22.",
+      "topic_tags": [
+        "desire",
+        "consumption",
+        "control",
+        "beauty"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses Dido's relation to Aeneas as the paradigm of consuming love: desire mistakes possession for fulfillment and becomes destructive when the object withdraws.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Lecture literary example on 2026-05-22.",
+      "topic_tags": [
+        "Dido",
+        "Aeneas",
+        "consuming love"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted passage rejects the thesis that every love is praiseworthy and raises the problem of how blame or merit are possible if love comes from outside the soul.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "merit",
+        "love",
+        "blame",
+        "free will"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil's answer in this packet is incomplete on purpose: he can explain only what reason sees, and the fuller answer belongs to Beatrice and faith.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "Virgil",
+        "Beatrice",
+        "faith",
+        "reason"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Dante's free-will problem is that the soul naturally seeks what looks beautiful, so without another mechanism it is hard to explain how anyone can distinguish good from evil rather than merely follow compelled desire.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Lecture formulation on 2026-05-22.",
+      "topic_tags": [
+        "free will",
+        "beauty",
+        "good and evil",
+        "desire"
+      ],
+      "claim_type": "question",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Virgil passage read in class says primal inclinations and first desires are given in human beings like a bee's honey-making urge and therefore deserve neither praise nor blame in themselves.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "primal desire",
+        "praise and blame",
+        "Virgil"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The same passage argues that moral merit rests on an inborn power that counsels at the threshold of assent, gathering and winnowing good and evil longings.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "assent",
+        "merit",
+        "good and evil longings",
+        "free will"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil's answer names free will as the power to curb love even when the source of love is necessary and not self-chosen.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "free will",
+        "necessity",
+        "love",
+        "restraint"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets this Virgilian free will as obedience: reason is the capacity to restrain emotion by submitting to authority rather than trusting intuition.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "obedience",
+        "reason",
+        "authority",
+        "free will"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Aeneid dramatizes this model by forcing Aeneas repeatedly to abandon rage, homeland attachment, erotic desire, and pity in order to obey his mission to found Rome.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0036",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0037",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Lecture literary model on 2026-05-22.",
+      "topic_tags": [
+        "Aeneid",
+        "Aeneas",
+        "mission",
+        "obedience",
+        "Rome"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang, Virgil's core claim is that love does not define the self; reason defined as obedience does, and demonstrating that obedience is what proves free will.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Lecture summary on 2026-05-22.",
+      "topic_tags": [
+        "reason",
+        "obedience",
+        "free will",
+        "love"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang explains the next Purgatorio scene as an ascent checkpoint: when a soul finally clears all seven terraces, the mountain shakes like an earthquake to announce that the soul is about to ascend.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0039",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Lecture exposition on 2026-05-22.",
+      "topic_tags": [
+        "Purgatory",
+        "earthquake",
+        "ascent",
+        "seven terraces"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The newly liberated shade is confused that Dante still needs guidance this high on the mountain, because souls who reach this zone are normally supposed to be moving upward toward heaven as quickly as possible.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0041",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Scene explanation on 2026-05-22.",
+      "topic_tags": [
+        "Purgatory",
+        "guidance",
+        "ascent",
+        "shade"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil's reply in the quoted passage says Dante cannot yet climb alone because his life-thread has not yet run out and his soul still cannot see the way without instruction.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "Virgil",
+        "guidance",
+        "life-thread",
+        "Dante"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The quoted scene defines the upper mountain as a realm not governed by ordinary perturbations; its only true tremor comes when a soul has been cleansed enough to rise.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0044",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "mountain",
+        "tremor",
+        "purity",
+        "ascent"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang glosses the mountain-shake as a visible sign that a soul has completed cleansing and is ready to move upward.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Lecture gloss on 2026-05-22.",
+      "topic_tags": [
+        "earthquake",
+        "cleansing",
+        "ascent"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The passage states that a fully free will is itself the proof of purity and the trigger that changes a soul's dwelling place.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "will",
+        "purity",
+        "freedom",
+        "dwelling place"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets this to mean that if a person truly wills cleansing, ascent remains possible; hell and purgatory are not failures of divine forgiveness but conditions bound up with the soul's own willing.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "will",
+        "hell",
+        "purgatory",
+        "forgiveness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted shade says his soul wanted to ascend earlier, but that motion was opposed by a divinely just desire to continue penance before climbing.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0049",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "penance",
+        "ascent",
+        "will",
+        "divine justice"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets the scene to mean the central obstacle is not God's refusal to forgive but the soul's failure to forgive and cleanse itself enough to be worthy of God.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0050",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "self-forgiveness",
+        "God",
+        "worthiness",
+        "penance"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says this revises Virgil's account of love by making love capable of restraint and judgment, because loving God truly requires first cleansing oneself of doubt, hatred, and sin.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Lecture interpretive correction on 2026-05-22.",
+      "topic_tags": [
+        "love",
+        "restraint",
+        "judgment",
+        "Virgil"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang extends the earlier Indra's-net image by saying the soul must become a perfect pearl before entering heaven, because it will reflect the whole universe there.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Lecture metaphor on 2026-05-22.",
+      "topic_tags": [
+        "pearl",
+        "reflection",
+        "heaven",
+        "self-purification"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The shade identifies himself as Statius, a Roman poet who says the Aeneid was his poetic mother and nurse and that he would trade more time in exile for one year of life with Virgil.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0054",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "Statius",
+        "Aeneid",
+        "Virgil",
+        "poetry"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang dates Statius to the era of Titus, shortly after Jesus's death and after the destruction of the Second Temple, to emphasize how early this Virgilian literary devotion sits inside Christian chronology.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Lecture chronology note on 2026-05-22.",
+      "topic_tags": [
+        "Titus",
+        "Second Temple",
+        "Christian chronology",
+        "Statius"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang stresses that Statius's governing literary aspiration was not merely to admire Virgil but to become Virgil by writing the Aeneid-like poem himself.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Lecture characterization on 2026-05-22.",
+      "topic_tags": [
+        "Statius",
+        "Virgil",
+        "imitation",
+        "Aeneid"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Statius's very presence in purgatory creates a paradox, because Virgil is supposedly in hell for the Aeneid's false theory of love while his student is somehow on the way to heaven.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-05-22.",
+      "topic_tags": [
+        "Statius",
+        "Virgil",
+        "paradox",
+        "love"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted scene shows Virgil silently commanding Dante not to reveal his identity even though Statius is praising him with obvious devotion.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0058",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Quoted scene discussed on 2026-05-22.",
+      "topic_tags": [
+        "Virgil",
+        "Dante",
+        "Statius",
+        "silence"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang stresses that Virgil has already shown respect for Statius as a purified soul, which makes his refusal of recognition more paradoxical rather than less.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Lecture observation on 2026-05-22.",
+      "topic_tags": [
+        "Virgil",
+        "Statius",
+        "respect",
+        "paradox"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted exchange resolves with Dante naming Virgil, Statius attempting bodily reverence, and Virgil reminding him that shades cannot treat one another as solid bodies.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0061",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "recognition",
+        "shades",
+        "Virgil",
+        "Statius"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Statius's attempt to kiss Virgil's feet as proof of ecstatic love while reading Virgil's response as embarrassment and mortification rather than reciprocal joy.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "ecstasy",
+        "embarrassment",
+        "Virgil",
+        "Statius"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang explains Virgil's mortification through an analogy of a teacher discovering that his own student has risen to a higher rank, like becoming a Harvard professor while the teacher remains behind.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Lecture analogy on 2026-05-22.",
+      "topic_tags": [
+        "teacher-student",
+        "status reversal",
+        "Harvard",
+        "Virgil"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The packet's operative paradox is that Statius should be lower than Virgil as a disciple, yet he has transcended Virgil spiritually because he is going to heaven while Virgil remains in limbo.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-05-22.",
+      "topic_tags": [
+        "disciple",
+        "transcendence",
+        "limbo",
+        "heaven"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the quoted exchange, Virgil says love kindled by virtue answers itself in another and then asks how Statius could ever have harbored avarice despite his cultivated wisdom.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "Virgil",
+        "virtue",
+        "love",
+        "avarice",
+        "Statius"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the real scandal for Virgil is not the moral bookkeeping of avarice but that Statius has reached purgatory at all when Virgil thinks anyone without allegiance to Christ should remain in limbo.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-05-22.",
+      "topic_tags": [
+        "limbo",
+        "Christ",
+        "Virgil",
+        "Statius",
+        "salvation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Statius explains that the fifth terrace punished not avarice but prodigality, its opposite, and that opposite faults can be purged together when one sin is countered by its contrary.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0068",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "prodigality",
+        "avarice",
+        "purgatory",
+        "opposites",
+        "repentance"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang compresses Statius's confession into an epistemic problem: the deeper issue was not greed itself but that he needed centuries to understand the universe and his place in it.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "understanding",
+        "universe",
+        "repentance",
+        "Statius"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted reply says ignorance prevents repentance until the end of life for many souls, which is why Statius treats conversion as illumination rather than mere moral compliance.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "ignorance",
+        "repentance",
+        "conversion",
+        "illumination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Statius answers Virgil's conversion question by calling him the lamp behind the traveler: Virgil helped others see what he could not use to save himself, and through Virgil Statius became both poet and Christian.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "lamp behind him",
+        "Virgil",
+        "Christianity",
+        "poetry",
+        "guidance"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted scene says Statius was drawn toward Christianity because Christian preachers sounded like the truths latent in Virgil's words and because their saintly conduct won his loyalty during Domitian's persecution.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Quoted historical explanation discussed on 2026-05-22.",
+      "topic_tags": [
+        "Christian preachers",
+        "Domitian",
+        "conduct",
+        "Virgil",
+        "Statius"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The closing part of Statius's confession says his sympathy for persecuted Christians and their honest practices made every rival sect unattractive to him.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0073"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "Christianity",
+        "conduct",
+        "persecution",
+        "Statius"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Statius is saved not by obeying Virgil's doctrine but by misreading Virgil poetically and trusting his own intuition toward Christianity.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "misreading",
+        "intuition",
+        "Virgil",
+        "Christianity",
+        "Statius"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the quoted scene, Statius says he was secretly baptized, lived outwardly as a pagan for fear, and spent more than four centuries circling purgatory before asking after the classical poets in limbo.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0075"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "secret Christian",
+        "baptism",
+        "fear",
+        "limbo",
+        "classical poets"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the secret-Christian claim as a paradox that suddenly and subtly undermines Virgil's argument, because even hidden allegiance seems enough to puncture his rigid salvation framework.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-05-22.",
+      "topic_tags": [
+        "paradox",
+        "secret Christian",
+        "Virgil",
+        "salvation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted Beatrice passage presents her as a veiled figure crowned and color-coded in a flower cloud whose arrival reactivates Dante's old love at bodily and emotional depth.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0077"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "Beatrice",
+        "old love",
+        "vision",
+        "arrival"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Dante's first instinct at Beatrice's return is not solitary fulfillment but gratitude: he wants Virgil to share the happiness because Virgil carried him through inferno and purgatory.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "gratitude",
+        "Virgil",
+        "Beatrice",
+        "Dante",
+        "happiness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted turn toward Virgil compares Dante to a frightened child running to a mother and then discovers that Virgil has already withdrawn, leaving tears instead of reassurance.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "Virgil",
+        "loss",
+        "child",
+        "tears",
+        "Dante"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets Virgil's disappearance as a severe emotional inversion: Dante's ecstatic rise instantly becomes depression because the teacher is absent at the moment of fulfillment.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-05-22.",
+      "topic_tags": [
+        "ecstasy",
+        "depression",
+        "Virgil",
+        "paradox",
+        "Dante"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Virgil's disappearance is strange on multiple practical grounds: Beatrice owes Virgil a favor, Virgil should want to witness Dante's reunion, and ordinary courtesy would suggest handing Dante over directly.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0081"
+      ],
+      "temporal_scope": "Lecture setup on 2026-05-22.",
+      "topic_tags": [
+        "Virgil",
+        "Beatrice",
+        "courtesy",
+        "favor",
+        "paradox"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted Beatrice passage tells Dante not to spend his tears on Virgil yet because a harsher wound still lies ahead, effectively shifting his attention away from the guide who just vanished.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": [
+        "Beatrice",
+        "Virgil",
+        "tears",
+        "redirection",
+        "Dante"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's proposed interpretation is that Virgil remains in hell because he believes he belongs there under a Christian-only salvation framework, even though Dante's poem has already shown cases like Cato that violate that rule.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "Virgil",
+        "hell",
+        "Christian exclusivism",
+        "Cato",
+        "framework"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Statius's ascent as a secret Christian provides a second contradiction proving Virgil's framework wrong from within purgatory itself.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0084"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "Statius",
+        "secret Christian",
+        "Virgil",
+        "framework",
+        "purgatory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts Dante and Beatrice with Virgil and Dido by saying Dante treats love as giving, sharing, and bestowal, whereas Virgil treats love as receiving, consuming, and controlling.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0084"
+      ],
+      "temporal_scope": "Lecture model on 2026-05-22.",
+      "topic_tags": [
+        "love",
+        "Dante",
+        "Beatrice",
+        "Virgil",
+        "Dido",
+        "giving",
+        "control"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets Virgil's refusal to witness Dante and Beatrice together as refusal to watch a superior form of love disprove his own worldview.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0084",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": [
+        "Virgil",
+        "worldview",
+        "love",
+        "Beatrice",
+        "Dante"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang closes by saying Virgil would rather burn in hell forever than say 'I am wrong,' and then announces that the class will finish the Divine Comedy the following Wednesday.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Lecture conclusion on 2026-05-22, including a forward schedule note for the next Wednesday session.",
+      "topic_tags": [
+        "Virgil",
+        "pride",
+        "hell",
+        "error",
+        "schedule"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0001"
+      ],
+      "moment": "Jiang makes Dante's poem the engine of modernity itself rather than just a medieval masterpiece.",
+      "source_phrase": "basically modernity itself",
+      "why_it_matters": "It sets the lecture's scale immediately: Dante is being used as a civilizational hinge, not a literary ornament.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0004"
+      ],
+      "moment": "The divine spark never went away, so intuition and imagination can still connect a person back to God without church mediation.",
+      "source_phrase": "that divine spark in us, it never went away",
+      "why_it_matters": "This is Jiang's compressed statement of Dante's revolution against the obedience model.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0004",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0005"
+      ],
+      "moment": "Creativity becomes the purpose of both church and universe, which turns religion from discipline into world-making.",
+      "source_phrase": "creativity is the ultimate purpose of the universe",
+      "why_it_matters": "It is the lecture's sharpest value reversal and gives later packets a standard for judging love, intuition, and authority.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0011"
+      ],
+      "moment": "Envy is not just petty feeling but a metaphysical mistake: it comes from misreading the universe as zero-sum.",
+      "source_phrase": "they are ignorant of the nature of the universe",
+      "why_it_matters": "It upgrades a moral vice into Jiang's larger model of material scarcity versus spiritual abundance.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0014"
+      ],
+      "moment": "Heavenly good behaves like light in polished bodies, increasing as more souls mirror one another.",
+      "source_phrase": "as light to polished bodies",
+      "why_it_matters": "This is the packet's central image for non-scarce spiritual value and prepares Jiang's reflection model.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0016"
+      ],
+      "moment": "The soul becomes a pearl in Indra's net, reflecting the whole universe and transmitting every smile or anger outward.",
+      "source_phrase": "we are a pearl in a universe of pearls",
+      "why_it_matters": "It is Jiang's most memorable compression of Dante's spiritual economics into an Eastern cosmological image.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0017"
+      ],
+      "moment": "Jiang radicalizes ethics by placing the fate of the universe inside each human heart.",
+      "source_phrase": "we have the entire fate of the universe in our hearts",
+      "why_it_matters": "It turns morality from local behavior into cosmological responsibility and preserves the heat of his reflective-universe model.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0022"
+      ],
+      "moment": "Love is presented not just as the source of virtue but also as the seedbed of punishable evil when it bends wrongly.",
+      "source_phrase": "love is the seed in you of every virtue and of all acts deserving punishment",
+      "why_it_matters": "This is the lecture's sharpest reversal in the packet: the same fundamental force generates holiness or corruption.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0023"
+      ],
+      "moment": "Sin gets relocated from rebellion against God to competition with other people through pride, envy, and the wish to stand above them.",
+      "source_phrase": "the hate comes from your envy of others",
+      "why_it_matters": "It makes the moral struggle social and status-driven rather than merely theological.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0028"
+      ],
+      "moment": "Love is pictured as a firelike motion of the soul, rising toward what seems to belong to its own sphere.",
+      "source_phrase": "just as flames ascend",
+      "why_it_matters": "It provides the packet's core image for desire as motion rather than sentiment.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0030"
+      ],
+      "moment": "Jiang turns desire into a swallowing movement: the soul reaches toward beauty and tries to consume it whole.",
+      "source_phrase": "tries to swallow it whole",
+      "why_it_matters": "This is the packet's sharpest formulation of possessive love and sets up the later free-will problem.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0031"
+      ],
+      "moment": "The text refuses to sanctify love automatically: the wax may be good while the seal impressed into it is not.",
+      "source_phrase": "not each seal is fine, although the wax is",
+      "why_it_matters": "It preserves Dante's distinction between the underlying power of love and its morally distorted forms.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0033"
+      ],
+      "moment": "Jiang makes the moral problem brutal: why would God create a system where the soul seems naturally compelled toward evil through beauty itself?",
+      "source_phrase": "why would God create a system in which you are naturally compelled to do evil",
+      "why_it_matters": "It sharpens the free-will problem into a direct indictment of the cosmos rather than a minor classroom puzzle.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0034"
+      ],
+      "moment": "Free will appears as a threshold-keeper that winnows desire instead of generating desire from nothing.",
+      "source_phrase": "keeper of the threshold of your assent",
+      "why_it_matters": "This is the packet's most compact image for Virgil's answer to moral responsibility.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0038"
+      ],
+      "moment": "Reason gets stripped down to obedience, even when mercy feels more human than mission.",
+      "source_phrase": "reason as defined by obedience",
+      "why_it_matters": "It is Jiang's hardest compression of Virgil's anthropology and gives later Dante reversals something concrete to overturn.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0045",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047"
+      ],
+      "moment": "The mountain does not quake for geology but for freedom: purified will makes the world shake and opens a new dwelling place.",
+      "source_phrase": "the will alone is proof of purity",
+      "why_it_matters": "It turns external earthquake into a spiritual seismograph and preserves the packet's strongest image for will as destiny-making.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "moment": "Jiang refuses to blame God first: the issue is not divine unforgiveness but what the soul itself still wills.",
+      "source_phrase": "people in inferno, the reason why they're there is they choose to be there",
+      "why_it_matters": "It recasts damnation and purification as participatory conditions rather than merely imposed punishments.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0050"
+      ],
+      "moment": "The obstacle to heaven is not divine unforgiveness but the soul's own refusal to forgive itself.",
+      "source_phrase": "we have not forgiven ourselves",
+      "why_it_matters": "It is Jiang's sharpest reformulation of purgatory and turns penance from punishment into a crisis of self-worthiness.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0052"
+      ],
+      "moment": "Love becomes restraint and judgment because a soul that loves God refuses to bring an unclean self into heaven.",
+      "source_phrase": "love seems to be also restraint and judgment",
+      "why_it_matters": "It directly revises Virgil's theory that love cannot restrain itself and prepares the later collapse of his worldview.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0052"
+      ],
+      "moment": "The soul must become a perfect pearl before it can reflect the universe worthily.",
+      "source_phrase": "I must be a perfect pearl",
+      "why_it_matters": "It condenses Jiang's fusion of purification, self-love, and cosmic reflection into a vivid memorable image.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0054",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0055"
+      ],
+      "moment": "Statius says the Aeneid mothered and nursed him, and he would lengthen exile just to have lived beside Virgil.",
+      "source_phrase": "it was mother to me, it was nurse",
+      "why_it_matters": "It shows the extremity of Statius's devotion and sets up the paradox that Virgil's disciple may surpass him.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0057"
+      ],
+      "moment": "Jiang compresses the scene into an unbearable contradiction: Virgil's son is ascending through a universe that Virgil himself supposedly understood wrongly.",
+      "source_phrase": "how is it possible that a son of his, a student of his, named Stadius, how is he able to ascend to heaven",
+      "why_it_matters": "It turns Statius from a side character into the mechanism that begins dismantling Virgil's worldview from within his own lineage.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0059"
+      ],
+      "moment": "Virgil's strange command is simple and humiliating: do not tell him who I am.",
+      "source_phrase": "shut up, man",
+      "why_it_matters": "Jiang turns a small gesture of silence into the emotional clue that Virgil cannot bear what Statius represents.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0062"
+      ],
+      "moment": "Statius's love is so intense that he forgets both of them are only shadows and tries to honor Virgil bodily anyway.",
+      "source_phrase": "I forget our insubstantiality",
+      "why_it_matters": "It makes Statius's reverence palpable and sharpens the contrast with Virgil's embarrassment.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0064"
+      ],
+      "moment": "Virgil becomes the teacher who cannot bear discovering that the student has gone higher than he ever did.",
+      "source_phrase": "status is able to transcend Virgil",
+      "why_it_matters": "This is Jiang's clearest causal frame for why admiration feels like humiliation to Virgil in this scene.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0067"
+      ],
+      "moment": "Virgil's whole cosmos starts collapsing because the disciple who should have stayed in limbo is already climbing toward heaven.",
+      "source_phrase": "This is destroying Virgil's framework for the universe",
+      "why_it_matters": "Jiang turns a doctrinal puzzle into the decisive crack in Virgil's worldview before the Beatrice climax.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0068",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0070"
+      ],
+      "moment": "Statius is purged on the terrace of avarice because his true fault was the opposite excess of spending too widely.",
+      "source_phrase": "what brought me here was prodigality, its opposite",
+      "why_it_matters": "It gives Jiang a precise moral geometry: Dante's universe diagnoses souls by distorted measure, not by simplistic labels.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0072"
+      ],
+      "moment": "Virgil becomes the man carrying the lamp behind him, lighting the road for followers while remaining unable to use that light for himself.",
+      "source_phrase": "He did as he who goes by night and carries the lamp behind him",
+      "why_it_matters": "This is the packet's unforgettable image for a guide whose poetry saves others while failing to convert its own author.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0074"
+      ],
+      "moment": "Statius is saved by loving Virgil's poetry enough to misread it against Virgil's own worldview.",
+      "source_phrase": "he trusted his own intuition",
+      "why_it_matters": "It converts literary influence into rebellion from within and keeps the lecture's revolution theme alive inside a single disciple.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0076"
+      ],
+      "moment": "The phrase 'secret Christian' becomes a quiet explosive that undermines Virgil without any open doctrinal debate.",
+      "source_phrase": "I was a secret Christian",
+      "why_it_matters": "Jiang uses it to show Dante destabilizing rigid salvation categories through paradox instead of frontal argument.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0079"
+      ],
+      "moment": "Dante turns toward Virgil like a child rushing to a mother, only to find the father-guide already gone.",
+      "source_phrase": "Just as a little child Afraid or in distress Will hurry to his mother",
+      "why_it_matters": "It makes the loss of Virgil visceral and prepares Jiang's claim that the climax hinges on abandonment rather than seamless ascent.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0080"
+      ],
+      "moment": "At the summit of happiness, ecstasy falls straight into depression because the person Dante wants to share it with has vanished.",
+      "source_phrase": "His ecstasy becomes A depression",
+      "why_it_matters": "This is Jiang's emotional compression of the Beatrice threshold and the immediate setup for Virgil's final humiliation.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0082",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0083"
+      ],
+      "moment": "Beatrice's first move is almost brutal: Virgil is gone, do not waste your tears on him, keep moving toward paradise.",
+      "source_phrase": "Forget him He's not important",
+      "why_it_matters": "Jiang reads the paradise threshold as a cutting displacement of the old guide rather than a gentle transition.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0083"
+      ],
+      "moment": "Virgil is in hell because he is the one still insisting that he belongs there.",
+      "source_phrase": "No one put him there He should put himself there",
+      "why_it_matters": "It turns damnation into a self-imposed fidelity to a broken worldview, which is Jiang's hardest reading of Virgil.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0084"
+      ],
+      "moment": "Dante's love gives and keeps giving; Virgil's love takes, consumes, and tries to control.",
+      "source_phrase": "love Is fundamentally about giving Whereas Virgil believes that love Is fundamentally about receiving And conquering",
+      "why_it_matters": "This is Jiang's cleanest compression of the Dante-Virgil revolution the whole lecture has been building toward.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0085"
+      ],
+      "moment": "Virgil would rather burn forever than admit he was wrong.",
+      "source_phrase": "He would rather burn in hell For eternity Than to say I am wrong",
+      "why_it_matters": "It gives the lecture its final psychological thesis about pride, guidance, and why the guide must disappear.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "divine spark",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0002",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "The God-breathed element in the soul that survives embodiment in dust and makes imagination, love, and truthfulness possible.",
+      "confidence": "high"
+    },
+    {
+      "term": "piety",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Jiang's Virgilian name for obedient submission to authority as the path to salvation for sinful creatures.",
+      "confidence": "high"
+    },
+    {
+      "term": "primacy of love",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Dante's counter-principle that reconnects the soul to God directly and displaces ecclesial control.",
+      "confidence": "high"
+    },
+    {
+      "term": "zero-sum game",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0010",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Jiang's shorthand for the material-world illusion that makes sharing look like loss and therefore generates envy.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Indra's net",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "A Hindu-Buddhist image Jiang uses to explain that each soul reflects the whole and spreads its acts throughout the universe.",
+      "confidence": "high"
+    },
+    {
+      "term": "fractal of the universe",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Jiang's phrase for the soul as a miniature reflective structure of the cosmos, making each act cosmically consequential.",
+      "confidence": "high"
+    },
+    {
+      "term": "mental love",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "The mode of love that can err by choosing a bad object or pursuing a good one with too much or too little force.",
+      "confidence": "high"
+    },
+    {
+      "term": "ill love",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Love turned toward wishing a neighbor ill through domination, envy, or revenge.",
+      "confidence": "high"
+    },
+    {
+      "term": "first good",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0020",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "The true good aligned with God and happiness, against which distorted or excessive loves are measured.",
+      "confidence": "medium"
+    },
+    {
+      "term": "motion of the spirit",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "Virgil's image for love as the soul's restless movement toward what beauty awakens.",
+      "confidence": "high"
+    },
+    {
+      "term": "memory of God",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029"
+      ],
+      "definition_or_usage": "Jiang's phrase for the soul's divine origin, which explains why it longs to return upward even while embodied confusion misdirects it.",
+      "confidence": "high"
+    },
+    {
+      "term": "consuming love",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Jiang's account of desire as an attempt to possess and control beauty rather than give oneself to it.",
+      "confidence": "high"
+    },
+    {
+      "term": "keeper of the threshold of assent",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "Virgil's image for the inborn faculty that judges whether desire should be indulged, restrained, or redirected.",
+      "confidence": "high"
+    },
+    {
+      "term": "free will",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0034",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0036",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "In this Virgilian packet, free will is the power to curb desire through reason, which Jiang interprets as obedience to higher authority and mission.",
+      "confidence": "high"
+    },
+    {
+      "term": "mission",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0036",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0037",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "The higher commanded purpose that must override emotion, pity, erotic attachment, and intuitive mercy in Jiang's reading of Aeneas.",
+      "confidence": "high"
+    },
+    {
+      "term": "fully free will",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "The soul's unblocked readiness to ascend, functioning as both the evidence of purity and the effective power that changes its condition.",
+      "confidence": "high"
+    },
+    {
+      "term": "change of dwelling place",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "The transition from one moral-spiritual state to another, triggered when the will becomes free enough to move upward.",
+      "confidence": "high"
+    },
+    {
+      "term": "self-forgiveness",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Jiang's implied name for the soul's willingness to accept cleansing and ascent instead of clinging to its own punitive condition.",
+      "confidence": "medium"
+    },
+    {
+      "term": "self-forgiveness",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0050",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "Jiang's name for the soul's willingness to accept cleansing and become worthy of ascent rather than merely blaming God for delay.",
+      "confidence": "high"
+    },
+    {
+      "term": "perfect pearl",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "Jiang's image for a soul purified enough to reflect the universe and enter heaven without carrying sin, doubt, or hatred upward.",
+      "confidence": "high"
+    },
+    {
+      "term": "Statius",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0054",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "The Roman poet-shade in purgatory whose identity and Virgilian devotion create the next paradox in Jiang's reading of Dante.",
+      "confidence": "high"
+    },
+    {
+      "term": "paradox",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0057",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Jiang's recurring name for scenes where Dante's narrative exposes contradictions inside Virgil's account of love, salvation, and hierarchy.",
+      "confidence": "high"
+    },
+    {
+      "term": "insubstantiality",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0062"
+      ],
+      "definition_or_usage": "The shade-condition Statius forgets in his ecstatic desire to honor Virgil physically.",
+      "confidence": "high"
+    },
+    {
+      "term": "transcend Virgil",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "Jiang's phrase for the student surpassing the master spiritually, with Statius ascending toward heaven while Virgil remains stuck below.",
+      "confidence": "high"
+    },
+    {
+      "term": "prodigality",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0068",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0070"
+      ],
+      "definition_or_usage": "The opposite excess to avarice; Statius says this was his real fault and why he purges on the fifth terrace.",
+      "confidence": "high"
+    },
+    {
+      "term": "lamp behind him",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "Statius's metaphor for Virgil as a guide whose light teaches followers while failing to illuminate the guide's own salvation.",
+      "confidence": "high"
+    },
+    {
+      "term": "limbo",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "Jiang's term here for the domain of honorable non-Christians, the framework Virgil thinks should still contain Statius.",
+      "confidence": "high"
+    },
+    {
+      "term": "secret Christian",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0075",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0076"
+      ],
+      "definition_or_usage": "Jiang's paradox term for Statius's hidden baptism and concealed allegiance, which still destabilizes Virgil's salvation framework.",
+      "confidence": "high"
+    },
+    {
+      "term": "paradox",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0076",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0080"
+      ],
+      "definition_or_usage": "Jiang's recurring category for scenes where Dante exposes contradictions in Virgil's model without simply discarding Virgil's importance.",
+      "confidence": "high"
+    },
+    {
+      "term": "old love",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0077",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0079"
+      ],
+      "definition_or_usage": "The returning force Dante feels before Beatrice, which Jiang links to lifelong fidelity rather than transient romantic possession.",
+      "confidence": "high"
+    },
+    {
+      "term": "Christian-only salvation framework",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0083",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0084"
+      ],
+      "definition_or_usage": "Jiang's nameable structure behind Virgil's self-condemnation: only explicit Christians can enter heaven, a rule Dante's poem keeps undoing.",
+      "confidence": "high"
+    },
+    {
+      "term": "giving love",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0084"
+      ],
+      "definition_or_usage": "Jiang's characterization of Dante's relation to Beatrice as bestowal and fidelity rather than possession.",
+      "confidence": "high"
+    },
+    {
+      "term": "controlling love",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0084"
+      ],
+      "definition_or_usage": "Jiang's characterization of Virgil's relation to love, aligned with taking, consuming, and conquest.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0001",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0004"
+      ],
+      "note": "This 2026-05-22 lecture opens with Jiang's dated high-level framing of Dante as the turn from Virgilian obedience to intuition, love, and creativity; comparisons to other Dante or Christianity lectures should preserve that date.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0010",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0016"
+      ],
+      "note": "This 2026-05-22 lecture explicitly imports Indra's net from Hinduism and Buddhism to interpret Dante's account of shared spiritual good; preserve that dated cross-tradition move if comparing later Dante lectures.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0017",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0023"
+      ],
+      "note": "In this 2026-05-22 lecture, Jiang still marks Dante and Virgil as aligned on love's cosmic importance before later packets pivot into sharper disagreement over obedience, freedom, and the meaning of desire.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0027",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0031"
+      ],
+      "note": "This 2026-05-22 lecture stages the free-will problem in sequence: Jiang first defines love as the universe's basic force and consuming movement, then leaves the explicit answer to the next packet via Virgil's deferral to Beatrice.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0033",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0038"
+      ],
+      "note": "On 2026-05-22 Jiang gives a dated strong-form Virgilian definition of free will as reasoned obedience rather than spontaneous self-expression; later packets on Dante's revolution should be read as replies to this exact framing.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "note": "In this 2026-05-22 lecture, Jiang emphasizes will and self-chosen condition inside Dante's afterlife before the later packets pivot more explicitly toward intuition, love, and Virgil's collapse.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0050",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0052"
+      ],
+      "note": "In this 2026-05-22 lecture, Jiang explicitly reframes purgatory as self-forgiveness and worthy purification rather than divine reluctance; keep that date attached if later sources treat forgiveness differently.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0054",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0056"
+      ],
+      "note": "This packet places Statius historically under Titus and uses that chronology to set up an early Christian-era paradox about Virgil's literary descendants and salvation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0057",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0064"
+      ],
+      "note": "This 2026-05-22 packet turns the Statius encounter into an explicit hierarchy-reversal paradox inside Jiang's Dante lecture; that dated framing matters if later lectures soften or redirect Virgil's humiliation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0067",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0072"
+      ],
+      "note": "In this 2026-05-22 lecture, Jiang dates the decisive break in Virgil's framework to Statius's conversion answer: Virgil's poetry can anticipate Christianity and yet fail to save Virgil himself.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0075",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0076"
+      ],
+      "note": "This 2026-05-22 lecture treats Statius's hidden conversion as a decisive nuance inside Dante's salvation order rather than a side detail; later lens work should preserve that chronology-sensitive interpretive pressure.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0077",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0080"
+      ],
+      "note": "The transition from Beatrice's arrival to Virgil's disappearance is the late-lecture hinge on 2026-05-22: Jiang reads the threshold to paradise through emotional reversal, not simple culmination.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0083",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0085"
+      ],
+      "note": "On 2026-05-22 Jiang explicitly frames Virgil's exit as self-condemnation driven by refusal to surrender a broken worldview; preserve that date if later episodes compare Virgilian guidance, pride, or salvation differently.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0001"
+      ],
+      "note": "The transcript's references to 'Sino-Revolution' and 'Virgil's Iliad' may reflect ASR or lecture-slip issues; the packet preserves them as source evidence without normalization."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0005",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0006"
+      ],
+      "note": "The repeated 'if you think it's bad' phrase appears to be transcript duplication; the extraction treats the surrounding contrast between pessimism/hierarchy and optimism/intuition as the substantive claim."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0010"
+      ],
+      "note": "The middle of Jiang's explanation is heavily corrupted by ASR; the extraction relies on the clear opening and closing statements plus surrounding segments to recover the material-versus-spiritual contrast."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0024"
+      ],
+      "note": "The line about distorted and profligate love contains visible ASR corruption, including the phrase rendered as 'this terrorist'; the extraction keeps only the recoverable distinction between lax, false, and excessive love."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0029",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0030"
+      ],
+      "note": "Jiang says Dido sees Aeneas 'in the Iliad,' which is likely a lecture slip or transcript drift; the packet preserves the possessive-love example without normalizing the classical reference."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0032"
+      ],
+      "note": "seg-0032 is an empty transcript segment carried into the packet by the packetizer and does not contribute semantic content."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0035"
+      ],
+      "note": "seg-0035 is an empty transcript segment carried by the packetizer and does not contribute semantic content."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0036",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0037",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0038"
+      ],
+      "note": "Jiang says 'Inniyat,' 'Innius,' and 'Chernus,' which appear to be lecture-slip or ASR-distorted forms of Aeneid, Aeneas, and Turnus; the packet preserves the argument while not silently normalizing the transcript wording."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0042"
+      ],
+      "note": "seg-0042 is a minimal filler line and adds no semantic content beyond the continuation cue."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "note": "Jiang says 'you can always leave heaven,' but the surrounding logic indicates he means the soul can always leave purgatory and ascend to heaven once the will is ready."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0051"
+      ],
+      "note": "The ASR is damaged around the shade's explanation, but the stable recoverable point is that ascent was delayed by a just will toward penance rather than by external coercion."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0056"
+      ],
+      "note": "Jiang calls Statius 'Stadius' and compresses the historical framing around Titus and the Temple; the packet preserves the lecture's chronology while avoiding stronger historical claims than the source supports."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0058"
+      ],
+      "note": "The quoted lines show emotion escaping the will, which Jiang does not unpack directly here; the packet keeps the focus on the recognition scene rather than over-deriving from that verse."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0064"
+      ],
+      "note": "Jiang's Harvard analogy is illustrative rather than literal evidence about Dante; it is captured as an interpretive model for Virgil's embarrassment."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0067",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0068"
+      ],
+      "note": "ASR name rendering is unstable around Juvenal and Statius, but the logic of Virgil questioning Statius's salvation status is clear from context."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0072"
+      ],
+      "note": "The quoted historical allusions around Virgil's verse, Christianity, and Domitian are preserved at the lecture's interpretive level rather than normalized into stricter historical claims."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0074"
+      ],
+      "note": "Jiang loosely names Virgil's book here while stressing the larger point that Statius drew Christian truth from Virgil poetically rather than doctrinally."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0075"
+      ],
+      "note": "The classical names in Statius's question about the poets are ASR-noisy, but the stable sense is that he asks after revered pagan literary predecessors in limbo."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0083",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0085"
+      ],
+      "note": "Jiang explicitly says this is one interpretation of why Virgil leaves, so the packet preserves the force of the claim without flattening it into an uncontested doctrinal fact."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0082"
+      ],
+      "note": "The 'forget him' phrasing is Jiang's gloss on Beatrice's effect, not a literal stable quotation from the student reading."
+    }
+  ]
+}

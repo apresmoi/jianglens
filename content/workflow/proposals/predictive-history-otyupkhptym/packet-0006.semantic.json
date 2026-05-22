@@ -1,0 +1,198 @@
+{
+  "packet_id": "predictive-history-otyupkhptym-semantics-pkt-0006",
+  "source_id": "video:predictive-history-otyupkhptym",
+  "source_date": "2026-05-22",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0041",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0044",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0045",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads the exchange with the newly purified shade: Virgil explains why Dante still needs guidance, and the shade explains that the mountain shakes only when a soul becomes inwardly free enough to ascend.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0043",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0046"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang briefly clarifies the scene mechanics: the ascending soul is puzzled that Dante still lingers, and the shaking mountain marks completed cleansing.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extracts the packet's thesis from the scene: will is what drives cleansing, and both hell and purgatory are inhabited by souls who in different ways choose their own condition.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0041",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0044",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0045",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047"
+      ],
+      "note": "SPEAKER_00 remains the student reader of the assigned passage from Purgatorio.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0044"
+      ],
+      "note": "The quoted description of the mountain's physics contains ASR corruption, but the recoverable point is stable: this realm is not disturbed by ordinary weather or geology, only by moral-spiritual transition.",
+      "suggested_speaker": "Student reader",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The newly liberated shade is confused that Dante still needs guidance this high on the mountain, because souls who reach this zone are normally supposed to be moving upward toward heaven as quickly as possible.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0041",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Scene explanation on 2026-05-22.",
+      "topic_tags": ["Purgatory", "guidance", "ascent", "shade"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil's reply in the quoted passage says Dante cannot yet climb alone because his life-thread has not yet run out and his soul still cannot see the way without instruction.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": ["Virgil", "guidance", "life-thread", "Dante"],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The quoted scene defines the upper mountain as a realm not governed by ordinary perturbations; its only true tremor comes when a soul has been cleansed enough to rise.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0044",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": ["mountain", "tremor", "purity", "ascent"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang glosses the mountain-shake as a visible sign that a soul has completed cleansing and is ready to move upward.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Lecture gloss on 2026-05-22.",
+      "topic_tags": ["earthquake", "cleansing", "ascent"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The passage states that a fully free will is itself the proof of purity and the trigger that changes a soul's dwelling place.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": ["will", "purity", "freedom", "dwelling place"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets this to mean that if a person truly wills cleansing, ascent remains possible; hell and purgatory are not failures of divine forgiveness but conditions bound up with the soul's own willing.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": ["will", "hell", "purgatory", "forgiveness"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0045",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047"
+      ],
+      "moment": "The mountain does not quake for geology but for freedom: purified will makes the world shake and opens a new dwelling place.",
+      "source_phrase": "the will alone is proof of purity",
+      "why_it_matters": "It turns external earthquake into a spiritual seismograph and preserves the packet's strongest image for will as destiny-making.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "moment": "Jiang refuses to blame God first: the issue is not divine unforgiveness but what the soul itself still wills.",
+      "source_phrase": "people in inferno, the reason why they're there is they choose to be there",
+      "why_it_matters": "It recasts damnation and purification as participatory conditions rather than merely imposed punishments.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "fully free will",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "The soul's unblocked readiness to ascend, functioning as both the evidence of purity and the effective power that changes its condition.",
+      "confidence": "high"
+    },
+    {
+      "term": "change of dwelling place",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "The transition from one moral-spiritual state to another, triggered when the will becomes free enough to move upward.",
+      "confidence": "high"
+    },
+    {
+      "term": "self-forgiveness",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Jiang's implied name for the soul's willingness to accept cleansing and ascent instead of clinging to its own punitive condition.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0047",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "note": "In this 2026-05-22 lecture, Jiang emphasizes will and self-chosen condition inside Dante's afterlife before the later packets pivot more explicitly toward intuition, love, and Virgil's collapse.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0042"
+      ],
+      "note": "seg-0042 is a minimal filler line and adds no semantic content beyond the continuation cue."
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0048"
+      ],
+      "note": "Jiang says 'you can always leave heaven,' but the surrounding logic indicates he means the soul can always leave purgatory and ascend to heaven once the will is ready."
+    }
+  ]
+}

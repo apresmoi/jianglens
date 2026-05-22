@@ -1,0 +1,187 @@
+{
+  "packet_id": "predictive-history-otyupkhptym-semantics-pkt-0002",
+  "source_id": "video:predictive-history-otyupkhptym",
+  "source_date": "2026-05-22",
+  "interactions": [
+    {
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0009"],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Dante's passage on envy, shared goods, and the paradox that heavenly goods increase when more people possess them together.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0010",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0011"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang pauses the reading and explains envy as a zero-sum misunderstanding that comes from treating reality as material scarcity instead of spiritual multiplication.",
+      "speaker_attribution": "Jiang lecture explanation after student reading",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0012",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0013"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student resumes with Dante's question and Jiang briefly clarifies that the first-person speaker is Dante.",
+      "speaker_attribution": "Student reading plus Jiang clarification",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0014",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0015"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The reading continues through Virgil's answer that heavenly good behaves like reflected light, growing with shared love and mirrored souls.",
+      "speaker_attribution": "Student reading quoted Dante text",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0016"],
+      "kind": "monologue",
+      "summary": "Jiang interprets the passage through Indra's net: each soul reflects the whole and any act ripples through the universe.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0009"],
+      "note": "SPEAKER_00 is functioning as a student reader of the assigned passage rather than an independent discussant.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0010"],
+      "note": "The segment contains substantial ASR corruption in Jiang's explanation, but the surrounding lines make the intended contrast between material scarcity and spiritual sharing recoverable.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The Dante passage being read defines envy as a vice that arises when people desire divisible goods that become smaller when shared.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0009",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": ["envy", "shared goods", "Dante"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang explains envy as ignorance of the universe's real structure, because people mistake reality for a zero-sum material contest instead of a spiritual order where sharing increases good.",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0010",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-22.",
+      "topic_tags": ["envy", "material world", "spiritual world", "ignorance"],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "For Jiang, Virgil and Dante agree in this section that love, generosity, and forgiveness are self-multiplying goods rather than scarce possessions.",
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0011"],
+      "temporal_scope": "Lecture interpretive claim on 2026-05-22.",
+      "topic_tags": ["Virgil", "Dante", "love", "generosity"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Virgil's answer, as read in class, describes heavenly good as infinite and self-donating like light reflecting into polished bodies, with more loving souls producing more shared worth.",
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0014"],
+      "temporal_scope": "Quoted text discussed on 2026-05-22.",
+      "topic_tags": ["heaven", "light", "love", "reflection"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang translates this into the model of Indra's net: each soul is a pearl that reflects the whole universe, so every act reverberates through all other souls.",
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0016"],
+      "temporal_scope": "Lecture model on 2026-05-22.",
+      "topic_tags": ["Indra's net", "soul", "reflection", "universe"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the soul is a fractal of the universe, which is why smiling, kindness, or anger propagate beyond the individual into cosmic consequence.",
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0016"],
+      "temporal_scope": "Lecture cosmological claim on 2026-05-22.",
+      "topic_tags": ["fractal", "soul", "kindness", "anger"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0011"],
+      "moment": "Envy is not just petty feeling but a metaphysical mistake: it comes from misreading the universe as zero-sum.",
+      "source_phrase": "they are ignorant of the nature of the universe",
+      "why_it_matters": "It upgrades a moral vice into Jiang's larger model of material scarcity versus spiritual abundance.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0014"],
+      "moment": "Heavenly good behaves like light in polished bodies, increasing as more souls mirror one another.",
+      "source_phrase": "as light to polished bodies",
+      "why_it_matters": "This is the packet's central image for non-scarce spiritual value and prepares Jiang's reflection model.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0016"],
+      "moment": "The soul becomes a pearl in Indra's net, reflecting the whole universe and transmitting every smile or anger outward.",
+      "source_phrase": "we are a pearl in a universe of pearls",
+      "why_it_matters": "It is Jiang's most memorable compression of Dante's spiritual economics into an Eastern cosmological image.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "zero-sum game",
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0010",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Jiang's shorthand for the material-world illusion that makes sharing look like loss and therefore generates envy.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Indra's net",
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0016"],
+      "definition_or_usage": "A Hindu-Buddhist image Jiang uses to explain that each soul reflects the whole and spreads its acts throughout the universe.",
+      "confidence": "high"
+    },
+    {
+      "term": "fractal of the universe",
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0016"],
+      "definition_or_usage": "Jiang's phrase for the soul as a miniature reflective structure of the cosmos, making each act cosmically consequential.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0010",
+        "video:predictive-history-otyupkhptym@transcript:v1#seg-0016"
+      ],
+      "note": "This 2026-05-22 lecture explicitly imports Indra's net from Hinduism and Buddhism to interpret Dante's account of shared spiritual good; preserve that dated cross-tradition move if comparing later Dante lectures.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-otyupkhptym@transcript:v1#seg-0010"],
+      "note": "The middle of Jiang's explanation is heavily corrupted by ASR; the extraction relies on the clear opening and closing statements plus surrounding segments to recover the material-versus-spiritual contrast."
+    }
+  ]
+}
