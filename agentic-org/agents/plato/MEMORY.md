@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-22: Sanctioned-state volatility belongs inside Strategy Material Test when Jiang frames Russia or another anti-imperial strategist linking sanctioned/dissatisfied states into low-cost theaters of pressure that force the policing empire to divide attention, finance allies, defend debt demand, and spend military credibility across Korea, Iran, Europe, Japan, or similar boards. Route monetary conversion/addiction to Power As Alchemy, player incentives to Game Theory, and military host-state machinery to Nation.
+
 - 2026-05-22: Love-as-recognition can deepen Human Heart without becoming a standalone page when the active mechanism is relational recognition: private signs, secret language, shared objects, enemy visibility, or anti-love inversions test whether a relation makes the other person more visible and whole. Route non-coercive agency to Free Will, Virgil mediation to Guide Trap, Aeneid imperial training to Stories/Poetry, and broad civilizational flourishing to Human Heart.
 
 - 2026-05-21: Protestant money-proof belongs inside Power As Alchemy when Jiang frames money as the solution to religious paradox, double-predestination anxiety, God-as-symbol, measurable grace, and money becoming reality itself. Route anxiety that keeps people working to Attention Capture, mass-scale exit/theocracy traps to Mass Society, and religious office/filter discipline to Religion As Administrative Filter.

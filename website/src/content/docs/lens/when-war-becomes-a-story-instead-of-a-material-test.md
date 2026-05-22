@@ -345,6 +345,16 @@ Overextension turns empire against itself when an opponent does not need direct 
 
 This gives the page its diagnostic edge. Do not ask only whether an actor is stronger. Ask whether the actor is being made to spend strength in the wrong shape.
 
+The **2026-05-21** Putin-in-Beijing lecture returns to this overextension mechanism from the sanctioned-state side. Jiang says Putin's strategy after forced-dollar-withdrawal is to find states sanctioned by America, form relationships with them, and [create volatility that destabilizes the global order and the U.S. dollar]{evidence="video:predictive-history-x83hclwvhi8@transcript:v1#seg-0031"}. The coalition is not described as a harmonious replacement civilization. It is a pressure system: Russia, Iran, North Korea, Belarus, and other dissatisfied states do not need to govern the world together; they need to make the American policing role more expensive than the monetary privilege can justify.
+
+North Korea gives the mechanism its cleanest theater. Jiang says the June 2024 Russia-North Korea mutual defense pact matters because Pyongyang can add pressure without matching South Korea's wealth. In his rough war grammar, poor societies can still be dangerous when their soldiers fight to the end and the society retains [energy, openness, and cohesion]{evidence="video:predictive-history-x83hclwvhi8@transcript:v1#seg-0034 video:predictive-history-x83hclwvhi8@transcript:v1#seg-0035"}. The strategic result is not victory in a neat Korean war story. It is friction: artillery near Seoul, Japan pulled into danger, American attention split, and another edge of the dollar-policing system made unstable.
+
+<!-- lens-point id="strategy-sanctioned-states-create-volatility" concept="strategy-material-test" evidence="video:predictive-history-x83hclwvhi8@transcript:v1#seg-0031 video:predictive-history-x83hclwvhi8@transcript:v1#seg-0032 video:predictive-history-x83hclwvhi8@transcript:v1#seg-0034 video:predictive-history-x83hclwvhi8@transcript:v1#seg-0035 video:predictive-history-x83hclwvhi8@transcript:v1#seg-0037 video:predictive-history-x83hclwvhi8@transcript:v1#seg-0041 video:predictive-history-x83hclwvhi8@transcript:v1#seg-0042 video:predictive-history-x83hclwvhi8@transcript:v1#seg-0053 video:predictive-history-x83hclwvhi8@transcript:v1#seg-0065" -->
+<span id="strategy-sanctioned-states-create-volatility" class="lens-point-anchor"></span>
+Sanctioned states become a volatility machine when an anti-imperial strategist links them into low-cost theaters of pressure, making the policing empire divide attention, finance allies, defend debt demand, and spend military credibility across boards it cannot fully absorb.
+
+This belongs inside strategy rather than [Power As Alchemy](/lens/power-as-alchemy/) because the active question is no longer how the dollar becomes lived reality. It is how an enemy tests the enforcement surface of that reality: Korea, Iran, Europe, Japan, Treasury buyers, trade routes, and alliance credibility. It also borders [Game Theory](/lens/game-theory/) because Jiang is naming the players and incentives, but this page owns the material audit of the coalition: which sanctioned actor can generate pressure, what the empire must spend to answer, and where friction becomes too expensive to police.
+
 ## Hollywood War And The Loss Of Reality
 
 The Hollywood-Pentagon lecture is the late-stage image of the same disease. The rescue story is emotionally complete: a pilot is lost behind enemy lines, America proves it values human life, heroic forces move heaven and earth, the military's honor is restored. Jiang does not deny that such stories can move people. He asks whether they have replaced strategy.
@@ -380,6 +390,8 @@ Ask these questions when applying this lens.
 **What does retreat discredit?** If leaving a war would make allies doubt protection, stop buying debt, question bases, or seek a new patron, the war may continue because exit threatens the system that funded it.
 
 **Is the story making the actor spend strength badly?** The enemy's best move may be to make an empire reveal its own exhaustion, debt, inflexibility, and civil discord.
+
+**Which sanctioned actors can create volatility cheaply?** A sanctioned or dissatisfied state does not have to replace the empire. Ask which local danger it can manufacture, which ally or vassal gets pulled in, and whether the hegemon must defend the dollar order, protection story, and military posture at once.
 
 ## Chronology So Far
 
@@ -420,6 +432,8 @@ In **March 2026**, the Redacted Iran-war interview intensifies this into the esc
 In **April 2026**, the World War Trump lecture adds the ceasefire-theater test: public peace signals can matter less than the continuing architecture of blockade, energy disruption, war-economy conversion, defense planning, chokepoints, and dollar-financed supply.
 
 In **April 2026**, the interview cluster around Iran and the petrodollar adds the latest resource-empire formulation: a weakening dollar-finance empire may try to retreat into the Western Hemisphere, convert naval protection into toll extraction, and replace open circulation with continental resources, energy leverage, weapons sales, and chokepoint control.
+
+In **May 2026**, the Putin-in-Beijing lecture adds the sanctioned-state volatility machine: Russia does not need to inherit the world leader role if sanctioned states can make American policing, dollar demand, and allied protection too expensive across several theaters at once.
 
 ## Source Trail
 
@@ -596,6 +610,12 @@ In **April 2026**, the interview cluster around Iran and the petrodollar adds th
   Greater North America becomes the continental-fortress version of the same strategy: shift from financial empire to resource empire through North American safety, oil, minerals, food, shipping routes, and forced energy dependence.
   `video:interview-n44of1y7zgo@transcript:v1#seg-0061`
   `video:interview-n44of1y7zgo@transcript:v1#seg-0064`
+
+- **2026-05-21**, [Putin Does Not Want The Throne](/episodes/predictive-history-x83hclwvhi8/)
+  Sanctioned-state volatility becomes a strategy for breaking dollar demand without replacing the world leader: Russia links sanctioned actors, North Korea creates Korean-peninsula friction, Europe absorbs attrition, and American policing has to spend itself across multiple boards.
+  `video:predictive-history-x83hclwvhi8@transcript:v1#seg-0031`
+  `video:predictive-history-x83hclwvhi8@transcript:v1#seg-0037`
+  `video:predictive-history-x83hclwvhi8@transcript:v1#seg-0041`
 
 ## Related Concepts
 
