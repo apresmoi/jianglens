@@ -1,0 +1,453 @@
+# Jiang Xueqin: The West's Civilizational Collapse
+
+Source: https://www.youtube.com/watch?v=GSSIm9xNRAE
+
+## seg-0001 / 00:00:00-00:01:03 / SPEAKER_01
+
+Welcome back to the program. We are here today with Professor Zhang, who is very renowned, not just for his academic achievement, but also for his very popular channels, and I'll make sure to leave links in the description. Now, you develop models for predicting geopolitical developments, and they're quite fascinating because you're able to include a lot of variables to take account for the complexity. So, yeah, I thought a good place to start would be a topic which many now look towards. I mean, if you go on any social media, everyone is comparing what's happening in the West to the fall of the Roman Empire. But it does beg the question, though, given that you're able to draw on all these different perspectives. What do you see making civilizations rise, decline, as well as collapse? Right.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:03-00:02:11 / SPEAKER_00
+
+So, in my analysis of world history, I see that when civilizations rise, there are three factors at play. The first is energy, this sort of hunger of the people to rise up and to make their place in the world. That's number one, energy. The second is openness. How willing are you to learn from others? How willing are you to reflect on your mistakes and to improve on them? How open are you? That's number two. The third is cohesion. Do you identify as a people to work together, to coordinate together in order to achieve larger goals? You look at all great empires, they all started off as these borderland tribes that because of energy, openness, and cohesion, were able to dominate their part of the world. This includes the Athenians, this includes the Persians, this includes Macedonians, this includes the Romans, this includes the Americans, this includes the British. And today, I would argue that the new empire that's coming out on the world stage is the Pax Judaica, Israel.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0002
+
+## seg-0003 / 00:02:12-00:02:16 / SPEAKER_00
+
+So among the Israelis, we see energy, openness, and cohesion.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0003
+
+## seg-0004 / 00:02:18-00:02:46 / SPEAKER_01
+
+And how do you assess, within this framework, what's happening with the political West, that is, the United States, and Europe, because whatever variable one tends to look at, if it's the politics, the economic, the social cohesion, there seems to be a lot of gloom, and for good reasons, perhaps. So what direction do you see the Western world taking now?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0004
+
+## seg-0005 / 00:02:47-00:03:44 / SPEAKER_00
+
+Yeah, so according to this framework, the Western world, especially the Anglo -American empire, is in rapid decline. So if you look at energy, like, how willing are people to work hard? I mean, the reality is that you have these young people in the West who want to be social media influencers, and they expect to make $600,000 a year being social media influences, and that is completely outrageous. And so, you know, Trump talks a lot about bringing back manufacturing to America, but who's going to work these blue -collar jobs? Who's going to want to just go and work in factories? Who's going to want to work in factories for, like, 40, 50 years? And the answer is, like, not that many young people. The reality is that young people nowadays, they prefer to just watch Netflix. They prefer to just play video games. They prefer to hang out on social media. They really don't want to invest their time and energy in creating a great society.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0005
+
+## seg-0006 / 00:03:45-00:04:43 / SPEAKER_00
+
+So in terms of energy, the West is definitely in decline. Openness, you see a lot of crackdowns on free speech. Especially in universities, you have DEI, and now you have a crackdown on speech that promotes Palestinian rights, that advocates against the Palestinian, what's happening in Palestine, basically. During the COVID lockdown, you had a tremendous clampdown on free speech. So in terms of openness, we see a massive decline in the Western world, and that is, I think, very problematic. And the third factor is cohesion, right? So everyone would agree that the biggest problem in America is political progress. It's the polarization where the left and the right hate each other. Nowadays, they've done polling where if you are a Democrat, you actually refuse to marry a Republican, regardless of attraction, regardless of salary. You're like, you know, if you are on the on the other political divide, I will refuse to engage with you.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0006
+
+## seg-0007 / 00:04:44-00:05:02 / SPEAKER_00
+
+So in terms of cohesion, America is split pretty evenly between left and right. And this is happening throughout the Western world. Especially with the increase in immigration. So unfortunately, all the signs, all the historical signs are pointing towards rapid decline over the next five to 10 years.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0007
+
+## seg-0008 / 00:05:04-00:06:06 / SPEAKER_01
+
+It's an interesting development, the rise of political identities in the United States. Well, also to a large extent, a growing extent also in Europe. The whole idea of the nation state that would be, you know, appeals to some of the, I guess, the instincts in human nature. That we divide ourselves into in -groups versus out -groups and the in -group become quite distinctive, much like we want to reproduce the family. We have an instinct to reproduce the nation. But when the out -group becomes people within your own group, within the nation, and this is how they speak of each other, though, that you said hate. But I think you said hate. Well, they truly see the political opposition, not as simply sharing their future. But. Yeah. Having different paths, but they actually see them as a threat to the ideals and the nation itself. And again, it's both sides using this rhetoric. So it's quite
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0008
+
+## seg-0009 / 00:06:06-00:06:31 / SPEAKER_01
+
+frightening in terms of the ability to stay together in one country, if this is the sentiment one has towards the political opposition. But to what extent are we doomed, though, that is us here living in the Western world? Yeah. Because there's a big difference, I guess, between, well, you can go through periods of rise and decline. But when do we tilt into collapse here?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0009
+
+## seg-0010 / 00:06:32-00:07:36 / SPEAKER_00
+
+Yeah. So that's a great point where social cohesion is a huge problem in the Western world, especially in America. And so the question then is, why is this happening? Why is there so much social polarization, political polarization? And for that, let's look at three theories. Okay. The first is Peter Turchin, and he proposed the idea of elite overproduction. And so he looked at the Roman civil wars, he looked at the French Revolution, he looks at all these times of political tumult, and he identifies elite overproduction as the main factor leading to a civil war. And his reasoning is that the world isn't divided between rich and poor. It's divided between the have a lot and have less. It's divided between the have some but want some more, okay, between the upper nobility and between the lower nobility. The problem is that as society increases in wealth, there's more elite, but there's only a limited positions of power.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0010
+
+## seg-0011 / 00:07:37-00:08:30 / SPEAKER_00
+
+And so these elite compete for each other for these limited positions of power. And you could argue that's exactly what's happening in the United States right now, where you have these Republican oligarchs, as expressed by big tech, you know, Peter Thiel, LMS. There are also these individuals. Okay. There are also these individuals, versus the financial elite, which is represented by the Democratic Party. So you can almost see that the second Trump administration is really a civil war between these different oligarchs in America. So that's the first theory. The second theory that we have is, you know, Thomas Piketty wrote this great book called Capital in the 21st Century. I'm sure you've read, I'm sure that your viewers have read it, but he proposed the idea that over time, capitalism naturally leads to a renter economy, where if you just engage in speculation, you make more money than if you actually engage in productive labor.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0011
+
+## seg-0012 / 00:08:30-00:09:23 / SPEAKER_00
+
+So if you put your money in a stock market, you should see about 5 % any returns. If you go open a restaurant or you start a factory, you should see 2 % any returns. So everyone's gonna put their money in speculative capital. And that leads to the overfinancialization of society. And that leads to basically a financial collapse at some point, because no one's producing any real wealth. And the third theorist is Oswald Spengler, who theorized that all civilizations are organic, and they have organic life cycles, meaning that, you know, you're born, you rise up, you mature, then you die. And this is just a natural life cycle, and there's nothing you can do about it. So, if you look at these three theorists, and you apply their framework to America, America is really in a lot of trouble, and not just America, but the Western world, because how do you deal with elite overproduction?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0012
+
+## seg-0013 / 00:09:23-00:10:19 / SPEAKER_00
+
+Well, the only way you can deal with it is through revolution, civil war, just through cataclysmic social destruction, where most of the elite is eliminated so that there's more sociability in America, okay? So, Peter Turchin tells us we're screwed. Then you look at Thomas Piketty, and you have the monopolization of capital, the consolidation of capital in America, where not only a few companies account for, like, a third of stock market wealth, right? So, you have the magnitude seven, and they account for, like, a third of the value of the standard and poor stock market index. That's very problematic, because as monopolies, they don't have to create value. All they have to do is just maintain their position. And that's why we see these, you know, this artificial intelligence bubble happening in the United States. Which is very perilous and precarious for the American economy, because you're putting all this money into these data centers,
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0013
+
+## seg-0014 / 00:10:19-00:10:45 / SPEAKER_00
+
+producing a product, AI, that has no actual social benefit, and which could threaten to destroy millions of jobs. And then, also, Spengler tells us that people, societies die, just like us people. And maybe for the sake of humanity, that's a very good thing. So, if you look at these three theories, it's very hard to figure out a way out. Of social, the social decline that the Western world is facing right now.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0014
+
+## seg-0015 / 00:10:47-00:11:42 / SPEAKER_01
+
+Yeah, well, Thomas Piketty, he made, well, in the book here, Capital Referred to, he made a point that in, that the United States had a better setup for developing democracy. Because, unlike Europe, where there was a lot of old wealth, they didn't have this concentration of economic power in the United States. Of course, if you forward to the present era, then this is, obviously, the end of the world. Obviously, no longer the case. That was also an argument by Alexis de Tocqueville, by the way. But now, of course, it's a very different world. We have this concentration of wealth, which has its consequence. But to what extent do you see the problems of today, though, being an extension of the global financial crisis? Because, if you remember back in 2008 and 2009, there was a lot of concerns that the U.S.-led economic model had exhausted itself. The U.S. had borrowed too much, spent too much.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0015
+
+## seg-0016 / 00:11:43-00:12:15 / SPEAKER_01
+
+Some of the energy was gone. Too much cheap money, essentially. But the solution became to borrow more and spend more and essentially inflate some asset bubbles. And most people would recognize then that this was merely kicking the can down the road. Is this where we are now? The cheap money being kicked down the road? Because I can't remember in 2009, I think it was about $9 trillion debt. Now they're up to $38 trillion. It's going to be much harder now. And they can't use the same instruments. Or how do you see this issue of cheap money?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0016
+
+## seg-0017 / 00:12:17-00:13:15 / SPEAKER_00
+
+Yeah. So, you know, I think you bring up a good point about the 2008 -2009 Great Financial Crisis, where the Great Financial Crisis really marked a turning point in American history. And you could argue Western history as well. So the 2008 financial crisis was a culmination of very troubling trends ever started ever since the Reagan neoliberal era. So the first trend was the move from manufacturing to manufacturing. And then the second trend was the move from manufacturing to financialization of the economy, where before Reagan, most of the economy was geared towards manufacturing, producing real wealth for export around the world. And with the rise of Reaganomics, then you have a shift towards financialization, where America started to absorb all this easy money from the world and translate it into these risky financial instruments like derivatives and CDOs. So CDOs that caused the 2008 Great Financial Crisis. Okay, that's the first trend. Second trend is the
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0017
+
+## seg-0018 / 00:13:15-00:14:25 / SPEAKER_00
+
+deregulation of the financial industry, the repealing of the Glass -Stengel Act, where retail banking and investment banking were kept separate. And this led to a massive consolidation of the financial industry. And so these banks became too big to fail. So that's the second big trend. The third big trend is basically the elite capture of Washington, D.C. So if you may recall. In the 90s, before Bill Clinton, the Democratic Party was the party of the working class, so they opposed NAFTA, they opposed most favored nation status for China, they opposed immigration. Okay, that was the Democratic Party in the 80s. And looking back, you know, I don't think anyone can remember what the Democratic Party looked like in the 80s. But now the Democratic Party is really the party of the professional man. And so you have the elite capture of Washington, D.C. And so 2008 was a turning point because remember, like Obama ran with the slogan of hope and change.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0018
+
+## seg-0019 / 00:14:25-00:15:22 / SPEAKER_00
+
+And what he promised was basically to reverse all these trends that were creating this parasitic elite in America. And of course, what happened when he first when he got into office was he appointed Larry Summers. And, you know, Larry Summers and his team, the same people who create the great financial crisis in the first place to resolve the issue. And of course, what they did was they allow for quite a lot of easing. They basically bailed out all their friends on Wall Street and they screwed over the American people. You know, most people don't understand this, but, you know, Obama was the first black president, but whole ownership among Afro -Americans declined most rapidly during Obama than than under any other presidency in American history. So more blacks lost. They lost their homes under Obama than under any other president. So Obama just screwed over the working class, especially the minority working class, that was most hopeful for his regime.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0019
+
+## seg-0020 / 00:15:23-00:15:42 / SPEAKER_00
+
+And 2008, 2009 marked a turning point. And basically the Democratic Party has now been co -opted by the financial elite. And this is something that still continues today. So unfortunately, it doesn't seem as though the Democratic Party can reverse this trend.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0020
+
+## seg-0021 / 00:15:43-00:16:44 / SPEAKER_01
+
+Yeah, this wealth transfer from the middle class to the rich, it was quite extraordinary. And one would then expect there would be a revolt against the elites as a result. And, you know, when we speak of populism, which is now very much demonized as a word, it is the people who are then referring to the elites becoming too detached from the public. But this seems like a very natural criticism or a reaction to this kind of wealth transfer. And, well, I'd like to go back to ancient Greece now, because a key concern for people like Plato or Aristotle would be that democracy would devolve into tyranny because the longer any people were free or you had liberty, they would begin to challenge all external authorities. So the son would challenge the father, the student would challenge the teacher. And it seems a lot of our current liberalism feeds into this, though. Right. Reject all authorities.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0021
+
+## seg-0022 / 00:16:44-00:17:34 / SPEAKER_01
+
+But it also eliminates then all hierarchies. But, you know, we have good hierarchies and benign. The good ones are, you know, the father and the son, the teacher and the student, where one wants to bring the other one ideally above oneself. I mean, yeah, that's most fathers who want their sons to do better than them. That's a good hierarchy. But it seems that in society we're losing all of this benign, not all of it, that's maybe exaggeration, but the benign hierarchies are in decline. While we now have the more vicious or extractive, rentier, exploitative hierarchies, they are on the rise. How do you see this development? Because is this then the end or the death of the democracy and rise of tyranny? Or how can we predict how this will play out?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0022
+
+## seg-0023 / 00:17:34-00:18:40 / SPEAKER_00
+
+Right. So let's look at ancient Rome. Okay. So after the Punic Wars, the three Punic Wars. Rome was the undisputed master of the Mediterranean. But it had this war machine that kept on going to start wars overseas. Why? Because the entire Roman economy was based on starting wars. So what would happen is this nobility would start these wars in order to capture slaves to run their estates. Now, when they started these wars, they would conscript these peasants. And because these peasants could no longer work the land, they had to get loans with their land as collateral. And of course, because of bad luck, because they got killed in the war, the family would lose this land. And so what would happen is that the nobility would consolidate all this land. And the peasantry became a renter class. And they were forced to go in the city of Rome to look for work. And this became a very unstable element in Roman society because now you have the rise of populism.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0023
+
+## seg-0024 / 00:18:40-00:19:30 / SPEAKER_00
+
+So the first major reformers were the Gracchi brothers. Tiberius Gracchus. And his reform, and her reform platform was the most innocuous, the most reasonable platform ever in human history. All he said was, hey, guys, so our peasant class, they can't work the land anymore because there's no land for them. But we, the Roman state, have all this public land that's not being used. So let's just give some of this public land to these peasants who want to work hard and grow food for the family. And that's like the most reasonable strategy in the world. The problem is that the nobility treated public land as private land. So even though they weren't actually using this land, they still thought this land was their own personal land. So they took a front to Tiberius Gracchus' proposal. And what they did was, on the streets of Rome, they beat him to death.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0024
+
+## seg-0025 / 00:19:31-00:20:18 / SPEAKER_00
+
+Not only did they beat him to death, but they also beat his brother to death. And these are known as the Gracchi brothers. So, I mean, I understand. Populism sounds bad. But if you look at it like that, it's not that bad. If you look at history, look at how the ancient Greeks treated their peasant class. If you look at how the ancient Romans treated their peasant class, the elite becomes arrogant, become complacent, and they are completely resistant to reform. In fact, if you propose any reform, they will kill you. And this allows for the rise of these adventurers, these demagogues that are able to harness the anger of the people and turn them against the elite. And, of course, in Rome. It was that this allowed for the rise of Julius Caesar. Now, what allowed for the rise of Julius Caesar was something really, really simple.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0025
+
+## seg-0026 / 00:20:18-00:21:17 / SPEAKER_00
+
+He treated people with decency. You know, he went off to Gaul to start off these wars. And rather than take all the plunder for himself, he would actually give it to his soldiers. And that engendered tremendous loyalty among his soldiers. So much so that his army was able to defeat the entire Roman Empire and establish Julius Caesar as the dictator of Rome. Of course, this would eventually lead to his assassination. But then. This would lead to the rise of Octavius Caesar and the establishment of the Roman Empire. So if history teaches something, it's this. The people don't want to rise up. The people don't want to rally behind a demagogue. But the elite often do not give people a choice because the elite are parasitic, they're arrogant, and they're completely indifferent to the plight of the people. And this is something we're seeing throughout the Western world today, where the elite live in their own bubble.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0026
+
+## seg-0027 / 00:21:18-00:22:20 / SPEAKER_00
+
+They don't understand the suffering of the people. Look, the reality is that in America today, most of the people cannot afford an emergency that costs $500. If they get sick and they have to go to the hospital and they have to shove $500, they can't do it. The groceries are going sky, the grocery prices are skyrocketing. They're heavily in debt. I mean, if you're an average American, life is really hard for you and you really don't see any possible exit. Look, 2016, we would live in a different world if in 2016, Bernie Sanders were the Democratic nominee. And honestly, if the Democrats had a fair Democratic primary, like the Republicans did, Bernie Sanders would have been the nominee in 2016 and 2020, and he would have won the presidency. But they insisted on rigging the plan. And that's allowed for the rise of Trump. So Trump would not have been possible. Trump would
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0027
+
+## seg-0028 / 00:22:20-00:22:28 / SPEAKER_00
+
+not be feasible without the fact that the Democrats are a very corrupt and very arrogant and very out of touch party.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0028
+
+## seg-0029 / 00:22:30-00:23:28 / SPEAKER_01
+
+Yeah, well, I tend to look at populism as a mechanism to elite that becomes more the couple. But you make a good point that the populists do not always have good answers. I mean, they have the finger on the pulse of the public. They respond to the attachment. But I wanted to ask about Trump for that one reason, though, because in Europe especially, there's no journalist or politician who can understand why the Americans would have voted for him. To be honest, I would likely have voted for him if he was American, just to throw a wrench into the system because it wasn't sustainable. It was going from bad to worse. That doesn't mean that I think his solutions are very good. I think his tariffs are a mess. They don't work. The idea of always solving all problems with these quick fixes and through strength and now more and more war, I think it's not a great approach.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0029
+
+## seg-0030 / 00:23:28-00:23:50 / SPEAKER_01
+
+But but not understanding his appeal. I think that's that's quite dangerous. But how do you see him going down? If again, he would make a prediction here with Trump. Do you see you see him dissolving democracy or is he able to hold the elites accountable or how do you see his path forward?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0030
+
+## seg-0031 / 00:23:50-00:24:52 / SPEAKER_00
+
+Look, in 2016, the entire world was shocked, bewildered, confused, perplexed, disturbed by the fact that he was able to beat Hillary Clinton, who is a career politician. She was a secretary of state, also the first lady. She has tremendous political experience with a, you know, a team of like thousands of politicians solid behind her. So she would have been a very effective politician and president if she had won. And the Americans didn't want that because, as you say, they were sick of the system as it was. Hillary Clinton would have just been another corrupt politician that looked after her friends and screwed over the American middle class. And so, you know, they did these interviews with these average Americans and they were asked, like, why did you vote for Trump? You know, he was not a reliable, not a not a experienced politician. And their response was because I want to assert my authority, because I want to assert my agency, because I wanted my voice to matter.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0031
+
+## seg-0032 / 00:24:53-00:25:47 / SPEAKER_00
+
+I'm sick of being pissed on by the elite. That's that's the reason why, you know, this Washington elite in Washington, D.C., in San Francisco, in New York City, they don't even know I exist. And now by electing Trump, they know I exist and that my voice matters. And, you know, that's why they voted for him. And then in 2020, the people didn't want the division that Trump caused. So they elected Biden and their lives, their lives got worse and worse. So they're in a situation where, you know, they vote for who they're supposed to vote for. This person just ignores their plight. This person will do nothing to improve their livelihood. Trump, on the other hand, is someone who could throw a wrench in the system. As you point out, this is someone who can disrupt the status quo, and he's doing that right now with Project 2025, right?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0032
+
+## seg-0033 / 00:25:47-00:25:59 / SPEAKER_00
+
+But the people certainly don't want the things to stay as they are, right? So people are voting for change, even though it may lead to chaos in the hope that their life might get a bit better.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0033
+
+## seg-0034 / 00:26:01-00:27:04 / SPEAKER_01
+
+Let's burn down the current house, hoping that something else will come in its place. But, well, I want to shift to, yeah, I guess more specifics, because in here in Europe, we're fighting now, well, I would have called it a proxy war against Russia, but it's becoming increasingly a very direct war. And I thought it was interesting you mentioned Spengler before in the civilizational discourse, because he used to refer to the Russians as more barbaric and primitive, but when he did so, he did it in the context you said, that they were more youthful and he actually saw it as being beneficial to reach out to the Russians to, I guess, regain some of Europe's vitality. And youth. But there's no such sentiment today. It's more, of course, one could say there was a bit demeaning reference to them. But nonetheless, in that framework of civilizations taking the lifespan of a human being, the Russians were seen as being the youthful part.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0034
+
+## seg-0035 / 00:27:04-00:27:35 / SPEAKER_01
+
+But today in the Ukraine war, where do you see this going? Because I'm very perplexed by the mere information which is coming out. It seems so very much divorced from reality. So, for example, in the 1990s, the whole decade, we had the discussions about the dangers of expanding NATO without taking in Russia. Now it's all memory hold. It never happened. So where do you see this war actually going?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0035
+
+## seg-0036 / 00:27:36-00:28:46 / SPEAKER_00
+
+Yeah, so I think for the past year, the war has been over. And if you just look at the front lines, if you look at how the Russians are fighting this war, as opposed to how the Ukrainians are fighting this war, the Russian soldiers are demonstrating energy, openness and cohesion. What I mean by that is that they're constantly learning from their mistakes and adapting to the circumstances. So the Russians have mastered joint warfare for reconnaissance purposes. At first, they were using these large battalion units against the Ukrainians, and they realized that they were targeted and attacked by drones. So now it's like two or three reconnaissance infantry on motorcycles. And that's destroying Ukrainian defenses because the front lines are huge and the Ukrainians are not able to respond to such energy and innovation initiative among the Russian soldiers. And if you talk to these Russian soldiers, if you interview these Russian soldiers on the front lines, they will tell you this is a crusade.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0036
+
+## seg-0037 / 00:28:46-00:29:44 / SPEAKER_00
+
+This is a crusade to save Russian civilization. This is a crusade to save the murderland. This is a crusade to destroy the Antichrist, which they believe is the corruption of Russian civilization. So they're extremely energetic. They're extremely open. They're extremely cohesive. And then you go talk to these Ukrainian soldiers and it's the complete opposite. Now they're dragging these 50 year old men off the streets of Ukraine to fight this war that's completely pointless, hopeless, and lost. The assertion rates among the Ukrainian soldiers are just sky high. Like you're talking about hundreds of thousands of soldiers who are discerning. So this war is completely lost. And the reason why Ukrainians have not made defeat is that it would be political suicide for the regime in Kiev to make defeat, right? Because if Zelensky after promising for the past four years that Russia is just a house of cards, that will collapse because of Russian sanctions the very next day.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0037
+
+## seg-0038 / 00:29:44-00:30:39 / SPEAKER_00
+
+You've been saying this for the past four years. You've won the social media war. I mean, if you just like watch social media, the Ukrainians have been amazing. You can't tell your people the war is lost. You're going to get assassinated. And we got to see what happens if you omit defeat the political revolution in Ukraine. So the Ukrainians are stuck where they are. They have to see this thing to the bitter end. Now, the Europeans are sponsoring the Ukrainians with the expectation that the Ukrainians will win this war. And look, this isn't really well said in the media, but NATO has been in this war ever since the beginning. Yes, it is Ukrainian manpower. It is Ukrainian soldiers on front lines. But it's NATO weaponry, NATO targeting, NATO surveillance, NATO special forces, NATO command and control, NATO financing. It's been everything from NATO.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0038
+
+## seg-0039 / 00:30:39-00:31:20 / SPEAKER_00
+
+So NATO is sort of stuck as well in this war. It's some kind of policy. It's like you go to a gambling house and you've lost a million dollars. You can't leave because how do you tell your wife that you lost a million dollars, right? So you're stuck where you are. So Ukraine's stuck, NATO is stuck. And this war is going to be resolved only by a military solution. I know there's a 20 point deal on the table right now. There's no way that Ukraine can say yes to this. There's no way that NATO can say yes to this. And so I think what's going to happen is the Russians are going to march all the way to Odessa. And once they take Odessa, this war is over. Because Russia will obtain all its strategic objectives. And by that point, NATO would have imploded by then.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0039
+
+## seg-0040 / 00:31:22-00:32:17 / SPEAKER_01
+
+I like the way you used openness as a point of departure, because often in the West, we have to subscribe to the idea that we are open because we're the liberal democracy, where Russia's authoritarian, so it's closed. But it seems one of our main problems in Europe is that exactly that we have become closed in terms of refusing to see reality as it is, that I agree that usually in a war, the invading forces versus defending forces, you will see advantage of the defending ones in terms of morale because they're defending the homeland, they will have greater motivation as opposed to anyone who is just militarily opportunistic. But this has kind of been the assumption in the West that the Ukrainians would fight and the Russians would simply flee because they would realize the moral corruption of the government who was just trying to snatch some new territories. But all of this left NATO out
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0040
+
+## seg-0041 / 00:32:17-00:33:14 / SPEAKER_01
+
+of the equation, though, and if we leave NATO out because we can't say that we're involved, suddenly that undermines our ability to interpret the motivations of the Russians. As you say, they genuinely see this as a war for their own existence. And I would add for very good reason as well. But again, if we have to all conform to this narrative that it's just opportunism, they're just hungry for more territory. This is just the Russian DNA. You know, all our analysis will then be wrong. And I'm wondering if you see the openness as part of the weakness we have, because it's not just one issue, I think a big crisis we have in the West is a crisis of lack of strategy, that is, we can't even interpret threats anymore. Threats entails assessing intentions and capabilities. But when you're obligated to hate your opponent, how can you possibly interpret their intentions and capabilities in an objective manner?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0041
+
+## seg-0042 / 00:33:14-00:33:41 / SPEAKER_01
+
+I mean, in Europe, you can't even discuss the security concern of your opponents. I mean, come to this continent, try to explain what do you think are the security concerns of China, Iran, Russia, you would be crucified. You would have your career destroyed. They come after you. This is it's incredible. How are you going to have sensible policies if you can't actually talk about your opponents in a way that actually humanizes them?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0042
+
+## seg-0043 / 00:33:42-00:34:43 / SPEAKER_00
+
+Look, I went to school at Yale. And this was like the late 90s. And Yale College, America at that point was very open, dynamic society where you were welcome to criticize everyone and everything. And I said to myself, you know what? If a society is so open, there's no way it could ever decline. You know, fast forward to 2016, right? 2016, you had Brexit. You had the election of Donald Trump. And at this point, if you're part of the elite, now's a good time to reflect and appreciate the world. Isn't what you think it is. And to appreciate that there are some serious problems in society that need to be addressed, especially wealth inequality, especially corruption, especially debt among among the poor. And so now's a good time to reset your society. Instead, the elite chose to turtle up and create their own bubble and just ignore all criticisms. And this was this most made worse during COVID.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0043
+
+## seg-0044 / 00:34:43-00:35:44 / SPEAKER_00
+
+And this and this became extremely, extremely insular. The elite became extremely insular after the Russians invaded Ukraine because the Russians invading Ukraine was a paradigm shift for the Western elite because they couldn't imagine like anyone could possibly challenge the empire. Right. I mean, the Russians were this gas station with nuclear weapons and they were poor backward barbarian people that survived on Western generosity. And their elite was extremely corrupt. So how could they dare possibly challenge us? So the Russian invasion was a major shot in the face of the elite. I mean, it sort of popped their bubble. But then like, you know what? We'll just double down. We'll just continue believing our silly beliefs, even though they make no sense. And we'll believe that Ukraine will win this war. And so we've reached a point where, unfortunately, the biggest problem in the Western world is the arrogance, the insularity and the close mindedness of the of the elite and the elite now has absolutely no strategic foresight.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0044
+
+## seg-0045 / 00:35:45-00:36:37 / SPEAKER_00
+
+Not only will they refuse to consider the strategic considerations of Russia, Iran and China, as you say, but they also refuse to admit that they could be at fault for what happened. Right. They actually refuse to accept that no NATO expansionism provoked the Russians into this war. And they have absolutely no plans for moving forward. You ask them like, you know, well, you know, if Ukraine loses this war, what are you going to do? And they're like, they're going to lose this war. OK, well, what's going to happen if America forces you to send troops to Ukraine? Like, well, you know, they have absolutely no idea what to do. So you have this Western elite that has put their has put their heads in the sand. They collectively put their heads in the sand and they're praying the sky doesn't fall on them.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0045
+
+## seg-0046 / 00:36:37-00:36:37 / SPEAKER_00
+
+But the sky is going to fall on them.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0046
+
+## seg-0047 / 00:36:39-00:37:33 / SPEAKER_01
+
+Yeah, no, well, again, this is one of I've never seen anything like this. People talked about propaganda during the invasion of Iraq. I remember that. Well, and this just it pales in comparison. I mean, this media coverage of Russians sending meat waves. And, you know, all of this is easy, easy to disprove. But that's my point. If you had an open society where you could disprove, it will be one thing. But even if you look through the whole history of the conflict that is from the coup, it's very easy to to prove, to come across the evidence that it was a coup, that there was a toppling, that again, within the first 24 hours of the coup, the US and others began to seize control over the intelligence agencies, government, economy of Ukraine to use it as a tool against the Russians. But even when you have the facts which can't be disputed, I noticed we've gone to a different level now.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0047
+
+## seg-0048 / 00:37:33-00:38:30 / SPEAKER_01
+
+Now they say, well, then you're supporting the Russian narrative. So it's no longer if it's true or not, it's just that that story seems to. And give legitimacy to the Russians and it delegitimizes us. So by merely presenting, you know, irrespective of its being correct, it's just the narratives. This is the problem. You should be in the trenches with us. And then you you avoid, you know, just say ABC. This is all we have to do. Even the sanctions. This is something that also perplexed me because since 2014, that was my main research focus. That is Russia diversifying its economy, looking towards the east, making itself a proof to sanctions. So I made the point immediately as the sanctions came, they can never succeed. Russia's prepared for this. But this is you're undermining trust in the sanctions. It's all a socially constructed phenomenon. If we believe the sanctions work, people will support them and then eventually Russia will be exhausted.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0048
+
+## seg-0049 / 00:38:30-00:38:36 / SPEAKER_01
+
+So reality is it's not part of the discussion anymore. It's just a battle of narratives, it seems.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0049
+
+## seg-0050 / 00:38:37-00:39:35 / SPEAKER_00
+
+Look, look, I mean, the reality is that Western elite has no plan moving forward to have seen no imagination. They are not able to reflect and innovate. OK, so, you know, they impose sanctions on Russia in 2020 because they impose sanctions on Russia in 2014. And, you know, Trump comes in office and at this point, everyone knows sanctions are not going to work. In fact, the Russian economy is doing quite well. So what? So, you know, Russia has so many workarounds, workarounds these these against these Western sanctions. And Trump basically said to Putin, you know, if you don't cooperate with me, I'm going to impose sanctions on you. So we've reached a point where the entire Western world lives in their own bubble, far removed from from reality. Another issue that is going to tear Western Europe apart is immigration. So, you know, I mean, yeah, I mean, this war in Russia and Ukraine is not going well, but look, this immigration issue, it's going to tear Western society apart.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0050
+
+## seg-0051 / 00:39:36-00:40:11 / SPEAKER_00
+
+You look at what's happening in France and in the UK. There's race rights going on. And you have to ask yourself how much longer society can stay together now that you have so much immigration, you have so much conflict within these these nation states. So so unfortunately, I think that looking forward, I think that what's going to happen is that the Western world, especially NATO, is going to commit more in Ukraine and this is going to cause civil wars within the societies. And they're unable to see what is bleeding obvious to everyone else.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0051
+
+## seg-0052 / 00:40:14-00:41:01 / SPEAKER_01
+
+Well, if we shift towards another part of the world, because these are indeed turbulent times to a large extent by the exhaustion of the West, but also the rise of new centers of power and China, of course, is one that exudes a lot of energy at the moment. It's well, anyone who goes there can almost feel it in the air. But these are for this reason turbulent, though. I mean, we would this would one would think that a clash between these two countries is going to cause China and the U.S. to come in different forms. And it is in terms of an economic war. But if it's not winning through on the American side, you know, will they go into a military option? Or how how do you see the the U.S.-China rivalry playing out?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0052
+
+## seg-0053 / 00:41:01-00:42:06 / SPEAKER_00
+
+Yeah, so I have a very different take on the U.S.-China rivalry than other analysts. OK, I believe that Russia, Iran are both revisionist powers in that they have been isolated, they've been ostracized by the global economy controlled by the United States and its allies. But China is very much a status quo power in that it has benefited tremendously these past 40 years from globalization, especially trade with the United States. And you could also argue the United States economies and the Chinese economies are codependent, meaning what happens is that China is taking all its excess cheap labor and exploring the United States and in return the United States gives China U.S. dollars. So what's happening is that is that basically China is basically supporting or popping up the U.S. dollar, which everyone knows is a Ponzi scheme. And the United States in return is transferring technology to China and helping China become wealthier
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0053
+
+## seg-0054 / 00:42:06-00:43:05 / SPEAKER_00
+
+and opening and also opening its vast consumer market to Chinese consumer goods and therefore giving Chinese millions and millions of employment opportunities. So I think that China and the United States will eventually achieve a rapprochement. And we're already seeing that because, you know, President Xi and President Trump did meet in South Korea and the meeting went very quarterly. It was not a great meeting, but Trump thought it went really well. And we should expect more meetings in the coming year. And I think that will happen is a rapprochement between China and the United States because they benefit more from working together than they do from fighting together. And these two economies are basically interdependent and they're intertwined. Right. Because, you know, America has been talking for the past 10 years about on -shoring its manufacturing. And it hasn't worked out because the American economy cannot sustain the cost of on -shoring the manufacturing. And all
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0054
+
+## seg-0055 / 00:43:05-00:43:26 / SPEAKER_00
+
+these like these billion dollar projects that have been emphasized, highlighted, have not turned out really well. So China is basically irreplaceable in terms of like providing cheap manufacturing to the United States. So I think the United States and China, the friendship will improve over time.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0055
+
+## seg-0056 / 00:43:28-00:44:28 / SPEAKER_01
+
+Well, it does seem that a lot of the hostility coming towards China from the US is based on the idea that they can't live side by side by a powerful China. In other words, it looks as if it's something that undermines the US hegemon as opposed to undermining the US itself. I don't know, I get the impression that, well, the US can't really restore its former hegemony. That is, the 1990s not coming back. And I think if there was rational discussions, more of it in the US, and actually there are more and more voices suggesting that a settlement could be found with China, because if the US would accept China, it doesn't have to prevent its rise, the US would actually have some benefits to be one among equals in a multipolar system, it could reduce its foreign exposure, could stop bleeding so many resources, can get its economic house in order, stabilize society, economy.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0056
+
+## seg-0057 / 00:44:29-00:45:26 / SPEAKER_01
+
+But of course, states do not always act rational when they're in decline. That's why that's usually where my pessimism come from. But from the rational perspective, one would think that the US, given that the countries store hegemony, that it could stabilize under a multipolar system, that there would be some room there for harmony. But my last question is on, again, the two Eurasian giants. The big thing that no one seemed to predict was that China and Russia would find common ground. Indeed, their economies are quite mutually complementary. Unlike between Europe and Russia, there's no Ukraine in between that can be used as a proxy to decouple. Should we be surprised that if this partnership, I guess, is sustained over time?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0057
+
+## seg-0058 / 00:45:27-00:46:36 / SPEAKER_00
+
+Yeah, I am not that optimistic about the US. Sorry, I'm not optimistic about the Russia -China relationship, because I think there are some geopolitical questions that need to be resolved. So one flashpoint that comes to mind is Kazakhstan. So ever since the 1980s, China has been investing heavily in Kazakhstan, because Kazakhstan is such a pivot point for the Belt and Road Initiative. Everything basically has to pass through Kazakhstan in order to reach the Middle East and to Europe. So China has been spending a lot of resources trying to co -opt the Kazakhstan elite. It's invested heavily in Kazakhstan. And what's happened these past few years is that Kazakhstan has developed a much more pro -Russian attitude. You basically had a change in the guard in Kazakhstan. And so the Kazakhstan government is leaning more towards Russia. So my point is, like, I understand that people see Iran, Russia and China forming this Eurasian bloc that can negate American naval power.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0058
+
+## seg-0059 / 00:46:36-00:47:38 / SPEAKER_00
+
+And if that were to happen, then the Eurasian continent would prosper. But we have to remember, that geography and history are pretty persistent. And Russia, China, Iran have had long histories of conflict, long histories of geographical and geopolitical tension. So I don't know how easily these conflicts can be resolved. So I know that China is very heavily invested in the Belt and Road Initiative. But, you know, Russia has its north -south corridor. Iran has its own trade route program. So the question then is, OK, if these three nations were to come together and work together, who would be the top dog? Whose currency would be the universal currency? And can all these territorial disputes that have been that have been persistent for the past few centuries, can they be resolved through negotiations? So I think there are some serious geopolitical issues that need to be resolved before these nations can work peacefully together.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0059
+
+## seg-0060 / 00:47:37-00:47:38 / SPEAKER_00
+
+
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0060
+
+## seg-0061 / 00:47:40-00:48:34 / SPEAKER_01
+
+Yeah, because, well, what one often hears from China and Russia is that they're not allies, they're more than allies, because an ally would essentially be country A and B cooperating against country C. In other words, the argument is therefore that they're not dependent on collectively balancing the U.S. But this is what I was wondering, do you see, again, the United States, I think everyone recognizes that at least the U.S. attempting to impose its primacy has brought together these countries. But if the U.S. would end its aspirations to restore hegemony and they would no longer require this collective balancing, do you think that a lot of these problems or challenges between the Chinese, Russians, Iranians would then begin to surface more if the U.S. is taken out of the equation?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0061
+
+## seg-0062 / 00:48:35-00:49:36 / SPEAKER_00
+
+OK, so if I worry Chinese geopolitical strategies, I'm not OK, but I'm saying if I work with the government, what I would say is that objectively speaking, it's probably better for China that the U.S. remains in Southeast Asia than if it were to leave. The reason why is let's imagine the U.S. leaves. OK, well, how would Japan respond? How would India respond? How would Russia respond? How would South Korea respond? How would North Korea respond? OK, so there are these different geopolitical actors in my region and I really have problems anticipating how they behave. Japan has been historically very aggressive because they are a naval power without much land resources. People don't appreciate this, but the great naval power in Southeast Asia is not the United States. It's not even China. It is actually Japan. So if we took out air power, the Japanese Navy would be the dominant naval power in Southeast Asia.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0062
+
+## seg-0063 / 00:49:36-00:50:33 / SPEAKER_00
+
+And the reason why is they have to be. Remember, Japan is an isolated island with very little resources. So they need to be able to exert naval hegemony throughout Southeast Asia. Right. So during World War II, they had something called the Greater Japan Co -Prosperity Spirit. So Japan is very much an aggressive maritime power. Then you look at South Korea, which has always had these historical animosities against Japan and against China for being colonized by these two great powers. Look at Vietnam, look at India. So if I'm a geopolitical analyst, I'm like, you know what? I'm happy with the United States. Being where it is, because at least it maintains a status quo. And I'm happy with a status quo because I don't have to deal with Japan, South Korea, Russia and India. So I'm saying this as a geopolitical analyst working in China. I don't I mean, I mean, I'm just saying I prefer things to be much more predictable, much more stable, much more continuous.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0063
+
+## seg-0064 / 00:50:33-00:50:36 / SPEAKER_00
+
+And that means having the United States stay where it is.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0064
+
+## seg-0065 / 00:50:37-00:51:31 / SPEAKER_01
+
+You know, I think that's an excellent point. One should be careful what one wishes for. That is, if the US would leave East Asia, I think there would be a good chance that Japan would cross the threshold of developing, for example, nuclear weapons if they have to maintain their own deterrent. And indeed, one can only look towards Europe. The Trump administration has questioned its interests and priority of maintaining its presence in Europe. And the response, I mean, look at Germany, who used to be a, you know, a peaceful country that had learned from World War Two. Now it's becoming one of the most militaristic. They want to join in on nuclear sharing. And they want to have the biggest army in Europe. I mean, they would like to be on the front of confronting Russia. I mean, this is not even recognizable of the Germany of only four or five years ago. So I do
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0065
+
+## seg-0066 / 00:51:31-00:51:45 / SPEAKER_01
+
+think if the US would pull down from East Asia that the consequences might not be in China's favor either. So I think that's a very valid point to make. Before we go, though, do you have any final thoughts?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0066
+
+## seg-0067 / 00:51:47-00:52:36 / SPEAKER_00
+
+Yeah, so one thing that I'm looking very closely at and I think your viewers might be interested in as well is the rise of Pax Judaica. So what I'm watching is how a lot of nations believe that Pax Judaica may be in their best interest and therefore they're promoting the rise of Pax Judaica. So the United States promoting the rise of Pax Judaica, that's understandable. But if I'm in Russia, Israel would be a very good trading partner because, you know, eventually Russia is going to win this war in Ukraine, it's going to control the Donbass and therefore it's going to be able to control about a third of the world's carbohydrates. Where's my market? My market is in Africa. My market is in the Middle East. And so Israel would be the perfect entry point into these markets. Right. So if I'm in Russia, I think that Pax Judaica works to my benefit. If I'm
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0067
+
+## seg-0068 / 00:52:36-00:53:13 / SPEAKER_00
+
+China, Pax Judaica works to my benefit as well, because Pax Judaica means that Israel would take control over Syria, Iraq, Egypt, possibly Libya, and as such, Israel would need a lot of infrastructure spending. It would need a lot of infrastructure projects. It would also need to spend a lot of money on data centers, on artificial intelligence and create this massive surveillance state to watch over the greater Israel project of Pax Judaica. So I think like the big surprise over the next five to ten years is the rise of Pax Judaica, and that's something I'm watching very closely right now.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0068
+
+## seg-0069 / 00:53:15-00:54:09 / SPEAKER_01
+
+But wouldn't the counter argument be, though, that Israel has begun to exhaust itself in terms of overextending its military? The economy has all been harmed by a lot of the young people leaving. It's, you know, it's fueling a big political crisis now. And, you know, it seems that at the heart of it, there's also a deeper problem. That is the entire ethos of what Israel should represent is being questioned, if not undermined. Of course, you can also add then the neighbors becoming the leadership across the Arab states and even Turkey can have now more challenges in terms of explaining why they're not taking a more hostile approach to Israel, given that also the US is in relative decline and other as its main protector, usually one hears the opposite argument, though, that Israel is finished. Essentially. Right.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0069
+
+## seg-0070 / 00:54:09-00:54:56 / SPEAKER_00
+
+How would you respond to that? So I think the nation of Israel and Pax Judaica are not the same thing. The nation of Israel is very much a Zionist project. I think Pax Judaica would be a project of transnational capital or finance. So let's just say I have a billion dollars and I need to go invest it somewhere. I don't invest in the United States because the United States is $38 trillion in debt. It is divided and it seems to be on the very brink of civil war. So it's kind of silly for me to put a billion dollars in the United States. So where do I put this money? Well, the only place where I can put this money and see it grow over time is Israel. And the reason why is the entire Middle East. You look at Libya, you look at Iraq, Syria, it's destroyed, but that that offers the opportunity for growth.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0070
+
+## seg-0071 / 00:54:56-00:55:29 / SPEAKER_00
+
+Right. So if I'm capital, I'm only interested in growth in return on investment. So I think like it's every wealthy person, things like that. I think. If I build dollars in the bank, I had to put my money somewhere. I would put it in Israel. And not only that, but I would do my hardest. I would work very hard to ensure that Israel wins out. And as you say, maybe there's something that the Israelis themselves don't want. But often history is decided by those with power as opposed to the people themselves.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0071
+
+## seg-0072 / 00:55:31-00:55:39 / SPEAKER_01
+
+That's a very interesting perspective. I hadn't looked at it from that angle. So before you go, where can people find you? And follow your work?
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0072
+
+## seg-0073 / 00:55:39-00:56:19 / SPEAKER_00
+
+Yeah, so I have a YouTube channel, Predictive History, where I upload my lectures on history. So I'm basically just trying to analyze what happened before and try to figure out what it means for the present. OK, so I've done a lot of analysis, analysis of Middle Eastern history. And I believe that Pax Judica is the future. I think that issue will become a dominant power in the Middle East. So if you want to understand my reasoning, my analysis, definitely check out my YouTube channel where I go into the history of the Middle East. I also have a sub stack. Also called Predictive History, where you can subscribe. Most of our articles are free. So if you're interested in my political analysis, I would highly recommend it.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0073
+
+## seg-0074 / 00:56:20-00:56:24 / SPEAKER_01
+
+Thank you. Yeah, we should have devoted more time to the Middle East, but maybe next time. So thank you so much.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0074
+
+## seg-0075 / 00:56:25-00:56:26 / SPEAKER_00
+
+OK, bye.
+
+Ref: video:interview-gssim9xnrae@transcript:v1#seg-0075
