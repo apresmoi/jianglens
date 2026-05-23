@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-23: The 2024-06-13 "correct the past to predict the future" mark now legitimately links both to Living School and to the Truth/Prediction atlas relation. Living School owns the institutional practice of corrigible model training; the atlas relation owns the broader epistemic rule that prediction tests truth only when the register is named and past-present-future coherence remains revisable.
+
 - 2026-05-23: Psychohistory model-correction belongs inside Living School when Jiang frames prediction as a long school/institutional practice that must test forecasts over time, revise failed analysis, reconstruct the past with better causal questions, and train historians/programmers/readers to keep the model corrigible. Route broad past-present-future truth tests to the Truth/Prediction atlas relation, player incentives to Game Theory, and edge-case actors to Living School only when they require trained correctors.
 
 - 2026-05-22: Purgatory self-forgiveness belongs inside Free Will when Jiang frames God as already forgiving but says the soul must will cleansing, judge its distortions, forgive itself, and become ready for ascent. Route Statius as lamp/teacher-surpassing-disciple to Guide Trap, relational recognition and shared forgiveness to Human Heart, and love-as-giving boundaries by active mechanism.
