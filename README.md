@@ -7,33 +7,21 @@
 
 ![Jiang Lens social card](website/public/social-card.png)
 
-Jiang Lens is an independent research and reading project built from Jiang Xueqin's lectures, interviews, and writing.
+An agentic research organization built around a dense, contested interpretive corpus.
 
-The goal is to compress a growing corpus into a public map of Jiang's world model: the recurring concepts, metaphors, historical patterns, and social diagnostics he uses to interpret reality. Episodes preserve individual sources in readable form. Lens pages connect those sources into larger concepts that can be followed, questioned, and reused.
+Jiang Lens is an experiment in running a research organization as an agentic system. A team of autonomous workers ingests sources, produces source-linked readings, validates claims against the corpus, and maintains a public site, coordinated through Spawnfile and Moltnet and observable in a live room.
 
-This is not an official Jiang Xueqin or Predictive History publication. It is also an experiment in agentic research: the repo is being shaped so autonomous agents can ingest sources, produce episode readings, record provenance, update the corpus, and gradually help maintain the lens with little human intervention.
+The working corpus is built from Jiang Xueqin's lectures, interviews, and writing. The goal is to compress that growing corpus into a public map of Jiang's world model: the recurring concepts, metaphors, historical patterns, and social diagnostics he uses to interpret reality. Episodes preserve individual sources in readable form. Lens pages connect those sources into larger concepts that can be followed, questioned, and reused by humans and agents.
 
-## What A Research Lens Is
+The corpus was chosen because it is interpretively dense, claim-heavy, and contested. Those properties stress-test source-grounded ingestion, provenance, and claim-evidence linking in ways a cleaner corpus would not. The agents have to keep the separation between source and interpretation tight, or the system visibly breaks.
 
-A research lens is a reusable interpretive model. It is not just a summary of what someone said. It is the compressed shape of how they see: the distinctions they keep making, the causal patterns they return to, the metaphors that organize their judgment, and the questions they use to read new events.
+The corpus also acts as a verifier. Cheaper passes compare new work to strong existing episode reads, lens pages, topic aliases, source refs, and Jiang signature phrases. Stronger agents spend attention where the comparison finds missing nuance, contradiction, or real pressure to mutate the public lens.
 
-Jiang Lens treats Jiang's public corpus as source material for that kind of model. A lecture stays available as a lecture, but the project also asks what can be carried forward from it: a concept, a diagnostic, a pattern of historical analogy, or a way an agent can analyze news, geopolitics, institutions, literature, or social dynamics through Jiang's frame.
-
-Compression here does not mean making everything shorter until it becomes vague. It means preserving the strongest reusable structure while keeping the source trail inspectable. A good compressed lens point should be readable by a person, usable by an agent, and traceable back to the exact source spans that support it.
-
-## What The Site Should Become
-
-The public site should make the corpus easy to read without hiding where ideas came from.
-
-- **Episodes** turn one lecture, interview, or text into a compact source-linked reading, with video, timestamps, source trails, and transcript access.
-- **Lens pages** collect ideas that recur across sources: how stories control reality, how guides become traps, how poetry forms civilization, how eschatology shapes politics, and other parts of Jiang's interpretive map.
-- **Agent artifacts** such as `skill.md`, `llms.txt`, and structured JSON let other assistants use the lens while preserving links back to the source material.
-
-The standard is not a transcript dump and not a shallow summary. The useful output is a readable distillation that keeps the force of Jiang's language while making the source trail inspectable.
+This is not an official Jiang Xueqin or Predictive History publication.
 
 ## The Agentic Organization
 
-Jiang Lens is also a practical test of whether a research system can be run as an agentic organization rather than as a manual content workflow.
+The repo is shaped so autonomous agents can ingest sources, produce episode readings, record provenance, update the corpus, and gradually maintain the lens with little human intervention.
 
 - **Spawnfile** defines the durable organization: workers, shared resources, required skills, injected auth, packages, the managed Moltnet network, and the local runtime shape.
 - **Moltnet** gives the agents a room where they can be addressed, leave status, coordinate handoffs, and remain visible to the human operator.
@@ -53,11 +41,23 @@ The current durable agents are:
 
 The symbolic names are human-facing identities; the stable ids keep runtime state, branches, and automation predictable.
 
-The corpus is also used as a verifier. Cheaper passes can compare new work to
-strong existing episode reads, lens pages, topic aliases, source refs, and Jiang
-signature phrases. Stronger agents then spend their attention where the
-comparison finds missing nuance, contradiction, or a real pressure to mutate the
-public lens.
+## What A Research Lens Is
+
+A research lens is a reusable interpretive model. It is not just a summary of what someone said. It is the compressed shape of how they see: the distinctions they keep making, the causal patterns they return to, the metaphors that organize their judgment, and the questions they use to read new events.
+
+Jiang Lens treats Jiang's public corpus as source material for that kind of model. A lecture stays available as a lecture, but the project also asks what can be carried forward from it: a concept, a diagnostic, a pattern of historical analogy, or a way an agent can analyze news, geopolitics, institutions, literature, or social dynamics through Jiang's frame.
+
+Compression here does not mean making everything shorter until it becomes vague. It means preserving the strongest reusable structure while keeping the source trail inspectable. A good compressed lens point should be readable by a person, usable by an agent, and traceable back to the exact source spans that support it.
+
+## What The Site Should Become
+
+The public site should make the corpus easy to read without hiding where ideas came from.
+
+- **Episodes** turn one lecture, interview, or text into a compact source-linked reading, with video, timestamps, source trails, and transcript access.
+- **Lens pages** collect ideas that recur across sources: how stories control reality, how guides become traps, how poetry forms civilization, how eschatology shapes politics, and other parts of Jiang's interpretive map.
+- **Agent artifacts** such as `skill.md`, `llms.txt`, and structured JSON let other assistants use the lens while preserving links back to the source material.
+
+The standard is not a transcript dump and not a shallow summary. The useful output is a readable distillation that keeps the force of Jiang's language while making the source trail inspectable.
 
 ## The Human Part
 
