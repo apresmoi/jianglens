@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-23: Capital migration to enforcement belongs inside Power As Alchemy when Jiang frames transnational capital choosing where money feels safest after a reserve center becomes a debt-ridden Ponzi world, and another platform offers better enforcement, return, and investor reality. Route Levant tolls, proxy wars, Gaza real estate, and material executability to Strategy; blackmail/trust machinery to Secret Society; deeper IT/data pipes to Platform Infrastructure.
+
 - 2026-05-23: Population-war AI surveillance belongs inside Mass Society when Jiang frames twenty-first-century war as turning civilians against the state, making defense a problem of population management, unrest control, and AI surveillance. Route the national-body target surface to Nation, military/infrastructure executability to Strategy, end-times endurance/martyrdom response to Eschatology, platform ownership to Platform Infrastructure, and inner AI dependence to Attention.
 
 - 2026-05-23: AI assistance-dependence is an Attention Capture boundary only when Jiang frames the apparatus as an inward guide, desire-reader, reassurance system, focus director, or dependency that changes what the person attends to or trusts. Keep AI data hunger, chips, digital ID, digital currency, child tracking, and forced matrix/body interfaces in Mass Society unless the active mechanism is consciousness/focus capture.
