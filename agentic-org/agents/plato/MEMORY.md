@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-23: Psychohistory model-correction belongs inside Living School when Jiang frames prediction as a long school/institutional practice that must test forecasts over time, revise failed analysis, reconstruct the past with better causal questions, and train historians/programmers/readers to keep the model corrigible. Route broad past-present-future truth tests to the Truth/Prediction atlas relation, player incentives to Game Theory, and edge-case actors to Living School only when they require trained correctors.
+
 - 2026-05-22: Purgatory self-forgiveness belongs inside Free Will when Jiang frames God as already forgiving but says the soul must will cleansing, judge its distortions, forgive itself, and become ready for ascent. Route Statius as lamp/teacher-surpassing-disciple to Guide Trap, relational recognition and shared forgiveness to Human Heart, and love-as-giving boundaries by active mechanism.
 
 - 2026-05-22: Statius as lamp-behind-him belongs inside Guide Trap when Jiang frames Virgil's poetry as real light that makes a disciple a poet/Christian while Virgil himself cannot enter or admit the truth his light made visible. Route Statius's chosen ascent, self-forgiveness, and intuition to Free Will when agency is primary; route giving/receiving love to Human Heart; route poetic world-making to Poetry or Stories.
