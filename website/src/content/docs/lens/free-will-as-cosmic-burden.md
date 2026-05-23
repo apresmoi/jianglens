@@ -77,6 +77,14 @@ That is the burden hidden inside love. Perfect love does not produce perfect man
 <span id="free-will-love-refuses-contract" class="lens-point-anchor"></span>
 Love refuses contract in Jiang's free-will model: God cannot make heaven a reward for obedience, bargain away grace, or intervene so completely that the beloved becomes an object managed from outside.
 
+The Dante sequence adds a second danger: love can be real and still become crooked when it tries to swallow what it loves. In the **2025-01-14** lecture, Virgil's ethics gives the initial answer. Desire may arrive like flame, but the person can still [judge, resist, and curb it]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0029"}. This is not yet Dante's full answer about Beatrice, but it is a free-will hinge: the soul is not innocent merely because longing feels natural.
+
+The **2026-05-22** Purgatorio lecture makes the hinge explicit. Jiang reads Virgil's line as the rule that [the power to curb love remains one's own and is what Beatrice means by free will]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0034 video:predictive-history-otyupkhptym@transcript:v1#seg-0036"}. The point is ambivalent. In Virgil's world, curbing love becomes obedience to mission and authority. In Dante's later correction, love itself can learn restraint, judgment, and self-cleansing. Free will owns the agency problem across both forms: the person must answer for what love becomes after it enters the body.
+
+<!-- lens-point id="free-will-curbs-love-without-excuse" concept="free-will-burden" evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0029 video:predictive-history-otyupkhptym@transcript:v1#seg-0034 video:predictive-history-otyupkhptym@transcript:v1#seg-0036 video:predictive-history-otyupkhptym@transcript:v1#seg-0052" -->
+<span id="free-will-curbs-love-without-excuse" class="lens-point-anchor"></span>
+Free will is the power to answer for love after it appears: longing may arrive naturally, but the soul must judge, curb, redirect, or cleanse it so beauty does not become possession, consumption, obedience, or self-excuse.
+
 ## The Darkness Test
 
 Secret History #9 intensifies the same doctrine into a cosmic war of perception.
@@ -179,13 +187,14 @@ This is the practical test. Does the system ask the person to become more alive,
 - **2026-01-07**, [Great Books #1: Secrets of the Universe](/episodes/predictive-history-tsd-8fga84a/): Plato's cave turns free will into chosen slavery and the refusal to let the false world remain final.
 - **2026-04-08**, [Great Books #9: Dante's La Commedia](/episodes/predictive-history-6m1z-v3wgok/): Free will and reciprocity become contradictions; hell is chosen because will and desire form the soul.
 - **2026-04-29**, [Great Books #10: Hell Is the Imagination Turned Against Itself](/episodes/predictive-history-wgpdmya2bme/): Dante's Inferno gives the self-made hell version. Love expands imagination; blocked love and blocked self-forgiveness make hell; Cato shows that even love cannot force another person into redemption.
-- **2026-05-22**, [Great Books #11: Dante's Revolution](/episodes/predictive-history-otyupkhptym/): Purgatorio sharpens the positive form. The soul can rise when the will is ready, but the delay is self-forgiveness, self-judgment, and love choosing cleansing before ascent.
+- **2026-05-22**, [Great Books #11: Dante's Revolution](/episodes/predictive-history-otyupkhptym/): Purgatorio sharpens both sides. Free will is the power to curb love when desire tries to consume beauty, and the positive form is self-forgiveness, self-judgment, and love choosing cleansing before ascent.
 
 ## Diagnostics
 
 - **Managed Mercy**: Who promises to make people happy by taking away the burden of choosing?
 - **Chosen Lie**: Where does the person call coercion freedom because the desired future was installed by the wall?
 - **Contractual God**: Where has love been translated into obedience, duty, payment, grades, debt, or institutional access?
+- **Curb-Love Test**: Where is natural longing being treated as an excuse, and where does agency have to judge or redirect what love becomes?
 - **Self-Made Hell**: Where has imagination turned inward because love, forgiveness, or self-forgiveness is blocked?
 - **Purgatory Test**: Where is the obstacle not external pardon but the person's refusal, fear, or unreadiness to forgive the self and choose cleansing?
 - **Non-Coercive Love**: Where does rescue become a violation because the other person has to choose self-reflection and redemption?
