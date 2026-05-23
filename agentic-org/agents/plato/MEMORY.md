@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-23: Population-war AI surveillance belongs inside Mass Society when Jiang frames twenty-first-century war as turning civilians against the state, making defense a problem of population management, unrest control, and AI surveillance. Route the national-body target surface to Nation, military/infrastructure executability to Strategy, end-times endurance/martyrdom response to Eschatology, platform ownership to Platform Infrastructure, and inner AI dependence to Attention.
+
 - 2026-05-23: AI assistance-dependence is an Attention Capture boundary only when Jiang frames the apparatus as an inward guide, desire-reader, reassurance system, focus director, or dependency that changes what the person attends to or trusts. Keep AI data hunger, chips, digital ID, digital currency, child tracking, and forced matrix/body interfaces in Mass Society unless the active mechanism is consciousness/focus capture.
 
 - 2026-05-23: Embodied AI data grid belongs inside Mass Society when Jiang frames AI as hitting a synthetic-data/monetization ceiling and then seeking fresh behavioral data through sensors, real-world interfaces, microchips, digital ID, digital currency, safety promises, child tracking, or bodily dependence. Route AI as inner guide/companion to Attention Capture, deeper pipes/data-center ownership to Platform Infrastructure, matrix/dead-world ontology to Dead World/Cave, and end-times obedience to Eschatology.
