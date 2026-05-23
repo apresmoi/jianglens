@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-23: Anna Karenina love-not-possession belongs inside Human Heart when Jiang frames love as giving and trust rather than possession, void-filling, utility, or calculation; link the exact Tolstoy/Russia mark to `heart-love-recognizes-person` and keep `heart-has-its-own-logic` for the broader reason-versus-heart rule. Route agency/nonintervention to Free Will and novel/character self-recognition to Fictional Heroes only when those mechanisms are primary.
+
 - 2026-05-23: The 2024-06-13 "correct the past to predict the future" mark now legitimately links both to Living School and to the Truth/Prediction atlas relation. Living School owns the institutional practice of corrigible model training; the atlas relation owns the broader epistemic rule that prediction tests truth only when the register is named and past-present-future coherence remains revisable.
 
 - 2026-05-23: Psychohistory model-correction belongs inside Living School when Jiang frames prediction as a long school/institutional practice that must test forecasts over time, revise failed analysis, reconstruct the past with better causal questions, and train historians/programmers/readers to keep the model corrigible. Route broad past-present-future truth tests to the Truth/Prediction atlas relation, player incentives to Game Theory, and edge-case actors to Living School only when they require trained correctors.
