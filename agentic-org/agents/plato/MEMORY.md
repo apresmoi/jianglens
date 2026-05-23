@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-23: Reflective spiritual goods is a held lens seed, not a public page. Use it when Jiang contrasts material zero-sum goods with spiritual goods that multiply through reflection - love, generosity, forgiveness, kindness, light, or darkness moving through the field of souls. Route concrete relational recognition to Human Heart, agency/self-cleansing/nonintervention to Free Will, player/payoff status scarcity to Game Theory, and consumer/display envy to Attention Capture.
+
 - 2026-05-23: Anna Karenina love-not-possession belongs inside Human Heart when Jiang frames love as giving and trust rather than possession, void-filling, utility, or calculation; link the exact Tolstoy/Russia mark to `heart-love-recognizes-person` and keep `heart-has-its-own-logic` for the broader reason-versus-heart rule. Route agency/nonintervention to Free Will and novel/character self-recognition to Fictional Heroes only when those mechanisms are primary.
 
 - 2026-05-23: The 2024-06-13 "correct the past to predict the future" mark now legitimately links both to Living School and to the Truth/Prediction atlas relation. Living School owns the institutional practice of corrigible model training; the atlas relation owns the broader epistemic rule that prediction tests truth only when the register is named and past-present-future coherence remains revisable.
