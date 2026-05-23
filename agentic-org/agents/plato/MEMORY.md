@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-23: Embodied AI data grid belongs inside Mass Society when Jiang frames AI as hitting a synthetic-data/monetization ceiling and then seeking fresh behavioral data through sensors, real-world interfaces, microchips, digital ID, digital currency, safety promises, child tracking, or bodily dependence. Route AI as inner guide/companion to Attention Capture, deeper pipes/data-center ownership to Platform Infrastructure, matrix/dead-world ontology to Dead World/Cave, and end-times obedience to Eschatology.
+
 - 2026-05-23: Europe ally-cannibalization belongs inside Strategy Material Test when Jiang frames imperial decline as making allies finance the empire through energy, defense, social-contract damage, migration blowback, and eventually bodies in a prepared war trap. Route old-age tribute/retirement extraction to Gerontocracy, player incentives and sunk-cost casino language to Game Theory, dollar/debt conversion to Power As Alchemy, and institutional self-protection to Bureaucracy unless the active mechanism is allied material expenditure and battlefield exposure.
 
 - 2026-05-23: Virgil's curb-love formulation belongs inside Free Will when Jiang frames desire/love as naturally arising but still answerable to judgment, restraint, redirection, or cleansing. Keep Human Heart for Dante's positive anti-possession rule that love preserves the beloved's dignity; keep Guide Trap for Virgil's authority/mission frame and Stories for the Aeneid's imperial recoding of love.
