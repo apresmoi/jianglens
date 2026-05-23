@@ -1,0 +1,261 @@
+{
+  "packet_id": "interview-sutm8lojrqw-semantics-pkt-0001",
+  "source_id": "video:interview-sutm8lojrqw",
+  "source_date": "2025-11-30",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0001",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens with a cold-start geopolitical model: America is a debt-driven Ponzi empire propped up by transnational capital, and those same elites could shift support to a more lucrative Israeli-centered order he calls Pax Judaica.",
+      "speaker_attribution": "Jiang cold-open monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0003",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0004",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0005"
+      ],
+      "kind": "exchange",
+      "summary": "The host formally opens the interview, introduces Jiang, and asks whether the new twenty-point Ukraine peace proposal is genuine or just another pause before renewed war.",
+      "speaker_attribution": "Danny and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0006",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0007",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Russia has no reason to accept the plan because it holds battlefield dominance, expects future American proxy pressure even after any settlement, and can instead use a slow attritional campaign to bleed Europe as it reinforces Ukraine.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0003"
+      ],
+      "note": "The host verbally corrects the year mid-introduction from '2020' to '2025'; preserve the source date from metadata rather than the false start.",
+      "suggested_speaker": "Host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0006",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0007"
+      ],
+      "note": "Several battlefield place names and phrases are ASR-noisy, but the speaker and strategic thrust are clear: Jiang sees Russia as militarily dominant and unwilling to trust any ceasefire.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang argues that America has become a debt-ridden speculative Ponzi scheme sustained by transnational capital rather than durable national strength.",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0001",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Present-tense diagnosis stated on 2025-11-30.",
+      "topic_tags": [
+        "united-states",
+        "transnational-capital",
+        "ponzi-scheme",
+        "empire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says transnational capital could prefer a shift from Pax Americana to Pax Judaica if the latter offers better investment returns.",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0001",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Conditional geopolitical model stated on 2025-11-30.",
+      "topic_tags": [
+        "pax-judaica",
+        "pax-americana",
+        "transnational-capital",
+        "investment"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang claims that Russia does not need to accept the twenty-point peace proposal because it currently dominates the battlefield in Ukraine.",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Present-tense military assessment stated on 2025-11-30.",
+      "topic_tags": [
+        "russia",
+        "ukraine",
+        "peace-plan",
+        "battlefield-dominance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Russia entered the war expecting a longer confrontation with the American empire and assumes Washington will keep provoking through other fronts such as Georgia, Azerbaijan, the Baltics, Poland, or Moldova even after a Ukraine settlement.",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Strategic diagnosis and forward-looking expectation stated on 2025-11-30.",
+      "topic_tags": [
+        "russia",
+        "united-states",
+        "proxies",
+        "georgia",
+        "azerbaijan",
+        "baltics",
+        "poland",
+        "moldova"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts Russia will advance slowly and methodically toward Kyiv rather than rushing, because preserving supply lines matters more than speed when you already hold battlefield advantage.",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Near-term battlefield forecast stated on 2025-11-30.",
+      "topic_tags": [
+        "russia",
+        "kyiv",
+        "strategy",
+        "supply-lines",
+        "forecast"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He predicts Europe will have to reinforce the Ukrainian front or face total collapse, and that a collapse could trigger a political revolution in Ukraine that produces a more pro-Russian regime.",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Conditional forecast stated on 2025-11-30.",
+      "topic_tags": [
+        "europe",
+        "ukraine",
+        "front-lines",
+        "regime-change",
+        "russia"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Russia's real strategy is to bleed out Europeans by forcing them to rotate more troops into a front where Russian drone and artillery warfare has already matured.",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Present-tense military model stated on 2025-11-30.",
+      "topic_tags": [
+        "russia",
+        "europe",
+        "attrition-warfare",
+        "drones",
+        "artillery"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0001",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0002"
+      ],
+      "moment": "Jiang turns imperial decline into a capital-flow image: once a better opportunity appears in Pax Judaica, the money simply transfers and America is left to implode.",
+      "source_phrase": "the money transfers to the Pax Judaica ... and then America is allowed to implode",
+      "why_it_matters": "It compresses his whole opening thesis into a memorable mechanism of elite abandonment rather than military conquest alone.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0006"
+      ],
+      "moment": "Even a peace deal does not end the war in Jiang's frame, because America will just find new borders and proxies with which to keep poking Russia.",
+      "source_phrase": "the American Empire will eventually figure out ways to poke the bear",
+      "why_it_matters": "This is his core reason for dismissing a diplomatic settlement as strategically unserious from Moscow's perspective.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0008"
+      ],
+      "moment": "Russia is cast less as a blitzkrieg machine than as a patient butcher of manpower, inviting Europe to keep feeding troops into a war of attrition it cannot win.",
+      "source_phrase": "you send in 100,000 troops they'll die out in a month",
+      "why_it_matters": "It preserves the packet's harshest battlefield logic and the specific mechanism by which Jiang thinks Russia plans to break Europe.",
+      "tone": "provocation",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Pax Judaica",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0001",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Jiang's name for a prospective Israeli-centered imperial order that could replace Pax Americana as the preferred home for transnational capital.",
+      "confidence": "medium"
+    },
+    {
+      "term": "transnational capital",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0001",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Mobile elite finance that Jiang treats as the force propping up the American empire and potentially shifting allegiance to a new imperial center.",
+      "confidence": "high"
+    },
+    {
+      "term": "attrition warfare",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The slow war of depletion Jiang says Russia has perfected through reconnaissance drones, probing attacks, and artillery rather than fast maneuver alone.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0001",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0008"
+      ],
+      "note": "This 2025-11-30 interview opens with two linked frames that govern the rest of the source: American decline as a transnational-capital transfer problem and the Ukraine war as a slow Russian attrition strategy against Europe.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0002"
+      ],
+      "note": "The transcript phrase '$3,200' is almost certainly ASR corruption inside Jiang's debt-default image; the packet preserves the default/implosion argument without guessing the exact figure."
+    },
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0006",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0007"
+      ],
+      "note": "Several place names and battlefield terms are ASR-noisy in the Ukraine discussion, so the packet captures only the stable strategic points: Russia sees a wider proxy war, distrusts settlement, and intends a slow advance."
+    }
+  ]
+}

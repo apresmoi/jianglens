@@ -1,0 +1,157 @@
+{
+  "packet_id": "interview-sutm8lojrqw-semantics-pkt-0011",
+  "source_id": "video:interview-sutm8lojrqw",
+  "source_date": "2025-11-30",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0081"
+      ],
+      "kind": "answer",
+      "summary": "Jiang closes the Iran analysis by arguing that repeated humiliations, including the killing of senior Iranian figures, have intensified Tehran's desire to retaliate, but that a proud state will still wait for the right strategic opening before striking.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0082",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0083"
+      ],
+      "kind": "exchange",
+      "summary": "Danny closes the interview by thanking Jiang, promising links to Jiang's channels, asking viewers to engage in the comments, and signing off; Jiang replies with a brief goodbye.",
+      "speaker_attribution": "Danny and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0081"
+      ],
+      "note": "Jiang's phrase 'the 12th day war' is not clear enough from this packet alone to normalize into a canonical conflict label. Preserve it as source wording and keep the extraction at the level of Iranian officials being killed and the resulting humiliation.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0083"
+      ],
+      "note": "The transcript marks the final 'Bye' as UNKNOWN, but context makes it a straightforward Jiang farewell in response to Danny's signoff.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang argues that Iran has absorbed multiple recent humiliations, including heavy losses among top officials during what he calls the '12th day war,' and that these insults deepen Tehran's motive to retaliate rather than dissipating it.",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0081"
+      ],
+      "temporal_scope": "Present-tense motive analysis tied to prior events, stated on 2025-11-30.",
+      "topic_tags": [
+        "iran",
+        "top-officials",
+        "humiliation",
+        "loss-of-face",
+        "retaliation"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says Iran has not attacked yet because it is waiting for the right time, not because it lacks pride, grievance, or willingness to strike.",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0081"
+      ],
+      "temporal_scope": "Present-tense strategic-timing diagnosis stated on 2025-11-30.",
+      "topic_tags": [
+        "iran",
+        "strategic-patience",
+        "timing",
+        "retaliation",
+        "national-pride"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang leaves the retaliation schedule open, saying that the right Iranian strike window exists in principle but cannot yet be dated.",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0081"
+      ],
+      "temporal_scope": "Open-ended future-war timing judgment stated on 2025-11-30.",
+      "topic_tags": [
+        "iran",
+        "attack-timing",
+        "forecast-uncertainty",
+        "retaliation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Danny says the published interview will link Jiang's YouTube channel and Substack and explicitly invites viewers to agree or disagree with the analysis in the comments.",
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Host closeout and publication framing stated on 2025-11-30.",
+      "topic_tags": [
+        "capitalcosm",
+        "predictive-history",
+        "substack",
+        "youtube",
+        "publication"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0081"
+      ],
+      "moment": "Jiang turns four years of pressure into a ledger of 'slights, insults, embarrassments,' making delayed retaliation feel less like hesitation than accumulated injury waiting for release.",
+      "source_phrase": "the slights, the insults, the embarrassments",
+      "why_it_matters": "It compresses his Iran reading into a memorable emotional-political stack: grievance matures, then waits for timing.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0081"
+      ],
+      "moment": "The unanswered clock is the point: a proud nation can want revenge intensely and still refuse to move until the strategic moment appears.",
+      "source_phrase": "it's looking for the right time",
+      "why_it_matters": "This is the packet's final compression of Jiang's Iran model and sharpens the distinction between motive and timing.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0081"
+      ],
+      "note": "On 2025-11-30 Jiang extends his earlier walk-back of an imminent December Iran strike by making the timing explicitly indeterminate: retaliation remains live, but the trigger window is still unknown.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0081"
+      ],
+      "note": "The phrase '12th day war' may be a source-specific shorthand or an ASR distortion; this packet should not normalize it into a named conflict without corroboration from broader source context."
+    },
+    {
+      "refs": [
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0082",
+        "video:interview-sutm8lojrqw@transcript:v1#seg-0083"
+      ],
+      "note": "The closing host appeal is platform housekeeping, not substantive geopolitical analysis, so extraction stays minimal even though the focus refs include the full outro."
+    }
+  ]
+}
