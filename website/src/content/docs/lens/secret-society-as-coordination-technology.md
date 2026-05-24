@@ -113,6 +113,14 @@ Secret society becomes the trust machinery of mobile capital when extractors who
 
 The historical sequence Jiang gives later in that lecture is Venice, the Dutch Republic, England, and America: respectable public forms such as republic, democracy, banking, navy, diplomacy, university, and currency are read as the visible shell around a merchant-oligarchic coordination system. Again, the durable lens is not the sensational list. It is the diagnostic question: when power leaves place, what hidden trust machinery lets it remain coordinated?
 
+The **2025-11-06** Libertarian Party interview gives this mobile-capital layer a digital instrument. Asked whether Bitcoin's origin story might be state-linked, Jiang does not first argue from ideology. He asks who had the resources to build and host the system, who needed a covert financial rail, and why the builder's identity would stay hidden. In his answer, the point of the Satoshi myth is value creation: if the public believed a Pentagon research arm had built Bitcoin, people would avoid it, but if they believe it is [decentralized, anonymous, safe, and untouchable by government]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0067"}, they invest in it.
+
+That makes the Bitcoin passage a secret-society problem before it becomes a platform or mass-society problem. Jiang treats the public origin myth as a cover that permits adoption, the early insider story as a sign of privileged trust, and the working instrument as both laundering rail and visibility system. His compressed verdict is that [Bitcoin is a deep-state project that lets intelligence-linked actors launder money while watching illicit networks]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0068 video:interview-7qz4kmtbvru@transcript:v1#seg-0069"}. The claim stays attributed to Jiang's model. The reusable mechanism is not "crypto is secretly bad" but the conversion of secrecy into financial trust: a hidden builder can make a visible asset valuable precisely by making the public believe no hidden builder exists.
+
+<!-- lens-point id="secret-society-bitcoin-cover-rail" concept="secret-society-coordination" evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0066 video:interview-7qz4kmtbvru@transcript:v1#seg-0067 video:interview-7qz4kmtbvru@transcript:v1#seg-0068 video:interview-7qz4kmtbvru@transcript:v1#seg-0069" -->
+<span id="secret-society-bitcoin-cover-rail" class="lens-point-anchor"></span>
+A hidden financial rail becomes useful when secrecy itself creates public trust: the cover story makes adoption possible, insider circles can move early, and the same system can launder value while exposing the underworld to surveillance.
+
 ## Script Beats Plot
 
 The August and December 2025 eschatology lectures sharpen the coordination problem. Jiang argues that ordinary conspiracies are often weak because secrecy fails, plausible deniability collapses, and ego ruins cooperation. A shared end-times story solves those problems differently. It gives roles, momentum, destiny, and reward. It lets people cooperate while experiencing the cooperation as faith, vocation, salvation, or historical necessity.
@@ -134,6 +142,7 @@ This is why the page belongs next to [Eschatology As Script](/lens/eschatology/)
 - **Agency Test**: Does the ritual, oath, command, or sacred role let members say they were instruments of a higher power rather than responsible actors?
 - **Bureaucracy Test**: Is a public institution too siloed to coordinate itself, while an informal network can coordinate across its departments?
 - **Mobility Test**: If capital leaves place, what trust machinery lets it keep moving, pooling, and recognizing partners?
+- **Cover-Rail Test**: Is a visible financial, technical, or platform system valuable because the public story hides who built it, who could use it first, or which covert flows it makes legible?
 - **Membership Test**: Do the public ideologies say rivalry while schools, families, wealth storage, initiation, or elite culture show a shared trust layer?
 - **Script Test**: Does the group need explicit command, or does a shared eschatology, prophecy, myth, or mission already make separate actors audition for compatible roles?
 - **Face Test**: Is the visible person or organization the real decision layer, or is it functioning as agent, mascot, legitimacy shell, imagination-catcher, blame surface, or timing beneficiary for a less visible coordination layer?
@@ -146,6 +155,7 @@ This is why the page belongs next to [Eschatology As Script](/lens/eschatology/)
 - **2025-08-01**, [Geo-Strategy Update #7: When Eschatologies Converge](/episodes/predictive-history-yq-xg1nibms/): Jiang names end-times stories as scripts that create unconscious coordination, secrecy, deniability, and frictionless cooperation.
 - **2025-08-08**, [Geo-Strategy Update #8: Why the West is Doomed](/episodes/predictive-history-e83dpuyvpim/): Jiang rejects a competent replacement-conspiracy explanation for Canadian immigration and routes the policy to elite incompetence and low-resistance growth.
 - **2025-10-17**, [Secret History #10: The Conspiracy of Evil](/episodes/predictive-history-ihh1fdw4-ca/): The strongest organizational model appears: layers, need-to-know knowledge, incentives, blackmail, transgression, confirmation bias, and cross-bureaucratic coordination.
+- **2025-11-06**, [The Empire That Cannot Stop Fighting Itself](/interviews/interview-7qz4kmtbvru/): Jiang applies the hidden-trust machinery to Bitcoin, reading the Satoshi myth as a cover that creates adoption value while the rail serves laundering and surveillance functions.
 - **2025-12-09**, [Secret History #25: Capital of Evil](/episodes/predictive-history-b5fthagng8c/): Secret societies become the trust machinery of mobile capital, and ritual becomes a way to displace responsibility for acts individuals could not bear alone.
 - **2025-12-18**, [Secret History #END: Pax Judaica](/episodes/predictive-history-wfwizn3qopg/): Jiang presents the most caveated version of the conspiracy model: a theory that cannot be proved, but that he treats as useful if it connects past, explains present, and predicts future.
 - **2026-01-16**, [China Without The Good Monorail](/interviews/interview-dhlr7zydlj8/): A noisy interview restates the membership layer directly: rival public ideologies may matter less than elite children, schools, triad wealth, initiation, esoteric doctrine, and club loyalty.
@@ -157,6 +167,8 @@ This is why the page belongs next to [Eschatology As Script](/lens/eschatology/)
 
 - [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) - for the mature institutional form that secret networks can move through.
 - [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) - for mobile capital's larger attention and anxiety mechanism.
+- [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) - for digital currency, identity, and AI when the active mechanism is population-scale administration rather than hidden trust.
+- [Platform Infrastructure As Control Surface](/lens/#platform-infrastructure-as-control-surface) - for the deeper pipes, data centers, hardware, and standards when ownership of the control layer is the main question.
 - [Eschatology As Script](/lens/eschatology/) - for the end-times story-form that can coordinate actors without explicit command.
 - [Game Theory](/lens/game-theory/) - for identifying the real reward structure when public doctrine and actual coordination diverge.
 - [Taboo As Control Surface](/lens/taboo-as-control-surface/) - for transgression as a boundary act that changes the game and binds the group.
