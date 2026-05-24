@@ -1,0 +1,273 @@
+{
+  "packet_id": "interview-7qz4kmtbvru-semantics-pkt-0001",
+  "source_id": "video:interview-7qz4kmtbvru",
+  "source_date": "2025-11-06",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0001",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0002"
+      ],
+      "kind": "exchange",
+      "summary": "Stephen Akela introduces Jiang to the Libertarian Party audience as the forecaster of the coming Iran war and gets a brief thank-you back.",
+      "speaker_attribution": "Stephen Akela with Jiang's short reply at seg-0002.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0003"
+      ],
+      "kind": "question",
+      "summary": "Akela asks both where Jiang thinks the US-Israel-Iran conflict is headed and how Jiang was able to foresee the strike on Iran roughly a year in advance.",
+      "speaker_attribution": "Stephen Akela",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0004",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0005",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the key signal was Trump's January 2020 killing of Soleimani, which he treats as a de facto declaration of war against Iran; from there he reasons through Iran's geopolitical importance and concludes Trump would eventually return to the Iran file once he regained power.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0007",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0008"
+      ],
+      "kind": "question",
+      "summary": "Akela pivots to BRICS, reserve-currency decoupling, and Putin's multipolar-world language, asking Jiang what the next years mean for the West and whether the result is eastern rise, plural power centers, or global conflict.",
+      "speaker_attribution": "Stephen Akela",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0001",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0003"
+      ],
+      "note": "The opening host material is a continuous setup by Stephen Akela; the split across seg-0001 and seg-0003 is topical rather than a change in speaker identity.",
+      "suggested_speaker": "Stephen Akela",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0004"
+      ],
+      "note": "The ASR text mangles Qasem Soleimani's name and describes him as an ambassador; preserve the transcript wording as Jiang's framing but treat the proper-name transcription as noisy.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Trump's January 2020 assassination of General Soleimani functioned as a de facto declaration of war on Iran.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Retrospective diagnosis voiced in an interview dated 2025-11-06 about an event from January 2020.",
+      "topic_tags": [
+        "iran",
+        "trump",
+        "soleimani",
+        "war-declaration"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "His historical model is that killing an envoy or equivalent diplomatic figure predictably triggers war, which he illustrates with Mongol and classical Greek examples.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "General historical model articulated on 2025-11-06.",
+      "topic_tags": [
+        "historical-analogy",
+        "diplomacy",
+        "war"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues Iran is a prime US target because of its oil, its control over the Strait of Hormuz, its rivalry with Saudi Arabia, and the loss of American influence after the 1979 overthrow of the Shah.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Present-tense geopolitical diagnosis voiced on 2025-11-06, with supporting history reaching back to 1979.",
+      "topic_tags": [
+        "iran",
+        "oil",
+        "strait-of-hormuz",
+        "saudi-arabia",
+        "shah"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says closing the Strait of Hormuz would disrupt roughly a third of world oil transport and devastate several Asian economies.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Conditional geopolitical claim stated on 2025-11-06.",
+      "topic_tags": [
+        "strait-of-hormuz",
+        "oil-transport",
+        "asia",
+        "trade"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang's counterfactual is that if Trump had won the November 2020 election, he would have ordered an invasion of Iran.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Counterfactual prediction reconstructed on 2025-11-06 about the 2020 election outcome.",
+      "topic_tags": [
+        "trump",
+        "iran",
+        "2020-election",
+        "invasion"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says Biden's presidency made a Trump victory in 2024 very likely in his analysis.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Retrospective election diagnosis voiced on 2025-11-06 about the run-up to 2024.",
+      "topic_tags": [
+        "biden",
+        "trump",
+        "2024-election",
+        "prediction-method"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "From that chain of reasoning, Jiang says he concluded Trump would eventually strike Iran after returning to power.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Retrospective prediction claim voiced on 2025-11-06.",
+      "topic_tags": [
+        "iran",
+        "trump",
+        "prediction-method",
+        "war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0004"
+      ],
+      "moment": "Jiang anchors his entire Iran forecast to a single diplomatic threshold crossing.",
+      "source_phrase": "when you assassinate an ambassador, that's a de facto declaration of war",
+      "why_it_matters": "This is the packet's core method move: he treats the killing not as one shocking episode but as the decisive historical signal that the war logic was already in motion.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0005"
+      ],
+      "moment": "The Strait of Hormuz is presented as the geopolitical choke point that makes Iran impossible to ignore.",
+      "source_phrase": "if we were to close down the Strait of Hormuz, it would shut down a third of oil transportation in the world",
+      "why_it_matters": "The image gives Jiang's Iran model hard strategic weight instead of leaving it as a vague anti-Iran posture.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0006"
+      ],
+      "moment": "Jiang describes prediction as a chain of historical branching rather than as intuition.",
+      "source_phrase": "then I could make the decision that Trump would eventually strike against Iran",
+      "why_it_matters": "It exposes the interview's advertised method claim: he moves from a dated trigger, through electoral contingency, to a later war forecast.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "de facto declaration of war",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Jiang's label for the political meaning of killing Soleimani: not a formal declaration, but an action that effectively starts a war relationship.",
+      "confidence": "high"
+    },
+    {
+      "term": "Strait of Hormuz",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The maritime choke point Jiang treats as central to Iran's geopolitical weight because closure would cripple a large share of global oil transport.",
+      "confidence": "high"
+    },
+    {
+      "term": "multipolar world",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0007",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Akela's framing term for a world in which BRICS and eastern blocs decouple from US reserve-currency dominance and operate outside western control.",
+      "confidence": "medium"
+    },
+    {
+      "term": "BRICS",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The eastern bloc Akela invokes as evidence of a rising alternative financial and geopolitical system outside the West.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0004",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0006"
+      ],
+      "note": "Jiang explicitly dates the trigger event to January 2020 and then links it to the November 2020 election outcome and the later 2024 electoral return of Trump; the forecast is presented as a staged chronology rather than a one-off guess.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0005"
+      ],
+      "note": "The 1979 overthrow of the Shah appears here as Jiang's long-range historical reason for persistent US interest in reasserting influence over Iran.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0004"
+      ],
+      "note": "The transcript's rendering of Soleimani's name and official role is noisy; the semantic pass preserves Jiang's stated war-signal logic without normalizing the transcript beyond recognition."
+    },
+    {
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0003"
+      ],
+      "note": "Akela folds several prompts together in one long question, so the interaction summary compresses both the Iran-war forecast and the prediction-method prompt into a single host turn."
+    }
+  ]
+}

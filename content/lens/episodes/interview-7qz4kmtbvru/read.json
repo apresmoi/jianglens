@@ -1,0 +1,706 @@
+{
+  "id": "episode-read:interview-7qz4kmtbvru:v1",
+  "kind": "episode-read",
+  "schema_version": 2,
+  "source_id": "video:interview-7qz4kmtbvru",
+  "slug": "interview-7qz4kmtbvru",
+  "title": "The Empire That Cannot Stop Fighting Itself",
+  "subtitle": "Libertarian Party interview on Iran, Ukraine, secret societies, Israel, CBDCs, AI, and the American breaking point",
+  "read_time": "16 min",
+  "editorial_mode": "distilled-interview",
+  "voice_policy": "Direct, pressure-driven interview prose preserving the host prompts that make Jiang's answers intelligible.",
+  "trace_policy": "Paragraph claims and marks carry exact source refs; forecasts stay tied to the 2025-11-06 interview date rather than being rewritten as current reporting.",
+  "dek": "Stephen Akela invites Jiang on to explain how he predicted war with Iran, but the interview keeps widening until prediction becomes a whole model of late empire: a debt system that cannot tolerate peace, covert networks that solve what bureaucracy cannot, digital controls waiting for crisis rollout, and a domestic order so hollow that war abroad and civil rupture at home begin to look like the same survival strategy.",
+  "thesis": "Jiang's through-line is that apparently separate crises only make sense once you see the American-led order as an exhausted hegemonic machine. Iran, Ukraine, Venezuela, secret societies, Israel, Bitcoin, central bank digital currency, AI, and the 2028 civil-war horizon are not treated as isolated issues. They are all folded into one claim: the empire is overleveraged, its institutions no longer command belief, and its elite is reaching for psychological war, hidden coordination, programmable control, and even managed internal conflict to keep the system from admitting defeat.",
+  "source_notes": [
+    {
+      "text": "This interview is dated 2025-11-06. References to Trump's current presidency, an April 2026 China visit, a possible December Iran strike, and the 2028 election horizon are preserved as dated source claims from that day, not updated into present-tense reporting.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0006",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0047",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0050",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0080",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0081",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0082"
+      ]
+    },
+    {
+      "text": "The transcript is broadly usable but carries recurring ASR damage, especially in proper names, geopolitical terms, and a few closing phrases. The read follows the stable argumentative shape where wording is noisy and avoids pretending damaged phrases are cleaner than the source supports.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0012",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0041",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0070",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0081",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0092"
+      ]
+    }
+  ],
+  "opening": {
+    "heading": "Core Reading",
+    "text": "Akela starts by asking how Jiang became the man who called the Iran war in advance. Jiang answers with a method claim, but it quickly hardens into something darker. Prediction is possible, he says, because the late American order keeps revealing the same machinery: debt-backed hegemony that cannot permit alternatives, wars that continue because elites cannot survive peace, covert structures that coordinate what open institutions no longer can, and new control systems waiting to be normalized through crisis. By the end of the hour, even the spiritual question is pulled into the same frame. Freedom is no longer just a political preference. It is the trait an exhausted order most needs people to forget.",
+    "refs": [
+      "video:interview-7qz4kmtbvru@transcript:v1#seg-0003",
+      "video:interview-7qz4kmtbvru@transcript:v1#seg-0004",
+      "video:interview-7qz4kmtbvru@transcript:v1#seg-0010",
+      "video:interview-7qz4kmtbvru@transcript:v1#seg-0022",
+      "video:interview-7qz4kmtbvru@transcript:v1#seg-0035",
+      "video:interview-7qz4kmtbvru@transcript:v1#seg-0070",
+      "video:interview-7qz4kmtbvru@transcript:v1#seg-0074",
+      "video:interview-7qz4kmtbvru@transcript:v1#seg-0087"
+    ],
+    "marks": [
+      {
+        "text": "when you assassinate an ambassador, that's a de facto declaration of war",
+        "refs": [
+          "video:interview-7qz4kmtbvru@transcript:v1#seg-0004"
+        ]
+      },
+      {
+        "text": "the federal reserve is a ponzi scheme",
+        "refs": [
+          "video:interview-7qz4kmtbvru@transcript:v1#seg-0010"
+        ]
+      },
+      {
+        "text": "freedom is what gives people purpose and life",
+        "refs": [
+          "video:interview-7qz4kmtbvru@transcript:v1#seg-0087"
+        ]
+      }
+    ]
+  },
+  "beats": [
+    {
+      "id": "iran-method",
+      "heading": "Prediction Starts With the Threshold You Cannot Walk Back",
+      "time_range": "00:17-03:59",
+      "summary": "Akela asks how Jiang foresaw war with Iran, and Jiang answers by anchoring the forecast to one irreversible act: the killing of Soleimani as a historical declaration of war whose logic only needed Trump's return to resume.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0001",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0002",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0003",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0004",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0005",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0006"
+      ],
+      "paragraphs": [
+        {
+          "id": "iran-method-001",
+          "text": "Akela's opening move is half compliment and half challenge: how did Jiang become the man who called the Iran war ahead of time? Jiang's answer is not mystical. He says the real signal came back in January 2020, when Trump ordered the killing of Soleimani. In Jiang's historical vocabulary that act was not just escalation. It was a diplomatic threshold crossing, the kind of event empires cannot easily walk back from. Once that signal was in place, the rest of the forecast became a branching problem: if Trump had won in 2020, war would have come sooner; once he lost, the question became whether Biden's presidency would create the conditions for Trump's return and therefore for the suspended war logic to restart.",
+          "refs": [
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0003",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0004",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0005",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0006"
+          ],
+          "marks": [
+            {
+              "text": "that's a de facto declaration of war",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0004"
+              ]
+            },
+            {
+              "text": "Trump would eventually strike against Iran",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0006"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "debt-empire-ukraine",
+      "heading": "A Debt Empire Cannot Tolerate Multipolar Peace",
+      "time_range": "04:00-12:16",
+      "summary": "Asked about BRICS, the West, and Ukraine, Jiang turns the entire multipolar question into a regime-survival problem: a debt order that needs hegemony abroad and cannot survive admitting defeat in Ukraine at home.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0007",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0008",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0009",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0010",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0011",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0012",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0013",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0014",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0015",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0016",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0017"
+      ],
+      "paragraphs": [
+        {
+          "id": "debt-empire-ukraine-001",
+          "text": "When Akela asks whether a multipolar world is coming, Jiang refuses the usual civilizational balance story. Putin's language, he says, is really about the American empire and the financial architecture beneath it. The Federal Reserve order depends on debt creation, Treasury demand, and the suppression of viable alternatives. That is why Jiang links the war on terror, conflict with Iran, and resistance to BRICS into one anti-pluralist logic. A genuinely multipolar order is not merely unfriendly to Washington. In his frame it is existentially incompatible with a debt pyramid that can only keep standing if everyone else continues underwriting it.",
+          "refs": [
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0007",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0008",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0009",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0010"
+          ],
+          "marks": [
+            {
+              "text": "the federal reserve is a ponzi scheme",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0010"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "debt-empire-ukraine-002",
+          "text": "Ukraine then becomes the place where the same logic is trapped in military form. Jiang says Russia has effectively won the war already because war is about the enemy's collapsing will, not just the capture of every objective. But if Ukraine is already lost in battlefield terms, the deeper problem is political. NATO and Europe have spent too much money, prestige, and narrative capital to survive peace honestly. So Jiang expects not nuclear apocalypse but a long attritional bleed toward Odessa, mission creep, possible conscription, and finally domestic revolt inside the states paying for the war. The real explosion, in other words, happens not when a missile flies but when governments can no longer hide what their war bought them.",
+          "refs": [
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0011",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0012",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0013",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0014",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0015",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0016",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0017"
+          ],
+          "marks": [
+            {
+              "text": "the climatic battle will be odessa",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0016"
+              ]
+            },
+            {
+              "text": "you will have major political revolution in europe",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0014"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "venezuela-hidden-war",
+      "heading": "Venezuela Matters Because the Real Enemy Is Inside the System",
+      "time_range": "12:16-18:32",
+      "summary": "Akela asks about Venezuela, Taiwan, and China, but Jiang says Venezuela only becomes intelligible once you stop treating it as an ordinary anti-China or oil war and read it instead as pressure inside a larger struggle with the global financial state.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0018",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0019",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0020",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0021",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0022",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0023",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0024",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0025"
+      ],
+      "paragraphs": [
+        {
+          "id": "venezuela-hidden-war-001",
+          "text": "Jiang begins by saying Venezuela makes less sense than Iran if the question is straightforward geopolitics. Iran sits at the center of trade corridors and energy leverage. Venezuela's oil is harder to exploit, and Russia or China are not in a position to own the hemisphere. So he reaches for a more hidden explanation. When Trump talks about drugs and smuggling, Jiang says, he may be naming the real enemy more honestly than most observers think. The target is not first a foreign state but a transnational establishment whose money, intelligence, and criminal channels are entangled. Venezuela becomes a theater in that deeper fight because it touches trafficking routes and covert revenue streams.",
+          "refs": [
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0018",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0019",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0020",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0021",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0022",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0023"
+          ],
+          "marks": [
+            {
+              "text": "the real enemy is the global state the global financial establishment",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0022"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "venezuela-hidden-war-002",
+          "text": "That hidden-war reading is what lets Jiang reject full invasion while still expecting pressure. A ground war would be another Vietnam, he says, not only because Venezuela could fight asymmetrically but because the United States lacks the manpower, legitimacy, and political will for one more occupation. What remains is coercion around routes, costs, and threat displays. The logic is not conquest. It is squeezing the shadow infrastructure that, in Jiang's telling, finances the same order claiming to defend civilization.",
+          "refs": [
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0024",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0025"
+          ],
+          "marks": [
+            {
+              "text": "it'll be like another Vietnam",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0025"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "secret-societies-fifth-gen",
+      "heading": "Secret Societies Solve the Problems Bureaucracy Cannot",
+      "time_range": "18:32-27:30",
+      "summary": "Asked what the deep state actually is, Jiang answers less with an enemy list than with a functional theory of coordination, then extends that theory into fifth-generation warfare and civil war as elite management.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0026",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0027",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0028",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0029",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0030",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0031",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0032",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0033",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0034",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0035",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0036",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0037"
+      ],
+      "paragraphs": [
+        {
+          "id": "secret-societies-fifth-gen-001",
+          "text": "Akela pushes on the words everybody uses loosely: what is the deep state, how global is it, and does it even care about national sides? Jiang's answer is that modern power does not primarily live in visible agencies, families, or universities, though all of those matter. It lives in formations that can preserve secrecy, generate trust, and coordinate above the formal state. Secret societies become powerful, in this telling, because bureaucracy is siloed, individuals are atomized, and globalization has thinned older loyalties. They are parasitic not because they are exotic, but because they thrive precisely where modern institutions are too cumbersome to act with coherence.",
+          "refs": [
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0026",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0027",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0028",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0029",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0030"
+          ],
+          "marks": [
+            {
+              "text": "secret society sort of is a parasite on society",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0029"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "secret-societies-fifth-gen-002",
+          "text": "Once that hidden coordination model is in place, the war question changes form. Jiang says a direct slugfest between nuclear powers is unlikely; what comes instead is fifth-generation warfare, the struggle to hold your own population together while dissolving the cohesion of someone else's. That is why he moves from the French Revolution to media manipulation, elite panic after COVID, and the possibility that civil war itself can function as a pressure-release mechanism for a ruling class. The threat is not only that societies fall apart. It is that some actors may find managed disintegration useful.",
+          "refs": [
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0031",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0033",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0034",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0035",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0036",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0037"
+          ],
+          "marks": [
+            {
+              "text": "civil war is a mechanism for you to reduce social discontent in society",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0035"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "american-break-point",
+      "heading": "When the Empire Runs Out of Common Enemies, It Starts Fighting Itself",
+      "time_range": "27:30-39:12",
+      "summary": "Akela turns to youth polarization, gridlock, third parties, and Trump succession. Jiang answers by describing an American order that has lost its unifying dream and now faces third-term temptations because the opposition is too hollow to stop them.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0038",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0039",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0040",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0041",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0042",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0043",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0044",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0045",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0046",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0047",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0048",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0049",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0050",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0051",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0052",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0053",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0054"
+      ],
+      "paragraphs": [
+        {
+          "id": "american-break-point-001",
+          "text": "Akela describes a generation that no longer trusts leadership, drifts toward ideological extremes, and increasingly sees both parties as one machine. Jiang says that intuition is tracking a real threshold. The American dream is dead, he argues, and the substitute dream is merely staying out of debt. The old common enemy is gone, so the polity does what the late Roman Republic did once expansion ran out: it turns inward. Universities, media, and the judiciary no longer command legitimacy; YouTube replaces television; and the institutions that once held the system together now look compromised enough that even their defenders cannot really defend them.",
+          "refs": [
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0038",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0039",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0040",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0041",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0042"
+          ],
+          "marks": [
+            {
+              "text": "the dream now is to get out of debt or stay out of debt",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0040"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "american-break-point-002",
+          "text": "From there Jiang narrows to party machinery. Republicans and Democrats are still united on one thing, he says: crushing third parties. But he thinks the deeper danger now lies with a Democratic Party too ossified and corrupt to function as an effective opposition even while Trump openly remakes the federal bureaucracy. That impotence is what makes the third-term scenario conceivable in his eyes. He is skeptical Vance will inherit the movement cleanly, imagines subtler sabotage already underway, and then floats the theatrical endpoint: Trump as vice president in 2028, with the Supreme Court asked to bless the loophole, and even the possibility of an Obama mirror move on the other side. The point is not merely spectacle. It is that succession itself is becoming unstable.",
+          "refs": [
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0043",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0044",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0045",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0046",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0047",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0048",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0049",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0050",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0051",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0054"
+          ],
+          "marks": [
+            {
+              "text": "it's a two-party monopoly",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0045"
+              ]
+            },
+            {
+              "text": "Trump gets a third term actually",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0047"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "control-systems",
+      "heading": "Israel, Bitcoin, and AI All Get Folded Into the Control Story",
+      "time_range": "39:12-58:08",
+      "summary": "The interview's middle-late section looks sprawling on the surface, but Jiang keeps reusing one intuition: visible institutions are fronts for deeper systems of leverage, from imperial borderlands to programmable money to layoffs justified by AI.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0055",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0056",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0057",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0058",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0059",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0060",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0061",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0062",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0063",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0064",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0065",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0066",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0067",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0068",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0069",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0070",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0071",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0072",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0073",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0074",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0075",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0076",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0077",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0078"
+      ],
+      "paragraphs": [
+        {
+          "id": "control-systems-001",
+          "text": "Akela's Israel question invites a corruption answer, and Jiang does give one possible explanation in terms of bought politicians and eschatological zeal. But the version he prefers is larger: Israel as an imperial construct for governing the Levant through divided populations and permanent instability. The same suspicion of visible stories carries forward into his Bitcoin answer. Satoshi becomes less a libertarian founder myth than a probable deep-state cover for infrastructure, laundering, and surveillance. The truly dangerous future, though, is not Bitcoin itself but digital currency once it fuses with digital identity. In China, Jiang says, that shift is convenient because freedom is already absent. In America the same convenience becomes a trap because programmable money can discipline behavior directly, and crisis is what will make populations accept it.",
+          "refs": [
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0055",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0056",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0057",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0058",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0059",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0060",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0061",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0062",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0063",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0064",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0065",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0066",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0067",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0068",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0069",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0070",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0071",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0072"
+          ],
+          "marks": [
+            {
+              "text": "digital currency, it's really the mark of the beast",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0070"
+              ]
+            },
+            {
+              "text": "you need to manufacture a crisis",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0070"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "control-systems-002",
+          "text": "AI is then folded into the same repertoire of control. Jiang calls it a sign-off mechanism for authority at the moment traditional authority is failing. People trust it because it looks neutral. Managers can blame it for layoffs because it looks impersonal. Governments can use it to centralize information and wealth because data centers are so concentrated and so expensive. That is why Akela's manufacturing question turns into a darker social answer. If AI strips masses of people of work, Jiang says, the regime's answer will not be dignified redistribution. It will be a more brutal release valve. That is the cold force of his final line in the exchange: if you create enough unemployed men, war becomes useful again.",
+          "refs": [
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0073",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0074",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0075",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0076",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0077",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0078"
+          ],
+          "marks": [
+            {
+              "text": "it's basically the last hope",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0076"
+              ]
+            },
+            {
+              "text": "That's why you need war",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0078"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flashpoints-soul-books",
+      "heading": "The Last Forecast Is About the Soul",
+      "time_range": "58:09-1:09:35",
+      "summary": "The closing questions move from future flashpoints to hope and then to books, and Jiang's answer is consistent all the way through: the geopolitical crisis and the spiritual crisis are the same story seen at two scales.",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0079",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0080",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0081",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0082",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0083",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0084",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0085",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0086",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0087",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0088",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0089",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0091",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0092",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0093",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0094",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0095",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0096"
+      ],
+      "paragraphs": [
+        {
+          "id": "flashpoints-soul-books-001",
+          "text": "In the final geopolitical sweep, Jiang restates Odessa and Iran as the main near-term flashpoints, downgrades Taiwan because both Beijing and Washington still need globalization, and even imagines a possible U.S.-China rapprochement after a planned Trump visit to China in April 2026. But he immediately widens the danger map again: North Korea could exploit regional panic through artillery extortion, and the deeper conflict may arrive not across borders but inside societies. He predicts civil conflict in both the United States and Europe within the 2028 horizon, driven by polarization, AI unemployment, and institutional exhaustion. The public story remains geopolitics, but the real breaking point is social tolerance itself.",
+          "refs": [
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0079",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0080",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0081",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0082",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0083"
+          ],
+          "marks": [
+            {
+              "text": "it's basically extortion",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0082"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "flashpoints-soul-books-002",
+          "text": "Akela's final serious question is whether there is any hope, and Jiang answers by turning the whole interview inward. America's strength, he says, was always its character: freedom, courage, independence. The present danger is safetyism, conformity, and a generation trained to treat liberty as optional. COVID becomes a test of whether a person can keep an independent center under pressure; the coming years will only intensify that trial. Even the reading list at the end is less a list of authorities than a map of method. Thucydides matters because he is brutally honest about how people behave. Peter Turchin matters because elite overproduction explains why systems break from the inside. The interview therefore ends where it began: prediction is not fortune-telling but pattern recognition about what people, elites, and empires do when they stop believing their own story.",
+          "refs": [
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0084",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0085",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0086",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0087",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0088",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0089",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0091",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0092",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0093",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0094",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0095",
+            "video:interview-7qz4kmtbvru@transcript:v1#seg-0096"
+          ],
+          "marks": [
+            {
+              "text": "freedom is what gives people purpose and life",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0087"
+              ]
+            },
+            {
+              "text": "COVID was a big test",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0088"
+              ]
+            },
+            {
+              "text": "it's a treasure trove of information about how we behave, about what drives history",
+              "refs": [
+                "video:interview-7qz4kmtbvru@transcript:v1#seg-0091"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question": "How did you know the Iran strike was coming before it happened?",
+      "asked_by": "Stephen Akela",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0003"
+      ],
+      "answer": "Jiang says the key was treating the Soleimani killing as a de facto declaration of war, then following the electoral contingencies that would eventually put Trump back in position to resume that war logic.",
+      "answer_refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0004",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0005",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0006"
+      ]
+    },
+    {
+      "question": "Can there really be a multipolar world, and where is the Ukraine war headed from here?",
+      "asked_by": "Stephen Akela",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0007",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0008",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0011"
+      ],
+      "answer": "Jiang says the American financial order cannot survive a true multipolar alternative and that Ukraine is already lost militarily, which is why he expects a slow bleed toward Odessa and eventual political upheaval in Europe rather than an honest settlement.",
+      "answer_refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0009",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0010",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0012",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0013",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0014",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0016"
+      ]
+    },
+    {
+      "question": "What is really happening in Venezuela, and how does that connect to Taiwan and China?",
+      "asked_by": "Stephen Akela",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0018",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0019"
+      ],
+      "answer": "Jiang says Venezuela makes little sense as a straightforward geopolitical target and becomes more intelligible as pressure on drug-smuggling and deep-state channels inside a wider struggle with the global financial establishment, while a full invasion would blow up into another Vietnam.",
+      "answer_refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0020",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0021",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0022",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0023",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0024",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0025"
+      ]
+    },
+    {
+      "question": "What is the deep state apparatus, and does today's world war look kinetic or psychological?",
+      "asked_by": "Stephen Akela",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0026",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0031",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0032"
+      ],
+      "answer": "Jiang says secret societies are the most effective deep-state institutions because they can preserve secrecy, trust, and coordination above bureaucracy, and he thinks the main modern war form is fifth-generation warfare aimed at controlling populations and provoking internal fracture rather than open nuclear exchange.",
+      "answer_refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0027",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0028",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0029",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0030",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0033",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0034",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0035",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0036",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0037"
+      ]
+    },
+    {
+      "question": "Are we heading into more extreme politics, and do you really think Trump could force a third term?",
+      "asked_by": "Stephen Akela",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0038",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0039",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0048"
+      ],
+      "answer": "Jiang says American polarization has passed a tipping point because the common dream and the common enemy are gone, the two-party monopoly blocks real alternatives, the Democrats are too weak to oppose Trump's revolution effectively, and that weakness makes a third-term loophole scenario conceivable.",
+      "answer_refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0040",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0041",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0045",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0046",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0047",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0049",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0050"
+      ]
+    },
+    {
+      "question": "Why does Washington seem obsessed with supporting Israel first?",
+      "asked_by": "Stephen Akela",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0055"
+      ],
+      "answer": "Jiang walks through several possibilities but ultimately prefers the imperial one: Israel functions as a borderland construct for managing the Levant through instability, making it useful to larger imperial interests beyond the public corruption story alone.",
+      "answer_refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0056",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0057",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0058",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0059",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0060",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0061",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0062"
+      ]
+    },
+    {
+      "question": "What do you think cryptocurrency, central bank digital currency, and AI are really doing to society?",
+      "asked_by": "Stephen Akela",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0063",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0064",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0065",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0072",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0073"
+      ],
+      "answer": "Jiang treats Bitcoin as a likely deep-state project, CBDCs as the programmable-money future that will need a manufactured crisis to become normal, and AI as a last legitimacy machine that helps governments justify layoffs, centralize information, and eventually redirect social breakdown toward war.",
+      "answer_refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0066",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0067",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0068",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0069",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0070",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0071",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0074",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0075",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0076",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0078"
+      ]
+    },
+    {
+      "question": "Where are the next flashpoints, is there any spiritual hope, and what books shaped your method?",
+      "asked_by": "Stephen Akela",
+      "refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0079",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0085",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0086",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0089"
+      ],
+      "answer": "Jiang says Odessa and Iran remain the main flashpoints, Taiwan is less likely than people think, North Korea could exploit regional panic, civil conflict in the West is increasingly likely, and the real antidote is a freedom-shaped character strong enough to survive coming crises. He then names Thucydides, Peter Turchin, and Antony Beevor as guides to the historical method behind those forecasts.",
+      "answer_refs": [
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0080",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0081",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0082",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0083",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0087",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0088",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0091",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0092",
+        "video:interview-7qz4kmtbvru@transcript:v1#seg-0093"
+      ]
+    }
+  ]
+}
