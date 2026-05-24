@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-24: Sanctions-as-dead-ritual belongs inside Bureaucracy when Jiang frames Western elites as lacking plan/imagination and repeating sanctions because the institution knows that move, even after reality shows workarounds and failure. Route material battlefield adaptation and sanction effectiveness to Strategy Material Test, narrative capture to Stories only when imagination/world-making is primary, and capital flight or dollar-system effects to Power As Alchemy.
+
 - 2026-05-24: Civilizational scorecard belongs inside The Borderland Engine when Jiang frames energy, openness, and cohesion as the reusable test for whether a people, army, empire, or would-be successor still has hunger, humility/adaptation, and collective motion. Route battlefield executability to Strategy Material Test, investor-capital migration to Power As Alchemy, national body machinery to Nation, and elite self-blinding bubbles to Bureaucracy unless the active mechanism is the triad itself.
 
 - 2026-05-24: Managed regional retreat belongs inside Strategy Material Test when Jiang frames a declining empire tightening the Western Hemisphere, using Venezuela pressure as oil bargaining under Monroe-Doctrine red lines, absorbing near-abroad resources/labor, and preserving leverage through regional proxies like Germany, Japan, and Israel while posing as broker. Route investor confidence and capital migration to Power As Alchemy, hidden funding/trust claims to Secret Society, national body/resource machinery to Nation, and payoff timing to Game Theory.
