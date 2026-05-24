@@ -1,0 +1,34 @@
+id: "video:interview-gssim9xnrae@transcript:v1"
+source_id: "video:interview-gssim9xnrae"
+version: 1
+language: "en"
+language_probability: 0.978
+duration_seconds: 3412.821
+segments: 75
+word_count: 9234
+speakers:
+  - "SPEAKER_00"
+  - "SPEAKER_01"
+chronology:
+  source_date: "2025-11-24"
+  date_precision: "day"
+  chronology_status: "dated"
+  date_gate_passed: true
+automation:
+  canon_promotion_allowed: true
+  human_review_policy: "report-driven"
+  speaker_label_source: "diarization"
+  semantic_pass: "agent-required"
+  accepts_error_reports: true
+segmentation:
+  strategy: "word-timestamp-chunks"
+  max_words: 160
+  max_seconds: 180
+  timed_phrase_chunks: "preserved-when-word-timestamps-exist"
+generated_from:
+  source_artifact_dir: "content/sources/raw/youtube/Interviews/UCZFCDIHTe9HGxtIuVDpBz7g/GSSIm9xNRAE"
+  youtube_metadata: "content/sources/raw/youtube/Interviews/UCZFCDIHTe9HGxtIuVDpBz7g/GSSIm9xNRAE/metadata.youtube.json"
+  youtube_metadata_source: "yt-dlp"
+  transcription_json_sha256: "81d37f5958cb7edea8b8089c7534bf774ebb017b9e58d1053c469ece0565a72a"
+  grouped_json_sha256: "357ccafa7d63171f665ac2947166b6e4e2d137fecdc5b0203e7aa612032cbb51"
+  dump_json_sha256: "06c85f69b103ec6d4d6f87419d3f22948fe772930db6e4997188008df4b0e936"
