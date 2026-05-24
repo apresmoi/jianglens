@@ -1,5 +1,7 @@
 # Plato Memory
 
+- 2026-05-24: Epstein-type coordinator belongs inside Secret Society when Jiang frames blackmail brokers as a recurrent solution to elite coordination under atomization, weak collective identity, and bureaucratic fragmentation: secrecy, trust, coordination, and shared taboo vulnerability substitute for open common purpose. Route public scandal attention to Attention Capture, forbidden-boundary logic to Taboo, visible faction payoffs to Game Theory, and bureaucratic silo failure to Bureaucracy unless the active mechanism is the hidden trust broker.
+
 - 2026-05-24: Elite-overproduction domestic war belongs inside Game Theory when Jiang frames visible party conflict, foreign conflict, civil unrest, or collapse politics as the surface of a nearer elite position game: too many elites competing for too few command slots, drawing states/proxies/public rage into their factional struggle. Route energy/openness/cohesion to Borderland, sanctions/narrative dead ritual to Bureaucracy, material executability to Strategy, and capital migration or rentier conversion to Power.
 
 - 2026-05-24: Sanctions-as-dead-ritual belongs inside Bureaucracy when Jiang frames Western elites as lacking plan/imagination and repeating sanctions because the institution knows that move, even after reality shows workarounds and failure. Route material battlefield adaptation and sanction effectiveness to Strategy Material Test, narrative capture to Stories only when imagination/world-making is primary, and capital flight or dollar-system effects to Power As Alchemy.
