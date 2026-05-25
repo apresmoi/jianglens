@@ -177,6 +177,20 @@ A game-theory prediction changes the board when the game becomes visible enough 
 
 The boundary matters. This is not a separate "great man" theory and not a license to make every forecast unfalsifiable. The useful diagnostic is narrower: when a model has become clear enough to guide action, ask who can read the same model, enter late, and turn the visible trajectory into a weapon.
 
+## When Target Order Creates Alignment
+
+Strategic sequencing is one of Jiang's cleanest late-game examples of a board becoming visible enough to change the players' incentives. The move sounds practical from the imperial center: freeze or settle one front, free attention and resources, then move against the next target. The problem is that the targets can read the order too.
+
+In the **2025-11-06** Duran interview, Jiang names the policy directly. Americans, in his diagnosis, are discussing strategic sequencing: [end Ukraine so the United States can move against Iran and then China]{evidence="video:interview-jlejlzmum4g@transcript:v1#seg-0065"}. That order gives Russia a reason not to accept a settlement that only lets Washington circle back later. It also changes the China-Iran-Russia board: [Iran, Russia, and China recognize that they need to stick together or fall one by one]{evidence="video:interview-jlejlzmum4g@transcript:v1#seg-0066"}.
+
+The **2026-01-25** interview with The Geopolitics Show gives the same mechanism a broader middle-power image. After describing Greenland, Canada, and Europe as successive targets of coercion, Jiang says [eventually everyone is on the menu]{evidence="video:interview-uydy86kpfns@transcript:v1#seg-0021"}. That is not the same source cluster as the Ukraine-Iran-China sequence, but it carries the same game-theory pressure: if the order is visible, waiting politely for a private exemption becomes irrational.
+
+<!-- lens-point id="game-theory-strategic-sequencing-backfires" concept="game-theory-method" evidence="video:interview-jlejlzmum4g@transcript:v1#seg-0065 video:interview-jlejlzmum4g@transcript:v1#seg-0066 video:interview-uydy86kpfns@transcript:v1#seg-0021" -->
+<span id="game-theory-strategic-sequencing-backfires" class="lens-point-anchor"></span>
+Strategic sequencing backfires when a hegemon's one-by-one target order becomes visible enough that later targets coordinate, because each one's fall exposes the rest.
+
+This belongs on Game Theory before it belongs on Strategy. Strategy asks whether the empire can actually fight, supply, occupy, finance, and exit the fronts it imagines. Game Theory asks the prior player-position question: once the order of targets is visible, who has an incentive to bind together even if their ordinary interests diverge?
+
 ## Theater Becomes A Prediction Test
 
 The late-processed **2026-01-05** Glenn Diesen interview gives the May lecture an earlier public formulation. Jiang treats April not as a calendar curiosity but as a board position. Trump, in this dated forecast, wants Caribbean pressure, Western Hemisphere control, African competition, and China-Japan tension to accumulate before the China meeting because [everything is leading to April, where leverage can be converted into a grand bargain]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0075 video:interview-orycs0r2tpg@transcript:v1#seg-0091 video:interview-orycs0r2tpg@transcript:v1#seg-0092"}. That is a game-theory move before it is a strategy claim: the summit is not the game; it is the moment where previous moves try to change the payoff table.

@@ -1,12 +1,12 @@
 # Strategic Sequencing
 
 Date: 2026-05-25
-Status: lens seed; held from public promotion pending cross-source recurrence
-Work type: proposal synthesis from `interview-jlejlzmum4g`
+Status: public Game Theory subsection and lens point added after cross-source recurrence
+Work type: proposal synthesis from `interview-jlejlzmum4g`; promoted as compact public subsection after comparison with `interview-uydy86kpfns`
 
 ## Proposed Boundary
 
-Record **strategic sequencing** as a held lens seed, not a public page yet. The mechanism is that a hegemon tries to settle, freeze, or compartmentalize one front so it can move to the next target. Once that order becomes visible, the targets can rationally bind together: each reads the other's fall as its own future exposure.
+Record **strategic sequencing** as a compact public Game Theory subsection and lens point, not a standalone page. The mechanism is that a hegemon tries to settle, freeze, or compartmentalize one front so it can move to the next target. Once that order becomes visible, the targets can rationally bind together: each reads the other's fall as its own future exposure.
 
 This is narrower than general alliance formation. It applies when four conditions appear together:
 
@@ -48,25 +48,20 @@ Do not use it for bureaucratic drift unless the active mechanism is failed insti
 
 The current Strategy page already has a strong vassal-proxy anchor from this interview. Without a separate seed, later agents could overstuff that anchor with every late-imperial mechanism in the source. Strategic sequencing gives the map a cleaner boundary: a serial target order can create the alignment it is meant to prevent.
 
-The seed is not ready for public promotion because this is one source cluster, and Jiang presents the policy discussion as a diagnosis rather than a verified document. It is still worth recording now because the mechanism is reusable and easy to confuse with Strategy's allied-expenditure material.
+The seed was not ready for a standalone public page from the Duran interview alone, because Jiang presents the policy discussion as a diagnosis rather than a verified document. The later cross-source comparison justifies a compact Game Theory anchor, while keeping the mechanism deliberately narrower than Strategy's allied-expenditure material.
 
-## Candidate Future Lens Point
+## Public Lens Point
 
-Do not add this now. If later sources repeat the mechanism, a compact anchor could be:
+Added on 2026-05-25 after cross-source comparison:
 
 ```md
-<!-- lens-point id="game-theory-strategic-sequencing" concept="strategic-sequencing" evidence="video:interview-jlejlzmum4g@transcript:v1#seg-0065 video:interview-jlejlzmum4g@transcript:v1#seg-0066 video:interview-jlejlzmum4g@transcript:v1#seg-0067" -->
-<span id="game-theory-strategic-sequencing" class="lens-point-anchor"></span>
-Strategic sequencing backfires when a hegemon's one-by-one target order becomes visible enough that the next targets coordinate because each one's fall exposes the rest.
+<!-- lens-point id="game-theory-strategic-sequencing-backfires" concept="game-theory-method" evidence="video:interview-jlejlzmum4g@transcript:v1#seg-0065 video:interview-jlejlzmum4g@transcript:v1#seg-0066 video:interview-uydy86kpfns@transcript:v1#seg-0021" -->
+<span id="game-theory-strategic-sequencing-backfires" class="lens-point-anchor"></span>
+Strategic sequencing backfires when a hegemon's one-by-one target order becomes visible enough that later targets coordinate, because each one's fall exposes the rest.
 ```
 
-## Promotion Test
+## Promotion Record
 
-Promote this seed only if later sources show at least one of these:
+On 2026-05-25, Plato promoted this from held seed to a compact subsection on [Game Theory](/lens/game-theory/) after the **2026-01-25** Geopolitics Show interview supplied a second form of the mechanism: Greenland, Canada, Europe, and "everyone on the menu" as visible target order (`video:interview-uydy86kpfns@transcript:v1#seg-0021`).
 
-- Jiang repeats strategic sequencing outside the Duran interview;
-- another published read needs the same boundary to explain Russia-China-Iran alignment, Ukraine-to-Iran-to-China ordering, or a hemispheric-retreat debate;
-- public Game Theory and Strategy pages begin duplicating the same target-order explanation;
-- an atlas relation needs to distinguish player alignment from material overextension.
-
-Until then, keep it as routing discipline for future Plato work.
+The promotion remains intentionally small: no new page, no canon claim, and no claim that every coalition is strategic sequencing. Future work should expand it only if additional dated sources repeat target-order-created alignment outside these two source clusters.
