@@ -69,11 +69,13 @@ The undated Russia Today interview gives the Ukraine war a related player-identi
 
 That is why Jiang explicitly says that, from a game-theory perspective, [the war is not only between Ukraine and Russia but between Ukraine, Russia, and Europe]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0036"}. The claim is not a minor naming correction. Financing, weapons, special forces, command and control, intelligence, and targeting change who is actually playing. If the analyst treats Ukraine as the whole player, the war looks like irrational national self-harm. If Europe is also a player, the continuation becomes legible as a different game: the battlefield is Ukrainian, but the decision layer includes European sovereignty, NATO dependency, war-economy extraction, and the refusal to accept defeat.
 
-<!-- lens-point id="game-theory-proxy-war-real-player" concept="game-theory-method" evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0032 video:interview-qsxkdk4mzgk@transcript:v1#seg-0033 video:interview-qsxkdk4mzgk@transcript:v1#seg-0034 video:interview-qsxkdk4mzgk@transcript:v1#seg-0036 video:interview-qsxkdk4mzgk@transcript:v1#seg-0037 video:interview-qsxkdk4mzgk@transcript:v1#seg-0039" -->
+The **2025-10-30** Cyrus Janssen interview makes the same test less abstract and more forensic. Jiang says the troops are Ukrainian, but then itemizes the agency layer: [financing, technology, special forces, command and control, and targeting are NATO]{evidence="video:interview-xrk5vsezj4y@transcript:v1#seg-0018"}. The point is not only that allies support a battlefield. It is that agency has moved. When bridges or pipelines are attacked, Jiang says the visible actor lacks the technology and expertise, so the analyst has to ask which institution can actually make the move. The later mafia-empire paragraph pushes the same naming test into the alliance economy: America can no longer finance the war cheaply, so it wants [NATO to fight these wars on its behalf]{evidence="video:interview-xrk5vsezj4y@transcript:v1#seg-0019"}.
+
+<!-- lens-point id="game-theory-proxy-war-real-player" concept="game-theory-method" evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0032 video:interview-qsxkdk4mzgk@transcript:v1#seg-0033 video:interview-qsxkdk4mzgk@transcript:v1#seg-0034 video:interview-qsxkdk4mzgk@transcript:v1#seg-0036 video:interview-qsxkdk4mzgk@transcript:v1#seg-0037 video:interview-qsxkdk4mzgk@transcript:v1#seg-0039 video:interview-xrk5vsezj4y@transcript:v1#seg-0018 video:interview-xrk5vsezj4y@transcript:v1#seg-0019" -->
 <span id="game-theory-proxy-war-real-player" class="lens-point-anchor"></span>
 Proxy war analysis starts by identifying the real player: the actor taking losses may not be the actor whose incentives prolong the game, and financing, weapons, intelligence, command, manpower, and elite profit can move agency away from the visible battlefield nation.
 
-The boundary with strategy matters. Odessa, conscription, desertion, morale, infrastructure, and the final battlefield peace belong to [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) when the active question is whether the war can still be fought. Game Theory owns the prior diagnostic: before judging whether a player is rational, ask whether the correct player has been named.
+The boundary with strategy matters. Odessa, conscription, desertion, morale, infrastructure, the European draft forecast, and the final battlefield peace belong to [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) when the active question is whether the war can still be fought. Game Theory owns the prior diagnostic: before judging whether a player is rational, ask whether the correct player has been named.
 
 ## Superstructure Changes The Game
 
@@ -302,6 +304,9 @@ The final question is often the most important. A trap is not just a bad move. I
 
 - **Undated**, [History Must Predict Or It Becomes Propaganda](/interviews/interview-qsxkdk4mzgk/)
   Jiang gives the prediction method its anti-propaganda entrance: history can manipulate losers when written by winners, so psychohistory has to risk future claims; the same interview then imagines AI simulation as a long-horizon governing aid that still has to serve love, creativity, learning, and human flourishing.
+
+- **2025-10-30**, [Mafia Empire, Sunk Costs, And The Taiwan Illusion](/interviews/interview-xrk5vsezj4y/)
+  The proxy-player test sharpens into a NATO agency audit: Ukrainian troops remain visible, but Jiang assigns financing, technology, special forces, command and control, targeting, and alliance extortion to NATO and the American empire.
 
 - **2026-01-05**, [An Empire That Sacrifices Strategy For Optics](/interviews/interview-orycs0r2tpg/)
   The April grand-bargain forecast shows the sequence rule: pressure across theaters, internal Chinese factions, and the later Iran endgame make the China meeting one move in a wider game rather than a self-contained diplomatic event.
