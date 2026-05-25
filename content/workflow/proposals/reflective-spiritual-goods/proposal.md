@@ -1,14 +1,14 @@
 # Reflective Spiritual Goods
 
 Date: 2026-05-23
-Status: held lens seed; no standalone public page
-Work type: proposal synthesis
+Status: promoted to compact atlas relation on 2026-05-25; no standalone public page
+Work type: proposal synthesis; atlas relation promotion
 Review:
 - `content/workflow/reviews/reflective-spiritual-goods/local-judge-2026-05-23.md`
 
 ## Proposed Boundary
 
-Record **reflective spiritual goods** as a held lens seed for Jiang's anti-zero-sum moral cosmology. The mechanism is that some goods do not diminish when shared. Love, generosity, forgiveness, kindness, light, and courage intensify through reflection: one person's action changes the whole field because each soul mirrors the others.
+Record **reflective spiritual goods** as a compact atlas relation for Jiang's anti-zero-sum moral cosmology. The mechanism is that some goods do not diminish when shared. Love, generosity, forgiveness, kindness, light, and courage intensify through reflection: one person's action changes the whole field because each soul mirrors the others.
 
 This seed should stay narrower than "love" or "spirituality" as topics. It applies when a source shows the same chain:
 
@@ -18,6 +18,8 @@ This seed should stay narrower than "love" or "spirituality" as topics. It appli
 4. the multiplication changes the moral stakes of one person's choice.
 
 The seed should not become a public concept page yet. The existing pages already own most of its active surfaces. [Human Heart](/lens/human-heart-as-civilizational-measure/) owns relational love, recognition, empathy, and forgiveness when another person becomes visible. [Free Will](/lens/free-will-as-cosmic-burden/) owns the choice to shine, forgive the self, cleanse the soul, or refuse chosen darkness. [Game Theory](/lens/game-theory/) owns zero-sum status and payoff analysis when the active question is incentives. [Attention Capture](/lens/attention-capture-as-capital-extraction/) owns consumer envy when comparison redirects focus into debt, display, work, or platform reaction.
+
+2026-05-25 update: the seed has been promoted only to a compact atlas relation and durable atlas lens point, `lens-point:reflective-spiritual-goods-multiply`, in `website/src/content/docs/lens.md`. It remains below the threshold for a standalone concept page.
 
 This proposal records the missing comparative boundary: when Jiang's sources move from zero-sum material scarcity to a reflective spiritual field, future workers should ask whether the field itself has become the mechanism.
 
@@ -77,7 +79,7 @@ Do not add these to public pages until promotion is justified. Possible future a
 
 ## Promotion Test
 
-Keep this as a held seed unless later source pressure makes the reflective field itself the missing reader surface. Promotion would become justified if at least two of these are true:
+Keep this below standalone-page status unless later source pressure makes the reflective field itself the missing reader surface. Promotion beyond the compact atlas relation would become justified if at least two of these are true:
 
 1. Later sources repeat the material-versus-spiritual-goods contrast beyond the Dante envy passage.
 2. Existing Human Heart and Free Will pages begin duplicating the same explanation of reflection, multiplication, and non-zero-sum spiritual goods.
