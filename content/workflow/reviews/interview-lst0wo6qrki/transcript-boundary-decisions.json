@@ -1,0 +1,100 @@
+{
+  "source_slug": "interview-lst0wo6qrki",
+  "decisions": [
+    {
+      "candidate_id": "seg-0004->seg-0005:move-leading-completion-to-previous:ddf93d71dbf9",
+      "decision": "approve",
+      "reason": "Moves the rest of the interviewer question back to the segment that already contains its opening clause."
+    },
+    {
+      "candidate_id": "seg-0006->seg-0007:move-leading-completion-to-previous:f07c4d63b459",
+      "decision": "approve",
+      "reason": "Completes the sentence about the expelled American journalists without changing wording."
+    },
+    {
+      "candidate_id": "seg-0011->seg-0012:move-leading-completion-to-previous:73d97c644f5d",
+      "decision": "approve",
+      "reason": "Finishes the phrase 'the information released ... so far' before the next question begins."
+    },
+    {
+      "candidate_id": "seg-0013->seg-0014:move-leading-completion-to-previous:cb4c452366d6",
+      "decision": "approve",
+      "reason": "Completes the sentence about the lack of incentive for Chinese innovation."
+    },
+    {
+      "candidate_id": "seg-0017->seg-0018:move-leading-completion-to-previous:d5b96092fa6b",
+      "decision": "approve",
+      "reason": "Moves the final words of the interviewer question back to the question segment."
+    },
+    {
+      "candidate_id": "seg-0019->seg-0020:move-leading-completion-to-previous:9a1af6f417e8",
+      "decision": "approve",
+      "reason": "Completes the interviewer question about China becoming a superpower."
+    },
+    {
+      "candidate_id": "seg-0024->seg-0025:move-leading-completion-to-previous:feeac5b45283",
+      "decision": "approve",
+      "reason": "Moves the tail of the sentence back to the segment that asks the question."
+    },
+    {
+      "candidate_id": "seg-0026->seg-0027:move-leading-completion-to-previous:1a1e88f19069",
+      "decision": "approve",
+      "reason": "Completes the sentence that Trump did not have much power and was on the defensive."
+    },
+    {
+      "candidate_id": "seg-0027->seg-0028:move-leading-completion-to-previous:bad95081d154",
+      "decision": "approve",
+      "reason": "Completes the causal sentence about war giving Trump emergency war powers."
+    },
+    {
+      "candidate_id": "seg-0031->seg-0032:move-leading-completion-to-previous:c35cec51185e",
+      "decision": "approve",
+      "reason": "Moves the sentence completion 'cry for a king' back to the historical claim that sets it up."
+    },
+    {
+      "candidate_id": "seg-0038->seg-0039:move-leading-completion-to-previous:f8ed2436a0c4",
+      "decision": "approve",
+      "reason": "Completes the condition that social unrest enables a controlled economic implosion."
+    },
+    {
+      "candidate_id": "seg-0043->seg-0044:move-leading-completion-to-previous:e1a99d062d03",
+      "decision": "approve",
+      "reason": "Finishes the sentence 'That's kind of ridiculous situation to be in.'"
+    },
+    {
+      "candidate_id": "seg-0046->seg-0047:move-leading-completion-to-previous:c103b6e593e9",
+      "decision": "approve",
+      "reason": "Completes the sentence about Goldman Sachs creating the crisis and the collapse."
+    },
+    {
+      "candidate_id": "seg-0049->seg-0050:move-leading-completion-to-previous:5903803bc8df",
+      "decision": "approve",
+      "reason": "Moves the sentence ending about the crash back to the segment that begins it."
+    },
+    {
+      "candidate_id": "seg-0052->seg-0053:move-leading-completion-to-previous:e149c69eab84",
+      "decision": "approve",
+      "reason": "Completes the phrase 'So that's the idea of digital currency.'"
+    },
+    {
+      "candidate_id": "seg-0053->seg-0054:move-leading-completion-to-previous:167725363472",
+      "decision": "approve",
+      "reason": "Moves 'break out' back to the sentence about wars that break out."
+    },
+    {
+      "candidate_id": "seg-0056->seg-0057:move-leading-completion-to-previous:3f5c2a66c2b2",
+      "decision": "approve",
+      "reason": "Completes the phrase 'programmable digital currency.'"
+    },
+    {
+      "candidate_id": "seg-0057->seg-0058:move-leading-completion-to-previous:c9dd43ec691a",
+      "decision": "reject",
+      "reason": "The proposed move leaves an awkward ASR-damaged phrase rather than an obvious clean completion, so it is safer to leave the boundary unchanged."
+    },
+    {
+      "candidate_id": "seg-0061->seg-0062:move-leading-completion-to-previous:adaec8a27576",
+      "decision": "reject",
+      "reason": "The candidate appears to be ASR noise around 'YouTube channel' rather than a clear sentence completion."
+    }
+  ]
+}
