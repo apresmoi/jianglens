@@ -1,0 +1,211 @@
+{
+  "packet_id": "interview-xrk5vsezj4y-semantics-pkt-0001",
+  "source_id": "video:interview-xrk5vsezj4y",
+  "source_date": "2025-10-30",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens with a cold-open style thesis that personal relations among leaders, especially Trump and Xi, can reshape geopolitics toward rapprochement.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0002",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "The host introduces Jiang as a game-theory geopolitical commentator and frames the interview themes around Iran, the Middle East, Ukraine, and Taiwan.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0004"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang gives a brief greeting after the welcome.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0005"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to explain his game-theory method for analyzing geopolitics and predicting future events.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang defines geopolitics as a game among strategic players and says studying each side's interests, history, and preferred outcomes makes state behavior predictable.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0007"
+      ],
+      "kind": "question",
+      "summary": "The host pivots from Jiang's Iran prediction to ask how he reads the Israel-Hamas ceasefire and Trump's claim to have solved Middle East conflict.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang dismisses Trump's peacemaking boast and starts a structural explanation of why the Middle East remains persistently conflict-ridden.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "note": "The opening segment reads like an editorial teaser extracted from a later China-U.S. section rather than the chronological start of the conversation, but it is still Jiang speaking.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang's core model is that geopolitics is a game among players with distinct strategies and interests who try to optimize outcomes.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "2025-10-30 interview framing",
+      "topic_tags": [
+        "game-theory",
+        "geopolitics",
+        "method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "By studying a state's history, internal politics, and preferred outcome, Jiang believes one can predict its geopolitical behavior.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "2025-10-30 interview framing",
+      "topic_tags": [
+        "prediction",
+        "method",
+        "state-behavior"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says this method is why he predicted that the United States would attack Iran.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "retrospective claim made on 2025-10-30",
+      "topic_tags": [
+        "iran",
+        "prediction-record"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang is optimistic that Trump and Xi can restore a China-U.S. rapprochement because he sees their interpersonal relationship as politically important.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "forward-looking expectation from 2025-10-30",
+      "topic_tags": [
+        "china-us",
+        "trump",
+        "xi",
+        "rapprochement"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that the Middle East remains strategically central because major trade routes still run through it, including routes relevant to China, Europe, and Russia.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "middle-east",
+        "trade-routes",
+        "global-conflict"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0006"
+      ],
+      "moment": "Jiang compresses his method into a game-theory picture of states as players optimizing outcomes.",
+      "source_phrase": "I see geopolitics as a game among different players.",
+      "why_it_matters": "This is the compact methodological sentence that organizes the entire interview's later predictions.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "moment": "He treats leader-to-leader friendship as a causal geopolitical lever, not mere personality trivia.",
+      "source_phrase": "this interpersonal relationship between Trump and President Xi is very important",
+      "why_it_matters": "It previews Jiang's habit of grounding macro forecasts in elite interpersonal dynamics.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "rapprochement",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "Used for a renewed warming or reconciliation in China-U.S. relations after Trump and Xi reconnect personally.",
+      "confidence": "high"
+    },
+    {
+      "term": "game among different players",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's shorthand for treating geopolitics as strategic interaction among states with interests, strategies, and optimization goals.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "note": "At the start of this 2025-10-30 interview, Jiang already frames the coming Trump-Xi meeting as a likely basis for renewed China-U.S. accommodation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "note": "The segment appears editorially lifted from a later answer, so its position in the transcript is non-chronological even though the wording is substantive."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "source_slug": "interview-xrk5vsezj4y",
+  "decisions": [
+    {
+      "candidate_id": "seg-0002->seg-0003:move-leading-completion-to-previous:292c3df3688b",
+      "decision": "approve",
+      "reason": "Moves the completion of the host's introduction back to the sentence that ends with 'fastest growing'."
+    },
+    {
+      "candidate_id": "seg-0008->seg-0009:move-leading-completion-to-previous:edd5610cc2a3",
+      "decision": "approve",
+      "reason": "Completes 'So all the major trade routes run through the Middle East' without changing the topic break."
+    },
+    {
+      "candidate_id": "seg-0009->seg-0010:move-leading-completion-to-previous:f01b82332a49",
+      "decision": "approve",
+      "reason": "Carries the clause after 'for them' into the same sentence where the thought begins."
+    },
+    {
+      "candidate_id": "seg-0012->seg-0013:move-leading-completion-to-previous:5b3f8de979c7",
+      "decision": "approve",
+      "reason": "Completes 'He'll go to prison' before the next sentence starts."
+    },
+    {
+      "candidate_id": "seg-0015->seg-0016:move-leading-completion-to-previous:f83774575f21",
+      "decision": "approve",
+      "reason": "Finishes the host's question about Russia, Ukraine, and how the war influenced Europe."
+    },
+    {
+      "candidate_id": "seg-0017->seg-0018:move-leading-completion-to-previous:91a078071600",
+      "decision": "approve",
+      "reason": "Completes 'that's something that we have to remember' before Jiang continues the argument."
+    },
+    {
+      "candidate_id": "seg-0018->seg-0019:move-leading-completion-to-previous:e6b27dc84b31",
+      "decision": "approve",
+      "reason": "Moves the completion of the causal claim about why NATO looks weak back to the sentence that introduces it."
+    },
+    {
+      "candidate_id": "seg-0019->seg-0020:move-leading-completion-to-previous:defbffedcac3",
+      "decision": "approve",
+      "reason": "Completes 'the attitude of Trump' rather than leaving the noun phrase split."
+    },
+    {
+      "candidate_id": "seg-0020->seg-0021:move-leading-completion-to-previous:e307229667d9",
+      "decision": "approve",
+      "reason": "Finishes the prediction that this will cause political dissent within Europe."
+    },
+    {
+      "candidate_id": "seg-0024->seg-0025:move-leading-completion-to-previous:1d315d1056c9",
+      "decision": "approve",
+      "reason": "Completes the claim that Western Ukraine does not have its own agricultural and industrial resources."
+    },
+    {
+      "candidate_id": "seg-0027->seg-0028:move-leading-completion-to-previous:778d4305d06f",
+      "decision": "approve",
+      "reason": "Finishes the Moldova membership clause before the summary sentence begins."
+    },
+    {
+      "candidate_id": "seg-0029->seg-0030:move-leading-completion-to-previous:ce7bd53c37d6",
+      "decision": "approve",
+      "reason": "Keeps the host's question intact by moving 'is your thoughts on that?' back to 'What'."
+    },
+    {
+      "candidate_id": "seg-0031->seg-0032:move-leading-completion-to-previous:bb9a9b6fe6d8",
+      "decision": "approve",
+      "reason": "Completes 'sunk cost fallacy' inside the same analogy sentence."
+    },
+    {
+      "candidate_id": "seg-0033->seg-0034:move-leading-completion-to-previous:094c495254dd",
+      "decision": "approve",
+      "reason": "Completes the Odessa end-goal sentence that currently breaks after 'Putin and'."
+    },
+    {
+      "candidate_id": "seg-0035->seg-0036:move-leading-completion-to-previous:2637edfaf61b",
+      "decision": "reject",
+      "reason": "The split appears to include ASR damage around 'OpenAI'; moving it back would not produce a clean sentence."
+    },
+    {
+      "candidate_id": "seg-0039->seg-0040:move-leading-completion-to-previous:a8e6a5e4af9c",
+      "decision": "approve",
+      "reason": "Completes the host's trade question instead of leaving 'How do you look' hanging."
+    },
+    {
+      "candidate_id": "seg-0046->seg-0047:move-leading-completion-to-previous:cd31926049f3",
+      "decision": "reject",
+      "reason": "The proposed move creates 'There's no there's no...' and looks like ASR duplication rather than a real split."
+    },
+    {
+      "candidate_id": "seg-0050->seg-0051:move-leading-completion-to-previous:88668975577c",
+      "decision": "approve",
+      "reason": "Completes the sentence about China's trade dependence after the Strait of Malacca point."
+    },
+    {
+      "candidate_id": "seg-0051->seg-0052:move-leading-completion-to-previous:8074dfe7b52b",
+      "decision": "approve",
+      "reason": "Completes 'Also, we have to remember' before the North Korea point begins."
+    },
+    {
+      "candidate_id": "seg-0052->seg-0053:move-trailing-starter-to-next:d6d30c6567df",
+      "decision": "approve",
+      "reason": "Moves the trailing starter 'So,' onto the sentence it actually introduces."
+    },
+    {
+      "candidate_id": "seg-0061->seg-0062:move-leading-completion-to-previous:6bbc9bfa5975",
+      "decision": "approve",
+      "reason": "Completes the host's hope that the leaders' meeting results in positive changes."
+    }
+  ]
+}

@@ -1,0 +1,1774 @@
+{
+  "id": "evidence:semanticvideo-interview-xrk5vsezj4y:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-xrk5vsezj4y",
+  "source_id": "video:interview-xrk5vsezj4y",
+  "source_title": "Professor Jiang Xueqin: The World Is About to Change",
+  "source_url": "https://www.youtube.com/watch?v=XRk5VSEzJ4Y",
+  "source_date": "2025-10-30",
+  "date_precision": "day",
+  "transcript_id": "video:interview-xrk5vsezj4y@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-xrk5vsezj4y/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-xrk5vsezj4y/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-xrk5vsezj4y/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-xrk5vsezj4y/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-xrk5vsezj4y/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-xrk5vsezj4y/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-xrk5vsezj4y/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-xrk5vsezj4y/packet-0008.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-xrk5vsezj4y/source.yaml",
+    "transcript_path": "content/sources/videos/interview-xrk5vsezj4y/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 8,
+    "interactions": 37,
+    "speaker_notes": 9,
+    "claims": 57,
+    "signature_moments": 18,
+    "predictions": 21,
+    "models": 10,
+    "glossary_terms": 16,
+    "chronology_notes": 8,
+    "uncertainty_notes": 8
+  },
+  "first_refs": [
+    "video:interview-xrk5vsezj4y@transcript:v1#seg-0006",
+    "video:interview-xrk5vsezj4y@transcript:v1#seg-0001",
+    "video:interview-xrk5vsezj4y@transcript:v1#seg-0008",
+    "video:interview-xrk5vsezj4y@transcript:v1#seg-0009",
+    "video:interview-xrk5vsezj4y@transcript:v1#seg-0010",
+    "video:interview-xrk5vsezj4y@transcript:v1#seg-0012",
+    "video:interview-xrk5vsezj4y@transcript:v1#seg-0013",
+    "video:interview-xrk5vsezj4y@transcript:v1#seg-0014"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens with a cold-open style thesis that personal relations among leaders, especially Trump and Xi, can reshape geopolitics toward rapprochement.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0002",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "The host introduces Jiang as a game-theory geopolitical commentator and frames the interview themes around Iran, the Middle East, Ukraine, and Taiwan.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0004"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang gives a brief greeting after the welcome.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0005"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to explain his game-theory method for analyzing geopolitics and predicting future events.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang defines geopolitics as a game among strategic players and says studying each side's interests, history, and preferred outcomes makes state behavior predictable.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0007"
+      ],
+      "kind": "question",
+      "summary": "The host pivots from Jiang's Iran prediction to ask how he reads the Israel-Hamas ceasefire and Trump's claim to have solved Middle East conflict.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang dismisses Trump's peacemaking boast and starts a structural explanation of why the Middle East remains persistently conflict-ridden.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0009",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang completes his structural account of the Middle East by tying conflict to trade chokepoints, oil dependence, and eschatological religion.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0011"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether the current Israel-Hamas ceasefire can hold or whether the region is still headed for continued conflict despite Trump's plans.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0012",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0013",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0014"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says he hopes for peace but predicts the ceasefire is unlikely to last because Israel's internal political fractures and militant actors create incentives to resume war.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0015",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "The host partly agrees with Jiang's diagnosis, adds speculation about Netanyahu and October 7, and then pivots the interview toward Russia and Ukraine.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0017",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0018",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0019",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0020",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0021"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues that Russia was provoked into invading Ukraine by NATO expansion, says the war is really Russia against NATO, and predicts Europe could face internal unrest if it is pushed to finance and staff a hopeless proxy war.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0022",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0023"
+      ],
+      "kind": "exchange",
+      "summary": "The host agrees that the war serves U.S. interests at Ukrainian expense and calls it a pointless conflict that ignores Ukrainian and Russian losses.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang escalates the argument by saying Ukraine is finished as a nation because of casualties, refugee outflow, and the likely loss of the resource-rich east.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0025"
+      ],
+      "kind": "answer",
+      "summary": "Jiang concludes his Ukraine-collapse argument by saying western Ukraine will become a European welfare dependency and that Europe effectively sacrificed the country.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0026"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Western warnings about Putin threatening all of Europe are just another consent-building narrative like the Vietnam domino theory.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0027",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0028"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with a three-part case that NATO broke non-expansion assurances, rejected Putin's bids to join, and kept pushing into Russia's sphere, leaving Russia to act defensively.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0029"
+      ],
+      "kind": "question",
+      "summary": "The host asks how and when the war actually ends, whether Trump can end it, and whether it has become another endless war of attrition.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0030",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0031",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0032"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the war is already lost for Ukraine, explains Europe's persistence through sunk cost fallacy, and predicts a long, slow Russian advance because Moscow is fighting methodically and with governance concerns in mind.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0033",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0034"
+      ],
+      "kind": "answer",
+      "summary": "Jiang predicts Russia will keep advancing slowly, that Europe will keep resetting the war through delusion and sunk costs, and that Odessa will likely become the decisive final battle.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0035",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0036"
+      ],
+      "kind": "question",
+      "summary": "The host accepts the war-of-attrition framing, then pivots to the China-U.S. relationship, trade war, rare earth controls, and China's 2025 technology rise.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0037",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0038"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says America has bullied China like a mafia state, argues China's rare-earth response is a necessary show of strength, and predicts Trump and Xi can restore relations through personal rapport.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0039",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "The host agrees with Jiang's bullish China-U.S. view and emphasizes mutual economic dependence and the benefits America has gained from Chinese migration and talent.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0041"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the media exaggerates China-U.S. rivalry because ordinary Chinese and Americans retain real mutual respect and attraction.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0042",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0043"
+      ],
+      "kind": "exchange",
+      "summary": "The host supports Jiang's claim with firsthand travel experience and cites the TikTok ban and Xiaohongshu migration as proof that direct contact changes American perceptions of China.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0044"
+      ],
+      "kind": "answer",
+      "summary": "Jiang predicts a Trump-Xi meeting could produce a concrete people-to-people exchange partnership because interpersonal contact is the basis of durable geopolitics.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0045"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to respond to the dominant American narrative that China is the main threat to U.S. democracy and global primacy.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0046",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0047"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says American elites manufacture anti-China conflict to distract from corruption and inequality at home, and argues the United States would be unchallengeable if it fixed its own internal dysfunction.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "The host accepts the answer and pivots the discussion to Taiwan as the next major China-U.S. flashpoint.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0049"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether China is actually preparing to invade Taiwan and how Taiwan shapes the wider U.S.-China relationship.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0050",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0051",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0052",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0053",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0054"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues that invading Taiwan would be strategically irrational because China benefits from the current balance, depends on trade, and has stronger non-military levers over Taiwan.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0055"
+      ],
+      "kind": "exchange",
+      "summary": "The host strongly agrees and adds a cultural argument that Chinese people see Taiwanese as kin rather than bombing targets.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0056"
+      ],
+      "kind": "question",
+      "summary": "The host closes the Taiwan topic and asks Jiang what future conflict worries him most beyond sensational World War Three headlines.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0057",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0058"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the near-term flashpoints are Ukraine and the Middle East but that the deeper long-term danger is geophysical catastrophe requiring human cooperation.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0059"
+      ],
+      "kind": "exchange",
+      "summary": "The host praises Jiang's answer, extends the cooperation theme to the whole planet, and thanks him for the interview.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0060"
+      ],
+      "kind": "answer",
+      "summary": "Jiang closes by saying U.S.-China cooperation is the key relationship for resolving broader conflicts and preserving dialogue.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0061",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0062"
+      ],
+      "kind": "monologue",
+      "summary": "The host gives his closing appreciation, reiterates hope for a positive Trump-Xi meeting, and ends with a standard channel outro.",
+      "speaker_attribution": "Cyrus",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "note": "The opening segment reads like an editorial teaser extracted from a later China-U.S. section rather than the chronological start of the conversation, but it is still Jiang speaking.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0012"
+      ],
+      "note": "The phrase transcribed as 'the past students have suffered so much' is almost certainly ASR damage in a passage about Palestinians and Gaza, but the exact noun should not be repaired without stronger evidence.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0012",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0013"
+      ],
+      "note": "The repeated 'now Yahoo' phrasing is best read as ASR damage for Netanyahu.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0017"
+      ],
+      "note": "The transcript contains obvious ASR damage such as \"red lap line\" and \"ethnic clans cleanse,\" but the underlying claim is still Jiang's argument about a Russian red line and alleged ethnic cleansing in Donetsk.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0027"
+      ],
+      "note": "The line transcribed as Moldova becoming NATO's 33rd member appears unreliable or outdated in the transcript, but the broader point Jiang is making is relentless post-Soviet NATO expansion.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0030"
+      ],
+      "note": "Segment seg-0030 is effectively empty in the transcript packet and serves only as a boundary bridge into Jiang's next answer.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0037",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0038"
+      ],
+      "note": "The ASR repeatedly renders Xi as \"presidency\" and rapprochement as \"replacement,\" but the intended meaning is clear from context.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0040"
+      ],
+      "note": "Segment seg-0040 is empty and functions only as a packet boundary after the host's question.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0061",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0062"
+      ],
+      "note": "The closing host material is mostly appreciative outro and call-to-action rather than new Jiang analysis, though it preserves one dated hope about a Trump-Xi meeting later that month.",
+      "suggested_speaker": "Cyrus",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang's core model is that geopolitics is a game among players with distinct strategies and interests who try to optimize outcomes.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "2025-10-30 interview framing",
+      "topic_tags": [
+        "game-theory",
+        "geopolitics",
+        "method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "By studying a state's history, internal politics, and preferred outcome, Jiang believes one can predict its geopolitical behavior.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "2025-10-30 interview framing",
+      "topic_tags": [
+        "prediction",
+        "method",
+        "state-behavior"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says this method is why he predicted that the United States would attack Iran.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "retrospective claim made on 2025-10-30",
+      "topic_tags": [
+        "iran",
+        "prediction-record"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang is optimistic that Trump and Xi can restore a China-U.S. rapprochement because he sees their interpersonal relationship as politically important.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "forward-looking expectation from 2025-10-30",
+      "topic_tags": [
+        "china-us",
+        "trump",
+        "xi",
+        "rapprochement"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that the Middle East remains strategically central because major trade routes still run through it, including routes relevant to China, Europe, and Russia.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "middle-east",
+        "trade-routes",
+        "global-conflict"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says control of the Middle East yields control over trade routes, taxes, and levies, making the region structurally central to global conflict.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0009",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "middle-east",
+        "trade-routes",
+        "geopolitics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that East Asian economies are highly exposed to Middle East instability because they depend heavily on the region's oil supplies.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "oil",
+        "east-asia",
+        "middle-east"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says eschatological religion makes the Middle East uniquely combustible because extremist believers see the region as the stage for world-ending prophecy.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "eschatology",
+        "religion",
+        "middle-east"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the Middle East will remain the center of global conflict for the next 10 to 20 years because of trade, oil, and eschatology.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "next 10 to 20 years from 2025-10-30",
+      "topic_tags": [
+        "prediction",
+        "middle-east",
+        "global-conflict"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the current Gaza ceasefire is the third in two years and predicts it is unlikely to last because Israel's internal fractures create incentives to prolong war.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0012",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "near-term forecast from 2025-10-30",
+      "topic_tags": [
+        "gaza",
+        "ceasefire",
+        "israel"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Netanyahu's domestic political exposure gives him incentives to avoid a durable peace because peace would revive corruption pressure and internal unrest.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "netanyahu",
+        "domestic-politics",
+        "war-incentives"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the ceasefire conditions already set up renewed Israeli strikes because Hamas is not realistically going to surrender all its arms.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "near-term forecast from 2025-10-30",
+      "topic_tags": [
+        "hamas",
+        "ceasefire",
+        "israel"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says extremist elements in the IDF want the war to end in the ethnic cleansing of Gaza.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "idf",
+        "gaza",
+        "ethnic-cleansing"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Russia had no choice but to invade Ukraine in 2022 because NATO expansion was encircling Russia and Ukraine was a red line.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "retrospective diagnosis stated on 2025-10-30",
+      "topic_tags": [
+        "russia",
+        "ukraine",
+        "nato",
+        "invasion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the 2014 overthrow of Ukraine's government was a CIA-backed coup and frames Putin's invasion as a defense of ethnic Russians in Donetsk.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "retrospective diagnosis stated on 2025-10-30",
+      "topic_tags": [
+        "2014",
+        "donetsk",
+        "putin",
+        "ethnic-russians"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Russia has really been fighting NATO rather than Ukraine because NATO provides the financing, technology, special forces, command-and-control, and targeting.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "nato",
+        "proxy-war",
+        "russia",
+        "ukraine"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Russia is winning the war and that the conflict reveals NATO to be a paper tiger against a civilizationally motivated Russia.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0018",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "2025-10-30 battlefield assessment",
+      "topic_tags": [
+        "russia",
+        "nato",
+        "battlefield",
+        "civilization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the United States can no longer finance these wars because of its debt burden and is pressuring Europe to pay more and eventually supply troops.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0019",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "united-states",
+        "europe",
+        "debt",
+        "nato"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts the Ukraine war will generate serious political dissent in Europe and could produce major civil clashes within five years if NATO tries to draft European soldiers.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0020",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "within five years of 2025-10-30",
+      "topic_tags": [
+        "europe",
+        "conscription",
+        "civil-unrest",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Ukraine has no future as a nation because of massive casualties, refugee flight, and the strategic importance of the resource-rich east.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "forward-looking judgment from 2025-10-30",
+      "topic_tags": [
+        "ukraine",
+        "casualties",
+        "refugees",
+        "eastern-ukraine"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts western Ukraine will end up as a welfare dependency for Europe and says Europe sacrificed Ukraine by encouraging it to keep fighting Russia.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "forward-looking judgment from 2025-10-30",
+      "topic_tags": [
+        "western-ukraine",
+        "europe",
+        "welfare-state",
+        "sacrifice"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the United States assured Russia after the fall of the Soviet Union that NATO would not expand eastward and later broke those promises repeatedly.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "retrospective diagnosis stated on 2025-10-30",
+      "topic_tags": [
+        "nato",
+        "soviet-union",
+        "broken-promises",
+        "russia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Putin repeatedly offered to join NATO and was rebuffed by successive American presidents.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "retrospective diagnosis stated on 2025-10-30",
+      "topic_tags": [
+        "putin",
+        "nato",
+        "diplomacy",
+        "united-states"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that relentless NATO expansion toward Russia's sphere of influence made Russian military action a defensive necessity.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0027",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "retrospective model stated on 2025-10-30",
+      "topic_tags": [
+        "nato-expansion",
+        "russia",
+        "sphere-of-influence",
+        "security"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the war is already lost for Ukraine because Russia has battlefield dominance, disciplined soldiers, high morale, and an opponent suffering severe desertion.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "2025-10-30 battlefield assessment",
+      "topic_tags": [
+        "ukraine",
+        "russia",
+        "battlefield-dominance",
+        "morale"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang uses sunk cost fallacy to explain why Europe will keep prolonging the war even though the rational move would be to cut losses.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0031",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "2025-10-30 strategic model",
+      "topic_tags": [
+        "sunk-cost-fallacy",
+        "europe",
+        "ukraine-war",
+        "game-theory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the war will drag on because European governments have invested too much money and prestige to accept defeat now.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "forward-looking prediction from 2025-10-30",
+      "topic_tags": [
+        "europe",
+        "war-duration",
+        "prestige",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Russia is fighting slowly and methodically because it wants to preserve civilian infrastructure and govern the territory after the war.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "russia",
+        "governance",
+        "infrastructure",
+        "warfare"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts Russia will continue its slow advance while Europeans keep reestablishing front lines because they falsely believe the war is still winnable.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "forward-looking prediction from 2025-10-30",
+      "topic_tags": [
+        "russia",
+        "ukraine",
+        "europe",
+        "war-of-attrition"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the fate of Ukraine will be decided in Odessa and says Russia's main objective is to make Ukraine landlocked and control Black Sea access.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0033",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "in a few years from 2025-10-30",
+      "topic_tags": [
+        "odessa",
+        "black-sea",
+        "ukraine",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says America has behaved like a mafia state toward China by imposing semiconductor and technology restrictions and broader coercive pressure.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "united-states",
+        "china",
+        "technology-restrictions",
+        "trade-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that China's rare-earth response signals it will no longer tolerate American bullying and that strength is necessary to force negotiation.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "rare-earths",
+        "china",
+        "negotiation",
+        "coercion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Trump and Xi will meet by the end of the month and that their interpersonal relationship can unlock a resolution benefiting both countries.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0037",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "near-term forecast from 2025-10-30",
+      "topic_tags": [
+        "trump",
+        "xi",
+        "china-us",
+        "meeting"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says both China and the United States remain committed to peace and prosperity despite the current trade conflict.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "2025-10-30 characterization",
+      "topic_tags": [
+        "china-us",
+        "peace",
+        "prosperity",
+        "trade-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The host says the United States and China are deeply interdependent through trade, universities, immigration, and long-built social ties.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "host framing on 2025-10-30",
+      "topic_tags": [
+        "trade",
+        "immigration",
+        "education",
+        "interdependence"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the China-U.S. rivalry is overstated by media narratives because Chinese people still genuinely like Americans and respect American innovation and work culture.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "china-us",
+        "media",
+        "public-opinion",
+        "friendship"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the bilateral relationship is strong both at the top through Trump and Xi and at the bottom through ordinary people who retain mutual respect.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "trump",
+        "xi",
+        "people-to-people",
+        "china-us"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The host says direct exposure to China, including the brief American migration to Xiaohongshu during the TikTok ban, shows how quickly people-to-people contact can soften anti-China narratives.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0042",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "host framing on 2025-10-30",
+      "topic_tags": [
+        "xiaohongshu",
+        "tiktok",
+        "travel",
+        "perception"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the Trump-Xi meeting could announce a concrete partnership to increase travel and exchange between Americans and Chinese.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "near-term forecast from 2025-10-30",
+      "topic_tags": [
+        "trump",
+        "xi",
+        "exchange",
+        "travel"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says people-to-people exchange is the basis for any solid geopolitical relationship.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "2025-10-30 principle",
+      "topic_tags": [
+        "people-to-people",
+        "geopolitics",
+        "relationship"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that corrupt American elites manufacture anti-China dialectics to distract citizens from domestic inequality, corruption, and unresponsive government.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "american-elites",
+        "anti-china",
+        "corruption",
+        "inequality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the United States is a resource-rich continental fortress and would be invincible if it removed bureaucracy, inequality, and corruption and unleashed its entrepreneurial energy.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0046",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "conditional judgment on 2025-10-30",
+      "topic_tags": [
+        "united-states",
+        "fortress",
+        "entrepreneurship",
+        "supremacy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that from a game-theory perspective it would be idiotic for China to invade Taiwan.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "2025-10-30 assessment",
+      "topic_tags": [
+        "taiwan",
+        "china",
+        "game-theory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that China benefits from continued U.S. presence in East Asia because the United States balances other long-term threats from Japan, India, and Russia.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0050",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "2025-10-30 strategic model",
+      "topic_tags": [
+        "east-asia",
+        "balance-of-power",
+        "china-us"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a U.S. withdrawal would let Japan rebuild military power and potentially threaten Chinese trade lifelines, especially through maritime choke points like the Strait of Malacca.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0050",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "conditional forecast from 2025-10-30",
+      "topic_tags": [
+        "japan",
+        "trade-routes",
+        "malacca",
+        "china"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that China is structurally vulnerable because it imports a third of its food, competes with India over water and terrain, shares a long border with Russia, and must manage North Korean instability.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0051",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "2025-10-30 diagnosis",
+      "topic_tags": [
+        "china",
+        "india",
+        "russia",
+        "north-korea",
+        "security"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the United States and China benefit more from cooperation than competition because cooperation preserves peace, prosperity, and the current balance.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "2025-10-30 strategic model",
+      "topic_tags": [
+        "china-us",
+        "cooperation",
+        "prosperity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Communist Party's overriding goal is peace and prosperity for its people rather than hegemony.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "2025-10-30 characterization",
+      "topic_tags": [
+        "ccp",
+        "hegemony",
+        "prosperity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that invading Taiwan would invite catastrophic retaliation because China's coastal industrial base could be devastated quickly by the American navy.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "conditional forecast from 2025-10-30",
+      "topic_tags": [
+        "taiwan",
+        "us-navy",
+        "industrial-base"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Taiwan's people prefer the status quo and that China can apply economic leverage instead of military force, so Chinese policymakers are not seriously considering invasion.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "2025-10-30 assessment",
+      "topic_tags": [
+        "taiwan",
+        "status-quo",
+        "economic-leverage"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that over the next 10 years the two main geopolitical flashpoints will be Ukraine and the Middle East.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "next 10 years from 2025-10-30",
+      "topic_tags": [
+        "prediction",
+        "ukraine",
+        "middle-east"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Venezuela is an overstated military scenario because the United States would seek regime change there through covert mechanisms rather than sending ground troops.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "near-term forecast from 2025-10-30",
+      "topic_tags": [
+        "venezuela",
+        "regime-change",
+        "united-states"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that the deeper long-term threat to humanity is geophysical catastrophe rather than war.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0057",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "long-term forecast from 2025-10-30",
+      "topic_tags": [
+        "geophysical-risk",
+        "climate",
+        "catastrophe"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says humanity may be moving toward an ice age and that large weather shifts are historically more destructive than wars.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0057",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "long-term forecast from 2025-10-30",
+      "topic_tags": [
+        "ice-age",
+        "weather",
+        "historical-risk"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang cites discussion of a polar magnetic shift as a possible source of flooding, earthquakes, and other large anomalies.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "speculative future risk raised on 2025-10-30",
+      "topic_tags": [
+        "polar-shift",
+        "catastrophe",
+        "speculation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang says humanity can survive coming geophysical shocks only by working together around common planetary interests.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "normative conclusion on 2025-10-30",
+      "topic_tags": [
+        "cooperation",
+        "humanity",
+        "planetary-politics"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the U.S.-China relationship is the world's most important bilateral relationship and that renewed Trump-Xi ties could help maintain peace in Ukraine and the Middle East.",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "forward-looking expectation from 2025-10-30",
+      "topic_tags": [
+        "china-us",
+        "trump",
+        "xi",
+        "peace"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0006"
+      ],
+      "moment": "Jiang compresses his method into a game-theory picture of states as players optimizing outcomes.",
+      "source_phrase": "I see geopolitics as a game among different players.",
+      "why_it_matters": "This is the compact methodological sentence that organizes the entire interview's later predictions.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "moment": "He treats leader-to-leader friendship as a causal geopolitical lever, not mere personality trivia.",
+      "source_phrase": "this interpersonal relationship between Trump and President Xi is very important",
+      "why_it_matters": "It previews Jiang's habit of grounding macro forecasts in elite interpersonal dynamics.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0010"
+      ],
+      "moment": "Jiang reduces the Middle East's enduring volatility to a hard triad of trade, oil, and eschatology.",
+      "source_phrase": "the center of global conflict for the next 10, 20 years because of these three reasons",
+      "why_it_matters": "This is the compact forecast formula that later packet claims unpack.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0014"
+      ],
+      "moment": "He states the maximal claim that anti-peace forces inside Israel want the war to end with Gaza's ethnic cleansing.",
+      "source_phrase": "the ethnic cleansing of Gaza",
+      "why_it_matters": "This is the sharpest and most politically charged formulation in the packet, and it drives his pessimism about the ceasefire.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0018"
+      ],
+      "moment": "Jiang strips away the official frame and says Russia has been fighting NATO all along.",
+      "source_phrase": "Russia has been fighting NATO all this time",
+      "why_it_matters": "This is the packet's core reframing move and turns the Ukraine war into a proxy-war diagnosis rather than a bilateral conflict.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0019"
+      ],
+      "moment": "He escalates from anti-war criticism to calling America a mafia empire that extorts its allies.",
+      "source_phrase": "It's a mafia empire.",
+      "why_it_matters": "This is the packet's sharpest moral-political formulation and explains Jiang's reading of U.S. pressure on Europe.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0024"
+      ],
+      "moment": "Jiang states the maximal verdict that Ukraine is finished as a nation.",
+      "source_phrase": "Ukraine is finished as a nation.",
+      "why_it_matters": "It condenses his battlefield, demographic, and territorial argument into one memorable end-state judgment.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0028"
+      ],
+      "moment": "Jiang compresses the Russia case into a defensive-sovereignty argument: NATO kept moving east, so Russia had to act.",
+      "source_phrase": "then Russia had to act",
+      "why_it_matters": "This is the packet's shortest causal closure and the hinge of his anti-domino answer.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0031"
+      ],
+      "moment": "He imports a casino metaphor to explain why European elites cannot walk away from a losing war.",
+      "source_phrase": "there's something called a sunk cost fallacy",
+      "why_it_matters": "This is the packet's reusable game-theory mechanism and a key explanatory tool for later episode writing.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0034"
+      ],
+      "moment": "Jiang turns Odessa into the symbolic endpoint of the war rather than just another front.",
+      "source_phrase": "Odessa will be the final battle",
+      "why_it_matters": "This gives the Russia section a concrete territorial climax and a memorable forecast anchor.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0037"
+      ],
+      "moment": "He says the only way to handle American bullying is to hit back hard enough to force negotiation.",
+      "source_phrase": "you have to stand up and punch the guy in the face",
+      "why_it_matters": "This is the packet's hottest phrase and it condenses Jiang's theory of deterrent bargaining in the trade war.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0038"
+      ],
+      "moment": "Jiang makes elite friendship itself a geopolitical mechanism for de-escalation.",
+      "source_phrase": "this interpersonal relationship between Trump and presidency is very important",
+      "why_it_matters": "It links trade-war tension back to Jiang's recurring belief that personal bonds among leaders can reset macro conflict.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0044"
+      ],
+      "moment": "Jiang turns travel and exchange into hard geopolitical infrastructure rather than soft cultural fluff.",
+      "source_phrase": "That's the basis for any solid geopolitical relationship.",
+      "why_it_matters": "This is the packet's clearest reusable principle and a likely anchor line for the public read.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0046",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0047"
+      ],
+      "moment": "He flips anti-China fear back onto domestic American dysfunction and says no external power could rival a cleaned-up America.",
+      "source_phrase": "There's no power in the world that can challenge American supremacy.",
+      "why_it_matters": "It reframes the rivalry question away from Chinese threat and toward self-inflicted American weakness.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0050"
+      ],
+      "moment": "Jiang begins his Taiwan answer with a deliberately blunt judgment that invasion would be strategically stupid.",
+      "source_phrase": "it would be idiotic to go invade Taiwan",
+      "why_it_matters": "This sentence is the packet's clearest memorable hook and compresses his whole anti-invasion case.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0053"
+      ],
+      "moment": "He flips the usual rivalry frame by saying China wants the United States in East Asia to balance more immediate regional threats.",
+      "source_phrase": "you want the United States in East Asia in order to balance out the other threats",
+      "why_it_matters": "It is a reversal of the standard great-power script and explains why Jiang rejects the invasion narrative.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0058"
+      ],
+      "moment": "Jiang reframes humanity's real enemy away from rival states and toward shared planetary threats.",
+      "source_phrase": "our common enemies",
+      "why_it_matters": "It is the packet's strongest ethical reversal and gives the interview its closing horizon beyond immediate wars.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0057"
+      ],
+      "moment": "He contrasts ordinary geopolitical flashpoints with a much larger geophysical danger that most politics ignores.",
+      "source_phrase": "what worries me is a major geophysical event",
+      "why_it_matters": "This is the turn that shifts the interview's ending from regional conflict analysis to species-level risk.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "rapprochement",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "Used for a renewed warming or reconciliation in China-U.S. relations after Trump and Xi reconnect personally.",
+      "confidence": "high"
+    },
+    {
+      "term": "game among different players",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's shorthand for treating geopolitics as strategic interaction among states with interests, strategies, and optimization goals.",
+      "confidence": "high"
+    },
+    {
+      "term": "eschatology",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0009",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "Used for apocalyptic religious belief that makes the Middle East central to prophecy and therefore politically combustible.",
+      "confidence": "high"
+    },
+    {
+      "term": "ceasefire",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0012",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Treated not as stable peace but as a temporary pause that competing war incentives can quickly collapse.",
+      "confidence": "high"
+    },
+    {
+      "term": "paper tiger",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "Used for NATO as an overhyped military alliance exposed as weak in a real attritional war with Russia.",
+      "confidence": "high"
+    },
+    {
+      "term": "mafia empire",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "Jiang's label for an America that extracts money and strategic obedience from allies instead of providing principled leadership.",
+      "confidence": "high"
+    },
+    {
+      "term": "sphere of influence",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "Used for the geopolitical buffer Russia sees NATO as intruding into through post-Soviet expansion.",
+      "confidence": "high"
+    },
+    {
+      "term": "sunk cost fallacy",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0031",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Jiang's explanation for why governments keep pouring resources into a war they should rationally abandon.",
+      "confidence": "high"
+    },
+    {
+      "term": "rare earth mineral blockade",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Used for China's leverage over critical minerals as a response to U.S. trade and technology pressure.",
+      "confidence": "medium"
+    },
+    {
+      "term": "people to people exchange",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Implicitly set up here by the host's emphasis on migration, education, and long-built interpersonal ties that support bilateral stability.",
+      "confidence": "medium"
+    },
+    {
+      "term": "people to people exchange",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "Jiang's term for travel, study, and direct social contact across nations as the foundation of stable great-power relations.",
+      "confidence": "high"
+    },
+    {
+      "term": "continental fortress",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "Jiang's image for the United States as a naturally secure, resource-rich power protected by geography.",
+      "confidence": "high"
+    },
+    {
+      "term": "balancing force",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Jiang's term for the U.S. role in East Asia as a counterweight that helps China avoid facing every regional threat alone.",
+      "confidence": "high"
+    },
+    {
+      "term": "revisionist power",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0051",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "Used for North Korea as a state incentivized to behave like a rogue destabilizer because of its material position.",
+      "confidence": "medium"
+    },
+    {
+      "term": "geophysical event",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0057",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0058"
+      ],
+      "definition_or_usage": "Used for large planetary or climatic disruptions that Jiang thinks could matter more than interstate wars.",
+      "confidence": "high"
+    },
+    {
+      "term": "people to people exchange",
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "Jiang's term for direct American-Chinese social contact as the foundation of a stable geopolitical relationship.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "note": "At the start of this 2025-10-30 interview, Jiang already frames the coming Trump-Xi meeting as a likely basis for renewed China-U.S. accommodation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0010"
+      ],
+      "note": "This interview records Jiang's dated forecast that the Middle East remains the central global conflict zone for at least the next decade and possibly two.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0021",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0024"
+      ],
+      "note": "This 2025-10-30 interview records a strongly dated Jiang position that Europe faces draft-driven unrest within five years and that Ukraine is already on a path toward national ruin.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0032"
+      ],
+      "note": "By 2025-10-30, Jiang is not merely saying Russia is advantaged; he is dating the conflict as a long-dragging war sustained by Europe's sunk-cost logic rather than any realistic chance of Ukrainian victory.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0037",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0038"
+      ],
+      "note": "This 2025-10-30 packet dates Jiang's optimism about a Trump-Xi reset specifically to an expected meeting later that same month, tied to the 2025 trade-war and rare-earth escalation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0044",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0046"
+      ],
+      "note": "On 2025-10-30, Jiang's dated China-U.S. position combines optimism about a near-term Trump-Xi exchange deal with a strong claim that the real American problem is domestic elite corruption, not Chinese rivalry.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0054"
+      ],
+      "note": "This 2025-10-30 interview records a clear dated Jiang position that Chinese policymakers are not seriously considering a Taiwan invasion under current conditions.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0057",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0060"
+      ],
+      "note": "At the end of this 2025-10-30 interview, Jiang's dated future map combines a 10-year flashpoint forecast for Ukraine and the Middle East with a longer-range geophysical warning and optimism about a Trump-Xi reset.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0001"
+      ],
+      "note": "The segment appears editorially lifted from a later answer, so its position in the transcript is non-chronological even though the wording is substantive."
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0012",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0013"
+      ],
+      "note": "Several proper names and nouns show ASR damage, especially around Netanyahu and one humanitarian reference, so some wording-level details should be treated cautiously while the underlying argument remains clear."
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0017",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0018"
+      ],
+      "note": "Several historical assertions in this packet are framed by Jiang as fact inside the interview, but the transcript itself does not supply independent evidence for them."
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0027"
+      ],
+      "note": "Jiang explicitly labels several historical points as facts here, but at least some transcript details are noisy or contestable and should be treated as his framing rather than independently verified record."
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0037",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0038"
+      ],
+      "note": "Several proper nouns and one key political term are damaged by ASR, but the packet clearly centers on Xi, Trump, and a predicted rapprochement."
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0042",
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0043"
+      ],
+      "note": "The host's account of the TikTok-ban Xiaohongshu migration is anecdotal in this interview, but it still functions as his supporting example for direct cross-cultural contact."
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0052"
+      ],
+      "note": "The North Korea scenario is partly schematic and the geography wording is loose, so the precise regional label matters less than the incentive model Jiang is drawing."
+    },
+    {
+      "refs": [
+        "video:interview-xrk5vsezj4y@transcript:v1#seg-0058"
+      ],
+      "note": "The ice-age and polar-shift material is presented as Jiang's speculative macro warning rather than a sourced scientific argument inside the interview."
+    }
+  ]
+}
