@@ -1,0 +1,302 @@
+{
+  "packet_id": "interview-jlejlzmum4g-semantics-pkt-0013",
+  "source_id": "video:interview-jlejlzmum4g",
+  "source_date": "2025-11-06",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0097"
+      ],
+      "kind": "answer",
+      "summary": "Jiang closes the Australia question by saying Australia should maximize trade with China inside the existing trade-based global order.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0098"
+      ],
+      "kind": "question",
+      "summary": "A viewer asks whether a quoted Japanese-think-tank reading is right that Chinese public opinion does not support Russia's special military operation.",
+      "speaker_attribution": "Viewer question read by host Alex Christoforou",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0099",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0100"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees and explains that post-Cultural-Revolution Chinese goodwill toward America was built by Hollywood and pirated American movies, which he says worked like a soft-power brainwashing campaign.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0101"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Jiang has a lecture on the American Civil War or a future second American Civil War.",
+      "speaker_attribution": "Host prompt with Jiang beginning his reply at the tail",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0102"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says he does have a lecture on that topic, titled \"The Second American Civil War,\" on his channel as part of his geo-strategy lecture series.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0103"
+      ],
+      "kind": "question",
+      "summary": "A final viewer asks about the Second Athenian League as a partial revival of the Delian League after the Peloponnesian War.",
+      "speaker_attribution": "Viewer question read by host Alex Christoforou",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0104"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says he does not know the Second Athenian League in detail, but argues that after the Peloponnesian War Athens had naval and elite talent while remaining too corrupt to recover the glory it had under Pericles.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0097"
+      ],
+      "note": "Seg-0097 is the tail end of Jiang's Australia answer that began in the previous packet, so it should be treated as an answer continuation rather than a standalone new exchange.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0101"
+      ],
+      "note": "Seg-0101 is a mixed boundary segment: the host asks about Jiang's Civil War lectures and Jiang starts answering in the final words. Treat the segment as the question handoff and place the substantive answer in seg-0102.",
+      "suggested_speaker": "Alex Christoforou then Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0103"
+      ],
+      "note": "The viewer handle and the wording around the Second Athenian League are slightly garbled by ASR, but the question is clearly about whether Athens ever recovered after reviving the league system.",
+      "suggested_speaker": "Alex Christoforou reading a viewer question",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Australia should trade with China as much as possible.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0097"
+      ],
+      "temporal_scope": "Jiang policy recommendation stated on 2025-11-06.",
+      "topic_tags": [
+        "Australia",
+        "China",
+        "trade",
+        "policy"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang agrees that many ordinary Chinese do not support Russia in the special military operation.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0099"
+      ],
+      "temporal_scope": "Jiang public-opinion judgment stated on 2025-11-06.",
+      "topic_tags": [
+        "China",
+        "Russia",
+        "public opinion",
+        "special military operation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says post-Cultural-Revolution Chinese exposure to pirated American movies created enduring goodwill toward America by presenting it as a promised land.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0099"
+      ],
+      "temporal_scope": "Jiang soft-power history stated on 2025-11-06.",
+      "topic_tags": [
+        "China",
+        "United States",
+        "soft power",
+        "Hollywood",
+        "Cultural Revolution"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that American popular culture and Hollywood have effectively brainwashed young people around the world and have been especially effective in China.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0099",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0100"
+      ],
+      "temporal_scope": "Jiang soft-power diagnosis stated on 2025-11-06.",
+      "topic_tags": [
+        "United States",
+        "Hollywood",
+        "popular culture",
+        "soft power",
+        "China",
+        "youth"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says his channel includes a lecture titled \"The Second American Civil War\" as part of his geo-strategy lecture series.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0102"
+      ],
+      "temporal_scope": "Jiang self-reference stated on 2025-11-06.",
+      "topic_tags": [
+        "Second American Civil War",
+        "geo strategy lectures",
+        "Predictive History"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that after the Peloponnesian War Athens became corrupt and, despite still having the Mediterranean's greatest navy and talented leaders, never recovered the glory it had under Pericles.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0104"
+      ],
+      "temporal_scope": "Jiang historical diagnosis stated on 2025-11-06.",
+      "topic_tags": [
+        "Athens",
+        "Peloponnesian War",
+        "Pericles",
+        "corruption",
+        "naval power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0099"
+      ],
+      "moment": "Jiang explains Chinese goodwill toward America through a vivid cultural-memory image: pirated US movies arrived after the Cultural Revolution like sacred contraband pointing toward a promised land.",
+      "source_phrase": "these pirate DVDs represent a revelation it was like the Bible to them",
+      "why_it_matters": "It preserves the packet's sharpest image of how American soft power lodged itself inside Chinese imagination rather than treating pro-American feeling as abstract polling data.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0100"
+      ],
+      "moment": "Jiang turns Hollywood into a geopolitical weapon, saying mass culture can brainwash whole generations across borders and especially in China.",
+      "source_phrase": "it has Hollywood it has this popular culture that's been able to brainwash a lot of young people around the world",
+      "why_it_matters": "This is the packet's most reusable causal chain: cultural products become the mechanism by which America wins tolerance for its geopolitical behavior.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0104"
+      ],
+      "moment": "Jiang compresses Athens's decline into a moral-political rule: power and brilliance can survive military defeat, but corruption can still keep a civilization from recovering its former height.",
+      "source_phrase": "Athens became corrupt",
+      "why_it_matters": "It captures the packet's brief but memorable historical analogy about civilizational decline after peak glory.",
+      "tone": "definition",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "soft power",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0099",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0100"
+      ],
+      "definition_or_usage": "Jiang uses the term to describe how American film and popular culture shape foreign populations' imagination and political goodwill without direct coercion.",
+      "confidence": "high"
+    },
+    {
+      "term": "Second American Civil War",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0101",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0102"
+      ],
+      "definition_or_usage": "Here it refers to Jiang's own lecture topic and title inside his geo-strategy series, offered as the relevant follow-up for viewers asking about a future US civil-war scenario.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pericles",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0104"
+      ],
+      "definition_or_usage": "Jiang uses Pericles as the benchmark for Athens's lost high point, contrasting later naval and elite strength with a failure to recover earlier civic greatness.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0097",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0104"
+      ],
+      "note": "On 2025-11-06 the live Q-and-A moves from Australia-China trade advice into a China-Russia public-opinion explanation, a quick plug for Jiang's own Civil War lecture, and a closing Athenian historical analogy.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0099",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0100"
+      ],
+      "note": "This packet records a dated 2025-11-06 formulation of Jiang's view that American soft power in China was built historically through post-Mao media desire rather than current geopolitical alignment.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0104"
+      ],
+      "note": "Jiang's Athens remark is brief and illustrative rather than a full Peloponnesian-War argument; it should be read as a compressed decline analogy delivered in late-show Q-and-A.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0098"
+      ],
+      "note": "The question lead-in is ASR-damaged around the cited think tank and the speaker name, so the extraction should preserve only the clear substance: whether Chinese public opinion supports Russia's war."
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0099",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0100"
+      ],
+      "note": "The soft-power explanation is Jiang's interpretive causal story about Chinese attitudes, not an independently verified media-effects finding inside the packet itself."
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0104"
+      ],
+      "note": "Jiang explicitly says he does not know the Second Athenian League in detail, so the extraction should keep his answer at the level of a broad Athens-decline analogy rather than a precise historiographical claim about that league."
+    }
+  ]
+}

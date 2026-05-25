@@ -1,0 +1,151 @@
+{
+  "packet_id": "interview-jlejlzmum4g-semantics-pkt-0025",
+  "source_id": "video:interview-jlejlzmum4g",
+  "source_date": "2025-11-06",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0193",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0194"
+      ],
+      "kind": "exchange",
+      "summary": "The host moves into the stream outro, promoting Jiang's channel and the Duran's platforms while also squeezing in a few last viewer comments and jokes before Alexander briefly answers the final archaeology-related note.",
+      "speaker_attribution": "Alex Christoforou leading the outro with leftover viewer comments and Alexander Mercouris re-entering at the end",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0196"
+      ],
+      "kind": "answer",
+      "summary": "Alexander responds to the final Dorian-settlement note by saying archaeology is outside his core expertise and that his real strength is literary, records-based history.",
+      "speaker_attribution": "Alexander Mercouris",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0197"
+      ],
+      "kind": "exchange",
+      "summary": "The hosts end the stream with a brief mutual goodbye.",
+      "speaker_attribution": "Alex Christoforou and Alexander Mercouris",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0193",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0194"
+      ],
+      "note": "The host's outro folds together channel plugs, moderator thanks, banter about recording more videos, and leftover viewer comments, so it should be treated as closeout texture rather than a clean topical block.",
+      "suggested_speaker": "Alex Christoforou",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0195"
+      ],
+      "note": "Seg-0195 is an empty artifact line and should not be mined for semantic content.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0196"
+      ],
+      "note": "Alexander's final substantive line is best read as a methodological disclaimer rather than an archaeology claim of his own.",
+      "suggested_speaker": "Alexander Mercouris",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Alexander says he is not an expert on the archaeology at issue in the Dorian-settlement discussion.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0196"
+      ],
+      "temporal_scope": "Alexander scope-of-expertise disclaimer stated on 2025-11-06.",
+      "topic_tags": [
+        "expertise",
+        "archaeology",
+        "Dorian settlement"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Alexander says the archaeology discussion is too close to archaeology and not close enough to the literary, records-based history he knows better.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0196"
+      ],
+      "temporal_scope": "Alexander methodological self-description stated on 2025-11-06.",
+      "topic_tags": [
+        "method",
+        "records-based history",
+        "archaeology",
+        "expertise"
+      ],
+      "claim_type": "method",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0196"
+      ],
+      "moment": "Alexander closes the stream by drawing a clean methodological line: archaeology is not his field, while literary and records-based history is.",
+      "source_phrase": "not close enough to the kind of literary, records-based history with which i'm more familiar",
+      "why_it_matters": "It gives the last packet its only durable semantic content and clarifies the evidentiary domain Alexander trusts most.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "records-based history",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0196"
+      ],
+      "definition_or_usage": "Alexander uses the phrase for the documentary and literary kind of historical work he regards as his stronger domain than archaeology.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0193",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0194"
+      ],
+      "note": "Packet 0025 is the final outro packet for the 2025-11-06 interview and contains mostly platform plugs, moderator thanks, and leftover viewer chatter rather than new geopolitical substance.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0196",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0197"
+      ],
+      "note": "The last substantive content in the source is Alexander's method-boundary disclaimer, immediately followed by the final goodbye that ends the stream.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0193",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0194"
+      ],
+      "note": "The outro segments are noisy and semantically mixed, so most of their content should be treated as closing chatter unless a later stage needs exact platform or moderation details."
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0194",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0196"
+      ],
+      "note": "A viewer claim that the Dorian-invasion theory is now dismissed appears in the closeout context, but Alexander does not endorse it; he instead reiterates that archaeology is outside his expertise."
+    }
+  ]
+}

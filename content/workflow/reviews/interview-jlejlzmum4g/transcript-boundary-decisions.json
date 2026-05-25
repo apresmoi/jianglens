@@ -1,0 +1,60 @@
+{
+  "source_slug": "interview-jlejlzmum4g",
+  "decisions": [
+    {
+      "candidate_id": "seg-0034->seg-0035:move-leading-completion-to-previous:7bdce4b668ba",
+      "decision": "approve",
+      "reason": "Moves the predicate back to complete 'then it will be very, very ugly...' as one sentence."
+    },
+    {
+      "candidate_id": "seg-0037->seg-0038:move-leading-completion-to-previous:c6a5b5f20132",
+      "decision": "approve",
+      "reason": "Completes the prediction that America decides to launch a ground invasion of Iran."
+    },
+    {
+      "candidate_id": "seg-0040->seg-0041:move-leading-completion-to-previous:7bb671e21de1",
+      "decision": "reject",
+      "reason": "The proposed move leaves unclear broken text ('in place') and does not look like a clean two-segment completion."
+    },
+    {
+      "candidate_id": "seg-0043->seg-0044:move-leading-completion-to-previous:ac72214d963d",
+      "decision": "approve",
+      "reason": "Finishes the question 'what you claim to be your sphere of influence?' across the boundary."
+    },
+    {
+      "candidate_id": "seg-0044->seg-0045:move-leading-completion-to-previous:ba50db7d4a13",
+      "decision": "approve",
+      "reason": "Restores 'I actually don't think the United States will launch...' as a single sentence."
+    },
+    {
+      "candidate_id": "seg-0045->seg-0046:move-leading-completion-to-previous:f38aa0543bcf",
+      "decision": "approve",
+      "reason": "Completes the interviewer question 'how do they exercise power?' before Jiang answers it."
+    },
+    {
+      "candidate_id": "seg-0061->seg-0062:move-leading-completion-to-previous:776c94ea0b03",
+      "decision": "approve",
+      "reason": "Moves the object phrase back to complete 'what role China would play...' as one thought."
+    },
+    {
+      "candidate_id": "seg-0065->seg-0066:move-leading-completion-to-previous:b33c95e4a9d3",
+      "decision": "approve",
+      "reason": "Completes the sentence about the Chinese response being in line with diplomatic protocol."
+    },
+    {
+      "candidate_id": "seg-0068->seg-0069:move-leading-completion-to-previous:1131489be6c2",
+      "decision": "approve",
+      "reason": "Finishes the clause about the United States involving itself in lots of other places."
+    },
+    {
+      "candidate_id": "seg-0070->seg-0071:move-leading-completion-to-previous:435fc4c93134",
+      "decision": "approve",
+      "reason": "Completes the rhetorical question 'So what if Europe falls?' across the segment boundary."
+    },
+    {
+      "candidate_id": "seg-0194->seg-0195:move-leading-completion-to-previous:f43f1c17b3b3",
+      "decision": "approve",
+      "reason": "Completes 'Historians now believe Dorians simply settled there.' as one sentence."
+    }
+  ]
+}
