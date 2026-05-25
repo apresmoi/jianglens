@@ -1,0 +1,531 @@
+# Heading To War | Predictive History - Prof. Jiang
+
+Source: https://www.youtube.com/watch?v=Pul2i1womXg
+
+## seg-0001 / 00:00:00-00:00:57 / SPEAKER_03
+
+My first interview with Professor Zhang Shui -Chen about predictive history, religious eschatology, and the end of times is the most watched interview on my YouTube channel. And it's no surprise as his YouTube channel, Predictive History, was already going ballistic online with tens of millions of views and a whole horde of subscribers flooding onto his platform. Somehow, in the time since, Professor Zhang has gone even more viral with influencers remixing his clips online on platforms like Instagram and TikTok, bringing his content to more and more people. So I am incredibly privileged and of course honored to have him as a guest on my own platform for the second time now. A lot has changed in the world since our last interview, like the Gaza ceasefire, bombing Venezuelan fishing boats, and escalating tensions with both Russia and Iran. So today we're going to be focusing on renewed tensions with Iran, the progression of these extremist eschatological beliefs
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0001
+
+## seg-0002 / 00:00:57-00:01:26 / SPEAKER_03
+
+held by the powerful forces seen in the Middle East, and the rise and fall of the Middle East. to bring about the end of the world as we know it, and some of the predictions Professor Zhang may have for the future. Without further ado, my second discussion with the legendary Professor Zhang Shui -Chen. Professor, I'd like to start with Iran. Since we last spoke, both Iran and Israel have made preparations for another round of conflict. There are some who believe this conflict is right around the corner, while others believe it could be a year or two away. What are your thoughts about a potential new war with Iran?
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0002
+
+## seg-0003 / 00:01:29-00:02:35 / SPEAKER_00
+
+In the second round, basically Israel and Iran all in. The 12 -day war, it was more like testing the waters. Israel believed that with decapitation strikes, it could overthrow the Iranian regime. And what it discovered was that the regime was far more cohesive, far more resilient than it could ever imagine. In fact, you could argue that the decapitation strikes actually helped Iran because it removed and ossified bureaucracy from the military. Top generals were removed, which allowed more energetic, more younger, more innovative lieutenants to rise in the ranks. Also, the 12 -day war unified Iranian society, and it really removed all possibility of peace from the minds of Iranian people. So if there are a round two, and I believe, like most experts, that a round two is imminent, then the Iranian people, the Iranian regime will be much more unified. Israel, on the other hand, knows time is running out. Israel has really dug itself a huge hole.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0003
+
+## seg-0004 / 00:02:36-00:03:27 / SPEAKER_00
+
+It cannot afford peace anymore. Its society right now is on the brink of civil war, Netanyahu is on the precipice. If there is peace, Netanyahu would be brought to trial, would be charged with war crimes. So, his only option is to continue the war. And so, we are headed to a collision. And in this collision, I think that the stakes are much higher. I think that this war will be much more sustained. Two things I'm looking at in the second round is, first of all, will Iran close off the Strait of Hormuz? As you can imagine, if Iran were to close off the Strait of Hormuz, it would bring in the entire world. The entire world would be impacted. Southeast Asia, mainly China, South Korea, Japan, get most of its oil from the Middle East, and this would severely hamper the Southeast Asian economies. So that's the first big question. Will Iran close off the Strait of Hormuz?
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0004
+
+## seg-0005 / 00:03:28-00:04:08 / SPEAKER_00
+
+Second big question is the Al -Aqsa Mosque. Now, as we discussed last time, Israel imported five red heifers from Texas. And this was like three years ago. So now the red heifers are of age. And why you do this is you need to sacrifice a perfect red heifer in order to cost you the grounds for the rebuilding of the Third Temple, the rebuilding of the Temple of Solomon. To do that, you have to destroy the Al -Aqsa Mosque. You have to destroy the Temple of Solomon. Al -Aqsa Mosque. And as you can imagine, this would cause tremendous political repercussions throughout the Islamic world. You could see revolution, civil discontent, even regime collapse and overthrow. So these are the two big questions that we would look at in a second round.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0005
+
+## seg-0006 / 00:04:09-00:04:30 / SPEAKER_03
+
+You know, Professor, just to comment, I'm not sure if you're aware of this, but there are reports that they already sacrificed the red heifers. There was a secret ceremony, apparently, and there was an Israeli -Jewish influencer who was doing a podcast, and he held up a dime bag filled with ashes. And he says, we've already sacrificed the red heifers. We have the ashes.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0006
+
+## seg-0007 / 00:04:30-00:04:36 / SPEAKER_02
+
+Breaking red heifer sacrifice update. The recent red heifer sacrifice wasn't burned in a rehearsal.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0007
+
+## seg-0008 / 00:04:36-00:04:55 / SPEAKER_01
+
+It was real. The red heifer people, they fooled everybody. So what they did was they said, we're just going to do a practice one. According to Adam King, he has the ashes. Right here, red heifer ashes. They ended up going out, doing a real cow, and that's tikvah. It was a real offering. They did it all by the laws. And they, they use the ashes actually to perform in a sort of ablution.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0008
+
+## seg-0009 / 00:04:55-00:05:15 / SPEAKER_03
+
+So they mix it with like holy water from a spring and they have a bunch of other rituals that they do, but they essentially create this water that they use to cleanse Jewish people that can then prepare them to enter the grounds in which the third temple would be built. Of course, which is in, they believe the area where it currently is.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0009
+
+## seg-0010 / 00:05:15-00:06:10 / SPEAKER_00
+
+Yeah. So I've heard these rumors and I don't know how true they are. I've always, I was always thinking that before you could build a third temple, you need to consecrate the ground. And so you can only do that after you destroy the Al -Aqsa Mosque. But as you say, this, what they've done is a possible religious workaround. So it's entirely possible that they've done so, which means that they're on a very fast timeline. They want to get this done as soon as possible. I've also heard rumors that they've, they've already built the third temple, brick by brick. And so it's very easy once the Al -Aqsa Mosque is destroyed to quickly resurrect the third temple. And as you know, the third temple is important for eschatological purposes. The third temple is where the antichrist is supposed to ring supreme. The third temple is to, is supposed to usher in the return of the Jewish Messiah.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0010
+
+## seg-0011 / 00:06:10-00:06:15 / SPEAKER_00
+
+So for lots of eschatological reasons, you need a third temple. In fact, it's the key piece.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0011
+
+## seg-0012 / 00:06:15-00:07:12 / SPEAKER_03
+
+This brings me to my next question, actually. Some people might find it hard to believe that rational state actors guided by geopolitical realism would also be under the influence of eschatological beliefs, which to others would be considered irrational. If you don't subscribe to that ideology or that religion, then you might find it to be irrational. So can you help us understand why a state, let's say Israel or Iran, would prioritize eschatological beliefs over the cold calculated geopolitical realities that should be influencing their decision -making? So with Israel, you would think confronting Iran like this is irrational. Perhaps to you and others, when you take into consideration their eschatological beliefs and their greater Israel project, it actually seems that that takes priority in their minds over the geopolitical realities that might advise them to not be as aggressive. Right. So the first thing I will say
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0012
+
+## seg-0013 / 00:07:12-00:08:20 / SPEAKER_00
+
+is that in geopolitics, the conflict within states is more intense, more great and more important than the conflict between states. So the question then is if you're working within an imperial bureaucracy, which is what the United States is, how do you obtain power? The problem with bureaucracies is that they're slow, they're compartmentalized, and they are extremely hierarchical. So the way you manipulate or the way that you cheat in bureaucracies is by forming secret societies, because secret societies allow people to が for secret coordination right so people across departments who don't really know each other they're working off a same script and as such they are able to ascend the bureaucratic ladder because they are able to tell each other apart and they just help each other the problem then is what is a script a script is often eschatological a belief in the end of the world and so for Freemasons it's the belief in
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0013
+
+## seg-0014 / 00:08:20-00:09:27 / SPEAKER_00
+
+the creation of a world government for Christian Zionists it's the belief of the return of Jesus for religious Talmudic Jews a faction that we often refer to as this the Frankish Talmudic Jews they want to see the coming of the Mesitic age but the thing is that with all these eschatologies they have a similar script so the script involves Israel fighting World War three the building of the third temple the return of the Jews to the homeland the coming of the Antichrist so what is interesting is that these are different secret societies and they're often competition with each other but for the purpose of eschatology they work together so and what's important for us to understand is that there are different types of eschatologies that are important for us to understand is that there are different types of eschatologies that are heavily embedded in the American national security apparatus CIA the Pentagon the FBI as
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0014
+
+## seg-0015 / 00:09:27-00:10:09 / SPEAKER_00
+
+well as government of of Israel and the longest time these secret societies were dormant because they really couldn't achieve the eschatology with the collapse of the global liberal financial order with brexit with the rise of Donald Trump with this war in Ukraine um the secret society see an opportunity to achieve their eschatological eschatological vision and they're working directly with religious fanatics in the state of Israel so I would say that issue is not working alone I would say that Israel is working very much in conjunction with the national security apparatus of America what you're describing with these secret societies it
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0015
+
+## seg-0016 / 00:10:09-00:11:00 / SPEAKER_03
+
+sounds like is a deep state or another word for I guess you could call it the deep state but with Israel and with Zionism as we know many of their leaders many of their politicians many of their people are actually atheists they're secular they don't actually believe in the religion but they still believe God gave them the land even though they they don't believe in God literally so in the case of these secret societies the deep state whether it's in the United States or Israel how is it the case that you have atheist leadership that don't literally believe in the story but still somehow subconsciously or even literally adopt the eschatological beliefs that are literally connected to a literal belief in the the the religion the story the concept of God well that's the beauty of eschatology because you
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0016
+
+## seg-0017 / 00:11:00-00:12:04 / SPEAKER_00
+
+don't you actually don't need belief you need interest to align so um you're you're correct in saying that uh most uh Jewish Zionists they're actually not religious they're atheists in fact Orthodox Jews believe that Zionism is sacrilege it's an operation it's a blasphemy against the true religion so and there's always been this major conflict between Orthodox Jews and Zionist Zionist Jews but what Zionist Jews believe in is a Jewish homeland they believe in the greater Israel project they believe in Jewish supremacy and so they are cynically working with Christian Zionists Jesuits Mormons other secret societies in order to advance their interests remember see they've been in the third Temple they want to see World War III they want to see the greater Israel project but at this point they are going to Diverge because they have different eschatological frameworks so for these religious Jews I'm sorry I'm sorry for these Zionist Jews they believe that
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0017
+
+## seg-0018 / 00:12:04-00:12:51 / SPEAKER_00
+
+the Messiah will return and Israel will become the most most powerful nation in the world it'll be Jackson it'll be Pax Judaica the Freemasons believe that you will create a world government uh Christian Zionist they believe that Jesus will return and um kill about a third of Jews and then convert a third of the Jews and then the the rest of a third will be jammed to hell the Jews themselves believe that Christians at the end of days will all be enslaved by the Jews so so that's what's interesting um you know it's all cynical calculation this is a secret societies these different religious orders they believe in this point important to work together now to achieve this eschatological vision but once this vision is achieved then you can see a massive Civil War Breakout among these different
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0018
+
+## seg-0019 / 00:12:51-00:13:26 / SPEAKER_03
+
+factions so it sounds like these deep states or these secret societies are a combination of people who literally believe in the religion and then people that are cynically going along because their interests at the end of the day are aligned and so whether or not you actually think the Messiah let's say Netanyahu maybe he doesn't literally think the Messiah will come out of the sky and and appear in the third temple but he wants to see, you know, Israel move in that direction because it somehow satisfies his own interests or the interests of the greater Israel project, which he still believes in.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0019
+
+## seg-0020 / 00:13:26-00:14:16 / SPEAKER_00
+
+Right. So one thing to remember about geopolitics is that it's often about the convergence of different interest groups. So the greater Israel project is not a project undertaken by Zionists alone. It's heavily supported by the military industrial complex of the United States, which wants to control all trade routes in the Middle East. You know, Russia and Iran has something called the North -South Corridor, and there's China has something called a Belt and Road Initiative, then there's something called the European -Middle East -India Corridor. So the Middle East is really the center of all global trade and whoever controls that real estate controls all global trade. So the military industrial complex, financial interests, the city of London, Wall Street, they all want to see the greater Israel project achieved. So that's what geopolitics is. Wherever the most powerful groups... Wherever the most powerful groups... Wherever the interests converge is whatever happens.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0020
+
+## seg-0021 / 00:14:16-00:15:02 / SPEAKER_03
+
+I see. So I'd like to, I guess, now introduce Gaza to the mix. As you know, there is a quote unquote ceasefire. What that means is basically a reduction in violence. It's Israel continues to kill people. They continue to starve people. They're just doing it at a scale that is lower or lesser than what we saw previously at the height of the genocide. Now, none of us, I think, are falling for this. We're all... We're all aware of the fact that this is likely going to continue and escalate again with Israel continuing to slaughter people. But with that being said, what do you think comes next and how does Gaza fit into Israel's greater Israel project, the war with Iran, et cetera, et cetera?
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0021
+
+## seg-0022 / 00:15:03-00:16:11 / SPEAKER_00
+
+Yeah. So what's happening in Gaza, the upcoming war with Iran, the Houthis, Lebanon, it's all interconnected, right? Because Israel... Israel sees the axis of resistance as one enemy headed by the snake in Tehran. So from an Israeli perspective, all these things are interconnected. And you can make the argument that this pause in Gaza is so that Israel can prepare properly for the upcoming war against Iran. But as you say, this ceasefire, I mean, it's not really a ceasefire. Israel continues. They commit atrocities every day. And you can make the argument that Israel just cannot stop because Israel has reached a breaking point where if it stops, then it needs to look in the mirror and account for all the atrocities it's committed in Gaza for the past two years. And they can't do that. It would just mean a fracturing of Israeli society. It would mean the breaking down of the greater Israel project. It could possibly mean the end of Zionism.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0022
+
+## seg-0023 / 00:16:12-00:17:08 / SPEAKER_00
+
+So unfortunately... So unfortunately, the situation is that Israel has gone all in. As I've said in previous videos and previous lectures, I believe that what's happening in Gaza is a ritual human sacrifice. And this is something that the Aztecs did, something that the Romans did, the Spartans did. You do that because you're at war and you need to commit your entire population to total war. So if there's ever peace, then there's always a risk that the Palestinians will one day die. And they seek vengeance against Israel for what's happened. And the Israelis cannot allow that. Also, what the Israelis understand is that this war in Gaza, it's made the Palestinian people more resilient, more energetic, more dynamic, more innovative. And if they allow the Palestinians time to rebuild the society, it's going to cause a lot of issues for Israel in the future. Because the greater Israel project cannot allow for a Palestinian state to stand.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0023
+
+## seg-0024 / 00:17:05-00:17:08 / SPEAKER_00
+
+
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0024
+
+## seg-0025 / 00:17:09-00:18:13 / SPEAKER_03
+
+So going back to the war with Iran. Iran has made significant preparations. They're obviously making reforms when it comes to their intelligence operations, their intelligence gatherings, their counterintelligence within the country, trying to take out these Mossad cells, etc., etc. And they've apparently either repaired or improved their air defenses. There are significant amounts of support coming from both Russia and China. We know that Iran is getting around sanctions and giving. Much of their oil exports directly to Chinese companies offshore. And then it's brought onto the homeland. So China is helping Iran get around these sanctions. And we know that China has sold equipment to Iran. How important is Iran to China from China's perspective? Because if Israel and the U.S. do decide to get back into this catastrophic war once and for all to finish off the regime in Iran, which, as we know, is not going to go down by protests or intelligence operations.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0025
+
+## seg-0026 / 00:18:13-00:18:37 / SPEAKER_03
+
+We already saw that fail in the last 12 day war. So it would have to be a major catastrophic war in that scenario where Iran is truly in a fight to the death, a fight for its survival. Does China care enough about its relationship with Iran to potentially get involved and make sure that Iran keeps standing? Or is Iran simply part of temporary plans for China?
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0026
+
+## seg-0027 / 00:18:37-00:19:43 / SPEAKER_00
+
+Yeah. So unfortunately, the Chinese theory of geopolitics. It's very clear. It's very stark. It's pretty consistent. It's been consistent for decades. China will never, ever interfere in a conflict that does not involve Chinese territory or sovereignty issues. It just does not. First of all, it doesn't really have the capacity to fight an overseas war. The People's Liberation Army is very much a defensive army. It's meant to defend the territorial sovereignty and integrity. It doesn't have a theory of geopolitics. It would be very hard to explain to the Chinese why it's important to get involved in a war in Iran. The Chinese population would not stand for it. And the Chinese doesn't really even have a blue water navy. So the Chinese Navy is helmed in by the three island chains of the United States. So if the Chinese ships were ever to go off to the Middle East, then it would be stranded. It could be easily picked up, be picked off by the Chinese.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0027
+
+## seg-0028 / 00:19:43-00:20:22 / SPEAKER_00
+
+The American military or the Israeli Air Force. So unfortunately, China cannot involve itself in a war with Iran. But what China sees itself is maybe the last defender of the global order. And so what China would do is try to broker a peace between Iran, the United States and Israel, even as the war is raging. So that's how China would perceive itself in a possible conflict. That it would be a mediator. That it would try to reconcile. These different interests. But at the same time, it would continue to trade with both the United States and Iran in case of a conflict.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0028
+
+## seg-0029 / 00:20:22-00:20:54 / SPEAKER_03
+
+So it's my understanding that much of the material, let's say the fuel used to power the ballistic missiles come from China. I guess if China would not get involved militarily directly, would they maybe airlift emergency airlift some of this extra material to Iraq? Or would they completely hand it over to Iran, guaranteeing that they have what they need to fight? Is that the extent maybe China is willing to go to? Or are they completely hands off? Anytime the US wants to get involved militarily, they just completely back off.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0029
+
+## seg-0030 / 00:20:54-00:21:59 / SPEAKER_00
+
+I think that even as the war rages, there will always be secret negotiations going on among different parties. And I think that Beijing will be one of the facilitators of these secret negotiations. And I think that an agreement will be reached where China is allowed to provide. Material and weaponry to Iran and the United States will turn a blind eye. And this is this is essentially what happened in Ukraine. Right. NATO supplied intelligence, weaponry, special forces targeting to the Ukrainians and the Russians turn a blind eye. And so I think that war is a much more complicated fear than most people assume. Also, I just say this, but all these nation states are cynical. So so there could be a situation where America, Israel is fighting a war against Iran. But American companies, Israeli companies are providing certain material to the Iranians for a lot of money. So so war is a very complicated affair.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0030
+
+## seg-0031 / 00:21:59-00:22:24 / SPEAKER_00
+
+And we can't just say that when the United States goes to war against Iran, that's it. It's it's it's the finish at the end of the day. I keep on saying this, but the conflict within nation states is much greater than conflict. Between nation states. So when a war happens, it's often as a way to deflect from the greater domestic tensions within the nation state.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0031
+
+## seg-0032 / 00:22:24-00:23:19 / SPEAKER_03
+
+So you mentioned the war with Russia and Ukraine and how Russia turned a blind eye towards the involvement, very direct involvement of NATO. In many cases, it's it's Western forces operating missiles in Ukraine that are hitting Russia. They're doing everything but pushing the button. So they're very heavily involved. Now, there was the belief that tensions with Russia would cool down when Trump got elected. That did not happen. Then there was hope that after the summit they had in Alaska, that tensions would cool down in some way at some point. That has not happened. And recently they've actually canceled a summit or a conference they were supposed to have in Budapest. And now it just seems like things are going to escalate from here. And of course, there are. There are discussions potentially of the U.S. providing Tomahawk missiles to Ukraine, which not only can strike Russian territory, but are also capable of carrying nuclear weapons.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0032
+
+## seg-0033 / 00:23:19-00:23:42 / SPEAKER_03
+
+And this seems like a really difficult point to get over and could obviously escalate tensions between them. So how does this war with Russia factor into any predictions you have of our collective future? And how does it connect to the eschatological beliefs that are driving? A lot of the conflict and moving the world in a certain direction.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0033
+
+## seg-0034 / 00:23:42-00:24:47 / SPEAKER_00
+
+All right. So I'm going to make some pretty stark statements about this war in Ukraine. First of all, I believe the war is lost. The Ukraine has lost the war. If you just look at the front lines, the Russians are fighting with energy, with ferocity, with innovation. And the Ukrainians are discerning a mass. You see stories of these elderly men in the 50s and 60s being picked off the streets of Ukraine in order to fight in this war. It's an unwinnable war. So I think this war is lost. That's number one. Number two is Zelensky and the Ukrainian elite cannot afford to stop fighting this war. Because if there's ever peace, then the Ukrainian people would look at all the destruction, all the losses. And there'll be a political revolution in Ukraine and a pro -Putin regime would come into power. I think that's pretty obvious. That's number two. Number three is that NATO itself cannot afford to stop fighting this war because NATO has invested so much resources.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0034
+
+## seg-0035 / 00:24:48-00:25:47 / SPEAKER_00
+
+Basically, NATO has gone all in in this war in Ukraine. This is something that people don't really appreciate. They hide it from us. The headlines have always been optimistic about this war. And they fool themselves to believe that this war is winnable. And they've invested so much that if they were to ever sue for peace, if they were ever to withdraw from the war, then the losses would be catastrophic. So NATO itself cannot afford to lose this war. And that's why we're seeing all these signs of war preparation throughout Europe. Macron has told hospitals to prepare for casualties starting early next year. Same thing with Germany. Romania has started to draft a law to draft young men into war. Moldova recently had these recent elections in which a pro -European candidate won Sandu. And there's talk of Moldova becoming the 33rd state of NATO.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0035
+
+## seg-0036 / 00:25:48-00:26:54 / SPEAKER_00
+
+So I think that there's all these signs that NATO is preparing for a prolonged conflict with Russia. And the reason why is they just can't afford to stop. If they just stop this war, then there'll be massive rebellions throughout Ukraine, throughout Eastern Europe. And these regimes will no longer be viable. They'll be unsustainable. And the American empire itself does not want this war to stop because it sees this war as draining valuable resources from Russia. It's bogging Russia down in Ukraine. If this war were to stop, Russia would be much more likely to help Iran. It could possibly try to restore the Syrian regime. Russia could offer help to Venezuela and Cuba and Nicaragua in the American theater. So for many reasons, they just can't afford to stop. So what I think will happen, I've made this prediction before, is that the conflict will converge in Odessa. Putin and his generals have announced that they want to move towards Odessa.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0036
+
+## seg-0037 / 00:26:54-00:27:34 / SPEAKER_00
+
+It will be a grind. The Russian military warfare, military doctrine, it's slow, it's deliberate, it's methodical. They want to limit as many civilian casualties as possible. But eventually, they will approach Odessa. And if Russia takes Odessa, the war is over. Ukraine is no longer a viable state. And so NATO will fight Russia in Odessa. It will reinforce Odessa. And unfortunately, the saying is that America wants to fight Russia to the last Ukrainian man. It's possible now that America will fight Russia to the last European man.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0037
+
+## seg-0038 / 00:27:34-00:28:01 / SPEAKER_03
+
+Well, that's a very scary thought. Is there any potential in your mind for the worst case scenario, which is a direct hot war between NATO and Russia, which every war game apparently has predicted that it always ends in a nuclear exchange? Is that a realistic possibility, a 50 percent chance, 10 percent chance? Or is it something that you don't even want to think about?
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0038
+
+## seg-0039 / 00:28:01-00:29:00 / SPEAKER_00
+
+Well, so Trump and Putin met in mid -August in Anchorage. And they had a very good meeting. And it seemed both were very happy with the results of the meeting. And right after the meeting, as you mentioned, conflicts started to arise everywhere. So Trump started to send the Navy, the American Navy, to Venezuela. Putin sent more drones against NATO countries. So the question then is, what was the point of that Anchorage meeting? And many people believe that it was for peace. But if you change your perspective and said, maybe it was for war purposes. Maybe Putin and Trump agreed to fight even more. So the question then is, why would they do that? Well, both Trump and Putin have a common enemy. And the common enemy is the Global Financial Establishment Order, which has controlled the world ever since the fall of the Soviet Union, right? Remember, George H.W. Bush announced the creation of the New World Order.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0039
+
+## seg-0040 / 00:29:00-00:29:53 / SPEAKER_00
+
+And what did that mean? It meant that these different elites of these different countries, China, Russia, United States, Europe, would get together and they would steal from their own people. So these are parasites. And both Trump and Putin see the global establishment elite as the real enemy. They see NATO. They see the American, European deep states. They see the EU as the common enemy. And so how do you destroy the Global Financial Order? Well, you drag them into a war that's not winnable, that would cause tremendous popular dissension. That would cause discontent within their nations, and which would lead to the overthrow of their respective deep state regimes. And I think that's the strategy that Putin and Trump have mapped out. So I think that this war in Ukraine, what's happening in Venezuela, it's all just a reflection of that.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0040
+
+## seg-0041 / 00:29:53-00:30:46 / SPEAKER_03
+
+Now, I believe you when you say Putin believes that. But I'm not so sure I agree that Trump actually believes that. I know that's what Trump markets himself as. But I view Trump as really just a selfish billionaire. And we have his entire career to look at. He's always been interested in money and fame. And so I find it hard to believe that he's... I'm not saying that you're not right in this situation. I just don't know. It's hard for me to see Trump from that perspective. Putin I can definitely see. But Trump I feel like is just very self -serving. And perhaps he was so egotistical, he thought if he just talked to Putin, in Alaska, they could get the ball rolling and bring some kind of end to this that would somehow favor the United States, which was kind of ridiculous. So what am I not seeing about Trump that leads me to disagree with that in your view?
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0041
+
+## seg-0042 / 00:30:45-00:30:46 / SPEAKER_03
+
+
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0042
+
+## seg-0043 / 00:30:46-00:31:52 / SPEAKER_00
+
+Right. So I completely agree. I think that Trump is self -serving and he's corrupt and he's egotistical. He's a narcissistic egomaniac. Everyone knows that. But what does Trump keep on talking about? What really keeps Trump awake at night? Well, it's the 2020 election. The 2020 election in his eyes was something that was orchestrated by the deep state. And if there were no pandemic, if it were not for the fact of these mail -in ballots in the swing states of Wisconsin, Michigan, and Pennsylvania, if it were not for the collusion of the entire global financial elite in which they pour $6 billion into defeating Donald Trump, if it were not for just widespread fraud, cheating, and collusion among the global financial elite, then he would still be president. And everything that happened from 2021 to 2024, the raids in Mar -a -Lago, all these financial lawsuits, being banned from the elections, all this persecution would not have happened.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0043
+
+## seg-0044 / 00:31:52-00:32:49 / SPEAKER_00
+
+So in Trump's eyes, his true enemy is the deep state. And the deep state is something that is global. It's a global octopus, and he needs to destroy that. Trump is intent on a third term. I think that if you just look at all his actions, if you just look at all the signs, he's telling you he wants a third term. He recently is selling these Trump 2028 hats. I mean, everything he's done has sort of related to everyone that he's intent on a third term. And so how do you get a third term? Well, first of all, you have to start wars everywhere, because then you have these extra judicial, extra constitutional powers that allow you to stay a third term. But also, you need to actually also undermine the deep state. So you need to promote factions that are loyal to you, and you need to undermine factions that are loyal to the global order.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0044
+
+## seg-0045 / 00:32:50-00:33:13 / SPEAKER_00
+
+And that's possibly why we're seeing all these wars in Venezuela. Because remember, the biggest drug runner in the world is the CIA. So these Mexican drug cartels, Venezuelan drug smuggling, it's all controlled by the CIA. So why would Trump do that? Because he wants to undermine the CIA, which he sees as a direct threat to a third term.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0045
+
+## seg-0046 / 00:33:13-00:34:01 / SPEAKER_03
+
+That's all very fascinating. I was actually about to ask you about the connection Venezuela has to your predictions for the future, or perhaps the connection to these eschatological beliefs. But it sounds like Venezuela is, like you said, a part of Trump's plan to counter the CIA. Let me ask you this. Do you think Trump views himself as a divinely favored saver? Some people have called him like the second coming of Christ. So maybe he doesn't actually think he's the next coming of Christ. But after surviving an assassination attempt where he was a couple millimeters away from having his brains blown out, does he view himself as divinely favored, as some kind of like messianic figure?
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0046
+
+## seg-0047 / 00:34:02-00:34:55 / SPEAKER_00
+
+Right. So there's an interesting fact about Trump that people sort of dismiss. They might have read about it, but they completely forget about it because it's so confusing. You know, it creates cognitive dissonance. The fact is this. Trump does not drink. He does not do drugs. He's a teetotaler. So it's a really strange idea because Trump is a consummate playboy. He's been in a tabloid since the 1980s, sleeping with all these beautiful women, hosting all these lavish parties. So you imagine that he's just this raging alcoholic, you know, along the lines like Jay Gatsby. But he does not drink. His entire family does not drink. So why is that? I'm not sure if you've read Robert Carroll's biography of Lyndon Johnson. But when he was very young, Lyndon Johnson was already strategizing about how to portray himself, how to act in a way that would allow him to become President of the United States. Trump does not drink.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0047
+
+## seg-0048 / 00:34:55-00:35:47 / SPEAKER_00
+
+And he's been talking about himself as a possible President candidate ever since the 80s. Just go back to the 1980s when CNN was interviewing Trump in the Democratic -Republican presidential elections. They were like, you know, how do you feel about the convention? Trump is always like, you know, this is great. And then one day I'm going to run for President of the United States and I'm going to win. So he's been thinking about this ever since the 20s and 30s. And so I do believe he is an amazing figure. I mean, I do believe that when he goes to bed at night, he does have these visions of grandeur, of himself on the world stage, of creating peace around the world. I mean, like, if he were not messianic, if he did not see himself as divinely ordained, it'd be very hard for me to explain his actions. The fact that he does not drink, does not do drugs.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0048
+
+## seg-0049 / 00:35:47-00:36:13 / SPEAKER_00
+
+He's an extremely disciplined individual that has basically curated his image for decades in order to reach the point where he is. Look at The Apprentice, right? What really propelled him on the national stage is The Apprentice show. And that is, you know, almost... I mean, it's brilliant in the way that it portrayed Trump as this great leader. And it stayed in the minds of Americans.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0049
+
+## seg-0050 / 00:36:14-00:37:09 / SPEAKER_03
+
+I agree with you that Trump could potentially seek a third term. And the only way to accomplish that is some kind of suspension of the status quo, the rules that would prevent him from obtaining a third term. We've seen... What's his name? He was his advisor, Steve Bannon. Steve Bannon made a very direct statement that there's, you know, we're already trying to see if we can amend the Constitution or do whatever we need to do in Congress in order to get him a third term. So I don't think that's outside the realm of possibilities. I think that there's some strong potential if he can remain healthy. I think about a month ago, he may have had a stroke. He disappeared for a week. And when he reappeared, he was not jumping back into, like, major public events very quickly. And there was a slight droop to the left side of his mouth, which suggests that he may have had like a minor stroke.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0050
+
+## seg-0051 / 00:37:10-00:37:18 / SPEAKER_03
+
+So if he can survive, because he's, I think, just as old as Biden, if not older. He's just healthier than him mentally, I guess.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0051
+
+## seg-0052 / 00:37:19-00:38:17 / SPEAKER_00
+
+But just count the number of press conferences that Trump has done and compare that with Biden's number, right? I mean, like, he's extremely energetic. Something else I will point out is that it's very likely that within a year or two, it will instigate civil unrest in the United States. We've seen reports that Trump plans to deploy National Guard to every single state. And if you watch his surrogates talk, it's really important to watch his surrogates talk. Like, people like Steve Bannon, Tucker Carlson, Alex Jones, they're talking about a civil war. And what Alex Jones said in a recent interview with Tucker Carlson, it's very specific. He says that John Podesta, who is, you know, one of the top kingmakers of the Democratic Party, they've war -gamed a civil war. And so we need to prepare for that. If you watch the dark internet, they're talking about the possibility of arresting John Podesta, of Trump arresting John Podesta.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0052
+
+## seg-0053 / 00:38:18-00:38:32 / SPEAKER_00
+
+And then John Podesta has all these Antifa militia people ready in the wings to create civil unrest, in which case the National Guard will have to come in and stamp things down. So I think they're already war -gaming a civil war. And that's something that we need to watch for in the next couple of years.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0053
+
+## seg-0054 / 00:38:32-00:39:25 / SPEAKER_03
+
+That's a very interesting point. There are people who speculate that immigration, customs, ICE, basically, they are testing out this concept of like a secret police, just allowing people to mask themselves, not even carry masks, badges or reveal their identification and just kidnap people in the streets. Now, these are people who are not citizens, so they think they can get away with this legally. And that's, in some cases, true. In other cases, it's being challenged in the courts. But it's not really about like the legal mechanics of it. It's about the actual process of having secret police driving around in vans using Israeli -made technology to hack your phone, determine your exact location, listen to your phone to see if you're actually present in the room with your phone, then in there, and then surprise you and just arrest you. And they're completely masked up and you don't even know who they are.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0054
+
+## seg-0055 / 00:39:25-00:39:36 / SPEAKER_03
+
+This could be the soft launching of like a Gestapo or a secret police to be used in the event of the escalation of civil unrest and a potential civil war.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0055
+
+## seg-0056 / 00:39:36-00:40:37 / SPEAKER_00
+
+Look, there's a lot of signs that Trump wants to be king, right? So, the arming of ICE agents and unleashing them into these democratic strongholds. That's one sign. Remember, even though ICE, their numbers have increased greatly, their budget has skyrocketed, the number of immigrants being removed from the United States is still lower than that under Obama, right? So, you ask yourself, wait a minute, if ICE is so powerful and so wealthy, why aren't the numbers going up? And the answer is possibly because the intention is to create a secret police. So, ICE is a factor in the Project 2025, a revamping of the federal bureaucracy. You have this government shutdown which allows Trump and his allies to radically, radically change the makeup of the federal bureaucracy. You have all these wars raging. There are a lot of signs that Trump is intent on a third term. He's renovating the White House, a renovation that's supposed to, you know, go beyond 2028 when his term technically expires.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0056
+
+## seg-0057 / 00:40:38-00:41:09 / SPEAKER_00
+
+So, why is he doing all this? And he is energetic. Remember, in theory, he's retiring in three years, but does he look like he intends on retiring? I mean, it seems to me he wants to stay forever. And also, like, there's talk of revenge, right? So, if Trump leaves office and the Democratic president comes into power, what do you think he or she is going to do to Trump? So, in many ways, it's almost like Trump cannot afford to leave office. He's all in now. You know, it's either he becomes king or he dies trying.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0057
+
+## seg-0058 / 00:41:09-00:41:52 / SPEAKER_03
+
+That's a very interesting point. You mentioned how they unleashed ICE or the secret police into Democratic strongholds. There was, I don't know if you're aware of this, but a couple of years ago during the Biden administration, these migrants that would cross the border, the state of Texas would put them on buses and send them to New York and send them to Chicago and say, you deal with them. And then they became a burden on the city of New York. Like, citizens are asking, wait a second, why is a migrant who just got off the bus getting like $3,000 a month for free in order to get a hotel and get food? So, it became a political issue then, but it's an even bigger political issue now because they're like, you have a bunch of migrants that we need to get rid of and they send ICE there. So, they're, it's like a Trojan horse.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0058
+
+## seg-0059 / 00:41:53-00:41:59 / SPEAKER_03
+
+They sent them the migrants and then they provided the justification in order to send the secret police after them.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0059
+
+## seg-0060 / 00:41:59-00:42:56 / SPEAKER_00
+
+Right, so, sorry, but I'll just point out that Trump has a feel for vibes, right? Trump knows the mood of the public. And what he's doing is pretty popular with Democrats. He's doing a lot of things that are not popular with the American people. And I'll also say the Democratic Party is in shambles. They have no direction. They have no vision. They have no leadership. You know, recently there was this No Kings rally in, around the United States. And it's like, we can't have a king, but nothing else, right? You're not allowed to talk about equality, corruption. You're not allowed to talk about the, what's happening in Gaza. You're not allowed to talk about what's happening in Ukraine. You're not. You're just allowed to say, we don't like Trump. That's it. So the Democratic Party is in shambles. And I will say that if Trump becomes king, which is entirely possible, then he has to thank the Democratic Party.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0060
+
+## seg-0061 / 00:42:56-00:43:50 / SPEAKER_00
+
+Because without the Democratic Party, it would not be possible for him to be king. Look, there's a Democratic Party that sabotaged Bernie Sanders and the possibility of political rejuvenation within the party. It was a Democratic Party that put Joe Biden into office and he was like, this is such a disaster that the people voted for Trump. It was the Democratic Party that continues to gaslight people. The mainstream media, the Democratic Party is telling people, there's nothing wrong with the economy. There's something wrong with Washington. There's something wrong with us. Just shut up and stay home and do what you're told. And during the Biden era, that's what people were told, even though people could no longer afford groceries. People could no longer afford gas. People were unemployed. So I'll say this. If Trump were to become king, it's because of the fault of the Democratic Party.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0061
+
+## seg-0062 / 00:43:51-00:44:43 / SPEAKER_03
+
+You know, not to sound cliche here, but or to state the obvious that many people have pointed out in the past, but this sounds a lot like the fall of the Roman Republic and the rise of the empire. Just the no kings rally, just even the possibility that we can discuss a third term and Trump presenting himself as a king, even though America has already been in an imperial state for quite a long time. We don't refer to it as a true democracy or a republic even. People might still have those delusions, but people who are aware of the facts know that this is an empire and it acts in an imperial fashion and there's nothing Democratic or Republican about it truly. But still there's this discussion about Trump taking another term. And this was the exact conversation between those who supported Julius Caesar and those who opposed him in the fall, in the lead up to the fall of the Roman Republic.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0062
+
+## seg-0063 / 00:44:44-00:45:04 / SPEAKER_03
+
+So in your view and your understanding of Roman history and American history and where we're at today, does this history rhyme? And what can we learn from the collapse of the Roman Republic and the rise of the empire? And what can we apply from those lessons to our current understanding of what's happening today?
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0063
+
+## seg-0064 / 00:45:05-00:46:09 / SPEAKER_00
+
+Look, the reality is that it's not just the Roman Empire, it's all empires. Eventually they produce an elite that is hereditary, which is corrupt, which is rent -seeking. So the Roman Empire, after it defeated all its enemies, Carthage, the Greeks, Macedonia, their elite started to prey on the people. And so what the elite would do is steal people's land, including public land, and charge people with rent for that, forcing people into debt slavery. And this was the majority of the population. And this created an appetite for reformers to emerge. So the first set of reformers were the Gracchi brothers, Tiberius Gracchus. And his reform was not controversial. It was just like, let's take public land owned by the state of Rome and give it to poor people. Really common sense, because you make the economy much more productive. And because he said that, he was beaten to death by the Senate, these elderly aristocrats who were insulted that a young man could possibly propose something new.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0064
+
+## seg-0065 / 00:46:09-00:47:13 / SPEAKER_00
+
+And so I think it's a very similar situation right now in the United States, where you have this gerontocracy, these people in their 80s who live in their own bubble, who have absolutely no concern for the plight of the ordinary American, and who is completely divorced from reality. And this creates the environment for someone like Trump to arise. So before with Julius Caesar, there were the Gracchus brothers and there was Sulla. And then after Julius Caesar, there was Augustus Caesar. So as long as you don't address the fundamental issue where America right now is being ruled by this corrupt, out of touch gerontocracy, then you will always have issues like this. If Trump goes away, then there'll be someone else to take his mantle, maybe Tucker Carlson, right? Or MTG or someone else. But you will always have this explosive social environment and the people are just calling for relief.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0065
+
+## seg-0066 / 00:47:13-00:47:23 / SPEAKER_00
+
+And the only person who can actually deliver relief are kings historically, because kings are the ones who are able to rally the people against the elite and redistribute land and erase debt.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0066
+
+## seg-0067 / 00:47:24-00:48:18 / SPEAKER_03
+
+I want to ask you now about... Your videos have been going ballistic. You've created sub -channels now, or if it's not you, it's your fan. I mean, right, right, right. And those clips are going viral. And they're everywhere. Like when I would tell people, yeah, I'm interviewing Professor John, they were like, oh, I've seen his videos on YouTube. But now, now like my sister is sending me your videos as someone else remixed on Instagram. So your videos are going absolutely viral. And you're producing all kinds of content, educating people at all sorts of things. One of the things you're educating your high school class, and correct me if I'm wrong, it's your high school class that you're documenting your classes. Yeah. One of the subjects that you're teaching is quantum mechanics, which is interesting for two reasons. One, because it's such a fascinating subject. The other thing is that these are high school students and you're teaching them quantum mechanics.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0067
+
+## seg-0068 / 00:48:18-00:48:54 / SPEAKER_03
+
+In America, I don't know what... I don't think the high school kids are learning quantum mechanics. I definitely didn't learn that when I was in high school. But anyway, I want to ask you why you decided to teach quantum mechanics to your students and to your followers online and how quantum mechanics fits into your worldview and this concept of predictive history and how it might fit into the warnings you're trying to preach to your followers essentially about this very dire situation we're in that we can perceive as the end of times.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0068
+
+## seg-0069 / 00:48:54-00:49:58 / SPEAKER_00
+
+So I think that we are where we are because we've abandoned the spiritual side of our identity and embraced the materialistic. So all we care about nowadays is money, sex, power. Our entire societies revolve around these three things. And so what I'm trying to get my students to do is reimagine who they can be and reimagine what society can be. And so I'm trying to get them to explore intellectually who we are. And to do that, I need to get them to think about the fundamental nature of reality. So I discuss quantum mechanics but also discuss Kant and Hegel philosophy. And I want to show them that there's widespread agreement among different disciplines about the nature of reality. So quantum mechanics say that nature is unknowable because particles and waves can coexist together until it's observed. And so this is what we call the collapse of the wave function. And this is something that Kant told us.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0069
+
+## seg-0070 / 00:49:58-00:50:56 / SPEAKER_00
+
+Kant says that we can never know the objective reality because we are participants in reality and so we create our own reality. And by showing how these how philosophy and quantum mechanics converge and agree then that plants a seed in my students and lets them understand that maybe at a fundamental level reality is not what we think it is. Maybe reality is not material. Maybe it's energetic. Maybe it's informational. Maybe it's vibrational. So for high school students I'm just trying to implant questions. I'm just trying to shift slightly with nuance and subtlety how they perceive the world. Because the reality is that materialism the idea of materialism is so embedded into our everyday lives. So think of the theory of evolution. You'd be called crazy if you ever questioned the theory of evolution even though actually if you studied the theory of evolution there are lots of questions that would arise from Darwin's explanations.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0070
+
+## seg-0071 / 00:50:56-00:51:12 / SPEAKER_00
+
+So that's what I'm trying to do. I'm trying to provoke a civilizational discourse. On what it means to be human and where we could be going. And I think that we need to reconcile the fact that we are spiritual beings living in a material world.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0071
+
+## seg-0072 / 00:51:12-00:51:54 / SPEAKER_03
+
+In our last discussion you told me that you wanted to prepare people or your followers your students and to help them reimagine what a new world can look like. That the world is not like literally ending that it's going to you know collapse in some big fire but actually it's you know society and civilization as we know it is transitioning to something new and we get to be part of that process and build what comes next. Does that fit into what you're telling me now about quantum mechanics by planting the seed and allowing people to think more creatively about their identity reality itself and participating in that in a more constructive manner?
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0072
+
+## seg-0073 / 00:51:54-00:52:36 / SPEAKER_00
+
+So I mean the basic principle of quantum mechanics is reality is what we imagine it to be. It's only when we participate in reality when we observe reality that it becomes true to us. And so that's the main lesson that I'm trying to teach my students that the imagination is the animating force of the universe. And the future is what you imagine it to be. So don't be passive be active be proactive and as the world changes as the world devolves as the world shatters into chaos dream of a better world and it will become a better world and that's the message that I'm sending to my students but obviously with some nuance.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0073
+
+## seg-0074 / 00:52:36-00:53:35 / SPEAKER_03
+
+Yeah, I think that's powerful and it's important. I'm wondering what role you view humanity having moving forward because I guess when we think about ourselves as participating most people simply participate in the world by participating in the economy and they participate in the economy through their labor but their labor is essentially being replaced right now by AI if not today the AI being built today is designed to replace your labor tomorrow. I was listening to a discussion today there are these AI researchers and scientists they have like their own podcast and they get on YouTube every week and they update people about the developments in AI and they were describing a world I simply could not care about. They were talking about how excited they were for AI that AI was going to do this and was going to do that and I was thinking what are we going to do? AI is going to
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0074
+
+## seg-0075 / 00:53:35-00:53:59 / SPEAKER_03
+
+do all these wonderful things and it's going to benefit Sam Altman and the 10 other Zionist Jews who own the entire apparatus for it. How does it benefit me and the common person? What are we going to do when we're stripped of our labor and we're stripped of essentially our meaning and our purpose at least what we think is our meaning and purpose. So how does this relate to the rapid advancement of AI?
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0075
+
+## seg-0076 / 00:53:59-00:54:59 / SPEAKER_00
+
+Look, I have a different take on AI than most people. I don't think AI will ever be achieved. AGI, right? Artificial General Intelligence. If you just look at the technology the resources underpinning AI it's tremendous, right? You've got these data centers that are sucking up all communities' water and electricity just so that people can create these silly images on the internet. It's a really silly endeavor. So I don't think AI is actually that fantastic. I don't think it actually does anything. And I think that eventually the entire AI bubble will collapse because they've poured in $200 into it and they still have not figured out how to make money off it. So Sam Altman has come out and said that from now on ChatGPT will do sexting, right? So engage with humans in sexual dialogue. Why would you want AI to do that? And I think it's a sign of desperation. And I think that what people don't really appreciate is the elite, okay?
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0076
+
+## seg-0077 / 00:54:59-00:55:47 / SPEAKER_00
+
+Everywhere. They are desperate. They are desperate to maintain control because they know they're losing control. They've lost control of the narrative. People no longer believe them. So, you know, you have AI but you also have like talk of like demons and alien invasion and all that. And again, it's all like this desperation, anxiety among the elite to maintain control when they've lost control. And I think that what we're really optimistic about is a spiritual awakening of humanity. And I'll be honest with you. Like, the fact that I grew up on the internet, you know, I was at 500 subscribers six months ago in May. Now I'm at like, you know, 800,000. It's just incredible, my growth. And I think it's because I'm delivering a message that's right for the time. I've been saying this for a long time, but it just happens that I've hit a nerve.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0077
+
+## seg-0078 / 00:55:47-00:56:13 / SPEAKER_00
+
+And it's because people are now ready to understand their true potential. And I think that once people lose faith in artificial intelligence, lose faith in authority, and once they establish a greater faith in themselves, then they'll truly establish themselves as divine spiritual beings. And their imagination, human imagination will be truly unleashed. And we could approach a golden age of human creativity and potential.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0078
+
+## seg-0079 / 00:56:13-00:57:07 / SPEAKER_03
+
+I hope so. I hope you're correct about this. I agree with you that right now, the way that we see AI being manifested is in what they call slop, AI slop, which is sexting, garbage imagery, like really poor videos. But we've actually, if you look at like the first video of Will Smith eating noodles a couple of years ago with AI, it looked terrible. Now it's like almost lifelike. And I saw a very emotional video that went viral the other day. There was a 32 year old musician who said, I dedicated my entire life to music and I've made money since I graduated high school making music. I, you know, doing sound design, being online, being on set for productions or making music or doing whatever they could in the field of music to make money. And they said in the last two years, little by little, it's gotten to the point where now there
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0079
+
+## seg-0080 / 00:57:07-00:57:55 / SPEAKER_03
+
+is nothing I can do and there's nothing I'm willing to do because now people will tell me, can you do this specific thing for me with a musical instrument? And they say, no. Why would I do that for you? AI can do it faster and cheaper for you. And no one else wants. And I did. I chose this. I pursued this career because I'm passionate about music and I wanted to make money, but I do have a love for it. And now that love has been stripped from me. And I think back to like 2014 where these academics were first talking about automation. Not first, obviously, they've been talking about it for a long time, but there was a famous interview where this Japanese American physicist talked about automation and said, this will be a wonderful thing that when AI and automation comes, it'll free human beings to stop flipping burgers and start doing creative things.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0080
+
+## seg-0081 / 00:57:55-00:58:48 / SPEAKER_03
+
+But the first thing AI has replaced is creativity and music. And while it could be nothing, and I hope you're right that it's nothing, scientists and these researchers are telling us in ways that you can't really understand unless you're one of them and you can understand their nerdy language. But they're basically telling you that AI is doing things that are unimaginable. And it's only a matter of time before it actually starts producing the changes that we find are actually revolutionary and destabilizing to society. So long -winded explanation, I know I apologize for that. I hope you're right, but my mind is not made up on which direction AI is going in. You're right, it could collapse, but it also could usher in like a techno -feudal slave era. And I'm not excited about that. So I hope you're right.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0081
+
+## seg-0082 / 00:58:48-00:59:50 / SPEAKER_00
+
+Right, so let me just respond quickly to your concerns. So I think the problem is that for the past 20 years with the rise of capitalism, global capitalism, we've been brainwashed to believe that we are just commodities that already value is to produce labor for the free market. And the free market will judge our value. And that's a problem because throughout most of human history, we were all spiritual beings in community with each other. So when we produce music, it is to cause the light amongst people in our community. It was not to sell our music, our labor or commodity to the free market. And so I think that with the collapse of mass society, which we will see in the next 50 years, then humans will return to their origins as these spiritual entities very much concerned with bringing value and art to their communities. So as long as we focus on using our music to make each other more fulfilled, then we will always have, we always create value.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0082
+
+## seg-0083 / 00:59:51-00:59:58 / SPEAKER_00
+
+But if it's really about creating music so it can be commodified and sold in the free market, then AI can easily replace us.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0083
+
+## seg-0084 / 00:59:59-01:00:10 / SPEAKER_03
+
+Interesting. So you're saying even if that's true, even if AI will replace us, for us to adapt as human beings, we need to reinterpret the motivations we have for the things that we do.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0084
+
+## seg-0085 / 01:00:10-01:00:44 / SPEAKER_00
+
+Look, the reality is this. The reality is that the elite and the proxy AI, it's a parasite on mass society. As long as there's billions of people around, then AI is possible. But if there is a major geophysical event, which is what a lot of people expect, maybe a magnetic pole shift, maybe a mini ice age, and the population decreases, then AI is no longer sustainable. I mean, where would you get the funding, the resources, to build all these massive data centers that have to be maintained throughout the year? AI would no longer be viable.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0085
+
+## seg-0086 / 01:00:44-01:00:59 / SPEAKER_03
+
+Professor Jung, thank you so much for taking the time today. This was unexpected. I wasn't sure if you wanted to do another interview, given how busy you are. So I appreciate your time. I'm very thankful for it. And I know that my audience will be as well.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0086
+
+## seg-0087 / 01:01:00-01:01:05 / SPEAKER_00
+
+It's always a pleasure to talk with you. You ask great questions. I always enjoy our conversations. So thank you.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0087
+
+## seg-0088 / 01:01:06-01:02:03 / SPEAKER_03
+
+Absolutely. Thank you. We'll talk again soon. I want to give a special thank you to our channel members. You all keep this channel alive. Because I don't have that many channel members, I'm going to call them out one by one by name. As a special thank you for your support, which makes my work possible. If you enjoyed this conversation with Professor Jung, please don't forget to like and subscribe. And take a look at the rest of my content. You might want to take a look at my explainer videos playlist. That is the content that most of my followers appreciate. But we also have a bunch of wonderful interviews and podcasts. We have Scott Ritter, Sami Hamdi, many other brilliant academics and journalists. So go ahead and take a look at our catalog and let me know which content that you want to see more of. Thank you guys and see you in the next one.
+
+Ref: video:interview-pul2i1womxg@transcript:v1#seg-0088
