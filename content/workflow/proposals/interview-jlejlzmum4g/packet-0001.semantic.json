@@ -1,0 +1,191 @@
+{
+  "packet_id": "interview-jlejlzmum4g-semantics-pkt-0001",
+  "source_id": "video:interview-jlejlzmum4g",
+  "source_date": "2025-11-06",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0001",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0002"
+      ],
+      "kind": "exchange",
+      "summary": "The Duran host opens the livestream, introduces Jiang as a first-time guest, and turns the conversation toward predictive geopolitics.",
+      "speaker_attribution": "Host introduction with brief Jiang acknowledgment",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0003",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0004",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0005",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0006"
+      ],
+      "kind": "question",
+      "summary": "The host frames the interview as a synthetic geopolitical reading rather than a topic-by-topic discussion, then asks Jiang to use predictive history and other tools to explain where the Ukraine-centered conflict is heading.",
+      "speaker_attribution": "Alexander Mercouris question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0007",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says he turned to The Duran because mainstream Ukraine coverage looked delusional, then opens his answer with a bleak diagnosis: Ukraine has already lost the war and no longer functions as a viable nation-state.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0003",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0006"
+      ],
+      "note": "The packet contains one continuous host setup and question even though the diarized transcript splits it across four segments.",
+      "suggested_speaker": "Alexander Mercouris",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The host frames the present world situation as a major geopolitical conflict connecting Europe, the Middle East, Latin America, economics, science, and technology rather than as isolated crises.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0003",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Interview framing on 2025-11-06.",
+      "topic_tags": ["geopolitics", "systems", "multipolar-conflict"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The host proposes that what look like separate Russia-West and China-US conflicts have partially merged into one larger geopolitical process.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Interview framing on 2025-11-06.",
+      "topic_tags": ["Russia", "China", "United States", "great-power-conflict"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the early 2022 mainstream narrative about Russia's imminent collapse and the 'ghost of Kiev' was so detached from reality that he sought out alternative analysis.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Jiang retrospective on media coverage after 2022, stated on 2025-11-06.",
+      "topic_tags": ["Ukraine", "media", "narrative"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's opening diagnosis is that Ukraine has already lost the war and has effectively ceased to function as a nation-state.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Jiang diagnosis on 2025-11-06.",
+      "topic_tags": ["Ukraine", "state-collapse", "war"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang estimates wartime Ukrainian casualties at one to two million and says millions more have fled abroad.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Jiang estimate on 2025-11-06 about the war's cumulative toll.",
+      "topic_tags": ["Ukraine", "casualties", "demography"],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that if peace came tomorrow and the Donbas went to Russia, the remaining Ukrainian state would survive only as a European-supported rump welfare state.",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Conditional forecast stated on 2025-11-06.",
+      "topic_tags": ["Ukraine", "Donbas", "Europe", "postwar-order"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0004",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0006"
+      ],
+      "moment": "The interview is framed as a predictive synthesis: not one issue at a time, but where the whole interlocking crisis is leading.",
+      "source_phrase": "a more predictive a greater sense of where this is taking us",
+      "why_it_matters": "It defines the public use of the interview and licenses Jiang to speak in large causal chains rather than narrow event commentary.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0007"
+      ],
+      "moment": "Jiang recalls the opening war narrative as a 'bizarro world' where media claims violated obvious reality.",
+      "source_phrase": "I was living in a bizarro world",
+      "why_it_matters": "It captures his recurring stance that official narratives become unusable exactly when predictive judgment matters most.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0008"
+      ],
+      "moment": "The answer begins not with uncertainty but with collapse language: the war is lost and Ukraine has ceased to function as a state.",
+      "source_phrase": "the war is lost",
+      "why_it_matters": "It sets the entire packet sequence on a terminal-war footing rather than a balance-of-forces discussion.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "predictive history",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The host's label for using historical pattern recognition and broader analytical tools to infer where a geopolitical process is heading.",
+      "confidence": "high"
+    },
+    {
+      "term": "rump state",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang's description of what would remain of Ukraine after territorial loss and demographic exhaustion: a dependent residual state requiring outside support.",
+      "confidence": "high"
+    },
+    {
+      "term": "ghost of Kiev",
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "A wartime propaganda story Jiang uses as shorthand for early Ukraine-war media unreality.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0007",
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0008"
+      ],
+      "note": "Jiang explicitly dates his turn toward alternative Ukraine analysis to the start of the war in February 2022, but the interview's own diagnostic claims are current as of 2025-11-06.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-jlejlzmum4g@transcript:v1#seg-0008"
+      ],
+      "note": "The casualty figure of one to two million is Jiang's stated estimate in the interview, not an independently verified count inside this packet."
+    }
+  ]
+}

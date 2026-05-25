@@ -13,9 +13,9 @@ The pressure is dangerous because it can create three qualities that Jiang keeps
 
 The borderland engine is therefore not a morality tale about the poor being better than the rich. It is a diagnostic. Ask which actor still has motion, which actor can learn, which actor can sacrifice, and which actor has become too stable to imagine change.
 
-<!-- lens-point id="borderland-engine-energy-openness-cohesion" concept="borderland-engine" evidence="video:predictive-history-ybufqry77pq@transcript:v1#seg-0004 video:predictive-history-ybufqry77pq@transcript:v1#seg-0005 video:predictive-history-z0awfin83lo@transcript:v1#seg-0016" -->
+<!-- lens-point id="borderland-engine-energy-openness-cohesion" concept="borderland-engine" evidence="video:predictive-history-ybufqry77pq@transcript:v1#seg-0004 video:predictive-history-ybufqry77pq@transcript:v1#seg-0005 video:predictive-history-z0awfin83lo@transcript:v1#seg-0016 video:interview-gssim9xnrae@transcript:v1#seg-0002 video:interview-gssim9xnrae@transcript:v1#seg-0036" -->
 <span id="borderland-engine-energy-openness-cohesion" class="lens-point-anchor"></span>
-The borderland engine turns marginality into historical force when pressure creates energy, openness, and cohesion strong enough to counter a center's mass, organization, wealth, and inherited confidence.
+The borderland engine turns marginality into historical force when pressure creates energy, openness, and cohesion strong enough to counter a center's mass, organization, wealth, inherited confidence, or formal prestige.
 
 Jiang's February 18, 2025 "Oceanic Currents" lecture gives the larger image behind this page. History is not only [a cycle of rise and fall or a line moving toward truth]{evidence="video:predictive-history-hioyqbbbllk@transcript:v1#seg-0008 video:predictive-history-hioyqbbbllk@transcript:v1#seg-0014 video:predictive-history-hioyqbbbllk@transcript:v1#seg-0021"}. It is [a huge ocean of cultural ecosystems and currents]{evidence="video:predictive-history-hioyqbbbllk@transcript:v1#seg-0023"}. Empires expand into their margins, trading with them, hiring their fighters, raiding and being raided, and thereby [adding fuel to the borderlands]{evidence="video:predictive-history-hioyqbbbllk@transcript:v1#seg-0029 video:predictive-history-hioyqbbbllk@transcript:v1#seg-0030 video:predictive-history-hioyqbbbllk@transcript:v1#seg-0031"}. Wealth, knowledge, information, population, and military sophistication move outward. When the current is strong enough, the margin does not merely pressure the center; it becomes a hurricane.
 
@@ -36,6 +36,16 @@ Stable becomes stagnant when an equilibrium teaches insiders to treat the existi
 That is how Qin becomes legible. Zhao, Wei, and Chu are richer, more fertile, and more established. Qin is poorer and more marginal. But the stronger states treat war as a status-order game, while Qin receives mercenaries, military knowledge, low-nobility talent, innovation, and energy from the system that thinks it can contain Qin [inside the old equilibrium]{evidence="video:predictive-history-z0awfin83lo@transcript:v1#seg-0006 video:predictive-history-z0awfin83lo@transcript:v1#seg-0007"}. Once the margin becomes strong, the center still cannot imagine total conquest. It imagines bribery and coexistence. The worldview itself has become a prison.
 
 The Middle Kingdom lecture gives the earlier China formulation. Warring States creativity comes from open cooperative competition: no central authority can close the field, states trade and intermarry, and war forces invention. Qin is the state no respectable observer would have picked: [poorer, smaller, less cultured, and in the mountains]{evidence="video:predictive-history-a2lmjerhckm@transcript:v1#seg-0004 video:predictive-history-a2lmjerhckm@transcript:v1#seg-0005"}. That is why it can violate the settled aristocratic game. The later imperial problem is the reverse: after the Song, the center can exert national control, so open cooperative competition dies, and China stops being creative in Jiang's account [because the empire does not want innovation]{evidence="video:predictive-history-a2lmjerhckm@transcript:v1#seg-0018 video:predictive-history-a2lmjerhckm@transcript:v1#seg-0019 video:predictive-history-a2lmjerhckm@transcript:v1#seg-0052"}.
+
+## The Later Civilizational Scorecard
+
+The November 24, 2025 Glenn Diesen interview turns the same triad into a late-stage empire scorecard. Jiang no longer uses energy, openness, and cohesion only to explain why poor margins beat complacent centers. He says that [all great empires began as borderland tribes whose energy, openness, and cohesion let them dominate their part of the world]{evidence="video:interview-gssim9xnrae@transcript:v1#seg-0002"}, then immediately applies the test to the present: the Anglo-American world is declining, Russia is adapting on the battlefield, and Pax Judaica/Israel may look like the next rising imperial platform.
+
+That latest use matters because it makes the borderland engine a portable diagnostic rather than a geography. Energy is not GDP or headcount. Jiang cashes it out as willingness to build, work, and invest life in a society; in the Western case, he points to young people who would rather become influencers, watch Netflix, play games, or live on social media than spend decades in factories [building a great society]{evidence="video:interview-gssim9xnrae@transcript:v1#seg-0005"}. Openness is not branding around free speech; it is whether a society can still let criticism, mistakes, and reality revise the model. Cohesion is not unanimity; it is whether people still identify as a people strongly enough to coordinate across private preference.
+
+The Ukraine section makes the scorecard operational. Jiang says the Russians are demonstrating [energy, openness, and cohesion by learning from mistakes and adapting their tactics]{evidence="video:interview-gssim9xnrae@transcript:v1#seg-0036"}. The example is small enough to matter: large battalion units become motorcycle reconnaissance teams because drones changed the field. That is why this passage stays on the borderland page even though it touches strategy. [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) owns the battlefield audit. The Borderland Engine owns the adaptation test underneath it: which side still has the hunger, humility, and collective motion to change under pressure?
+
+The same boundary protects the Pax Judaica claim. When Jiang says the new empire may be Pax Judaica/Israel, the page should not treat that as a settled geopolitical outcome. [Power As Alchemy](/lens/power-as-alchemy/) owns the later investor move where transnational capital looks for growth; Strategy owns whether the Middle East corridor, resources, and force can actually be executed. Borderland owns the scoring question that comes before those: where, in Jiang's model, do energy, openness, and cohesion still appear after the old center becomes passive, closed, and divided?
 
 ## What The Margin Learns
 
@@ -191,6 +201,12 @@ Finally, ask what happens after victory. The borderland may open history, but it
   `video:predictive-history-z0awfin83lo@transcript:v1#seg-0016`
   `video:predictive-history-z0awfin83lo@transcript:v1#seg-0027`
   `video:predictive-history-z0awfin83lo@transcript:v1#seg-0091`
+
+- **2025-11-24**, [When the West Loses Energy, Capital Looks for Pax Judaica](/interviews/interview-gssim9xnrae/)
+  Jiang turns the triad into a present-tense empire scorecard: great empires begin as borderland tribes with energy, openness, and cohesion; the West is losing those qualities; Russia shows the operational version through battlefield adaptation; and Pax Judaica/Israel is named as the possible new rising imperial platform.
+  `video:interview-gssim9xnrae@transcript:v1#seg-0002`
+  `video:interview-gssim9xnrae@transcript:v1#seg-0005`
+  `video:interview-gssim9xnrae@transcript:v1#seg-0036`
 
 - **2025-11-25**, [Secret History #21: Roman Anti-Civilization](/episodes/predictive-history-y-gxvzwbfmu/)  
   Rome shows the dark borderland case: disadvantage creates martial cohesion and an empire built by turning poverty and wounds into weapons.  

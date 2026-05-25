@@ -1,0 +1,218 @@
+{
+  "packet_id": "interview-vvj4mxqu2qk-semantics-pkt-0001",
+  "source_id": "video:interview-vvj4mxqu2qk",
+  "source_date": "2025-11-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0001",
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0002",
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0003"
+      ],
+      "kind": "question",
+      "summary": "Danny Haiphong opens the interview by framing the Epstein emails as a live exposure of imperial corruption, then asks Jiang for a structural overview of how elite power and conspiracy operate behind the scandal.",
+      "speaker_attribution": "Danny Haiphong interviewer framing and question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0004",
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0005",
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0006",
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0007"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with a structural model: partisan combat is fake because elites are socially unified, they behave carelessly because they see themselves as untouchable, and Epstein-style networks hold the ruling class together through taboo rituals and blackmail.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Danny briefly affirms Jiang's point and tries to pivot into how weaponized release of the emails interacts with control, but the segment is partly garbled before the next question window begins.",
+      "speaker_attribution": "Danny transition with partial ASR damage",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0001",
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0002",
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0003"
+      ],
+      "note": "The host introduction and framing question span the first three segments even though seg-0002 blends host recap with Jiang's short thanks.",
+      "suggested_speaker": "Danny Haiphong, with a brief Jiang acknowledgement inside seg-0002",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0008"
+      ],
+      "note": "seg-0008 contains heavy ASR distortion; it is still clearly Danny speaking, but the exact phrasing after his agreement is unreliable.",
+      "suggested_speaker": "Danny Haiphong",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The Epstein emails show that Democrats and Republicans appear to fight in public while privately belonging to one social elite that schools, parties, and befriends itself together.",
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Jiang's diagnosis in this 2025-11-15 interview of contemporary American elite politics.",
+      "topic_tags": [
+        "elite-cohesion",
+        "democrats",
+        "republicans",
+        "political-theater"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The emails reveal an elite mentality of impunity: powerful people behave cavalierly and neglect operational security because they believe they are untouchable and live inside a protected bubble.",
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Jiang's diagnosis in this 2025-11-15 interview.",
+      "topic_tags": [
+        "elite-impunity",
+        "epstein",
+        "operational-security"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Epstein's function within elite society was not only networking but binding elites together through secret-society ritual and blackmail, because trust is the ruling class's central problem.",
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0005",
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Jiang's structural model in the 2025-11-15 interview.",
+      "topic_tags": [
+        "epstein",
+        "blackmail",
+        "secret-societies",
+        "trust"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The more transgression elites commit together, the more cohesive the elite becomes because mutual compromise creates enforceable trust.",
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Jiang's causal model in the 2025-11-15 interview.",
+      "topic_tags": [
+        "transgression",
+        "elite-cohesion",
+        "blackmail"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Epstein case matters because it is slowly revealing to the public that conspiracy theories about elite sexual criminality and taboo violence may describe real inner mechanisms of American power.",
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Jiang's interpretation of the 2025 Epstein-email release moment.",
+      "topic_tags": [
+        "epstein-files",
+        "american-elite",
+        "conspiracy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0004"
+      ],
+      "moment": "Partisan struggle is wrestling: the enemies on screen are privately one friend group.",
+      "source_phrase": "it's all fake it's like wrestling",
+      "why_it_matters": "It compresses Jiang's elite-theater model into a memorable image the later interview keeps expanding.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0006"
+      ],
+      "moment": "Elite trust is manufactured by shared taboo and blackmail rather than by law or ideology.",
+      "source_phrase": "you blackmail each other",
+      "why_it_matters": "This is Jiang's core mechanism for how hidden power coordinates itself across public factions.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0007"
+      ],
+      "moment": "The shocking thing is not merely the crime but that the public is being allowed to watch the elite's inner machinery come into view.",
+      "source_phrase": "the inner workings of the elite are being revealed to the public",
+      "why_it_matters": "It frames the whole source as an exposure event, not just a scandal recap.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "operational security",
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang uses it to note that Epstein did not even bother with basic secrecy because elites believed themselves untouchable.",
+      "confidence": "high"
+    },
+    {
+      "term": "secret society rituals",
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's name for taboo collective acts that bind elites together and solve their trust problem.",
+      "confidence": "medium"
+    },
+    {
+      "term": "elite bubble",
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The protected social world in which elites feel immune from consequences and mainly care about staying close to each other.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0001",
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0003",
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0007"
+      ],
+      "note": "This 2025-11-15 interview is explicitly anchored to the newly released Epstein emails and treats that release as a turning-point event exposing elite structure in real time.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0006"
+      ],
+      "note": "Jiang references ritual sacrifice and other transgressions as part of his elite-cohesion model; the semantic pass records them as his claims, not verified external facts."
+    },
+    {
+      "refs": [
+        "video:interview-vvj4mxqu2qk@transcript:v1#seg-0008"
+      ],
+      "note": "The host transition at seg-0008 is ASR-damaged, so downstream public prose should avoid quoting its exact wording without rechecking audio or the clean transcript."
+    }
+  ]
+}
