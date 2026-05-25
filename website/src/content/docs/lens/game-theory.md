@@ -77,6 +77,20 @@ Proxy war analysis starts by identifying the real player: the actor taking losse
 
 The boundary with strategy matters. Odessa, conscription, desertion, morale, infrastructure, the European draft forecast, and the final battlefield peace belong to [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) when the active question is whether the war can still be fought. Game Theory owns the prior diagnostic: before judging whether a player is rational, ask whether the correct player has been named.
 
+## Threat Stories Can Hide A Better Board
+
+The same Cyrus Janssen interview gives a different kind of game-theory correction in the Taiwan section. The public threat story says China is preparing an invasion because Taiwan is the central U.S.-China flashpoint. Jiang's answer starts by refusing the story's assumed payoff: [from a game theory perspective, it would be idiotic to go invade Taiwan]{evidence="video:interview-xrk5vsezj4y@transcript:v1#seg-0050"}.
+
+That answer is not an innocence claim. It is a board audit. If the United States left East Asia, Jiang says China would face a stronger Japan, India in the Himalayas, Russia across a long border, and a revisionist North Korea. In that setting, the American presence is not simply the enemy piece. It can be [the balancing force that keeps other threats from becoming China's immediate problem]{evidence="video:interview-xrk5vsezj4y@transcript:v1#seg-0050 video:interview-xrk5vsezj4y@transcript:v1#seg-0051"}. The standard invasion narrative therefore names the dramatic move while missing the larger payoff table.
+
+The later part of the answer makes the point more concrete. Jiang says China benefits from the status quo because he reads the Communist Party's overriding goal as [maintaining peace and prosperity for its people]{evidence="video:interview-xrk5vsezj4y@transcript:v1#seg-0053"}. War would expose China's coastal industrial base, damage the image it needs for global trade, and turn a manageable Taiwan problem into military, economic, and reputational risk. His conclusion is deliberately stronger than "invasion is unlikely": [Chinese policymakers are not even considering the possibility of invading Taiwan]{evidence="video:interview-xrk5vsezj4y@transcript:v1#seg-0054"}.
+
+<!-- lens-point id="game-theory-threat-story-real-game" concept="game-theory-method" evidence="video:interview-xrk5vsezj4y@transcript:v1#seg-0050 video:interview-xrk5vsezj4y@transcript:v1#seg-0051 video:interview-xrk5vsezj4y@transcript:v1#seg-0053 video:interview-xrk5vsezj4y@transcript:v1#seg-0054" -->
+<span id="game-theory-threat-story-real-game" class="lens-point-anchor"></span>
+A threat story fails the game-theory test when the spectacular move would worsen the actor's real board; the analyst has to compare the declared conflict with the player's surrounding threats, status quo benefits, material exposure, and actual optimizing goal.
+
+This belongs on Game Theory rather than on [Nation As God-Machine](/lens/nation-as-god-machine/) or [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) because the active mechanism is player-payoff correction. Nation owns the sacred body and population claim around Taiwan. Strategy owns the coastal industry, trade exposure, naval blockade, and military execution test if war begins. Game Theory owns the first question: what if the alleged aggressive move is not the move the player wants because the current board is already better than the threat story admits?
+
 ## Superstructure Changes The Game
 
 The same human desire does not create the same game in every world. Jiang uses "superstructure" to name the big picture that changes the rules: population, wealth, technology, enemies, demographics, economics, culture, politics, and religion. In the dating lecture, [the superstructure determines the nature of the game]{evidence="video:predictive-history-he4l9wylf3u@transcript:v1#seg-0020"}.
@@ -266,6 +280,7 @@ Ask:
 - Which game is nearest to the actor: family, school, city, party, faction, bureaucracy, audience, election, or soul?
 - Is an external conflict carrying an unresolved internal hierarchy struggle, especially elite overproduction inside a shrinking status order?
 - Is the visible battlefield actor also the real player, or are financing, weapons, intelligence, command, manpower, and profit moving agency to another player?
+- Is the headline threat the move the player actually wants, or would it worsen the player's surrounding board by removing a useful balance, exposing material vulnerabilities, or damaging the player's real optimizing goal?
 - Is the real payoff material, status-based, spiritual, narrative, emotional, institutional, or civilizational?
 - Who wrote the rules, and does playing well give command or only make the player useful inside someone else's game?
 - Who benefits if the visible system fails?
@@ -306,7 +321,7 @@ The final question is often the most important. A trap is not just a bad move. I
   Jiang gives the prediction method its anti-propaganda entrance: history can manipulate losers when written by winners, so psychohistory has to risk future claims; the same interview then imagines AI simulation as a long-horizon governing aid that still has to serve love, creativity, learning, and human flourishing.
 
 - **2025-10-30**, [Mafia Empire, Sunk Costs, And The Taiwan Illusion](/interviews/interview-xrk5vsezj4y/)
-  The proxy-player test sharpens into a NATO agency audit: Ukrainian troops remain visible, but Jiang assigns financing, technology, special forces, command and control, targeting, and alliance extortion to NATO and the American empire.
+  The proxy-player test sharpens into a NATO agency audit: Ukrainian troops remain visible, but Jiang assigns financing, technology, special forces, command and control, targeting, and alliance extortion to NATO and the American empire. The Taiwan section adds the threat-story correction: a public invasion story fails if invasion would remove a useful regional balance, expose China's trade and coastal industry, and undermine the peace-and-prosperity payoff Jiang assigns to Chinese policymakers.
 
 - **2026-01-05**, [An Empire That Sacrifices Strategy For Optics](/interviews/interview-orycs0r2tpg/)
   The April grand-bargain forecast shows the sequence rule: pressure across theaters, internal Chinese factions, and the later Iran endgame make the China meeting one move in a wider game rather than a self-contained diplomatic event.
