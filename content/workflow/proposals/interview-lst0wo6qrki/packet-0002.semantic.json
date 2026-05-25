@@ -1,0 +1,293 @@
+{
+  "packet_id": "interview-lst0wo6qrki-semantics-pkt-0002",
+  "source_id": "video:interview-lst0wo6qrki",
+  "source_date": "2025-11-04",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0009",
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0010"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Trump's tariff threat was theater: a reality-TV style of bluster that creates conflict, draws attention, and ends in a staged resolution markets already expected.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0011",
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0012"
+      ],
+      "kind": "question",
+      "summary": "The host pivots to China's pending fifteenth five-year plan, summarizes the early policy language around broader opening and tech modernization, and asks what Jiang expects from China's development over the next five years.",
+      "speaker_attribution": "David question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0013",
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0014"
+      ],
+      "kind": "answer",
+      "summary": "Jiang dismisses the plan rhetoric and argues that China's deeper civilizational problem is state-directed capital flowing to the politically connected rather than to the most innovative producers.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0015"
+      ],
+      "kind": "question",
+      "summary": "The host pushes back that China's visible successes in EVs, solar, and a vibrant tech sector suggest the model is producing real innovation.",
+      "speaker_attribution": "David follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang replies that the celebrated EV success is actually overproduction driven by subsidies, forcing China to dump cheap cars abroad and damaging European industry.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0011",
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0012"
+      ],
+      "note": "The host appears to read or paraphrase current policy-summary language about the fifteenth five-year plan before asking his actual question, so the long setup should be treated as host framing rather than Jiang's position.",
+      "suggested_speaker": "David",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0015"
+      ],
+      "note": "The host's challenge about EVs, solar panels, and China's tech sector functions as a substantive pushback question rather than a separate claim block.",
+      "suggested_speaker": "David",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Trump's governing style is rooted in reality television and wrestling-style spectacle, so he uses loud threats and drama to command attention before backing toward resolution.",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0009",
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Jiang diagnosis stated on 2025-11-04 about Trump's second-term trade posture.",
+      "topic_tags": ["Trump", "political-style", "media", "trade"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that almost no one expected Trump to actually impose the threatened 100 percent tariffs and that markets had already priced in his eventual retreat.",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Jiang interpretation stated on 2025-11-04 about the recent tariff threat.",
+      "topic_tags": ["Trump", "tariffs", "markets", "trade-theater"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The host says China is preparing the full release of its fifteenth five-year plan and that the publicly announced recommendations emphasize broader opening, services-sector market access, and a more modernized industrial system.",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0011",
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Host framing on 2025-11-04 about China's current policy rollout.",
+      "topic_tags": ["China", "five-year-plan", "opening-up", "industrial-policy"],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says he does not place much weight on China's five-year plans because China's recurring long-run problem is inefficient capital allocation under state planning.",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0013",
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Jiang diagnosis stated on 2025-11-04.",
+      "topic_tags": ["China", "state-planning", "capital-allocation", "five-year-plan"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's model is that state planning sends capital to people closest to power rather than to the most energetic or innovative producers.",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Structural model stated on 2025-11-04 about China's political economy.",
+      "topic_tags": ["China", "state-planning", "power", "innovation", "capital-allocation"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says this political allocation problem has persisted across Chinese history for roughly four thousand years, so contemporary modernization language does not change the underlying pattern.",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Civilizational diagnosis stated on 2025-11-04.",
+      "topic_tags": ["China", "history", "state-planning", "continuity"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that China's announced innovation successes are overstated because the system monopolizes capital in the hands of the powerful and weakens real incentives to innovate.",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0013",
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Jiang diagnosis stated on 2025-11-04.",
+      "topic_tags": ["China", "innovation", "elite-power", "capital-allocation"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The host's pushback is that China's large EV and solar output and visible tech-sector vitality are evidence that the current model has generated meaningful innovation.",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Host challenge on 2025-11-04.",
+      "topic_tags": ["China", "EVs", "solar", "tech-sector", "innovation"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Chinese EV overproduction is the result of government subsidies flooding the sector rather than a healthy market equilibrium.",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Jiang diagnosis stated on 2025-11-04 about the EV sector.",
+      "topic_tags": ["China", "EVs", "subsidies", "overproduction"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that because China lacks domestic demand to absorb the subsidized EV output, it must export the excess abroad and sell into Europe at very cheap prices.",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Jiang diagnosis stated on 2025-11-04 about the trade consequences of EV overcapacity.",
+      "topic_tags": ["China", "EVs", "exports", "Europe", "overcapacity"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says this cheap Chinese EV flow is damaging the European car sector and helping explain why Europeans are angry at China.",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Jiang diagnosis stated on 2025-11-04.",
+      "topic_tags": ["China", "Europe", "EVs", "industrial-competition"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang concludes that the basic problem remains poor state planning that produces excess capacity.",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Jiang diagnosis stated on 2025-11-04.",
+      "topic_tags": ["China", "state-planning", "overcapacity", "industrial-policy"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0010"
+      ],
+      "moment": "Jiang reduces Trump's tariff politics to television craft: manufacture conflict, then deliver the resolution.",
+      "source_phrase": "create as much conflict as possible and then find a resolution",
+      "why_it_matters": "It gives Jiang a reusable model for reading Trump's geopolitical moves as staged drama rather than stable doctrine.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0013"
+      ],
+      "moment": "Jiang treats four thousand years of Chinese governance as one long problem of capital flowing toward proximity to power.",
+      "source_phrase": "an inefficient allocation of capital",
+      "why_it_matters": "This is his civilizational compression of why modernization slogans and planning documents do not persuade him.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0016"
+      ],
+      "moment": "The glamorous EV success story is flipped into a pathology of subsidized overcapacity dumped abroad.",
+      "source_phrase": "overproduction in the system",
+      "why_it_matters": "It shows Jiang's habit of re-reading celebrated industrial victories as symptoms of hidden structural distortion.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "15th five-year plan",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0011",
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "The current Chinese planning cycle the host uses to frame expectations about technology, opening-up, and the next five years of development.",
+      "confidence": "high"
+    },
+    {
+      "term": "inefficient allocation of capital",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Jiang's core diagnosis of state planning in China: capital follows political connection rather than productive energy or innovation.",
+      "confidence": "high"
+    },
+    {
+      "term": "overcapacity",
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Jiang's description of a subsidized production glut, especially in EVs, that forces China to export excess output abroad.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0011",
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0012"
+      ],
+      "note": "The host situates the exchange at the moment China's fifteenth five-year plan is still being finalized and only partial recommendations are public, so Jiang's reply is a contemporaneous reaction to a rollout rather than to a finished document.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0013",
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0016"
+      ],
+      "note": "On the same 2025-11-04 date that Jiang predicts nearer-term China-US rapprochement, he also delivers a harsh long-duration critique of China's internal capital-allocation model; the packet preserves both rather than flattening them into a single pro- or anti-China stance.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0009"
+      ],
+      "note": "ASR noise likely distorts a phrase around Trump's expected retreat from tariffs ('tackle'/'cave'), but the surrounding meaning is clear: Jiang says markets expected him not to follow through."
+    },
+    {
+      "refs": [
+        "video:interview-lst0wo6qrki@transcript:v1#seg-0011"
+      ],
+      "note": "The host's policy-summary wording includes probable ASR errors in names and plan language, so those details are best treated as approximate framing rather than precise quoted terminology."
+    }
+  ]
+}
