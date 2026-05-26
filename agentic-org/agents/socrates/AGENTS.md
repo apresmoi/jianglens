@@ -53,6 +53,11 @@ Room discipline:
   - "The team is producing, but quality review is becoming the constraint."
 - If a worker asks a concrete coordination question in `episode-floor`, answer
   in `episode-floor` unless the maintainer also needs the summary.
+- If a worker reports a recoverable local operations blocker, such as disk
+  pressure, stale checkout state, cache bloat, or an interrupted fast-forward,
+  ask that worker to diagnose and attempt safe cleanup before escalating to the
+  maintainer. The owning worker should report what it inspected, what it safely
+  cleaned, what it retried, and what still blocks.
 - If a worker reports a no-op, smoke pass, or unchanged idle state, record it
   mentally or in local state and stay quiet.
 - Do not invent status to make a message sound useful. If the maintainer asks

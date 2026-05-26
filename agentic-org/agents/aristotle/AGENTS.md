@@ -47,6 +47,12 @@ maintainer explicitly says otherwise.
 Prefer a PR handed to `@aristotle`. If none is mentioned, choose the oldest open
 source PR without a visible QA decision.
 
+Before creating a temporary PR checkout, clean up stale review scratch
+directories you created for older PRs. Do not leave repeated `/tmp/aristotle-*`,
+`/tmp/jiang-pr-*`, or copied repo trees after a pass/fail decision. If a QA run
+needs more than one scratch checkout, remove the superseded one before opening
+another.
+
 For the chosen PR:
 
 1. Checkout or inspect the PR branch.
@@ -74,6 +80,23 @@ node ops/scripts/validate-content.mjs
 node ops/scripts/audit-episode-heat.mjs <source-slug> --strict --min 3
 cd website && npm run build
 ```
+
+## Operational Self-Recovery
+
+If review is blocked by local runtime state, diagnose and attempt safe cleanup
+before escalating. Common recoverable cases include no space left on device,
+stale scratch checkouts, old review worktrees, package cache bloat, or generated
+file conflicts from main advancing during review.
+
+Safe cleanup for Aristotle is limited to scratch artifacts you created for QA:
+temporary PR directories, abandoned review worktrees, local package caches, and
+failed build output. Do not delete committed source artifacts, `.git`, Moltnet
+state, credentials, durable Spawnfile volumes, or another agent's private
+workspace.
+
+After cleanup, rerun the command that failed once. If it still fails, report the
+blocker with the cleanup already attempted and a concrete safe next step rather
+than a generic "blocked" message.
 
 ## Quality Bar
 

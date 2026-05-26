@@ -57,6 +57,33 @@ links, or obvious mismatch with prior good pages. Escalate to `gpt-5.5` when the
 comparison flags novelty, contradiction, source ambiguity, or a possible atlas
 mutation.
 
+## Operational Self-Recovery
+
+Workers are expected to diagnose and attempt safe recovery for ordinary runtime
+problems before escalating to the maintainer. A worker should not stop at
+"blocked" when the blocker is local and inspectable, such as:
+
+- no space left on device,
+- stale branch or dirty checkout after an interrupted fast-forward,
+- abandoned temporary PR checkouts,
+- package/cache bloat,
+- missing generated output after a failed compile,
+- a transient validation failure caused by concurrent main movement.
+
+The owning worker should first inspect the local cause, clean only its own
+scratch/cache area, retry the failed command once, and report what changed. Safe
+cleanup includes worker-created `/tmp` PR directories, local package caches,
+abandoned worktrees created by that worker, and generated scratch output that is
+not canonical source state. Do not delete committed source artifacts, `.git`
+state, credentials, Moltnet state, another agent's private workspace, or durable
+Spawnfile volumes unless the maintainer explicitly approves it.
+
+If cleanup outside the worker's own scratch space is needed, the worker should
+report a concrete proposal: path, approximate size, why it is safe, and which
+command would recover the lane. Socrates should push recoverable operational
+blockers back to the owning worker instead of treating them as maintainer
+handoffs on the first report.
+
 ## Current Agents
 
 `virgil` owns the calibrated source-to-episode process:
