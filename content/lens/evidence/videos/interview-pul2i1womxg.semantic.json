@@ -1,0 +1,3206 @@
+{
+  "id": "evidence:semanticvideo-interview-pul2i1womxg:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-pul2i1womxg",
+  "source_id": "video:interview-pul2i1womxg",
+  "source_title": "Heading To War | Predictive History - Prof. Jiang",
+  "source_url": "https://www.youtube.com/watch?v=Pul2i1womXg",
+  "source_date": "2025-10-26",
+  "date_precision": "day",
+  "transcript_id": "video:interview-pul2i1womxg@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-pul2i1womxg/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-pul2i1womxg/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-pul2i1womxg/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-pul2i1womxg/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-pul2i1womxg/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-pul2i1womxg/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-pul2i1womxg/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-pul2i1womxg/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-pul2i1womxg/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-pul2i1womxg/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-pul2i1womxg/packet-0011.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-pul2i1womxg/source.yaml",
+    "transcript_path": "content/sources/videos/interview-pul2i1womxg/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 11,
+    "interactions": 51,
+    "speaker_notes": 8,
+    "claims": 100,
+    "signature_moments": 40,
+    "predictions": 19,
+    "models": 44,
+    "glossary_terms": 40,
+    "chronology_notes": 23,
+    "uncertainty_notes": 20
+  },
+  "first_refs": [
+    "video:interview-pul2i1womxg@transcript:v1#seg-0003",
+    "video:interview-pul2i1womxg@transcript:v1#seg-0004",
+    "video:interview-pul2i1womxg@transcript:v1#seg-0005",
+    "video:interview-pul2i1womxg@transcript:v1#seg-0006",
+    "video:interview-pul2i1womxg@transcript:v1#seg-0007",
+    "video:interview-pul2i1womxg@transcript:v1#seg-0008",
+    "video:interview-pul2i1womxg@transcript:v1#seg-0010",
+    "video:interview-pul2i1womxg@transcript:v1#seg-0011"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0001",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0002"
+      ],
+      "kind": "question",
+      "summary": "The host reintroduces Jiang, frames the interview around Iran, eschatology, and recent geopolitical shifts, and asks whether a new Iran-Israel war is imminent or still years away.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0003",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0004",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0005"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that a second Iran-Israel round is imminent, argues the first clash hardened and unified Iran while leaving Israel trapped in a war it cannot end, and identifies the Strait of Hormuz and the Al-Aqsa/Third Temple sequence as the decisive pressure points to watch.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0006"
+      ],
+      "kind": "exchange",
+      "summary": "The host interrupts with a report that the red heifers may already have been secretly sacrificed and that ashes are allegedly already in hand.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0007",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0008"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A quoted or inserted clip claims the recent red-heifer sacrifice was real rather than a rehearsal and says the ashes are being used for ritual ablution.",
+      "speaker_attribution": "Quoted clip played or paraphrased by the host, not Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0009"
+      ],
+      "kind": "exchange",
+      "summary": "The host finishes explaining how the alleged red-heifer ashes are used in purification rituals that would prepare entry onto the Temple Mount area.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0010",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0011"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the sacrifice rumors may indicate a religious workaround and a compressed timeline toward the Third Temple, which he treats as the key eschatological piece.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0012"
+      ],
+      "kind": "question",
+      "summary": "The host asks why states or power centers would follow eschatological scripts over straightforward geopolitical realism, especially in Israel's confrontation with Iran.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0013",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0014",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0015"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the deeper struggle is within bureaucratic states, where secret societies use shared eschatological scripts to coordinate, rise through institutions, and align different factions inside the American and Israeli security apparatuses.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0016"
+      ],
+      "kind": "question",
+      "summary": "The host follows up by asking how openly secular or atheist elites can still act through religious eschatology if they do not literally believe the theology.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0017",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0018"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that eschatological coalitions do not require sincere belief, only aligned interests, and says secular Zionists can cynically cooperate with Christian Zionists, Jesuits, Mormons, and other secret-society factions so long as they are still moving toward Greater Israel and the Third Temple.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0019"
+      ],
+      "kind": "question",
+      "summary": "The host restates Jiang's argument and asks whether the relevant deep-state coalition is a mix of literal believers and cynical operators whose interests still converge around Israel's expansion.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0020"
+      ],
+      "kind": "answer",
+      "summary": "Jiang confirms the convergence model and expands it into a geopolitical account in which Greater Israel is backed not just by Zionists but also by American military-industrial, financial, and trade-route interests.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0021"
+      ],
+      "kind": "question",
+      "summary": "The host asks how Gaza fits into the Greater Israel project and the looming conflict with Iran, arguing that the supposed ceasefire is only a reduced level of violence rather than a real peace.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0022",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0023",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Gaza, Iran, the Houthis, and Lebanon form one theater for Israel; he says the Gaza pause is preparation for Iran, that Israel cannot stop without fracturing internally, and that Gaza functions as a ritual sacrifice that commits Israeli society to total war while blocking any viable Palestinian future.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0025",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0026"
+      ],
+      "kind": "question",
+      "summary": "The host asks how much China materially needs Iran and whether Beijing would intervene, directly or indirectly, if the United States and Israel tried to finish the Iranian regime in a major war.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0027",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0028"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that China will not directly fight for Iran because its geopolitical doctrine, military structure, public tolerance, and naval limits all bias it toward mediation and continued trade rather than expeditionary war.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0029"
+      ],
+      "kind": "question",
+      "summary": "The host presses on whether China would still covertly or logistically feed Iran's war effort even if it avoids direct military entry.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0030",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0031"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says covert negotiation and tolerated backchannel supply are likely, then widens the point into a broader war model: enemies still trade, secret bargains persist, and interstate war is often masking deeper domestic tensions.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0032"
+      ],
+      "kind": "question",
+      "summary": "The host pivots to Ukraine and asks why the Russia war keeps escalating despite hopes for de-escalation under Trump and after later summits.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0033"
+      ],
+      "kind": "question",
+      "summary": "The host asks how the Russia-Ukraine war fits Jiang's wider predictions about the future and the eschatological pressures moving the world toward conflict.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0034",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0035",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0036",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0037"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Ukraine has already lost, yet Kyiv, NATO, and the American empire each have structural reasons to keep the war going. He predicts a long grind toward Odessa where NATO will ultimately confront Russia because too many regimes now depend on escalation.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0038"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether the real end state could be a direct NATO-Russia war that turns nuclear, and presses Jiang for how realistic that scenario is.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0039",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Jiang reframes the question by arguing that the Trump-Putin Anchorage meeting may have been war coordination rather than peace diplomacy. In his telling, both men see the global financial and deep-state order as the real enemy and may be trying to drag it into an unwinnable war that destroys it from within.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0041",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0042"
+      ],
+      "kind": "question",
+      "summary": "The host pushes back on Jiang's reading of Trump as an anti-deep-state actor, arguing that Trump looks more like a vain self-serving billionaire, and asks what he is missing in Jiang's interpretation.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0043",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0044",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0045"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees that Trump is corrupt and narcissistic but argues that the 2020 election trauma, his hatred of the deep state, and his desire for a third term now govern his strategic behavior. He links the wars and the Venezuela theater to Trump's attempt to gain emergency powers and weaken hostile intelligence factions.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0046"
+      ],
+      "kind": "question",
+      "summary": "The host then asks whether Trump sees himself as divinely favored or quasi-messianic, especially after surviving an assassination attempt.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0047",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by focusing on Trump's disciplined self-curation: he says Trump's lifelong abstinence, decades-long presidential self-mythology, and obvious grandeur all suggest a man who does see himself as specially chosen for world-historical action.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0049"
+      ],
+      "kind": "answer",
+      "summary": "Jiang closes his earlier answer by arguing that Trump's decades of self-curation, culminating in The Apprentice, built the charismatic leader-image that prepared his later political rise.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0050",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0051"
+      ],
+      "kind": "exchange",
+      "summary": "The host agrees that a Trump third-term bid is plausible, cites Steve Bannon's constitutional talk, and adds speculative concern about Trump's health after a possible minor stroke.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0052",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0053"
+      ],
+      "kind": "answer",
+      "summary": "Jiang responds by shifting from Trump's health to the political environment, predicting civil unrest within one to two years and saying Trump's media allies are already discussing civil war and state suppression scenarios.",
+      "speaker_attribution": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0054",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0055"
+      ],
+      "kind": "exchange",
+      "summary": "The host extends Jiang's argument by suggesting ICE operations may be a test run for masked secret-police methods that could later be used during domestic unrest.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees with the secret-police reading and treats ICE expansion, Project 2025, bureaucracy restructuring, ongoing wars, and White House renovation past 2028 as converging signs of Trump's third-term and kingly ambitions.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0057"
+      ],
+      "kind": "answer",
+      "summary": "Jiang intensifies his prior answer by arguing that Trump is now fully committed to remaining in power because leaving office would expose him to revenge from a returning Democratic administration.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0058",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0059"
+      ],
+      "kind": "exchange",
+      "summary": "The host reframes immigration busing into Democratic cities as a Trojan-horse setup that later justified sending ICE or a secret-police apparatus into those same urban strongholds.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0060",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0061"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by saying Trump reads public mood effectively while the Democratic Party has collapsed into negation, sabotage, gaslighting, and elite insulation, making it complicit in any future Trump monarchy.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0062",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0063"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether the present American situation rhymes with the fall of the Roman Republic and what lessons that imperial transition offers for understanding Trump and the current system.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Jiang begins the analogy by generalizing beyond Rome: empires generate hereditary rent-seeking elites that prey on the people, creating demand for reformers such as the Gracchi.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0065",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0066"
+      ],
+      "kind": "answer",
+      "summary": "Jiang extends the Rome analogy into a present-day American diagnosis, arguing that a corrupt gerontocracy creates recurring demand for Trump-like figures and that historically kings, not procedural elites, are the actors who can break oligarchic blockage through land redistribution and debt relief.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0067",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0068"
+      ],
+      "kind": "question",
+      "summary": "The host pivots from imperial decline to Jiang's viral pedagogy and asks why he teaches quantum mechanics to high-school students and how that subject fits predictive history, worldview formation, and his warnings about civilizational crisis.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0069",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0070",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0071"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that he teaches quantum mechanics, Kant, and Hegel to dislodge materialism, reopen questions about the nature of reality, and provoke a broader civilizational discourse about human identity as spiritual beings rather than merely material actors.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0072"
+      ],
+      "kind": "question",
+      "summary": "The host checks whether this quantum-mechanics teaching is part of Jiang's larger attempt to prepare followers to imagine and participate in the world that comes after civilizational transition.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0073"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the host's quantum-mechanics follow-up by saying imagination is the animating force of the universe and that students should actively imagine a better world as civilization enters chaos.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0074",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0075"
+      ],
+      "kind": "question",
+      "summary": "The host asks what role humans retain if AI replaces labor and meaning, framing the issue through elite AI ownership, labor displacement, and the fear that ordinary people are left purposeless.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0076",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0077",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0078"
+      ],
+      "kind": "answer",
+      "summary": "Jiang replies that AGI will never truly arrive, that the current AI build-out is a desperate bubble tied to elite attempts to recover narrative control, and that the more important historical movement is a spiritual awakening in which people recover faith in themselves.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0079",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "The host partially agrees but resists Jiang's confidence, offering AI slop, the collapse of creative labor, and automation discourse as reasons to fear a real techno-feudal outcome even if the bubble thesis could still prove right.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0081"
+      ],
+      "kind": "exchange",
+      "summary": "The host closes his AI pushback by warning that even if Jiang is right about eventual collapse, current expert signals still leave open a techno-feudal future in which AI destabilizes society before it fails.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0082",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0083"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the real problem is capitalist conditioning that teaches people to value themselves as labor commodities, whereas art properly belongs to spiritual life in community and regains its meaning as mass society collapses.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0084"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether Jiang's practical answer is that people must reinterpret their motives for creative work even if AI can technically replace them.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0085"
+      ],
+      "kind": "answer",
+      "summary": "Jiang sharpens the point by calling proxy AI a parasite on mass society and predicting that a major geophysical shock would make the infrastructure, funding, and population scale required for AI impossible to sustain.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0086",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0087"
+      ],
+      "kind": "exchange",
+      "summary": "The interview closes with the host thanking Jiang for the unexpected second conversation and Jiang returning the gratitude while praising the quality of the questions.",
+      "speaker_attribution": "Propaganda & Co. host and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0088"
+      ],
+      "kind": "monologue",
+      "summary": "The host shifts out of the interview into a channel outro, thanking supporters and directing viewers to other interviews and explainer videos.",
+      "speaker_attribution": "Propaganda & Co. host",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0001",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0002"
+      ],
+      "note": "The opening two segments are one continuous host setup and should be read together rather than as separate turns.",
+      "suggested_speaker": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0007",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0008"
+      ],
+      "note": "These segments read like an embedded clip or quoted source about the red-heifer sacrifice rather than a live third participant in the interview.",
+      "suggested_speaker": "Quoted media clip",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0009"
+      ],
+      "note": "seg-0009 continues the host's own explanation after the quoted clip rather than starting a new substantive speaker turn.",
+      "suggested_speaker": "Propaganda & Co. host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0013"
+      ],
+      "note": "The stray non-Latin character and compressed phrasing in the middle of seg-0013 are ASR noise; the underlying argument still reads as secret societies enabling cross-bureaucratic coordination.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0017",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0018"
+      ],
+      "note": "These two segments are one continuous Jiang answer. The ASR compresses the transitions, but the turn is still a single response to the host's question about atheist elites and eschatology.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0024"
+      ],
+      "note": "seg-0024 is effectively empty after the approved boundary move and should be treated as the tail of Jiang's Gaza answer rather than a new speaker turn.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0027"
+      ],
+      "note": "The final phrase appears garbled by ASR: the point is that Chinese ships sent toward the Middle East would be vulnerable to being picked off by American or Israeli forces, not by China itself.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0042"
+      ],
+      "note": "seg-0042 is effectively empty and should be treated as the tail of the host's question rather than a separate turn.",
+      "suggested_speaker": "Propaganda & Co. host",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the first Iran-Israel war was only a test run and that a second round would be a full all-in confrontation.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Present diagnosis and near-future framing in the 2025-10-26 interview.",
+      "topic_tags": [
+        "iran",
+        "israel",
+        "war-escalation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues Israel's decapitation strikes failed to break Iran and instead exposed the regime as more cohesive and resilient than Israel expected.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Retrospective diagnosis stated on 2025-10-26 about the prior 12-day war.",
+      "topic_tags": [
+        "iranian-regime",
+        "decapitation-strikes",
+        "resilience"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's model is that the strikes may have helped Iran by clearing out ossified military bureaucracy and opening room for younger, more innovative officers.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Causal explanation offered on 2025-10-26 about the prior war's effects.",
+      "topic_tags": [
+        "iran",
+        "military-bureaucracy",
+        "elite-turnover"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says the 12-day war unified Iranian society and removed remaining hopes for peace from the Iranian public.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Present diagnosis of war effects voiced on 2025-10-26.",
+      "topic_tags": [
+        "iranian-society",
+        "war-unity",
+        "peace-process"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts a second round is imminent and says Iran will enter it more unified than before.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Near-term prediction made on 2025-10-26.",
+      "topic_tags": [
+        "iran",
+        "prediction",
+        "war-timeline"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues Israel cannot afford peace because domestic fracture and Netanyahu's legal jeopardy make continued war his only viable political option.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Present political diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "israel",
+        "netanyahu",
+        "domestic-crisis",
+        "war-incentives"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts the next Iran-Israel collision will carry higher stakes and last longer than the first round.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Future prediction made on 2025-10-26.",
+      "topic_tags": [
+        "iran",
+        "israel",
+        "escalation",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "His first key escalation test is whether Iran closes the Strait of Hormuz, which he says would drag in the wider world and severely damage Asian economies dependent on Middle Eastern oil.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Conditional forecast voiced on 2025-10-26.",
+      "topic_tags": [
+        "strait-of-hormuz",
+        "oil",
+        "china",
+        "japan",
+        "south-korea"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "His second key escalation test is the Al-Aqsa Mosque, because he says rebuilding the Third Temple requires a red-heifer sacrifice and the destruction of Al-Aqsa.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Present eschatological model stated on 2025-10-26.",
+      "topic_tags": [
+        "third-temple",
+        "al-aqsa",
+        "red-heifer",
+        "eschatology"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says destroying Al-Aqsa could trigger Islamic-world upheaval including revolution, civil unrest, and regime collapse.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Conditional geopolitical prediction made on 2025-10-26.",
+      "topic_tags": [
+        "al-aqsa",
+        "islamic-world",
+        "regime-collapse",
+        "prediction"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The host introduces an unverified report that the red-heifer sacrifice may already have happened in a secret ceremony and that ashes are already available.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0006",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0007",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Rumor relayed during the 2025-10-26 interview.",
+      "topic_tags": [
+        "red-heifer",
+        "rumor",
+        "third-temple"
+      ],
+      "claim_type": "evidence",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang says the reported sacrifice, if true, would function as a religious workaround that bypasses his earlier assumption that the ground must first be consecrated after Al-Aqsa is destroyed.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Conditional present-tense interpretation voiced on 2025-10-26.",
+      "topic_tags": [
+        "third-temple",
+        "red-heifer",
+        "religious-workaround"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says those rumors, if accurate, imply a very fast timeline toward destroying Al-Aqsa and erecting the Third Temple.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Conditional near-term prediction made on 2025-10-26.",
+      "topic_tags": [
+        "third-temple",
+        "timeline",
+        "eschatology"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang reports another rumor that the Third Temple may already have been built in pieces and could be quickly assembled once Al-Aqsa is gone.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Rumor relayed on 2025-10-26.",
+      "topic_tags": [
+        "third-temple",
+        "rumor",
+        "assembly"
+      ],
+      "claim_type": "evidence",
+      "confidence": "low"
+    },
+    {
+      "claim": "He defines the Third Temple as the key eschatological site because it is tied to the antichrist and the return of the Jewish Messiah.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0010",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Present doctrinal explanation voiced on 2025-10-26.",
+      "topic_tags": [
+        "third-temple",
+        "antichrist",
+        "messiah",
+        "eschatology"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says that in geopolitics the more important conflict is often the struggle within states rather than the struggle between states.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "General model stated on 2025-10-26.",
+      "topic_tags": [
+        "geopolitics",
+        "internal-conflict",
+        "state-power"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "His model is that slow, hierarchical bureaucracies are manipulated by secret societies that coordinate people across departments through a shared script.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "General institutional model voiced on 2025-10-26.",
+      "topic_tags": [
+        "bureaucracy",
+        "secret-societies",
+        "coordination"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says those shared scripts are often eschatological and gives Freemasons, Christian Zionists, and religious Talmudic Jews as examples of factions with different end-times programs.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0013",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "General explanatory model stated on 2025-10-26.",
+      "topic_tags": [
+        "eschatology",
+        "freemasons",
+        "christian-zionists",
+        "religious-orders"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that these otherwise competing groups can temporarily cooperate because their scripts converge on Israel, World War III, the Third Temple, and the coming of the Antichrist.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "General causal model voiced on 2025-10-26.",
+      "topic_tags": [
+        "world-war-iii",
+        "third-temple",
+        "coalition",
+        "eschatology"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says eschatological networks are heavily embedded in the American national-security apparatus and in the Israeli state.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0014",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Present institutional diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "cia",
+        "pentagon",
+        "fbi",
+        "israel",
+        "national-security-state"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues these secret societies were dormant for a long time but now see an opportunity because of the collapse of the liberal financial order, Brexit, Donald Trump's rise, and the Ukraine war.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Present historical diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "brexit",
+        "donald-trump",
+        "ukraine-war",
+        "liberal-order"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Israel is not acting alone and is working in conjunction with elements of the American national-security apparatus.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Present strategic diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "israel",
+        "united-states",
+        "national-security-apparatus"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says secular Zionists do not need genuine religious belief to participate in eschatological politics; they only need their interests to align with the religious factions.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "General political model stated on 2025-10-26.",
+      "topic_tags": [
+        "zionism",
+        "eschatology",
+        "interest-alignment"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues most Zionist Jews are not religious, while Orthodox Jews treat Zionism as sacrilege and blasphemy against the true religion.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "General socioreligious diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "zionism",
+        "orthodox-jews",
+        "religion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says secular Zionists still believe in a Jewish homeland, the Greater Israel project, and Jewish supremacy, which is why they cynically work with Christian Zionists, Jesuits, Mormons, and other secret-society actors.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "General coalition model stated on 2025-10-26.",
+      "topic_tags": [
+        "greater-israel",
+        "zionism",
+        "secret-societies",
+        "coalition-politics"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says these factions cooperate around the Third Temple, World War III, and Greater Israel for now, but would diverge violently later because each faction imagines a different eschatological end state.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0017",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Present-to-future eschatological model voiced on 2025-10-26.",
+      "topic_tags": [
+        "third-temple",
+        "world-war-iii",
+        "eschatology",
+        "civil-war"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Zionist Jews imagine a messianic order in which Israel becomes the dominant world power, which he summarizes as a future Pax Judaica.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Doctrinal-political model voiced on 2025-10-26.",
+      "topic_tags": [
+        "pax-judaica",
+        "messiah",
+        "israel"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says Freemasons imagine a world government, while Christian Zionists imagine Jesus returning to judge or convert Jews, showing that coalition partners are pursuing incompatible end-times outcomes.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Comparative eschatological framing stated on 2025-10-26.",
+      "topic_tags": [
+        "freemasons",
+        "christian-zionists",
+        "world-government",
+        "eschatology"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the Greater Israel project is supported not just by Zionists but also by the American military-industrial complex, Wall Street, the City of London, and other interests that want control over Middle Eastern trade routes.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Present geopolitical diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "greater-israel",
+        "military-industrial-complex",
+        "wall-street",
+        "city-of-london",
+        "trade-routes"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues the Middle East is the center of global trade because the North-South Corridor, Belt and Road Initiative, and Europe-Middle East-India corridor all converge there, so whoever controls that real estate controls global trade.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "General geopolitical model stated on 2025-10-26.",
+      "topic_tags": [
+        "middle-east",
+        "global-trade",
+        "belt-and-road",
+        "north-south-corridor"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang defines geopolitics as the place where the interests of the most powerful groups converge and impose outcomes.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "General definition stated on 2025-10-26.",
+      "topic_tags": [
+        "geopolitics",
+        "elite-interests",
+        "power"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Gaza, Iran, the Houthis, and Lebanon are all one interconnected conflict from Israel's perspective because Israel treats the whole axis of resistance as a single enemy led from Tehran.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Present strategic diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "gaza",
+        "iran",
+        "houthis",
+        "lebanon",
+        "axis-of-resistance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues the Gaza pause is not a real ceasefire and may function as a preparation window for the coming war against Iran.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Present diagnosis stated on 2025-10-26.",
+      "topic_tags": [
+        "gaza",
+        "ceasefire",
+        "iran-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Israel cannot stop the Gaza war because stopping would force Israeli society to confront its own atrocities and could fracture the society, the Greater Israel project, and even Zionism itself.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Present political diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "gaza",
+        "israeli-society",
+        "greater-israel",
+        "zionism"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says what is happening in Gaza is a ritual human sacrifice designed to commit the whole population to total war, comparing it to Aztec, Roman, and Spartan precedents.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Present interpretive model voiced on 2025-10-26.",
+      "topic_tags": [
+        "gaza",
+        "ritual-human-sacrifice",
+        "total-war",
+        "historical-analogy"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Israel cannot allow a future in which Palestinians rebuild and later seek vengeance, because the Greater Israel project cannot tolerate a standing Palestinian state.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Present strategic diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "palestine",
+        "greater-israel",
+        "gaza",
+        "statehood"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues the Gaza war has made Palestinians more resilient, energetic, dynamic, and innovative, which in his view raises the future threat to Israel if rebuilding time is allowed.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Present war-effects diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "palestinians",
+        "resilience",
+        "gaza-war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says China's geopolitical doctrine is to avoid intervening in wars that do not directly involve Chinese territory or sovereignty.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "General geopolitical doctrine stated on 2025-10-26.",
+      "topic_tags": [
+        "china",
+        "geopolitics",
+        "sovereignty",
+        "nonintervention"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues China lacks both the overseas-war capacity and the domestic political appetite needed to fight on Iran's behalf.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Present strategic diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "china",
+        "iran",
+        "pla",
+        "public-opinion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes the PLA as a defensive military built to protect territorial sovereignty rather than project power into distant theaters.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "General military characterization stated on 2025-10-26.",
+      "topic_tags": [
+        "pla",
+        "defensive-army",
+        "territorial-sovereignty"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says China does not have a true blue-water navy and remains hemmed in by the United States' three island chains, making a Middle East expedition vulnerable.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Present military-geographic diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "china",
+        "blue-water-navy",
+        "three-island-chains",
+        "naval-power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says China therefore cannot directly involve itself in an Iran war and would instead try to broker peace among Iran, the United States, and Israel even while fighting continues.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Conditional future-role prediction made on 2025-10-26.",
+      "topic_tags": [
+        "china",
+        "iran",
+        "mediation",
+        "peace-broker"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says China sees itself as perhaps the last defender of the global order and would keep trading with both the United States and Iran during such a conflict.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Present self-conception and conditional wartime behavior stated on 2025-10-26.",
+      "topic_tags": [
+        "china",
+        "global-order",
+        "trade",
+        "iran"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that even during a U.S.-Israel war against Iran, secret negotiations would continue and Beijing would likely help facilitate them.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Conditional wartime prediction made on 2025-10-26.",
+      "topic_tags": [
+        "china",
+        "iran-war",
+        "secret-negotiations",
+        "beijing"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues a deal could emerge in which China supplies material and weaponry to Iran while the United States deliberately looks away.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Conditional wartime scenario proposed on 2025-10-26.",
+      "topic_tags": [
+        "china",
+        "iran",
+        "weapons-supply",
+        "backchannel-deal"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang uses Ukraine as an analogy for tolerated indirect escalation, saying NATO provided intelligence, weapons, and targeting while Russia effectively turned a blind eye.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Historical analogy invoked on 2025-10-26.",
+      "topic_tags": [
+        "ukraine",
+        "nato",
+        "indirect-war",
+        "analogy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues war is more cynical and porous than most people think, to the point that companies tied to countries at war may still profit by supplying their enemy.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "General war model stated on 2025-10-26.",
+      "topic_tags": [
+        "war-economy",
+        "cynicism",
+        "profiteering"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says conflict within nation-states is often greater than conflict between nation-states and that wars frequently deflect attention away from domestic tensions.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "General political model stated on 2025-10-26.",
+      "topic_tags": [
+        "domestic-tension",
+        "nation-state",
+        "war-politics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Ukraine war is already lost for Kyiv if one looks honestly at the front lines, Russian momentum, and Ukrainian manpower exhaustion.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Present military diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "ukraine",
+        "russia",
+        "war-loss",
+        "front-lines"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues Zelensky and the Ukrainian elite cannot afford peace because a settlement would force Ukrainians to reckon with the destruction and could trigger political revolution and a pro-Putin government.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Present political diagnosis stated on 2025-10-26.",
+      "topic_tags": [
+        "ukraine",
+        "zelensky",
+        "elite-survival",
+        "political-revolution"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says NATO has gone all in on Ukraine and now cannot retreat without catastrophic political and strategic losses, which is why Europe is visibly preparing for a longer war.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0035",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Present alliance diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "nato",
+        "ukraine",
+        "europe",
+        "war-preparation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues the American empire also wants the war to continue because Ukraine keeps Russia tied down and prevents Moscow from helping Iran, Syria, Venezuela, Cuba, or Nicaragua more directly.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Present geopolitical diagnosis stated on 2025-10-26.",
+      "topic_tags": [
+        "american-empire",
+        "russia",
+        "iran",
+        "syria",
+        "venezuela"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts the war will converge on Odessa, with Russia grinding forward slowly and NATO ultimately reinforcing the city because a Russian capture of Odessa would end Ukrainian viability as a state.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0036",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Future war prediction made on 2025-10-26.",
+      "topic_tags": [
+        "odessa",
+        "ukraine",
+        "russia",
+        "nato",
+        "war-escalation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Russia's doctrine in Ukraine is slow and methodical because it wants to limit civilian casualties while still making inevitable advances.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "General military characterization stated on 2025-10-26.",
+      "topic_tags": [
+        "russia",
+        "military-doctrine",
+        "civilian-casualties"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang speculates that the mid-August Anchorage meeting between Trump and Putin may have been about expanding war rather than making peace.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Speculative interpretation offered on 2025-10-26 about an August 2025 meeting.",
+      "topic_tags": [
+        "trump",
+        "putin",
+        "anchorage",
+        "war-diplomacy"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues Trump and Putin share a common enemy in what he calls the Global Financial Establishment Order, the post-Soviet elite structure he associates with the New World Order.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0039",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "General geopolitical model stated on 2025-10-26.",
+      "topic_tags": [
+        "trump",
+        "putin",
+        "global-financial-establishment-order",
+        "new-world-order"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the way to destroy that order is to drag its NATO and deep-state factions into a war they cannot win, producing domestic dissension and regime overthrow inside the West.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Strategic-causal model stated on 2025-10-26.",
+      "topic_tags": [
+        "deep-state",
+        "nato",
+        "regime-overthrow",
+        "popular-dissension"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang agrees that Trump is self-serving, corrupt, egotistical, and narcissistic, but says those traits do not cancel his deeper obsession with the deep state.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Character diagnosis stated on 2025-10-26.",
+      "topic_tags": [
+        "trump",
+        "narcissism",
+        "corruption",
+        "deep-state"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Trump still sees the 2020 election as a deep-state and global-financial-elite operation that robbed him of the presidency and triggered the later legal and political persecution against him.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Jiang's account of Trump's believed grievance, stated on 2025-10-26.",
+      "topic_tags": [
+        "trump",
+        "2020-election",
+        "deep-state",
+        "global-financial-elite"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues Trump's true enemy is a global deep state he describes as an octopus, and that this enemy structure is what Trump wants to destroy.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Political model stated on 2025-10-26.",
+      "topic_tags": [
+        "trump",
+        "deep-state",
+        "global-octopus"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Trump is intent on a third term and reads the public signs, including Trump 2028 merchandising, as evidence of that ambition.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Present political prediction voiced on 2025-10-26.",
+      "topic_tags": [
+        "trump",
+        "third-term",
+        "2028"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says starting wars everywhere could give Trump extrajudicial and extra-constitutional powers that help him remain in office for a third term.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Strategic prediction stated on 2025-10-26.",
+      "topic_tags": [
+        "trump",
+        "war-powers",
+        "third-term",
+        "emergency-rule"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues Trump also needs to promote loyal factions and undermine global-order factions inside the state if he wants to secure that longer rule.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Strategic model stated on 2025-10-26.",
+      "topic_tags": [
+        "trump",
+        "state-factions",
+        "loyalty",
+        "deep-state"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang speculates that the Venezuela theater matters because Trump wants to undermine the CIA, which Jiang portrays as a central player in transnational drug-running and as a threat to Trump's third-term ambitions.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Speculative strategic diagnosis offered on 2025-10-26.",
+      "topic_tags": [
+        "venezuela",
+        "trump",
+        "cia",
+        "drug-cartels",
+        "third-term"
+      ],
+      "claim_type": "model",
+      "confidence": "low"
+    },
+    {
+      "claim": "He says Trump does not drink or use drugs and presents that abstinence as evidence of a long-running, disciplined effort to shape himself for presidential power.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0047",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Character evidence cited on 2025-10-26.",
+      "topic_tags": [
+        "trump",
+        "teetotaler",
+        "self-curation",
+        "presidential-image"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues Trump has imagined himself as president since the 1980s and likely sees himself as a grand, even divinely ordained figure because otherwise his behavior is hard to explain.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Psychological-political interpretation stated on 2025-10-26.",
+      "topic_tags": [
+        "trump",
+        "messianic-self-image",
+        "divinely-ordained",
+        "visions-of-grandeur"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Trump's public image was curated over decades and that The Apprentice was a major mechanism that fixed him in the American mind as a strong leader.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Long-run image-building diagnosis stated on 2025-10-26.",
+      "topic_tags": [
+        "trump",
+        "image-curation",
+        "the-apprentice",
+        "leadership-myth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that within a year or two the United States is likely to see civil unrest.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0052",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Near-future domestic prediction made on 2025-10-26.",
+      "topic_tags": [
+        "united-states",
+        "civil-unrest",
+        "civil-war",
+        "domestic-instability"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says reports and surrogate commentary indicate Trump plans National Guard deployment across every state and that right-wing media figures are openly discussing civil war preparation.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0052",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Present media and state-preparation diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "national-guard",
+        "civil-war",
+        "steve-bannon",
+        "tucker-carlson",
+        "alex-jones"
+      ],
+      "claim_type": "evidence",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang says the civil-unrest scenario includes a war-gamed sequence in which John Podesta is arrested, allied street forces trigger unrest, and the National Guard is then used to suppress the disorder.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0052",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Speculative domestic-escalation model described on 2025-10-26.",
+      "topic_tags": [
+        "john-podesta",
+        "civil-war-gaming",
+        "national-guard",
+        "antifa"
+      ],
+      "claim_type": "model",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang argues that ICE's budget and manpower have grown even though removals remain lower than under Obama, which he treats as evidence that the apparatus may be intended for secret-police functions rather than straightforward immigration enforcement.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Present institutional diagnosis stated on 2025-10-26.",
+      "topic_tags": [
+        "ice",
+        "secret-police",
+        "immigration-enforcement",
+        "obama-comparison"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says ICE is one component of Project 2025 and ties its expansion to a broader revamping of the federal bureaucracy under Trump and his allies.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Present state-restructuring diagnosis voiced on 2025-10-26.",
+      "topic_tags": [
+        "ice",
+        "project-2025",
+        "federal-bureaucracy",
+        "trump-allies"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang treats ongoing wars, a government shutdown, and White House renovations extending beyond 2028 as signs that Trump is serious about staying in power beyond his formal term.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Present third-term diagnosis stated on 2025-10-26.",
+      "topic_tags": [
+        "trump",
+        "third-term",
+        "white-house-renovation",
+        "government-shutdown",
+        "war-powers"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues Trump does not intend to retire and now sees remaining in power as existential because leaving office would invite retaliation from a future Democratic administration.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Present political diagnosis stated on 2025-10-26.",
+      "topic_tags": [
+        "trump",
+        "retirement",
+        "revenge",
+        "power-retention"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Trump is effective at reading public mood even while doing many things the broader American public does not support.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Present political characterization voiced on 2025-10-26.",
+      "topic_tags": [
+        "trump",
+        "public-mood",
+        "political-instinct"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues the Democratic Party is directionless and reduced to anti-Trump signaling, which leaves it unable to articulate a credible social program or anti-corruption alternative.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Present party diagnosis stated on 2025-10-26.",
+      "topic_tags": [
+        "democratic-party",
+        "anti-trump",
+        "leadership-vacuum",
+        "no-kings"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says if Trump becomes king, the Democratic Party will bear major responsibility because it sabotaged internal renewal, installed Biden, and kept gaslighting the public about economic pain.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0060",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Causal political model stated on 2025-10-26.",
+      "topic_tags": [
+        "democratic-party",
+        "trump",
+        "bernie-sanders",
+        "joe-biden",
+        "economic-gaslighting"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang generalizes that all empires eventually produce hereditary, corrupt, rent-seeking elites that turn inward and prey on their own populations after external conquest is complete.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Historical-political model stated on 2025-10-26.",
+      "topic_tags": [
+        "empire",
+        "elite-decay",
+        "rent-seeking",
+        "hereditary-elite"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the Roman elite expropriated public and private land, forced ordinary people into debt slavery, and thereby created appetite for reformers such as Tiberius Gracchus.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Historical analogy presented on 2025-10-26.",
+      "topic_tags": [
+        "rome",
+        "public-land",
+        "debt-slavery",
+        "tiberius-gracchus",
+        "reform"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang characterizes Gracchus's land reform as common-sense redistribution of public land to poor people and highlights his murder by senatorial aristocrats as proof of elite resistance to even modest reform.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Historical interpretation voiced on 2025-10-26.",
+      "topic_tags": [
+        "gracchi-brothers",
+        "land-reform",
+        "senate",
+        "elite-violence"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues the contemporary United States is ruled by an insulated gerontocracy that is divorced from ordinary Americans, and that this social condition keeps generating demand for Trump-like relief figures even if Trump himself disappears.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Present American political diagnosis stated on 2025-10-26.",
+      "topic_tags": [
+        "united-states",
+        "gerontocracy",
+        "trump",
+        "elite-decay",
+        "social-pressure"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says that historically kings are the political actors able to rally the people against entrenched elites and then redistribute land and erase debt.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "General historical model stated on 2025-10-26.",
+      "topic_tags": [
+        "kingship",
+        "debt-cancellation",
+        "land-redistribution",
+        "anti-elite-politics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says modern society has abandoned the spiritual side of human identity in favor of materialistic pursuits centered on money, sex, and power.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Civilizational diagnosis stated on 2025-10-26.",
+      "topic_tags": [
+        "materialism",
+        "spirituality",
+        "civilizational-crisis",
+        "desire"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He frames his teaching as an effort to get students to reimagine themselves and society by asking about the fundamental nature of reality across quantum mechanics, Kant, and Hegel.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Pedagogical program described on 2025-10-26.",
+      "topic_tags": [
+        "teaching",
+        "students",
+        "quantum-mechanics",
+        "kant",
+        "hegel"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says quantum mechanics and Kant both suggest objective reality is not directly knowable in the way materialism assumes, because observation and participation shape what becomes real to us.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0069",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Interpretive philosophical model stated on 2025-10-26.",
+      "topic_tags": [
+        "quantum-mechanics",
+        "kant",
+        "objective-reality",
+        "observation",
+        "materialism"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says his immediate goal with high-school students is not full metaphysical instruction but the subtler planting of questions that loosen the hold of everyday materialism.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Pedagogical method described on 2025-10-26.",
+      "topic_tags": [
+        "students",
+        "pedagogy",
+        "materialism",
+        "questioning"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he is trying to provoke a civilizational discourse about what it means to be human and argues that people need to reconcile being spiritual beings living in a material world.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Civilizational and pedagogical thesis stated on 2025-10-26.",
+      "topic_tags": [
+        "civilizational-discourse",
+        "human-nature",
+        "spiritual-beings",
+        "material-world"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the basic lesson he draws from quantum mechanics is that reality becomes true through participation and observation, so people should actively imagine and build a better future rather than wait passively through collapse.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0073"
+      ],
+      "temporal_scope": "Pedagogical and metaphysical thesis stated on 2025-10-26.",
+      "topic_tags": [
+        "quantum-mechanics",
+        "imagination",
+        "future",
+        "participation",
+        "civilizational-transition"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says AGI will never actually be achieved and argues that the current AI build-out is technologically resource-intensive without delivering meaningful value.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Present technology diagnosis and prediction stated on 2025-10-26.",
+      "topic_tags": [
+        "ai",
+        "agi",
+        "data-centers",
+        "resource-use",
+        "technology"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts the AI bubble will eventually collapse because vast capital has gone in without a durable business model, and he treats sexual-chat features as a sign of that desperation.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Near-future AI-market prediction made on 2025-10-26.",
+      "topic_tags": [
+        "ai-bubble",
+        "chatgpt",
+        "business-model",
+        "desperation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says elite talk about AI, demons, and alien invasion reflects a broad anxiety among ruling groups that they are losing narrative control.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0077"
+      ],
+      "temporal_scope": "Present elite-psychology diagnosis stated on 2025-10-26.",
+      "topic_tags": [
+        "elite",
+        "narrative-control",
+        "ai",
+        "demons",
+        "alien-invasion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang interprets his own sudden online growth as evidence that audiences are ready for a message about their true spiritual potential.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0077",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Present media self-reading stated on 2025-10-26.",
+      "topic_tags": [
+        "virality",
+        "audience",
+        "spiritual-potential",
+        "message-timing"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says that if people lose faith in artificial intelligence and authority while increasing faith in themselves, they can reestablish themselves as divine spiritual beings and approach a golden age of human creativity.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Conditional civilizational prediction stated on 2025-10-26.",
+      "topic_tags": [
+        "spiritual-awakening",
+        "authority",
+        "human-potential",
+        "golden-age",
+        "creativity"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The host argues that AI already appears to be replacing parts of creative labor and may yet produce destabilizing social changes, even if the present wave also looks like slop and hype.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0079",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Interviewer pressure and counterargument voiced on 2025-10-26.",
+      "topic_tags": [
+        "ai",
+        "creative-labor",
+        "music",
+        "automation",
+        "techno-feudalism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says global capitalism has trained people over the last twenty years to think of themselves as commodities whose worth is judged by the free market.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Present civilizational diagnosis stated on 2025-10-26, with a retrospective claim about the last twenty years.",
+      "topic_tags": [
+        "capitalism",
+        "commodification",
+        "free-market",
+        "labor",
+        "selfhood"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He contrasts that market anthropology with a historical model in which humans are spiritual beings in community and make music to bring light to one another rather than to sell labor as a commodity.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Historical and normative model stated on 2025-10-26.",
+      "topic_tags": [
+        "community",
+        "spiritual-beings",
+        "music",
+        "art",
+        "value"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that mass society will collapse within the next fifty years and that this breakdown will push humans back toward communal and spiritual forms of value creation.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Fifty-year civilizational prediction made on 2025-10-26.",
+      "topic_tags": [
+        "mass-society",
+        "collapse",
+        "community",
+        "future",
+        "spirituality"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that art retains human value when it is oriented toward mutual fulfillment inside a community, but that music aimed primarily at commodification can be replaced by AI.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0082",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Normative and economic distinction stated on 2025-10-26.",
+      "topic_tags": [
+        "art",
+        "music",
+        "community",
+        "commodification",
+        "ai"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the elite and proxy AI are parasitic on mass society because AI depends on enormous populations, resources, and financing rather than standing as an autonomous civilizational force.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Present system diagnosis stated on 2025-10-26.",
+      "topic_tags": [
+        "elite",
+        "proxy-ai",
+        "mass-society",
+        "parasite",
+        "infrastructure"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He predicts that a major geophysical event such as a magnetic pole shift or mini ice age would reduce population and resources enough to make large AI data-center systems nonviable.",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Conditional future prediction made on 2025-10-26.",
+      "topic_tags": [
+        "geophysical-event",
+        "magnetic-pole-shift",
+        "mini-ice-age",
+        "ai",
+        "data-centers"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0003"
+      ],
+      "moment": "Jiang recasts Israel's opening strike not as decisive force but as a blunder that toughened Iran.",
+      "source_phrase": "The 12-day war, it was more like testing the waters.",
+      "why_it_matters": "This phrase flips the first war from climax to reconnaissance and opens his argument that the truly dangerous round is still ahead.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0003"
+      ],
+      "moment": "Israel is pictured as trapped by its own strategy.",
+      "source_phrase": "Israel has really dug itself a huge hole.",
+      "why_it_matters": "The image compresses Jiang's whole diagnosis that Israel's prior escalation now blocks any peaceful exit.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0004"
+      ],
+      "moment": "Peace itself becomes politically impossible for Israel's current leadership.",
+      "source_phrase": "It cannot afford peace anymore.",
+      "why_it_matters": "This is the packet's hardest reversal: war is no longer policy choice but the regime's survival mechanism.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0005"
+      ],
+      "moment": "Jiang reduces a sprawling regional crisis to two explosive trigger questions.",
+      "source_phrase": "Two things I'm looking at in the second round",
+      "why_it_matters": "The move gives the packet its structure and shows how Jiang prioritizes strategic watchpoints instead of listing generic war risks.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0010"
+      ],
+      "moment": "A sacrificial rumor becomes a compressed countdown mechanism.",
+      "source_phrase": "they're on a very fast timeline",
+      "why_it_matters": "The packet turns a ritual detail into a strategic clock, which is how Jiang links eschatology to imminent geopolitical danger.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0011"
+      ],
+      "moment": "Jiang reduces the whole eschatological machine to one indispensable object.",
+      "source_phrase": "it's the key piece",
+      "why_it_matters": "This phrase shows why the Third Temple is not side symbolism for him but the hinge that organizes the surrounding war logic.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0013"
+      ],
+      "moment": "Geopolitics is reframed inward, toward factional struggle inside the state.",
+      "source_phrase": "the conflict within states is more intense, more great and more important than the conflict between states",
+      "why_it_matters": "This is the packet's main reversal: the visible international contest is treated as downstream of hidden intra-state organization.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0013",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0014"
+      ],
+      "moment": "Secret societies are described as the cheat code for bureaucratic power.",
+      "source_phrase": "the way that you cheat in bureaucracies is by forming secret societies",
+      "why_it_matters": "It condenses Jiang's institutional model into a memorable mechanism linking hierarchy, coordination, and eschatological script.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0017"
+      ],
+      "moment": "Jiang strips eschatological politics down to naked alignment rather than sincerity.",
+      "source_phrase": "you don't need belief you need interest to align",
+      "why_it_matters": "This is the packet's governing mechanism: secular and religious actors can move together without sharing faith because the alliance is built on converging strategic payoff.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0018"
+      ],
+      "moment": "He names the Zionist end-state as a global Jewish peace imposed through power.",
+      "source_phrase": "it'll be Pax Judaica",
+      "why_it_matters": "The phrase condenses Jiang's argument that behind immediate war aims sits a civilizational imperial fantasy, not just tactical security policy.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0020"
+      ],
+      "moment": "Geopolitics becomes the sum of converging elite interests rather than a clash of official state narratives.",
+      "source_phrase": "Wherever the interests converge is whatever happens",
+      "why_it_matters": "This turns the conversation from ideology alone to an elite-coordination model that explains why trade, finance, and war objectives merge around the Middle East.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0023"
+      ],
+      "moment": "Jiang frames Gaza not just as atrocity but as sacrificial war theater.",
+      "source_phrase": "a ritual human sacrifice",
+      "why_it_matters": "This is the sharpest formulation in the packet and it converts the Gaza campaign into a mechanism for binding a society to irreversible total war.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0027"
+      ],
+      "moment": "China is rendered as a continental power that simply does not do expeditionary Iran wars.",
+      "source_phrase": "China will never, ever interfere in a conflict that does not involve Chinese territory or sovereignty issues",
+      "why_it_matters": "This is Jiang's cleanest formulation of China's constraint set and it anchors the whole packet's answer about Iran.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0028"
+      ],
+      "moment": "Beijing appears not as savior of Iran but as the exhausted custodian of a crumbling system.",
+      "source_phrase": "maybe the last defender of the global order",
+      "why_it_matters": "The phrase compresses Jiang's picture of China as a mediator trying to preserve exchange rather than a revolutionary war entrant.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0030"
+      ],
+      "moment": "He treats war as an arena of secret bargains rather than clean front-line opposition.",
+      "source_phrase": "war is a very complicated affair",
+      "why_it_matters": "This line opens the backchannel model in which enemies keep negotiating, trading, and profiting even inside open conflict.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0031"
+      ],
+      "moment": "Interstate war is demoted beneath unresolved domestic fracture.",
+      "source_phrase": "the conflict within nation states is much greater than conflict between nation states",
+      "why_it_matters": "This is Jiang's recurring interpretive key for why wars persist even when the official external rationale looks irrational.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0037"
+      ],
+      "moment": "Odessa becomes the city where a supposedly proxy war stops pretending to be proxy.",
+      "source_phrase": "NATO will fight Russia in Odessa",
+      "why_it_matters": "This is Jiang's concrete escalation image for how the Ukraine war spills from attrition into direct civilizational confrontation.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0037"
+      ],
+      "moment": "The old cliche about sacrificing Ukrainians mutates into a darker prediction about sacrificing Europe itself.",
+      "source_phrase": "America will fight Russia to the last European man",
+      "why_it_matters": "The line compresses Jiang's thesis that the escalation logic now extends beyond Ukraine and threatens the broader European body politic.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0040"
+      ],
+      "moment": "He treats the war not as East versus West but as an engineered trap for the global order's own managers.",
+      "source_phrase": "you drag them into a war that's not winnable",
+      "why_it_matters": "This is Jiang's causal key for why Trump-Putin escalation could make sense inside his anti-deep-state model.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0044"
+      ],
+      "moment": "The deep state is rendered not as a bureaucracy but as a global creature wrapping around Trump personally.",
+      "source_phrase": "the deep state is something that is global. It's a global octopus",
+      "why_it_matters": "This is Jiang's vivid image for why Trump would see domestic politics, foreign wars, and transnational elites as one enemy system.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0044"
+      ],
+      "moment": "Third-term ambition is treated not as internet chatter but as the organizing key to Trump's war behavior.",
+      "source_phrase": "Trump is intent on a third term",
+      "why_it_matters": "The line converts Jiang's Trump reading from personality commentary into a concrete regime-survival model.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0048"
+      ],
+      "moment": "Trump's abstinence and lifelong self-branding are read as clues to a private messianic script.",
+      "source_phrase": "if he were not messianic, if he did not see himself as divinely ordained",
+      "why_it_matters": "This is Jiang's sharpest statement that Trump's self-conception may be religiously or providentially charged rather than merely egoistic.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0053"
+      ],
+      "moment": "Civil unrest is framed not as spontaneous collapse but as something elites are already gaming out in advance.",
+      "source_phrase": "they're already war-gaming a civil war",
+      "why_it_matters": "This line condenses Jiang's view that domestic American crisis is being actively prepared and instrumentalized rather than merely feared.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0056"
+      ],
+      "moment": "ICE stops looking like an immigration agency and starts looking like a rehearsal for sovereign coercion.",
+      "source_phrase": "the intention is to create a secret police",
+      "why_it_matters": "This is Jiang's sharpest compression of how he reads the mismatch between ICE expansion and actual deportation outcomes.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0056"
+      ],
+      "moment": "Third-term ambition is inferred from administrative details and architecture, not just slogans.",
+      "source_phrase": "He's renovating the White House ... beyond 2028",
+      "why_it_matters": "The detail shows Jiang's method of reading mundane state signals as evidence of regime intention.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0057"
+      ],
+      "moment": "Trump's power project is rendered as an existential gamble rather than an ordinary reelection plan.",
+      "source_phrase": "either he becomes king or he dies trying",
+      "why_it_matters": "This is Jiang's most compressed explanation for why Trump would keep escalating rather than accept term limits or negotiated retreat.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0060"
+      ],
+      "moment": "The anti-Trump resistance is mocked as a slogan without a social program.",
+      "source_phrase": "we can't have a king, but nothing else",
+      "why_it_matters": "The line captures Jiang's argument that negative coalition politics leaves the field open for stronger authoritarian actors.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0064"
+      ],
+      "moment": "Empire is defined by the moment victorious elites start feeding on their own society.",
+      "source_phrase": "Eventually they produce an elite that is hereditary, which is corrupt, which is rent-seeking",
+      "why_it_matters": "This is Jiang's general law of imperial decay, which he uses to connect Rome to the present American crisis.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0065"
+      ],
+      "moment": "Trump is treated as a symptom slot, not the underlying disease.",
+      "source_phrase": "If Trump goes away, then there'll be someone else to take his mantle",
+      "why_it_matters": "This is Jiang's compressed warning that structural oligarchic crisis keeps generating authoritarian substitutes until the social pressure itself is addressed.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0066"
+      ],
+      "moment": "Relief is assigned to kings rather than constitutional managers.",
+      "source_phrase": "the only person who can actually deliver relief are kings historically",
+      "why_it_matters": "The line condenses Jiang's anti-oligarchic theory of monarchy as the force capable of overriding rent-seeking elites.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0070"
+      ],
+      "moment": "Quantum mechanics is used less as physics content than as a wedge against default materialism.",
+      "source_phrase": "I'm just trying to implant questions",
+      "why_it_matters": "This reveals the strategic teaching move: not delivering settled doctrine, but destabilizing a civilizational common sense about reality.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0071"
+      ],
+      "moment": "Human identity is defined at the hinge between spirit and matter.",
+      "source_phrase": "we are spiritual beings living in a material world",
+      "why_it_matters": "This is one of the packet's clearest candidate primitives for Jiang's anthropology and his larger renewal project.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0073"
+      ],
+      "moment": "Imagination is elevated from private fantasy to the force that animates history.",
+      "source_phrase": "the imagination is the animating force of the universe",
+      "why_it_matters": "This is the cleanest bridge between Jiang's metaphysics and his practical injunction not to meet civilizational crisis passively.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0076"
+      ],
+      "moment": "The AI boom is recast as a silly, desperate bubble rather than the next civilizational platform.",
+      "source_phrase": "the entire AI bubble will collapse",
+      "why_it_matters": "This is Jiang's sharpest compression of his anti-AI stance and the claim that hype is outrunning both function and profitability.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0077"
+      ],
+      "moment": "Elite fascination with AI, demons, and aliens is treated as one syndrome.",
+      "source_phrase": "it's all like this desperation, anxiety among the elite to maintain control",
+      "why_it_matters": "The line fuses technological hype and occult spectacle into a single narrative-control diagnosis.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0078"
+      ],
+      "moment": "The counter to AI is not better machinery but a rediscovery of human divinity.",
+      "source_phrase": "they'll truly establish themselves as divine spiritual beings",
+      "why_it_matters": "This is Jiang's strongest positive alternative to techno-pessimism in the packet.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0082"
+      ],
+      "moment": "Human beings are pulled out of the market and placed back into sacred communal life.",
+      "source_phrase": "we were all spiritual beings in community with each other",
+      "why_it_matters": "This is Jiang's cleanest rebuttal to the idea that creativity should be measured first as labor-market output.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0083"
+      ],
+      "moment": "AI can replace art only when the artist has already accepted the market's definition of the work.",
+      "source_phrase": "if it's really about creating music so it can be commodified and sold in the free market, then AI can easily replace us",
+      "why_it_matters": "The line compresses Jiang's distinction between communal art and commodity production into one hard criterion.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0085"
+      ],
+      "moment": "Proxy AI is demoted from destiny to a parasite living off the social body it claims to supersede.",
+      "source_phrase": "the elite and the proxy AI, it's a parasite on mass society",
+      "why_it_matters": "This is the sharpest image in the closing coda and it ties Jiang's anti-AI thesis to his larger civilizational-collapse frame.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0085"
+      ],
+      "moment": "A planetary shock becomes the material check on techno-feudal fantasy.",
+      "source_phrase": "AI is no longer sustainable",
+      "why_it_matters": "Jiang moves the argument from culture and meaning to the hard question of whether the physical world can keep underwriting AI infrastructure.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "12-day war",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Jiang's label for the earlier Iran-Israel clash that he treats as a preliminary test rather than the decisive confrontation.",
+      "confidence": "high"
+    },
+    {
+      "term": "decapitation strikes",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Strikes intended to remove top Iranian leadership and trigger regime collapse.",
+      "confidence": "high"
+    },
+    {
+      "term": "Strait of Hormuz",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "One of Jiang's two decisive watchpoints for the next Iran conflict because closure would internationalize the war through oil disruption.",
+      "confidence": "high"
+    },
+    {
+      "term": "red heifers",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0005",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Animals Jiang and the host discuss as necessary for purification rites tied to rebuilding the Third Temple.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Third Temple",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Temple-restoration project Jiang treats as a live eschatological driver with direct geopolitical consequences.",
+      "confidence": "high"
+    },
+    {
+      "term": "religious workaround",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "Jiang's label for a ritual move that could bypass prior constraints on how the Third Temple sequence advances.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Third Temple",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0010",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "The indispensable eschatological site Jiang links to the antichrist, the Jewish Messiah, and the broader war script.",
+      "confidence": "high"
+    },
+    {
+      "term": "imperial bureaucracy",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Jiang's description of the United States as a slow, compartmentalized, hierarchical system in which covert coordination becomes decisive.",
+      "confidence": "high"
+    },
+    {
+      "term": "secret societies",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0013",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Cross-departmental coordinating networks that Jiang says use shared eschatological scripts to rise through bureaucracies.",
+      "confidence": "medium"
+    },
+    {
+      "term": "greater Israel project",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "The host's term for the strategic-ideological project that may override cold geopolitical caution in Israel's confrontation with Iran.",
+      "confidence": "high"
+    },
+    {
+      "term": "Greater Israel project",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0017",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0020",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Jiang uses this as the expansionist strategic goal around which secular Zionists, outside elite interests, and the Gaza-Iran war theater are being organized.",
+      "confidence": "high"
+    },
+    {
+      "term": "Pax Judaica",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "Jiang's label for the imagined end-state in which a messianic Israel becomes the most powerful nation in the world.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Axis of resistance",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Jiang uses Israel's view of the axis of resistance to collapse Gaza, Iran, the Houthis, and Lebanon into one enemy system led from Tehran.",
+      "confidence": "high"
+    },
+    {
+      "term": "Ritual human sacrifice",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Jiang's phrase for violence that binds a population to total war by making retreat morally and politically impossible.",
+      "confidence": "high"
+    },
+    {
+      "term": "Blue water navy",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Jiang uses this to mark the kind of long-range naval capacity he says China lacks for sustained Middle East intervention.",
+      "confidence": "high"
+    },
+    {
+      "term": "Three island chains",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Jiang invokes the American island-chain structure as the maritime constraint that boxes China in and makes distant deployment vulnerable.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Defender of the global order",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "Jiang's phrase for China's self-image as a stabilizing trade-preserving mediator rather than a direct co-belligerent.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Odessa",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0036",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Jiang uses Odessa as the decisive convergence point where the Ukraine war could turn into overt NATO-Russia confrontation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Global Financial Establishment Order",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Jiang's name for the post-Cold War elite order that he says Trump and Putin both want to destroy.",
+      "confidence": "high"
+    },
+    {
+      "term": "New World Order",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Jiang invokes George H.W. Bush's phrase as the public political label for the global order he believes later hardened into a transnational elite regime.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Global octopus",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "Jiang's metaphor for the worldwide deep-state structure he thinks Trump sees as his real enemy.",
+      "confidence": "high"
+    },
+    {
+      "term": "Third term",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "Jiang uses this as the practical political objective that ties together emergency powers, war escalation, and factional purges.",
+      "confidence": "high"
+    },
+    {
+      "term": "Teetotaler",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "Jiang treats Trump's abstinence from alcohol and drugs as evidence of discipline and long-horizon self-fashioning rather than hedonistic chaos.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Project 2025",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Jiang invokes Project 2025 as a plan for remaking the federal bureaucracy, with ICE as one instrument inside that restructuring.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Secret police",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0054",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0055",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "The host proposes and Jiang accepts this term for a coercive domestic apparatus that exceeds ordinary immigration enforcement.",
+      "confidence": "high"
+    },
+    {
+      "term": "The Apprentice",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "Jiang treats The Apprentice as the media vehicle that nationalized Trump's leader-image and helped prepare his political authority.",
+      "confidence": "high"
+    },
+    {
+      "term": "No Kings rally",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "Jiang uses the No Kings protests as an example of a hollow oppositional politics that names Trump as the problem without offering substantive reform.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Rent-seeking elite",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "Jiang's general category for hereditary imperial rulers who stop producing and instead extract wealth, land, and obedience from the population.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gracchi brothers",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "Jiang invokes the Gracchi as early Roman reformers whose attempt to redistribute public land exposed the violence of entrenched aristocratic power.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gerontocracy",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0065"
+      ],
+      "definition_or_usage": "Jiang uses this term for an aging American ruling class that is insulated, corrupt, and unable to respond to ordinary people's plight.",
+      "confidence": "high"
+    },
+    {
+      "term": "Collapse of the wave function",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0069"
+      ],
+      "definition_or_usage": "Jiang invokes the phrase as evidence that observation matters to what becomes real, using it to connect quantum mechanics to a broader anti-materialist worldview.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Civilizational discourse",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0071"
+      ],
+      "definition_or_usage": "Jiang uses this to name the deeper conversation he wants to provoke about human identity, reality, and where society could be going.",
+      "confidence": "high"
+    },
+    {
+      "term": "Artificial General Intelligence",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0076"
+      ],
+      "definition_or_usage": "Jiang names AGI as the stronger AI claim he rejects, arguing it will never actually be achieved.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI slop",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0079"
+      ],
+      "definition_or_usage": "The host uses this phrase for the current flood of low-value AI outputs such as sexting, bad imagery, and poor videos.",
+      "confidence": "high"
+    },
+    {
+      "term": "Techno-feudal slave era",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0081"
+      ],
+      "definition_or_usage": "The host's name for a possible future in which AI does not collapse but instead deepens hierarchy, control, and dependence.",
+      "confidence": "high"
+    },
+    {
+      "term": "Spiritual awakening",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0077",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0078"
+      ],
+      "definition_or_usage": "Jiang uses this for the hoped-for historical shift in which people stop trusting artificial systems and authority and begin trusting their own spiritual potential.",
+      "confidence": "high"
+    },
+    {
+      "term": "Mass society",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0082",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0085"
+      ],
+      "definition_or_usage": "Jiang uses this for the large-scale modern social order that commodifies people and also provides the population base and infrastructure that AI depends on.",
+      "confidence": "high"
+    },
+    {
+      "term": "Proxy AI",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0085"
+      ],
+      "definition_or_usage": "Jiang's term for the current elite-managed AI apparatus, which he treats as a dependent instrument rather than an independent intelligence.",
+      "confidence": "high"
+    },
+    {
+      "term": "Spiritual beings in community",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0082"
+      ],
+      "definition_or_usage": "Jiang's anthropological counter-image to market society: humans as communal and spiritually oriented makers of value rather than labor commodities.",
+      "confidence": "high"
+    },
+    {
+      "term": "Geophysical event",
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0085"
+      ],
+      "definition_or_usage": "The kind of large material shock Jiang names, such as a magnetic pole shift or mini ice age, that would break the social and resource conditions AI needs.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0001",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0002"
+      ],
+      "note": "The host explicitly frames this as the second interview after an earlier conversation and dates the discussion to a moment after a Gaza ceasefire and after an initial Iran-Israel war.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0003",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0004"
+      ],
+      "note": "Jiang's war forecast is explicitly chronological: the prior 12-day round is retrospective evidence, while the looming 'second round' is treated as imminent from the 2025-10-26 vantage point.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0005",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0006"
+      ],
+      "note": "The red-heifer sequence is discussed as a current escalation variable in late October 2025, not as distant symbolic background.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0010",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0011"
+      ],
+      "note": "This packet records late-October 2025 rumors and interpretations about the red-heifer sacrifice as an active timeline accelerator rather than merely symbolic theology.",
+      "possible_update_to_prior_position": true,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0015"
+      ],
+      "note": "Jiang explicitly ties the present opening for eschatological factions to a sequence of recent historical events: liberal-order breakdown, Brexit, Trump's rise, and the Ukraine war.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0022",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0023"
+      ],
+      "note": "On 2025-10-26 Jiang explicitly ties Gaza, Iran, the Houthis, and Lebanon into one Israeli war system and folds the Gaza pause into preparation for a wider Iran conflict.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0023"
+      ],
+      "note": "This interview restates Jiang's Gaza interpretation in unusually concentrated form by naming it a ritual sacrifice that commits Israeli society to total war.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0027",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0028"
+      ],
+      "note": "On 2025-10-26 Jiang's explicit forecast is that China mediates and continues trading around an Iran war rather than entering it directly.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0031"
+      ],
+      "note": "This packet repeats Jiang's internal-conflict-over-interstate-conflict model and applies it directly to why wars can continue despite their apparent external irrationality.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0036",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0037"
+      ],
+      "note": "On 2025-10-26 Jiang's explicit Ukraine escalation forecast is a slow Russian push ending in a struggle over Odessa and possible direct NATO involvement there.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0039",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0040"
+      ],
+      "note": "This packet records Jiang's October 2025 interpretation of the Anchorage Trump-Putin meeting as possible war coordination rather than peace outreach.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0043",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0044",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0045"
+      ],
+      "note": "On 2025-10-26 Jiang explicitly links Trump's war behavior to a third-term project and to a personal struggle against the deep state as Trump understands it.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0047",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0048"
+      ],
+      "note": "This packet records Jiang's October 2025 view that Trump's self-conception may be quasi-messianic, grounded in his long-term self-branding and abstinent discipline.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0052",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0053"
+      ],
+      "note": "On 2025-10-26 Jiang gives a concrete domestic forecast: US civil unrest within one to two years, with competing factions already speaking in civil-war terms.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0056"
+      ],
+      "note": "In this source Jiang explicitly connects ICE expansion, Project 2025, and White House renovation beyond 2028 to Trump's presumed third-term project.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0057",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0060",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0061"
+      ],
+      "note": "On 2025-10-26 Jiang extends his Trump reading from third-term ambition to an all-in fight for survival in which Democratic failure is part of the enabling mechanism.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0064"
+      ],
+      "note": "This source adds a direct Rome-to-America decay model: hereditary rent-seeking elites produce popular demand for reformers and eventually for monarchic or Caesarist solutions.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0065",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0066"
+      ],
+      "note": "On 2025-10-26 Jiang pushes his Rome-America analogy into explicit monarchic territory, saying recurring elite failure keeps producing relief-seeking politics and historically directs people toward kings.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0069",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0071"
+      ],
+      "note": "This source makes Jiang's pedagogical project unusually explicit: quantum mechanics and philosophy are being used to unsettle materialism and reframe students as spiritual beings capable of imagining a different civilization.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0076",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0078"
+      ],
+      "note": "On 2025-10-26 Jiang gives one of his clearest anti-AI formulations: AGI will not arrive, the bubble will collapse, and the deeper historical direction runs through spiritual awakening rather than machine transcendence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0073"
+      ],
+      "note": "This source explicitly links Jiang's earlier civilizational-transition language to an imagination thesis: the future becomes what people actively imagine and participate in while old systems break apart.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0082",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0083"
+      ],
+      "note": "On 2025-10-26 Jiang extends his anti-AI position into a human-value doctrine: communal art survives, but commodified creativity is exactly what AI can absorb.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0085"
+      ],
+      "note": "This source closes by tying AI's future to population scale, energy, and geophysical stability rather than treating machine progress as self-propelling.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0005"
+      ],
+      "note": "The transcript around 'cost you the grounds' and the repeated 'destroy the Temple of Solomon. Al-Aqsa Mosque.' is ASR-rough; the broad claim is clear but the exact ritual phrasing is noisy."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0006",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0007",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0008"
+      ],
+      "note": "The sacrifice report is presented as rumor and clip material rather than verified fact inside the interview."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0010"
+      ],
+      "note": "Jiang explicitly says he does not know whether the sacrifice rumors are true, so claims based on them stay conditional."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0013"
+      ],
+      "note": "seg-0013 contains noisy ASR, including a stray character and compressed wording, so the institutional model is clearer than the exact sentence-level wording."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0015"
+      ],
+      "note": "The phrase 'issue is not working alone' appears to be an ASR error for 'Israel is not working alone'; the surrounding sentence supports the latter reading but the transcript is not exact there."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0018"
+      ],
+      "note": "The packet presents competing factional end-times beliefs through Jiang's compressed paraphrases; the specific doctrinal outcomes should be treated as his asserted model rather than independently verified theology."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0030"
+      ],
+      "note": "The scenario in which Washington tolerates Chinese material support for Iran is presented as Jiang's speculative war model, not as a reported agreement."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0035",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0036"
+      ],
+      "note": "The European mobilization examples are part of Jiang's argument for NATO escalation pressure and are not independently verified within this packet."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0039",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0040"
+      ],
+      "note": "The Anchorage-meeting interpretation is explicitly speculative and should be read as Jiang's geopolitical reading, not as a documented account of the meeting."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0043"
+      ],
+      "note": "The election-fraud and coordinated-elite claims are presented here as Jiang's account of Trump's perceived grievance, not as verified historical findings."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0045"
+      ],
+      "note": "The CIA-drug-running and Venezuela linkage is Jiang's speculative causal explanation and should be treated as low-confidence interpretation."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0050",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0051"
+      ],
+      "note": "The host's speculation that Trump recently had a stroke is unverified within the packet and should not be treated as source-grounded fact."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0052",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0053"
+      ],
+      "note": "Claims about National Guard deployment to every state, Podesta war-gaming, and militia readiness are presented as reports or surrogate chatter, not demonstrated evidence inside the source."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0058",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0059"
+      ],
+      "note": "The host's Trojan-horse account of migrant busing and later secret-police justification is part of the interview pressure, not a verified factual chain established by the packet itself."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0064"
+      ],
+      "note": "Jiang's Roman historical summary is interpretive and compressed; later packet context may sharpen how tightly he wants the Rome-America analogy applied."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0070"
+      ],
+      "note": "Jiang's account of quantum mechanics, Kant, and evolution is interpretive and polemical rather than a careful disciplinary summary; preserve it as his worldview statement, not as settled scientific consensus."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0076"
+      ],
+      "note": "Jiang's numerical and product-specific AI claims are presented rhetorically inside the interview and are not independently substantiated by this packet."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0079",
+        "video:interview-pul2i1womxg@transcript:v1#seg-0080"
+      ],
+      "note": "The host's framing of AI ownership and creative-worker displacement functions as pressure on Jiang's argument; it should be preserved as interviewer concern, not folded into Jiang's own claims without attribution."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0085"
+      ],
+      "note": "The named geophysical triggers and the resulting AI-collapse scenario are presented as Jiang's speculative conditional forecast inside the interview, not as substantiated evidence in this packet."
+    },
+    {
+      "refs": [
+        "video:interview-pul2i1womxg@transcript:v1#seg-0088"
+      ],
+      "note": "The final segment is channel housekeeping rather than source argument and should not be promoted into episode-level claims beyond noting the interview outro."
+    }
+  ]
+}
