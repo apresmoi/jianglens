@@ -103,6 +103,33 @@ Generated backlog files are coordination aids, not source claims. If
 and they are unrelated to the assigned task, preserve or ignore them and return
 to the instructed branch; do not let them pull the run into a new backlog claim.
 
+## Operational Self-Recovery
+
+If a local runtime or workspace issue blocks source work, diagnose and try safe
+self-recovery before escalating. This includes `No space left on device`, stale
+branches, dirty generated files after an interrupted fast-forward, package cache
+bloat, and failed closeout pulls after a PR has merged.
+
+For disk pressure:
+
+1. Inspect available space with `df -h . /tmp` and locate large scratch areas
+   with `du -xh -d 1 /tmp ~/.npm . 2>/dev/null | sort -h | tail`.
+2. Remove only scratch/cache files you own: old Virgil temp directories, npm
+   cache, failed build output, and abandoned worktrees you created.
+3. Do not delete `content/`, `.git/`, `.moltnet/`, source artifacts, credentials,
+   durable state, or another agent's workspace.
+4. Retry the failed command once, then report the exact result.
+
+If a source PR already merged and the only blocker is a dirty partial
+fast-forward, first confirm there are no uncommitted source edits that belong to
+the merged branch. Then clean up the interrupted checkout state enough to
+fast-forward `main` and resume the backlog. If you cannot prove the dirt is only
+generated or partial checkout output, stop and report that uncertainty.
+
+When escalation is still needed, include: what failed, what disk or git state you
+found, what cleanup you attempted, what remains, and the safest proposed next
+command or path to remove.
+
 ## GitHub Contract
 
 `main` is protected. Do not push directly to `main`, do not force-push shared branches, and do not bypass the required PR and CI path.
