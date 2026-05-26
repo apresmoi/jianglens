@@ -139,6 +139,14 @@ async function expectedSourceDate(repoRoot, sourceSlug) {
   };
 }
 
+function generatedSourceJsonPath(repoRoot, sourceSlug) {
+  const candidates = [
+    path.join(repoRoot, "website/src/data/lens/episodes", `${sourceSlug}.json`),
+    path.join(repoRoot, "website/src/data/lens/interviews", `${sourceSlug}.json`),
+  ];
+  return candidates.find((candidate) => existsSync(candidate)) ?? null;
+}
+
 async function loadSegmentIds(repoRoot, slug, version, cache, errors) {
   const cacheKey = `${slug}:v${version}`;
   if (cache.has(cacheKey)) return cache.get(cacheKey);
@@ -268,8 +276,8 @@ export async function validateCorpusImpactFiles(files, options = {}) {
       errors.push(`${fileLabel}: missing public episode read for ${data.source_slug}`);
     }
 
-    if (data.source_slug && !existsSync(path.join(repoRoot, "website/src/data/lens/episodes", `${data.source_slug}.json`))) {
-      errors.push(`${fileLabel}: missing generated episode JSON for ${data.source_slug}. Run node ops/scripts/compile-content.mjs`);
+    if (data.source_slug && !generatedSourceJsonPath(repoRoot, data.source_slug)) {
+      errors.push(`${fileLabel}: missing generated source JSON for ${data.source_slug}. Run node ops/scripts/compile-content.mjs`);
     }
 
     if (data.source_slug) {

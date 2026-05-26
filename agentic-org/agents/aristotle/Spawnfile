@@ -20,7 +20,7 @@ execution:
 
 schedule:
   kind: cron
-  cron: "20,50 * * * *"
+  cron: "8,38 * * * *"
   timezone: UTC
   prompt: "Wake as Aristotle. Read generated workspace context, enter ./repos/jiang-lens, inspect open episode/interview PRs and recent episode-floor handoffs, then review at most one source PR for transcript-grounded public-read quality."
 
