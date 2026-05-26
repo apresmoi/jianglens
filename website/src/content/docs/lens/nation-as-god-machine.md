@@ -135,6 +135,20 @@ The nation-state seeks replacement unity when shared ideology, story, and instit
 
 This does not make every civil conflict a nation-as-god-machine case. Use this lens when the source asks what can make a fractured population feel like one body again. Use [Legitimacy Fiction](/lens/legitimacy-fiction/) when the main question is whether a ruler, title, public feud, or constitutional rule can still make obedience feel rightful. Use [Eschatology As Script](/lens/eschatology/) when the sacred story assigns end-times roles. Use [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) when the claim turns on troops, logistics, energy, finance, or escalation.
 
+## City-State After The Nation-State
+
+The late-2025 Recombination Nation interview gives the page a possible successor form that is not simply another national god. Jiang first argues that giant administrative units are historically recent, then says [nation-states no longer make sense as the only political scale]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0070"}. The positive image is a return to the polis: [a time of the city-state]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0071"}.
+
+This is not nostalgia for smallness by itself. Jiang says the Greek polis matters because it is a political community small enough to demand participation. In his Athens example, the city has to galvanize and energize everyone, so [human agency and liberty increase because broad participation is needed for wealth creation]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0073"}. Smaller political form becomes a possible answer to the nation-state's scale problem: it can recover agency, diversity of regime, and local political feeling after the mass national body has become too abstract to inhabit.
+
+The March 2026 end-of-history lecture gives the same idea a harsher future setting. Jiang does not promise a stable map after imperial breakdown. He says the geopolitical situation becomes [constant flux]{evidence="video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0043"}: alliances shift, stable enemy categories fail, and [the nation-state system may break apart into more resilient communities, perhaps city-states]{evidence="video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0043"}. The city-state is therefore ambivalent. It can be an agency-rich alternative to dead national scale, but it can also be the resilient fragment left after resource stress, migration, and war make larger forms brittle.
+
+<!-- lens-point id="nation-city-state-after-nation-state" concept="nation-god-machine" evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0070 video:interview-mcjno0xrly8@transcript:v1#seg-0071 video:interview-mcjno0xrly8@transcript:v1#seg-0073 video:predictive-history-zaer-mqe7tq@transcript:v1#seg-0043" -->
+<span id="nation-city-state-after-nation-state" class="lens-point-anchor"></span>
+City-state after the nation-state appears when giant national bodies lose coherence and smaller political communities become more plausible because they can preserve participation, agency, regime diversity, and resilience under constant political flux.
+
+The boundary matters. [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) owns the scale problem of feeding and managing huge populations. [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) owns the procedural thinning that destroys local meaning. [Civilization As Inner Order](/lens/civilization-as-inner-order/) owns older city-state worlds when they arrange a whole form of life. Nation-as-god-machine owns this successor question: what political body can still make people participate after the national body stops feeling humanly livable?
+
 ## Diagnostics
 
 Use this lens when a state, movement, or empire asks people to treat a collective body as more real than their local lives.
@@ -159,6 +173,8 @@ Ask what happens when the board loses its unifying story. If media, schools, cou
 
 Ask where the military is housed. If an army, base network, or overseas command appears to stand above politics, ask which national body supplies its weapons, factories, financing, soldiers, territory, and permission. If that body fractures, the force must either retreat inward or find another host.
 
+Ask whether the national scale still feels inhabitable. If the source frames nation-states as too large, brittle, abstract, or administratively dead, test whether smaller political forms are being imagined as a recovery of agency or as fragments produced by resource stress and political flux.
+
 ## Related Concepts
 
 - [Power As Alchemy](/lens/power-as-alchemy/) - for the root conversion by which the nation-state becomes an imagined person with real claims.
@@ -167,6 +183,7 @@ Ask where the military is housed. If an army, base network, or overseas command 
 - [Legitimacy Fiction](/lens/legitimacy-fiction/) - for titles, myths, games, and public stories that make rule feel rightful and inheritable.
 - [Eschatology As Script](/lens/eschatology/) - for sacred stories that assign end-times roles and turn prophecy into action.
 - [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) - for welfare, media, bureaucracy, and other systems when the active problem is feeding, organizing, and managing mass scale.
+- [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) - for large institutions when procedure, office, and abstract management thin local meaning and judgment.
 - [Gerontocracy As Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/) - for pensions and healthcare when care becomes age-and-asset extraction rather than national capacity.
 - [The Borderland Engine](/lens/the-borderland-engine/) - for the pressure mechanism that can create the new people or military machine before it becomes a stable center.
 - [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) - for the postwar consumer-capitalist attempt to redirect human energy away from national struggle and into the world game.
