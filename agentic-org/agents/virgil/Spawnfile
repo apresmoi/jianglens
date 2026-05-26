@@ -20,11 +20,12 @@ execution:
 
 schedule:
   kind: cron
-  cron: "*/30 * * * *"
+  cron: "*/10 * * * *"
   timezone: UTC
   prompt: Wake as Virgil. Read generated workspace context, enter
     ./repos/jiang-lens, read recent episode-floor history, and perform one
-    bounded Virgil source iteration.
+    bounded Virgil source iteration, batching straightforward semantic packets
+    when safe.
 
 workspace:
   docs:
