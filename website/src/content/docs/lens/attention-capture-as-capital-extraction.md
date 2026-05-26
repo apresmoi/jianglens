@@ -131,6 +131,10 @@ The Tocqueville lecture turns the same mechanism into a democratic social type. 
 
 This belongs here rather than as a separate middle-class page because the active mechanism is attention returning to work, wealth, display, and self-policing. The reviewed middle-class anxiety seed remains useful as a routing rule: use it when unstable rank, visible proof, fear of falling, and cultural containment all appear together. Use this attention page when anxiety becomes the energy technology that keeps focus pointed at earning, competing, accumulating, and surviving.
 
+<!-- lens-point id="middle-class-status-proof-keeps-attention-moving" concept="attention-capture" evidence="video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0024 video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0025 video:predictive-history-jz8p-fzhwnq@transcript:v1#seg-0026 video:predictive-history-ea20amyft5i@transcript:v1#seg-0046 video:predictive-history-ea20amyft5i@transcript:v1#seg-0047 video:predictive-history-ea20amyft5i@transcript:v1#seg-0048" -->
+<span id="middle-class-status-proof-keeps-attention-moving" class="lens-point-anchor"></span>
+Middle-class status proof keeps attention moving when unstable rank turns money, household order, cleanliness, accumulation, taste, achievement, and fear of falling into signs that must be renewed through work.
+
 ## The Cave And The Office
 
 The cave wall and the office do different things with the same substance. The wall asks the prisoner to stare until the shadow-world feels real. The office asks the worker to focus until the money-world feels necessary. School can be both: it teaches the measurable world as reality, trains compliance, and turns future status into the object around which attention is organized.
