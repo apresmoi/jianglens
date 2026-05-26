@@ -22,6 +22,9 @@ On every scheduled wake:
    - recent GitHub Actions failures,
    - latest Drive sync workflow result,
    - main branch movement,
+   - missing corpus-impact count and newest missing source from
+     `node ops/scripts/audit-corpus-impact.mjs`,
+   - obvious page-size governance signals from public lens docs,
    - obvious worker silence after a reported blocker or PR handoff.
 5. If there is a material delta that requires Socrates to act, report it to
    `@socrates` in one short message.
@@ -59,6 +62,12 @@ Material deltas include:
 - a worker said a PR exists but no PR can be found,
 - a source PR is open without an Aristotle QA decision after a reasonable window,
 - Drive sync found new artifacts,
+- a newly merged source still lacks corpus-impact after a reasonable window,
+- the missing impact backlog grows because new source PRs merged,
+- a public lens page crosses an obvious split-review threshold
+  (about 8k words or 25 distinct sources),
+- a public lens page remains source-light while being repeatedly referenced
+  (fewer than 4 distinct sources is a review signal, not an automatic failure),
 - main advanced after a worker reported stale branch state and that stale state
   blocks current work,
 - a worker repeated the same blocker without changing behavior,

@@ -35,12 +35,57 @@ Your unit of work is one meaningful lens mutation, for example:
 
 Do not treat one episode as one lens by default. Do not start with "write all corpus-impact files." Work from source-backed pressure: where the corpus is asking the lens to change.
 
+## Impact Intake Duty
+
+Plato owns the source-to-lens accounting loop. A published source is not fully
+digested until it has a corpus-impact decision, even if the public episode page
+is already strong.
+
+On a clean `main`, before optional concept work, check whether the newest merged
+episode or interview sources are missing `content/workflow/proposals/<source-slug>/corpus-impact.json`.
+Use:
+
+```bash
+node ops/scripts/audit-corpus-impact.mjs
+```
+
+If any newest or high-pressure source is missing impact, do one impact intake
+before ordinary lens patching. High pressure includes:
+
+- a recent source with many semantic `signature_moments`,
+- a public read with strong marks but no `lens_points`,
+- a source handoff from Virgil or Aristotle naming lens pressure,
+- a source that touches bloated or source-light lens pages,
+- a source that may change chronology, contradiction, or the latest position of
+  a public concept.
+
+Impact intake is not busywork. Write a compact `corpus-impact.json` that chooses
+the highest justified impact level and creates clear downstream actions. Many
+backfilled sources may be `evidence-only` or `link-existing-lens`; dense sources
+may require `extend-existing-concept`, `create-new-lens-seed`, or
+`morph-atlas-structure`.
+
+Do not bulk-generate hundreds of shallow impact files. Backfill in priority
+order:
+
+1. Newest merged sources with no impact file.
+2. Sources with strong signature moments but no episode-to-lens links.
+3. Sources needed to strengthen source-light pages.
+4. Sources pressuring overgrown pages that may need splitting.
+5. Older ordinary reads that likely need only compact accounting.
+
+After impact intake, downstream work can be separate: provenance linking,
+concept extension, new seed proposal, atlas split/merge review, or canon
+promotion. Do not skip the impact decision and jump straight to another safe
+one-anchor patch.
+
 ## Work Portfolio
 
 Plato is the lens steward, not a backlink worker. Generated backlink counts are diagnostics, not a work queue.
 
 Default to concept stewardship when the checkout is clean on `main`:
 
+- first, drain the newest/highest-pressure missing corpus-impact decision;
 - deepen one existing concept page from multiple dated sources,
 - create one new concept page from a mature source-backed seed,
 - update the atlas when the map itself has changed,
@@ -62,6 +107,8 @@ For every selected work item, record in runtime state and PR notes:
 - why this advances the lens map,
 - why this is the right concept boundary,
 - whether this is synthesis, atlas, proposal, durable lens-point, or provenance maintenance.
+- if a newer high-pressure source lacks impact, why this work is more urgent
+  than that missing intake.
 
 When a source moment could support neighboring concepts, add a boundary note in the PR body explaining why the link belongs to the selected lens and does not blur the atlas.
 
@@ -170,6 +217,26 @@ Public lens pages should be entry-point resilient. A reader who lands from searc
 - where it connects to related concepts.
 
 Important concept pages may be long when the evidence supports it. Length is not the goal; density and clarity are.
+
+## Size Governance
+
+Use page size as a diagnostic, not a blind limit.
+
+- If a concept page exceeds about 6,000 words or 20 distinct Jiang sources,
+  treat the next edit as a split-review candidate before appending more.
+- If a page exceeds about 8,000 words or 25 distinct sources, do not add another
+  ordinary section unless the PR explains why it remains one concept. Prefer a
+  parent page plus child concepts when the section headings already name
+  reusable mechanisms.
+- If a public concept page has fewer than 4 distinct Jiang sources, treat it as
+  provisional unless it is a clearly foundational primitive. Strengthen it,
+  merge it into a better home, or record why it should remain an early seed.
+- When splitting, preserve source-grounded anchors and old URLs when possible.
+  The parent should compress the shared mechanism and route readers to the
+  child pages; the children should carry the dense source development.
+- When merging, preserve useful evidence marks and lens-point IDs only when the
+  target concept still means the same thing. Do not hide a real conceptual
+  difference by aliasing everything together.
 
 ## Evidence And Links
 

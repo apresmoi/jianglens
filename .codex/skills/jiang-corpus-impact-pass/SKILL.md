@@ -9,6 +9,23 @@ Use this after every episode is published. Do not wait for fixed batches. Every 
 
 This skill records the impact decision. Downstream public edits belong to `jiang-provenance-linker`, `jiang-lens-concept-writer`, `jiang-lens-atlas-maintainer`, or `jiang-canon-promotion`.
 
+## Operating Modes
+
+Use this skill in two modes:
+
+- **Steady-state intake**: for a newly merged episode or interview. This is mandatory before optional lens patching. The pass may be compact, but it must account for the source.
+- **Backfill intake**: for already-published sources that predate the impact requirement. Do not bulk-write hundreds of shallow files. Triage the backlog and take one bounded source or one tightly related source cluster per run.
+
+Backfill priority:
+
+1. Newest merged sources with no impact file.
+2. Sources whose public read has strong signature moments but no `lens_points` links.
+3. Sources repeatedly referenced by source-light public lens pages.
+4. Sources that add pressure to bloated pages that may need splitting.
+5. Ordinary historical reads that likely require only `evidence-only` or `link-existing-lens`.
+
+For backfill, prefer a useful compact decision over a long essay. The goal is to close the source's accounting and create clear downstream tasks only when the source actually pressures the lens.
+
 ## Inputs
 
 - `content/lens/episodes/<source-slug>/read.json`
@@ -57,6 +74,18 @@ Use this shape:
 - `canon-candidate`
 
 Multiple arrays may be non-empty. The highest level says how strong the source impact is, not the only action allowed.
+
+## Pressure Checks
+
+Before deciding `impact_level`, compare the public read and semantic bundle against:
+
+- `signature_moments` in `content/lens/evidence/videos/<source-slug>.semantic.json`,
+- existing lens points and public concept pages,
+- topic aliases and near-duplicate topic clusters,
+- recent corpus-impact proposals,
+- the source date and any older/newer formulations of the same mechanism.
+
+If a source has vivid signature moments that are absent from both episode marks and public lens surfaces, record them as unresolved pressure in `next_actions` or `new_lens_seeds`. Do not let a source disappear just because the episode page itself is readable.
 
 ## Mutation Ladder
 
