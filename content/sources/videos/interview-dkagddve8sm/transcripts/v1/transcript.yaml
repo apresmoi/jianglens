@@ -1,0 +1,36 @@
+id: "video:interview-dkagddve8sm@transcript:v1"
+source_id: "video:interview-dkagddve8sm"
+version: 1
+language: "en"
+language_probability: 0.934
+duration_seconds: 6564.309
+segments: 186
+word_count: 17643
+speakers:
+  - "SPEAKER_00"
+  - "SPEAKER_01"
+  - "SPEAKER_02"
+  - "UNKNOWN"
+chronology:
+  source_date: "2025-10-18"
+  date_precision: "day"
+  chronology_status: "dated"
+  date_gate_passed: true
+automation:
+  canon_promotion_allowed: true
+  human_review_policy: "report-driven"
+  speaker_label_source: "diarization"
+  semantic_pass: "agent-required"
+  accepts_error_reports: true
+segmentation:
+  strategy: "word-timestamp-chunks"
+  max_words: 160
+  max_seconds: 180
+  timed_phrase_chunks: "preserved-when-word-timestamps-exist"
+generated_from:
+  source_artifact_dir: "content/sources/raw/youtube/Interviews/UCpR0MnZEfgrzYlo1QL8jv6A/DkaGDdve8SM"
+  youtube_metadata: null
+  youtube_metadata_source: null
+  transcription_json_sha256: "bbb7076015d622fc6f0d2f77fb6aa08d12f1cb0352a845e85251902058a9dc20"
+  grouped_json_sha256: "a0981dcc8615291a6eeeabf14fafe8dfde3316104943bc3d65de1f78e83f421e"
+  dump_json_sha256: "defba9eda9a23d22b52b24ff44b77e3e409a73419d63135f324a1ab4d382290c"

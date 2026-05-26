@@ -1,0 +1,173 @@
+{
+  "packet_id": "interview-dkagddve8sm-semantics-pkt-0013",
+  "source_id": "video:interview-dkagddve8sm",
+  "source_date": "2025-10-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0097",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0098"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang predicts a new generation of European Putin admirers, and the host pushes back that Western youth culture still treats Putin as a boogeyman or Hitler figure.",
+      "speaker_attribution": "Jiang and interviewer/host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0099",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0100"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that young people are losing faith in expertise and institutional authority, especially after COVID-era expert claims, and are therefore searching for ideological alternatives that figures like Putin can supply.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0101",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0102"
+      ],
+      "kind": "exchange",
+      "summary": "A host notes that many people their age are drawn to extreme politics or revived religion, while also admitting they do not personally know many Putin supporters.",
+      "speaker_attribution": "interviewer/host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0103"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the attraction is often less devotion to any one doctrine than experimental searching after authority loses legitimacy.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0104"
+      ],
+      "kind": "question",
+      "summary": "The host asks what makes the Russia-Ukraine war different from Vietnam, where an American defeat did not automatically produce a new world power.",
+      "speaker_attribution": "interviewer/host",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0101",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0102"
+      ],
+      "note": "The speaker split across seg-0101 and seg-0102 is an artifact of diarization; both segments are the same host thought.",
+      "suggested_speaker": "interviewer/host",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang predicts that Europe will produce a new generation of young Putin fans because current civil conflict and disillusionment make him attractive as a symbol.",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0097"
+      ],
+      "temporal_scope": "youth-politics prediction stated on 2025-10-18",
+      "topic_tags": ["prediction", "Europe", "youth-politics", "Putin", "Russia"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the Western world is undergoing a crisis of faith in authority and expertise, especially in the aftermath of COVID-era expert messaging.",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0099",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0100"
+      ],
+      "temporal_scope": "social diagnosis stated on 2025-10-18",
+      "topic_tags": ["authority", "expertise", "COVID", "West", "youth"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says young people are increasingly rejecting school and formal authority, while universities continue taking tuition even as their social legitimacy declines.",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0099",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0100"
+      ],
+      "temporal_scope": "institutional diagnosis stated on 2025-10-18",
+      "topic_tags": ["universities", "youth", "authority", "tuition"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that figures like Putin become compelling because distrust in mainstream authority pushes young people to seek alternatives outside establishment expertise.",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0100"
+      ],
+      "temporal_scope": "political-psychology model stated on 2025-10-18",
+      "topic_tags": ["Putin", "authority", "alternatives", "youth-politics"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says many young people experimenting with fascism, Nazism, communism, or other extremes are not committed believers so much as people testing options after legitimacy collapses.",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0103"
+      ],
+      "temporal_scope": "ideological diagnosis stated on 2025-10-18",
+      "topic_tags": ["ideology", "legitimacy", "youth-politics", "extremes"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0099"
+      ],
+      "moment": "Jiang compresses the post-COVID legitimacy crisis into a single pattern: experts kept moving the justification after each disappointment, so faith in expertise broke.",
+      "source_phrase": "the experts kept on lying and deceiving the people",
+      "why_it_matters": "This is his sharpest causal explanation for why mainstream authority no longer anchors youth politics.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0103"
+      ],
+      "moment": "He reframes extremist attraction as experimentation after legitimacy collapse rather than settled conversion to any one ideology.",
+      "source_phrase": "they know that authority is no longer legitimate",
+      "why_it_matters": "The line turns scattered ideological drift into a coherent model of post-authority political behavior.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "crisis of faith in authority",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0099",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0100"
+      ],
+      "definition_or_usage": "Jiang uses the phrase for a social condition in which institutional experts, schools, and public authorities have lost legitimacy, especially among the young.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0099",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0100",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0103"
+      ],
+      "note": "This October 2025 packet grounds Jiang's Russia thesis in a specifically post-COVID legitimacy crisis among Western youth rather than in battlefield outcomes alone.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0098"
+      ],
+      "note": "The host's phrasing is ASR-damaged, but the pushback is clear: he doubts European youth will openly embrace Putin given the strong anti-Russia ideological frame."
+    }
+  ]
+}
