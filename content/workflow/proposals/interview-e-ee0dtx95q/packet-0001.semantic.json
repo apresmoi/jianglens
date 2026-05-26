@@ -1,0 +1,189 @@
+{
+  "packet_id": "interview-e-ee0dtx95q-semantics-pkt-0001",
+  "source_id": "video:interview-e-ee0dtx95q",
+  "source_date": "2025-10-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0001",
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "A teaser clip presents Jiang's high-pressure frame: an overcommitted America can be lured into Middle East ground war, CIA-cartel conflict sits behind anti-drug rhetoric, and secret societies back Trump because they want World War Three for eschatological reasons.",
+      "speaker_attribution": "Jiang teaser monologue reused from later in the interview",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0003",
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0004"
+      ],
+      "kind": "exchange",
+      "summary": "The host dates the interview to October 24, 2025, reintroduces Jiang, and the two exchange brief greetings.",
+      "speaker_attribution": "Host introduction followed by brief greeting",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0005"
+      ],
+      "kind": "question",
+      "summary": "The host asks for an update on the Iran front after reports of war conditions and a multinational intelligence role in the prior twelve-day war.",
+      "speaker_attribution": "Host/interviewer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0006",
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0007",
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Israel and Iran are heading toward a second round, with Iran less restrained, the Strait of Hormuz as its economic trump card, and the Third Temple question raising a second path toward regional escalation.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0001",
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0002"
+      ],
+      "note": "The opening two segments are not the live start of the interview; they are a teaser excerpt drawn from later themes in Jiang's conversation.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says both Israel and Iran are committed to a second round of war and cites Trita Parsi's expectation that an attack could happen before December.",
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Interview prediction on 2025-10-25 about the coming months of 2025.",
+      "topic_tags": [
+        "Iran",
+        "Israel",
+        "war timing"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues Iran showed restraint in the twelve-day war by not using its full missile capacity and by warning the United States before striking an empty base in Qatar.",
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Retrospective assessment offered on 2025-10-25 about the prior twelve-day war.",
+      "topic_tags": [
+        "Iran",
+        "Qatar",
+        "restraint"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Israel sees the current moment as a good time to strike Iran because Hamas, Hezbollah, and the Houthis are constrained and because the United States is likely to be more supportive.",
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Interview diagnosis on 2025-10-25.",
+      "topic_tags": [
+        "Israel",
+        "Iran",
+        "proxies"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang models closure of the Strait of Hormuz as Iran's strategic trump card because it would choke the global economy and could force the United States into a Middle East ground war.",
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Strategic model presented on 2025-10-25.",
+      "topic_tags": [
+        "Strait of Hormuz",
+        "global economy",
+        "ground war"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies two major escalation questions for round two: whether Iran closes the Strait of Hormuz and whether destruction at the Temple Mount clears the way for a Third Temple project.",
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interview framing on 2025-10-25.",
+      "topic_tags": [
+        "Third Temple",
+        "Strait of Hormuz",
+        "escalation"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0007"
+      ],
+      "moment": "The Strait of Hormuz is framed as Iran's real trump card because it lets Tehran attack the world economy rather than just exchange missiles.",
+      "source_phrase": "Iran's trump card",
+      "why_it_matters": "It is the packet's central strategic image and shapes the whole interview's war model.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0008"
+      ],
+      "moment": "Jiang ties red heifers, the Third Temple, and destruction of a major Islamic holy site into the same war horizon.",
+      "source_phrase": "these are the two major questions",
+      "why_it_matters": "It preserves the interview's fusion of hard geopolitics with apocalyptic religious motive.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Strait of Hormuz as trump card",
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Jiang's term for Iran's ability to trigger a global economic choke point and thereby reshape the military escalation ladder.",
+      "confidence": "high"
+    },
+    {
+      "term": "Third Temple",
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A temple-rebuilding project Jiang treats as an active eschatological pressure inside the conflict around Israel, Iran, and Islamic holy sites.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0003",
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0006"
+      ],
+      "note": "The host explicitly dates the conversation to October 24, 2025, and Jiang's early predictions about a second round and a possible pre-December strike should be read against that date.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-e-ee0dtx95q@transcript:v1#seg-0008"
+      ],
+      "note": "ASR distorts several proper nouns in the Temple Mount passage; treat the holy-site references as approximate rather than exact wording."
+    }
+  ]
+}
