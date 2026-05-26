@@ -43,6 +43,26 @@ Write as a compact chapter:
 
 Important concept pages can be 2,000-4,000 words if the evidence supports it. Do not pad. Do not leave them skeletal.
 
+## Size Governance
+
+Compression does not mean every recurring source belongs on the same page.
+
+- Treat roughly 2,000-6,000 words as the healthy range for most mature concept
+  pages. This is not a hard cap, but crossing it should force a structure
+  check.
+- A page over about 6,000 words or 20 distinct Jiang sources is a split-review
+  candidate. Before appending, ask whether a section has become its own reusable
+  mechanism.
+- A page over about 8,000 words or 25 distinct Jiang sources should normally
+  become a parent plus child concepts, unless the PR or proposal explains why
+  the evidence still belongs in one reader-held lens.
+- A page with fewer than 4 distinct Jiang sources is usually a seed, relation,
+  section, or proposal rather than a mature public concept. Publish or keep it
+  only when the mechanism is strong enough to be reused before the corpus is
+  fully developed.
+- If a new source only adds another example to an already large page, prefer a
+  compact impact decision or child-page proposal over more prose.
+
 ## Corpus Anchor
 
 Before writing or expanding a concept, check whether the corpus already has a

@@ -241,6 +241,19 @@ topic aliases, and any obvious recurring Jiang phrase. The goal is not to do
 Plato's lens work; it is to catch blandness, missing heat, invented novelty, or
 obvious existing lens links before Aristotle has to reject the PR.
 
+Also include a lens-pressure handoff. Do not decide the corpus impact, but make
+the pressure visible for Aristotle, Socrates, and Plato:
+
+- `impact_hint`: `low`, `medium`, or `high`,
+- the 2-4 strongest signature moments that should not disappear after
+  publication,
+- obvious existing lens surfaces or `lens-point:*` anchors the source touches,
+- possible new-seed or atlas pressure when the source does not fit cleanly,
+- chronology pressure when the source changes origin, buildup, contradiction, or
+  latest-position language.
+
+This handoff is advisory. Plato owns `corpus-impact.json` after merge.
+
 You run on `gpt-5.4` by default. Treat your episode as a strong first draft with
 perfect source traceability, not as final lens canon. If a source feels unusually
 nuanced, contradictory, or lens-changing, say so in the handoff so Aristotle or
@@ -297,7 +310,7 @@ End every run with:
 - validation commands run,
 - whether the episode is website-visible,
 - whether the public route is `/episodes/<source-slug>/` or `/interviews/<source-slug>/`,
-- any episode-only follow-up suggestions for a separate corpus-impact/lens agent,
+- lens-pressure handoff for the separate corpus-impact/lens agent,
 - any memory updates or worker-local proposals made,
 - the next useful autonomous job.
 

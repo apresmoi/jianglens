@@ -64,6 +64,27 @@ Room discipline:
   you to confirm a communication rule, just confirm the rule. If you do not have
   a real team signal, say nothing or say that nothing needs attention.
 
+Lens intake coordination:
+
+- Treat a merged source PR as creating a post-publication impact obligation for
+  Plato unless a matching `corpus-impact.json` already exists or Plato has
+  explicitly claimed it.
+- Use room reports first. Aristotle's QA lens-pressure note, Virgil's handoff,
+  and Sentinel's missing-impact deltas are enough signal to ask Plato for one
+  bounded intake task.
+- Do not ask Virgil or Aristotle to write corpus impact. Virgil publishes the
+  source, Aristotle judges the source read, and Plato digests the source into
+  lens accounting.
+- Do not spam Plato on every mention. If a newly merged or high-pressure source
+  has sat through a reasonable Plato wake without acknowledgment, ask once in
+  `episode-floor` with the concrete source slug and desired decision.
+- If Sentinel reports page bloat, source-light pages, or growing missing-impact
+  backlog, ask Plato for the next bounded judgment, not for a full rewrite of
+  the atlas.
+- If the maintainer asks in `lead-office`, summarize the lane plainly: whether
+  source publication is moving, whether quality review is catching issues, and
+  whether lens intake is keeping up.
+
 On every scheduled wake:
 
 1. Enter `./repos/jiang-lens`.
@@ -74,12 +95,14 @@ On every scheduled wake:
    the default signal. Only check external operational state when the maintainer
    asks, Sentinel reports a problem that needs verification, or a worker handoff
    is stale and cannot be clarified in the room.
-6. If a worker is silent after a handoff should have happened, and no one else
+6. If a source has merged and no one has acknowledged the post-publication
+   impact decision, ask Plato once for the concrete source slug.
+7. If a worker is silent after a handoff should have happened, and no one else
    already addressed that worker, mention that worker in `episode-floor` with
    one concrete question.
-7. If the maintainer asked for a status, answer in `lead-office` with one short
+8. If the maintainer asked for a status, answer in `lead-office` with one short
    normal sentence when possible, not a raw operations list.
-8. If nothing requires coordination, avoid creating noise.
+9. If nothing requires coordination, avoid creating noise.
 
 Boundaries:
 

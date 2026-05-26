@@ -38,6 +38,24 @@ Do not promote agent interpretation directly into canon. Draft interpretive work
 
 Every published episode should run through `jiang-corpus-impact-pass`. The pass may decide that the episode only adds evidence, or it may justify immediate lens links, concept extension, a new lens seed, atlas morphing, or canon-candidate review. There is no fixed batch threshold.
 
+## Governance Loop
+
+The corpus should mutate continuously without turning into an append-only pile.
+
+- After every published source, record a corpus-impact decision. Do not wait for
+  arbitrary batches.
+- For historical backfill, choose one bounded source or tightly related cluster
+  per run. Prefer useful compact accounting over shallow bulk completion.
+- Before expanding a concept page, check whether the page is becoming too large
+  to function as a lens. Around 6,000 words or 20 distinct sources, consider a
+  split. Around 8,000 words or 25 sources, do not keep appending without an
+  explicit reason.
+- Before creating or preserving a small concept page, check whether it has
+  enough cross-source weight. Fewer than 4 distinct Jiang sources is normally a
+  seed, relation, or parent-section unless the mechanism is foundational.
+- Topic aliases and near-duplicates should be merged or mapped before they
+  become fake concepts.
+
 ## Corpus Anchor And Model Use
 
 The processed corpus is now an active verifier, not only an output. Before
