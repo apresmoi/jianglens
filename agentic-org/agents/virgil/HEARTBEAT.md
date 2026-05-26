@@ -12,6 +12,11 @@ On an autonomous wake:
 8. Create a source-scoped branch.
 9. Update `current.json` at stage boundaries with source, branch, stage, and next checkpoint.
 10. Run the source E2E process until the next concrete blocker is resolved.
+    During `pending-agent-packets`, process up to three straightforward
+    semantic packets in one wake if each packet validates cleanly and the
+    transcript slices do not introduce ambiguity. Stop after one packet if the
+    packet has source noise, contradiction pressure, uncertain speaker
+    attribution, or unclear public-read implications.
 11. Run the corpus-anchor check against strong existing reads, semantic
     signature moments, existing lens pages, and topic aliases.
 12. Validate.
@@ -33,9 +38,11 @@ Skill rule: do not edit `.codex/skills/**`. Propose skill or shared-process
 changes under `repos/jiang-lens/agentic-org/agents/virgil/proposals/` from workspace root, or in PR notes.
 
 Scheduling rule: this wake is created by Picoclaw native cron. Maintain exactly
-one recurring agent-turn job named `virgil-source-drain`. When the
-episode or interview backlog has ready sources, the default cadence is every 30
-minutes and each wake processes one source or resumes the in-progress source.
+one recurring agent-turn job named `virgil-source-drain`. When the episode or
+interview backlog has ready sources, the default cadence is every 10 minutes
+and each wake processes one source or resumes the in-progress source. Packet
+stage wakes may batch up to three straightforward semantic packets as described
+above; non-packet stages remain one bounded stage per wake.
 When both backlogs are empty, report the idle state once and propose dropping
 back to a daily maintenance cadence. Do not create duplicate autonomy jobs and
 do not schedule shell-command cron jobs unless a maintainer explicitly asks.
