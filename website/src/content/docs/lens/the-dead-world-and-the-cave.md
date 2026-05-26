@@ -7,15 +7,17 @@ description: A Jiang Lens concept page on false material reality, attention capt
 
 The dead world is not just boredom, disenchantment, or the feeling that modern life is spiritually thin. It is a false reality that teaches people to mistake the measurable surface for the whole of existence. In this world, reality is [what can be seen, observed, and measured]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001"}, and the rest of being human becomes embarrassing, optional, or unreal.
 
-In this lecture, the dead world first appears through school. The school picture says the person is an evolved body in a material universe. Jiang calls that picture [the great lie, the great deception]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001"} because it cannot answer the questions it most needs to answer: What is consciousness? How do ideas appear? How do people communicate meaning? What does it mean to be human? The lie is not only that the answer is wrong. It is that the deepest questions are made unavailable.
+The earliest current source trail gives the premise as a scientific school story. In the **2025-10-15** Secret History lecture, Jiang compresses the modern worldview into three axioms: [reality is random, material, and emergent]{evidence="video:predictive-history-9murgjjg4aa@transcript:v1#seg-0004 video:predictive-history-9murgjjg4aa@transcript:v1#seg-0005"}. God, spirit, and top-down design disappear; what cannot be seen, touched, or measured is treated as if it does not exist.
+
+In **2026-01-07** Great Books #1, the same dead world appears through school. The school picture says the person is an evolved body in a material universe. Jiang calls that picture [the great lie, the great deception]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001"} because it cannot answer the questions it most needs to answer: What is consciousness? How do ideas appear? How do people communicate meaning? What does it mean to be human? The lie is not only that the answer is wrong. It is that the deepest questions are made unavailable.
 
 Against that picture, the lecture restores the forbidden terms. A person has [a body and also a soul]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0002"}. Love is not a private sentiment but a unifying force; imagination is not fantasy but an animating force. To love is to unify with God, and to imagine is to [expand consciousness]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0002"}. The reversal is metaphysical: [the universe is not material, it is conscious]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0003"}. Later in the same lecture the formula becomes harsher: [consciousness is real and the material is false]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0030"}.
 
 So the dead world is dead because it treats the living substance of reality as secondary. It lets the person function, compete, earn, consume, pass exams, and ask machines for answers while cutting the person off from soul, love, imagination, God, and the freedom to see reality otherwise.
 
-<!-- lens-point id="dead-world-material-lie" concept="dead-world-cave" evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0002" -->
+<!-- lens-point id="dead-world-material-lie" concept="dead-world-cave" evidence="video:predictive-history-9murgjjg4aa@transcript:v1#seg-0004 video:predictive-history-9murgjjg4aa@transcript:v1#seg-0005 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0002" -->
 <span id="dead-world-material-lie" class="lens-point-anchor"></span>
-The dead world begins when school materialism treats the measurable body as the whole person and makes consciousness, soul, love, imagination, and meaning unavailable as serious questions.
+The dead world begins when school or scientific materialism treats the measurable surface as the whole person and world, making consciousness, soul, love, imagination, spirit, and meaning unavailable as serious questions.
 
 ## The Lie That Calls Itself Reality
 
@@ -93,7 +95,7 @@ That discomfort is part of the concept. If the idea becomes only "modern media d
 
 ## Death Fear Enforces The Machine
 
-The later **2025-10-15** "theory of everything" lecture intensifies the death claim into a control mechanism. Jiang's cosmology is speculative and deliberately mythic, but the lens point is precise: power does not only build a false material world. It has to make people afraid to leave it.
+The **2025-10-15** "theory of everything" lecture also intensifies the death claim into a control mechanism. Jiang's cosmology is speculative and deliberately mythic, but the lens point is precise: power does not only build a false material world. It has to make people afraid to leave it.
 
 In that source, heaven is spiritual consciousness and hell is mechanical machine. The actors who choose hell gain technology, conquest, and control, but control still needs obedience. Jiang's next step is the enforcement layer: [obedience requires fear of death]{evidence="video:predictive-history-9murgjjg4aa@transcript:v1#seg-0046"}. If death is only a transition, release, or return, the machine loses leverage. The person who knows that "none of this matters" cannot be governed by the threat that ordinary life might end.
 
@@ -153,6 +155,7 @@ The positive telos is eudaimonia. The point is not to exit the cave into private
 
 ## Chronology So Far
 
+- **2025-10-15**, [Secret History #9: The Theory of Everything](/episodes/predictive-history-9murgjjg4aa/): The earlier formulation names the scientific worldview as [random, material, and emergent]{evidence="video:predictive-history-9murgjjg4aa@transcript:v1#seg-0004 video:predictive-history-9murgjjg4aa@transcript:v1#seg-0005"}, then turns materialism into control by teaching [fear of death and forgetfulness of divinity]{evidence="video:predictive-history-9murgjjg4aa@transcript:v1#seg-0046 video:predictive-history-9murgjjg4aa@transcript:v1#seg-0047"}.
 - **2026-01-07**, [Great Books #1: Secrets of the Universe](/episodes/predictive-history-tsd-8fga84a/): The lecture gives the founding structure. School materialism is named as [the great lie]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0001"}, Plato's cave becomes a modern theory of [captured attention and imagination]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011"}, the old world becomes [a corpse, a dead zombie world]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0021"}, and the Great Books become [contained universes for liberation]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0032 video:predictive-history-tsd-8fga84a@transcript:v1#seg-0048"}.
 
 ## Reader Diagnostics
