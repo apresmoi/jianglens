@@ -1,0 +1,201 @@
+{
+  "packet_id": "interview-xcdhfrp4wyi-semantics-pkt-0002",
+  "source_id": "video:interview-xcdhfrp4wyi",
+  "source_date": "2025-10-11",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0009",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0010",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0011",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0012",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0013",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0014"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang explains that the livestream is a trial run and lays out its three purposes: to deepen understanding of prior videos, to slowly reveal how he solves problems, and to build a global intellectual movement that works together as conditions worsen; the host briefly celebrates the audience for smashing the viewer cap, and Jiang replies that the community already feels like the nucleus of a movement.",
+      "speaker_attribution": "Jiang monologue interrupted by a short host update and Jiang's reply.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0015"
+      ],
+      "kind": "question",
+      "summary": "The moderator reads a viewer question from Brazil asking what Russia's future will be after Putin and whether a successor will continue or destabilize his legacy.",
+      "speaker_attribution": "Moderator relaying a viewer question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang begins his answer by calling Putin the world's most impressive current statesman and arguing that Russia's structural weakness makes succession especially dangerous because no clear replacement exists.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0013"
+      ],
+      "note": "The host interruption about viewer boosts is a continuous continuation of the prior logistics thread, not a new substantive question.",
+      "suggested_speaker": "host or moderator",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the livestream is a trial run that will likely recur every two weeks and perhaps eventually every week.",
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Forward-looking livestream plan stated on 2025-10-11.",
+      "topic_tags": [
+        "livestream-schedule",
+        "community"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the first purpose of the livestream is educational: to deepen viewers' understanding of topics already presented in his videos.",
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Programmatic claim on 2025-10-11.",
+      "topic_tags": [
+        "education",
+        "livestream-purpose",
+        "videos"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the second purpose is to explain his own problem-solving and analytical process so viewers can better understand the world.",
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0010",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Programmatic claim on 2025-10-11.",
+      "topic_tags": [
+        "method",
+        "analysis",
+        "education"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the most important purpose is to build a global intellectual movement that can work as a community toward solving the world's most pressing problems as conditions worsen.",
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Programmatic claim on 2025-10-11.",
+      "topic_tags": [
+        "global-intellectual-movement",
+        "community",
+        "world-crisis"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "After the audience quickly raises the viewer cap, Jiang says the emerging community already feels strong enough to become a nucleus for a powerful global movement.",
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0013",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Immediate community assessment on 2025-10-11.",
+      "topic_tags": [
+        "community",
+        "movement",
+        "viewer-boosts"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Putin is the most impressive statesman in the world because he has taken a structurally limited Russia far beyond its normal capabilities.",
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Geopolitical judgment voiced on 2025-10-11.",
+      "topic_tags": [
+        "putin",
+        "russia",
+        "statesmanship"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says great leaders who push weak states beyond their limits create succession crises because there is no obvious replacement plan for them.",
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "General model applied to Russia on 2025-10-11.",
+      "topic_tags": [
+        "succession",
+        "great-leaders",
+        "russia"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0011"
+      ],
+      "moment": "The livestream is framed not as a fan event but as the seed of a global intellectual movement trying to solve history's worst problems together.",
+      "source_phrase": "build a global intellectual movement",
+      "why_it_matters": "It gives the interview its founding-community pressure instead of treating the session as casual Q&A.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0014"
+      ],
+      "moment": "Jiang treats the audience surge as proof that a powerful movement nucleus already exists.",
+      "source_phrase": "a nucleus for a very powerful global movement",
+      "why_it_matters": "This preserves the source's social ambition, which later shapes the community-oriented read.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "global intellectual movement",
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Jiang's name for the community he wants to build so people can solve worsening world problems together.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0009",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0011"
+      ],
+      "note": "This 2025-10-11 source records Jiang at a very early public-community stage: he has just arrived in Toronto from Beijing and is framing recurring livestreams as infrastructure for a larger movement.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0009"
+      ],
+      "note": "The ASR phrase 'Better Tasting live stream' is clearly corrupted and appears to refer to beta-testing or trial-running the format, so the packet preserves only the clear trial-run meaning."
+    }
+  ]
+}

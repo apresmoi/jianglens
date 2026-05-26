@@ -1,0 +1,140 @@
+{
+  "packet_id": "interview-xcdhfrp4wyi-semantics-pkt-0001",
+  "source_id": "video:interview-xcdhfrp4wyi",
+  "source_date": "2025-10-11",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0001",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0002",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0003",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0004",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0005"
+      ],
+      "kind": "exchange",
+      "summary": "The host team opens the first live stream, explains that submitted questions are grouped into current-events, broader predictive-history, and community categories, and then hands the floor to Jiang.",
+      "speaker_attribution": "Host/moderator exchange with Jiang's brief opening greeting.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0006",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0007",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang interrupts the handoff to ask about a possible Discord viewer cap, and the moderator explains that the room may have hit a 150-person limit that can only be raised through boosts.",
+      "speaker_attribution": "Jiang asking Jake or the moderator about livestream logistics, followed by a moderator answer; seg-0008 is an uncertain brief acknowledgment.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0001",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0002",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0003"
+      ],
+      "note": "The opening diarization labels do not map cleanly to names, but context makes the role structure clear: Jiang thanks Jake, then a host/moderator explains the event format.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0008"
+      ],
+      "note": "The single-word UNKNOWN segment is only a brief acknowledgment and does not need stronger attribution for episode use.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The livestream is deliberately structured around three question buckets: immediate questions about the latest video, broader predictive-history or game-theory questions, and meta questions about the community.",
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Opening format explanation on 2025-10-11.",
+      "topic_tags": [
+        "livestream-format",
+        "community",
+        "predictive-history"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "The hosts planned to monitor live chat for follow-up questions in addition to the pre-submitted survey questions.",
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Opening event logistics on 2025-10-11.",
+      "topic_tags": [
+        "chat",
+        "follow-up-questions",
+        "livestream-format"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "A Discord attendee cap appears to have constrained the first livestream to about 150 viewers unless participants used server boosts to raise the limit.",
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0006",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Real-time livestream logistics on 2025-10-11.",
+      "topic_tags": [
+        "discord",
+        "viewer-cap",
+        "livestream-logistics"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The hosts describe the event as the channel's first livestream.",
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Opening framing on 2025-10-11.",
+      "topic_tags": [
+        "first-livestream",
+        "channel-growth"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [],
+  "glossary_terms": [
+    {
+      "term": "Discord boosts",
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The paid Discord mechanism the moderator says can raise the room's attendee cap during the live event.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0002",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0007"
+      ],
+      "note": "These opening segments establish the source as the community's first livestream and record the immediate Discord-cap bottleneck that shaped the start of the session.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0004",
+        "video:interview-xcdhfrp4wyi@transcript:v1#seg-0005"
+      ],
+      "note": "The brief 'Yeah, it sounds great' and 'hand it over' turns are role-clear but name-unclear, so the packet treats them as host-side logistics rather than over-assigning identities."
+    }
+  ]
+}
