@@ -1,0 +1,209 @@
+{
+  "packet_id": "interview-dkagddve8sm-semantics-pkt-0012",
+  "source_id": "video:interview-dkagddve8sm",
+  "source_date": "2025-10-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0089"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees that the dissatisfied Venezuelan bloc the host is describing is primarily the middle class.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0090",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0092"
+      ],
+      "kind": "question",
+      "summary": "The host pivots to de-dollarization and asks whether BRICS can build a credible alternative to the Bretton Woods dollar order despite internal rivalry.",
+      "speaker_attribution": "interviewer/host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0091"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang briefly corrects the host's name for Bretton Woods before answering the larger currency question.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0093",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0094"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues that the U.S. dollar persists because reserve-currency use is a deeply entrenched global habit, and he rejects BRICS as a workable replacement because its members will not subordinate themselves to one another.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0095"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether any rival power exists that could support a currency capable of overtaking the dollar.",
+      "speaker_attribution": "interviewer/host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0096"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Russia is the only plausible candidate because he expects it to win in Ukraine and expand its influence across Europe through soft power centered on Putin's image.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0090",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0092"
+      ],
+      "note": "The host says 'Brenton woods,' but the intended reference is clearly the Bretton Woods order.",
+      "suggested_speaker": "interviewer/host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0093"
+      ],
+      "note": "The ASR renders BRICS as 'breaks' at points in Jiang's answer, but the referent is clear from the host's question and Jiang's response.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says global reliance on the U.S. dollar persists because repeated use has turned it into a durable habit that is very hard for the world to break.",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0093",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0094"
+      ],
+      "temporal_scope": "reserve-currency diagnosis stated on 2025-10-18",
+      "topic_tags": ["US-dollar", "reserve-currency", "habit", "Bretton-Woods"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the world is stuck with the U.S. dollar for a long time and does not see BRICS as a viable reserve-currency alternative.",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0093",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0094"
+      ],
+      "temporal_scope": "currency prediction stated on 2025-10-18",
+      "topic_tags": ["prediction", "US-dollar", "BRICS", "reserve-currency"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that BRICS cannot produce a shared reserve currency because its member states will not agree to subordinate their economies to one another.",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "institutional diagnosis stated on 2025-10-18",
+      "topic_tags": ["BRICS", "India", "China", "Russia", "reserve-currency"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says decades of habit made other countries willing to subordinate their economies to the Americans, and that inherited pattern is what keeps dollar hegemony intact.",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0094"
+      ],
+      "temporal_scope": "historical diagnosis stated on 2025-10-18",
+      "topic_tags": ["US-dollar", "hegemony", "habit", "subordination"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies Russia as the only possible challenger at the world-power level because he expects Russia to win the Ukraine war and expand its influence across Europe.",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "geopolitical prediction stated on 2025-10-18",
+      "topic_tags": ["prediction", "Russia", "Ukraine-war", "Europe", "soft-power"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Putin's image as a fearless, victorious leader is becoming a soft-power asset that can make Russia geopolitically attractive well beyond military performance.",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "soft-power diagnosis stated on 2025-10-18",
+      "topic_tags": ["Putin", "soft-power", "Russia", "charisma"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0093",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0094"
+      ],
+      "moment": "Jiang treats dollar supremacy less as a rational contract than as a stubborn civilizational habit the world cannot easily quit.",
+      "source_phrase": "the habit of the world is to use the U.S. dollar and habits are very hard to break",
+      "why_it_matters": "This is his cleanest compression of why he thinks de-dollarization talk outruns actual structural change.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0096"
+      ],
+      "moment": "He presents Putin as a soft-power superstar whose willingness to stare down the American military becomes political theater for the world.",
+      "source_phrase": "Putin is a soft power genius",
+      "why_it_matters": "The line shows how Jiang connects personality cult, geopolitical perception, and potential currency realignment.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Bretton Woods",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0090",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0091"
+      ],
+      "definition_or_usage": "The host and Jiang use Bretton Woods as shorthand for the dollar-centered postwar monetary order.",
+      "confidence": "high"
+    },
+    {
+      "term": "reserve currency",
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0092",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0093"
+      ],
+      "definition_or_usage": "Jiang discusses reserve currency status as a function of entrenched global use and political subordination, not just formal economic design.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0093",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0094",
+        "video:interview-dkagddve8sm@transcript:v1#seg-0096"
+      ],
+      "note": "This October 2025 packet ties Jiang's de-dollarization skepticism to a contemporaneous expectation that Russia will emerge from the Ukraine war with rising European soft power.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-dkagddve8sm@transcript:v1#seg-0096"
+      ],
+      "note": "The ASR around the 'Alaska meeting' and 'Povonos breakthrough' is damaged, but Jiang's underlying point is that recent Russia-related optics and battlefield momentum are raising Putin's prestige."
+    }
+  ]
+}
