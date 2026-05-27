@@ -1,0 +1,182 @@
+{
+  "packet_id": "interview-vslrlvctwra-semantics-pkt-0015",
+  "source_id": "video:interview-vslrlvctwra",
+  "source_date": "2025-10-02",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0113",
+        "video:interview-vslrlvctwra@transcript:v1#seg-0114",
+        "video:interview-vslrlvctwra@transcript:v1#seg-0115"
+      ],
+      "kind": "answer",
+      "summary": "Jiang concludes his Bitcoin answer by pointing to the Winklevoss settlement as circumstantial evidence that insiders understood Bitcoin's real design, then identifies the CIA and Pentagon as the only beneficiaries he sees behind the system.",
+      "speaker_attribution": "Jiang with brief host overlap",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0115",
+        "video:interview-vslrlvctwra@transcript:v1#seg-0116"
+      ],
+      "kind": "exchange",
+      "summary": "Peter offers Daniel a chance for a quick follow-up, and Daniel says the answer was enlightening and that he mainly wanted a broader view.",
+      "speaker_attribution": "Peter Limberg and Daniel",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0117",
+        "video:interview-vslrlvctwra@transcript:v1#seg-0118",
+        "video:interview-vslrlvctwra@transcript:v1#seg-0119"
+      ],
+      "kind": "exchange",
+      "summary": "Peter invites final remarks, Jiang declines an extended closing statement beyond gratitude for the community and questions, and Peter closes by inviting future appearances and directing listeners to Jiang's channel, Substack, and Stoa course.",
+      "speaker_attribution": "Peter Limberg and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0114",
+        "video:interview-vslrlvctwra@transcript:v1#seg-0115"
+      ],
+      "note": "The transcript boundary splits Jiang's trailing sentence across seg-0114 and Peter's uptake in seg-0115; the beneficiary identification is still clear from the combined exchange.",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang treats the Winklevoss twins' decision to put their Facebook settlement into Bitcoin as evidence that informed insiders knew what Bitcoin was designed to do and who stood behind it.",
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0113"
+      ],
+      "temporal_scope": "Interview interpretive claim on 2025-10-02.",
+      "topic_tags": [
+        "Winklevoss",
+        "Bitcoin",
+        "insider-knowledge",
+        "Facebook"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Bitcoin is the biggest scam out there and insists the real answer to who funded and benefits from it is the CIA and the Pentagon.",
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0113",
+        "video:interview-vslrlvctwra@transcript:v1#seg-0114",
+        "video:interview-vslrlvctwra@transcript:v1#seg-0115"
+      ],
+      "temporal_scope": "Interview diagnosis on 2025-10-02.",
+      "topic_tags": [
+        "Bitcoin",
+        "CIA",
+        "Pentagon",
+        "scam"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Daniel signals that he was seeking a broader interpretive frame rather than a narrow technical answer and that Jiang's explanation satisfied that aim.",
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0116"
+      ],
+      "temporal_scope": "Audience response on 2025-10-02.",
+      "topic_tags": [
+        "Daniel",
+        "audience-response",
+        "Bitcoin",
+        "broad-view"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's only closing remark is gratitude for the community and for the quality of the questions, indicating that he lets the host handle the formal conclusion.",
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0118"
+      ],
+      "temporal_scope": "Interview closing on 2025-10-02.",
+      "topic_tags": [
+        "community",
+        "gratitude",
+        "closing"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Peter closes by inviting Jiang back, directing listeners to Predictive History outlets, and linking the conversation to a Stoa course, which frames the event as both interview and audience funnel.",
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0119"
+      ],
+      "temporal_scope": "Host close on 2025-10-02.",
+      "topic_tags": [
+        "Stoa",
+        "Predictive-History",
+        "Substack",
+        "course"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0113"
+      ],
+      "moment": "The Winklevoss Bitcoin bet is repurposed into a clue that the supposedly open technology had hidden sovereign backers from the start.",
+      "source_phrase": "they spent every single cent of that settlement on bitcoin",
+      "why_it_matters": "It is Jiang's chosen concrete hook for turning a conspiracy argument into a social inference.",
+      "tone": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0113",
+        "video:interview-vslrlvctwra@transcript:v1#seg-0115"
+      ],
+      "moment": "The whole argument snaps into a final accusatory answer: the beneficiaries are the CIA and the Pentagon.",
+      "source_phrase": "that's the only answer",
+      "why_it_matters": "It is the culminating line of the Bitcoin passage and the packet's hottest claim.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0118"
+      ],
+      "moment": "After extreme claims about power and surveillance, Jiang ends not with one more theory but with simple gratitude toward the room.",
+      "source_phrase": "you guys great questions",
+      "why_it_matters": "It preserves the tonal drop from apocalyptic interpretive pressure to human-scale closure.",
+      "tone": "closing",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0113",
+        "video:interview-vslrlvctwra@transcript:v1#seg-0118",
+        "video:interview-vslrlvctwra@transcript:v1#seg-0119"
+      ],
+      "note": "The interview closes on 2025-10-02 with Jiang's strongest Bitcoin accusation immediately followed by a low-key communal sign-off, so the source ends on a combination of high-conspiracy interpretive heat and ordinary relational warmth.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-vslrlvctwra@transcript:v1#seg-0113",
+        "video:interview-vslrlvctwra@transcript:v1#seg-0115"
+      ],
+      "note": "The Bitcoin-financing story is Jiang's sourced interview claim, and the seg-0114/seg-0115 handoff slightly blurs whether Peter is echoing or completing Jiang's final sentence."
+    }
+  ]
+}
