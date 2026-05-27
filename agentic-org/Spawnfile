@@ -14,6 +14,12 @@ shared:
         branch: main
         mount: ./repos/jiang-lens
         mode: mutable
+      - id: runtime-secrets
+        kind: volume
+        name: jiang-lens-runtime-secrets
+        mount: /var/lib/spawnfile/secrets
+        mode: mutable
+        sharing: team
     skills:
       - ref: ../.codex/skills/moltnet
       - ref: ../.codex/skills/jiang-autonomous-work-protocol
