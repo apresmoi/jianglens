@@ -241,6 +241,14 @@ and diarization artifacts are already committed. Do not use `yt-dlp` to download
 audio or video, and do not treat metadata-only gaps as Colab blockers unless the
 importer still fails after the fallback is available.
 
+If YouTube rejects metadata-only requests, check whether the runtime has a cookie
+file at `$JIANGLENS_YOUTUBE_COOKIES_FILE`, `$YOUTUBE_COOKIES_FILE`, or
+`/var/lib/spawnfile/secrets/youtube.com_cookies.txt`. The importer uses those
+paths automatically, or accepts `--youtube-cookies PATH`. Never print the cookie
+contents and never commit cookie files. If the cookie-backed fallback still
+fails, stop retrying that source until `metadata.youtube.json` is committed or a
+maintainer explicitly asks for another probe.
+
 If it reports `pending-boundary-review`, use `jiang-transcript-boundary-review` and write only boundary decisions.
 
 If it reports `pending-agent-packets`, use `jiang-agent-transcript-pass` and produce exact-ref semantic JSON packets. Treat diarization as a hint, not truth.

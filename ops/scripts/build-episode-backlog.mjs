@@ -197,18 +197,22 @@ async function main() {
   await writeFile(outJson, `${JSON.stringify(backlog, null, 2)}\n`);
   await writeFile(outTsv, [
     'order\tsource_class\tchannel_path\tplaylist_index\tvideo_id\tsource_slug\timported\tdiarization\tduration\ttitle',
-    ...videos.map((video, index) => [
-      index + 1,
-      video.source_class,
-      video.channel_path,
-      video.playlist_index ?? '',
-      video.video_id,
-      video.source_slug,
-      video.imported_source ? 'yes' : 'no',
-      video.diarization ? 'yes' : 'no',
-      video.duration_string ?? '',
-      String(video.title ?? '').replaceAll('\t', ' '),
-    ].join('\t')),
+    ...videos.map((video, index) => {
+      const cells = [
+        index + 1,
+        video.source_class,
+        video.channel_path,
+        video.playlist_index ?? '',
+        video.video_id,
+        video.source_slug,
+        video.imported_source ? 'yes' : 'no',
+        video.diarization ? 'yes' : 'no',
+        video.duration_string ?? '',
+        String(video.title ?? '').replaceAll('\t', ' '),
+      ];
+      while (cells.length > 0 && cells[cells.length - 1] === '') cells.pop();
+      return cells.join('\t');
+    }),
   ].join('\n') + '\n');
 
   console.log(JSON.stringify({
