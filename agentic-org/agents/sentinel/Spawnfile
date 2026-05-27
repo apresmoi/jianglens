@@ -20,7 +20,7 @@ execution:
 
 schedule:
   kind: cron
-  cron: "*/30 * * * *"
+  cron: "17,47 * * * *"
   timezone: UTC
   prompt: "Wake as Sentinel. Read generated workspace context, enter ./repos/jiang-lens, inspect only shared/public state, and report to @socrates in episode-floor only when Socrates needs to act. Do not send healthy heartbeats or repeat facts already posted by teammates. Do not inspect other agents' private workspaces."
 
