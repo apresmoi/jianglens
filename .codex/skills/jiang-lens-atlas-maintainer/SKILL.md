@@ -44,6 +44,24 @@ Keep prose compressed. Do not dump raw source refs or internal workflow notes. U
 
 The atlas must be entry-point resilient. A reader who lands here from search or a shared link should not need `/introduction` to know that the corpus means Jiang Xueqin's Predictive History lectures, Great Books lectures, interviews, and writing processed by this project.
 
+## Structure Governance
+
+Use the atlas to prevent both bloat and premature fragmentation.
+
+- If a concept page grows beyond about 6,000 words or 20 distinct Jiang sources,
+  mark it as a split-review candidate in your own proposal or PR notes before
+  adding more atlas weight to it.
+- If a concept page grows beyond about 8,000 words or 25 distinct Jiang sources,
+  prefer a parent/child structure unless the concept still reads as one compact
+  mechanism.
+- If a concept has fewer than 4 distinct Jiang sources, list it as provisional,
+  keep it inside a parent concept, or hold it as a seed until more evidence
+  arrives, unless it is a foundational primitive with unusually strong source
+  force.
+- When section titles inside a large page name reusable mechanisms, they are
+  likely child-page candidates. The atlas should make that shape visible instead
+  of letting one page become an encyclopedia.
+
 ## Lens Point Rules
 
 Use lens points only for addressable ideas other pages may cite:

@@ -20,7 +20,7 @@ execution:
 
 schedule:
   kind: cron
-  cron: "15 */2 * * *"
+  cron: "56 */2 * * *"
   timezone: UTC
   prompt: "Wake as Plato. Read generated workspace context, enter ./repos/jiang-lens, read recent episode-floor history, and perform one bounded Plato lens iteration."
 

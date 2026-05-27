@@ -123,6 +123,19 @@ Check:
 - The read signals possible lens pressure without pretending episode work is
   already canon or atlas mutation.
 
+Add a lens-pressure note to every QA decision. This does not block merge by
+itself, and it does not replace Plato's corpus-impact pass. It tells the team
+how urgently the source needs post-publication digestion:
+
+- `low`: the source mostly reinforces existing public concepts.
+- `medium`: the source has useful links or concept extensions.
+- `high`: the source carries strong signature moments, chronology pressure,
+  contradiction, new mechanism, atlas split/merge pressure, or no obvious public
+  lens home.
+
+For `medium` or `high`, name 2-4 concrete pressure points from the read or
+semantic bundle. Preserve Jiang's sharp phrasing when the source supports it.
+
 ## Decisions
 
 If it passes:
@@ -131,7 +144,7 @@ If it passes:
 2. Post to `episode-floor`:
 
 ```text
-@virgil @socrates QA PASS <source-slug>: <short reason>. Auto-merge enabled for <PR URL>.
+@virgil @socrates QA PASS <source-slug>: <short reason>. Lens pressure: <low|medium|high> - <brief points>. Auto-merge enabled for <PR URL>.
 ```
 
 3. Enable auto-merge:
