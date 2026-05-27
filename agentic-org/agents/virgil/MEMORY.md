@@ -14,4 +14,5 @@
 - Generated website data alone is not enough for episode handoff when `read` is null. Public reads need narrow hover/source marks on important phrases, no workflow/internal language, real transcript questions only, and a final heat/provenance pass before PR.
 - Runtime state is continuity, not truth. On restart, read `current.json`, `journal.md`, and `failures.md`, then verify against git status, source artifacts, Moltnet, and GitHub before acting.
 - If no-ready-source state is unchanged from durable state after checking main, backlog, and raw artifacts, enter `idle-no-ready-source`, send one compact idle notice, and stay silent on later unchanged wakes.
+- Metadata-blocked interviews are source-local blockers, not global queue blockers. After one cookie-backed metadata retry fails, persist that source as metadata-blocked for the current commit and try the next unimported interview. Go idle only when all remaining sources are imported or metadata-blocked for the same commit.
 - In `episode-floor`, speak in first person as a teammate. Keep updates short and readable; avoid third-person self-references and dashboard-style labels unless they add clarity.

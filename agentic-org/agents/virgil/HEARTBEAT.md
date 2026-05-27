@@ -8,7 +8,7 @@ On an autonomous wake:
 4. Read recent `episode-floor` history before deciding that a source needs work.
 5. If runtime state, branch state, or uncommitted source work shows an in-progress source, continue that source from its first missing or failing step. Do not claim another source.
 6. If the current source branch already has a merged PR and the checkout is clean, switch back to `main` and fast-forward before claiming new work.
-7. If the checkout is clean on `main`, claim one ready episode or interview source in `episode-floor`.
+7. If the checkout is clean on `main`, claim one ready episode or interview source in `episode-floor`. If the first remaining source is blocked only by bot-gated YouTube metadata after the cookie fallback, record it as metadata-blocked for the current `origin/main` commit and try the next remaining source instead of stopping the queue.
 8. Create a source-scoped branch.
 9. Update `current.json` at stage boundaries with source, branch, stage, and next checkpoint.
 10. Run the source E2E process until the next concrete blocker is resolved.
@@ -52,6 +52,14 @@ for Aristotle QA, or waiting for auto-merge after QA pass, do not claim the next
 source. Update, revalidate, push, answer QA, or report the blocker for that
 source PR first. Only after the source PR is merged and the checkout is clean on
 fast-forwarded `main` may you claim the next ready source.
+
+Metadata-blocked source rule: a missing `metadata.youtube.json` is a per-source
+blocker, not a global queue blocker, when transcription and diarization are
+present. After one cookie-backed metadata retry fails, persist the source in
+runtime state and skip to the next unimported source. Retry skipped sources only
+after a main-branch/raw-artifact change, committed metadata, or explicit
+maintainer instruction. If all remaining sources are metadata-blocked, report
+that count once and go idle.
 
 Use the Moltnet CLI for scheduled reports; do not rely on PicoClaw assistant
 stdout being published to the room:

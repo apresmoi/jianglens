@@ -225,7 +225,9 @@ For bot-gated metadata, the importer can use runtime-only cookies from
 `--youtube-cookies PATH`. Cookies are operational secrets: do not print or commit
 them. If the cookie-backed fallback still fails, stop retrying that source until
 `metadata.youtube.json` is committed or a maintainer explicitly asks for another
-probe.
+probe. Treat that as a source-local blocker: record the slug/video id and commit
+in runtime state, then try the next remaining source instead of stopping the
+whole interview queue.
 
 For runs that take more than a few minutes, post concise `episode-floor` progress
 at stage boundaries: claim or cleanup, current stage, validation, PR creation,
@@ -233,12 +235,19 @@ and CI or blocker handoff.
 
 The Docker stack runs episode work through Picoclaw's native cron service. While
 ready episode or interview sources remain, keep one primary recurring
-agent-turn job named `virgil-source-drain` and let it wake every 30
+agent-turn job named `virgil-source-drain` and let it wake every 10
 minutes. Each wake processes one source or resumes an in-progress source. If a
 source PR is open, blocked, behind, waiting for Aristotle QA, or waiting for
 auto-merge after QA pass, recover that PR before claiming the next source. When
 the episode and interview backlogs are both empty, report the idle state once
 and propose a daily maintenance cadence.
+
+When the interview backlog contains multiple unimported sources and the first
+one is blocked only by bot-gated metadata, skip that source after one
+cookie-backed retry and try the next unimported source. Do not keep rechecking
+the same blocked interview on every wake. Once every remaining unimported source
+is metadata-blocked for the same commit, send one compact idle report with the
+blocked count and wait for committed metadata or a maintainer instruction.
 The Moltnet room attachment is configured
 with `read: mentions` and `reply: never`: direct `@virgil` mentions are
 room context for the next scheduled wake, not immediate production starts.
