@@ -56,6 +56,11 @@ shared:
         name: node
         scope: global
         version: 22.12.0
+      - id: npm-10
+        manager: npm
+        name: npm
+        scope: global
+        version: 10.8.2
       - id: codex-cli
         manager: npm
         name: "@openai/codex"
