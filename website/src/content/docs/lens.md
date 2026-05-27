@@ -300,6 +300,8 @@ The current atlas therefore treats strategy as a double test. Does the actor und
 <span id="strategy-tests-story-against-material-reality" class="lens-point-anchor"></span>
 Strategy fails when story and material reality are no longer checking each other. A state can possess power, myth, and will, yet still lose if its story cannot pass the tests of cost, organization, logistics, alliance, and time.
 
+[Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/) is the first child surface under this strategy family. It owns the access-control cluster: straits, canals, blockades, Hormuz, Malacca, Gulf fragility, cheap-energy platforms, ground-war traps, ceasefire theater, and escalation ladders. The parent remains the general material-audit entry point.
+
 ## [Gerontocracy And Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/)
 
 The Secret History gerontocracy lecture adds an age-and-asset family to the atlas. Jiang begins with the plain definition of [gerontocracy as rule by old people]{evidence="video:predictive-history-0g3yo1djilm@transcript:v1#seg-0001"}, but the sharper mechanism is intergenerational extraction: old wealth converts property, pensions, healthcare claims, safety politics, and respect for elders into power over the young.

@@ -39,81 +39,13 @@ The three tests are deliberately unromantic.
 
 **Logistics** asks whether supply, maintenance, fatigue, replacement, and geography have been faced. Jiang's air-war example is not that the United States lacks air power. It is that a force designed for a short air campaign can encounter [maintenance, pilot fatigue, and enemy adaptation]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0014 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0015"}. Air supremacy does not abolish wear. A machine still has to be repaired. A pilot still gets tired. An enemy that survives long enough starts learning.
 
-## Chokepoint Empire
+## Chokepoint Empire And No-Exit War
 
-The same Hollywood-Pentagon lecture gives a less theatrical version of the material test. Before Jiang turns to rescue mythology, he describes a change in American imperial strategy. When the dollar works as the global reserve currency, the empire profits from circulation. Trade itself passes through the medium that can be inflated, priced, and taxed. But when states begin opting out of the dollar system, the imperial problem changes. Jiang says the strategy shifts from encouraging trade to [controlling sea lanes]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0007"}.
+The access-control and Iran-war systems material now has its own child lens: [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/). That page carries the dense Hormuz, Malacca, Gulf fragility, cheap-energy platform, hemisphere supply-line, systems-fire, no-exit, ceasefire-theater, war-momentum, and escalation-ladder anchors.
 
-This is not only finance. It is geography made coercive. In the lecture's map, bases, canals, straits, and Arctic passages become material gates. Panama, Greenland, Hormuz, and Malacca are not examples because they are famous places. They matter because [permission can be turned into trade access]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0010 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0011"}, and access can be granted, denied, or weaponized. A reserve-currency empire wants motion; a chokepoint empire can profit from interruption.
+The parent rule is simpler. A reserve-currency empire can try to become a chokepoint empire when monetary circulation weakens, but the move still has to pass the material test: ships, crews, repair yards, ports, oil, food, bases, client economies, and alliance belief must survive the pressure they are asked to carry. If a gate closes or becomes too costly to police, the protection story that made the empire's money and bases feel normal can be audited at once.
 
-<!-- lens-point id="strategy-chokepoint-empire-controls-access" concept="strategy-material-test" evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0007 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0009 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0010 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0012" -->
-<span id="strategy-chokepoint-empire-controls-access" class="lens-point-anchor"></span>
-Chokepoint empire appears when reserve-currency power weakens and imperial strategy shifts from profiting through circulation to controlling access: bases, canals, straits, blockades, and naval attrition become the material gates through which trade must pass.
-
-The counterstrategy is also material. Jiang does not imagine a weaker actor needing to defeat the U.S. Navy in a decisive battle. It can create a war of attrition in the oceans, forcing old ships, tired sailors, costly repairs, and maintenance limits into constant contact until [naval capacity degrades over time]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0012"}. That belongs on this page because it is the same rule as economics, organization, and logistics: the story of control has to pass through ships, crews, repair yards, geography, and time.
-
-The March 2026 U.S.-Iran lecture gives the chokepoint layer a harsher systems test. Jiang treats the Strait of Hormuz as [the nexus and pivot of the world]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0011"} because the gate does not carry only one commodity. [Oil leaves through it for Asian economies; food comes back to the Gulf]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0011 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0012"}; [dollar demand depends on oil being priced through the GCC]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0013"}; and [Gulf surpluses recycle into American financial markets]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0038"}. If the strait closes, the pressure moves at once through energy, food, currency, market liquidity, and alliance decisions.
-
-<!-- lens-point id="strategy-strait-pivots-system" concept="strategy-material-test" evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0011 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0012 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0013 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0015 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0016 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0020 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0021 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0038 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0039" -->
-<span id="strategy-strait-pivots-system" class="lens-point-anchor"></span>
-A strait becomes a system pivot when one narrow passage carries several dependencies at once: energy outward, food inward, dollar demand, financial recycling, military credibility, and the survival costs of exposed client states.
-
-This is why Jiang can connect Dubai's safety premium, desalination plants, the petrodollar, AI stocks, and [European energy access]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0041"} without treating them as separate topics. The material test is not only whether ships can pass. It is whether an empire's financial and military story still works when the passage that makes it feel normal becomes a target. American bases in this model become part of the same vulnerability: Jiang says they impose authority and create an [aura of invincibility]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0020 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0021"}, but if they cannot defend the host economy, their presence gives the weaker actor a pretext to attack the system the bases are supposed to stabilize.
-
-The **2026-03-12** Piers Morgan interview makes this systems test more public and more compressed. Piers asks what an indefinite Hormuz closure would do; Jiang answers that [cheap petroleum is the basis of the global modern economy]{evidence="video:interview-obqsun0g0u4@transcript:v1#seg-0055 video:interview-obqsun0g0u4@transcript:v1#seg-0056"}, not just a fuel input. Food, fertilizer, sulfuric acid, semiconductor production, AI infrastructure, travel, and state work patterns all pass through the same energy platform. Piers then shifts to the Gulf monarchies, and the same platform becomes political: [oil, desalination, imported food, expat labor, and American protection make the GCC model structurally exposed]{evidence="video:interview-obqsun0g0u4@transcript:v1#seg-0057 video:interview-obqsun0g0u4@transcript:v1#seg-0058"}. Dubai's glamour, in Jiang's telling, was not a self-standing miracle. It was a confidence form built inside Pax Americana; when the security guarantee fails, [the aura of American imperial invincibility has been shattered]{evidence="video:interview-obqsun0g0u4@transcript:v1#seg-0058 video:interview-obqsun0g0u4@transcript:v1#seg-0059"}.
-
-<!-- lens-point id="strategy-cheap-energy-platform-breaks" concept="strategy-material-test" evidence="video:interview-obqsun0g0u4@transcript:v1#seg-0055 video:interview-obqsun0g0u4@transcript:v1#seg-0056 video:interview-obqsun0g0u4@transcript:v1#seg-0057 video:interview-obqsun0g0u4@transcript:v1#seg-0058 video:interview-obqsun0g0u4@transcript:v1#seg-0059 video:interview-6rtli-qwd1i@transcript:v1#seg-0012 video:interview-6rtli-qwd1i@transcript:v1#seg-0015" -->
-<span id="strategy-cheap-energy-platform-breaks" class="lens-point-anchor"></span>
-Cheap energy becomes a strategic platform when oil, fertilizer, semiconductors, AI infrastructure, travel, food imports, desalination, tourism, and security guarantees are coupled inside the same imperial order; when the platform breaks, the glamour and aura built on top of it are audited at once.
-
-The short **2026-03-03** interview gives a compact same-day public form of the same audit from inside the live war. Jiang says the conflict has become [a war of attrition between the United States and Iran]{evidence="video:interview-4ql24z8siee@transcript:v1#seg-0006"}, not a prestige contest where American high technology settles the question. Iran's advantage is not mirror-image superiority. It is preparation, proxy learning, infrastructure targeting, and a cost structure that makes the richer machine spend badly.
-
-The military mismatch then becomes an imperial-belief test. Jiang says the American military-industrial complex was built for Cold War technological display, so [million-dollar missiles are being asked to defeat far cheaper drones]{evidence="video:interview-4ql24z8siee@transcript:v1#seg-0012"}. The result is not only munitions depletion. It is [the puncturing of the aura of invincibility]{evidence="video:interview-4ql24z8siee@transcript:v1#seg-0012 video:interview-4ql24z8siee@transcript:v1#seg-0013"} that made allies, Gulf monarchies, and markets behave as if American protection were normal reality.
-
-<!-- lens-point id="strategy-attrition-audits-prestige-machine" concept="strategy-material-test" evidence="video:interview-4ql24z8siee@transcript:v1#seg-0006 video:interview-4ql24z8siee@transcript:v1#seg-0012 video:interview-4ql24z8siee@transcript:v1#seg-0013" -->
-<span id="strategy-attrition-audits-prestige-machine" class="lens-point-anchor"></span>
-Attrition audits a prestige machine when a prepared opponent uses cheap weapons, infrastructure pressure, and time to make an expensive military order spend down the aura that made its power look self-evident.
-
-The boundary matters. [Nation As God-Machine](/lens/nation-as-god-machine/) owns population, school, welfare, industry, and war as national machinery. [Power As Alchemy](/lens/power-as-alchemy/) owns money as trained belief. This page owns the strategic conversion from monetary circulation to coercive access control, and the attrition method that can make control itself become expensive.
-
-The **2026-01-25** interview on China and American decline gives the same chokepoint lens an East Asian version. Jiang does not frame the South China Sea first as a romance of expansion. He says China's posture is conservative because the country can be [blockaded by the first island chain]{evidence="video:interview-uydy86kpfns@transcript:v1#seg-0047"}: overseas markets are the lifeblood of the economy, a third of food and three quarters of oil come from abroad, and the Strait of Malacca makes the route vulnerable. A military presence in the South China Sea is therefore, in his account, a material hedge against being choked.
-
-The same answer then changes the future opponent. Jiang says America may remain the easier maritime hegemon for China to live with because Americans still believe in global trade. A future Japanese naval order would be more dangerous in his reading because Japan is resource poor, has a history of Southeast Asian resource colonies, and could become aggressive after an American retreat. The Japan section makes the timing rule explicit: once Tokyo sees China rising and itself aging, confrontation can become [a five-year now-or-never calculation]{evidence="video:interview-uydy86kpfns@transcript:v1#seg-0052"} rather than a confident long-term strategy.
-
-<!-- lens-point id="strategy-blockade-window-forces-timing" concept="strategy-material-test" evidence="video:interview-uydy86kpfns@transcript:v1#seg-0047 video:interview-uydy86kpfns@transcript:v1#seg-0048 video:interview-uydy86kpfns@transcript:v1#seg-0051 video:interview-uydy86kpfns@transcript:v1#seg-0052" -->
-<span id="strategy-blockade-window-forces-timing" class="lens-point-anchor"></span>
-Blockade vulnerability and a closing strategic window can force timing: food, oil, markets, straits, demographic decline, and expected hegemon retreat may make a state seek depth or confrontation because waiting makes the material board worse.
-
-This belongs inside strategy rather than [Nation As God-Machine](/lens/nation-as-god-machine/) because the active mechanism is not population as sacred national machinery; population enters as a timer on war capacity. It also touches [Game Theory](/lens/game-theory/) because Jiang names the Japanese calculation as game-theoretic, but this page owns the material board that makes the game urgent: imports, straits, naval control, aging, and the shrinking ability to fight.
-
-The **2025-11-06** Libertarian Party interview adds an earlier and more hidden version of the same Venezuela audit. Jiang first says the ordinary explanations are weak: Iran sits closer to Eurasian corridors, Middle Eastern oil is easier to transport, Venezuelan oil is capital intensive, and Russia or China are not seriously contesting the American hemisphere. That makes him read the anti-cartel pressure as something narrower than conquest: Trump can target [drug-smuggling routes in Venezuela and Mexico]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0022"} because those routes, in Jiang's model, pressure [the global financial establishment]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0022"} and [drug-smuggling operations he ties to the CIA]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0023 video:interview-7qz4kmtbvru@transcript:v1#seg-0025"}. But the hidden-war explanation does not erase the material test. Jiang still rejects invasion because Venezuela would become [another Vietnam against guerrilla preparation, limited manpower, and weak political will]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0025"}.
-
-The strategic hinge is coercion without occupation. [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/) tracks the hidden-trust claim about deep-state factions, finance, banks, drugs, and intelligence channels. Strategy asks the next question: if that hidden infrastructure is the target, what can the state actually do without triggering the guerrilla, legitimacy, and domestic-will costs of a ground war?
-
-The late-processed **2025-11-30** CapitalCosm interview gives this supply-line test a later retrenchment form. Danny asks whether Venezuela belongs to the same imperial adjustment or to a separate South American realm. Jiang first rejects a clean invasion script: airstrikes would [embolden Maduro, unify Venezuela, antagonize Latin America, and still lack ground troops for regime change]{evidence="video:interview-sutm8lojrqw@transcript:v1#seg-0046"}. The physical board then answers the spectacle. Venezuela's mountains would mean guerrilla warfare, American casualties, and domestic political revolt; the better reading, in Jiang's account, is bargaining theater around oil supply if a Middle East war burns the usual routes. Trump can [posture first and then look for a deal]{evidence="video:interview-sutm8lojrqw@transcript:v1#seg-0047 video:interview-sutm8lojrqw@transcript:v1#seg-0048"}.
-
-The same answer hardens the regional boundary. Jiang says direct Chinese, Russian, or European military intervention in the Western Hemisphere would be treated as [an act of war under the Monroe-Doctrine rule]{evidence="video:interview-sutm8lojrqw@transcript:v1#seg-0051"}. Outside support can reassure Maduro, but it does not change the basic American red line; Cuba, cartel finance, and Caribbean fleet pressure become part of the negotiation surface rather than a separate topic. This is strategy, not only domestic scandal, because the claim is about what a shrinking empire can still make materially nonnegotiable near home.
-
-The **2025-12-21** Kai Hoffmann interview gives the same supply-line test a later China-bargaining form. Kai asks about Venezuela, China, and the new American security doctrine; Jiang answers that the live issue is not only oil in Caracas but a revived Monroe Doctrine. In his reading, Washington is trying to [control China's South American food and oil access]{evidence="video:interview-l9heow1syg0@transcript:v1#seg-0027 video:interview-l9heow1syg0@transcript:v1#seg-0028"} so Beijing returns to the trade-war table. The material board is therefore hemispheric: food, oil, sanctions, regional intimidation, and bargaining time all become tools for making the rival's domestic economy move.
-
-That is why the later Venezuela answers stay on this page even when the language becomes theatrical. Jiang predicts a display of force rather than conquest: [limited airstrikes, game-of-chicken signaling, and negotiation]{evidence="video:interview-l9heow1syg0@transcript:v1#seg-0039 video:interview-l9heow1syg0@transcript:v1#seg-0045"}. The point of the strike would be to preserve room with Maduro while showing the rest of South America that Washington can hit unpredictably. But the material test does not disappear. Jiang says the force assembled in the Caribbean is [not enough for an amphibious operation]{evidence="video:interview-l9heow1syg0@transcript:v1#seg-0039"}, Venezuelan nationalism would harden, and pilots, Wagner forces, Cuban forces, donors, riots, Israel, Iran, or accident could still kick the board into a faster escalation.
-
-The **2025-11-15** Danny Haiphong interview adds the sharpest anti-invasion audit. Jiang says American naval power could destroy Venezuelan defenses quickly, but asks what that victory would buy. His answer is that it would make America look like [a pirate state, rally China, Iran, Russia, and global opinion, and still fail to hold Venezuela against guerrilla resistance]{evidence="video:interview-vvj4mxqu2qk@transcript:v1#seg-0093"}. The failure then becomes hemispheric: once Venezuela is invaded, Cuba and Nicaragua become the next implied targets, and Washington discovers it lacks [the manpower, resources, political will, and manufacturing capacity to occupy South America and Latin America]{evidence="video:interview-vvj4mxqu2qk@transcript:v1#seg-0094"}. The Monroe-Doctrine claim also flips against the empire. If the old understanding meant [protector as well as owner, then open invasion breaks the compact and teaches South America that everyone may be next]{evidence="video:interview-vvj4mxqu2qk@transcript:v1#seg-0097 video:interview-vvj4mxqu2qk@transcript:v1#seg-0098"}.
-
-<!-- lens-point id="strategy-hemisphere-supply-lines-become-leverage" concept="strategy-material-test" evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0022 video:interview-7qz4kmtbvru@transcript:v1#seg-0025 video:interview-sutm8lojrqw@transcript:v1#seg-0046 video:interview-sutm8lojrqw@transcript:v1#seg-0047 video:interview-sutm8lojrqw@transcript:v1#seg-0051 video:interview-l9heow1syg0@transcript:v1#seg-0027 video:interview-l9heow1syg0@transcript:v1#seg-0028 video:interview-l9heow1syg0@transcript:v1#seg-0039 video:interview-l9heow1syg0@transcript:v1#seg-0042 video:interview-l9heow1syg0@transcript:v1#seg-0043 video:interview-l9heow1syg0@transcript:v1#seg-0045 video:interview-l9heow1syg0@transcript:v1#seg-0046 video:interview-vvj4mxqu2qk@transcript:v1#seg-0093 video:interview-vvj4mxqu2qk@transcript:v1#seg-0094 video:interview-vvj4mxqu2qk@transcript:v1#seg-0097 video:interview-vvj4mxqu2qk@transcript:v1#seg-0100" -->
-<span id="strategy-hemisphere-supply-lines-become-leverage" class="lens-point-anchor"></span>
-Hemisphere supply lines become strategic leverage when oil, food, drug routes, Monroe-Doctrine red lines, limited strikes, regional spectacle, and bargaining theater are used to pressure rivals or hidden infrastructures while avoiding occupations, guerrilla terrain, broken protector compacts, sovereignty backlash, and domestic revolt that the material board cannot support.
-
-This source sits beside [Power As Alchemy](/lens/power-as-alchemy/) rather than inside it. Power owns the later demand that Chinese consumers absorb American debt. Strategy owns the prior coercive board: South American supply lines, Monroe Doctrine signaling, limited force, escalation control, and whether a spectacle can stay limited after ships, nationalism, foreign forces, and accidents answer back.
-
-The **2025-12-19** Glenn Diesen interview makes the same warning less local. Glenn asks why wars sold as limited so often spread, and Jiang answers with the old mission-creep pattern: [wars start as limited operations, then escalate beyond anyone's control]{evidence="video:interview-p5gg9xxbqze@transcript:v1#seg-0030"}. Venezuela is the first test case. A cartel or regime-change operation may be marketed as clean public safety, but nearby states can read the fall of Venezuela as a rehearsal for Cuba, Nicaragua, Brazil, and every South American country whose trade with China made it useful to Washington's rival. Jiang's image is deliberately unstable: [South America becomes a lake of gasoline when neighbors think they all fall together]{evidence="video:interview-p5gg9xxbqze@transcript:v1#seg-0032"}.
-
-Iran then turns the local fire into a systems fire. Jiang marks the sequence as a hypothesis, not a certainty, but the mechanism is concrete: Hormuz closure shocks Asian oil access, America sends ground troops, Russia moves around Odessa, Europe faces manpower shortage and conscription, and Japan-China rhetoric heats up. The diagnostic line is that [one flare-up can move through an interconnected world into other theaters]{evidence="video:interview-p5gg9xxbqze@transcript:v1#seg-0035 video:interview-p5gg9xxbqze@transcript:v1#seg-0036"}. A limited war fails the material test when the planner treats borders as walls while energy, shipping, food, troops, alliance credibility, and neighboring survival fears keep crossing them.
-
-<!-- lens-point id="strategy-limited-war-becomes-systems-fire" concept="strategy-material-test" evidence="video:interview-p5gg9xxbqze@transcript:v1#seg-0030 video:interview-p5gg9xxbqze@transcript:v1#seg-0032 video:interview-p5gg9xxbqze@transcript:v1#seg-0035 video:interview-p5gg9xxbqze@transcript:v1#seg-0036" -->
-<span id="strategy-limited-war-becomes-systems-fire" class="lens-point-anchor"></span>
-Limited war becomes systems fire when a supposedly local operation transmits through oil, shipping, food, manpower, alliance credibility, neighboring survival fears, and rival-theater opportunities until several regions start answering the same spark.
-
-This stays inside Strategy rather than [Game Theory](/lens/game-theory/) because the active mechanism is not only who benefits from a local move. It is whether the local move can remain local after material interdependence begins carrying pressure elsewhere. It also borders [Nation As God-Machine](/lens/nation-as-god-machine/) when conscription and sacrifice become the response, but this page owns the strategic transmission chain that forces those national machines to start moving.
+Keep this boundary sharp. Strategy owns the access-control audit; [Power As Alchemy](/lens/power-as-alchemy/) owns petrodollar belief and Treasury demand; [Eschatology As Script](/lens/eschatology/) owns sacred acceleration; [Game Theory](/lens/game-theory/) owns player-payoff sequencing; [How Stories Control Reality](/lens/how-stories-control-reality/) owns pretext and spectacle when the frame, not the gate, is doing the main work.
 
 ## Deathbed Hubris
 
@@ -129,19 +61,9 @@ This belongs on Strategy rather than only [Human Heart](/lens/human-heart-as-civ
 
 ## No-Exit War
 
-The **2026-03-13** Danny Haiphong interview gives the no-exit version of the Iran-war material test. Danny asks why an empire would keep digging if the war is already a trap. Jiang answers with [hubris and desperation]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0014"}: desperation because [a Russia-Iran-China alignment could create a Eurasian trade world that stops supporting the dollar]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0017 video:interview-px5wsnsqwme@transcript:v1#seg-0018"}, and hubris because [Iraq, Libya, Syria, and other one-sided interventions taught American elites that Middle Eastern force was cheap, fast, and survivable]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0018 video:interview-px5wsnsqwme@transcript:v1#seg-0019"}.
+The no-exit war material now lives inside [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/), where the stable anchor `strategy-no-exit-war-dollar-trap` remains intact. The parent keeps the diagnostic: a war can begin as defense of money, alliance, prestige, or protection, then become harder to stop than to continue because exit would discredit the order that made the war possible.
 
-The ground-war question then turns the trap from psychology into material structure. Jiang calls Iraq 2003 an anomaly rather than a true model: Iraq had been depleted by sanctions, lacked serious defenses, and made shock and awe look more general than it was. Iran, by contrast, is a real war where [airpower cannot replace ground troops]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0024"}. But the troops needed to make the military story real are politically and materially unavailable. In Jiang's estimate, invasion would require a draft, at least hundreds of thousands of soldiers, perhaps millions, and the logistics, manufacturing capacity, inventory, routes, and preparation time for a multi-year, multi-vector campaign against [a mountain fortress]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0025 video:interview-px5wsnsqwme@transcript:v1#seg-0026"}.
-
-That is why the exit is not simple either. Jiang says [war develops its own momentum after it starts]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0027"}. If Washington declares victory and leaves, [Iran can use reparations, Hormuz taxation, and Gulf instability to turn the GCC from American linchpin into Iranian client space]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0027 video:interview-px5wsnsqwme@transcript:v1#seg-0028 video:interview-px5wsnsqwme@transcript:v1#seg-0029"}. Japan, South Korea, and Europe then [ask why they host American bases or buy Treasuries if protection is unreliable]{evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0029 video:interview-px5wsnsqwme@transcript:v1#seg-0030 video:interview-px5wsnsqwme@transcript:v1#seg-0031"}. The dollar order fails not because a spreadsheet changes, but because the protection story that made allies buy the debt has been tested and found false.
-
-The **2026-03-09** Sneako interview supplies a rougher public formulation of the same trap. The proxy and color-revolution routes have failed, so Jiang says the only remaining path points toward ground invasion; yet the small Kharg Island option becomes suicidal once artillery, mountains, insurance markets, and the Strait of Hormuz answer back. The result is [no good pretext and no good strategy for ground invasion]{evidence="video:interview-o1delachnro@transcript:v1#seg-0019"}. Even naval escort through Hormuz becomes another bad option, so the empire is reduced to asking [which bad investment to keep funding]{evidence="video:interview-o1delachnro@transcript:v1#seg-0020"}. Jiang's image is not chess but addiction: [the war manager becomes a drunk gambler in a casino]{evidence="video:interview-o1delachnro@transcript:v1#seg-0020"}, losing more because leaving would reveal the loss.
-
-<!-- lens-point id="strategy-no-exit-war-dollar-trap" concept="strategy-material-test" evidence="video:interview-px5wsnsqwme@transcript:v1#seg-0014 video:interview-px5wsnsqwme@transcript:v1#seg-0017 video:interview-px5wsnsqwme@transcript:v1#seg-0024 video:interview-px5wsnsqwme@transcript:v1#seg-0025 video:interview-px5wsnsqwme@transcript:v1#seg-0026 video:interview-px5wsnsqwme@transcript:v1#seg-0027 video:interview-px5wsnsqwme@transcript:v1#seg-0031 video:interview-o1delachnro@transcript:v1#seg-0019 video:interview-o1delachnro@transcript:v1#seg-0020" -->
-<span id="strategy-no-exit-war-dollar-trap" class="lens-point-anchor"></span>
-No-exit war appears when an empire starts a war to defend the money-and-alliance order, then discovers that victory requires ground, draft, logistics, and manufacturing capacity it lacks, while retreat would make the protection story fail and threaten the buyers of its debt.
-
-This belongs inside strategy rather than [Power As Alchemy](/lens/power-as-alchemy/) because the active mechanism is not money becoming real through belief. It is money being audited by war: bases, troops, allies, supply lines, debt buyers, and exit options test whether the dollar story can still command material obedience. It borders [Eschatology As Script](/lens/eschatology/) when later actors welcome the catastrophe as prophecy, but this section owns the secular no-exit trap before the sacred acceleration layer arrives.
+Use this parent section to recognize the pattern. Use the child page for the detailed Iran-war chain: ground troops that airpower cannot replace, draft and manufacturing limits, Gulf-client exposure, Hormuz taxation, Treasury-buyer doubt, and the casino-like pressure to fund one more bad move.
 
 ## Spectacle Is Not Resilience
 
@@ -173,17 +95,9 @@ This belongs inside strategy rather than only [How Stories Control Reality](/len
 
 ## Ceasefire Theater And War Architecture
 
-The April 21, 2026 World War Trump lecture extends chokepoint empire into a diagnostic for peace language. Jiang begins from a reported two-week U.S.-Iran ceasefire and possible Islamabad negotiations, then immediately says [the war will not end because it belongs to a larger American strategy to maintain empire]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001"}. That sentence is not useful as an undated forecast by itself. Its lens value is the method: do not confuse the public signal with the material architecture that keeps moving underneath it.
+The ceasefire-theater anchor now lives in [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/) as `strategy-ceasefire-theater-war-architecture`. The parent keeps the routing rule: peace language is not enough if the underlying architecture still points through blockades, energy disruption, war-economy conversion, defense planning, chokepoints, and dollar-financed supply.
 
-The lecture makes the distinction concrete. Trump's signals change from ceasefire to bombing, so Jiang says to [ignore the signals and focus on the larger American strategy]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0015"}. Congress appears to debate war powers, but he reads the failed restriction as theater because, in his account, the National Defense Strategy is already [the blueprint for how the Pentagon will fight wars for the next five to ten years]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0021 video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0022"}. The strategic question is therefore not whether one ceasefire headline sounds calm. It is whether blockade, oil fires, draft preparation, industrial conversion, defense planning, and trade chokepoints still point in the same direction.
-
-<!-- lens-point id="strategy-ceasefire-theater-war-architecture" concept="strategy-material-test" evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001 video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0015 video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0022 video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042 video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046 video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0051" -->
-<span id="strategy-ceasefire-theater-war-architecture" class="lens-point-anchor"></span>
-Ceasefire theater becomes a material-test problem when public peace signals obscure a continuing war architecture: blockades, energy disruption, war-economy conversion, defense planning, chokepoints, and financing systems keep organizing the next round even while the language says calm.
-
-The same source folds this into the access-control map. Jiang says the strategy can tolerate enormous energy disruption because it prioritizes strategic interests; the Navy can [contain the world's chokepoints and make trade depend on American generosity]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042"}. America does not have to control every ocean if it controls enough passages, because the point is [to control China, not destroy China]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0046"}. The Western Hemisphere then becomes the fortress that sells energy, resources, weapons, and financing to a world at war; Jiang's compression is that America maintains empire by [creating conflict while controlling global trade]{evidence="video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0051"}.
-
-This belongs here rather than on the legitimacy or stories pages because the active test is not only optics. Political theater matters, but the strategy page asks whether the material architecture underneath the performance is still being built. It borders [Nation As God-Machine](/lens/nation-as-god-machine/) when draft, home-front discipline, and war industry become population machinery. It borders [Power As Alchemy](/lens/power-as-alchemy/) when dollar financing makes dependence feel normal. It borders [How Stories Control Reality](/lens/how-stories-control-reality/) when ceasefire, peace, and strength supply the surface script. This page owns the harder question: what infrastructure keeps the war going after the peace story begins?
+This belongs to Strategy when the question is what material system continues under the public signal. It belongs to [How Stories Control Reality](/lens/how-stories-control-reality/) when the ceasefire language itself is the operative script, and to [Power As Alchemy](/lens/power-as-alchemy/) when the financing belief loop is the active object.
 
 ## Resource Empire After Petrodollar Strain
 
@@ -323,33 +237,9 @@ This is also why Jiang is suspicious of imperial hubris. The dominant actor ofte
 
 ## War Gets Its Own Logic
 
-The **2026-03-20** Tucker Carlson interview gives the earliest March interview formulation of the later escalation-ladder cluster. Tucker asks why the United States and China would not settle the Iran war quickly if both would be hurt. Jiang's answer is not that every actor secretly wants catastrophe. It is that [war develops momentum and a logic of its own]{evidence="video:interview-2k2nqsttjqe@transcript:v1#seg-0008"}. A ceasefire would require American retreat from the Middle East, Iranian security guarantees for the Gulf, and a visible threat to the [petrodollar system that supports American debt]{evidence="video:interview-2k2nqsttjqe@transcript:v1#seg-0010"}.
+The war-momentum and escalation-ladder material now lives inside [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/), preserving the stable anchors `strategy-war-gets-own-logic` and `strategy-escalation-ladder-gains-momentum`. The parent keeps the broader test: a war gets its own logic when the material and political cost of stopping becomes larger than the next escalation.
 
-The **2026-03-09** Glenn Diesen interview is an earlier live-war version of the same no-exit test. Jiang says the public rationale has already become unstable: the nuclear pretext fails, Hormuz is closed, Japan and other Asian economies face oil pressure, and Washington still cannot state [the purpose or off-ramp]{evidence="video:interview-6rtli-qwd1i@transcript:v1#seg-0004"}. The escalation menu then appears before any coherent theory of victory: Kharg Island, proxies, tactical nuclear weapons, and a draft for [500,000 soldiers for a ground invasion of Iran]{evidence="video:interview-6rtli-qwd1i@transcript:v1#seg-0005"}. In this form, war gets its own logic because the empire can imagine another move more easily than it can imagine a retreat that admits the original story had no strategy.
-
-That makes the material test wider than battlefield victory. Cheap energy had been part of the old arrangement. Jiang says cities, supply chains, and modern consumption depend on imported food and energy; when those break, the world is pushed toward [de-industrialization, remilitarization, and mercantilist rebuilding]{evidence="video:interview-2k2nqsttjqe@transcript:v1#seg-0015 video:interview-2k2nqsttjqe@transcript:v1#seg-0016"}. China is not simply a rival winner in this story. It is also exposed because its decades of wealth relied on cheap imported energy, manufactured exports, and a difficult transition toward household consumption. Jiang's pressure point is that [China is still too focused on export and manufacturing to shift easily into a diversified economy]{evidence="video:interview-2k2nqsttjqe@transcript:v1#seg-0036 video:interview-2k2nqsttjqe@transcript:v1#seg-0037"}.
-
-The same interview gives a compact mission-creep test. A Marine operation might take Kharg Island and produce a morale scene, but Jiang's sentence is the trap: [you can take it, but you cannot hold it]{evidence="video:interview-2k2nqsttjqe@transcript:v1#seg-0058"}. Holding the island requires the coast; holding the coast exposes the mountains; holding the mountains becomes Vietnam. A small operation stays small only before geography, logistics, and occupation requirements start answering back.
-
-<!-- lens-point id="strategy-war-gets-own-logic" concept="strategy-material-test" evidence="video:interview-2k2nqsttjqe@transcript:v1#seg-0008 video:interview-2k2nqsttjqe@transcript:v1#seg-0010 video:interview-2k2nqsttjqe@transcript:v1#seg-0058 video:interview-6rtli-qwd1i@transcript:v1#seg-0004 video:interview-6rtli-qwd1i@transcript:v1#seg-0005 video:interview-6rtli-qwd1i@transcript:v1#seg-0035 video:interview-6rtli-qwd1i@transcript:v1#seg-0064" -->
-<span id="strategy-war-gets-own-logic" class="lens-point-anchor"></span>
-War gets its own logic when the material and political cost of stopping becomes larger than the next escalation: ceasefire threatens the order that funded the war, and a limited operation turns into a demand to hold geography, supply lines, and face.
-
-This section belongs here because the interview tests story against exits. A rationalist story says major powers should settle once the costs are obvious. The strategy lens asks whether the settlement itself would destroy the credibility, money system, alliance position, or occupation story that makes retreat usable. [Power As Alchemy](/lens/power-as-alchemy/) owns the dollar as believed reality. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the later continental-fortress response. Strategy owns the immediate question: can anyone still stop without making their whole previous order look false?
-
-## The Ladder Starts Climbing Itself
-
-The **2026-03-24** Redacted interview adds the escalation-ladder version of the same material test. Jiang begins by separating the daily public narrative from the actual board: Trump can produce a new story each day, but [the war is following an escalation ladder]{evidence="video:interview-pvhuffwtu3i@transcript:v1#seg-0003"}. The danger is not only that one leader chooses the next move. Each actor is positioned so that the next rung looks necessary: Israel is committed to the fight, Iran must answer attacks on civilian infrastructure without losing the moral frame, the GCC faces energy and desalination vulnerability, and the United States is pulled toward credibility and ground commitment. Diesen names the same failure in the March 9 interview as [the illusion of escalation control]{evidence="video:interview-6rtli-qwd1i@transcript:v1#seg-0069"}: the belief that war managers can decide who participates, how far each actor goes, and when the process stops after the machine is already running.
-
-The interview sharpens control into morale. Jiang says the consequence of destroying Gaza or Iranian civilian infrastructure is not only legal condemnation or bad publicity; it becomes [the morale of the population and its will to fight]{evidence="video:interview-pvhuffwtu3i@transcript:v1#seg-0026 video:interview-pvhuffwtu3i@transcript:v1#seg-0027"}. A war fought for a cause people cannot believe in turns force into exhaustion. A weaker actor with a good cause, public restraint, and calibrated escalation can make suffering become endurance rather than collapse.
-
-The institutional failure is that the dominant side may already know the method is broken. Jiang returns to Millennium Challenge and Operation Prosperity Guardian as practical evidence: if the enemy cannot be scared, bought, blackmailed, co-opted, or assassinated into surrender, the standard toolkit runs out. In the war-game memory, the Pentagon's answer was to [change the rules until it won]{evidence="video:interview-pvhuffwtu3i@transcript:v1#seg-0037 video:interview-pvhuffwtu3i@transcript:v1#seg-0038"}. In the Vietnam memory, the institution knows the war is not winnable but keeps playing because exit would admit defeat. Jiang's casino image makes escalation a material pathology: [empire keeps gambling because going home means confessing the loss]{evidence="video:interview-pvhuffwtu3i@transcript:v1#seg-0040 video:interview-pvhuffwtu3i@transcript:v1#seg-0041"}. The late media turn completes the feedback loop: dissent is pushed out, leaders hear the war is going well, and [one more week becomes the story that keeps the stupid war going]{evidence="video:interview-pvhuffwtu3i@transcript:v1#seg-0087 video:interview-pvhuffwtu3i@transcript:v1#seg-0088"}.
-
-<!-- lens-point id="strategy-escalation-ladder-gains-momentum" concept="strategy-material-test" evidence="video:interview-pvhuffwtu3i@transcript:v1#seg-0003 video:interview-pvhuffwtu3i@transcript:v1#seg-0026 video:interview-pvhuffwtu3i@transcript:v1#seg-0038 video:interview-pvhuffwtu3i@transcript:v1#seg-0041 video:interview-pvhuffwtu3i@transcript:v1#seg-0088 video:interview-6rtli-qwd1i@transcript:v1#seg-0035 video:interview-6rtli-qwd1i@transcript:v1#seg-0069" -->
-<span id="strategy-escalation-ladder-gains-momentum" class="lens-point-anchor"></span>
-An escalation ladder gains momentum when every actor's next move looks necessary, morale becomes a war capacity, institutions change rules and repeat victory stories, and imperial face makes withdrawal feel more damaging than another bad wager.
-
-This belongs inside strategy because the active question is not only narrative capture. The ladder has to be tested against troops, money, morale, infrastructure, escalation control, institutional feedback, and exit cost. It borders [How Stories Control Reality](/lens/how-stories-control-reality/) when Washington drinks its own media story, [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) when dissent is pushed out of the decision bubble, and [Eschatology As Script](/lens/eschatology/) when sacred or apocalyptic rewards define the payoff. Strategy owns the ladder test: who can still stop climbing, and what material or institutional cost makes stopping feel impossible?
+Use this parent rule when reading any theater. Ask what ceasefire would discredit, which geography must now be held, which institutions are suppressing feedback, and whether face-saving has become a war capacity. Go to the child page when the mechanism is specifically tied to Hormuz, Gulf protection, ground-war traps, and escalation control in the Iran-war cluster.
 
 ## Rome: Will As Material Capacity
 
@@ -469,194 +359,21 @@ In **May 2026**, the Putin-in-Beijing lecture adds the sanctioned-state volatili
 
 ## Source Trail
 
-- **2024-04-24**, [Military Dominance Is Not Victory](/episodes/predictive-history-xeepoxqdu5e/)  
-  Military dominance does not decide war when the weaker actor can control terrain, cost, timing, opinion, and rules of engagement.  
-  `video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0004`  
-  `video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0008`  
-  `video:predictive-history-xeepoxqdu5e@transcript:v1#seg-0011`
+This parent page now keeps the source trail compact so it can serve as the Strategy entry point. The moved child page carries the dense Hormuz, Malacca, Gulf, no-exit, ceasefire-theater, and escalation-ladder evidence.
 
-- **2024-05-22**, [Shock and Awe Made Empire Feel Like a Game](/episodes/predictive-history-jiefc4yww4o/)  
-  Shock and awe replaces mass, supply, and encirclement checks with a story of air supremacy, omniscience, special forces, speed, and decisive collapse.  
-  `video:predictive-history-jiefc4yww4o@transcript:v1#seg-0002`  
-  `video:predictive-history-jiefc4yww4o@transcript:v1#seg-0005`  
-  `video:predictive-history-jiefc4yww4o@transcript:v1#seg-0006`
+- **2024-04-24**, [Military Dominance Is Not Victory](/episodes/predictive-history-xeepoxqdu5e/) - military dominance fails when the weaker actor controls terrain, cost, timing, opinion, and rules of engagement.
+- **2024-05-22**, [Shock and Awe Made Empire Feel Like a Game](/episodes/predictive-history-jiefc4yww4o/) - shock and awe turns a special case into a doctrine of speed, omniscience, special forces, and decisive collapse.
+- **2024-06-05**, [How Strategic Imagination Turns Empire Against Itself](/episodes/predictive-history-b-al2wgk49y/) - overextension, debt, and civil discord become an imperial-death mechanism.
+- **2024-11-07**, [Rome's Cult Of No Surrender](/episodes/predictive-history-tdce7xgdayo/) - a story of no surrender becomes material endurance only when civic character, manpower, and institutions carry it.
+- **2025-04-10**, [Turn Society Into The Cannon](/episodes/predictive-history-dirjyy-8v54/) - military form demands a matching social order: taxation, conscription, supply, specialists, industry, bureaucracy, hierarchy, and trained bodies.
+- **2025-06-22**, [Escalation Dominance Becomes The Trap](/episodes/predictive-history-n4cs-8mrp-s/) - reputation can force the dominant actor into reactions that serve the weaker actor's calibrated trap.
+- **2025-08-01**, [When Eschatologies Converge](/episodes/predictive-history-yq-xg1nibms/) - hybrid war attacks legitimacy and basic services before open battlefield defeat.
+- **2025-11-30**, [The Money Transfers and America Is Allowed to Implode](/interviews/interview-sutm8lojrqw/) - Western Hemisphere retrenchment turns nearby resources and regional proxies into a declining empire's material fallback.
+- **2026-03-26**, [Game Theory #16: Pax Judaica Rising](/episodes/predictive-history-mk4vchtawso/) - four-dimensional war and replacement-empire audition test whether a successor can supply imperial muscle.
+- **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/) - war must be judged by economics, organization, and logistics before rescue mythology and noble scenes are believed.
+- **2026-05-21**, [Putin Does Not Want The Throne](/episodes/predictive-history-x83hclwvhi8/) - sanctioned-state volatility can make American policing, dollar demand, and allied protection too expensive across several boards.
 
-- **2024-06-05**, [How Strategic Imagination Turns Empire Against Itself](/episodes/predictive-history-b-al2wgk49y/)  
-  Empire can die when overextension, debt, and civil discord are pushed together.  
-  `video:predictive-history-b-al2wgk49y@transcript:v1#seg-0001`  
-  `video:predictive-history-b-al2wgk49y@transcript:v1#seg-0004`  
-  `video:predictive-history-b-al2wgk49y@transcript:v1#seg-0006`
-
-- **2024-11-07**, [Rome's Cult Of No Surrender](/episodes/predictive-history-tdce7xgdayo/)  
-  Rome shows how a story can become material endurance when civic character, manpower, and institutions carry it through catastrophic defeat.  
-  `video:predictive-history-tdce7xgdayo@transcript:v1#seg-0005`  
-  `video:predictive-history-tdce7xgdayo@transcript:v1#seg-0015`  
-  `video:predictive-history-tdce7xgdayo@transcript:v1#seg-0016`
-
-- **2025-04-10**, [Turn Society Into The Cannon](/episodes/predictive-history-dirjyy-8v54/)
-  Gunpowder shows that a military form becomes a social demand: taxation, conscription, material supply, specialists, industry, research, bureaucracy, hierarchy, and trained bodies all have to support the way of fighting.
-  `video:predictive-history-dirjyy-8v54@transcript:v1#seg-0001`
-  `video:predictive-history-dirjyy-8v54@transcript:v1#seg-0041`
-  `video:predictive-history-dirjyy-8v54@transcript:v1#seg-0043`
-
-- **2025-06-22**, [Escalation Dominance Becomes The Trap](/episodes/predictive-history-n4cs-8mrp-s/)
-  Escalation dominance can force the hegemon into reactions that preserve reputation while serving the weaker actor's calibrated trap.
-  `video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0006`
-  `video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0007`
-  `video:predictive-history-n4cs-8mrp-s@transcript:v1#seg-0008`
-
-- **2025-08-01**, [When Eschatologies Converge](/episodes/predictive-history-yq-xg1nibms/)
-  Hybrid war can precede visible world war by attacking media, psychology, sanctions, covert operations, leadership, basic services, water infrastructure, resolve, and the state-population bond.
-  `video:predictive-history-yq-xg1nibms@transcript:v1#seg-0001`
-  `video:predictive-history-yq-xg1nibms@transcript:v1#seg-0002`
-
-- **2025-11-30**, [The Money Transfers and America Is Allowed to Implode](/interviews/interview-sutm8lojrqw/)
-  The CapitalCosm interview gives the Western Hemisphere and resource-empire layer an earlier retrenchment form: Venezuela pressure becomes oil bargaining under Monroe-Doctrine limits, while Canada, Mexico, Greenland, Germany, Japan, and Israel become parts of a nearby-resource and regional-proxy map.
-  `video:interview-sutm8lojrqw@transcript:v1#seg-0046`
-  `video:interview-sutm8lojrqw@transcript:v1#seg-0047`
-  `video:interview-sutm8lojrqw@transcript:v1#seg-0051`
-  `video:interview-sutm8lojrqw@transcript:v1#seg-0056`
-  `video:interview-sutm8lojrqw@transcript:v1#seg-0064`
-  `video:interview-sutm8lojrqw@transcript:v1#seg-0065`
-
-- **2026-03-03**, [The World Pivot Is A Strait](/episodes/predictive-history-jis2eb-rgv0/)
-  Hormuz is a system pivot because energy, food, dollar demand, Gulf investment, and American military credibility all pass through the same narrow geography.
-  `video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0011`
-  `video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0013`
-  `video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0038`
-
-- **2026-03-03**, [Attrition Breaks The American Aura](/interviews/interview-4ql24z8siee/)
-  The interview gives the compact live-war version of the attrition audit: Iran does not need symmetrical superiority if cheap weapons, Gulf infrastructure pressure, and time can force America's expensive Cold War prestige machine to spend down its aura.
-  `video:interview-4ql24z8siee@transcript:v1#seg-0006`
-  `video:interview-4ql24z8siee@transcript:v1#seg-0012`
-  `video:interview-4ql24z8siee@transcript:v1#seg-0013`
-
-- **2026-03-09**, [A War Without Purpose Becomes Imperial Suicide](/interviews/interview-6rtli-qwd1i/)
-  The Diesen interview adds the no-exit version before later March interviews: Jiang says the war lacks a purpose or off-ramp, the Gulf platform is a mirage whose shattered illusion cannot be restored, and Diesen names the closing danger as the illusion of escalation control.
-  `video:interview-6rtli-qwd1i@transcript:v1#seg-0004`
-  `video:interview-6rtli-qwd1i@transcript:v1#seg-0012`
-  `video:interview-6rtli-qwd1i@transcript:v1#seg-0015`
-  `video:interview-6rtli-qwd1i@transcript:v1#seg-0035`
-  `video:interview-6rtli-qwd1i@transcript:v1#seg-0069`
-
-- **2026-03-09**, [When The Mirage Breaks And War Stops Wanting Victory](/interviews/interview-o1delachnro/)
-  The Sneako interview adds the no-good-options formulation: failed proxy paths, Kharg Island, Hormuz insurance, naval escort, ground invasion, draft pressure, and the drunk-gambler image all show a war that keeps escalating because each exit exposes the previous bad investment.
-  `video:interview-o1delachnro@transcript:v1#seg-0018`
-  `video:interview-o1delachnro@transcript:v1#seg-0019`
-  `video:interview-o1delachnro@transcript:v1#seg-0020`
-  `video:interview-o1delachnro@transcript:v1#seg-0023`
-  `video:interview-o1delachnro@transcript:v1#seg-0024`
-
-- **2026-03-10**, [Control Beats Dominance](/episodes/predictive-history-fz-dan7nrss/)  
-  Escalation is won by calibration and strategic flexibility, not by possessing the strongest weapon.  
-  `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0010`  
-  `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0011`  
-  `video:predictive-history-fz-dan7nrss@transcript:v1#seg-0012`
-
-- **2026-03-12**, [Empire Breaks When Hormuz Stays Closed](/interviews/interview-obqsun0g0u4/)
-  Hormuz becomes a cheap-energy-platform audit: Jiang links oil, food, fertilizer, semiconductors, AI, travel, desalination, Dubai glamour, and American security guarantees into one exposed imperial system.
-  `video:interview-obqsun0g0u4@transcript:v1#seg-0055`
-  `video:interview-obqsun0g0u4@transcript:v1#seg-0056`
-  `video:interview-obqsun0g0u4@transcript:v1#seg-0057`
-  `video:interview-obqsun0g0u4@transcript:v1#seg-0058`
-  `video:interview-obqsun0g0u4@transcript:v1#seg-0059`
-
-- **2026-03-13**, [War Becomes Its Own Momentum](/interviews/interview-px5wsnsqwme/)
-  No-exit war appears when Heartland-dollar desperation pushes an empire into a conflict whose winning path needs unavailable ground-war capacity, while retreat threatens allies, bases, Treasury buyers, and the dollar order.
-  `video:interview-px5wsnsqwme@transcript:v1#seg-0014`
-  `video:interview-px5wsnsqwme@transcript:v1#seg-0025`
-  `video:interview-px5wsnsqwme@transcript:v1#seg-0026`
-  `video:interview-px5wsnsqwme@transcript:v1#seg-0027`
-  `video:interview-px5wsnsqwme@transcript:v1#seg-0031`
-
-- **2026-03-20**, [War Gets Its Own Logic](/interviews/interview-2k2nqsttjqe/)
-  War momentum appears when ceasefire would threaten the order that made war possible, cheap energy scarcity audits whole societies, and a small island operation becomes a demand to hold coast, mountains, logistics, and face.
-  `video:interview-2k2nqsttjqe@transcript:v1#seg-0008`
-  `video:interview-2k2nqsttjqe@transcript:v1#seg-0010`
-  `video:interview-2k2nqsttjqe@transcript:v1#seg-0036`
-  `video:interview-2k2nqsttjqe@transcript:v1#seg-0037`
-  `video:interview-2k2nqsttjqe@transcript:v1#seg-0058`
-
-- **2026-03-24**, [The War Climbs Its Own Ladder](/interviews/interview-pvhuffwtu3i/)
-  The escalation-ladder version of the material test ties daily narrative drift to morale, asymmetric control, Pentagon rule-changing, Vietnam-style sunk cost, and media feedback loops that keep a losing war climbing.
-  `video:interview-pvhuffwtu3i@transcript:v1#seg-0003`
-  `video:interview-pvhuffwtu3i@transcript:v1#seg-0026`
-  `video:interview-pvhuffwtu3i@transcript:v1#seg-0038`
-  `video:interview-pvhuffwtu3i@transcript:v1#seg-0041`
-  `video:interview-pvhuffwtu3i@transcript:v1#seg-0088`
-
-- **2026-03-26**, [Game Theory #16: Pax Judaica Rising](/episodes/predictive-history-mk4vchtawso/)
-  Four-dimensional war separates the military image from the full strategic board, and the replacement-empire audition tests whether a possible successor to American imperial muscle can prove will, capacity, cost discipline, infrastructure control, and corrigible forecast discipline.
-  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0017`
-  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0019`
-  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0021`
-  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0025`
-  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0037`
-  `video:predictive-history-mk4vchtawso@transcript:v1#seg-0058`
-
-- **2026-03-26**, [The War Becomes A Rupture](/interviews/interview-yejgdbgbdoq/)
-  A theatrical first strike is tested against the missing material supports for full invasion, while Hormuz and Gulf infrastructure expose the fragility hidden inside efficient unipolar abundance.
-  `video:interview-yejgdbgbdoq@transcript:v1#seg-0022`
-  `video:interview-yejgdbgbdoq@transcript:v1#seg-0027`
-  `video:interview-yejgdbgbdoq@transcript:v1#seg-0028`
-  `video:interview-yejgdbgbdoq@transcript:v1#seg-0034`
-  `video:interview-yejgdbgbdoq@transcript:v1#seg-0038`
-
-- **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)
-  A weakening reserve-currency empire can shift from encouraging global trade to controlling sea lanes, chokepoints, trade access, and naval attrition.
-  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0007`
-  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0009`
-  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0012`
-
-- **2026-04-21**, [Game Theory #21: World War Trump](/episodes/predictive-history-ts-aa6lqf6i/)
-  Ceasefire language becomes a material-test problem when the larger war architecture still points through blockade, energy disruption, war economy, defense strategy, chokepoints, and dollar-financed supply.
-  `video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0001`
-  `video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0015`
-  `video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0042`
-  `video:predictive-history-ts-aa6lqf6i@transcript:v1#seg-0051`
-
-- **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)
-  War must be judged by economics, organization, and logistics.  
-  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030`  
-  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0031`
-
-- **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)  
-  Hollywood rescue mythology can convert war into sacrifice, rescue, nobility, and special-forces glory.  
-  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0032`  
-  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0039`  
-  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0040`
-
-- **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)  
-  A dominant state can remain powerful while failing the war it thinks it is fighting.  
-  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0051`  
-  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0053`  
-  `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0055`
-
-- **2026-04-07**, [Jiang Xueqin Finally Breaks His Silence With PBD](/interviews/interview-wio-7-gios/)
-  Jiang defines American loss in Iran as forced Middle East retreat, loss of the GCC petrodollar machine, and pressure toward a self-sufficient Western Hemisphere rather than continued global empire.
-  `video:interview-wio-7-gios@transcript:v1#seg-0026`
-  `video:interview-wio-7-gios@transcript:v1#seg-0039`
-
-- **2026-04-09**, [Exclusive Interview with Professor Jiang by Dr James Cheong](/interviews/interview-rsld81qme04/)
-  The resource-empire formulation appears directly: losing the Middle East and GCC petrodollar recycling would push America from finance empire toward Western Hemisphere resources, energy, agriculture, rare earths, and weapons sales.
-  `video:interview-rsld81qme04@transcript:v1#seg-0068`
-  `video:interview-rsld81qme04@transcript:v1#seg-0069`
-
-- **2026-04-13**, [Jiang Xueqin: The Iran War & the Battle for the Petrodollar](/interviews/interview-p-dhmudovdo/)
-  Jiang sharpens the police-to-pirate turn: the petrodollar is treated as empire's basis, and naval protection can become toll extraction when consent, tariff authority, and dollar legitimacy weaken.
-  `video:interview-p-dhmudovdo@transcript:v1#seg-0004`
-  `video:interview-p-dhmudovdo@transcript:v1#seg-0027`
-
-- **2026-04-13**, [SNEAKO X Professor Jiang X Aleksandr Dugin](/interviews/interview-n44of1y7zgo/)
-  Greater North America becomes the continental-fortress version of the same strategy: shift from financial empire to resource empire through North American safety, oil, minerals, food, shipping routes, and forced energy dependence.
-  `video:interview-n44of1y7zgo@transcript:v1#seg-0061`
-  `video:interview-n44of1y7zgo@transcript:v1#seg-0064`
-
-- **2026-05-21**, [Putin Does Not Want The Throne](/episodes/predictive-history-x83hclwvhi8/)
-  Sanctioned-state volatility becomes a strategy for breaking dollar demand without replacing the world leader: Russia links sanctioned actors, North Korea creates Korean-peninsula friction, Europe absorbs attrition, and American policing has to spend itself across multiple boards.
-  `video:predictive-history-x83hclwvhi8@transcript:v1#seg-0031`
-  `video:predictive-history-x83hclwvhi8@transcript:v1#seg-0037`
-  `video:predictive-history-x83hclwvhi8@transcript:v1#seg-0041`
+For the moved access-control cluster, see [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/).
 
 ## Related Concepts
 
