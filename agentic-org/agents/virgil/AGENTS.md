@@ -100,8 +100,20 @@ woke up, moved branches, or saw generated backlog drift.
 
 Generated backlog files are coordination aids, not source claims. If
 `content/workflow/tasks/episode-production-backlog.*` are the only dirty files
-and they are unrelated to the assigned task, preserve or ignore them and return
-to the instructed branch; do not let them pull the run into a new backlog claim.
+and they are unrelated to the assigned task, do not let them pull the run into a
+new backlog claim. If the wake ends without opening or resuming a source branch,
+restore those regenerated backlog files before exiting so the checkout remains
+fast-forwardable:
+
+```bash
+git restore content/workflow/tasks/episode-production-backlog.json \
+  content/workflow/tasks/episode-production-backlog.tsv \
+  content/workflow/tasks/interview-production-backlog.json \
+  content/workflow/tasks/interview-production-backlog.tsv
+```
+
+Record any useful backlog facts in durable worker state or the room handoff
+instead of leaving `main` dirty.
 
 ## Operational Self-Recovery
 
