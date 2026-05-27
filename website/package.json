@@ -7,6 +7,7 @@
   "license": "UNLICENSED",
   "scripts": {
     "dev": "astro dev",
+    "prebuild": "node ../ops/scripts/ensure-website-deps.mjs",
     "build": "node ../ops/scripts/compile-content.mjs && astro build && node scripts/generate-llms-txt.mjs",
     "check:production-output": "node scripts/check-production-output.mjs",
     "preview": "astro preview"
