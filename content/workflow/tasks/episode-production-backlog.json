@@ -1,20 +1,20 @@
 {
   "generated_by": "ops/scripts/build-episode-backlog.mjs",
-  "generated_at": "2026-05-27T09:38:43.650Z",
+  "generated_at": "2026-05-27T10:04:36.290Z",
   "channel": "@PredictiveHistory",
   "order": "oldest-first by YouTube channel playlist_index; playlist_index 1 is newest; null playlist entries last",
   "counts": {
-    "raw_sources": 148,
-    "staged_sources": 148,
-    "raw_source_videos": 148,
-    "staged_videos": 148,
+    "raw_sources": 149,
+    "staged_sources": 149,
+    "raw_source_videos": 149,
+    "staged_videos": 149,
     "imported_sources": 148,
-    "remaining_sources": 0,
+    "remaining_sources": 1,
     "imported_episodes": 148,
-    "remaining_episodes": 0,
-    "transcribed": 148,
-    "diarized": 148,
-    "missing_flat_metadata": 8
+    "remaining_episodes": 1,
+    "transcribed": 149,
+    "diarized": 149,
+    "missing_flat_metadata": 9
   },
   "videos": [
     {
@@ -2320,6 +2320,22 @@
       "metadata": true,
       "imported_episode": true,
       "imported_source": true
+    },
+    {
+      "video_id": "FspDllFoiDE",
+      "source_slug": "predictive-history-fspdllfoide",
+      "source_class": "episode",
+      "collection": "episodes",
+      "channel_path": "@PredictiveHistory",
+      "title": null,
+      "playlist_index": null,
+      "duration_seconds": null,
+      "duration_string": null,
+      "transcription": true,
+      "diarization": true,
+      "metadata": true,
+      "imported_episode": false,
+      "imported_source": false
     },
     {
       "video_id": "o2Nq--qU9Kc",
