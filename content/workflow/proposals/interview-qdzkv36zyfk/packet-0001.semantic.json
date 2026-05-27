@@ -1,0 +1,190 @@
+{
+  "packet_id": "interview-qdzkv36zyfk-semantics-pkt-0001",
+  "source_id": "video:interview-qdzkv36zyfk",
+  "source_date": "2025-10-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0001",
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0002",
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0003",
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0004"
+      ],
+      "kind": "exchange",
+      "summary": "Danny Haiphong opens the interview, frames an imminent Israel-Iran round two as a possible road to World War III, plays a Netanyahu clip, and asks Jiang how close the next war is and how Predictive History makes such forecasts.",
+      "speaker_attribution": "Host introduction, inserted Netanyahu clip, then host question to Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0005",
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0006",
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0007",
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the next Israel-Iran conflict is very close and likely far more sustained than the 12-day test run, then builds a causal chain from snapback sanctions and interlocking defense arrangements to Hormuz closure, US entry, and World War III.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0003"
+      ],
+      "note": "The diarization label changes because seg-0003 is a quoted Netanyahu clip, not a new live participant in the interview.",
+      "suggested_speaker": "quoted Netanyahu clip introduced by the host",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0001"
+      ],
+      "note": "The closing thanks from Jiang is absorbed into the host's opening segment after boundary repair; the live turn structure is still clear from context.",
+      "suggested_speaker": "host plus Jiang greeting",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The host frames the next Israel-Iran war as possibly only days away and potentially large enough to create a World War III scenario.",
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0001",
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Opening source framing on 2025-10-07.",
+      "topic_tags": ["israel-iran-war", "world-war-iii", "host-framing"],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the next Israel-Iran conflict is very close and that a second iteration will be much worse, more sustained, and able to draw in more powerful actors such as Russia.",
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Near-term prediction voiced on 2025-10-07.",
+      "topic_tags": ["israel-iran-war", "russia", "escalation"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the earlier 12-day war as a test run and says the ingredients are now in place for a long sustained war.",
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Comparative diagnosis on 2025-10-07 between the prior 12-day war and the expected next round.",
+      "topic_tags": ["12-day-war", "test-run", "sustained-war"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says snapback sanctions and a new web of Saudi-Pakistan, US-Qatar, and Russia-Iran arrangements create an interlocking-treaty environment similar to the pre-World War I months.",
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0005",
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Geopolitical diagnosis on 2025-10-07.",
+      "topic_tags": ["snapback-sanctions", "interlocking-treaties", "world-war-i-analogy"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the United States is actively enabling Israeli long-distance strikes by moving air tankers to Qatar, which in turn makes US bases legitimate Iranian targets and raises the chance of direct US entry into the war.",
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Current-war escalation model voiced on 2025-10-07.",
+      "topic_tags": ["united-states", "qatar", "air-tankers", "escalation"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that if Iran is forced to close the Strait of Hormuz, East Asian economies will suffer badly and the United States may send ground troops to secure the strait, turning the conflict into World War III.",
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Conditional prediction voiced on 2025-10-07.",
+      "topic_tags": ["strait-of-hormuz", "east-asia", "ground-troops", "world-war-iii"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0005"
+      ],
+      "moment": "The previous war is demoted from historic clash to mere test run for the real sustained conflict to come.",
+      "source_phrase": "it was almost like a test run",
+      "why_it_matters": "It gives the whole interview its temporal pressure: the real war has not happened yet, only the rehearsal.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0006"
+      ],
+      "moment": "Jiang compresses the region's treaty map into a pre-1914 machine where a small conflict can pull in the world.",
+      "source_phrase": "almost is a replay of the months before World War I",
+      "why_it_matters": "This is his main mechanism for why a regional war stops being regional.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0008"
+      ],
+      "moment": "Hormuz becomes the trapdoor through which a contained exchange turns into World War III.",
+      "source_phrase": "if it does that then it's basically World War III",
+      "why_it_matters": "It preserves the sharp conditional hinge Jiang thinks the global economy and US military posture have created.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "snapback sanctions",
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0002",
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The sanctions mechanism the host and Jiang treat as one of the immediate triggers tightening the approach to war with Iran.",
+      "confidence": "high"
+    },
+    {
+      "term": "Strait of Hormuz",
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The chokepoint Jiang names as the economic hinge that could force US ground involvement and globalize the war.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0002",
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0005",
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0008"
+      ],
+      "note": "On 2025-10-07 Jiang is not speaking abstractly about eventual tension; he is predicting an imminent second-round Israel-Iran war measured in days or weeks and tying it to fresh sanctions and troop positioning.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0005"
+      ],
+      "note": "The transcript says 'stop-back sanctions'; context and the host's prior framing make clear this means snapback sanctions, but the packet keeps the source concept rather than over-correcting transcript text in quoted phrasing."
+    },
+    {
+      "refs": [
+        "video:interview-qdzkv36zyfk@transcript:v1#seg-0008"
+      ],
+      "note": "The ASR phrase 'it cannot execute itself' is damaged; the packet preserves only the clear meaning that once US ground troops are committed, Washington cannot easily extract itself."
+    }
+  ]
+}
