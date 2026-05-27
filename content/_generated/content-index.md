@@ -2229,6 +2229,7 @@ Claim blocks: **0**
 - `content/workflow/proposals/interview-wio-7-gios/packet-0016.semantic.json`
 - `content/workflow/proposals/interview-wio-7-gios/packet-0017.semantic.json`
 - `content/workflow/proposals/interview-wio-7-gios/packet-0018.semantic.json`
+- `content/workflow/proposals/interview-xcdhfrp4wyi/corpus-impact.json`
 - `content/workflow/proposals/interview-xcdhfrp4wyi/packet-0001.semantic.json`
 - `content/workflow/proposals/interview-xcdhfrp4wyi/packet-0002.semantic.json`
 - `content/workflow/proposals/interview-xcdhfrp4wyi/packet-0003.semantic.json`
