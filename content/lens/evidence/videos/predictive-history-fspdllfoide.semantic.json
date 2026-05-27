@@ -1,0 +1,1639 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-fspdllfoide:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-fspdllfoide",
+  "source_id": "video:predictive-history-fspdllfoide",
+  "source_title": "Great Books #12:  Dante in Paradise",
+  "source_url": "https://www.youtube.com/watch?v=FspDllFoiDE",
+  "source_date": "2026-05-27",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-fspdllfoide@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-fspdllfoide/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-fspdllfoide/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-fspdllfoide/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-fspdllfoide/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-fspdllfoide/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-fspdllfoide/packet-0006.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-fspdllfoide/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-fspdllfoide/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 6,
+    "interactions": 18,
+    "speaker_notes": 8,
+    "claims": 49,
+    "signature_moments": 23,
+    "predictions": 1,
+    "models": 23,
+    "glossary_terms": 22,
+    "chronology_notes": 8,
+    "uncertainty_notes": 14
+  },
+  "first_refs": [
+    "video:predictive-history-fspdllfoide@transcript:v1#seg-0001",
+    "video:predictive-history-fspdllfoide@transcript:v1#seg-0002",
+    "video:predictive-history-fspdllfoide@transcript:v1#seg-0003",
+    "video:predictive-history-fspdllfoide@transcript:v1#seg-0004",
+    "video:predictive-history-fspdllfoide@transcript:v1#seg-0005",
+    "video:predictive-history-fspdllfoide@transcript:v1#seg-0006",
+    "video:predictive-history-fspdllfoide@transcript:v1#seg-0007",
+    "video:predictive-history-fspdllfoide@transcript:v1#seg-0008"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0001",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0002",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0003",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0004"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames Homer, Virgil, and Dante as the three decisive poets of Western history, then casts Dante's task as defeating Virgil's empire logic in order to restore imagination, individuality, and humanity's connection to the source.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0005",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "He introduces Paradise as a harder second ascent: Dante and Beatrice travel from the moon through the spheres toward God, and heaven is defined as philosophical dialogue aimed at the truth of the universe.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0007"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads or paraphrases Dante's exchange in which Dante asks about the moon's dark spots, offers a matter-and-rarity explanation, and Beatrice says reason alone has short wings and will be rebutted.",
+      "speaker_attribution": "Jiang voicing Dante and Beatrice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets the exchange as a lesson that observation and reason alone trap humans in error, while faith, love, intuition, and imagination are needed to approach truth; he then restates Dante's initial hollow-moon hypothesis.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0009",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang restates the common hollow-moon explanation, briefly compares it to a modern scientific guess about low-reflective minerals, and then says Beatrice will refute the theory by using eclipse logic and scientific reasoning.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0011",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0012",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0013",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0014"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads or paraphrases Beatrice's textual rebuttal: if density and rarity explained the dark patches, the same logic should hold across the heavens, eclipses would behave differently, and a mirror experiment can test the claim.",
+      "speaker_attribution": "Jiang reading and glossing Beatrice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0015",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "He interprets the mirror experiment as proof that brightness does not simply fade with remoteness and extends it into a cosmological model in which one divine source emits light through the whole universe.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0017",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0018"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads Beatrice's cosmological explanation: the heavens receive power from above, pass it downward, and produce visible differences through a forming principle rather than through dense versus rare matter.",
+      "speaker_attribution": "Jiang reading and lightly glossing Dante",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0018",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0019",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0020"
+      ],
+      "kind": "monologue",
+      "summary": "He interprets the passage as a one-source universe of divine light, compares that universe to a body animated by consciousness, and says love plus imagination are the human means of receiving and intensifying that light.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0021",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0022",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0023"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reframes the ending of Paradise as a metaphysical problem: God cannot know itself because perfection lacks imagination, so humanity and finally Dante are needed to complete divine self-knowledge.",
+      "speaker_attribution": "Jiang lecture monologue with rhetorical prompts",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0024"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "After asserting that only Dante can tell God what God is, Jiang begins the final canto by reading Bernard's prayer to Mary.",
+      "speaker_attribution": "Jiang setup plus quoted reading",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0025",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0026"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang continues Bernard's prayer to Mary, then glosses it as a request for the virtue and imaginative elevation Dante will need to see God.",
+      "speaker_attribution": "Jiang reading Bernard and interpreting the prayer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0027",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0028"
+      ],
+      "kind": "monologue",
+      "summary": "He identifies Dante's virtue as love for Beatrice and his imagination as poetry, then argues that ego and fear must be abandoned if the mortal mind is to survive and retain divine vision.",
+      "speaker_attribution": "Jiang lecture monologue interwoven with quoted reading",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0029",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0030"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads Dante's encounter with pure light and explains the vision as overwhelming beyond speech or memory, surviving only as an afterimage like a dream or a snowflake before the sun.",
+      "speaker_attribution": "Jiang reading Dante and interpreting the imagery",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0031",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0032"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang makes the chronology explicit by moving twenty years forward to Dante's later act of reconstruction: the poem becomes an attempt to report to future humanity a vision of a universe bound together by love.",
+      "speaker_attribution": "Jiang lecture monologue with quoted reading",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0033"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang reads Dante's language about the perfect light and the inadequacy of speech, then folds it into his paraphrase that the vision exceeds words.",
+      "speaker_attribution": "Jiang reading Dante, then interpreting",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0034",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0035",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0036",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0037",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0038",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0039",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0040"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets Dante's final vision as the Trinity, stresses the paradox of a human likeness inside God, then resolves the ending through the Beatrice mirror experiment and the claim that love is the force unifying the universe.",
+      "speaker_attribution": "Jiang lecture monologue with brief quoted lines from Dante",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0041"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes by saying rereading reveals Dante's meaning, that Divine Comedy becomes a portal into the mind of God, and that a great book permanently changes the reader.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0007"
+      ],
+      "note": "The transcript blends Jiang's narration with quoted Dante text and Beatrice's reply; this segment should be treated as read or paraphrased source material rather than a fresh classroom exchange.",
+      "suggested_speaker": "Jiang reading Dante and Beatrice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0011",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0012",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0013",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0014"
+      ],
+      "note": "These segments mix recited Dante lines with Jiang's paraphrase and explanatory transitions; the safest reading is quoted material under Jiang's narration rather than independent classroom dialogue.",
+      "suggested_speaker": "Jiang reading Beatrice and commenting",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0019"
+      ],
+      "note": "The brief 'is this clear, guys?' prompt is Jiang's classroom check-in, not a substantive audience question.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0017",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0018",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0024"
+      ],
+      "note": "The diarization stays on one speaker because Jiang is reading Dante aloud; these spans should be treated as quoted material embedded in lecture, not as Jiang-originated claims alone.",
+      "suggested_speaker": "Jiang reading Beatrice and Bernard",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0025",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0026",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0029",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0030",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0031",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0032"
+      ],
+      "note": "These segments remain single-speaker diarization because Jiang is alternating between reading Dante aloud and paraphrasing him; the packet separates quoted-material spans conceptually rather than by diarization label.",
+      "suggested_speaker": "Jiang reading Bernard and Dante",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0033"
+      ],
+      "note": "The segment blends direct recitation from the poem with Jiang's explanation; the boundary between quoted wording and paraphrase is audible but not fully clean in the transcript text.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0035",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0036",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0037"
+      ],
+      "note": "Jiang continues as a single speaker, but he alternates between quoted Dante lines and his own emphatic glosses, so quoted material should not be mistaken for Jiang's direct doctrinal claim.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0041"
+      ],
+      "note": "Single-speaker closeout from Jiang; the only uncertainty is ASR noise in the opening clause.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang presents Homer, Virgil, and Dante as the three great poets whose works successively found Greek civilization, Roman and Catholic order, and then modernity after the Dark Ages.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture framing on 2026-05-27 about civilizational history.",
+      "topic_tags": [
+        "Homer",
+        "Virgil",
+        "Dante",
+        "civilization"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang's Homer, love and imagination are the universe's unifying force, and the individual's connection to the source is what lights the world.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27.",
+      "topic_tags": [
+        "Homer",
+        "love",
+        "imagination",
+        "source"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang's Virgil, empire replaces source-connection with piety and obedience to authority, which destroys individuality and stops civilization's creativity.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27.",
+      "topic_tags": [
+        "Virgil",
+        "empire",
+        "authority",
+        "creativity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dante's historical task, as Jiang defines it, is to defeat Virgil, reconnect humanity to the source, and restore imagination as the animating force of the universe.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0003",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27.",
+      "topic_tags": [
+        "Dante",
+        "Virgil",
+        "source",
+        "imagination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Paradise is not rest after Inferno and Purgatory but a more arduous ascent whose purpose is to discover the truth of the universe and the self through Beatrice's guidance.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0004",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0005",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27.",
+      "topic_tags": [
+        "Paradiso",
+        "Beatrice",
+        "truth",
+        "cosmos"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Heaven is defined here as debate, dialogue, and deep philosophy rather than romantic reunion or passive reward.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27.",
+      "topic_tags": [
+        "heaven",
+        "dialogue",
+        "philosophy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inferno and Purgatory prepare the mind not mainly by moral cleansing but by suffering that furnishes the knowledge required for the intellectual challenge of heaven.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27.",
+      "topic_tags": [
+        "Inferno",
+        "Purgatory",
+        "knowledge",
+        "heaven"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "In the moon scene, Beatrice's position as Jiang explains it is that observation and reason alone lead mortals into error; faith, love, intuition, and imagination are needed to reach truth.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0007",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27 of Dante's moon episode.",
+      "topic_tags": [
+        "Beatrice",
+        "reason",
+        "imagination",
+        "truth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dante's initial explanation for the moon's dark spots is the common view that hollow or rarer portions let light pass through, producing darker regions.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0007",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Quoted or paraphrased source material discussed on 2026-05-27.",
+      "topic_tags": [
+        "moon",
+        "dark spots",
+        "density and rarity"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the modern scientific explanation for the moon's dark spots is a guess about lava-formed rocks and minerals with low reflectivity, not settled certainty.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Lecture comparison on 2026-05-27 between Dante's problem and modern science.",
+      "topic_tags": [
+        "moon",
+        "science",
+        "reflectivity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Beatrice's rebuttal begins by showing that a truly hollow moon would not fully black out the sun during an eclipse, so the density-and-rarity account fails its own astronomical test.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0010",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0012",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27 of Beatrice's argument.",
+      "topic_tags": [
+        "Beatrice",
+        "eclipse",
+        "moon",
+        "density and rarity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats Beatrice's reasoning as an important use of the scientific method: experiment and observation are deployed to show why the apparently rational initial explanation is wrong.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0010",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0011",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27.",
+      "topic_tags": [
+        "scientific method",
+        "Beatrice",
+        "experiment"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "If density and rarity were the true cause of brightness differences, Beatrice argues, the same principle should explain variations across the rest of the stars and celestial bodies, which it does not.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0011",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Quoted or paraphrased source argument discussed on 2026-05-27.",
+      "topic_tags": [
+        "stars",
+        "celestial bodies",
+        "density and rarity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The three-mirror experiment is presented as showing that a farther reflection may appear smaller but not dimmer, so distance or recessed depth alone does not explain the moon's darker patches.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0013",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0014",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27 of Beatrice's experiment.",
+      "topic_tags": [
+        "mirrors",
+        "brightness",
+        "experiment"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang radicalizes the mirror experiment into a cosmology: light at the end of the universe would still burn as brightly as the original source because all brightness comes from one emanating divine principle.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0015",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27.",
+      "topic_tags": [
+        "divine light",
+        "source",
+        "universe",
+        "emanation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The true explanation for dark and bright regions, in Jiang's reading of Beatrice, is not matter being more or less rare but different degrees of divine light or formative power shining through created bodies.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27.",
+      "topic_tags": [
+        "divine light",
+        "forming principle",
+        "dark and bright"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Beatrice's cosmology as Jiang presents it, the heavens receive power from above and act downward, with each sphere stamped by a higher intellect that shapes lower reality.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Lecture reading on 2026-05-27 of Dante's cosmic order.",
+      "topic_tags": [
+        "Dante",
+        "cosmos",
+        "emanation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The differences between bright and dark in the cosmos come from a forming principle of light rather than from matter being rare or dense.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27 of Beatrice's answer about the moon and the heavens.",
+      "topic_tags": [
+        "light",
+        "form",
+        "matter"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets the universe as having one source that emanates divine light and serves as the underlying fundamental principle of reality.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Lecture model on 2026-05-27.",
+      "topic_tags": [
+        "divine-light",
+        "source",
+        "metaphysics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The human body is Jiang's analogy for the cosmos: consciousness animates a body just as a unifying source animates the universe.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0018",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Lecture model on 2026-05-27.",
+      "topic_tags": [
+        "consciousness",
+        "body",
+        "analogy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Humans receive divine light through love, and imagination is what lets that received light grow brighter within them.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Lecture teaching on 2026-05-27.",
+      "topic_tags": [
+        "love",
+        "imagination",
+        "divine-light"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says physical principles are the wrong lens for this part of Dante; the universe should instead be understood through faith, consciousness, love, and imagination.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0019",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-05-27.",
+      "topic_tags": [
+        "physical-principles",
+        "faith",
+        "imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The class is presented as groundwork for a lifelong reading of Divine Comedy rather than a complete explanation of the poem in one course or one year.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Lecture framing on 2026-05-27.",
+      "topic_tags": [
+        "Divine Comedy",
+        "reading-practice",
+        "pedagogy"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "At the end of Paradise, Beatrice departs, Bernard becomes Dante's guide in the highest heaven, and Dante's role is to meet God directly.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0020",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Lecture narration on 2026-05-27 of the poem's ending.",
+      "topic_tags": [
+        "Beatrice",
+        "Bernard",
+        "Paradise"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that God cannot know itself because perfection already contains everything and therefore lacks the imaginative limit-breaking needed for self-knowledge.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0021",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Provocative lecture model on 2026-05-27.",
+      "topic_tags": [
+        "God",
+        "perfection",
+        "imagination",
+        "self-knowledge"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Humanity is presented as God's means of self-knowledge, and Dante is the chosen individual who must come to God and let God know what it is in order to complete the divine project.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27.",
+      "topic_tags": [
+        "humanity",
+        "Dante",
+        "God",
+        "completion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Because human beings combine soul and body, they have both connection to the divine source and the finite limitations that generate imagination.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Lecture anthropology on 2026-05-27.",
+      "topic_tags": [
+        "soul",
+        "body",
+        "imagination",
+        "humanity"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Only Dante, not angels, Bernard, or Mary, can tell God what God is because only the embodied human position has the necessary imaginative capacity.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0023",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Lecture claim on 2026-05-27 about the end of Paradise.",
+      "topic_tags": [
+        "Dante",
+        "Mary",
+        "angels",
+        "imagination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets Bernard's prayer as saying Dante's mission to help God know itself completes a path that Mary began by making mortal humanity capable of containing God.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27 of Bernard's Marian prayer.",
+      "topic_tags": [
+        "Mary",
+        "Dante",
+        "incarnation",
+        "mission"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Higher vision in this scene means imagination rather than ordinary eyesight, and virtue plus love are the conditions that activate that imagination.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Lecture definition on 2026-05-27.",
+      "topic_tags": [
+        "higher-vision",
+        "imagination",
+        "virtue",
+        "love"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dante is selected because of his imagination and virtue, which Jiang concretizes as poetry and eternal love for Beatrice.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0026",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Lecture model on 2026-05-27.",
+      "topic_tags": [
+        "Dante",
+        "Beatrice",
+        "poetry",
+        "virtue"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "To understand God, Dante must abandon mortal passions such as fear and ego; otherwise the mind cannot sustain or preserve the vision.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0027",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Lecture model on 2026-05-27.",
+      "topic_tags": [
+        "ego",
+        "fear",
+        "virtue",
+        "vision"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "God appears to Dante as pure light, and the encounter exceeds speech and memory so completely that only an impressed feeling remains, as after a dream.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27 of Dante's theophany.",
+      "topic_tags": [
+        "God",
+        "pure-light",
+        "memory",
+        "speech"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang explicitly marks an internal chronology in which Dante had the vision twenty years earlier and then spent the following twenty years trying to remember and reconstruct it through imagination.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0030",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Chronology inside the poem as explained in the 2026-05-27 lecture.",
+      "topic_tags": [
+        "chronology",
+        "memory",
+        "imagination",
+        "Dante"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dante's task is not only to understand God personally but also to report the vision to future humanity so people may better understand God and themselves.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27.",
+      "topic_tags": [
+        "future-humans",
+        "witness",
+        "self-knowledge",
+        "Dante"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In Dante's vision, what seems separate in the universe is actually bound together by love into one single volume.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Lecture reading on 2026-05-27 of Dante's final vision.",
+      "topic_tags": [
+        "love",
+        "unity",
+        "cosmos",
+        "vision"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Dante's final state as rapt, motionless joy before total interconnectedness, with the experience remaining more powerful than centuries of ordinary memory.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-05-27.",
+      "topic_tags": [
+        "joy",
+        "memory",
+        "interconnectedness",
+        "vision"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Dante's final vision presents a perfect, immutable, eternal totality that cannot be adequately captured in ordinary language.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "2026-05-27 lecture interpretation of Dante's ending",
+      "topic_tags": [
+        "Dante",
+        "God",
+        "language-limits",
+        "perfection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames Dante as reaching his understanding after twenty years of meditation and identifies the three same-sized circles as the Holy Trinity, which he calls the essence of Christianity.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "2026-05-27 lecture; Jiang explicitly describes the vision as understood twenty years later",
+      "topic_tags": [
+        "chronology",
+        "Trinity",
+        "Christianity",
+        "Dante"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The three circles reflect one another and include a fire-like relation, but the decisive problem is that a human effigy appears within the Godhead.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0035",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "2026-05-27 lecture interpretation of Dante's vision",
+      "topic_tags": [
+        "Trinity",
+        "human-likeness",
+        "paradox",
+        "incarnation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the presence of humanity inside God as the central paradox of the poem's ending and says Dante ends with a question rather than a final discursive answer.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "2026-05-27 lecture interpretation of the ending",
+      "topic_tags": [
+        "paradox",
+        "question",
+        "ending",
+        "Dante"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Divine Comedy is not meant to function as the Bible but to provoke the reader's own journey, and repeated rereading deepens understanding and changes how one lives and sees oneself.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "2026-05-27 lecture claim about how to read the work over a lifetime",
+      "topic_tags": [
+        "great-books",
+        "rereading",
+        "formation",
+        "method"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Beatrice's three-mirrors experiment supplies the key for interpreting the vision: the candle reflected in three mirrors also reflects the human holder, producing an image of the Godhead that includes the human within it.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0038",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "2026-05-27 lecture interpretation",
+      "topic_tags": [
+        "Beatrice",
+        "mirror-experiment",
+        "Godhead",
+        "human-reflection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies God as the candle or spark burning in human beings, naming it as the memory of God and therefore God in us.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0039",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "2026-05-27 lecture metaphysical interpretation",
+      "topic_tags": [
+        "candle",
+        "spark",
+        "memory-of-God",
+        "divine-immanence"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The more good a person does, the more the inextinguishable spark burns, and the culminating insight is that God is love, the fundamental power unifying the universe and moving desire and will.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "2026-05-27 lecture claim about moral and cosmic order",
+      "topic_tags": [
+        "goodness",
+        "spark",
+        "love",
+        "desire",
+        "will",
+        "unity"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "On a first reading of Divine Comedy the reader cannot yet figure out what Dante saw, but repeated reading gradually reveals the work's secrets.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "2026-05-27 lecture claim about the reader's sequence of understanding",
+      "topic_tags": [
+        "rereading",
+        "reading-method",
+        "Dante"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Once the reader understands what Dante saw, the reader can see the universe in the same way Dante saw it.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "2026-05-27 lecture interpretive claim",
+      "topic_tags": [
+        "vision",
+        "imitation",
+        "universe",
+        "Dante"
+      ],
+      "claim_type": "normative",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang defines Divine Comedy first and foremost as a portal into the mind of God and uses that as his working definition of what a great book is.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "2026-05-27 lecture definition",
+      "topic_tags": [
+        "great-books",
+        "mind-of-God",
+        "definition"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that Divine Comedy will change who the reader is forever.",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "future effect on readers as asserted on 2026-05-27",
+      "topic_tags": [
+        "prediction",
+        "transformation",
+        "reading"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0003",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0004"
+      ],
+      "moment": "Human history is a two-force war between empire, which cuts people off from the source, and civilization or love, which reconnects them and reanimates the universe.",
+      "source_phrase": "two competing countervailing forces",
+      "why_it_matters": "This is Jiang's civilizational master-frame for why Dante matters beyond literary history.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0004"
+      ],
+      "moment": "Paradise is another journey, and in fact a more arduous one.",
+      "source_phrase": "paradise itself is another journey that is actually more arduous",
+      "why_it_matters": "It overturns the expectation that heaven is a static reward and prepares the episode's focus on strenuous knowing.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0005"
+      ],
+      "moment": "Instead of lovers reuniting sentimentally, Dante and Beatrice begin with deep philosophical combat over the structure of reality.",
+      "source_phrase": "heaven is fundamentally about debate dialogue and philosophy",
+      "why_it_matters": "It preserves Jiang's surprise that heaven is intellectual intensity, not consolation.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0007",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0008"
+      ],
+      "moment": "Reason has short wings; to see truly, Dante must move past observation into faith, love, intuition, and imagination.",
+      "source_phrase": "reason even when support the senses has short wings",
+      "why_it_matters": "This compact image gives the lecture its epistemic stake and sets up Beatrice's later use of science against scientism.",
+      "tone": "metaphor",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0010",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0011"
+      ],
+      "moment": "Beatrice defeats a bad explanation by doing better science than the merely scientific explanation.",
+      "source_phrase": "using scientific methods experiments observations to show you how this can't be true",
+      "why_it_matters": "This preserves the lecture's surprise that imagination and higher truth do not cancel experiment but can absorb and outrun it.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0014",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0015"
+      ],
+      "moment": "The mirror experiment becomes a metaphysical proof that remoteness changes apparent size, not the source-intensity of light.",
+      "source_phrase": "it must match the brightness of the rest",
+      "why_it_matters": "It is the packet's key bridge from optics to cosmology.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0015"
+      ],
+      "moment": "Push the mirrors outward forever and the last light in the universe still burns with the original brightness.",
+      "source_phrase": "the light at the end of the universe would still burn as brightly as the original source",
+      "why_it_matters": "This is Jiang's strongest image for an emanating cosmos that does not thin out into ontological darkness.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0016"
+      ],
+      "moment": "Brightness means the source is glowing strongly in you.",
+      "source_phrase": "if you are bright, it means the source is glowing brightly in you",
+      "why_it_matters": "It condenses the packet's cosmology into a reusable Jiang definition of spiritual and metaphysical illumination.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0018"
+      ],
+      "moment": "Brightness becomes metaphysical, not material: if you shine, the source is shining brightly in you.",
+      "source_phrase": "if you are bright, it means the source is glowing brightly in you",
+      "why_it_matters": "It compresses Jiang's whole reading of Dantean cosmology into one memorable image of participation in divine light.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0019"
+      ],
+      "moment": "Love is not sentiment here; it is the mechanism for receiving light, and imagination is the mechanism for growing brighter.",
+      "source_phrase": "by loving ... then we imagine",
+      "why_it_matters": "It preserves Jiang's causal chain from ethics to perception to cosmic participation.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0021"
+      ],
+      "moment": "The shocking reversal is that God does not know what God is, and only Dante can know it.",
+      "source_phrase": "God doesn't know ... Only Dante can know what God is",
+      "why_it_matters": "This is the packet's most provocative turn and reframes the climax of Paradise as a problem of divine self-knowledge.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0022"
+      ],
+      "moment": "Humanity exists so God can know itself and complete itself through a finite, imaginative creature.",
+      "source_phrase": "God created humanity to know itself",
+      "why_it_matters": "It turns the whole human story into a cosmological function rather than a merely moral or devotional one.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0026"
+      ],
+      "moment": "The higher vision needed for salvation is not eyesight but imagination unlocked by virtue and love.",
+      "source_phrase": "higher vision ... is the imagination",
+      "why_it_matters": "It condenses Jiang's whole anthropology of perception into one portable formula.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0027"
+      ],
+      "moment": "Dante's two powers are named with unusual precision: his virtue is love for Beatrice and his imagination is poetry.",
+      "source_phrase": "His virtue is his eternal love for Beatrice ... His imagination? His poetry",
+      "why_it_matters": "It ties spiritual ascent to a concrete erotic and artistic discipline rather than generic piety.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0030"
+      ],
+      "moment": "Before God, Dante is a flake of snow before the sun, annihilated except for sweetness and awe.",
+      "source_phrase": "I'm just a flake of snow, and now I'm before the sun",
+      "why_it_matters": "The image preserves the asymmetry between mortal consciousness and divine light better than abstract theological summary could.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0031",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0032"
+      ],
+      "moment": "The poem becomes a twenty-year reconstruction project: to carry one gleam of glory from shattered memory into lines future humans can inherit.",
+      "source_phrase": "leave to people of the future one gleam of glory",
+      "why_it_matters": "It turns Divine Comedy into a work of delayed witness rather than immediate description.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0032"
+      ],
+      "moment": "God appears as a single volume bound by love, where all scattered substances and accidents belong to one knot.",
+      "source_phrase": "ingathered and bound by love into one single volume",
+      "why_it_matters": "This is the packet's clearest image of total unity and the final shape of Jiang's reading of Paradise.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0034"
+      ],
+      "moment": "Jiang turns Dante's final sight into a delayed recognition scene: after twenty years, the indescribable light resolves into the Trinity.",
+      "source_phrase": "After 20 years of constantly meditation, he's figured out what that thing was.",
+      "why_it_matters": "This makes chronology part of the interpretation: revelation is not instant possession but a decades-later act of understanding.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0036",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0037"
+      ],
+      "moment": "The ultimate theological climax becomes a scandalous question: humanity is somehow inside God.",
+      "source_phrase": "Why are we inside God?",
+      "why_it_matters": "Jiang preserves the ending as an unresolved paradox rather than flattening it into settled doctrine.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0039"
+      ],
+      "moment": "The Beatrice mirror exercise becomes a concrete image of the Godhead: three mirrors, one candle, and your own reflected presence inside the infinite reflections.",
+      "source_phrase": "take three mirrors",
+      "why_it_matters": "This is the packet's strongest image because it translates abstract Trinitarian metaphysics into an experiment the listener can reenact.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0040"
+      ],
+      "moment": "Jiang resolves the vision by equating God with the inner spark of desire and will moved by love.",
+      "source_phrase": "God is love and love is the fundamental fundamental power that unifies the entire universe",
+      "why_it_matters": "This is the packet's main metaphysical payoff: the cosmic force and the human interior are joined through love.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0041"
+      ],
+      "moment": "The poem is not merely interpreted; it becomes a portal into the mind of God.",
+      "source_phrase": "Divine Comedy is first and foremost a portal into the mind of God",
+      "why_it_matters": "This is Jiang's climactic compression of the lecture's whole metaphysical reading and his strongest reusable phrase in the segment.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0041"
+      ],
+      "moment": "A great book is defined by its power to alter the reader permanently.",
+      "source_phrase": "it will change who you are forever",
+      "why_it_matters": "Jiang ends by tying literary greatness to existential transformation rather than information or doctrine.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "source",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0002",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "The originating divine or metaphysical principle to which individuals can connect and from which imagination and light flow.",
+      "confidence": "high"
+    },
+    {
+      "term": "piety",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Virgil's empire virtue in Jiang's frame: obedience to authority that displaces individuality and source-connection.",
+      "confidence": "high"
+    },
+    {
+      "term": "Imperium",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The destination sphere where God and angels are, described as the universe's center and the journey's end.",
+      "confidence": "medium"
+    },
+    {
+      "term": "density and rarity",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0007",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The common explanatory model Dante first offers for the moon's dark spots: rarer or hollow parts let light pass through.",
+      "confidence": "high"
+    },
+    {
+      "term": "scientific method",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0010",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Jiang's label for Beatrice's use of experiment and observation to refute the density-and-rarity theory.",
+      "confidence": "high"
+    },
+    {
+      "term": "formal principles",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "The differing causes or forms Beatrice invokes to explain why celestial lights vary in quality rather than being reducible to one material measure.",
+      "confidence": "medium"
+    },
+    {
+      "term": "forming principle",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The principle that produces dark and bright differences by transmitting different degrees of divine light, rather than by material hollowness.",
+      "confidence": "high"
+    },
+    {
+      "term": "divine light",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The underlying light of the source that emanates through the universe and determines true brightness.",
+      "confidence": "high"
+    },
+    {
+      "term": "divine light",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0018",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0019"
+      ],
+      "definition_or_usage": "The one source emanating through the universe and glowing more brightly in beings who receive it through love.",
+      "confidence": "high"
+    },
+    {
+      "term": "forming principle",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0018"
+      ],
+      "definition_or_usage": "The principle Jiang uses to explain why cosmic lights differ without reducing the differences to dense versus rare matter.",
+      "confidence": "high"
+    },
+    {
+      "term": "Imperium",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0020",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "The highest heaven or seat of God where Bernard guides Dante for the final meeting.",
+      "confidence": "medium"
+    },
+    {
+      "term": "blessed movers",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "Higher agents or intelligences that move the celestial spheres and transmit order downward.",
+      "confidence": "medium"
+    },
+    {
+      "term": "higher vision",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Jiang's term for the imaginative capacity, activated by virtue and love, that can perceive God beyond ordinary sight.",
+      "confidence": "high"
+    },
+    {
+      "term": "mortal passions",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "Fear, ego, and other lower attachments that must be curbed if Dante is to sustain divine vision.",
+      "confidence": "high"
+    },
+    {
+      "term": "one single volume",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Dante's vision of the universe as a totality whose scattered parts are gathered and bound together by love.",
+      "confidence": "high"
+    },
+    {
+      "term": "Holy Trinity",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0034",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "Jiang names Dante's three equal circles as the Christian Godhead: Father, Son, and Holy Spirit in one essence.",
+      "confidence": "high"
+    },
+    {
+      "term": "human effigy",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0035",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "The human likeness Jiang says Dante sees within the Trinity, creating the paradox that humanity appears inside God's own being.",
+      "confidence": "high"
+    },
+    {
+      "term": "Godhead",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0034",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Jiang's term for the triune divine reality, later visualized through the candle-and-mirrors experiment.",
+      "confidence": "high"
+    },
+    {
+      "term": "memory of God",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "Jiang's name for the candle burning inside a person; it marks the divine presence within human beings.",
+      "confidence": "medium"
+    },
+    {
+      "term": "love that moves the sun and the other stars",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0037",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Quoted Dante line Jiang uses to define love as the final unifying power of the cosmos and of human desire and will.",
+      "confidence": "high"
+    },
+    {
+      "term": "great book",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "A work that functions as a portal into the mind of God and transforms the reader through rereading.",
+      "confidence": "high"
+    },
+    {
+      "term": "portal into the mind of God",
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "Jiang's culminating description of what Divine Comedy is and what genuinely great literature does.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0001",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0004"
+      ],
+      "note": "This 2026-05-27 lecture explicitly stages Dante after earlier course work on Inferno, Purgatory, and Virgil, and treats Paradise as the next step in an already-running Great Books chronology.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0007",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0008"
+      ],
+      "note": "Within the lecture's own sequence, Jiang first presents Dante's mistaken moon explanation before later refuting it through Beatrice; this packet records the setup, not the completed rebuttal.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0009",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0016"
+      ],
+      "note": "This 2026-05-27 packet completes the argument only introduced in packet 0001: Dante's initial material explanation is superseded by Beatrice's experimental rebuttal and then by a higher cosmological account of emanating light.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0020"
+      ],
+      "note": "Within the lecture's narrative progression, this packet marks a jump from Beatrice's earlier cosmological explanation to the final canto in the highest heaven.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0030",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0031"
+      ],
+      "note": "Jiang makes an explicit time jump inside the poem: the divine vision occurs first, then the speaking/writing Dante is located twenty years later, reconstructing it from memory at home in Italy.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0034"
+      ],
+      "note": "Jiang explicitly says Dante understands the vision after twenty years of meditation, so the poem's final recognition is temporally layered rather than immediate.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0038"
+      ],
+      "note": "Jiang presents rereading as cumulative over a lifetime: first reading leaves the ending unresolved, later readings reveal more.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0041"
+      ],
+      "note": "Jiang makes the order of reading explicit: the first reading leaves the reader unable to understand, and later readings progressively uncover the work's meaning.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0001"
+      ],
+      "note": "The transcript has several ASR distortions around names and historical labels, but the intended references to Homer, Virgil, Dante, and the divine comedy frame are clear from context."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0007"
+      ],
+      "note": "The quoted passage is noisy and partially garbled, so the semantic pass preserves the exchange's argumentative structure rather than claiming a line-exact Dante translation."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0009"
+      ],
+      "note": "Jiang's aside about current science and the moon's minerals is casual and compressed; it should be treated as a lecture gloss, not a precise scientific summary."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0011",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0012"
+      ],
+      "note": "The quoted Dante lines are noisy in ASR and include garbled wording such as 'very indecency' and 'pages in its volume'; the pass extracts the logical structure of Beatrice's rebuttal rather than overcommitting to damaged phrasing."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0017"
+      ],
+      "note": "The phrase transcribed as 'cross the fort alone' appears to be ASR noise in the quoted passage; the semantic extraction keeps the broader point about ascending to the truth."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0020"
+      ],
+      "note": "The source says 'Imperium'; context suggests the highest heaven in Paradise, but downstream use should preserve the cited wording unless checked against the poem."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0024"
+      ],
+      "note": "Several lines in Bernard's prayer are visibly noisy ASR or translation artifacts, so the packet uses them mainly as evidence of a Marian prayer frame rather than as stable wording."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0027",
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0028"
+      ],
+      "note": "Several lines in the Bernard prayer and Jiang's gloss are ASR-distorted, including phrases like 'first soul'; the extraction keeps the stable argument about virtue, love, and preserving the vision."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0030"
+      ],
+      "note": "The line about 'the oracles the civil once wrote' appears to be noisy transcription of a classical allusion; it is not reliable enough here for standalone semantic tagging."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0031"
+      ],
+      "note": "The transcript says 'Donny' in paraphrase, but context clearly indicates Dante."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0032"
+      ],
+      "note": "The quoted wording around 'its profoundly' and the final line is partially garbled by ASR, so downstream use should rely on the stable image of the universe bound by love rather than the exact noisy phrasing."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0033"
+      ],
+      "note": "The transcript blends Dante quotation and Jiang gloss in one segment, so exact quotation boundaries are approximate."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0040"
+      ],
+      "note": "ASR disfluency around 'the more good we do' obscures the exact wording of how moral action intensifies the inner spark, though Jiang's direction of meaning is clear."
+    },
+    {
+      "refs": [
+        "video:predictive-history-fspdllfoide@transcript:v1#seg-0041"
+      ],
+      "note": "The opening words are ASR-noisy ('how you see what what would it like comedy'), but the segment's core claim about rereading and revelation is still clear."
+    }
+  ]
+}

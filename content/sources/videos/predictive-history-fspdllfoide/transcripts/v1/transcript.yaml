@@ -1,0 +1,33 @@
+id: "video:predictive-history-fspdllfoide@transcript:v1"
+source_id: "video:predictive-history-fspdllfoide"
+version: 1
+language: "en"
+language_probability: 0.998
+duration_seconds: 2665.72
+segments: 41
+word_count: 6526
+speakers:
+  - "SPEAKER_00"
+chronology:
+  source_date: "2026-05-27"
+  date_precision: "day"
+  chronology_status: "dated"
+  date_gate_passed: true
+automation:
+  canon_promotion_allowed: true
+  human_review_policy: "report-driven"
+  speaker_label_source: "diarization"
+  semantic_pass: "agent-required"
+  accepts_error_reports: true
+segmentation:
+  strategy: "word-timestamp-chunks"
+  max_words: 160
+  max_seconds: 180
+  timed_phrase_chunks: "preserved-when-word-timestamps-exist"
+generated_from:
+  source_artifact_dir: "content/sources/raw/youtube/@PredictiveHistory/FspDllFoiDE"
+  youtube_metadata: "content/sources/raw/youtube/@PredictiveHistory/FspDllFoiDE/metadata.youtube.json"
+  youtube_metadata_source: "uvx yt-dlp"
+  transcription_json_sha256: "4189bd220199877422ba9d61346196a0f18416c9677a05f5816609f4c472f75b"
+  grouped_json_sha256: "22741341f59745090f2a69249926538bffe8f5d120e3bf94154a9b37c6112131"
+  dump_json_sha256: "5471cf1212c71edc53f486c6d0122d9717fa7454664f4de1a58902d48a79ca1b"
