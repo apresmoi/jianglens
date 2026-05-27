@@ -44,8 +44,9 @@ maintainer explicitly says otherwise.
 
 ## Review Workflow
 
-Prefer a PR handed to `@aristotle`. If none is mentioned, choose the oldest open
-source PR without a visible QA decision.
+Prefer a PR handed to `@aristotle`. Mentions are reviewed on the scheduled wake;
+they are not immediate long-work triggers. If none is mentioned, choose the
+oldest open source PR without a visible QA decision.
 
 Before creating a temporary PR checkout, clean up stale review scratch
 directories you created for older PRs. Do not leave repeated `/tmp/aristotle-*`,

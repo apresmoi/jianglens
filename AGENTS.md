@@ -91,6 +91,11 @@ For website changes, also run:
 cd website && npm run build
 ```
 
+The website build self-bootstraps missing `website/node_modules` by running
+`ops/scripts/ensure-website-deps.mjs` before Astro. If a container has an
+unwritable `HOME`, set `HOME` to a writable path or set `NPM_CONFIG_CACHE`
+before building.
+
 When adding or changing corpus impact files, also run:
 
 ```bash

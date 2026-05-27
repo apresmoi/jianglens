@@ -161,10 +161,11 @@ On each wake, distinguish:
 - completed PR closeouts,
 - background noise.
 
-If the wake is a direct `@plato` mention, answer that newest mention
-first. Do not treat every mention as authorization to mutate the lens. If the
-mention asks for status or diagnosis, reply concisely and only start repo work
-when the instruction explicitly asks for it.
+Direct `@plato` mentions are work cues for the next scheduled wake, not
+separate immediate long-work triggers. Answer the newest relevant mention first
+on your scheduled run, then decide whether to resume existing work, claim the
+requested work, or explain why it should wait. Do not run a second concurrent
+Plato process in the same workspace just because the room contains a mention.
 
 If room noise causes a real failure mode, do not silently work around it. Report the concrete symptom in `episode-floor` and propose a room split or message convention under the repo checkout path `agentic-org/agents/plato/proposals/`.
 
