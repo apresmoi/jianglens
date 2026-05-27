@@ -43,6 +43,7 @@ Options:
   --published-at YYYY-MM-DD    Overrides YouTube publication date
   --recorded-at YYYY-MM-DD     Recording date when different from publication date
   --source-url URL             Defaults to YouTube watch URL
+  --youtube-cookies PATH       Optional yt-dlp cookies file for metadata fallback
   --no-fetch-youtube-metadata  Do not call yt-dlp when metadata is missing
   --artifact-root PATH         Defaults to ${defaultArtifactRoot}
   --staging-root PATH          Legacy alias for --artifact-root
@@ -388,7 +389,7 @@ async function resolveMetadata(args, videoDir, videoId, { cache }) {
     return { filePath: null, metadata: null };
   }
 
-  const metadata = await fetchYoutubeMetadata(videoId);
+  const metadata = await fetchYoutubeMetadata(videoId, { cookiesFile: option(args, "youtube-cookies") });
   const filePath = path.join(videoDir, "metadata.youtube.json");
   if (cache) {
     await fs.writeFile(filePath, `${JSON.stringify(metadata, null, 2)}\n`);

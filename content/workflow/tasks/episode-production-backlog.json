@@ -1,6 +1,6 @@
 {
   "generated_by": "ops/scripts/build-episode-backlog.mjs",
-  "generated_at": "2026-05-26T13:40:57.563Z",
+  "generated_at": "2026-05-27T09:38:43.650Z",
   "channel": "@PredictiveHistory",
   "order": "oldest-first by YouTube channel playlist_index; playlist_index 1 is newest; null playlist entries last",
   "counts": {
@@ -8,10 +8,10 @@
     "staged_sources": 148,
     "raw_source_videos": 148,
     "staged_videos": 148,
-    "imported_sources": 147,
-    "remaining_sources": 1,
-    "imported_episodes": 147,
-    "remaining_episodes": 1,
+    "imported_sources": 148,
+    "remaining_sources": 0,
+    "imported_episodes": 148,
+    "remaining_episodes": 0,
     "transcribed": 148,
     "diarized": 148,
     "missing_flat_metadata": 8
@@ -2317,9 +2317,9 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "imported_episode": true,
+      "imported_source": true
     },
     {
       "video_id": "o2Nq--qU9Kc",

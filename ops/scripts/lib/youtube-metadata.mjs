@@ -51,22 +51,64 @@ export function compactYoutubeMetadata(info, source = "yt-dlp") {
   };
 }
 
-async function runYtDlp(commandPrefix, videoId) {
+async function runYtDlp(commandPrefix, videoId, { cookiesFile = null } = {}) {
   const [binary, ...prefixArgs] = commandPrefix;
   const args = [
     ...prefixArgs,
     "--dump-json",
     "--skip-download",
     "--no-warnings",
-    youtubeUrl(videoId),
   ];
+  if (cookiesFile) {
+    args.push("--cookies", cookiesFile);
+  }
+  args.push(youtubeUrl(videoId));
   const { stdout } = await execFileAsync(binary, args, { maxBuffer: 64 * 1024 * 1024 });
   const line = stdout.split("\n").find((candidate) => candidate.trim().startsWith("{"));
   if (!line) throw new Error("yt-dlp returned no JSON metadata");
   return JSON.parse(line);
 }
 
-export async function fetchYoutubeMetadata(videoId) {
+async function exists(filePath) {
+  try {
+    await fs.access(filePath);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+async function resolveCookiesFile(explicitPath) {
+  const requiredCandidates = [
+    explicitPath,
+    process.env.JIANGLENS_YOUTUBE_COOKIES_FILE,
+    process.env.YOUTUBE_COOKIES_FILE,
+    process.env.YTDLP_COOKIES_FILE,
+  ].filter(Boolean);
+
+  for (const candidate of requiredCandidates) {
+    const filePath = path.isAbsolute(candidate) ? candidate : path.resolve(process.cwd(), candidate);
+    if (await exists(filePath)) return filePath;
+    throw new Error(`Configured YouTube cookies file is not readable: ${candidate}`);
+  }
+
+  const optionalCandidates = [
+    "/var/lib/spawnfile/secrets/youtube.com_cookies.txt",
+    "/run/jiang-lens-secrets/youtube.com_cookies.txt",
+    "ops/secrets/youtube.com_cookies.txt",
+    "ops/secrets/cookies.txt",
+  ];
+
+  for (const candidate of optionalCandidates) {
+    const filePath = path.isAbsolute(candidate) ? candidate : path.resolve(process.cwd(), candidate);
+    if (await exists(filePath)) return filePath;
+  }
+
+  return null;
+}
+
+export async function fetchYoutubeMetadata(videoId, options = {}) {
+  const cookiesFile = await resolveCookiesFile(options.cookiesFile);
   const candidates = [
     ["yt-dlp"],
     ["uvx", "yt-dlp"],
@@ -76,7 +118,7 @@ export async function fetchYoutubeMetadata(videoId) {
 
   for (const candidate of candidates) {
     try {
-      const raw = await runYtDlp(candidate, videoId);
+      const raw = await runYtDlp(candidate, videoId, { cookiesFile });
       return compactYoutubeMetadata(raw, candidate.join(" "));
     } catch (error) {
       const message = error.stderr || error.message || String(error);

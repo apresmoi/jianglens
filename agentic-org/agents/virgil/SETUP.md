@@ -219,6 +219,14 @@ metadata-only `yt-dlp` fallback fill the gap. The worker image includes `yt-dlp`
 for this path. Hand off to Colab only when raw media, transcription, diarization,
 or the importer fallback itself is missing or failing.
 
+For bot-gated metadata, the importer can use runtime-only cookies from
+`$JIANGLENS_YOUTUBE_COOKIES_FILE`, `$YOUTUBE_COOKIES_FILE`, or
+`/var/lib/spawnfile/secrets/youtube.com_cookies.txt`; it also accepts
+`--youtube-cookies PATH`. Cookies are operational secrets: do not print or commit
+them. If the cookie-backed fallback still fails, stop retrying that source until
+`metadata.youtube.json` is committed or a maintainer explicitly asks for another
+probe.
+
 For runs that take more than a few minutes, post concise `episode-floor` progress
 at stage boundaries: claim or cleanup, current stage, validation, PR creation,
 and CI or blocker handoff.

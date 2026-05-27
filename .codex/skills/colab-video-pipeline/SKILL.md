@@ -80,3 +80,10 @@ node ops/scripts/import-colab-video.mjs --video-id VIDEO_ID --channel @Predictiv
 ```
 
 The importer uses raw `metadata.youtube.json` when present. If it is missing, it tries `yt-dlp` by video id and caches compact metadata back into the raw source artifact folder. Publication dates are required for canon promotion; undated imports are review/search material only.
+
+If YouTube blocks metadata-only access, provide a runtime-only cookie file. The
+importer accepts `--youtube-cookies PATH`, checks `JIANGLENS_YOUTUBE_COOKIES_FILE`,
+`YOUTUBE_COOKIES_FILE`, and `YTDLP_COOKIES_FILE`, and also looks for ignored local
+files at `ops/secrets/youtube.com_cookies.txt` or
+`/var/lib/spawnfile/secrets/youtube.com_cookies.txt`. Never commit the cookie file
+or print its contents.
