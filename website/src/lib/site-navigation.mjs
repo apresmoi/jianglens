@@ -58,6 +58,7 @@ export const docsSidebar = [
       { label: 'Taboo As Control Surface', slug: 'lens/taboo-as-control-surface' },
       { label: 'The Borderland Engine', slug: 'lens/the-borderland-engine' },
       { label: 'War As Story Versus Material Test', slug: 'lens/when-war-becomes-a-story-instead-of-a-material-test' },
+      { label: 'Chokepoint Empire And No-Exit War', slug: 'lens/chokepoint-empire-and-no-exit-war' },
     ],
   },
 ];
