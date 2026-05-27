@@ -1,0 +1,159 @@
+{
+  "packet_id": "interview-0wnkev-18y0-semantics-pkt-0016",
+  "source_id": "video:interview-0wnkev-18y0",
+  "source_date": "2025-10-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0121",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0122"
+      ],
+      "kind": "exchange",
+      "summary": "Greg closes the show by treating meetups, subscriptions, and repeated plugs for Jiang as part of one social ecosystem: build local networks, support the platform, and keep the viral interview moving through the audience.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0123"
+      ],
+      "kind": "unclear",
+      "summary": "A garbled musical or spoken fragment follows the outro; it does not introduce a new interview exchange and is not reliably intelligible enough for stronger semantic extraction.",
+      "speaker_attribution": "unclear outro audio",
+      "confidence": "low"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0123"
+      ],
+      "note": "The final segment appears to be song lyrics or an outro clip with heavy ASR distortion rather than ordinary spoken commentary.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Greg says local meetups usually turn casual listeners into durable networks of good people who may matter more in troubled times than the event itself.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0121"
+      ],
+      "temporal_scope": "Host organizing claim stated on 2025-10-07.",
+      "topic_tags": [
+        "meetups",
+        "networks",
+        "troubled-times",
+        "community"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says he felt genuine kinship with Jiang, expects very few listeners still need an introduction to Predictive History, and sees himself as lucky to release the interview while Jiang is already riding a wave of virality.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0121"
+      ],
+      "temporal_scope": "Host closing endorsement made on 2025-10-07.",
+      "topic_tags": [
+        "Professor Jiang",
+        "Predictive History",
+        "virality",
+        "endorsement"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg pitches Plus as an ad-free subscription with five full two-hour interviews per month and a fifteen-year archive starting at eight dollars.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0122"
+      ],
+      "temporal_scope": "Platform offer stated on 2025-10-07.",
+      "topic_tags": [
+        "Plus",
+        "subscription",
+        "archive",
+        "platform"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg ends with a taunting challenge to global conflict engineers and agents of the Archons, casting the show itself as a move made against larger hidden players.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0122"
+      ],
+      "temporal_scope": "Host rhetorical flourish delivered on 2025-10-07.",
+      "topic_tags": [
+        "Archons",
+        "geopolitics",
+        "rhetoric",
+        "outro"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0121"
+      ],
+      "moment": "Meetups are not just social extras; they are how scattered listeners become a network of good people to know in troubled times.",
+      "source_phrase": "a strong network of good people to know in troubled times",
+      "why_it_matters": "It shows the community layer Greg wants to build around interviews like this one, not just the informational layer.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0121"
+      ],
+      "moment": "Greg frames himself as the lucky surfer on Jiang's virality rather than the sole engine of it.",
+      "source_phrase": "I'm riding the wave",
+      "why_it_matters": "It captures both the humility and opportunism in the host's final positioning of the episode.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0122"
+      ],
+      "moment": "The final line turns the episode into a provocation aimed at hidden managers of the geopolitical game: your move.",
+      "source_phrase": "Your move, global chess game players",
+      "why_it_matters": "It preserves the combative edge of the closing instead of letting the interview end as a neutral subscription plug.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "agents of the Archons",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0122"
+      ],
+      "definition_or_usage": "Greg's hostile catchall for the hidden operators or manipulative forces he imagines behind engineered geopolitical conflict.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0121",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0122"
+      ],
+      "note": "The source ends by translating Jiang's interview from content into network maintenance: listeners are directed toward local meetups, Jiang's channels, and the host's paid archive before the final adversarial flourish.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0123"
+      ],
+      "note": "The final segment is too ASR-corrupted to support anything beyond noting that an outro fragment continues after Greg's spoken close."
+    }
+  ]
+}

@@ -1,0 +1,3550 @@
+{
+  "id": "evidence:semanticvideo-interview-0wnkev-18y0:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-0wnkev-18y0",
+  "source_id": "video:interview-0wnkev-18y0",
+  "source_title": "Professor Jiang Xueqin | Predictive History, Western Collapse, & The Ivy League Issue",
+  "source_url": "https://www.youtube.com/watch?v=0wnKEV_18y0",
+  "source_date": "2025-10-07",
+  "date_precision": "day",
+  "transcript_id": "video:interview-0wnkev-18y0@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0012.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0013.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0014.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0015.semantic.json",
+      "content/workflow/proposals/interview-0wnkev-18y0/packet-0016.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-0wnkev-18y0/source.yaml",
+    "transcript_path": "content/sources/videos/interview-0wnkev-18y0/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 16,
+    "interactions": 54,
+    "speaker_notes": 6,
+    "claims": 117,
+    "signature_moments": 49,
+    "predictions": 16,
+    "models": 30,
+    "glossary_terms": 43,
+    "chronology_notes": 16,
+    "uncertainty_notes": 17
+  },
+  "first_refs": [
+    "video:interview-0wnkev-18y0@transcript:v1#seg-0002",
+    "video:interview-0wnkev-18y0@transcript:v1#seg-0003",
+    "video:interview-0wnkev-18y0@transcript:v1#seg-0008",
+    "video:interview-0wnkev-18y0@transcript:v1#seg-0009",
+    "video:interview-0wnkev-18y0@transcript:v1#seg-0011",
+    "video:interview-0wnkev-18y0@transcript:v1#seg-0015",
+    "video:interview-0wnkev-18y0@transcript:v1#seg-0016",
+    "video:interview-0wnkev-18y0@transcript:v1#seg-0019"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0001"
+      ],
+      "kind": "unclear",
+      "summary": "A stray fragment appears before the interview proper and does not clearly belong to either speaker in the main exchange.",
+      "speaker_attribution": "unclear pre-roll fragment",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0002",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0003",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0004"
+      ],
+      "kind": "question",
+      "summary": "Greg frames Jiang as an analyst of power rather than benevolent-governance mythology, introduces Predictive History as a rapidly rising project, and asks why Jiang's history lectures are resonating so strongly.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0005",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang begins with the synchronicity story of how the interview came together and treats the meeting as a timely convergence rather than random booking.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0007",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "He then directly answers the resonance question: history is usually entertaining but incoherent, so he is trying to build a movement that turns historical assumptions about values and mores into predictive models of where societies are going.",
+      "speaker_attribution": "Jiang with brief host acknowledgment",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0009",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0010"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang explains that historians should make predictions to test their models, and Greg pivots from that method to the specific case of Western decline and Jiang's earlier Iran-trap forecasts.",
+      "speaker_attribution": "Jiang followed by Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0011",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0012"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says America is in the decline phase of empire, which produces erratic, violent, destructive behavior rooted in debt, inequality, bureaucratic ossification, corruption, and imperial overextension.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0013",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0014"
+      ],
+      "kind": "question",
+      "summary": "Greg restates Jiang's three-stage civilizational model: openness gives way to bureaucracy, then frustration with gridlock creates demand for an authoritarian figure who can smash through checks and balances.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0015",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang affirms the model by comparing contemporary America to the late Roman Republic: concentrated ownership and debt create social crisis, then charismatic demagogues ride public discontent toward strongerman politics.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0017",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0018"
+      ],
+      "kind": "question",
+      "summary": "Greg recaps Jiang's five-part forecast for the West: shrinking freedom, authoritarianism, economic collapse, immigration conflict, and elite use of foreign war to deflect domestic class anger, then asks what current events show the pattern already unfolding.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0019",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0020",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0021",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0022"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with a rapid cascade of signs: polarization and gridlock, coercive immigration theater, National Guard and social-media tightening, open-ended military rhetoric, likely clashes between Washington and sanctuary cities, and a widening Israel-Iran conflict that could become regional or world war.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0023",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0024"
+      ],
+      "kind": "question",
+      "summary": "Greg reframes Jiang's war prediction through the Ukraine battlefield and Middle East game theory, then asks whether Trump's anti-war image matters if the larger American machine wants escalation anyway.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0025"
+      ],
+      "kind": "question",
+      "summary": "Greg asks Jiang to explain the counterintuitive claim that Israel, Saudi Arabia, and Iran can all benefit from America being dragged deeper into Middle Eastern war.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0026",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0027",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0028",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0029",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0030"
+      ],
+      "kind": "answer",
+      "summary": "Jiang gives a two-layer answer: first, America has an economic incentive to dominate oil flows because of debt and treasury dependence; second, deeper religious factions inside the national-security apparatus want a Middle East war to fulfill eschatological prophecy and build toward Gog and Magog, the third temple, and world-government scenarios.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0031",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0032"
+      ],
+      "kind": "question",
+      "summary": "Greg then asks whether China or the East has any parallel history of power organized around inherited prophecy, or whether this style of elite eschatology is uniquely Western or Abrahamic.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0033",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0034",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0035"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the East-versus-West prophecy question by arguing that China's geographic isolation let a durable bureaucracy blunt religion, mythology, and imagination rather than letting rival eschatological traditions fight each other into historical dynamism.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0036",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0037"
+      ],
+      "kind": "question",
+      "summary": "Greg pivots to Jiang's tweet about criticism in America versus China and asks how much of the Western image of Chinese total control is true versus propagandistic hype.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0038",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0039",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Chinese politics are more factional and mafioso than efficiently technocratic, and that real constraint falls most heavily on people trying to get rich, while someone who refuses monetization can retain surprising intellectual freedom.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0041",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0042"
+      ],
+      "kind": "question",
+      "summary": "Greg briefly compares China's patronage logic to America, gives Jiang's biographical setup, and asks what reforms he wanted in Chinese education and how Chinese and Western systems differ in breaking people down.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0043",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0044",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0045"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says China and the West are converging more than he once thought, explains his attempt to cultivate individuality and agency in students, and says the Great Books work best when they awaken a divine spark in each student rather than impose bureaucratic schooling reforms from above.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0046",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0047"
+      ],
+      "kind": "exchange",
+      "summary": "Greg affirms Jiang's educational project as a kind of Trojan horse for self-actualization, then pivots from education into Jiang's claims that power runs on narrative and financial alchemy.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "Jiang begins the alchemy answer by saying American power rests on faith in the dollar after the break with gold convertibility.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0049",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0050",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0051",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0052"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues the alchemy argument by tracing the dollar system through the petrodollar, the engineered integration of China into the global order, debt-financed reserve demand, and a banking system that creates money by writing loans into existence.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0053",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0054",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0055",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0056"
+      ],
+      "kind": "question",
+      "summary": "Greg acknowledges how fragile fractional-reserve-style money creation sounds, then asks Jiang about a possible stablecoin strategy to create new global demand for dollars and maybe avoid war.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0057",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0058",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0059",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0060",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0061"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the stablecoin question with two objections: bureaucrats repeatedly try simplistic fixes that ignore human agency and end in social backlash, and any dollar workaround now faces a multipolar world where U.S. coercive reserve-currency power is no longer uncontested.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0062",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0063"
+      ],
+      "kind": "question",
+      "summary": "Greg accepts the critique by comparing stablecoins to crypto reserve fraud, then pivots to Jiang's Ivy League background and asks how institutions like Harvard shape the American controller class.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Jiang opens his Ivy League critique by saying America would improve if those institutions collapsed because they are parasitic and produce a traumatizing Hunger Games educational order.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0065",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0066",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0067",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0068"
+      ],
+      "kind": "answer",
+      "summary": "Jiang deepens the Ivy League critique by arguing that elite schools operate like venture-capitalized selection machines: they traumatize students, recycle wealth into endowments, manufacture mediocre credentialed rulers, and destroy social mobility.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0069",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0070"
+      ],
+      "kind": "question",
+      "summary": "Greg reframes Jiang's target as a fake meritocracy rather than genuine merit, comparing Ivy League gatekeeping to a rigged free market and asking what should replace that closed loop.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0071",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0072"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by attacking credential society itself: most work should not require university degrees, the modern university sector is bloated, and a return to vocational or professional training would serve both America and China better.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0073",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0074"
+      ],
+      "kind": "exchange",
+      "summary": "The degree-critique block turns into a short exchange about how American workplaces now expect instant readiness instead of training, reinforcing the loss of apprenticeship.",
+      "speaker_attribution": "Jiang and Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0075",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0076"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues that medicine proves mentorship matters more than sorting by brilliance: he says China gets acceptable doctors through long apprenticeship while America wastes top students inside a bloated parasitic system.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0077",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0078"
+      ],
+      "kind": "exchange",
+      "summary": "Greg extends Jiang's point by linking mentorship decline, Chinese medicine, and Harvard's endowment logic, then restates the venture-capital metaphor as a marketing machine for elite schools.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0079",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0080"
+      ],
+      "kind": "question",
+      "summary": "Greg pivots from institutional critique to prophecy, asking whether Jiang holds more extreme predictions than the ones he has already published and whether some are too explosive to say publicly.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0081",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0082",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0083",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0084"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers Greg's invitation with his most extreme disclosure: he predicts 99 percent of humanity will die within a century through a cascading mix of geophysical upheaval, extreme weather, epidemics, war, and revolution.",
+      "speaker_attribution": "Jiang and Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0085",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0086"
+      ],
+      "kind": "question",
+      "summary": "Greg challenges the usefulness of apocalyptic prophecy by noting that many earlier seers saw catastrophe that never arrived within a human lifetime and asking whether timeline failure makes such visions practically useless.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0087",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0088"
+      ],
+      "kind": "answer",
+      "summary": "Jiang replies that prophets perceive events without reliable timelines, so he uses short-term predictions as a live test of whether his own models or prophetic capacities deserve trust.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0089",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0090"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains that he speaks publicly despite personal discomfort because an inner force compels him to reveal himself, warn people, and accept the risks attached to carrying a counter-narrative.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0091",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0092"
+      ],
+      "kind": "question",
+      "summary": "Greg closes by quoting Jiang's post on love, imagination, purpose, and flourishing, then asks how those ideas can be turned into lived action despite the interview's dark predictions.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0093",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0094",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0095"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with a spiritual anthropology: power rules through fear and ego, flourishing requires love and self-forgiveness, and redemption comes by recognizing the divine spark within and acting from it.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0096"
+      ],
+      "kind": "question",
+      "summary": "Greg affirms the answer and asks Jiang for the practical follow-through: where listeners should go next if they want to keep up with his work.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0097",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0098"
+      ],
+      "kind": "answer",
+      "summary": "Jiang closes by naming his official outlets, warning listeners away from counterfeit clip channels, and shifting immediately back into geopolitics with a short-term war warning about Iran.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0099",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0100"
+      ],
+      "kind": "exchange",
+      "summary": "Greg wraps the interview, promises to link Jiang's handle in the show notes, and the two end on a cordial agreement to talk again.",
+      "speaker_attribution": "Greg Carlwood and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0101",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0102"
+      ],
+      "kind": "exchange",
+      "summary": "After the interview, Greg pivots into a solo reflection on synchronicity and manifestation, defending it against the usual objection that it is just privileged New Age fantasy.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0103",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0104"
+      ],
+      "kind": "exchange",
+      "summary": "Greg recasts manifestation as intuitive course correction and uses his Charlie Kirk research detour plus a guest no-show as an example of acting on guidance instead of dismissing it.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0105",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0106"
+      ],
+      "kind": "exchange",
+      "summary": "Greg narrates the chain of synchronicities that led from his Charlie Kirk material to the Jiang booking and distills the lesson into clear intention, guidance, and action.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0107",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0108"
+      ],
+      "kind": "exchange",
+      "summary": "Greg briefly returns to his Charlie Kirk suspicions, flirts with theater and elite-protection explanations, then pivots back toward Jiang by saying the interview becomes even stranger once the mystical source of Jiang's predictions is considered.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0109",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0110"
+      ],
+      "kind": "exchange",
+      "summary": "Greg interprets Jiang as both mystic and forecaster, praises the second-hour disclosures, and argues that his own paid audience would punish him if he were overselling what Jiang actually said.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0111",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0112"
+      ],
+      "kind": "exchange",
+      "summary": "Greg closes the packet by reflecting on Jiang's China commentary, warning that every system demonizes rivals, and setting up a future conversation that could move further into taboo material once trust is established.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0113",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0114"
+      ],
+      "kind": "exchange",
+      "summary": "Greg turns from audience follow-through to his own fatherly anxiety about the next decade, then counters that anxiety with a sanctuary ethic centered on family, energy preservation, and not burning yourself out before the crisis fully arrives.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0115",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0116"
+      ],
+      "kind": "exchange",
+      "summary": "Greg broadens the frame from family to prophecy, arguing that apocalyptic messages often end in a predicted culminating event that never lands on schedule and warning listeners not to surrender judgment even if Jiang is more insightful than most seers.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0117",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0118"
+      ],
+      "kind": "exchange",
+      "summary": "Greg lands on practical advice: be a port in the storm, control the small sphere you actually govern, reduce screen fixation, avoid unnecessary spending, and resist meddling with a system that is already carrying you adequately.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0119",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0120"
+      ],
+      "kind": "exchange",
+      "summary": "The packet closes with routine show business and meetup promotion, but even there Greg folds the calendar into his survival frame by treating local gatherings as a way to find trustworthy people in increasingly repressive conditions.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0121",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0122"
+      ],
+      "kind": "exchange",
+      "summary": "Greg closes the show by treating meetups, subscriptions, and repeated plugs for Jiang as part of one social ecosystem: build local networks, support the platform, and keep the viral interview moving through the audience.",
+      "speaker_attribution": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0123"
+      ],
+      "kind": "unclear",
+      "summary": "A garbled musical or spoken fragment follows the outro; it does not introduce a new interview exchange and is not reliably intelligible enough for stronger semantic extraction.",
+      "speaker_attribution": "unclear outro audio",
+      "confidence": "low"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0001"
+      ],
+      "note": "The opening fragment appears to be leftover audio from an ad, intro clip, or prior segment rather than part of the interview exchange.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0013",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0014"
+      ],
+      "note": "Greg is paraphrasing Jiang's prior lecture model here; these segments are best treated as a host restatement and prompt rather than fresh Jiang claims.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0017",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0018"
+      ],
+      "note": "Greg's five-point sequence is a host paraphrase of Jiang's prior lecture model and should not be treated as a new direct Jiang formulation unless Jiang later ratifies specific elements.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0036"
+      ],
+      "note": "Greg's quote of Jiang's tweet is slightly broken by transcript noise, but the intended contrast is clear: criticism targets individuals in China and systems in America differently.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0041"
+      ],
+      "note": "Greg's biographical recap is garbled and repetitive near the Yale line, but the functional move is clear: he is setting up Jiang's educational authority before asking about reform.",
+      "suggested_speaker": "Greg Carlwood",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0123"
+      ],
+      "note": "The final segment appears to be song lyrics or an outro clip with heavy ASR distortion rather than ordinary spoken commentary.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Greg frames conventional geopolitical analysis as weak on true power because it assumes benevolent governance instead of domination, extraction, and hidden motivations.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Host framing on 2025-10-07.",
+      "topic_tags": [
+        "geopolitics",
+        "elite-power",
+        "analysis"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says Jiang's recent popularity comes from his willingness to explain how power, empire, and historical cycles actually work rather than treating history as neutral chronology.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Host description on 2025-10-07.",
+      "topic_tags": [
+        "Predictive History",
+        "power",
+        "cycles"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he is trying to start a movement that re-examines how history is analyzed and presented.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interview claim on 2025-10-07.",
+      "topic_tags": [
+        "Predictive History",
+        "movement",
+        "method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that ordinary history teaching often tells entertaining stories but leaves events in disconnected silos, so people fail to see a coherent civilizational narrative.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interview diagnosis on 2025-10-07.",
+      "topic_tags": [
+        "history",
+        "narrative",
+        "education"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Each historical story embeds assumptions about values and mores, and those assumptions can be extrapolated forward into the future.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interview method claim on 2025-10-07.",
+      "topic_tags": [
+        "values",
+        "mores",
+        "prediction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's core method is that an analytical model of history becomes a predictive model, and future predictions can test whether the historical understanding is actually right.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Interview method claim on 2025-10-07.",
+      "topic_tags": [
+        "Predictive History",
+        "method",
+        "prediction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says historians should make predictions about the world so they can validate and refine their analytical models instead of leaving their interpretations untested.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Interview method claim on 2025-10-07.",
+      "topic_tags": [
+        "history",
+        "prediction",
+        "method"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his civilizational account from the Ice Age to Pax Americana lets him make predictions about the next 50 years as a test of the framework.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Interview method claim on 2025-10-07 about the coming 50 years.",
+      "topic_tags": [
+        "civilization",
+        "Pax Americana",
+        "forecasting"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "America is currently in the decline phase of empire, and decline-phase empires become erratic, violent, and counterproductive.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Current-condition diagnosis on 2025-10-07.",
+      "topic_tags": [
+        "America",
+        "empire",
+        "decline"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang grounds American decline in debt, extreme inequality, ossified and corrupt elites, and imperial overextension marked by more than 800 military bases and multiple wars.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Current-condition diagnosis on 2025-10-07.",
+      "topic_tags": [
+        "debt",
+        "inequality",
+        "bureaucracy",
+        "military-bases"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the next 10 to 20 years will bring a further decline in American power and that the decline will be violent and destructive.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Prediction for roughly 2025-2045 made on 2025-10-07.",
+      "topic_tags": [
+        "America",
+        "forecast",
+        "decline"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang compares contemporary America to the fall of the Roman Republic, where concentrated ownership and debt hollowed out the broader population.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Historical analogy offered on 2025-10-07.",
+      "topic_tags": [
+        "Roman Republic",
+        "debt",
+        "oligarchy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says America is becoming a renter economy in which a few giant firms control assets while average people are pushed into dependency.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Current-condition diagnosis on 2025-10-07.",
+      "topic_tags": [
+        "rentier-economy",
+        "assets",
+        "corporations"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts America will follow the Roman pattern in which charismatic demagogues arise out of social discontent, with Trump as an early example.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Prediction about near-term U.S. politics made on 2025-10-07.",
+      "topic_tags": [
+        "Trump",
+        "demagogue",
+        "Roman analogy"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang points to severe political polarization and resulting gridlock as a current sign of domestic breakdown in the United States.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Current-condition diagnosis on 2025-10-07.",
+      "topic_tags": [
+        "polarization",
+        "gridlock",
+        "America"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets Trump's ICE deployments, despite lower deportation rates than Obama, as evidence that the point is police-state formation rather than immigration enforcement efficiency.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Current-condition diagnosis on 2025-10-07.",
+      "topic_tags": [
+        "ICE",
+        "police-state",
+        "Trump"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says National Guard deployments and anticipated TikTok algorithm changes after Larry Ellison's purchase are signs that Americans' ability to express themselves will be more tightly controlled.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Current-condition diagnosis on 2025-10-07.",
+      "topic_tags": [
+        "National Guard",
+        "TikTok",
+        "speech-control"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Peter Hegseth's speech to 800 generals as a disturbing open-ended war posture because the rhetoric stressed 'the enemy' without naming a target, timeline, or objective.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Claim about a speech that happened 'yesterday' relative to 2025-10-07.",
+      "topic_tags": [
+        "Hegseth",
+        "generals",
+        "war-rhetoric"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts worsening clashes between Washington and sanctuary cities because Trump is casting major Democratic cities as threats to the republic.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Near-term domestic prediction made on 2025-10-07.",
+      "topic_tags": [
+        "sanctuary-cities",
+        "Washington",
+        "domestic-conflict"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Israel will strike Iran again within one to two weeks, with full Trump and Pentagon backing, and that Iran's harsher response could escalate into sustained war with U.S. ground troops.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Short-range war prediction made on 2025-10-07.",
+      "topic_tags": [
+        "Israel",
+        "Iran",
+        "Trump",
+        "ground-troops"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says an Iranian closure of the Strait of Hormuz could pull in more countries and become the beginning of World War III.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Escalation scenario projected on 2025-10-07.",
+      "topic_tags": [
+        "Strait of Hormuz",
+        "World War III",
+        "escalation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats Moldova tensions, European hospital preparation for mass-casualty events starting next year, and drone incursions into NATO territory as converging evidence of broader war preparation in Europe.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Current-condition diagnosis with a next-year horizon, made on 2025-10-07.",
+      "topic_tags": [
+        "Europe",
+        "Moldova",
+        "NATO",
+        "mass-casualty"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says America's debt dependence makes control of global oil supply strategically attractive because it helps preserve demand for U.S. treasuries and leverage over other economies.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0026",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Geopolitical diagnosis on 2025-10-07.",
+      "topic_tags": [
+        "debt",
+        "oil",
+        "US-treasuries",
+        "hegemony"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that if America controlled Iran, Venezuela, and allied Gulf oil, it could dictate energy prices to China, Japan, South Korea, and Europe.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0026",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Geopolitical scenario described on 2025-10-07.",
+      "topic_tags": [
+        "Iran",
+        "Venezuela",
+        "oil-prices",
+        "East Asia",
+        "Europe"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a deeper driver than economics is eschatological: Christian Zionists, evangelicals, Freemasons, Mormons, Jesuits, and religious extremist Jews all want Middle East war because they see it as prophecy fulfillment.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0027",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Diagnostic claim about present power structures on 2025-10-07.",
+      "topic_tags": [
+        "eschatology",
+        "Christian Zionism",
+        "Freemasons",
+        "Mormons",
+        "Jesuits"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says these religious factions want a Middle East war because they believe it can produce Gog and Magog, the return of messianic figures, and some form of world government.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0027",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Diagnostic claim about present eschatological motives on 2025-10-07.",
+      "topic_tags": [
+        "Gog and Magog",
+        "messiah",
+        "world-government",
+        "prophecy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang suggests this prophetic program may stretch back to America's founding and connect through later events such as JFK and 9/11.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Long-range historical claim made on 2025-10-07.",
+      "topic_tags": [
+        "America",
+        "founding",
+        "JFK",
+        "9/11"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts the Al-Aqsa Mosque will be destroyed within six months to a year and says that from his model this destruction would be fundamental to third-temple prophecy and wider war.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0029",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Prediction for roughly late 2025 to late 2026, made on 2025-10-07.",
+      "topic_tags": [
+        "Al-Aqsa",
+        "third temple",
+        "Middle East",
+        "prophecy"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China's long isolation behind seas, mountains, jungles, and deserts protected its territorial continuity and let a durable bureaucracy dominate for thousands of years.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Long-range civilizational model described on 2025-10-07.",
+      "topic_tags": [
+        "China",
+        "bureaucracy",
+        "geography",
+        "civilization"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts China with the civilizations around Iran, Israel, Egypt, and Europe, arguing that repeated contact and dialectic made the West more diverse and eschatological.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Comparative historical model described on 2025-10-07.",
+      "topic_tags": [
+        "West",
+        "eschatology",
+        "dialectic",
+        "comparative-history"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says bureaucracies regard religion as a threat because religion excites people in unexpected and unpredictable ways.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "General political claim made on 2025-10-07.",
+      "topic_tags": [
+        "bureaucracy",
+        "religion",
+        "politics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Chinese religious traditions were gradually diluted or 'lobotomized,' losing their divine charge and much of the mythology that might sustain cultural imagination.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0034",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Civilizational diagnosis stated on 2025-10-07.",
+      "topic_tags": [
+        "China",
+        "mythology",
+        "censorship",
+        "imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says stories are politically dangerous to bureaucracy because they enlarge imagination, and he ties that danger to heavy censorship across Chinese history.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "General political claim made on 2025-10-07.",
+      "topic_tags": [
+        "stories",
+        "imagination",
+        "bureaucracy",
+        "censorship"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Chinese surveillance-and-control image is overstated because Chinese politics are driven more by patronage warfare and personality politics than by clean centralized organization.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Current-condition diagnosis on 2025-10-07.",
+      "topic_tags": [
+        "China",
+        "patronage",
+        "surveillance",
+        "personality-politics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that in China wealth requires obedience to a patron inside the party structure, while someone who refuses wealth and fame can retain wide latitude to think, write, and teach freely.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0038",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0039",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Current-condition diagnosis on 2025-10-07, grounded partly in Jiang's own lived experience.",
+      "topic_tags": [
+        "China",
+        "wealth",
+        "patronage",
+        "intellectual-freedom"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the differences between China and the West are no longer as stark as he once believed because the two cultures are converging.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Current comparative diagnosis on 2025-10-07.",
+      "topic_tags": [
+        "China",
+        "West",
+        "convergence",
+        "education"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his main educational concern in China was cultivating individuality and agency so students would believe they possess an eternal soul with its own vocation and delight.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Retrospective statement made on 2025-10-07 about Jiang's educational mission.",
+      "topic_tags": [
+        "education",
+        "individuality",
+        "agency",
+        "soul"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he built China's first public-school international program on an American liberal-arts model, with an English library, seminar classes, and a daily newspaper, to create a space for individual agency.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Retrospective account given on 2025-10-07.",
+      "topic_tags": [
+        "education-reform",
+        "liberal-arts",
+        "seminars",
+        "agency"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that reform effort failed largely because parents wanted to micromanage their children rather than support the cultivation of autonomous agency.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Retrospective diagnosis stated on 2025-10-07.",
+      "topic_tags": [
+        "parents",
+        "education-reform",
+        "micromanagement"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says teaching Great Books directly to high-school students has been more successful because authors like Plato, Homer, Dante, and Shakespeare can awaken a spark of agency at the individual level.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0044",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Current pedagogical judgment on 2025-10-07.",
+      "topic_tags": [
+        "Great Books",
+        "teaching",
+        "individuality",
+        "agency"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the purpose of the Great Books, especially Homer and Dante, is to remind people that a divine spark in them remains connected to the higher good.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Interpretive claim made on 2025-10-07.",
+      "topic_tags": [
+        "Great Books",
+        "divine spark",
+        "higher good",
+        "Homer",
+        "Dante"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the power of the U.S. dollar as global reserve currency now rests on faith and trust in the American state rather than convertibility into gold.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Monetary diagnosis on 2025-10-07.",
+      "topic_tags": [
+        "US-dollar",
+        "reserve-currency",
+        "faith",
+        "gold"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Bretton Woods created a gold-backed dollar order in 1945, but after Nixon ended gold convertibility in 1971 the system became a kind of financial alchemy.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Historical monetary claim made on 2025-10-07 about 1945 and 1971.",
+      "topic_tags": [
+        "Bretton Woods",
+        "Nixon",
+        "gold-standard",
+        "alchemy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Nixon preserved the dollar's authority after the break with gold through two major moves: creating the petrodollar with Saudi Arabia and opening China to the global system.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Historical monetary claim made on 2025-10-07 about the 1970s.",
+      "topic_tags": [
+        "Nixon",
+        "petrodollar",
+        "China",
+        "US-dollar"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the United States deliberately built up the Chinese export economy with technology, expertise, and market access so China would become dependent on U.S. dollars.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0049",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Historical-geopolitical claim made on 2025-10-07 about the post-1972 era.",
+      "topic_tags": [
+        "China",
+        "exports",
+        "market-access",
+        "dollar-system"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the value of the dollar is underpinned by Saudi oil pricing and Chinese cheap-labor exports both recycling demand into U.S. currency.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Structural monetary claim made on 2025-10-07.",
+      "topic_tags": [
+        "Saudi Arabia",
+        "China",
+        "oil",
+        "labor",
+        "US-dollar"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says America has abused its 'exorbitant privilege,' is now $37 trillion in debt, and will either default or keep pressuring countries like China and Japan to keep buying Treasuries.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Current-condition diagnosis and forward-looking scenario stated on 2025-10-07.",
+      "topic_tags": [
+        "debt",
+        "Treasuries",
+        "China",
+        "Japan",
+        "exorbitant-privilege"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says modern banks create money through double-entry bookkeeping when they issue loans rather than merely recycling existing deposits.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0051",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "General monetary claim made on 2025-10-07.",
+      "topic_tags": [
+        "banking",
+        "double-entry-bookkeeping",
+        "money-creation",
+        "debt"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says debt is treated as an asset in the banking system, which helps explain why Chinese banks grew so large by repeatedly lending money into existence.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "General monetary claim made on 2025-10-07 with Chinese banking example.",
+      "topic_tags": [
+        "Chinese banks",
+        "debt",
+        "assets",
+        "lending"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg proposes that a stablecoin strategy could create artificial global demand for dollars by letting fintech firms issue yield-bearing stablecoins backed by U.S. reserves, potentially parking trillions in dollar demand around the world.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0054",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Host scenario posed on 2025-10-07.",
+      "topic_tags": [
+        "stablecoins",
+        "fintech",
+        "US-dollar",
+        "global-demand"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg says one appeal of the stablecoin plan is that it might relieve pressure for war by generating a monetary escape hatch for the U.S. system.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Host framing on 2025-10-07.",
+      "topic_tags": [
+        "stablecoins",
+        "war-avoidance",
+        "US-dollar"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says stablecoin-style rescue plans resemble the earlier open-borders solution: bureaucrats confronting aging, debt, and stagnation reach for a simple top-down fix that ignores how people will actually behave inside the game.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0057",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Comparative policy diagnosis made on 2025-10-07.",
+      "topic_tags": [
+        "stablecoins",
+        "open-borders",
+        "bureaucracy",
+        "policy-failure"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the open-borders strategy already became a 'dumpster fire' in countries such as Britain, France, Canada, and Australia, which makes him doubt similarly simple elite plans today.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Current retrospective judgment made on 2025-10-07.",
+      "topic_tags": [
+        "immigration",
+        "Britain",
+        "France",
+        "Canada",
+        "Australia"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says policy designers underestimate individual agency: when a social game is rigged, people will cheat rather than loyally carry the burdens imposed on them.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0059",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "General political-psychological claim made on 2025-10-07.",
+      "topic_tags": [
+        "agency",
+        "social-games",
+        "cheating",
+        "political-psychology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that a stablecoin regime would blow up because the people expected to buy into it would recognize that the game is stacked against them.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0059",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Forward-looking policy prediction made on 2025-10-07.",
+      "topic_tags": [
+        "stablecoins",
+        "prediction",
+        "agency",
+        "bureaucracy"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says reserve-currency enforcement ultimately rests on American hegemony and the threat of violence, citing countries like Libya and Syria as examples of what happens when states do not 'play ball.'",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0060",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Geopolitical diagnosis made on 2025-10-07.",
+      "topic_tags": [
+        "hegemony",
+        "reserve-currency",
+        "violence",
+        "Libya",
+        "Syria"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says policymakers are still reasoning from a unipolar world even though a multipolar order is emerging and countries now want to hedge into Russia and China.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Current geopolitical diagnosis on 2025-10-07.",
+      "topic_tags": [
+        "multipolarity",
+        "Russia",
+        "China",
+        "unipolarity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang concludes that there is no viable solution to America's current crisis because its monetary assumptions no longer fit the emerging world order.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Current diagnosis on 2025-10-07.",
+      "topic_tags": [
+        "America",
+        "crisis",
+        "multipolarity",
+        "monetary-order"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that if Ivy League institutions disappeared, America would enter a new golden age because those institutions function as parasites on the republic through endowment privilege and federal subsidies.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Provocative institutional diagnosis made on 2025-10-07.",
+      "topic_tags": [
+        "Ivy League",
+        "Harvard",
+        "parasites",
+        "education"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Ivy League helped create a traumatizing 'Hunger Games' education system in which elite schools only need a tiny number of spectacular winners and treat the rest as disposable tools.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Institutional diagnosis grounded in Jiang's Yale experience, stated on 2025-10-07.",
+      "topic_tags": [
+        "Ivy League",
+        "Yale",
+        "Hunger Games",
+        "trauma",
+        "elite-formation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Yale functions like a venture capital portfolio that only needs a handful of spectacular winners and treats the rest of the student body as disposable tools.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Institutional model stated on 2025-10-07 using Jiang's Yale experience.",
+      "topic_tags": [
+        "Yale",
+        "venture-capital",
+        "elite-selection",
+        "trauma"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Ivy League schools intensify inequality by hoarding wealth, behaving like multinationals, and serving their endowments rather than American development.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Institutional diagnosis made on 2025-10-07.",
+      "topic_tags": [
+        "Ivy League",
+        "inequality",
+        "endowments",
+        "multinationals"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Ivy League graduates elevated into power become hollow status-seekers with little imagination, empathy, or independent reflection.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Elite-formation diagnosis made on 2025-10-07.",
+      "topic_tags": [
+        "Ivy League",
+        "elite-formation",
+        "status",
+        "psychology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Ivy League's monopoly over education has collapsed the American dream and social mobility by turning education into a permanently rigged game.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Current social diagnosis made on 2025-10-07.",
+      "topic_tags": [
+        "American dream",
+        "social mobility",
+        "Ivy League",
+        "rigged-game"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says Jiang is not attacking true meritocracy but a closed club of inherited privilege that masquerades as merit in the same way a rigged market masquerades as a free market.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0069",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Host framing posed on 2025-10-07.",
+      "topic_tags": [
+        "meritocracy",
+        "privilege",
+        "free-market",
+        "closed-loop"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says America has become a credentialized society in the last few decades even though most jobs do not require a college degree.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Historical-present diagnosis made on 2025-10-07.",
+      "topic_tags": [
+        "credentialism",
+        "college-degrees",
+        "jobs",
+        "education"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the large postwar expansion of universities created many institutions that should have been trade schools or professional schools rather than universities.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0071",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Educational-system diagnosis made on 2025-10-07 about the past 50 years.",
+      "topic_tags": [
+        "universities",
+        "trade-schools",
+        "professional-schools",
+        "higher-education"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says higher education is bloated in both America and China and that vocational training, trade schools, and community colleges would be better for society in the long term.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Comparative policy judgment made on 2025-10-07.",
+      "topic_tags": [
+        "America",
+        "China",
+        "vocational-training",
+        "community-colleges"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says American workplaces increasingly refuse to train people and instead expect workers to arrive fully formed, which creates inefficiency.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Current labor-system diagnosis made by the host on 2025-10-07.",
+      "topic_tags": [
+        "training",
+        "workplaces",
+        "inefficiency",
+        "apprenticeship"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China staffs medicine with weaker students but compensates through years of mentorship, internship, and guided experience.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0075"
+      ],
+      "temporal_scope": "Comparative institutional claim made on 2025-10-07 about present-day China.",
+      "topic_tags": [
+        "China",
+        "medicine",
+        "mentorship",
+        "apprenticeship"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the American medical system is bloated, expensive, parasitical, and unjust despite being staffed by top students.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Current institutional diagnosis made on 2025-10-07.",
+      "topic_tags": [
+        "America",
+        "medicine",
+        "meritocracy",
+        "inequality"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says most jobs do not require passing through meritocratic tournaments; they require proper mentoring and apprenticeship, which would reopen access to the American dream.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0076"
+      ],
+      "temporal_scope": "Normative labor and education claim made on 2025-10-07.",
+      "topic_tags": [
+        "meritocracy",
+        "apprenticeship",
+        "mentorship",
+        "American dream"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says alternative-minded Americans often look to older Chinese healing traditions for wisdom even while modern Chinese manufacturing is implicated in pharmaceutical harms.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0077"
+      ],
+      "temporal_scope": "Host observation made on 2025-10-07.",
+      "topic_tags": [
+        "Chinese medicine",
+        "pharmaceuticals",
+        "alternative-health",
+        "America"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg says Harvard's huge endowment and selective winner-making create the public perception that elite success in America is impossible without passing through a small set of schools.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0077",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Host synthesis made on 2025-10-07.",
+      "topic_tags": [
+        "Harvard",
+        "endowment",
+        "status-signaling",
+        "elite-schools"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says forecasters in troubled times need unusual courage because power punishes people who openly predict imperial collapse.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Host framing made on 2025-10-07.",
+      "topic_tags": [
+        "forecasting",
+        "power",
+        "empire-collapse",
+        "courage"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg asks whether Jiang has additional predictions too extreme to publish publicly even after Jiang's recent viral success.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Interview question posed on 2025-10-07.",
+      "topic_tags": [
+        "predictions",
+        "self-censorship",
+        "public-risk",
+        "virality"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he believes 99 percent of humanity will be wiped out in the next 100 years.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0081",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0084"
+      ],
+      "temporal_scope": "Explicit long-range prediction stated on 2025-10-07 about the next century.",
+      "topic_tags": [
+        "mass-dieoff",
+        "prediction",
+        "humanity",
+        "catastrophe"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the mechanism is a perfect storm of crises including possible polar shift, mini ice age, destructive winter weather in North America, epidemics, wars, and revolutions.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Multi-cause apocalyptic scenario stated on 2025-10-07 covering the next 20 years and beyond.",
+      "topic_tags": [
+        "polar-shift",
+        "mini-ice-age",
+        "epidemics",
+        "wars",
+        "revolutions"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the coming 20 years resemble Kali Yuga, with no escape from worsening conditions.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Civilizational-spiritual prediction made on 2025-10-07 about the next two decades.",
+      "topic_tags": [
+        "Kali-Yuga",
+        "decline",
+        "next-20-years",
+        "civilizational-crisis"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says prophetic visions of catastrophe often fail to manifest on usable human timelines, making them difficult to apply practically even when cyclic collapse feels plausible.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0085",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Host critique posed on 2025-10-07 using examples from the 1980s and 1990s.",
+      "topic_tags": [
+        "prophecy",
+        "timeline",
+        "cataclysm",
+        "practicality"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says prophets and mystics can see future events but not their timelines because higher consciousness does not perceive time and space the way ordinary human life does.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0087"
+      ],
+      "temporal_scope": "Metaphysical model stated on 2025-10-07.",
+      "topic_tags": [
+        "prophets",
+        "higher-consciousness",
+        "time",
+        "mysticism"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he tests himself through short-term predictions such as the destruction of Al-Aqsa Mosque, a U.S. invasion of Iran, and NATO fighting Russia in Odessa; if they fail, listeners should regard him as a false prophet.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0087"
+      ],
+      "temporal_scope": "Present test framework stated on 2025-10-07 for near-future events.",
+      "topic_tags": [
+        "short-term-predictions",
+        "Iran",
+        "Odessa",
+        "false-prophet"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says internet audiences are drawn to him because he appears to have predicted events and because the internet functions as a marketplace where predictions can be publicly tested.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Current media claim made on 2025-10-07.",
+      "topic_tags": [
+        "internet",
+        "marketplace-of-ideas",
+        "prediction",
+        "audience"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he dislikes publicity but feels internally commanded to reveal himself, tell people what he knows, and accept the risk of social-media suppression or retaliation.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0089",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0090"
+      ],
+      "temporal_scope": "Personal disclosure made on 2025-10-07 about his present public role.",
+      "topic_tags": [
+        "public-role",
+        "risk",
+        "social-media",
+        "counter-narrative"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg quotes Jiang's public guidance that when the world splinters, people should hold themselves together through love, imagination, purpose, and present-tense flourishing.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0091",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0092"
+      ],
+      "temporal_scope": "Host citation of Jiang's post, read aloud on 2025-10-07.",
+      "topic_tags": [
+        "love",
+        "imagination",
+        "purpose",
+        "flourishing"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says elite control works primarily through fear and ego, and overcoming both is necessary for genuine human thriving.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "Spiritual-political model stated on 2025-10-07.",
+      "topic_tags": [
+        "fear",
+        "ego",
+        "control",
+        "flourishing"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the hardest act is not loving others but forgiving oneself, especially for people traumatized into identifying with demonic forces rather than with their divine spark.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0093",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0094"
+      ],
+      "temporal_scope": "Spiritual-psychological claim made on 2025-10-07.",
+      "topic_tags": [
+        "self-forgiveness",
+        "trauma",
+        "divine-spark",
+        "redemption"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says corrupting human beings is how 'the powers that be' corrupt the divine itself, which makes personal redemption part of a larger cosmic struggle.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0094"
+      ],
+      "temporal_scope": "Metaphysical-political model stated on 2025-10-07.",
+      "topic_tags": [
+        "powers-that-be",
+        "corruption",
+        "divine",
+        "cosmic-struggle"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Jesus matters because he externalizes forgiveness, but full redemption still requires embracing one's own individuality and inner divinity.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0094"
+      ],
+      "temporal_scope": "Religious interpretation made on 2025-10-07.",
+      "topic_tags": [
+        "Jesus",
+        "forgiveness",
+        "individuality",
+        "inner-divinity"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that once a person recognizes the divine within and practices self-redemption, that person changes the world for the better.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0095"
+      ],
+      "temporal_scope": "Normative spiritual claim made on 2025-10-07.",
+      "topic_tags": [
+        "redemption",
+        "agency",
+        "divinity",
+        "world-change"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his only official outlets are the Predictive History YouTube channel and his Substack, while other channels clipping his lectures are unofficial even if he appreciates the wider circulation.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0097",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0098"
+      ],
+      "temporal_scope": "Current platform clarification made on 2025-10-07.",
+      "topic_tags": [
+        "Predictive History",
+        "YouTube",
+        "Substack",
+        "official-channels"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he is focusing heavily on geopolitics because he fears the United States is likely to attack Iran within weeks, possibly within the next week.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0097"
+      ],
+      "temporal_scope": "Explicit near-term geopolitical prediction stated on 2025-10-07 about the coming weeks.",
+      "topic_tags": [
+        "Iran",
+        "United States",
+        "Middle East",
+        "war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says criticism of manifestation usually treats it as a privileged fantasy that cannot matter under conditions like Gaza or war-zone suffering.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0101",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0102"
+      ],
+      "temporal_scope": "Host summary of a common objection voiced on 2025-10-07.",
+      "topic_tags": [
+        "manifestation",
+        "war-zones",
+        "privilege",
+        "skepticism"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg argues that manifestation works less like wish fulfillment and more like noticing intuitions, following leads, and acting on subtle guidance instead of ignoring it.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0102",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0103"
+      ],
+      "temporal_scope": "Host explanatory model stated on 2025-10-07.",
+      "topic_tags": [
+        "manifestation",
+        "intuition",
+        "guidance",
+        "action"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says intuitive practice in a war zone might look like receiving a warning to move and surviving an attack rather than single-handedly ending the war through willpower.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0103"
+      ],
+      "temporal_scope": "Illustrative host model stated on 2025-10-07.",
+      "topic_tags": [
+        "war-zone",
+        "intuition",
+        "survival",
+        "manifestation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg presents his Charlie Kirk research and a last-minute guest cancellation as an example of acting on an inner prompt and being rewarded with an unexpected audience surge.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0104"
+      ],
+      "temporal_scope": "Host autobiographical example recounted on 2025-10-07.",
+      "topic_tags": [
+        "Charlie Kirk",
+        "synchronicity",
+        "audience-growth",
+        "intuition"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says the interview with Jiang emerged from a chain of unlikely nudges, including a super chat reference and Jiang hearing Greg while Greg guested with Kurt Metzger.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0105"
+      ],
+      "temporal_scope": "Host account of recent events narrated on 2025-10-07.",
+      "topic_tags": [
+        "synchronicity",
+        "Kurt Metzger",
+        "booking",
+        "Professor Jiang"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says years of interviewing intuitive guests taught him that practical manifestation means setting clear intentions, asking for guidance, and acting on the intuition that follows.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0106"
+      ],
+      "temporal_scope": "Host practical model stated on 2025-10-07.",
+      "topic_tags": [
+        "manifestation",
+        "intuition",
+        "guidance",
+        "practice"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says the deeper he looks at the Charlie Kirk event, the more he leans toward theater and elite-stagecraft, even though he stops short of fully committing to that conclusion.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0107",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0108"
+      ],
+      "temporal_scope": "Host speculation voiced on 2025-10-07.",
+      "topic_tags": [
+        "Charlie Kirk",
+        "theater",
+        "elite-stagecraft",
+        "speculation"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Greg says Jiang disclosed mystical methods behind some of his predictive protocols, which made Greg reinterpret him as both a modern mystic and a genuine forecaster rather than a purely logical analyst.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0108",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0109"
+      ],
+      "temporal_scope": "Host interpretation made on 2025-10-07 about the interview just completed.",
+      "topic_tags": [
+        "mysticism",
+        "prediction",
+        "Professor Jiang",
+        "prophecy"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says Jiang also discussed elite contact with dark beings and even used the term lizard people, but Greg chooses not to over-amplify those remarks outside the full interview context.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0109"
+      ],
+      "temporal_scope": "Host description of second-hour material on 2025-10-07.",
+      "topic_tags": [
+        "dark beings",
+        "lizard people",
+        "second hour",
+        "taboo-topics"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says his paid audience functions as a trust check on his endorsements, because they would stop believing him if he praised guests he did not genuinely find compelling.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0110"
+      ],
+      "temporal_scope": "Host credibility claim made on 2025-10-07.",
+      "topic_tags": [
+        "trust",
+        "audience",
+        "credibility",
+        "Plus"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says Jiang's China answers were unexpectedly sharp and suggested that Chinese elite strategies rhyme with Western ones even inside a very different culture.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0111"
+      ],
+      "temporal_scope": "Host assessment made on 2025-10-07.",
+      "topic_tags": [
+        "China",
+        "elites",
+        "comparison",
+        "interview-assessment"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says every ruling system demonizes rival systems, so listeners should be cautious when comparing totalitarian claims across countries and should not assume their own system is the honest baseline.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0111",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0112"
+      ],
+      "temporal_scope": "Comparative political caution stated on 2025-10-07.",
+      "topic_tags": [
+        "propaganda",
+        "totalitarianism",
+        "comparison",
+        "elite-power"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says he and Jiang deliberately held back some topics until trust was established and expects a future conversation to move more directly into those deeper areas.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0112"
+      ],
+      "temporal_scope": "Future interview expectation stated on 2025-10-07.",
+      "topic_tags": [
+        "future-interview",
+        "trust",
+        "taboo-topics",
+        "relationship"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says his immediate life is going well, but the next five to ten years of geopolitical and economic development make him nervous, especially when he thinks about the world his children will inherit.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0113"
+      ],
+      "temporal_scope": "Host forecast stated on 2025-10-07 about the coming decade.",
+      "topic_tags": [
+        "children",
+        "geopolitics",
+        "economics",
+        "anxiety"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says parents cannot control history for their children, but they can create sanctuary, guard the sanctity of the inner circle, and avoid wasting energy before the worst arrives.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0114"
+      ],
+      "temporal_scope": "Normative family ethic stated on 2025-10-07.",
+      "topic_tags": [
+        "family",
+        "sanctuary",
+        "energy",
+        "preparation"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says this may be a sacred calm before larger upheaval, so people should not ruin the good time beforehand by obsessively worrying about what is coming.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0115"
+      ],
+      "temporal_scope": "Present-tense counsel stated on 2025-10-07.",
+      "topic_tags": [
+        "sacred-time",
+        "worry",
+        "preparation",
+        "calm-before-crisis"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says many prophetic or visionary narratives follow a familiar pattern: accurate-seeming insights build trust, a climactic event is forecast, the event fails on schedule, and the audience eventually forgets the seer.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0115",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0116"
+      ],
+      "temporal_scope": "Host meta-critique of prophecy stated on 2025-10-07.",
+      "topic_tags": [
+        "prophecy",
+        "timeline-failure",
+        "prediction",
+        "seers"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says Jiang may not fit that failed-prophecy archetype exactly, but listeners should keep the pattern in mind when judging information that arrives through revelatory channels.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0116"
+      ],
+      "temporal_scope": "Host caution stated on 2025-10-07.",
+      "topic_tags": [
+        "Professor Jiang",
+        "prophecy",
+        "caution",
+        "assessment"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says ordinary people have little control over whether large wars happen, so the useful response is to become the best port in the storm for others and invest attention in controllable sources of happiness and fulfillment.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0116",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0117"
+      ],
+      "temporal_scope": "Practical guidance stated on 2025-10-07.",
+      "topic_tags": [
+        "war",
+        "control",
+        "happiness",
+        "community"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg tells listeners to spend less unnecessary money and stop constantly meddling in systems when their own local engine is already running well.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0118"
+      ],
+      "temporal_scope": "Consumer and attention advice stated on 2025-10-07.",
+      "topic_tags": [
+        "spending",
+        "attention",
+        "systems",
+        "self-governance"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg treats the meetup calendar as a way for listeners to find one another locally, especially in places like Germany where he thinks public speech conditions are tightening.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0119",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0120"
+      ],
+      "temporal_scope": "Host organizing guidance stated on 2025-10-07.",
+      "topic_tags": [
+        "meetups",
+        "Germany",
+        "speech",
+        "local-networks"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says local meetups usually turn casual listeners into durable networks of good people who may matter more in troubled times than the event itself.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0121"
+      ],
+      "temporal_scope": "Host organizing claim stated on 2025-10-07.",
+      "topic_tags": [
+        "meetups",
+        "networks",
+        "troubled-times",
+        "community"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg says he felt genuine kinship with Jiang, expects very few listeners still need an introduction to Predictive History, and sees himself as lucky to release the interview while Jiang is already riding a wave of virality.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0121"
+      ],
+      "temporal_scope": "Host closing endorsement made on 2025-10-07.",
+      "topic_tags": [
+        "Professor Jiang",
+        "Predictive History",
+        "virality",
+        "endorsement"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg pitches Plus as an ad-free subscription with five full two-hour interviews per month and a fifteen-year archive starting at eight dollars.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0122"
+      ],
+      "temporal_scope": "Platform offer stated on 2025-10-07.",
+      "topic_tags": [
+        "Plus",
+        "subscription",
+        "archive",
+        "platform"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Greg ends with a taunting challenge to global conflict engineers and agents of the Archons, casting the show itself as a move made against larger hidden players.",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0122"
+      ],
+      "temporal_scope": "Host rhetorical flourish delivered on 2025-10-07.",
+      "topic_tags": [
+        "Archons",
+        "geopolitics",
+        "rhetoric",
+        "outro"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0002"
+      ],
+      "moment": "Greg's opening challenge is that the elite may be incompetent, apathetic, or psychopathic, but the functional result is the same for ordinary people.",
+      "source_phrase": "what is the functional difference",
+      "why_it_matters": "It sets the interview's anti-naive frame: outcomes matter more than charitable intent when judging power.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0006"
+      ],
+      "moment": "Jiang interprets the interview setup itself as a synchronistic event the universe wanted to happen.",
+      "source_phrase": "the universe wants us to be here today",
+      "why_it_matters": "It establishes the rapport and slightly mystical tone that lets the conversation move beyond ordinary policy commentary.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0008"
+      ],
+      "moment": "History becomes predictive when you realize every story already smuggles a model of human values and behavior into the future.",
+      "source_phrase": "your analytical model becomes your predictive model",
+      "why_it_matters": "This is the compact methodological kernel of Predictive History and likely the sentence later reads must preserve.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0011"
+      ],
+      "moment": "Jiang compresses imperial decline into a temperament: erratic, violent, and counterproductive.",
+      "source_phrase": "erratic, violent, and ... counterproductive",
+      "why_it_matters": "This gives the read a memorable behavioral test for whether an empire has moved from rise to decay.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0014"
+      ],
+      "moment": "Gridlock and bureaucratic frustration train the public to ask for a man who can break the whole system open.",
+      "source_phrase": "bring in a guy to break everything",
+      "why_it_matters": "It captures the psychological hinge in the open-to-bureaucratic-to-authoritarian sequence.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0015",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0016"
+      ],
+      "moment": "Late Rome returns as a renter economy where monopolized assets and debt incubate demagogues.",
+      "source_phrase": "the renter economy",
+      "why_it_matters": "It fuses Jiang's historical analogy with a concrete present-day economic image rather than abstract civilizational decline.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0018"
+      ],
+      "moment": "Greg compresses Jiang's regime logic into one brutal sequence: to avoid revolution, the elite choose war.",
+      "source_phrase": "to avoid revolution, the elite will opt for war",
+      "why_it_matters": "Even as a host paraphrase, it names the causal hinge that the rest of Jiang's answer tries to substantiate.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0020"
+      ],
+      "moment": "The war party is not naming a single enemy; it sounds like America is preparing to go to war with everyone.",
+      "source_phrase": "about to go to war with everyone",
+      "why_it_matters": "It captures Jiang's sense that the rhetoric has become open-ended and structurally destabilizing rather than strategically bounded.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0021",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0022"
+      ],
+      "moment": "A second Israel-Iran strike could cascade from regional retaliation into Hormuz closure and then into world war.",
+      "source_phrase": "cascading effect",
+      "why_it_matters": "This preserves Jiang's multi-step escalation model rather than flattening it into generic war anxiety.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0026"
+      ],
+      "moment": "Jiang calls the American economy a giant Ponzi scheme that needs fresh treasury buyers to keep moving.",
+      "source_phrase": "one giant Ponzi scheme",
+      "why_it_matters": "It condenses his economic diagnosis into a harsh image that links debt management to imperial compulsion.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0028"
+      ],
+      "moment": "The war planners are not improvising; to them the apocalypse is a script.",
+      "source_phrase": "it's almost like a script to them",
+      "why_it_matters": "This preserves Jiang's central claim that theology, not just interest calculation, is structuring strategic behavior.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0029"
+      ],
+      "moment": "The factions pushing war are like marathon runners who can finally see the finish line and will kill themselves climbing the last mountain to reach it.",
+      "source_phrase": "they finally see the finish line",
+      "why_it_matters": "It gives the eschatological rush a vivid tempo: desperation rises because prophecy is felt as near, not abstract.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0034"
+      ],
+      "moment": "Jiang says Chinese religious traditions were not merely weakened but 'lobotomized' by bureaucratic history.",
+      "source_phrase": "diluted, or ... lobotomized",
+      "why_it_matters": "It gives his China-versus-West comparison a sharp mechanism: bureaucracy amputates mythic energy rather than simply coexisting with it.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0034"
+      ],
+      "moment": "Stories are dangerous because they give people imagination, and imagination is a threat to bureaucratic order.",
+      "source_phrase": "stories allow people to have an imagination",
+      "why_it_matters": "This is a reusable Jiang mechanism linking censorship, bureaucracy, and civilizational texture.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0039"
+      ],
+      "moment": "China can be one of the freest places on earth, but only if you refuse the path of money and patronage.",
+      "source_phrase": "one of the freest places on Earth",
+      "why_it_matters": "It captures the paradox at the center of Jiang's lived description of Chinese freedom: liberty exists in the shadow zone outside elite enrichment.",
+      "tone": "paradox",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0043"
+      ],
+      "moment": "Education should make the soul shine in the world rather than merely train compliant performers.",
+      "source_phrase": "make the soul shine in the world",
+      "why_it_matters": "It condenses Jiang's deepest educational aim into one memorable formulation that later read-writing should preserve.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0045"
+      ],
+      "moment": "The Great Books are not just curriculum; they are reminders that a divine spark still links a person to the higher good.",
+      "source_phrase": "there's a divine spark in them",
+      "why_it_matters": "It explains why Jiang treats Homer and Dante as civilizational repair tools rather than prestige reading lists.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0048"
+      ],
+      "moment": "After gold ended, the dollar became alchemy: a world order floating on faith in American continuity.",
+      "source_phrase": "now it's alchemy",
+      "why_it_matters": "This is the pivot from Jiang's educational anthropology to his monetary theory of power.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0050"
+      ],
+      "moment": "Jiang's alchemy is geopolitical, not mystical: Saudi oil and Chinese labor were arranged to keep global faith in the dollar alive.",
+      "source_phrase": "these two things is what underpins the value",
+      "why_it_matters": "It moves the interview from vague anti-fiat rhetoric into a concrete historical mechanism of reserve-currency maintenance.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0051",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0052"
+      ],
+      "moment": "Banks do not hand you somebody else's money; they write new money into existence when they lend.",
+      "source_phrase": "it creates five million dollars out of thin air",
+      "why_it_matters": "This is one of Jiang's cleanest formulations of financial alchemy and a likely anchor for later public read prose.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0056"
+      ],
+      "moment": "Greg frames stablecoins as a Hail Mary that might save the system without requiring another war.",
+      "source_phrase": "this Hail Mary",
+      "why_it_matters": "It captures why the stablecoin question matters in the interview's larger empire-and-collapse frame.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0059"
+      ],
+      "moment": "When elites design a rigged game, the people inside it do not stay noble; they learn to cheat.",
+      "source_phrase": "everyone's going to cheat in this game",
+      "why_it_matters": "This is Jiang's compact anthropology of why technocratic fixes fail: they misread human agency under pressure.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0061"
+      ],
+      "moment": "The dollar order survives because America can bomb states that refuse the game, but that logic weakens as the world becomes multipolar.",
+      "source_phrase": "if you don't play ball",
+      "why_it_matters": "It links monetary order directly to military order and marks the exact mechanism Jiang thinks is now decaying.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0064"
+      ],
+      "moment": "Jiang calls elite education a Hunger Games machine that traumatically burns through children to produce a handful of spectacular winners.",
+      "source_phrase": "this Hunger Games education system",
+      "why_it_matters": "It is the sharpest image in his opening Ivy League critique and likely the phrase a public read must preserve.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0065"
+      ],
+      "moment": "Yale is not a sanctuary but a Hunger Games venture fund that burns through students to mint a tiny number of unicorn winners.",
+      "source_phrase": "it's almost like a venture capital firm",
+      "why_it_matters": "It fuses Jiang's trauma language with his institutional model and gives the public read a memorable image for elite sorting.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0067"
+      ],
+      "moment": "Jiang calls the Ivy League the ultimate MK-Ultra experiment for manufacturing approval-addicted elites.",
+      "source_phrase": "the ultimate MK ultra experiment",
+      "why_it_matters": "This is his sharpest provocation in the packet and captures how far he takes the critique of elite conditioning.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0068"
+      ],
+      "moment": "The Ivy League turns merit into a rigged game where winners keep winning and everyone else is written off as a loser.",
+      "source_phrase": "winners will always win",
+      "why_it_matters": "It compresses Jiang's argument about why credentialism destroys the American dream rather than renewing it.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0076"
+      ],
+      "moment": "Jiang's anti-meritocracy line sharpens into a labor model: what most work needs is not genius selection but long apprenticeship.",
+      "source_phrase": "it requires you to be mentored and apprenticed",
+      "why_it_matters": "This is the constructive half of his education critique and gives the read a positive alternative to elite sorting.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0078"
+      ],
+      "moment": "Greg turns Harvard into a branding engine that teaches ordinary people elite success only comes through five anointed schools.",
+      "source_phrase": "successful people go to these five schools",
+      "why_it_matters": "It shows how institutional prestige becomes mass psychological discipline, not just elite selection.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0079"
+      ],
+      "moment": "The Hari Seldon comparison reframes Jiang as a collapse forecaster speaking under imperial pressure.",
+      "source_phrase": "there's a certain courage in forecasting",
+      "why_it_matters": "It marks the thematic turn from credentialism to prophecy and sets up the interview's most extreme prediction block.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0081"
+      ],
+      "moment": "Jiang abruptly states that 99 percent of humanity will die within a century, turning the interview from edgy geopolitics into explicit apocalypse.",
+      "source_phrase": "99 % of humanity will be wiped out",
+      "why_it_matters": "This is the single most explosive prediction in the interview and will define how readers interpret the rest of the prophetic material.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0083"
+      ],
+      "moment": "His mechanism is not one clean disaster but a stacked storm of geophysical, epidemiological, military, and revolutionary shocks.",
+      "source_phrase": "a perfect storm of crises",
+      "why_it_matters": "It shows the prediction is a compounded collapse model rather than a single-event prophecy.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0087"
+      ],
+      "moment": "Jiang subjects mystical claims to a falsification test: if the short-term calls fail, listeners should write him off as a false prophet.",
+      "source_phrase": "then you know i'm a false prophet",
+      "why_it_matters": "It connects his prophetic register back to his predictive-history method and gives later readers a concrete verification frame.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0089"
+      ],
+      "moment": "Jiang frames his public voice as obedience to an inner summons rather than a desire for fame.",
+      "source_phrase": "you have to speak up now",
+      "why_it_matters": "It explains why he treats the interview as a moral duty and not just a media opportunity.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0093",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0094"
+      ],
+      "moment": "The deepest prison is not hatred of others but failure to forgive oneself and trust the divine spark that survives trauma.",
+      "source_phrase": "forgiving yourself is the hardest thing",
+      "why_it_matters": "It is the emotional and spiritual center of Jiang's practical answer to civilizational decline.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0094"
+      ],
+      "moment": "Saving yourself becomes, in Jiang's frame, part of saving God from corruption.",
+      "source_phrase": "it's within your power to save God",
+      "why_it_matters": "This is the boldest metaphysical escalation in the closing advice and likely a key pressure point for the public read.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0097"
+      ],
+      "moment": "Jiang turns a routine follow-the-links answer into a fresh wartime alarm by predicting a U.S. strike on Iran within weeks.",
+      "source_phrase": "America will attack Iran in the next few weeks",
+      "why_it_matters": "It shows how quickly he snaps back from self-promotion to actionable geopolitical warning.",
+      "tone": "prediction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0103"
+      ],
+      "moment": "Greg rescues manifestation from naive magic by redefining it as the intuition that tells you to cross the street before the rocket hits.",
+      "source_phrase": "the building you just walked away from is hit by a rocket",
+      "why_it_matters": "This is the packet's sharpest image for how mystical guidance survives contact with real catastrophe.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0104"
+      ],
+      "moment": "The no-show guest becomes proof, in Greg's telling, that the universe sometimes clears the stage so you finally act on what is already loaded in your head.",
+      "source_phrase": "something in the universe moved that out of the way",
+      "why_it_matters": "It links the outro's synchronicity theme to the chain of events that led to Jiang's interview itself.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0106"
+      ],
+      "moment": "Greg compresses the whole synchronicity lesson into a three-step method: have clear intentions, ask for guidance, then obey the intuition.",
+      "source_phrase": "have clear intentions, ask for guidance, and then act on the intuition",
+      "why_it_matters": "It is the cleanest operational definition of the mystical framework Greg uses to interpret both his own story and Jiang's.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0109"
+      ],
+      "moment": "Greg upgrades Jiang from viral logic teacher to modern mystic and proper vessel for prophecy.",
+      "source_phrase": "a modern mystic and a proper vessel for prophecy",
+      "why_it_matters": "This is the most revealing statement of how the host wants listeners to classify Jiang after the second hour.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0112"
+      ],
+      "moment": "The packet ends on a surgical promise: now that trust exists, next time they can rip the bandaid off and go right for the wound.",
+      "source_phrase": "rip the bandaid off and go right for the wound",
+      "why_it_matters": "It preserves the sense that this interview was only the opening move and that more explosive material is being deferred, not abandoned.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0114"
+      ],
+      "moment": "Greg turns family life into a defensive architecture: create sanctuary and guard the sanctity of the inner circle while the outer world worsens.",
+      "source_phrase": "guard the sanctity of our inner circle",
+      "why_it_matters": "It is the packet's strongest compression of his practical response to civilizational anxiety.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0114"
+      ],
+      "moment": "The Mad Max meme lands the mood perfectly: it is bad now, but the joke is that it is still going to get a lot worse.",
+      "source_phrase": "it's going to get a lot worse",
+      "why_it_matters": "This is the packet's clearest emotional bridge between dark humor and sincere dread.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0116"
+      ],
+      "moment": "Greg reduces the prophecy problem to a brutal archetype: the conduit has compelling insights, the culminating event never comes on time, and then the public forgets them.",
+      "source_phrase": "then that thing doesn't happen",
+      "why_it_matters": "It keeps the read from flattening Greg into a pure believer and preserves his built-in caution about apocalyptic forecasting.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0117"
+      ],
+      "moment": "The practical ethic is not to stop the train but to become the best port in the storm for the people around you.",
+      "source_phrase": "be the best port in the storm",
+      "why_it_matters": "It is the cleanest single sentence of Greg's applied takeaway after the interview.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0121"
+      ],
+      "moment": "Meetups are not just social extras; they are how scattered listeners become a network of good people to know in troubled times.",
+      "source_phrase": "a strong network of good people to know in troubled times",
+      "why_it_matters": "It shows the community layer Greg wants to build around interviews like this one, not just the informational layer.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0121"
+      ],
+      "moment": "Greg frames himself as the lucky surfer on Jiang's virality rather than the sole engine of it.",
+      "source_phrase": "I'm riding the wave",
+      "why_it_matters": "It captures both the humility and opportunism in the host's final positioning of the episode.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0122"
+      ],
+      "moment": "The final line turns the episode into a provocation aimed at hidden managers of the geopolitical game: your move.",
+      "source_phrase": "Your move, global chess game players",
+      "why_it_matters": "It preserves the combative edge of the closing instead of letting the interview end as a neutral subscription plug.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Predictive History",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0004",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang's project of connecting past, present, and future by turning historical interpretation into testable prediction.",
+      "confidence": "high"
+    },
+    {
+      "term": "analytical model",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A historical explanation built from assumptions about values and social behavior that can be extended forward.",
+      "confidence": "high"
+    },
+    {
+      "term": "mores",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The underlying values and social norms Jiang says are embedded in every historical narrative.",
+      "confidence": "high"
+    },
+    {
+      "term": "decline phase",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Jiang's stage in which an empire behaves erratically, violently, and destructively because its institutions and social base are decaying.",
+      "confidence": "high"
+    },
+    {
+      "term": "rentier economy",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "An economy where concentrated asset ownership turns average people into renters and debtors rather than owners.",
+      "confidence": "medium"
+    },
+    {
+      "term": "demagogue",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "A charismatic political figure propelled by mass discontent and promising to smash a corrupt system.",
+      "confidence": "high"
+    },
+    {
+      "term": "sanctuary cities",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "Major U.S. cities Jiang says Trump is portraying as illegitimate or defiant of presidential authority.",
+      "confidence": "high"
+    },
+    {
+      "term": "Strait of Hormuz",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "The chokepoint Jiang identifies as a possible trigger for wider international escalation if Iran closes it.",
+      "confidence": "high"
+    },
+    {
+      "term": "12-day war",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0021"
+      ],
+      "definition_or_usage": "Jiang's reference point for a previous limited Israel-Iran conflict, contrasted with the more violent response he expects next.",
+      "confidence": "medium"
+    },
+    {
+      "term": "eschatological",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Jiang's term for power behavior driven by end-times prophecy rather than normal strategic or economic reasoning.",
+      "confidence": "high"
+    },
+    {
+      "term": "War of Gog and Magog",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0027",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0028"
+      ],
+      "definition_or_usage": "The apocalyptic war scenario Jiang says multiple religious factions want to trigger through Middle East escalation.",
+      "confidence": "high"
+    },
+    {
+      "term": "third temple",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "The temple Jiang says prophecy-minded actors want to build after Al-Aqsa's destruction.",
+      "confidence": "high"
+    },
+    {
+      "term": "personality politics",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0038"
+      ],
+      "definition_or_usage": "Jiang's description of Chinese political life as patronage-centered and factional rather than impersonally rule-bound.",
+      "confidence": "high"
+    },
+    {
+      "term": "bureaucratic worldview",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "A governing mentality that fears imagination, religion, and unpredictable excitement because they escape administrative control.",
+      "confidence": "high"
+    },
+    {
+      "term": "intellectual freedom",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "The space Jiang says remains available in China for someone who does not try to monetize influence or join elite patronage networks.",
+      "confidence": "high"
+    },
+    {
+      "term": "individual agency",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0043",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0044"
+      ],
+      "definition_or_usage": "The student's sense of being a real person with a soul, vocation, and power to direct a life rather than merely obey a system.",
+      "confidence": "high"
+    },
+    {
+      "term": "divine spark",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Jiang's name for the inner source of soul, agency, and orientation toward the higher good that great books can reawaken.",
+      "confidence": "high"
+    },
+    {
+      "term": "Bretton Woods",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "The post-1945 monetary arrangement Jiang invokes as the last period when the dollar's authority was openly tied to gold rather than pure belief.",
+      "confidence": "high"
+    },
+    {
+      "term": "petrodollar",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "The arrangement Jiang says bound Saudi oil sales to U.S. dollars and helped stabilize dollar demand after gold convertibility ended.",
+      "confidence": "high"
+    },
+    {
+      "term": "double-entry bookkeeping",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0051",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "The accounting logic Jiang uses to explain how banks create money and book debt as an asset when they lend.",
+      "confidence": "high"
+    },
+    {
+      "term": "exorbitant privilege",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0050"
+      ],
+      "definition_or_usage": "Jiang's term for America's ability to run the dollar order and externalize the costs of debt onto the rest of the world.",
+      "confidence": "high"
+    },
+    {
+      "term": "multipolar world",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "The emerging order Jiang says breaks the assumptions of policymakers still acting as if America remains the sole hegemon.",
+      "confidence": "high"
+    },
+    {
+      "term": "unipolar world",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "The older strategic environment Jiang says American monetary and geopolitical calculations still wrongly presuppose.",
+      "confidence": "high"
+    },
+    {
+      "term": "Hunger Games education system",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "Jiang's metaphor for elite schooling as a brutal selection apparatus that traumatizes many students to produce a small number of institutional champions.",
+      "confidence": "high"
+    },
+    {
+      "term": "credentialized society",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0071"
+      ],
+      "definition_or_usage": "Jiang's term for a social order in which access to work and status is increasingly gated by degrees rather than by demonstrated ability or apprenticeship.",
+      "confidence": "high"
+    },
+    {
+      "term": "Hunger Games education system",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0065"
+      ],
+      "definition_or_usage": "Jiang's image for elite schooling as a brutal tournament that traumatizes many students to produce a few spectacular winners.",
+      "confidence": "high"
+    },
+    {
+      "term": "Death by Meritocracy",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0069"
+      ],
+      "definition_or_usage": "Greg cites this as the title of Jiang's meritocracy critique, framing the discussion as an attack on rigged elite closure rather than on genuine merit.",
+      "confidence": "high"
+    },
+    {
+      "term": "mentor mentee relationship",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0077"
+      ],
+      "definition_or_usage": "Greg names this as a social form that has eroded in America, aligning with Jiang's case for apprenticeship over credential sorting.",
+      "confidence": "high"
+    },
+    {
+      "term": "apprenticeship",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0076"
+      ],
+      "definition_or_usage": "Jiang's preferred model for training people into competence, contrasted with meritocratic gatekeeping and degree inflation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Hari Seldon analogy",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0079"
+      ],
+      "definition_or_usage": "Greg's Foundation reference for a figure who predicts imperial collapse and is punished by power for saying it out loud.",
+      "confidence": "high"
+    },
+    {
+      "term": "Kali Yuga",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0083"
+      ],
+      "definition_or_usage": "Jiang uses the term for an age of intensified breakdown in which the coming decades worsen relentlessly.",
+      "confidence": "high"
+    },
+    {
+      "term": "false prophet",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0087"
+      ],
+      "definition_or_usage": "Jiang's own criterion for failure if his short-term predictions do not materialize.",
+      "confidence": "high"
+    },
+    {
+      "term": "marketplace of ideas",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0088"
+      ],
+      "definition_or_usage": "Jiang's description of the internet as a place where predictions compete and can be judged by outcomes.",
+      "confidence": "high"
+    },
+    {
+      "term": "fear and ego",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0093"
+      ],
+      "definition_or_usage": "Jiang's pair of psychological levers through which elite systems maintain control over individuals.",
+      "confidence": "high"
+    },
+    {
+      "term": "divine spark",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0093"
+      ],
+      "definition_or_usage": "Jiang's term for the indestructible connection within each person to the divine, even after trauma or moral corruption.",
+      "confidence": "high"
+    },
+    {
+      "term": "flourishing",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0092"
+      ],
+      "definition_or_usage": "Greg quotes Jiang defining flourishing as the condition reached through love, learning, creation, and moving toward one's purpose.",
+      "confidence": "high"
+    },
+    {
+      "term": "counterfeit channels",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0097"
+      ],
+      "definition_or_usage": "Jiang's label for unofficial clip channels that reuse his material without being his actual platform.",
+      "confidence": "high"
+    },
+    {
+      "term": "probability enhancers",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0103"
+      ],
+      "definition_or_usage": "Greg's phrase for practices that do not guarantee outcomes but may improve alignment with timely intuitive action.",
+      "confidence": "high"
+    },
+    {
+      "term": "vessel for prophecy",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0109"
+      ],
+      "definition_or_usage": "Greg's label for someone whose predictions are not just analytical forecasts but transmissions from a deeper mystical source.",
+      "confidence": "high"
+    },
+    {
+      "term": "find out who you're not allowed to criticize",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0112"
+      ],
+      "definition_or_usage": "A recurring anti-elite heuristic Greg invokes to judge who really holds power inside a system.",
+      "confidence": "high"
+    },
+    {
+      "term": "port in the storm",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0117"
+      ],
+      "definition_or_usage": "Greg's metaphor for becoming a stabilizing presence for other people when large-scale events are outside anyone's direct control.",
+      "confidence": "high"
+    },
+    {
+      "term": "sacred time",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0115"
+      ],
+      "definition_or_usage": "Greg's label for the relative calm before larger disruption, which should be used for life and preparation rather than anticipatory panic.",
+      "confidence": "high"
+    },
+    {
+      "term": "agents of the Archons",
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0122"
+      ],
+      "definition_or_usage": "Greg's hostile catchall for the hidden operators or manipulative forces he imagines behind engineered geopolitical conflict.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0003"
+      ],
+      "note": "Greg dates Jiang's public rise to lectures posted in April 2024 and says the major viral surge happened in the months leading up to this 2025-10-07 interview.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0011",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0016"
+      ],
+      "note": "On 2025-10-07 Jiang places the United States already inside the decline phase rather than warning about a distant future transition.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0020",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0021",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0022"
+      ],
+      "note": "This packet is densely time-sensitive: Jiang anchors claims to 'yesterday,' 'next week or two weeks,' and 'starting next year,' so later review should treat it as a dated snapshot rather than timeless doctrine.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0029",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0030"
+      ],
+      "note": "This packet contains one of the interview's sharpest dated predictions: Jiang explicitly puts Al-Aqsa destruction on a six-month-to-one-year horizon from 2025-10-07.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0038"
+      ],
+      "note": "Jiang grounds the China-freedom claim in his own experience over 'the past 30 years,' making it a lived present-tense diagnosis rather than a purely abstract model.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0044",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0048"
+      ],
+      "note": "This packet ties together two dated arcs: Jiang says his current four-year Great Books phase came after an earlier failed reform program, and he dates the monetary shift from gold-backed dollars to post-1971 financial faith.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0049",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0050"
+      ],
+      "note": "This packet is chronology-heavy: Jiang ties the current dollar order to the 1971 end of gold convertibility, the 1972 opening to China, and the ongoing present-day debt crisis.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0061",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0064"
+      ],
+      "note": "The packet marks a chronology turn inside the interview: Jiang closes the stablecoin question with a present-tense multipolar diagnosis, then opens a new thematic block on Ivy League elite formation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0071",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0072"
+      ],
+      "note": "Jiang explicitly frames credential society as a relatively recent shift, contrasting the last 50 to 100 years with an earlier America that relied less on universities and more on direct talent or practical training.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0079",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0080"
+      ],
+      "note": "This packet closes the credentialism block and opens the interview's prophetic section with a direct invitation for Jiang to disclose predictions he has withheld until now.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0083",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0087"
+      ],
+      "note": "This packet layers multiple time horizons: an extremely cold coming winter, a worsening 20-year crisis, a 50-year rebuilding horizon, and a 100-year mass-dieoff claim, then shifts back to near-term predictions as Jiang's test case.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0091",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0095"
+      ],
+      "note": "After the apocalyptic block, the interview deliberately turns to action guidance: Greg quotes Jiang's posted remedy, and Jiang answers with a present-tense program of spiritual self-governance rather than another future scenario.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0099",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0104"
+      ],
+      "note": "This packet contains the formal end of the interview and the start of Greg's solo postscript, where Jiang's geopolitical warning is immediately reframed through Greg's own synchronicity and manifestation language.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0108",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0112"
+      ],
+      "note": "Greg's postscript moves from personal synchronicity into explicit recoding of Jiang as a mystical predictor, then ends by promising a more trust-dependent follow-up conversation rather than claiming this interview exhausted the material.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0115",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0116"
+      ],
+      "note": "Immediately after platforming Jiang's extreme predictions, Greg adds his own timeline skepticism and prophecy-pattern warning, so the source already contains an internal check against naive apocalyptic certainty.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0121",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0122"
+      ],
+      "note": "The source ends by translating Jiang's interview from content into network maintenance: listeners are directed toward local meetups, Jiang's channels, and the host's paid archive before the final adversarial flourish.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0001"
+      ],
+      "note": "The opening fragment is too truncated to ground a reliable claim and is treated as stray audio."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0015"
+      ],
+      "note": "The transcript is noisy around the asset-ownership sentence and likely garbles one phrase before 'the average American has become a rentier now'; the broader rentier argument is still clear."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0016"
+      ],
+      "note": "The transcript renders 'Sola'; context strongly suggests Sulla in the Roman sequence, but the semantic pass keeps the underlying Roman-republic analogy without silently correcting the proper name."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0019",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0020",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0022"
+      ],
+      "note": "These segments contain highly specific current-events references that are recorded as interview claims and predictions; the semantic pass does not independently verify their factual accuracy."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0028"
+      ],
+      "note": "The JFK and 9/11 linkage is presented as a possible extension of the prophecy thesis rather than a fully argued proof in this packet, so it is recorded with medium confidence."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0034",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0035"
+      ],
+      "note": "A few cultural examples and one verb are ASR-noisy, but the larger claim is clear: Jiang sees bureaucracy as thinning myth and imagination out of the Chinese canon."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0041",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0045"
+      ],
+      "note": "The transcript clips Greg's biography setup and his appreciative interjection after 'divine spark,' but the educational argument and transition into monetary alchemy remain clear."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0051",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0054",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0055"
+      ],
+      "note": "The Richard Werner book title, one phrase near the stablecoin pitch, and repeated stablecoin lines are ASR-noisy, but the core arguments about bank money creation and Greg's proposed stablecoin mechanism remain legible."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0058",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0062"
+      ],
+      "note": "Some examples and transitions are coarse or compressed by ASR, but the stablecoin objection, multipolar turn, and opening Ivy League critique are clear enough for high-confidence extraction."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0065",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0067"
+      ],
+      "note": "A few ASR phrases are rough, including one likely mistranscription in the Yale line and the MK-Ultra sentence, but the venture-capital, hollow-elite, and credentialism arguments are still clear."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0075",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0077"
+      ],
+      "note": "Some medical-system phrasing is ASR-garbled and Greg's China-pharma detour is loose, but the packet's core contrast between apprenticeship and meritocratic sorting is clear."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0083",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0087"
+      ],
+      "note": "The mosque name in one prediction may be ASR-distorted and several cataclysm examples are speculative by nature, but the packet's core claims about timeline uncertainty and Jiang's self-testing method are clear."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0092",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0094"
+      ],
+      "note": "Greg's read-aloud includes a few ASR distortions around Greek vocabulary, but the closing turn toward flourishing, self-forgiveness, and inner divinity is clear."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0101",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0104"
+      ],
+      "note": "Greg's outro is clear overall, but a few words in the manifestation section are slightly ASR-smoothed; the distinction between wishful thinking and intuitive action still reads cleanly."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0107",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0109"
+      ],
+      "note": "Greg is speculating freely in parts of this packet, especially around Charlie Kirk theater and elite metaphysics; the file preserves those as host framing rather than source-verified fact."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0115",
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0119"
+      ],
+      "note": "This packet is mostly host reflection and promo material, but the prophecy-archetype and sanctuary themes are explicit enough to deserve preservation rather than being dismissed as filler."
+    },
+    {
+      "refs": [
+        "video:interview-0wnkev-18y0@transcript:v1#seg-0123"
+      ],
+      "note": "The final segment is too ASR-corrupted to support anything beyond noting that an outro fragment continues after Greg's spoken close."
+    }
+  ]
+}
