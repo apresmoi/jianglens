@@ -1,0 +1,94 @@
+# Strategy Material Test Split Review
+
+Date: 2026-05-27
+Status: proposed split/compression plan
+Work type: atlas governance / concept-boundary proposal
+Public surface: `website/src/content/docs/lens/when-war-becomes-a-story-instead-of-a-material-test.md`
+
+## Proposed Decision
+
+Treat **When War Becomes A Story Instead Of A Material Test** as the parent Strategy page and stop appending ordinary Iran-war, chokepoint, or proxy-war sections until the page is compressed into a parent-plus-child shape.
+
+The page is no longer only long. It has become several mature mechanisms inside one reader surface: material tests of economics/organization/logistics, chokepoint empire, no-exit war, vassal proxy attrition, hybrid war, shock-and-awe fantasy, escalation control, war momentum, and resource-empire retrenchment. Sentinel's 2026-05-27 room warning correctly flags the page as over the hard split-review threshold; the local count is about 13.5k words, with the page already carrying 39 distinct source refs.
+
+The next public mutation should therefore be a compression/split pass, not more prose. The parent page should retain the core diagnostic:
+
+- war stories must answer economics, organization, and logistics;
+- spectacle, dominance, money, and declared strategy become real only when they survive material audit;
+- neighboring lenses own narrative, nation, money, eschatology, or game incentives when those are the active mechanism.
+
+## Why This Advances The Lens Map
+
+The recent impact files for `interview-qdzkv36zyfk`, `interview-0rigzd-tk3s`, and `interview-0ehvw2fo5-8` all route new material into Strategy, but they also warn against another ordinary Strategy append. The March/April Iran-war cluster is source-dense enough to clarify the map only if the existing page stops acting as the home for every military mechanism.
+
+This proposal turns backlog pressure into a usable next move. It preserves the public Strategy page as a reader entry point while making room for child concepts where the corpus already has repeatable mechanisms. It also prevents accidental atlas blur: Hormuz, Malacca, Gulf mirage, ground troops, and proxy feasibility belong to Strategy, but prophecy acceleration belongs to Eschatology, dollar-protection confidence belongs to Power As Alchemy, and target-order alignment belongs to Game Theory.
+
+## Source Pressure
+
+The page itself already shows the split pressure.
+
+The root test is compact and should stay on the parent page. Jiang's Hollywood-Pentagon lecture gives the economics, organization, and logistics triad through rescue cost, fantasy airbase planning, and maintenance/pilot fatigue (`video:predictive-history-0hyet47cc-e@transcript:v1#seg-0030`, `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0023`, `video:predictive-history-0hyet47cc-e@transcript:v1#seg-0014`). That is the Strategy parent.
+
+The **Chokepoint Empire** section is now its own mature child candidate. It carries the reserve-currency-to-access-control shift, Hormuz as system pivot, cheap energy platform, Gulf fragility, Malacca/blockade timing, Venezuela/Monroe supply-line coercion, limited-war systems fire, and ceasefire theater. The strongest anchors are:
+
+- `lens-point:strategy-chokepoint-empire-controls-access`
+- `lens-point:strategy-strait-pivots-system`
+- `lens-point:strategy-cheap-energy-platform-breaks`
+- `lens-point:strategy-blockade-window-forces-timing`
+- `lens-point:strategy-hemisphere-supply-lines-become-leverage`
+- `lens-point:strategy-limited-war-becomes-systems-fire`
+- `lens-point:strategy-ceasefire-theater-war-architecture`
+
+The recent impact files add more pressure to this same child boundary. The October 7, 2025 Danny Haiphong interview makes Hormuz the trapdoor from regional war into world war and ties it to oil, treaties, and ground troops (`video:interview-qdzkv36zyfk@transcript:v1#seg-0008`, `video:interview-qdzkv36zyfk@transcript:v1#seg-0016`). The March 7, 2026 Dialogue Works interview treats Hormuz as world-system nexus while separating ground troops from airpower fantasy (`video:interview-0rigzd-tk3s@transcript:v1#seg-0004`, `video:interview-0rigzd-tk3s@transcript:v1#seg-0005`). The April 16, 2026 Piers Morgan interview compresses the transferable strait weapon: Hormuz, Malacca, Chinese energy exposure, GCC fragility, and ground-war quagmire (`video:interview-0ehvw2fo5-8@transcript:v1#seg-0021`, `video:interview-0ehvw2fo5-8@transcript:v1#seg-0026`, `video:interview-0ehvw2fo5-8@transcript:v1#seg-0040`).
+
+The **No-Exit War / Escalation Momentum** material is another child candidate, though it may be a section of the chokepoint child if the next editor wants fewer pages. The mature anchors are:
+
+- `lens-point:strategy-no-exit-war-dollar-trap`
+- `lens-point:strategy-war-gets-own-logic`
+- `lens-point:strategy-escalation-ladder-gains-momentum`
+- `lens-point:strategy-debt-war-cannot-admit-defeat`
+
+This child would own Jiang's repeated claim that an empire starts a war to preserve credibility, money, alliance position, or face, then finds that stopping threatens the order the war was supposed to defend. Its core refs include the March 13 no-exit formulation (`video:interview-px5wsnsqwme@transcript:v1#seg-0024`, `video:interview-px5wsnsqwme@transcript:v1#seg-0031`), the March 20 war-momentum formulation (`video:interview-2k2nqsttjqe@transcript:v1#seg-0008`, `video:interview-2k2nqsttjqe@transcript:v1#seg-0058`), and the March 24 escalation-ladder formulation (`video:interview-pvhuffwtu3i@transcript:v1#seg-0003`, `video:interview-pvhuffwtu3i@transcript:v1#seg-0041`).
+
+The **Vassal Proxy Attrition** section is a third candidate, because it already joins Peloponnesian ally exhaustion, Europe-as-expendable-body, NATO weapons purchases, Asian cannon-fodder logic, and debt-war admission failure. It may become a child page later, but it is less urgent than Chokepoint Empire because the newest Iran-war cluster is currently pressing Hormuz/Malacca/ground-war routing.
+
+## Recommended Public Shape
+
+1. Keep the current URL as the parent Strategy page.
+2. Compress the parent to about 4k-6k words, preserving the opening diagnostic, the three material tests, a short chronology, and routing paragraphs to child concepts.
+3. Create a child page first for `chokepoint-empire-and-no-exit-war.md` or a shorter slug such as `chokepoint-empire.md`.
+4. Move the dense Chokepoint Empire, No-Exit War, Ceasefire Theater, War Gets Its Own Logic, and Ladder sections into that child if the child is scoped as the Iran-war systems cluster.
+5. Keep existing lens-point IDs stable when moved. Episode `lens_points` links should not change meaning just because the public anchor moves.
+6. Add redirect or parent links if route behavior requires it; do not leave orphaned child pages outside the Starlight sidebar if they are intended as public lens surfaces.
+
+The safest first child boundary is **Chokepoint Empire And No-Exit War**: war becomes a material test when reserve-currency empire hardens into access control, a strait or supply route becomes a systems pivot, and the empire cannot exit because retreat would audit the protection story. This boundary can absorb the three latest impact files without creating a narrow "Hormuz page" that will age badly.
+
+## Boundary Notes
+
+**Strategy parent** owns material audit: economics, organization, logistics, supply, troops, bases, chokepoints, attrition, control, exit cost, and whether the declared strategy can be carried by the physical board.
+
+**Chokepoint child** owns access-control war: straits, canals, blockades, sea lanes, Hormuz, Malacca, Gulf fragility, energy platform, food/energy circulation, and client-state exposure.
+
+**No-exit child or subsection** owns the trap after war begins: ground troops, draft, occupation, credibility, debt buyers, alliance protection, face, escalation ladder, and the material cost of retreat.
+
+**Power As Alchemy** owns the monetary belief loop behind Gulf protection, petrodollar recycling, Treasury demand, AI bubble financing, and dollar-as-reality. Do not move those claims into Strategy unless the war audit is the active mechanism.
+
+**Eschatology As Script** owns the sacred role sequence: Al-Aqsa, Third Temple, red heifer, Christian Zionist return-of-Jesus pressure, holy empire, tribulation, or any claim that ordinary history no longer explains action.
+
+**Game Theory** owns player-payoff correction and target-order alignment: Iran/Russia/China sequencing, Taiwan threat-story correction, or a nearer domestic game overriding the declared external game.
+
+**How Stories Control Reality / Attention Capture** own pretext, loyalty sorting, media spectacle, and consciousness capture when the active mechanism is frame or attention rather than material execution.
+
+## Promotion Conditions
+
+Before the next public Strategy edit:
+
+1. Count the parent and proposed child page source refs after a draft split; avoid creating a child that instantly exceeds the same 8k/25-source threshold.
+2. Verify every moved lens point still has evidence refs visible on the new page and still compiles into `website/src/data/lens/link-index.json`.
+3. Check `website/astro.config.mjs` for sidebar inclusion if a new public child page is created.
+4. Run a local reader/world-model and grounding/provenance judge before PR; independent judges are preferred if available and authorized.
+5. Only after the split/compression decision should the March 7 and April 16 impact files become public prose or episode `lens_points` links.
+
+## Next Useful Mutation
+
+Draft the first public split as a single PR: parent Strategy compression plus a child `chokepoint-empire` page carrying the Hormuz/Malacca/Gulf/no-exit cluster. Do not also split vassal proxy attrition in the same PR unless the first split proves mechanically simple.
