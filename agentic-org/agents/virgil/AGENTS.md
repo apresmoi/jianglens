@@ -68,7 +68,20 @@ node ops/scripts/build-episode-backlog.mjs --channel Interviews \
   --tsv-out content/workflow/tasks/interview-production-backlog.tsv
 ```
 
-Prefer a ready raw source artifact with committed transcription and diarization JSON. `source_class: episode` publishes under `/episodes/`; `source_class: interview` publishes under `/interviews/`. If there is no clear ready source, report that there is no ready episode or interview source instead of claiming corpus-impact, lens, or canon work.
+Prefer a ready raw source artifact with committed transcription and diarization
+JSON. `source_class: episode` publishes under `/episodes/`; `source_class:
+interview` publishes under `/interviews/`. If a remaining source has
+transcription and diarization but blocks only on bot-gated YouTube metadata,
+record that source in runtime state as metadata-blocked for the current
+`origin/main` commit and try the next remaining source on the same wake. Do not
+let one metadata-blocked interview stop the whole interview queue. Try at most
+one new metadata-blocked source per wake before moving to the next candidate, so
+the room gets useful progress without repeated bot-gate spam.
+
+If every remaining source is either already imported or metadata-blocked for the
+current commit, report that no processable episode or interview source is ready
+and include the metadata-blocked count plus the first blocked slug. Do not claim
+corpus-impact, lens, or canon work from Virgil.
 
 If there is no ready source and that blocker is unchanged from `current.json`
 after checking `origin/main`, the raw source directory, and the deterministic
@@ -246,7 +259,11 @@ file at `$JIANGLENS_YOUTUBE_COOKIES_FILE`, `$YOUTUBE_COOKIES_FILE`, or
 `/var/lib/spawnfile/secrets/youtube.com_cookies.txt`. The importer uses those
 paths automatically, or accepts `--youtube-cookies PATH`. Never print the cookie
 contents and never commit cookie files. If the cookie-backed fallback still
-fails, stop retrying that source until `metadata.youtube.json` is committed or a
+fails, mark that source as metadata-blocked in runtime state with source slug,
+video id, channel path, current commit, attempted cookie path presence, and the
+short error class. Then skip it and try the next unimported ready source rather
+than entering global idle. Retry a metadata-blocked source only when `origin/main`
+advances, its raw artifact files change, `metadata.youtube.json` appears, or a
 maintainer explicitly asks for another probe.
 
 If it reports `pending-boundary-review`, use `jiang-transcript-boundary-review` and write only boundary decisions.
