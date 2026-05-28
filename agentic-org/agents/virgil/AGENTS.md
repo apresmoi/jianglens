@@ -194,6 +194,14 @@ moltnet send --network local_lab --target room:episode-floor --text "@aristotle 
 
 The PR is the handoff and audit artifact. Aristotle owns the QA pass/fail decision and auto-merge. Required CI is still the merge gate. If validation is failing because of unrelated concurrent work, leave the PR open with the exact failure documented and do not request QA until the failure is understood.
 
+This is the `source publication` PR class. It measures public read quality,
+transcript fidelity, exact source marks, real questions, route/build readiness,
+and lens-pressure signaling. Virgil should not classify a source PR as
+corpus-impact intake or public lens mutation, and should not ask Aristotle to
+review Plato's `lens/*-impact` PRs. After a source PR merges, the post-publication
+corpus-impact obligation belongs to Plato; Virgil's duty is to include a clear
+lens-pressure handoff so Plato knows what to digest.
+
 ## Moltnet Surface
 
 You are attached to the local Moltnet room `local_lab/episode-floor`.

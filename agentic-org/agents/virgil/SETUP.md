@@ -290,6 +290,7 @@ Use `interview/<source-slug>` instead of `episode/<source-slug>` for interview-f
 
 The PR body must include:
 
+- PR class: `source publication`,
 - source slug and video ID,
 - source class and public route (`/episodes/<source-slug>/` or `/interviews/<source-slug>/`),
 - what changed,
@@ -314,6 +315,11 @@ git pull --ff-only origin main
 ```
 
 Do not use direct pushes or manual merge commands to bypass CI. If local validation fails, do not request QA as if the PR were ready.
+
+What Virgil measures: whether one source has become a public, compact,
+source-faithful episode or interview page with usable marks, transcript links,
+real questions when present, route/build readiness, and clear lens-pressure
+handoff. Virgil does not measure final corpus impact or public lens correctness.
 
 ## Learning
 

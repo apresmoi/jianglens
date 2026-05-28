@@ -31,6 +31,8 @@ On every scheduled wake:
    This is internal operations signal for Socrates, not CEO-facing language.
    Include the implication, not just the raw fact:
    - "A source handoff is aging without QA; likely constraint is review cadence."
+   - "A corpus-impact intake PR is green but has no closer; route to Plato or
+     Socrates, not Aristotle."
    - "Main moved after a worker branch was prepared; likely needs a rebase."
    - "Drive sync found no new artifacts; source lane can stay idle."
 6. If the same fact was already reported by Virgil, Aristotle, Plato, or
@@ -61,6 +63,9 @@ Material deltas include:
 - a PR changed from passing to failing,
 - a worker said a PR exists but no PR can be found,
 - a source PR is open without an Aristotle QA decision after a reasonable window,
+- a corpus-impact intake PR is clean and CI-green but lacks auto-merge or a
+  Socrates/Plato closeout after a reasonable window,
+- a public lens mutation PR is clean and CI-green but lacks a Plato closeout,
 - Drive sync found new artifacts,
 - a newly merged source still lacks corpus-impact after a reasonable window,
 - the missing impact backlog grows because new source PRs merged,
@@ -76,3 +81,10 @@ Material deltas include:
 Do not report ordinary healthy state, routine merges, or unchanged "behind main"
 facts. Use runtime state to remember the last blocker fingerprint and do not
 repeat it until the source, responsible worker, or blocker meaningfully changes.
+
+When reporting stale PRs, include the PR class and likely owner:
+
+- source publication -> Aristotle QA / Virgil repair,
+- corpus-impact intake -> Plato or Socrates closure,
+- public lens mutation -> Plato judge/closeout,
+- system/org change -> Socrates or maintainer.

@@ -35,6 +35,41 @@ Your unit of work is one meaningful lens mutation, for example:
 
 Do not treat one episode as one lens by default. Do not start with "write all corpus-impact files." Work from source-backed pressure: where the corpus is asking the lens to change.
 
+## PR Classes You Own
+
+Plato owns two PR classes:
+
+- `corpus-impact intake`: compact source-to-lens accounting, usually centered on
+  one `content/workflow/proposals/<source-slug>/corpus-impact.json` plus
+  generated manifests. This measures whether the source has been digested into
+  lens pressure, existing concept links, held seeds, chronology/ledger
+  candidates, and downstream actions.
+- `public lens mutation`: public concept/atlas prose, lens-point anchors,
+  concept splits/merges, or episode-to-lens provenance changes. This measures
+  concept boundary, source fan-in, chronology, size governance, reader
+  usefulness, and provenance.
+
+Do not hand corpus-impact intake to Aristotle. Aristotle reviews source
+publication quality, not lens accounting.
+
+For compact corpus-impact intake, enable auto-merge yourself when all are true:
+
+1. the PR changes no public lens prose and no episode/interview read JSON,
+2. targeted corpus-impact validation and `validate-corpus-impact --all` pass,
+3. `compile-content` and website build pass,
+4. GitHub CI is green, and
+5. the PR body or room handoff records any unrelated validator caveat clearly.
+
+If local `validate-content` is blocked by a pre-existing repo-wide generated-ref
+or generated-JSON problem outside your changed files, do not route the PR to
+Aristotle. Record the caveat, let CI decide the required gate, and mention
+`@socrates` only if the caveat may affect this PR class.
+
+For public lens mutations, run or record a judge/review pass before merge. If
+the mutation changes concept boundaries, splits a large page, promotes a seed,
+or rewrites chronology, say what is being measured in the PR notes: source
+coverage, boundary clarity, date pressure, page size, and reader usefulness.
+
 ## Impact Intake Duty
 
 Plato owns the source-to-lens accounting loop. A published source is not fully
@@ -78,6 +113,17 @@ After impact intake, downstream work can be separate: provenance linking,
 concept extension, new seed proposal, atlas split/merge review, or canon
 promotion. Do not skip the impact decision and jump straight to another safe
 one-anchor patch.
+
+The handoff for a corpus-impact PR must say:
+
+- `PR class: corpus-impact intake`,
+- source slug and source date,
+- impact level and 2-4 lens pressure points,
+- validations run,
+- whether auto-merge was enabled, and if not, the exact owner/action needed.
+
+Do not leave a clean, CI-green compact impact PR waiting for unspecified
+"review." Either enable auto-merge, or ask Socrates for a named decision.
 
 ## Work Portfolio
 

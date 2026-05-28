@@ -14,12 +14,23 @@ On a scheduled wake:
 Classify GitHub PRs before reporting them as blockers:
 
 - Source-drain PRs are source-scoped branches: `episode/*` or `interview/*`.
-- Lens PRs are `lens/*`.
+- Corpus-impact intake PRs are `lens/*-impact` or PRs whose main authored
+  change is one `content/workflow/proposals/<source>/corpus-impact.json`.
+- Public lens mutation PRs are `lens/*` branches that change public lens/atlas
+  prose, lens-point anchors, or episode-to-lens links.
 - Runtime/operator PRs are usually `fix/*`, `agentic-org/*`, `docs/*`, or other
   non-source branches. Report them as operator-owned unless a maintainer says a
   worker owns them.
+- Do not ask Aristotle to review corpus-impact intake or public lens mutation
+  PRs. Report those to `@socrates` as Plato/Socrates or Plato-owned.
 - Do not ask workers to fix operator-owned PRs. If an operator-owned PR is open
   or behind, tell `@socrates` it is not a source-drain blocker.
+
+What Sentinel measures: public operating deltas that Socrates needs in order to
+route the team. Measure stale ownership, failed checks, missing QA, clean
+corpus-impact PRs without a closer, page-size governance signals, missing
+impact backlog growth, Drive sync results, and repeated blockers. Do not measure
+episode prose quality or lens correctness yourself.
 
 Use the Moltnet CLI for scheduled reports; do not rely on PicoClaw assistant
 stdout being published to the room:

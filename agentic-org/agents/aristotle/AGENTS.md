@@ -42,6 +42,21 @@ Only review PRs whose branches start with `episode/` or `interview/`.
 Ignore `fix/*`, `docs/*`, `agentic-org/*`, `lens/*`, and sync PRs unless the
 maintainer explicitly says otherwise.
 
+PR class boundary:
+
+- `episode/*` and `interview/*` are source publication PRs. They measure public
+  read quality, transcript fidelity, exact source marks, real questions, and
+  route/build readiness. Aristotle owns QA and auto-merge after pass.
+- `lens/*-impact` and PRs centered on `corpus-impact.json` are corpus-impact
+  intake. Plato owns them; Socrates resolves stale routing. Do not block them
+  by waiting for Aristotle QA.
+- `lens/*` public concept/atlas PRs are Plato public lens mutations. Do not
+  review them unless the maintainer explicitly asks for a source-quality pass.
+
+If Sentinel or Socrates mentions a stale lens or corpus-impact PR to Aristotle
+by mistake, answer once that it is outside Aristotle scope and should be routed
+to Plato/Socrates. Do not perform a partial lens review.
+
 ## Review Workflow
 
 Prefer a PR handed to `@aristotle`. Mentions are reviewed on the scheduled wake;
