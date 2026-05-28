@@ -1,0 +1,203 @@
+{
+  "packet_id": "interview-hvts-nfbl8q-semantics-pkt-0001",
+  "source_id": "video:interview-hvts-nfbl8q",
+  "source_date": "2025-07-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0001",
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0002",
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0003",
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0004"
+      ],
+      "kind": "question",
+      "summary": "The host opens with a teaser montage of Jiang's war predictions, introduces him as a contrarian forecaster, and asks how he called Trump's return while noting his vice-presidential call was wrong.",
+      "speaker_attribution": "Host David Lin, with Jiang briefly thanking him inside seg-0004",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0005",
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Trump's durability came from unresolved structural issues in American politics and from lawfare and geopolitical weakness making him more attractive as an opposition figure.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0007"
+      ],
+      "kind": "question",
+      "summary": "The host asks why Jiang expected Nikki Haley rather than J.D. Vance as Trump's running mate.",
+      "speaker_attribution": "Host David Lin",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Haley made sense because Trump needed to reassure neocons and suburban women by building a broader governing coalition.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0001",
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0002",
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0004"
+      ],
+      "note": "The teaser montage and the live host introduction are collapsed together, and Jiang's brief 'Thanks, David' is embedded inside the host's long question.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Trump's continued viability came from unresolved structural drivers such as immigration, DEI politics, and wars overseas rather than from a one-off campaign effect.",
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Retrospective diagnosis of U.S. politics offered on 2025-07-23.",
+      "topic_tags": [
+        "Trump",
+        "U.S. politics",
+        "structural factors"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues lawfare against Trump intensified a persecution complex and increased Trump's appeal among racial minorities.",
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Retrospective diagnosis of the 2024 election offered on 2025-07-23.",
+      "topic_tags": [
+        "lawfare",
+        "Trump",
+        "racial minorities"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the Biden administration lacked a coherent plan for domestic and geopolitical challenges, especially after Putin's invasion of Ukraine.",
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0005",
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Retrospective diagnosis of 2024 electoral conditions offered on 2025-07-23.",
+      "topic_tags": [
+        "Biden",
+        "Ukraine",
+        "U.S. leadership"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the confluence of geopolitical, economic, and political factors made a Trump victory likely if Biden stayed the candidate.",
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Retrospective prediction account described on 2025-07-23.",
+      "topic_tags": [
+        "2024 election",
+        "prediction",
+        "Trump"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Trump needed establishment-aligned neocon support and suburban women to turn a base coalition into a landslide, which is why Nikki Haley looked like the ideal running mate.",
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Retrospective coalition analysis given on 2025-07-23.",
+      "topic_tags": [
+        "Nikki Haley",
+        "neocons",
+        "coalition politics"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0005"
+      ],
+      "moment": "Trump is treated as a structural symptom, not a personality event that disappears on its own.",
+      "source_phrase": "Trump is always going to be a viable candidate",
+      "why_it_matters": "It shows Jiang's method of reading elections through durable conditions rather than campaign chatter.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0005"
+      ],
+      "moment": "Lawfare is reframed as a machine for manufacturing Trump's persecution aura and widening his coalition.",
+      "source_phrase": "gave him a persecution complex",
+      "why_it_matters": "This is Jiang's causal mechanism for why elite attacks can strengthen the target.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0008"
+      ],
+      "moment": "The vice-presidential pick is read as a coalition payment to the neocons and suburban women.",
+      "source_phrase": "appease the neocons in Washington, D.C.",
+      "why_it_matters": "It compresses Jiang's electoral analysis into factional bargaining rather than personality preference.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "structural factors",
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0005",
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's frame for the underlying political, economic, and geopolitical conditions that keep a candidate viable beyond campaign tactics.",
+      "confidence": "high"
+    },
+    {
+      "term": "persecution complex",
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang's explanation for how elite legal pressure turned into popular sympathy for Trump.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0004",
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0006",
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0008"
+      ],
+      "note": "The interview opens on 2025-07-23 with Jiang explaining an already-made 2024 Trump call and a missed Nikki Haley vice-presidential expectation, anchoring the rest of the conversation in retrospective prediction audit.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-hvts-nfbl8q@transcript:v1#seg-0004"
+      ],
+      "note": "The transition from host setup into Jiang's brief greeting is compressed into one segment, so the interaction boundary is approximate even though the question itself is clear."
+    }
+  ]
+}
