@@ -1,0 +1,1388 @@
+{
+  "id": "evidence:semanticvideo-interview-irnhbw6w7we:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-irnhbw6w7we",
+  "source_id": "video:interview-irnhbw6w7we",
+  "source_title": "China's Super Schools? - Jiang Xueqin. OTL14014",
+  "source_url": "https://www.youtube.com/watch?v=IRnhBw6w7WE",
+  "source_date": "2014-06-19",
+  "date_precision": "day",
+  "transcript_id": "video:interview-irnhbw6w7we@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-irnhbw6w7we/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-irnhbw6w7we/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-irnhbw6w7we/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-irnhbw6w7we/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-irnhbw6w7we/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-irnhbw6w7we/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-irnhbw6w7we/packet-0007.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-irnhbw6w7we/source.yaml",
+    "transcript_path": "content/sources/videos/interview-irnhbw6w7we/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 7,
+    "interactions": 35,
+    "speaker_notes": 1,
+    "claims": 42,
+    "signature_moments": 20,
+    "predictions": 1,
+    "models": 12,
+    "glossary_terms": 7,
+    "chronology_notes": 7,
+    "uncertainty_notes": 6
+  },
+  "first_refs": [
+    "video:interview-irnhbw6w7we@transcript:v1#seg-0003",
+    "video:interview-irnhbw6w7we@transcript:v1#seg-0005",
+    "video:interview-irnhbw6w7we@transcript:v1#seg-0006",
+    "video:interview-irnhbw6w7we@transcript:v1#seg-0008",
+    "video:interview-irnhbw6w7we@transcript:v1#seg-0010",
+    "video:interview-irnhbw6w7we@transcript:v1#seg-0011",
+    "video:interview-irnhbw6w7we@transcript:v1#seg-0012",
+    "video:interview-irnhbw6w7we@transcript:v1#seg-0014"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0001",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0002"
+      ],
+      "kind": "question",
+      "summary": "The host frames Shanghai's PISA dominance, introduces Jiang, and asks what PISA actually measures.",
+      "speaker_attribution": "Host Fergus Thompson, with Jiang briefly thanking him inside seg-0002",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0003"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains PISA as a test of national education systems and says Shanghai's wins fuel Western anxiety that East Asia owns the future because its students stay focused on STEM.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0004"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether the wider world should genuinely worry about Chinese educational success.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0005",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the PISA panic contains fear-mongering, but also reflects a real contrast between American disengagement and Chinese classroom seriousness, respect for teachers, and STEM orientation.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0007"
+      ],
+      "kind": "question",
+      "summary": "The host challenges whether comparing whole countries to Shanghai is misleading because Shanghai may not represent rural China.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees Shanghai is not representative of all China, but argues its sheer scale still makes its educational output economically consequential.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0009"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to compare the Canadian and Chinese education systems from experience.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0010",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0011",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0012"
+      ],
+      "kind": "answer",
+      "summary": "Jiang contrasts Canada's equity-oriented uniformity with China's elitist sorting machine, arguing that the Chinese system judges children far too early.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0013"
+      ],
+      "kind": "question",
+      "summary": "The host asks how the Gaokao shapes pressure on students, parents, and teachers.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0014"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains the Gaokao as a fair-seeming allocator of scarce opportunities that also creates a childhood-crushing pressure regime from the earliest years.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0015"
+      ],
+      "kind": "question",
+      "summary": "The host asks why Chinese families keep sending children abroad if the domestic system supposedly performs so well.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang calls this the paradox of China's school system: public prestige after PISA coexists with affluent families fleeing a system they believe is harming their only child.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0017",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0018"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Chinese primary schooling rapidly kills curiosity, empathy, and vitality, turning eager first-graders into obedient blank-eyed children within a year or two.",
+      "speaker_attribution": "Jiang answer continuing the prior question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0019"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether official reform efforts exist inside the Chinese education system.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0020",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0021"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says reform is universally acknowledged as urgent, but grassroots parents resist it because Gaokao still looks like the only mobility ladder for families without exit options.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0022"
+      ],
+      "kind": "question",
+      "summary": "The host asks where teachers stand in the conflict over reform.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0023",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says teachers want the best for students but remain bound to the test system emotionally and professionally, which leaves reform trapped in a communication and trust gap.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0025"
+      ],
+      "kind": "question",
+      "summary": "The host asks what problems Chinese students face when they study abroad, especially in North America.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0026",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0027"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says study abroad is falsely treated as a cure-all, but Chinese students shaped by obedience and non-questioning often struggle to adapt to American expectations of independence and classroom participation.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0028"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether students who move earlier, for high school rather than college, adapt better.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0029"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says earlier movers and immigrant families adapt better than college-age arrivals, though he still treats the Chinese school system as deeply indoctrinating.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0030"
+      ],
+      "kind": "question",
+      "summary": "The host asks why the China-to-America student pipeline is not simply a mutually beneficial exchange between fee-paying students and cash-hungry universities.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0031",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0032",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0033"
+      ],
+      "kind": "answer",
+      "summary": "Jiang calls it a 'marriage made in hell': many outbound students are academically mismatched, U.S. state universities recruit them for revenue, and both sides are using the flow as a temporary patch over deeper educational dysfunction.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0034"
+      ],
+      "kind": "question",
+      "summary": "The host asks how American universities could recruit Chinese students more effectively and with better success criteria.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0035",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0036"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says American universities are over-focused on filling full-fee seats via commission-driven agents and need to recover their public mission, recruit more carefully, and equip students for success.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0037"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether East Asian test success reflects not just school administration but a broader Asian cultural reverence for education.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0038",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0039"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that East Asian systems are driven by utilitarian test outcomes, which produce strong algorithmic performers but weaker managers, entrepreneurs, and creative thinkers in open-ended settings.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0040"
+      ],
+      "kind": "question",
+      "summary": "The host asks what China could learn from Finland's educational success.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0040"
+      ],
+      "kind": "question",
+      "summary": "The host asks what the Chinese education system could learn from Finland.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0041",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0042",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0044",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0045"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Finland invests in universal early childhood care, empowering each child from the start, while China underinvests early and pays for the damage later in graduate retraining and social inequality.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0043"
+      ],
+      "kind": "question",
+      "summary": "The host pushes back that Finland is richer and smaller, so China may not be able to afford the same model.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0046"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to explain empathy and why it matters for Chinese education and innovation.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0047",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Finland explicitly teaches empathy, whereas China has historically neglected it, leaving weak social trust and weak cross-stranger attachment that harm both society and education.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0049"
+      ],
+      "kind": "answer",
+      "summary": "Jiang closes by arguing that empathy is necessary for cross-cultural work, for a less opaque China, and for a smoother and more peaceful Chinese rise.",
+      "speaker_attribution": "Jiang answer continuing the prior question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0050"
+      ],
+      "kind": "monologue",
+      "summary": "The host thanks Jiang and closes the interview.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0002"
+      ],
+      "note": "The host's introduction, Jiang's thanks, and the first substantive PISA question are collapsed into one segment.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says PISA functions as a test of a nation's education system and that Shanghai ranked first in both the 2009 and 2012 cycles.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Background explanation given on 2014-06-19 about the 2009 and 2012 PISA rounds.",
+      "topic_tags": [
+        "PISA",
+        "Shanghai",
+        "education comparison"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Western concern comes from a belief that East Asian students are concentrating on STEM while American students are distracted and not preparing for global competition.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Current diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "East Asia",
+        "United States",
+        "STEM",
+        "youth culture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the American reaction to Shanghai's 2010 number-one finish was amplified by media fear-mongering even though it also touched a real anxiety about dysfunction in U.S. schooling.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Retrospective diagnosis on 2014-06-19 about the 2010 reaction.",
+      "topic_tags": [
+        "media",
+        "fear",
+        "United States",
+        "education reform"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Chinese schools still command respect for teachers and student focus on learning in ways that North American and European schools no longer do.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0005",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Comparative diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "teachers",
+        "student attention",
+        "China",
+        "North America",
+        "Europe"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues Shanghai is not representative of all China, but its population and educational resources still make its output strategically important for China's future economy.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Comparative clarification on 2014-06-19.",
+      "topic_tags": [
+        "Shanghai",
+        "representation",
+        "entrepreneurs",
+        "engineers"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Canadian education is organized around equity and mobility, with relatively even schools and an emphasis on making the most of the student's experience.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Comparative characterization given on 2014-06-19.",
+      "topic_tags": [
+        "Canada",
+        "equity",
+        "mobility",
+        "school uniformity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes China as a competitive elitist system that sorts students from day one through feeder schools into top universities.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Comparative diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "China",
+        "elitism",
+        "sorting",
+        "competition"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues early test scores are a poor basis for deciding a child's eventual adult performance, making the Chinese sorting system unfair.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0011",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Normative diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "child development",
+        "testing",
+        "fairness"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the Gaokao is viewed in China as the fairest objective way to allocate scarce educational resources, even as it produces rigorous testing and parental pressure from early childhood.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Current institutional diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "Gaokao",
+        "resource allocation",
+        "pressure",
+        "parents"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says affluent Chinese families increasingly choose Canada, New Zealand, and the United States because they believe the domestic school system is hurting their child's curiosity, creativity, and imagination.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Current social trend on 2014-06-19.",
+      "topic_tags": [
+        "emigration",
+        "middle class",
+        "creativity",
+        "school pressure"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Chinese schools kill a child's curiosity, creativity, imagination, and empathy within one or two years of entry.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0017",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Current diagnosis on 2014-06-19 based on Jiang's school visits.",
+      "topic_tags": [
+        "curiosity",
+        "empathy",
+        "primary school",
+        "childhood"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says teachers discipline questioning itself, teaching students that asking questions marks them as troublemakers.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Observed classroom pattern reported on 2014-06-19.",
+      "topic_tags": [
+        "teachers",
+        "questions",
+        "discipline",
+        "obedience"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says education reform is now seen across China as urgent and as something that will determine the country's future.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Current diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "education reform",
+        "China's future"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says a 2010 education reform blueprint called for more individuality, creativity, freedom, less homework, and more time for children to play and explore their interests.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Retrospective description on 2014-06-19 of a 2010 reform blueprint.",
+      "topic_tags": [
+        "2010 reform blueprint",
+        "individuality",
+        "creativity",
+        "freedom"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues poorer or less mobile families resist reform because Gaokao still appears to be their only credible route to upward mobility and reform looks like elite sabotage of that route.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0020",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Current political diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "Gaokao",
+        "social mobility",
+        "parents",
+        "elite distrust"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says teachers genuinely want the best for students but still double down on test training because success in the system is measured by exam performance and they fear students will fall behind otherwise.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Current institutional diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "teachers",
+        "tests",
+        "Gaokao loyalty",
+        "classroom incentives"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the reform impasse is partly a communication failure between top-level reformers and grassroots families and educators.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Current process diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "communication",
+        "grassroots",
+        "reform politics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says many Chinese parents treat study abroad as a panacea that can turn an underperforming child into a Yale-or-Harvard success story and future innovator.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Current parental mentality described on 2014-06-19.",
+      "topic_tags": [
+        "study abroad",
+        "parents",
+        "myth",
+        "elite aspiration"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues the Chinese school system trains students to avoid questions, avoid standing out, and avoid independent thinking, which makes adaptation to American schools emotionally difficult.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0026",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Comparative diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "China",
+        "questions",
+        "independence",
+        "adaptation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Chinese students placed into American classrooms after being shaped by the Chinese system often become socially alienated from professors and classmates.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Observed comparative pattern reported on 2014-06-19.",
+      "topic_tags": [
+        "social alienation",
+        "professors",
+        "classmates",
+        "study abroad"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the outbound trend has shifted over the prior five to ten years from college-only moves toward high school, junior high, and family immigration, and that these earlier movers adapt better.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Trend description on 2014-06-19 covering roughly the prior 5-10 years.",
+      "topic_tags": [
+        "trend",
+        "high school",
+        "junior high",
+        "immigration"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues many Chinese students going to the United States are not top performers but students who failed to get into elite Chinese universities and are academically underprepared for success abroad.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Current diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "elite universities",
+        "academic preparation",
+        "United States"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says cash-strapped American state universities are aggressively recruiting Chinese students because recession-era budget cuts make full-fee international students financially attractive.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Current institutional diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "state universities",
+        "budget cuts",
+        "recession",
+        "recruitment"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says many American universities recruiting Chinese students are not equipped to support them, while American higher education itself faces student-debt and completion-rate problems that make Chinese enrollment only a temporary bandage.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0032",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Current institutional diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "support",
+        "student debt",
+        "graduation",
+        "temporary solution"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says American universities recruiting in China are too focused on filling as many full-paying seats as possible and not focused enough on student fit or support.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Current institutional diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "recruitment",
+        "full-paying students",
+        "student fit",
+        "support"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says many American schools rely on Chinese agents who are effectively headhunters paid by volume and therefore indifferent to whether overseas study actually makes sense for the student.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Current process diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "agents",
+        "headhunters",
+        "incentives",
+        "China"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues public state universities have abandoned their middle-class and democratic public mission in favor of a more corporatist mentality.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0035",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Current institutional criticism on 2014-06-19.",
+      "topic_tags": [
+        "public mission",
+        "democracy",
+        "corporatist mentality",
+        "state universities"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says East Asian education is organized around outcomes and test performance rather than real learning, creativity, or giving students room to make mistakes.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Regional cultural-educational diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "East Asia",
+        "tests",
+        "outcomes",
+        "creativity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues Chinese and East Asian students do well in algorithmic school environments but struggle more when entering society, starting companies, or working on open-ended projects in multicultural settings.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0038",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Comparative diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "algorithmic tasks",
+        "multicultural environments",
+        "companies",
+        "open-ended work"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says China has an abundance of accountants and computer programmers but a shortage of good managers, entrepreneurs, and creative thinkers.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Current labor-market diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "managers",
+        "entrepreneurs",
+        "creative thinkers",
+        "programmers"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Finland performs well not just on PISA but on other international assessments because it emphasizes educating every child well from very early childhood onward.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Comparative explanation on 2014-06-19.",
+      "topic_tags": [
+        "Finland",
+        "international assessments",
+        "early childhood"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Finnish children can enroll from about eight months old in a free public daycare system staffed by well-educated teachers regardless of family wealth.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Current institutional description on 2014-06-19.",
+      "topic_tags": [
+        "daycare",
+        "public provision",
+        "teachers",
+        "equity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the most formative neural development happens roughly from age one to age six, making unequal early-childhood support in China a major structural disadvantage.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0041",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Developmental claim stated on 2014-06-19.",
+      "topic_tags": [
+        "neural wiring",
+        "age one to six",
+        "inequality",
+        "China"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says China currently spends large sums retraining new college graduates for two to four years because employers find them unprepared for the workplace.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Current labor-market diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "graduates",
+        "retraining",
+        "employers",
+        "workplace skills"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues redirecting some of that later retraining expenditure into daycare and early-childhood education would produce better results.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Policy argument on 2014-06-19.",
+      "topic_tags": [
+        "investment",
+        "daycare",
+        "policy",
+        "returns"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He contrasts Finland's mentality of empowering each child with what he describes as a Chinese mentality of the rich protecting themselves and neglecting the rest of society.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Comparative moral diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "empowerment",
+        "rich",
+        "society",
+        "Finland"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines empathy as the ability to put yourself in another person's shoes and says Finnish schools teach it explicitly from childhood while Chinese education has historically not emphasized it.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Comparative cultural-educational diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "empathy",
+        "Finland",
+        "China",
+        "definition"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says China has a serious empathy problem, illustrated by weak concern for strangers and by social bonds that function inside kin or guanxi networks more than across society at large.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0047",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Current social diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "strangers",
+        "guanxi",
+        "social bonds",
+        "China"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the future global workplace will require students who can not only work with other cultures but manage across cultures as well.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Forward-looking claim made on 2014-06-19.",
+      "topic_tags": [
+        "global workplace",
+        "other cultures",
+        "management"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues Finland's emphasis on empathy better prepares students for that cross-cultural future, while China will struggle because it has not cultivated the same capacity.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Comparative forecast on 2014-06-19.",
+      "topic_tags": [
+        "Finland",
+        "empathy",
+        "China",
+        "future"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says misunderstanding between China and the rest of the world persists because China cannot understand how the rest of the world thinks and is seen externally as a black box.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Current geopolitical-cultural diagnosis on 2014-06-19.",
+      "topic_tags": [
+        "misunderstanding",
+        "black box",
+        "rest of the world",
+        "China"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues educators should form a new generation of Chinese students with empathy and respect for other cultures so that China's rise can be smoother and more peaceful.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Normative future-oriented argument on 2014-06-19.",
+      "topic_tags": [
+        "educators",
+        "China's rise",
+        "respect",
+        "peaceful rise"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0003"
+      ],
+      "moment": "Jiang turns the PISA story into a civilizational fear that the future belongs to China and East Asia.",
+      "source_phrase": "the future now belongs to China",
+      "why_it_matters": "It gives the interview its opening geopolitical stake rather than treating test scores as a narrow policy issue.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0005"
+      ],
+      "moment": "The American response to Shanghai's ranking is compressed into a Cold War-style panic frame.",
+      "source_phrase": "America's Sputnik moment",
+      "why_it_matters": "It shows Jiang reading the score reaction as symbolic national trauma, not just educational benchmarking.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0008"
+      ],
+      "moment": "Jiang concedes Shanghai is exceptional while insisting that an exceptional city of 20 million still changes the global comparison.",
+      "source_phrase": "Shanghai has 20 million people",
+      "why_it_matters": "It preserves the scale argument that lets him admit the sampling problem without collapsing the larger China concern.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0010"
+      ],
+      "moment": "China is described not as a neutral meritocracy but as a pipeline that sorts children from their first school day.",
+      "source_phrase": "sorts students from day one",
+      "why_it_matters": "It captures Jiang's core critique that Chinese education is structurally hierarchical from the start, not just exam-heavy at the end.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0014"
+      ],
+      "moment": "The Gaokao does not just add stress; it kills childhood itself.",
+      "source_phrase": "a death of childhood in China",
+      "why_it_matters": "This is the packet's sharpest moral compression of Jiang's case against test-centered schooling.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0016"
+      ],
+      "moment": "China's global PISA prestige is set against an internal exodus by the very parents who can afford to leave.",
+      "source_phrase": "that's really the paradox of China's school system right now",
+      "why_it_matters": "It preserves the contradiction between public admiration and private flight that drives the interview.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0017"
+      ],
+      "moment": "The classroom ideal becomes a child standing obediently in line with blank eyes.",
+      "source_phrase": "their eyes are kind of blank, kind of lifeless",
+      "why_it_matters": "It gives Jiang's critique of schooling a memorable human image instead of an abstract policy complaint.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0017"
+      ],
+      "moment": "A child asking questions is recoded from engaged learner into classroom troublemaker.",
+      "source_phrase": "if you ask questions, you're a troublemaker",
+      "why_it_matters": "This is Jiang's compact mechanism for how curiosity gets destroyed inside everyday teaching practice.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0021"
+      ],
+      "moment": "Reform is not opposed because people love the old system; it is opposed because they think elites are sabotaging the poor family's only ladder upward.",
+      "source_phrase": "sabotaging their only way to increase their social mobility",
+      "why_it_matters": "It preserves Jiang's political reading of why obvious educational reform still stalls.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0026"
+      ],
+      "moment": "The fantasy of study abroad is compressed into a parent imagining the child will become a Nobel-winning Steve Jobs by being shipped overseas.",
+      "source_phrase": "become Steve Jobs, and win a Nobel Prize",
+      "why_it_matters": "It captures the aspirational mythology Jiang thinks distorts the whole outbound-student market.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0027"
+      ],
+      "moment": "A system that already stressed students at home becomes even harsher abroad because it leaves them unable to ask questions or stand out.",
+      "source_phrase": "they become socially alienated",
+      "why_it_matters": "This is Jiang's mechanism for why escape from Chinese schooling does not automatically produce liberation.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0031"
+      ],
+      "moment": "The supposedly ideal China-America education exchange is renamed a marriage made in hell.",
+      "source_phrase": "it's a marriage made in hell",
+      "why_it_matters": "It is the packet's sharpest reversal and anchors Jiang's critique of both the Chinese and American sides of the pipeline.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0035"
+      ],
+      "moment": "The recruiting pipeline is reframed as a cash market where universities and agents are optimizing seat-filling rather than student flourishing.",
+      "source_phrase": "trying to fill as many spots as possible",
+      "why_it_matters": "It sharpens Jiang's complaint that the overseas-study system is structurally misaligned before any student even arrives on campus.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0036"
+      ],
+      "moment": "Public universities are accused of abandoning their public mission for a corporatist mentality.",
+      "source_phrase": "forsaken their public school mission",
+      "why_it_matters": "This turns a recruitment complaint into a broader indictment of American higher education's institutional drift.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0039"
+      ],
+      "moment": "China's schooling machine is said to produce plenty of accountants and programmers but not enough entrepreneurs or creative thinkers.",
+      "source_phrase": "China has an abundance of these people",
+      "why_it_matters": "It condenses Jiang's distinction between test-efficient labor and genuinely innovative capacity.",
+      "tone": "contrast",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0041"
+      ],
+      "moment": "Finland's educational edge is traced all the way back to free daycare beginning around eight months old.",
+      "source_phrase": "at sort of eight months of age",
+      "why_it_matters": "It moves the comparison away from exams and toward Jiang's deeper theory of early developmental investment.",
+      "tone": "reframing",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0044"
+      ],
+      "moment": "China is portrayed as paying for educational failure twice: once by underinvesting early and again by retraining graduates after college.",
+      "source_phrase": "invest two to four years in retraining",
+      "why_it_matters": "This gives Jiang a concrete economic argument for why early-childhood reform is cheaper than the status quo.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0047"
+      ],
+      "moment": "Empathy is presented as both explicitly teachable in Finland and historically absent in China.",
+      "source_phrase": "Empathy is the ability to put yourself in other person's shoes",
+      "why_it_matters": "It marks the turn from institutional design into the moral psychology Jiang thinks innovation and social trust depend on.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0049"
+      ],
+      "moment": "China is described as a black box to the rest of the world because it cannot understand how outsiders think.",
+      "source_phrase": "China right now is considered a black box",
+      "why_it_matters": "It gives the empathy argument a geopolitical edge rather than leaving it as a soft educational virtue.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0049"
+      ],
+      "moment": "Empathy becomes the educational condition for a smooth and peaceful Chinese rise.",
+      "source_phrase": "make sure that China's rise is as smooth and as peaceful as possible",
+      "why_it_matters": "It is Jiang's final compression of why schooling, social trust, and geopolitics belong in the same argument.",
+      "tone": "culmination",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "PISA",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0001",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "The Programme for International Student Assessment, treated here as a comparative test of national education systems.",
+      "confidence": "high"
+    },
+    {
+      "term": "America's Sputnik moment",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang's label for the U.S. panic after Shanghai topped PISA, invoking a national wake-up shock.",
+      "confidence": "high"
+    },
+    {
+      "term": "Gaokao",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0013",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "China's national college entrance examination, treated here as the main mechanism for distributing scarce higher-education opportunity.",
+      "confidence": "high"
+    },
+    {
+      "term": "education reform blueprint",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Jiang's name for the publicly launched reform agenda that called for more individuality, creativity, freedom, and less homework in Chinese schools.",
+      "confidence": "medium"
+    },
+    {
+      "term": "grassroots",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0020",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "The less affluent parents, teachers, and local actors who experience reform as risk rather than liberation.",
+      "confidence": "high"
+    },
+    {
+      "term": "corporatist mentality",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Jiang's label for public universities behaving like revenue-maximizing firms instead of institutions serving a public educational mission.",
+      "confidence": "high"
+    },
+    {
+      "term": "empathy",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "The ability to put yourself in another person's shoes, treated by Jiang as a teachable civic and educational capacity rather than a soft extra.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0003",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0005"
+      ],
+      "note": "This 2014 interview looks back on Shanghai's 2009 and 2012 PISA wins and the 2010 American reaction to Shanghai's first-place result.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0014",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0016"
+      ],
+      "note": "By 2014 Jiang describes both a fully entrenched Gaokao pressure system and a recent countertrend of wealthy families emigrating or sending children abroad to escape it.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0020"
+      ],
+      "note": "Jiang situates the reform fight in 2014 as downstream of a publicly announced 2010 education reform blueprint.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0025",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0029"
+      ],
+      "note": "The host frames outbound Chinese study as having tripled over the previous decade, while Jiang says the mix has shifted over roughly the prior five to ten years from college toward earlier schooling and immigration.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0031",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0035"
+      ],
+      "note": "Jiang's recruitment critique is anchored in the recession-era U.S. funding squeeze he describes as still shaping state-university behavior in 2014.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0047"
+      ],
+      "note": "Jiang's example of the injured child and passive bystanders is described as a news story from roughly three years before this 2014 interview.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0049"
+      ],
+      "note": "The closing answer shifts from present educational diagnosis into a future-oriented argument about the kind of students a global economy and China's future rise will require.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0006"
+      ],
+      "note": "ASR noise appears in phrases like 'engineers in the future ... are going to reproduce in East Asia' and 'hang-wrangling,' but the underlying contrast about STEM production and U.S. dysfunction is still recoverable."
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0011"
+      ],
+      "note": "The long repetition of the age-six versus age-18 line appears to be ASR duplication rather than deliberate rhetorical repetition, but the substantive point about non-linear development is clear."
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0020"
+      ],
+      "note": "The transcript identifies the official only as 'Prime Minister Wang...' with an incomplete name, so the summary keeps the reform blueprint claim without over-specifying the officeholder."
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0026"
+      ],
+      "note": "The aside about avoiding the pressure system contains ASR noise ('barcos'), but the substantive point is that parents think overseas study can bypass Chinese educational pressure."
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0038"
+      ],
+      "note": "The ASR renders one test acronym as 'PSAP'; from context Jiang appears to be referring back to PISA while broadening the point to SAT-style examinations in general."
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0041",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0048"
+      ],
+      "note": "ASR renders some terms imperfectly, including likely 'TIMSS' as 'TIMS' and 'guanxi' as 'Guangxi,' but the underlying institutional and social contrasts are clear."
+    }
+  ]
+}

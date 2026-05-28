@@ -1,0 +1,179 @@
+{
+  "packet_id": "interview-irnhbw6w7we-semantics-pkt-0002",
+  "source_id": "video:interview-irnhbw6w7we",
+  "source_date": "2014-06-19",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0009"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to compare the Canadian and Chinese education systems from experience.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0010",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0011",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0012"
+      ],
+      "kind": "answer",
+      "summary": "Jiang contrasts Canada's equity-oriented uniformity with China's elitist sorting machine, arguing that the Chinese system judges children far too early.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0013"
+      ],
+      "kind": "question",
+      "summary": "The host asks how the Gaokao shapes pressure on students, parents, and teachers.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0014"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains the Gaokao as a fair-seeming allocator of scarce opportunities that also creates a childhood-crushing pressure regime from the earliest years.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0015"
+      ],
+      "kind": "question",
+      "summary": "The host asks why Chinese families keep sending children abroad if the domestic system supposedly performs so well.",
+      "speaker_attribution": "Host Fergus Thompson",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang calls this the paradox of China's school system: public prestige after PISA coexists with affluent families fleeing a system they believe is harming their only child.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says Canadian education is organized around equity and mobility, with relatively even schools and an emphasis on making the most of the student's experience.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Comparative characterization given on 2014-06-19.",
+      "topic_tags": ["Canada", "equity", "mobility", "school uniformity"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes China as a competitive elitist system that sorts students from day one through feeder schools into top universities.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Comparative diagnosis on 2014-06-19.",
+      "topic_tags": ["China", "elitism", "sorting", "competition"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues early test scores are a poor basis for deciding a child's eventual adult performance, making the Chinese sorting system unfair.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0011",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Normative diagnosis on 2014-06-19.",
+      "topic_tags": ["child development", "testing", "fairness"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the Gaokao is viewed in China as the fairest objective way to allocate scarce educational resources, even as it produces rigorous testing and parental pressure from early childhood.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Current institutional diagnosis on 2014-06-19.",
+      "topic_tags": ["Gaokao", "resource allocation", "pressure", "parents"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says affluent Chinese families increasingly choose Canada, New Zealand, and the United States because they believe the domestic school system is hurting their child's curiosity, creativity, and imagination.",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Current social trend on 2014-06-19.",
+      "topic_tags": ["emigration", "middle class", "creativity", "school pressure"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0010"
+      ],
+      "moment": "China is described not as a neutral meritocracy but as a pipeline that sorts children from their first school day.",
+      "source_phrase": "sorts students from day one",
+      "why_it_matters": "It captures Jiang's core critique that Chinese education is structurally hierarchical from the start, not just exam-heavy at the end.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0014"
+      ],
+      "moment": "The Gaokao does not just add stress; it kills childhood itself.",
+      "source_phrase": "a death of childhood in China",
+      "why_it_matters": "This is the packet's sharpest moral compression of Jiang's case against test-centered schooling.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0016"
+      ],
+      "moment": "China's global PISA prestige is set against an internal exodus by the very parents who can afford to leave.",
+      "source_phrase": "that's really the paradox of China's school system right now",
+      "why_it_matters": "It preserves the contradiction between public admiration and private flight that drives the interview.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Gaokao",
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0013",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "China's national college entrance examination, treated here as the main mechanism for distributing scarce higher-education opportunity.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0014",
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0016"
+      ],
+      "note": "By 2014 Jiang describes both a fully entrenched Gaokao pressure system and a recent countertrend of wealthy families emigrating or sending children abroad to escape it.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-irnhbw6w7we@transcript:v1#seg-0011"
+      ],
+      "note": "The long repetition of the age-six versus age-18 line appears to be ASR duplication rather than deliberate rhetorical repetition, but the substantive point about non-linear development is clear."
+    }
+  ]
+}

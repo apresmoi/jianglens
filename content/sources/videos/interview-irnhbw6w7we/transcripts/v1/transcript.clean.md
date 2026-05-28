@@ -1,0 +1,303 @@
+# China's Super Schools? - Jiang Xueqin. OTL14014
+
+Source: https://www.youtube.com/watch?v=IRnhBw6w7WE
+
+## seg-0001 / 00:00:25-00:01:19 / SPEAKER_00
+
+Welcome to On the Level, broadcasting from the Blue Ocean Network studios here in Beijing. My name is Fergus Thompson. Every three years, the results from the PISA assessment, that's the Programme for International Student Assessment, come out to much media furore. In 2012, students from Shanghai scored top in the three subjects looked at, which are math, science and reading. And this was the second time in a row that Shanghai had triumphed. Indeed, Asian students or students from Asian countries tended to dominate the top six or seven areas of this. So are schools in China super schools? What really goes on in these schools? And should countries like the United States and indeed Europe as well be wringing their hands at the success of Chinese students while problems are emphasised in the educational systems in our countries? Well, to discuss this, I'm joined by an expert in the field, Zhang Xueqin. Zhang is a graduate of Yale University.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:19-00:01:58 / SPEAKER_00
+
+He was born in China but emigrated to Canada with his family at a young age and was educated there. After college, he spent some time as a journalist in China and also as a UN official. He then moved back to China to work in education. He consults for Tsinghua University High School in Beijing, one of China's more prestigious high schools. And he has written a book called Creative China, in which he looks at the problem of creativity and innovation and indeed education in general in China. Zhang Xueqin, welcome to On The Level. Thank you. Thank you. Thank you. The PISA, Programme for International Student Assessment, can you tell me a little bit more about this and what it actually tests?
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0002
+
+## seg-0003 / 00:01:59-00:03:03 / SPEAKER_01
+
+Sure. Every three years, the OECD, working with governments around the world, administer the Programme for International Student Assessment. And it's a test of a nation's education system. And for the past two PISAs, the first in 2009 and the second in 2012, Shanghai has placed number one. And in fact, actually, most of the top spots are dominated by Asian countries. So right now, there's a lot of concern in Europe, and especially in America, because America didn't do very well on the PISA, that the future now belongs to China. It belongs especially to East Asia, because as Chinese kids and as East Asian kids are focused on learning STEM subjects like math and science, American kids are now just playing sports. They're on Facebook, too. They're not really focused on learning the skills they need to be global competitive in the future. So right now, there's a real concern that the future belongs to China.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0003
+
+## seg-0004 / 00:03:03-00:03:12 / SPEAKER_00
+
+Do you feel that these concerns are worth paying attention to? Is it something that educators in the rest of the world need to be worried about?
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0004
+
+## seg-0005 / 00:03:12-00:04:22 / SPEAKER_01
+
+Yeah, I mean, when Shanghai placed first in 2010, when it was announced in 2010 that Shanghai was number one, there was a meteor firestorm in the United States. And they called it America's Sputnik moment. And the idea that this is a wake -up call for American education, that this is really bad because Shanghai is number one, America's 23rd, America's way behind China. And I think that it became so, it drew so much media attention because media loves fear, right? Right. So there's an element of fear -mongering to the PISA scores. But there's also an element of concern because right now in America, everyone agrees that the American school system is dysfunctional. And the reason why is that kids are now becoming more and more disengaged from learning. And right now in China, if you go to any schools, Chinese kids, no matter what the issues are, they're really focused on learning. And there's a respect for teachers.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0005
+
+## seg-0006 / 00:04:22-00:04:53 / SPEAKER_01
+
+There's a respect for teachers. That doesn't really exist anymore in North America or in Europe. And kids love math. They love the sciences. A lot of engineers in the future for the global economy are going to reproduce in East Asia. So I think that, yeah, I mean, the issue is overblown. The Chinese school system isn't that much better than the American school system. But at the same time, the trend is that China is moving towards a better and better school system. And the United States is still, there's all the hang -wrangling going on in the United States right now.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0006
+
+## seg-0007 / 00:04:53-00:05:11 / SPEAKER_00
+
+There's something, just a curious point there. We're comparing countries like the United States and Sweden and the United Kingdom with Shanghai rather than China. But what I was wondering is, is the comparison going to be accurate? Because if you factored in 100,000 poorly funded Chinese rural schools, would you get the same sort of overall score?
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0007
+
+## seg-0008 / 00:05:11-00:06:03 / SPEAKER_01
+
+I think that's a great point. I think that right now in China, because China is such a huge country with 1.3 billion people, it's trying to educate basically 200 million Chinese people. You're going to have a wide disparity in China. Shanghai is one of China's richest cities. It is a coastal city, so it's access to, it's basically very cosmopolitan. It's very forward -looking. And it's a very, in terms of education resources, a very well -endowed city. Some of the best schools in China are in Shanghai. So you're right in that Shanghai is not representative of China. But at the same time, Shanghai has 20 million people. That's a lot of people. So if it's educating its students well, it's still producing a lot of future entrepreneurs, engineers to service the Chinese economy in the future.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0008
+
+## seg-0009 / 00:06:03-00:06:13 / SPEAKER_00
+
+Now, you have worked in the Chinese educational system and you were brought up and educated in the Canadian system. What are the big differences between the two?
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0009
+
+## seg-0010 / 00:06:13-00:07:07 / SPEAKER_01
+
+Thinking about it off the top of my head, I would say the big difference is that in Canada, we're very focused on equity and mobility issues. The idea is that we want to make sure that all kids have access to a decent education. So there's a real emphasis on fairness and equity in Canada. Now, the great thing about Canada is that there's so much emphasis on equity that all the Canadian schools are the same. So it doesn't really matter which school you go to. And there's more emphasis on how you make the most out of your experience while you're in Canadian schools. So I think that's a great thing about Canada. China is a very competitive system. It's a very elitist, very competitive system. That sorts students from day one, basically. So you have the best elementary schools servicing or feeding into the best high schools, which then feed into the best universities. And it's
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0010
+
+## seg-0011 / 00:07:07-00:07:43 / SPEAKER_01
+
+a very unfair system because, you know, the development trajectory of kids, of any adult, it's not a linear trajectory. You don't know how a kid is going to perform at age 18 based on his test scores at age six. And you don't know how a kid is going to perform at age 18 based on his test scores at age six. And you don't know how a kid is going to perform at age 18 based on his test scores at age six. And you don't know how a kid is going to perform at age 18 based on his test scores at age six. And you don't know how a kid is going to perform at age 18 based on his test scores at age six. And you don't know how a kid is going to perform at age 18 based on his test scores at age six. And you don't know how a kid is going to perform at age 18 based on his test scores at age six.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0011
+
+## seg-0012 / 00:07:43-00:07:56 / SPEAKER_01
+
+And you don't know how a kid is going to perform at age 18 based on his test scores at age six. So, it's a really unfair, elitist system.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0012
+
+## seg-0013 / 00:07:56-00:08:14 / SPEAKER_00
+
+It's also a very high pressure system. There is an exam system here called Gaokao, which is the university entrance exam across the country and everything is geared, as you say, from kindergarten upwards to getting good marks in this exam. What about this exam? What are the pressures like on students and, indeed, on parents and teachers?
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0013
+
+## seg-0014 / 00:08:14-00:09:27 / SPEAKER_01
+
+The Gaokao, which translates into the National College Entrance Examination in English, so in June, early June, for three days, over the course of six subjects, a student takes tests, and depending on his performance on the Gaokao, that would determine which school the student will go to, which college the student will go to. Now, from a Chinese perspective, this is considered the fairest, most objective indicator of a student's academic performance and his ability to do well in college. So, from a Chinese perspective, the Gaokao, it's a fair way of, to basically allocate scarce education resources. But because these three days are so important, it's led to a very stressful, high -pressure education environment where, from day one, the student, and we're talking, like, three or four -year -old kids, are subjected to rigorous testing, extra classes, and constant nagging from parents and teachers. And there's really, because of the Gaokao, a death of childhood in China.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0014
+
+## seg-0015 / 00:09:27-00:09:39 / SPEAKER_00
+
+If the Chinese system is doing so well on an international scale, why are more and more Chinese parents sending their kids abroad, not only to study at university, but now in increasing numbers in high schools in North America and Europe?
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0015
+
+## seg-0016 / 00:09:40-00:10:34 / SPEAKER_01
+
+That's a great question, and that's really the paradox of China's school system right now, because, as you say, because of PISA, Shanghai is considered the envy of all educators and teachers and parents around the world. But if you actually look at what's going on, there's an increasing amount of immigration in China where Chinese who can afford to, you're talking about middle -class and wealthy Chinese, they're choosing to opt for Canada, New Zealand, America, where the school system is less high -pressure, where the school system did not perform as well as the Chinese school system on the PISA. And what's going on, basically, is that right now in China, for the past few years, there's a real concern. There's a real concern among Chinese parents that the Chinese school system is actually hurting their kids. They have one child, and this child is basically all their future hopes and dreams. Whatever curiosity, whatever creativity, whatever imagination,
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0016
+
+## seg-0017 / 00:10:35-00:11:35 / SPEAKER_01
+
+whatever empathy the child has before he or she enters the school system is killed within one or two years. So I've been to... The grim picture. Well, I've been to elementary schools in China. And I sit on... I sit in on classes. Grade one class, you have kids asking questions, raising their hands and asking questions. They're excited. They're enthusiastic about learning. They want to participate. And what the teacher does is basically say to the kid, don't ask questions. If you raise your hand, if you ask questions, you're a troublemaker. They take whatever enthusiasm for learning, whatever curiosity the kid has, and basically just, you know, shoves it out the door. So we look at grade two or grade three, three kids. They're all standing in line, very well -behaved, very obedient, and their eyes are blank. You look at grade one kids, their eyes are shiny, they're smiling, they're curious. By grade two or grade three, their eyes are kind of blank, kind of lifeless.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0017
+
+## seg-0018 / 00:11:35-00:11:44 / SPEAKER_01
+
+And it was really heartbreaking for me to see when I visit these schools. But that is a real issue for Chinese parents, to see their kids die like this.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0018
+
+## seg-0019 / 00:11:45-00:12:07 / SPEAKER_00
+
+Well, if parents, as you say, recognize this, and there seems to be some sort of feeling in society that this is not the way to go, is there some sort of idea of reform within officialdom here, within the Ministry of Education? I know you work on some pilot projects which are involved in a sort of an alternative way of looking at this and sort of avoiding the Gaokao system. What about the official perspective?
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0019
+
+## seg-0020 / 00:12:08-00:13:07 / SPEAKER_01
+
+Everyone in China recognizes there has to be education reform in China now. It's urgent, it's necessary, and it's going to determine the future of China. In 2010, Prime Minister Wang... Prime Minister Wang launched to the public an education reform blueprint, calling for more individuality, for more creativity, for more freedom in Chinese schools, less homework for kids, more time to play, more time to explore their own interests. And right now, what educators are doing is trying to implement this policy at a grassroots level. What we're finding as educators is that there's a lot of resistance from parents. The reason why is that... Let's just say that you're not rich. You can't afford to immigrate or send your kid to a private school in England or to the United States. Well, Gaokao is really your only chance at a better life. The Gaokao has been for thousands of years seen as the only way for not -so
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0020
+
+## seg-0021 / 00:13:07-00:13:51 / SPEAKER_01
+
+-well -off Chinese to rise in the Chinese system. So if they're reforming the Gaokao, and they're a lot... they want the change with the Gaokao, Gaokao works, that is fundamentally destabilizing from the perspective of most Chinese parents because they think that the elite is basically taking their... the elite is basically sabotaging their only way to increase their social mobility in China. So right now, there's so much tension and so much conflict going on in China because on one hand, you have educators trying to spread education reform, but you have parents trying to push back because they're worried that... that education reform will screw their kid over. Right.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0021
+
+## seg-0022 / 00:13:52-00:14:00 / SPEAKER_00
+
+How do teachers fit into this? Are they for the reform? Are they against it? Or again, is it a sort of a conflict within... within the body?
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0022
+
+## seg-0023 / 00:14:00-00:14:58 / SPEAKER_01
+
+Well, I mean, most teachers that I know, most teachers that I've interviewed and who I've met want the best possible future for their students. That's why they enter the teaching profession. That's their pride as teaching professionals. So they feel that... As teachers, they really need to get their kids to focus on doing well on tests, on learning subject matter well, and on being able to regurgitate it in on... on tests because that's really what the Chinese system does. That's how you indicate you're successful in China by doing well on tests. So teachers, on one hand, you know, they sort of grew up in the gaokao system, so there's certain like emotional loyalty to gaokao. But on the other hand, they feel that as teachers... Not for me. Exactly. And they also... But they also feel that if they don't really emphasize testing in the classroom, their students are going to be left behind. So again,
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0023
+
+## seg-0024 / 00:14:58-00:15:25 / SPEAKER_01
+
+even though from the top and from Beijing, from very wealthy parents and from top educators, there's this real push for education reform in China, at the grassroots level, there's a lot of concern, there's a lot of skepticism, and there's a lot of cynicism. So there has to be... It's a communication issue. There's a communication gap where things aren't being properly articulated to the grassroots.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0024
+
+## seg-0025 / 00:15:26-00:15:41 / SPEAKER_00
+
+As you mentioned earlier, many Chinese students do head abroad. The number going to study abroad has tripled in a decade. What sort of problems do you see Chinese students facing when they go outside China to study, particularly say in North America? Right.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0025
+
+## seg-0026 / 00:15:41-00:16:36 / SPEAKER_01
+
+So a lot of Chinese parents believe that study abroad is a panacea to all China's education problems, that if I send my kid, who's not doing very well in the Chinese school system, and I send him off to the United States for high school, this kid is going to get into Yale, Harvard, become Steve Jobs, and win a Nobel Prize. There's this real myth and mentality within Chinese parents that they think that, listen, I spent some money, millions of dollars, sent my kid abroad. And all my problems... We're also avoiding this pressure system of barcos, what are you saying to me? Sure. But what Chinese parents don't realize, but they do realize this once their student, their kid is actually in the United States, is that the Chinese system does not really work well with other systems. So another way of saying this is that Chinese students in China are taught to behave a certain way that lets them basically get along in China.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0026
+
+## seg-0027 / 00:16:37-00:17:21 / SPEAKER_01
+
+In China, the Chinese school system does not allow you to ask... Does not permit you to ask questions, doesn't want you to think for yourself, doesn't want you to stand out. So these kids go to America, and suddenly, in these American schools, in these American colleges, the professor wants them to ask questions, the professor wants them to stand out, the professor wants them to be independent, show creativity, and they cannot emotionally adapt to sort of this environment. So the irony is that, yes, the Chinese school system is stressful for these kids, but you take Chinese students who are... Yeah. Who are indoctrinated in the system and you put them in an American setting, it's even more stressful for them because they become socially alienated from their professors and from their classmates.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0027
+
+## seg-0028 / 00:17:21-00:17:32 / SPEAKER_00
+
+How about if they're moving earlier, because there is a move towards people actually studying high school in the United States. Indeed, some schools in the United States are almost majority Chinese students. Do they adapt any better?
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0028
+
+## seg-0029 / 00:17:32-00:18:14 / SPEAKER_01
+
+Yeah. So what we're finding is that maybe like five, 10 years ago, the trend was, as you say, moving... The trend was these Chinese students... These Chinese students moving to America for college, but now parents are for many reasons sending their kids to America for high school and possibly even for junior high school. A lot of families are also choosing to immigrate, and what we're finding is that these students adapt better to America than the Chinese students who go for college. So I know we're saying this is that we're finding that the Chinese school system, it's very effective at indoctrinating Chinese students. They are energetic in certain ways, so they shouldn't be forced in certain ways that does not permit them to engage different cultures.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0029
+
+## seg-0030 / 00:18:16-00:18:36 / SPEAKER_00
+
+This move of these students that go abroad, it would seem to be a marriage made in heaven. You've got students in China who want to pay money and who want to get a good education in a prestigious University abroad, and you've got universities who need money and want high performance students. Right. So what's not to like about that? Right. So I think that...
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0030
+
+## seg-0031 / 00:18:37-00:19:35 / SPEAKER_01
+
+I think that a lot of people believe... made in heaven, but if you actually look at what's happening, it's a marriage made in hell. And the reason why is that a lot of these Chinese students are going to America because they can't get to Peking and Tsinghua and Fudan and Jiao Tong. And the other thing is that these are not the best students going to America. These are probably students who failed out of the Chinese school system. So academically, they're not well equipped to do well in school for a variety of reasons. If you look at America, all these schools are actively trying to recruit Chinese students are state schools with very limited funding. So you're looking at our higher school system, Indiana, Illinois, Wisconsin, California. Because of the recession right now in America, the state legislatures have cut the budget for higher education. So now they're desperate for Chinese students who can pay three times as much as local students.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0031
+
+## seg-0032 / 00:19:36-00:20:32 / SPEAKER_01
+
+But the problem is... The problem is that these schools are not equipped to deal with Chinese students. So I mean, I visit these schools and these Chinese students go to America and they're given no support. So these students might write essays. There's no feedback. And you can also make the argument, I think this is a very important argument, is that there's real dysfunction going on in the American higher education system. Because look at the stats. There's one trillion in student debt. Students are... Student debt right now is considered like one of the biggest problems right now in American education. Sixty percent of American students will not graduate from college. And sort of like, you know, American educators think that, oh, Chinese students, it's a temporary solution, it's a bandage to this problem. Like long term, there has to be a real restructuring of American higher education. And long term, there has to be a real restructuring of Chinese education.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0032
+
+## seg-0033 / 00:20:33-00:20:38 / SPEAKER_01
+
+So I don't think this is a marriage made in heaven. I think there's a problem. There's some real serious issues that we need to look at.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0033
+
+## seg-0034 / 00:20:38-00:20:56 / SPEAKER_00
+
+You wrote about the problems of American universities recruiting Chinese students. And you said that they could perhaps do it in a more effective manner, that certainly at the moment they were recruiting students perhaps with the wrong criteria. What could they do to recruit the students that will succeed?
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0034
+
+## seg-0035 / 00:20:56-00:21:51 / SPEAKER_01
+
+Well right now the issue in this process is that you have Chinese students who want to go abroad. And you have American schools desperate for money. So a lot of the emphasis is on trying to fill as many spots as possible with full paying Chinese students. And there is enough emphasis on are we recruiting the right students? And are we equipping these students to do well in these schools? So I think that these American schools are using agents in China. And these agents are basically headhunters. They make money based on the number of people, the number of Chinese students they can recruit to go to America. And they don't really care about does it make sense for these kids to go to America. And like the irony of this is that a lot of these schools who do the recruiting are public state universities founded on a mission to expand America's middle class, to expand the idea of democracy in America.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0035
+
+## seg-0036 / 00:21:51-00:22:20 / SPEAKER_01
+
+And they've basically forsaken their public school mission and moving towards more a corporatist mentality. So I think that first and foremost these schools. I think that first and foremost these schools. Indiana, Ohio. They need to rediscover their public mission mandate. And then they need to take a serious look at who they're recruiting from China and whether or not these schools are equipping these students with the right skill set to succeed in America.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0036
+
+## seg-0037 / 00:22:21-00:22:44 / SPEAKER_00
+
+Now, I mentioned earlier that the number of students that are. The students from Asian countries dominated the top of those PISA rankings. Do you feel it's not perhaps just the administration. system in China that produces these high -scoring students but something to do with Asian culture and reverence for education. I feel that this is a very
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0037
+
+## seg-0038 / 00:22:44-00:23:43 / SPEAKER_01
+
+controversial question and this is my own personal opinion but I feel that there's a real emphasis on outcomes there's a very utilitarian mentality so Asians love tests if you look at the PSAP but not just the PSAP you look at the SAT you look at any examination Asians if they participate tend to dominate and the reason why is that the the education system in East Asia Singapore South Korea Japan China it's all predicated on a student's ability to do well on tests it's not about real learning it's not about creativity it's not about giving students space to make mistakes it's all about doing well on tests that's a mentality that doesn't really happen in the West and that's what I'm trying to say. That's why you know we find that Chinese students they do very well in a school system where the tasks are algorithmic and the students don't really have that much space to
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0038
+
+## seg-0039 / 00:23:43-00:24:08 / SPEAKER_01
+
+make mistakes but when they enter society when they start companies or when they are forced to work on open -ended projects in multicultural environments they don't do so well there's a real problem in China right now in recruiting good managers good and good entrepreneurs and basically creative thinkers but if you look at you know accountants computer programmers China has an abundance of these people.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0039
+
+## seg-0040 / 00:24:09-00:24:21 / SPEAKER_00
+
+One exception to that that ranking was Finland which seemed to do quite well in in these and I know that you visited the country is there anything that that that the Chinese education system could learn from Finland?
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0040
+
+## seg-0041 / 00:24:22-00:25:15 / SPEAKER_01
+
+I believe there's a lot the Chinese school system can learn from Finland there are many reasons why the Finland does very well on international assessment. There are many reasons why the Finland does very well on international assessment. Not just PISA but also TIMS. Reason one is that there's a real emphasis on making sure each child is educated well so at sort of eight months of age a child can choose to enroll in a free public daycare program administered by well -educated teachers so and this is free so regardless of whether you're poor or rich you can have your child access this tremendous daycare system. And a lot of research tells us that the most formative years in a kid's life is basically from age one to age six. A lot of a lot of the neural wiring the child will need to succeed in life is basically formed during that age but you look at
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0041
+
+## seg-0042 / 00:25:15-00:25:24 / SPEAKER_01
+
+a place like China and you know if you're wealthy then you can actually send your kid to a very expensive daycare program but if you're not wealthy then your kid stays at home.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0042
+
+## seg-0043 / 00:25:24-00:25:32 / SPEAKER_00
+
+Sure but but Finland is a relatively rich country and it can't afford to do this. China has the problems of numbers and the number of children that come to the country. and the funds that it can put into it. That's a great argument and I
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0043
+
+## seg-0044 / 00:25:32-00:26:27 / SPEAKER_01
+
+would make the argument that actually the cost of educating a child in the daycare system is going to be a lot less expensive than in the university system. What we're finding in China right now is a lot of funding a lot of money is expended in the first two years when a student leaves college and enters the workforce. And the reason why is that employers find that fresh college graduates don't have the skills they need to do well in the workplace. So they need to spend they need to invest two to four years in retraining the student to do well in the in the workplace. That's a tremendous investment on their part. They have no choice because they need workers. Now but you can make the argument that you know what if the Chinese government were to were to invest a little bit of this money in the daycare system the results would be a lot better.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0044
+
+## seg-0045 / 00:26:27-00:26:45 / SPEAKER_01
+
+But it's a very different mentality. The mentality in Finland is how can we make sure that each of our kids is empowered to do well in life. Whereas in China it's basically the rich looking out for themselves and basically ignoring the rest of society. Right you have written a book called
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0045
+
+## seg-0046 / 00:26:45-00:27:05 / SPEAKER_00
+
+Creative China in which you speak a lot about the about empathy and how empathy can lead to innovation. Something which the Chinese government has said is extremely important for the country to continue with its successful path. Can you elaborate a little bit on that on empathy in China and what it has to do with education?
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0046
+
+## seg-0047 / 00:27:05-00:27:55 / SPEAKER_01
+
+Yeah I mean I love talking about empathy. Empathy is something that I discovered that was really emphasized in the Finnish school system. So when I went to Finland at you know starting grade six kids were being taught the importance of empathy. You ask any kid in Finland who's like 10 years or older what empathy is and the person will say right away empathy is the ability to put yourself in other person's shoes. Can you not get the same answer from a Chinese school? Empathy, there's no word for empathy in Chinese. Empathy historically has never been taught or emphasized in China. China right now has a real problem with empathy. There's a classic story, classic news story that happened three years ago where this little girl she was six years old maybe she was run over by a car not once but twice. Bystanders came they just stood around her and they just looked.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0047
+
+## seg-0048 / 00:27:56-00:28:47 / SPEAKER_01
+
+There was real no emotional attachment to strangers. Now in China there's a lot like emotional attachment to your relatives and the people you know in your Guangxi network but there's really little empathy for people you don't know and so the sort of like social bonds the social glues that allow society to function don't really exist in China and that's why you know there's so much there's so many social problems right now right now in China. But in Finland empathy is really emphasized and that's why the society is so strong. But you know what empathy is also fundamental that if you want your student to engage other cultures and so I feel that in Finland right now they're being very smart about it because I feel in the future we live in a global workplace we were living and working in a global workplace it's a global economy we're going to need to produce students who
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0048
+
+## seg-0049 / 00:28:47-00:29:34 / SPEAKER_01
+
+are able to work with other cultures but not just work with other cultures also manage other cultures as well and some of that Finland does very well because they emphasize empathy it's something that China is gonna struggle with and that's why we have so many cases where there's so much misunderstanding going on between China and the rest of the world, because China really can't understand how the rest of the world thinks. And China right now is considered a black box to the rest of the world. So I think that as educators, we really need to educate a new generation of Chinese students who are able to have empathy and who are able to understand and respect other cultures. And that's a way for China to engage the rest of the world and make sure that China's rise is as smooth and as peaceful as possible.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0049
+
+## seg-0050 / 00:29:35-00:29:43 / SPEAKER_00
+
+Well, Zhang Suixin, best of luck in your path to improving China's education system. Thanks very much for appearing on The Law. Thank you, Birgit.
+
+Ref: video:interview-irnhbw6w7we@transcript:v1#seg-0050
