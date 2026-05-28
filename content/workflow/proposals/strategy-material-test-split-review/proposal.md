@@ -1,7 +1,8 @@
 # Strategy Material Test Split Review
 
 Date: 2026-05-27
-Status: proposed split/compression plan
+Updated: 2026-05-28
+Status: first split completed; second split decision recorded
 Work type: atlas governance / concept-boundary proposal
 Public surface: `website/src/content/docs/lens/when-war-becomes-a-story-instead-of-a-material-test.md`
 
@@ -16,6 +17,29 @@ The next public mutation should therefore be a compression/split pass, not more 
 - war stories must answer economics, organization, and logistics;
 - spectacle, dominance, money, and declared strategy become real only when they survive material audit;
 - neighboring lenses own narrative, nation, money, eschatology, or game incentives when those are the active mechanism.
+
+## 2026-05-28 Split Decision
+
+The first public split has now happened. `website/src/content/docs/lens/chokepoint-empire-and-no-exit-war.md` exists and carries the Hormuz, Malacca, Gulf fragility, systems-fire, no-exit, ceasefire-theater, war-momentum, and escalation-ladder cluster. The parent Strategy page is no longer 13.5k words, but it is still about 8.9k words and still carries about 27 distinct video sources. It remains over the hard split-review threshold.
+
+The next split should not create another Iran-war child and should not append the newly merged 2025-09-18 CapitalCosm interview directly to the parent. The next public mutation should extract an **Imperial Retrenchment And Proxy Attrition** child page from the parent Strategy surface.
+
+That child should own the mechanism in which a weakening empire stops paying every imperial cost directly and tries to preserve the system through continental resource retreat, vassal expenditure, successor-muscle auditions, and enemy-induced overextension. The reusable mechanism is not "Europe," "Ukraine," "China," or "resources" as topics. It is imperial cost transfer: the center tries to keep strategic control by making allies, near-abroad resources, candidate successor states, and sanctioned adversaries carry the material burden of the old order.
+
+The safest first move is a single public PR that moves these stable anchors out of the parent while preserving their IDs:
+
+- `lens-point:strategy-resource-empire-replaces-finance`
+- `lens-point:strategy-replacement-empire-audition`
+- `lens-point:strategy-vassal-proxy-attrition`
+- `lens-point:strategy-debt-war-cannot-admit-defeat`
+- `lens-point:overextension-turns-empire-against-itself`
+- `lens-point:strategy-sanctioned-states-create-volatility`
+
+This should compress the parent by several thousand words and leave it as the entry-point diagnostic: war stories must answer economics, organization, logistics, supply, troops, bases, chokepoints, attrition, exit cost, and whether the declared strategy can be carried by the physical board. The child should carry the denser imperial-transition evidence: Europe thrown overboard, finance empire to resource empire, Greenland/Canada/Mexico/Western Hemisphere retreat, vassals as expendable bodies, Bank-of-England/Ponzi defeat-admission logic, replacement empire audition, and sanctioned-state volatility as an enemy strategy.
+
+Do **not** merge this child into [Power As Alchemy](/lens/power-as-alchemy/) even though debt, petrodollar belief, and Treasury demand keep appearing. Power As Alchemy owns money becoming social reality. The proposed child owns what happens when that monetary reality has to be enforced or replaced by resources, bases, allies, shipping routes, weapons, and bodies. Do **not** merge it into [Game Theory](/lens/game-theory/) even though player payoffs matter. Game Theory owns payoff correction; this child owns the material expenditure after the player map is named.
+
+This split is more urgent than a fresh corpus-impact intake for `interview-3uldvzstuje` or `interview-liwzv4-ovhm` only because Socrates asked for a bounded split decision after Sentinel flagged the page threshold. The newest interviews remain high-pressure missing impact work. The next Plato intake should digest one of those sources unless the maintainer asks for the actual public split first.
 
 ## Why This Advances The Lens Map
 
