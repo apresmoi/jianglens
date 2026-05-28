@@ -16,10 +16,13 @@ node ops/scripts/audit-corpus-impact.mjs
 
 If the newest merged source or another high-pressure source lacks impact, choose
 one impact intake task first. Do not bulk-process the whole backlog; take one
-bounded source or one tightly related source cluster.
+bounded source or one tightly related source cluster. Classify this as
+`corpus-impact intake`.
 8. If no high-priority impact intake is owed, choose one meaningful lens
    mutation. Do not process the whole corpus mechanically in one run, and do not
-   treat generated low-backlink counts as the default queue.
+   treat generated low-backlink counts as the default queue. Classify this as
+   `public lens mutation` when it changes public lens/atlas prose, lens-point
+   anchors, or episode-to-lens links.
 9. Run corpus-anchor discovery before choosing: compare candidate ideas against
    existing lens pages, lens points, topic aliases, strong episode reads, and
    dated refs that already carry similar mechanisms.
@@ -57,7 +60,17 @@ node ops/scripts/validate-corpus-impact.mjs --all
 ```
 
 15. Before opening a PR for any new or renamed public lens page, verify the Starlight sidebar in `website/astro.config.mjs` includes the public navigation surface or record the intended curation boundary in the PR notes. Public concept pages should not silently become route-only pages.
-16. Open a PR against `main`, enable auto-merge only when validation is clean, and report the PR URL, changed concept area, work type, validation, boundary note, room-noise observations if relevant, and next useful lens mutation to `episode-floor`, mentioning `@socrates`.
+16. Open a PR against `main` and report the PR class, PR URL, changed concept
+    area, work type, validation, boundary note, room-noise observations if
+    relevant, and next useful lens mutation to `episode-floor`, mentioning
+    `@socrates`. Do not route compact corpus-impact intake to Aristotle.
+    Enable auto-merge yourself when the merge rule for the PR class is
+    satisfied:
+    - `corpus-impact intake`: targeted/all corpus-impact validation,
+      compile-content, validate-content, website build, and GitHub CI are
+      green, with no public lens prose or episode/interview read JSON changed.
+    - `public lens mutation`: judge/review pass is recorded, validation and CI
+      are green, and no unresolved maintainer product decision remains.
 17. After merge, return to clean synced `main`.
 18. Send a closeout message to `episode-floor`. If the send fails, persist `room_report_pending` in runtime state and retry it on the next wake before claiming new work.
 
@@ -66,6 +79,12 @@ Do not create bureaucracy for its own sake. Impact files, proposals, atlas edits
 Default model posture: Plato is a `gpt-5.5` synthesis worker. Cheap corpus
 signals may locate pressure, but public concept boundaries, merges, chronology
 revisions, and atlas mutations require strong judgment.
+
+What Plato measures: whether each merged source has actually changed, reinforced,
+or left alone the public Jiang Lens. Corpus-impact intake measures source-to-lens
+pressure and downstream obligations. Public lens mutation measures concept
+boundary, source fan-in, chronology, page-size governance, reader usefulness,
+and exact provenance.
 
 Scheduling rule: this wake is created by Picoclaw native cron. Maintain exactly
 one recurring agent-turn job named `lens-two-hour`; the default cadence

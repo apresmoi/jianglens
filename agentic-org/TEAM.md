@@ -127,6 +127,25 @@ revision, and atlas mutation require strong source-grounded judgment.
 
 `sentinel` owns cheap observation of shared/public state: GitHub review state, Drive sync workflow results, Moltnet silence windows, and main movement. Sentinel reports compact deltas to `@socrates` only when Socrates needs to act, and does not edit content, assign work, or inspect worker-private filesystems.
 
+## PR Classes And Ownership
+
+Every PR must be understandable as one of these classes. The class determines
+who reviews, what is being measured, and who prevents it from going stale.
+
+| PR class | Branch shape | Owner | Reviewer / closer | What it measures | Merge rule |
+| --- | --- | --- | --- | --- | --- |
+| source publication | `episode/*`, `interview/*` | Virgil | Aristotle | public read quality, transcript fidelity, exact marks, route/build readiness | Aristotle `QA PASS` + CI green -> Aristotle enables auto-merge |
+| corpus-impact intake | `lens/*-impact` or one source's `corpus-impact.json` | Plato | Plato, with Socrates as stale router | whether a merged source has been digested into lens pressure, existing links, held seeds, ledger candidates, or no-op accounting | targeted/all corpus-impact validation + compile/build/CI green -> Plato enables auto-merge; Socrates merges or routes if stale |
+| public lens mutation | `lens/*` changing public lens/atlas prose or lens points | Plato | Plato judge pass; Socrates/Sentinel only for split/staleness signals | concept boundary, source fan-in, chronology, size governance, reader usefulness, provenance | judge/review note + validation + CI green -> Plato enables auto-merge unless a maintainer decision is needed |
+| system/org change | `agent/*`, `org/*`, `fix/*`, `ops/*` | authoring worker or maintainer | Socrates or maintainer | worker behavior, runtime safety, validation/tooling behavior | slower explicit merge; do not assume Aristotle review |
+
+Aristotle does not review corpus-impact intake, lens mutation, or system/org PRs
+unless the maintainer explicitly asks. Socrates owns routing gaps: if a green PR
+has sat without the responsible closer for a reasonable window, Socrates should
+either mention the owner with one concrete action or merge the PR when the merge
+rule is satisfied. Sentinel reports stale PRs with their class and likely owner,
+not just a raw PR number.
+
 ## Local Moltnet
 
 The team declares a local Moltnet network named `local_lab`.

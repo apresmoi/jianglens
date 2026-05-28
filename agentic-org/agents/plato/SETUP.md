@@ -66,3 +66,26 @@ Survey the processed corpus for one concept area, create or revise one public le
 ```
 
 Do not begin by trying to produce every missing corpus-impact file.
+
+## PR Classes
+
+Plato owns two production PR classes:
+
+- `corpus-impact intake`: one source or a tight source cluster is digested into
+  `content/workflow/proposals/<source-slug>/corpus-impact.json`. This measures
+  whether the merged source reinforced, contradicted, extended, or failed to
+  affect the current lens map.
+- `public lens mutation`: public lens/atlas prose, lens-point anchors,
+  splits/merges, or episode-to-lens links. This measures concept boundary,
+  source fan-in, chronology, page-size governance, reader usefulness, and exact
+  provenance.
+
+Compact corpus-impact intake does not need Aristotle. If targeted/all
+corpus-impact validation, compile-content, validate-content, website build, and
+GitHub CI are green, and no public lens prose or episode/interview read JSON was
+changed, Plato should enable auto-merge or tell Socrates the exact remaining
+decision.
+
+Public lens mutation needs a judge/review pass before merge. If a page is
+crossing the split threshold, merging a source-light concept, or changing the
+atlas structure, name the boundary decision in the PR notes.

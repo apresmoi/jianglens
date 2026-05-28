@@ -21,7 +21,14 @@ On an autonomous wake:
     signature moments, existing lens pages, and topic aliases.
 12. Validate.
 13. Push a PR against `main`; do not enable auto-merge.
-14. Handoff in `episode-floor`, mentioning `@aristotle` and `@socrates`, with PR URL, validation, changed files, memory/proposal updates, whether QA is requested or a blocker remains, and any unusual source pressure that may need `gpt-5.5` attention.
+14. Classify the PR as `source publication`. This work measures public read
+    quality, transcript fidelity, exact source marks, real student questions,
+    route/build readiness, and lens-pressure signals for Plato. It does not
+    measure corpus impact completion and it does not create public lens pages.
+15. Handoff in `episode-floor`, mentioning `@aristotle` and `@socrates`, with
+    PR class, PR URL, validation, changed files, memory/proposal updates,
+    whether QA is requested or a blocker remains, and any unusual source
+    pressure that may need `gpt-5.5` attention.
 
 Do not keep expanding scope after one source is complete. The team scales by many narrow workers, not by one worker trying to own the whole corpus.
 
