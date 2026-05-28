@@ -1,0 +1,217 @@
+{
+  "packet_id": "interview-wvm3oqdviwy-semantics-pkt-0006",
+  "source_id": "video:interview-wvm3oqdviwy",
+  "source_date": "2021-02-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0041"
+      ],
+      "kind": "answer",
+      "summary": "Jiang finishes his facial-recognition answer by describing the sort of goal-driven systemic process that would ask whether cameras are even the right answer.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0042"
+      ],
+      "kind": "unclear",
+      "summary": "The packet contains an empty transition segment with no usable speech content.",
+      "speaker_attribution": null,
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0043"
+      ],
+      "kind": "question",
+      "summary": "The host pivots to COVID and asks what happened to schooling in China during closures.",
+      "speaker_attribution": "Host Vikas",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0044",
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0045"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Chinese students weathered school closures better than many Western students because families stayed deeply engaged during home learning.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0046"
+      ],
+      "kind": "question",
+      "summary": "The host asks how long schools were closed.",
+      "speaker_attribution": "Host Vikas",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0047"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says closures lasted roughly two to three months, with possible delays to spring reopening, but argues Chinese families and cram schools make the public less anxious than in the West.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "The host asks how China will deal with learning loss and catch-up.",
+      "speaker_attribution": "Host Vikas",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says a real systemic process starts by naming the educational goal, such as motivation and engagement, before deciding whether technology helps.",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Method claim stated on 2021-02-05.",
+      "topic_tags": [
+        "systemic process",
+        "motivation",
+        "engagement"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that when China adopts edtech without such a process, it ends up using facial recognition to monitor behavior instead of solving the real engagement problem.",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Current diagnosis stated on 2021-02-05.",
+      "topic_tags": [
+        "facial recognition",
+        "monitoring",
+        "engagement"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Chinese schools closed earlier than many Western systems but the impact on students was not as severe because parents scaffolded home learning.",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0044",
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Pandemic diagnosis stated on 2021-02-05.",
+      "topic_tags": [
+        "COVID",
+        "school closures",
+        "parents"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He contrasts this with Western reports of more severe mental-health breakdowns during lockdowns.",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Comparative pandemic diagnosis stated on 2021-02-05.",
+      "topic_tags": [
+        "mental health",
+        "West",
+        "lockdowns"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Chinese school closures lasted roughly two to three months, and that further regional COVID outbreaks might delay the spring semester.",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Near-term update stated on 2021-02-05.",
+      "topic_tags": [
+        "closures",
+        "spring semester",
+        "COVID outbreaks"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says people in China are less worried about closures because family engagement remains high and many students continue learning through cram schools outside formal classrooms.",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Current social diagnosis stated on 2021-02-05.",
+      "topic_tags": [
+        "cram schools",
+        "family engagement",
+        "worry"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0041"
+      ],
+      "moment": "The right educational process can make a classroom choose a more engaging teacher over more cameras.",
+      "source_phrase": "do you have more cameras in the classroom",
+      "why_it_matters": "It dramatizes Jiang's claim that better questions, not shinier tools, change educational outcomes.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0044"
+      ],
+      "moment": "Family support is described as the scaffold that prevented Chinese school closures from becoming a deeper social disaster.",
+      "source_phrase": "this family that really supported, scaffolded the kids",
+      "why_it_matters": "It carries Jiang's repeated thesis that emotional and communal support outrank pure technology access.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "systemic process",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0041"
+      ],
+      "definition_or_usage": "Jiang's method of starting from a learning goal, testing hypotheses, and then deciding whether any technology actually helps.",
+      "confidence": "high"
+    },
+    {
+      "term": "cram schools",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0047"
+      ],
+      "definition_or_usage": "Out-of-school tutoring institutions Jiang cites as one reason Chinese families are less alarmed by temporary school closures.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0047"
+      ],
+      "note": "The interview is recorded during Chinese New Year 2021, with Jiang describing closures as already reversed but still vulnerable to renewed outbreaks.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0042"
+      ],
+      "note": "seg-0042 is effectively empty and carries no semantic content."
+    }
+  ]
+}
