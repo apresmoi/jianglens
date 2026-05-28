@@ -1,0 +1,175 @@
+{
+  "packet_id": "interview-wvm3oqdviwy-semantics-pkt-0001",
+  "source_id": "video:interview-wvm3oqdviwy",
+  "source_date": "2021-02-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0001",
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0002",
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0003"
+      ],
+      "kind": "question",
+      "summary": "The host introduces Jiang as a longtime guide to Chinese education and asks for a high-level map of the education sector before the discussion turns to edtech.",
+      "speaker_attribution": "Host Vikas",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0004",
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0005",
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0006"
+      ],
+      "kind": "answer",
+      "summary": "Jiang describes the scale and pressure of the Chinese school system and explains why China became a huge edtech market through educational scarcity, test-score focus, and WeChat infrastructure.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0007"
+      ],
+      "kind": "question",
+      "summary": "The host asks for the main Chinese edtech success stories, explicitly contrasting them with underreported failures.",
+      "speaker_attribution": "Host Vikas",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang names parental engagement and rural teacher mentoring as daily success cases enabled by WeChat-based feedback loops.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says China has the world's largest public school system, educating about 200 million children in a relatively uniform structure with large classes and one teacher staying with a class through the school day.",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Current China diagnosis stated on 2021-02-05.",
+      "topic_tags": [
+        "China",
+        "school system",
+        "scale"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that scarce university places and the gaokao make pressure and competition structurally central to Chinese schooling.",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Current China diagnosis stated on 2021-02-05.",
+      "topic_tags": [
+        "gaokao",
+        "scarcity",
+        "competition"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China's edtech boom rests on three advantages: cultural obsession with education, test-score fixation that turns learning into a solvable optimization problem, and WeChat as a shared communication backbone.",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0005",
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Current China diagnosis stated on 2021-02-05.",
+      "topic_tags": [
+        "edtech",
+        "WeChat",
+        "test scores"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says parents in China invest heavily in education with money, time, and emotion, even taking on debt and orienting family life around homework and scores.",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Current social pattern stated on 2021-02-05.",
+      "topic_tags": [
+        "parents",
+        "education culture",
+        "debt"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents WeChat class groups and livestreamed teacher mentoring as concrete edtech successes because they create fast parent feedback loops and let urban teachers coach rural teachers in real time.",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Current success cases stated on 2021-02-05.",
+      "topic_tags": [
+        "WeChat",
+        "parent engagement",
+        "teacher training"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0005"
+      ],
+      "moment": "Education becomes edtech-friendly when a society reduces it to a score-maximizing puzzle.",
+      "source_phrase": "it makes education into a solvable problem",
+      "why_it_matters": "This is Jiang's core mechanism for why Chinese edtech can scale without solving deeper questions of well-being.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0006"
+      ],
+      "moment": "WeChat is treated as the hidden operating system of Chinese edtech rather than just a messaging app.",
+      "source_phrase": "they can do everything within WeChat",
+      "why_it_matters": "It shows Jiang locating the sector's power in social infrastructure and coordination, not only in standalone products.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "gaokao",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "China's competitive college entrance examination, described here as the mechanism for distributing scarce higher-education opportunities.",
+      "confidence": "high"
+    },
+    {
+      "term": "WeChat community",
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0006",
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "The shared communication layer through which teachers, parents, and students coordinate lessons, livestreams, and feedback.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0004",
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0005",
+        "video:interview-wvm3oqdviwy@transcript:v1#seg-0006"
+      ],
+      "note": "The interview begins on 2021-02-05 with Jiang describing pre-crackdown Chinese edtech at peak scale and profitability.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
