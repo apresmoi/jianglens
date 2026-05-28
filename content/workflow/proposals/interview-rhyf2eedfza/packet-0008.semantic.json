@@ -1,0 +1,212 @@
+{
+  "packet_id": "interview-rhyf2eedfza-semantics-pkt-0008",
+  "source_id": "video:interview-rhyf2eedfza",
+  "source_date": "2025-08-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0057",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0058"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says AI investment persists because monopoly capital has too much money and too few real destinations for it, so hype absorbs excess capital.",
+      "speaker_attribution": "Jiang answer to the investment question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0059"
+      ],
+      "kind": "question",
+      "summary": "The host asks for Jiang's five-year sequence across Taiwan, Iran, and Ukraine.",
+      "speaker_attribution": "Host question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0060"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says a Chinese invasion of Taiwan would falsify his entire model because he sees regime stability as Beijing's overriding concern.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0061"
+      ],
+      "kind": "question",
+      "summary": "The host asks why Jiang describes the Chinese economy as weak when public imagery shows futuristic success.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0062",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0063",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers with a corrupt-skyscraper parable about Beijing Olympic construction, arguing that visible development masks hidden debt and elite theft.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0064"
+      ],
+      "note": "The host's interjection in seg-0064 cuts across Jiang's story, but the packet still clearly preserves Jiang's corruption-and-debt point.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the AI boom reflects end-stage monopoly capitalism, where concentrated capital must be placed somewhere even if the underlying project is not profitable.",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0057",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Present economic diagnosis on 2025-08-05.",
+      "topic_tags": [
+        "AI",
+        "capital",
+        "monopoly capitalism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says that if China invades Taiwan, his entire understanding of the world should be treated as wrong.",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Falsifiable forecast stated on 2025-08-05.",
+      "topic_tags": [
+        "Taiwan",
+        "China",
+        "prediction",
+        "self-falsification"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the Chinese Communist Party is primarily concerned with regime stability and that economic hardship leaves no optimistic rationale for war over Taiwan.",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Current diagnosis on 2025-08-05.",
+      "topic_tags": [
+        "China",
+        "Taiwan",
+        "regime stability",
+        "economy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses a Beijing Olympics construction parable to argue that China's skyscraper boom is driven by corruption: inflated projects let officials steal while the public sees only development, not the debt.",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0062",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Illustrative diagnosis on 2025-08-05 using an early-2000s story.",
+      "topic_tags": [
+        "China economy",
+        "corruption",
+        "debt",
+        "Olympics"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says Chinese bank balance sheets are overloaded with hidden debt even though the public face of the economy looks futuristic and triumphant.",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0063",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Current economic diagnosis on 2025-08-05.",
+      "topic_tags": [
+        "China banks",
+        "debt",
+        "skyscrapers"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0057"
+      ],
+      "moment": "The AI boom is portrayed as a dumping ground for stranded monopoly capital rather than a rational technological revolution.",
+      "source_phrase": "the money has to go somewhere",
+      "why_it_matters": "It links Jiang's AI critique to his broader late-capitalist diagnosis.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0060"
+      ],
+      "moment": "Jiang puts his credibility on the line by saying a Taiwan invasion would make him an idiot.",
+      "source_phrase": "you should just treat me as an idiot",
+      "why_it_matters": "This is a rare explicit falsifiability standard inside the interview itself.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0063"
+      ],
+      "moment": "The Chinese economy is compressed into a corrupt joke: one billion for you, one billion for me, one billion for the Singaporeans to do the real work.",
+      "source_phrase": "one billion for you one billion for me",
+      "why_it_matters": "This is the packet's most memorable explanation of why visible grandeur and hidden decay coexist.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "end-stage capitalism",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0057"
+      ],
+      "definition_or_usage": "Jiang's term for a monopoly-capital phase where concentrated money must chase ever-larger hype projects.",
+      "confidence": "high"
+    },
+    {
+      "term": "regime stability",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "Jiang's explanation for why Beijing avoids risky military adventures that could stress an already fragile domestic system.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0062"
+      ],
+      "note": "Jiang's corruption parable reaches back to Beijing's early-2000s Olympic buildup to explain the hidden debt behind China's present image.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0062",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0063"
+      ],
+      "note": "The Olympics story is presented as a didactic joke or parable rather than a fully sourced procurement record; keep the mechanism, not the literal bid details, as the core extraction."
+    }
+  ]
+}

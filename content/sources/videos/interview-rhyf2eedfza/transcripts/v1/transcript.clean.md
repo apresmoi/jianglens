@@ -1,0 +1,507 @@
+# Predictive History and the End of the World | Prof. Jiang
+
+Source: https://www.youtube.com/watch?v=RhYf2eEdfzA
+
+## seg-0001 / 00:00:00-00:00:52 / SPEAKER_00
+
+Today's guest is Professor Zhang. He's a prominent educator and writer. He was born in China in the 70s, but later emigrated to Toronto, Canada, where he grew up. He graduated with distinction in English literature from Yale College, but eventually returned to China, where he taught at some of the most prestigious educational institutions, where he advocated for reform and greater creativity. His later work expanded into geopolitical commentary and predictive history. His work was widely respected in the academic and journalistic world, but recently, Zhang also exploded in popularity on social media when one of his videos predicting the Iran war went viral on YouTube. In less than a month, Zhang's YouTube channel went from obscurity to half a million subscribers, with viewers pouring through his catalog of videos making all sorts of geopolitical predictions, such as the Trump re -election, its implications on the Russia -Ukraine war, and the eventual... With his newfound popularity, Professor Zhang hopes
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0001
+
+## seg-0002 / 00:00:52-00:01:26 / SPEAKER_00
+
+to expand the work of his YouTube channel, Predictive History, where he hopes to help humanity gain more control over the world. Thank you so much for inviting me. So Professor, if you could just please explain to my audience what predictive history is, and why you believe this field of study is so important to humanity.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0002
+
+## seg-0003 / 00:01:26-00:02:26 / SPEAKER_01
+
+Yeah, sure. So if you read history books, you will see there are many divergent views out there. There's like 10,000 ways of understanding anything. And so the idea of predictive history is let's try to systemize this. Let's try to create a system in which we can know if you're right or wrong about the way we understand history. And so my argument is that if history is done correctly... If the framework for understanding history is correct, then we should be able to do three things. The first is we should be able to connect the paths, which is to say we should be able to turn history into a coherent narrative about how we came into being. Second is we should be able to explain the present. Why is the world the way it is today? The third thing is to be able to predict future events, to predict history. So if the framework for history
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0003
+
+## seg-0004 / 00:02:26-00:03:04 / SPEAKER_01
+
+is able to accomplish all three things, then we should be able to connect the past, the present, the present to the present. and the future. So if we can get all three things together, we can make the prediction model, based on those values and assumptions, to then get all the truth. Now, the idea is that, in every conception of history, there are values and assumptions embedded in that analytical model. If we understand the values and assumptions, we can then make a prediction model based on these values and assumptions. So, predictive history is a way for us to better understand ourselves so that we can have better control over our own lives. This is why there is a special reason why we're asking this question to do. And it's a way to basically... What are these values? push history forward so that historians come to an agreement on major historical events. So that's the general gist.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0004
+
+## seg-0005 / 00:03:04-00:03:15 / SPEAKER_00
+
+So what is it that you understood about the past and the present moment that helped you predict correctly the 12 -day Iran -Israel war?
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0005
+
+## seg-0006 / 00:03:15-00:04:24 / SPEAKER_01
+
+Right. So what clued me in that the conflict would arise between the United States and Iran is that in January 2020, Donald Trump, in his first term, he ordered an assassination of General Soleimani, the Iranian de facto ambassador in the Middle East. And that was an extremely important geopolitical event. And I don't think that people really understood how important it was, because historically in that region, if you killed an ambassador, that's a direct provocation of war. The... the other side is now forced to go to war. So the classic example is when Persia invaded Greece, the mainland Greece in 490 BC, Thucydides, sorry, no, not Thucydides, but Herodotus writes about this in his book, Histories. Well, the reason why Persia launched this massive invasion of the Greek mainland was because Athens and Sparta killed their ambassadors. They literally threw their ambassadors into the well, and when you do that in that world, then that's a declaration of war.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0006
+
+## seg-0007 / 00:04:25-00:05:24 / SPEAKER_01
+
+So the United States basically, by killing General Soleimani, declared war on Iran. And at that point, it was just a question of timeline. When would this happen? And this got derailed because Trump lost to Biden in the general election. But if you were to come back to office, then you could assume that the timeline would resume and that eventually the conflict would arise. So that sort of blew me in. And then what I did next was, okay, who are the actors pushing for war, and why would a war happen? And so as I did more research, I discovered things like Christian Zionism, the AIPAC lobby in the United States. Saudi Arabia has a vested interest in making sure that Iran is, that there's a regime change in Iran because of the Shia -Sunni conflict. So there are lots of reasons. There's lots of actors who want to see a war. There's lots of people who want to see a U.S.-Iran war.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0007
+
+## seg-0008 / 00:05:24-00:05:32 / SPEAKER_01
+
+And if that's the case, then you can rest assured that a war will eventually erupt between the United States and Iraq.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0008
+
+## seg-0009 / 00:05:33-00:05:53 / SPEAKER_00
+
+Were you surprised at all with the timeline? I think a lot of people understood, obviously, after October 7th, that this is an eventuality or a potential event that's going to take place, especially with the collapse of Syria, Bashar al -Assad. So were you surprised at all that it happened in June of this year? Or were you expecting it? Maybe to take a little longer?
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0009
+
+## seg-0010 / 00:05:55-00:06:41 / SPEAKER_01
+
+To be honest with you, I expected the timeline to be much more extended because, you know, for a war to happen, you need to prepare lots of things. You need to have a proper military organization. You need to have buy -in from the military, from the Pentagon. You need buy -in from different political factions. You need to, like, lay the groundwork. And I'm sort of surprised by how abrupt it has been. It's happened before. It's happened far quickly, quick, quick and unexpected. But not only that, but the timeline seems to be much more condensed. I was expecting maybe like a two year run up, but it's entirely possible that by next year, before the midterms, you'll have U.S. ground troops in Iran. So I'm sort of taken aback by how fast things are moving along.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0010
+
+## seg-0011 / 00:06:41-00:07:17 / SPEAKER_00
+
+I watched a video of yours recently, and you talked about how Iran's objective in order for it to have the advantage over the United States is to bait them into a ground war. Obviously, after the Iraq war, that's like the dumbest mistake the United States could make. But you argue that it could still happen. How and why is that the case? If that is like, it's not that, you know, I can't imagine the U.S. doing something against its own interests. Of course it can. But something as catastrophic as putting troops on the ground in Iran, that is very surprising to hear. So how and why do you see that being a possibility?
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0011
+
+## seg-0012 / 00:07:18-00:08:22 / SPEAKER_01
+
+Yeah, so I use game theory analysis. In order to make predictions. So I'm looking at the different actors in the region, Israel, Saudi Arabia, the United States, Iran are the four major actors, and I'm trying to figure out how they benefit as this game progresses. So if United States, then you definitely want to cement control over the Middle East for both trade purposes and for resources, right? Because Iran is basically the center of the world. If you control Iran, you control all global trade. You negate BRICS, you negate Belt and Road, okay? You basically isolate Russia and China. So from a strategic geopolitical perspective, the United States definitely wants control of Iran. But if you're Israel and you're Saudi Arabia, you don't want to become a vassal to the American empire. You don't want to become a proxy. You don't want to lose your sovereignty, especially Israel, because the entire point of the trade is Israel.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0012
+
+## seg-0013 / 00:08:22-00:09:21 / SPEAKER_01
+
+The nation of Israel is to assert Jewish sovereignty, which they believe to be the biblical right. So in order for that to happen, the United States needs to be destroyed. The United States needs to lose a ground war against Iran. So Saudi Arabia and Israel are both heavily invested in seeing a U.S. ground invasion. And if you watch my previous videos, you will know that Saudi Arabia and Israel are politically very strong. In Washington, D.C., they spend a lot of money. They spend a lot of resources. They've co -opted a lot of politicians. Donald Trump has direct line to both Saudi Arabia and Israel through his son -in -law, Derek Kushner. And Donald Trump has always maintained strong relations with Saudi Arabia. Like what was his where was his first foreign trip overseas in the second term? Saudi Arabia, right? So Saudi Arabia has a much more influence in the Trump White House.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0013
+
+## seg-0014 / 00:09:21-00:10:16 / SPEAKER_01
+
+Then we imagine so both Israel and Saudi Arabia want to see a ground war, Iran wants to see a ground war as well. And there are certain steps that Iran can take to slowly provoke a ground war. If Iran at any point were to close off the Strait of Hormuz, then that will compel a ground invasion in order to reopen that Strait of Hormuz. Obviously, if Iran were to close the Strait of Hormuz, that would collapse the entire global economy, right? Southeast Asia depends. It depends on the Middle East. Right. The Middle East exports oil. The Middle East needs to export its oil to be economically viable. So Iran has a series of maneuvers, a series of steps to compel a ground invasion. And the last thing I will say is the United States military has become an imperial bureaucracy. It doesn't really have strategic foresight. It doesn't really do strategic planning anymore. It's very reactive.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0014
+
+## seg-0015 / 00:10:16-00:10:56 / SPEAKER_01
+
+It's very intent on maintaining its hegemony. It doesn't really look forward. And at the end of the day, let's just say the United States loses a ground war against Iran. What are the consequences? Well, the consequence, the major consequences is you have these very unpleasant congressional testimonies in Washington, D.C., where the U.S. military is harangued by congressmen. That's about it. I mean, it's not a big deal if the United States loses a ground war in Iran. But you have these very powerful actors that want to compel a ground war. war and that's why using game theory i think a ground war is more likely than it than it is not
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0015
+
+## seg-0016 / 00:10:57-00:11:11 / SPEAKER_00
+
+so you said that iran wants to draw the us in for a ground war why would they want that why would they not want to avoid the war entirely and survive right um well i mean we have to
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0016
+
+## seg-0017 / 00:11:11-00:12:10 / SPEAKER_01
+
+remember that iran is first and foremost a theocracy they have a religious world view they have an eschatology um they're there for a reason and in the zoroastrian framework there will be a final war between good and evil and in the understanding of things well the united states definitely represents um evil and iran represents good so they want that final conflict it is in their historical religious tradition to want a conflict and to triumph in the end and that's why um persia has been one of the most civilizations in human history i mean they're not just gonna sit back and and and wait wait it out so that's the first thing i will say second thing um i will say is right now iran is being economically strangled by the united states right it can't really afford to wait it out because if it waits it out then a new generation of iranians who have
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0017
+
+## seg-0018 / 00:12:10-00:12:39 / SPEAKER_01
+
+no memory of the revolution the much younger iranians they will probably revolt against um iran the the iranian theocracy so um you know if you wait this out then the united states economic circulation of iran will have its attendant effect so um you basically need to settle this matter before the iowa uh terminate dies so you mentioned the word eschatology
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0018
+
+## seg-0019 / 00:12:39-00:13:38 / SPEAKER_00
+
+i wanted to discuss this a little later but we might as well discuss it now in your recent video uh either you posted it like most recently or a couple of videos ago but you talked about the convergence of these different end -of -times eschatological worldviews. I'll have you describe eschatology to the audience, because I don't think I could do the definition justice. But if I understood you correctly, the idea is that you have these very powerful end -of -times beliefs for these major civilizations, and they're converging on one point. And this point of singularity is basically an all -out war, a World War III doomsday -level type event that could reshape civilization, if not destroy it entirely. And everyone sort of has a vested interest in escalating to that point. Of course, in a contained manner, like you've described Russia, their eschatological beliefs kind of view it as trying to rebirth the Roman Empire by retaking Constantinople or modern -day Istanbul.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0019
+
+## seg-0020 / 00:13:38-00:14:08 / SPEAKER_00
+
+That's very contained. But obviously, that sort of action, even if it is narrow politically on the globe, still fits into a larger framework. It can suck in other powers and create a world war. And then obviously, you talked about Jewish eschatology, etc., etc. Could you briefly elaborate on that to tie that point into what we're discussing now, how Iran, in the Zoroastrian framework, as you described, wants to bait the United States in and potentially escalate to a major war?
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0020
+
+## seg-0021 / 00:14:09-00:15:14 / SPEAKER_01
+
+Right. So eschatology. Eschatology comes from the Greek eschaton, which means the end. So eschatology, literally means the study of the end times, of how the world ends. Eschatology is more commonly used to mean the understanding of how the world might end. And most people understand eschatology as prophecy. They're trying to see how the world might end, what events might compel the end times. But if you see eschatology, how it's implemented in real life, it's more like an action plan. It's more like a strategic plan. on how different religious groups can create the outcome that they want for their different different religious faction and so um what i argue in my videos is that eschatology is a prime mover of geopolitics now a lot of people will say that's incorrect it's empire that uses eschatology in order to advance its own material interests um but i disagree i i i think it's reversed i think that
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0021
+
+## seg-0022 / 00:15:14-00:16:17 / SPEAKER_01
+
+empires come about in order to achieve certain eschatologies and that was true for the british empire and that's also true for the american empire the british empire has something called the christian zionist um eschatology which is trying to provoke the second coming of jesus um so different traditions different nations have their different eschatologies and so what this is important is when you have an eschatology you're to act geopolitically um if you don't have an eschatology like for example china china does not eschatology so for a thousand years china has basically been content to stay within its borders and not interfere geopolitically china has absolutely no geopolitical strategy china has not interested in the world except maybe trading with the world but if it doesn't trigger the world it doesn't really care either so eschatology is important because it drives uh geopolitics and what i argue is that if you look at the different eschatological traditions
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0022
+
+## seg-0023 / 00:16:17-00:17:04 / SPEAKER_01
+
+uh there's at there are certain points in which they all agree in which their eschatologies converge which means that they're working towards similar goals and you have different powerful groups in russia in the united states in britain in israel in iran all working towards the same goal the same geopolitical uh framework then chances are that it will be achieved at at a certain point and one of these major convergence points is a massive world war in both the middle east and anatolia where turkey is based and so that really according to these eschatologies will become the framework the basis for world war iii anatolia and the middle east so when you say uh they'll agree
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0023
+
+## seg-0024 / 00:17:05-00:17:27 / SPEAKER_00
+
+are you referring to you know just using this as an example let's say the jews believe that the messiah will return uh but the muslims believe that the messiah will return uh but the muslims or christians may look at this messiah and say that's the antichrist so we agree with you that you think that that's the messiah but we call that the antichrist and now we're all even though we disagree on the specifics we're all on the same page that we're right reach the end
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0024
+
+## seg-0025 / 00:17:27-00:18:25 / SPEAKER_01
+
+right so so so let me give you a typical example right look at the lines between the jews the extreme jews in israel okay and again this is not the majority of people uh by definition people within eschatologies are religious fanatics okay so this isn't like maybe one percent but because they're the ones who are most motivated the most energetic um they're the ones who are pushing the societies forward um to the detriment obviously okay so so let's look at the example between um judaic eschatology and christian zionist eschatology they both agree that when israel is most threatened in the war of gawk and magog when the world is about to destroy uh israel jesus will return uh that the messiah will come okay so in the eschatology the messiah will enslave the christians in the christian zionist eschatology jesus will return and kill a third of the jews and convert a third of the
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0025
+
+## seg-0026 / 00:18:25-00:18:54 / SPEAKER_01
+
+jews so it's very cynical but they're because like if you think about it this means that they're bitter enemies but they're working towards the same goal which is the end times because they believe that if the war of gawk and magog happens the antichrist comes then their messiah and the messiah could be anyone it could be um the messiah could be anyone it could be um the messiah could be anyone it could be um jesus it could be someone else but the messiah will come and this will signal the coming of heaven onto earth and the beginning of the messianic age this is a bit of an unholy alliance
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0026
+
+## seg-0027 / 00:18:54-00:19:31 / SPEAKER_00
+
+it is a really unholy alliance yes i'll send you a video that i made um after we're done here one of the motivations for october 7th according to abu abeda who's the spokesperson for hamas he said that when the jews imported the five red heifers they considered this as an escalation because they see this as a precursor to destroying the holy mosque so that they can rebuild the third temple and so they it's not the only reason obviously there's the occupation all these different things but it was one of the reasons for them to preemptively carry out the october 7th attack which has basically created the last two years of chaos in the middle east
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0027
+
+## seg-0028 / 00:19:32-00:19:54 / SPEAKER_01
+
+yeah i saw the video by the way it was a great video um the amount of research you did on it was just incredible yeah um so i saw the video and yeah i mean if you bring in the red heifers then like you can basically assume that at a certain point they will destroy the lxf mask how they will do so we don't know i mean but there i assume there are secret plans in motion to accomplish
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0028
+
+## seg-0029 / 00:19:54-00:20:43 / SPEAKER_00
+
+this so that they can build a third temple so i want to pivot now to talk to you about this concept of strategic sequencing so you mentioned earlier how the the united states empire now is like an imperial bureaucracy that it's reacting um it seems like you know the pentagon still has plans but these plans are disrupted maybe by internal forces that have conflicting interests especially if they've been bribed or blackmailed by saudi arabia or israel or any other force so there's this concept called strategic sequencing and i'm going to be doing a video about this it's actually my next video that i'm going to produce and it's been gaining a lot of attention recently so there's this man named awes mitchell he was appointed the assistant secretary of state for european and eurasian affairs during trump's first term so he uh i think he preceded victoria newland and he played a key role in
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0029
+
+## seg-0030 / 00:20:43-00:21:37 / SPEAKER_00
+
+shaping the u.s strategy toward russia and ukraine in the lead -up to the 2022 war his core argument is that the u.s must strategically sequence conflicts with its major adversaries russia iran and china to improve the odds of winning the ultimate goal is to confront china given its overwhelming economic and industrial power but mitchell believes that this sequencing is failing the us is bogged down in ukraine and unable to pivot fully toward iran or china if this continues use the risk of a larger multi -front war possibly even world war iii increases and if that happens the us would have to face all three adversaries simultaneously drastically reducing its chances of victory in short according to mitchell if the us doesn't win or at least freeze the ukraine proxy war soon it won't be able to pivot and will likely be forced to escalate and fight everyone at once so my question to
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0030
+
+## seg-0031 / 00:21:37-00:21:50 / SPEAKER_00
+
+you is do you believe the russia ukraine war and the iran war are related in any way and is china part of the equation yeah um so yeah so i did read the strategic sequencing
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0031
+
+## seg-0032 / 00:21:50-00:22:42 / SPEAKER_01
+
+article in the washington post um and so i think that the problem with the american military with washington dc with with the empire and um as we discussed previously is it's become in bureaucracy and so it doesn't have the flexibility the vision the planning necessary in order to switch directions all right so so so let me elaborate on this currently the u.s military doctrine is shock and all and the idea and this was developed in 2003 uh during the uh iraq war and so what the idea of shock and all is is we're going to throw away conventional warfare we're not going to match troops we're not we're not going to care about logistics we're not going to get popular support we're going to focus on precision we're not going to get the full picture of war we're not going to do it all right it's a good art of war we're only going
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0032
+
+## seg-0033 / 00:22:42-00:23:47 / SPEAKER_01
+
+to be shackled by economy uh guided by special troops we're going to use proxies um and um we're going to use target assassinations and economic warfare okay so that's the idea of shock and all and this has worked extremely well in iraq and libya and syria um and And because of his success, unfortunately, the American military is now wedded to the idea of shock and awe. The problem, though, is that shock and awe is useless against a conventional army like Russia, Iran, and China. And we know because of what's happening in Ukraine. Right now, the Ukrainian military, for the past two, three years, they've been using shock and awe strategy, right? Right? Christian bombing, like targeting bridges in Crimea. They've been going on the offensive, and they've been using a lot of economic warfare, okay? That's entire shock and awe military doctrine of the United States. And it's failed miserably in Ukraine. I mean, the death toll among Ukrainian soldiers is just incredible.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0033
+
+## seg-0034 / 00:23:47-00:24:44 / SPEAKER_01
+
+And wave after wave against Russian defenses has failed. And they refuse to... They refuse to adapt to the battlefield tactics of the Russians. Whereas the Russians have been really nimble and flexible in adapting its strategies against the Ukrainians. So we can see exactly what would happen if the U.S., if NATO were to go on the field against the Russians. The NATO and the United States would use shock and awe thinking like, oh, if we just hit them hard, they'll collapse like a house of cards. Just like Iraq, just like Libya, just like Syria. So the United States has lost capacity. Despite the conventional warfare. And so that's why we're seeing this complete mess in Ukraine. Okay, so that's the U.S. side. So, you know, this strategy sequentially makes sense. But the United States military doesn't have the flexibility to adopt new strategies against its adversaries.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0034
+
+## seg-0035 / 00:24:45-00:25:47 / SPEAKER_01
+
+Next thing I want to talk about is why is this war in Ukraine happening? Now, the conventional wisdom is that Putin is worried about NATO expansionism. That's why he attacked Ukraine. Others say, well, it's because of what are the atrocities that's been happening in Donbass since 2014. You have these Russian speakers who have been, I mean, it's almost like ethnic cleansing what's been happening in the Donbass region in eastern Ukraine. And Putin felt compelled to help his people. I think the real reason why Putin invaded Ukraine is he saw an opportunity. He saw an opportunity. He saw an opportunity to destroy once and for all the American empire. He saw the American empire was overextended. It was weak. It was confused. It has no political leadership. It has no vision for the future. Now it's the time to strike. And so there's no way that Putin would ever agree to a peace deal to Ukraine.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0035
+
+## seg-0036 / 00:25:47-00:26:38 / SPEAKER_01
+
+Because the idea of strategic sequencing is let's pause this war in Ukraine. Go after Iran. Then go after China. Then come back. Circle back and then go after Putin. OK, that's the idea of strategic sequencing. It doesn't say it aloud, but that's the plan. So why would Putin ever agree to say, let's pause the warfare in Ukraine so the Americans can focus on Iran and then focus on China. Right. And then we'll wait for us to, well, then we'll wait our turn. No, for Putin, it has to be, he has to overextend the American empire. So what's going to happen is Putin is going to keep on fighting in Ukraine. There's no way a peace deal will work. Whatever happened, I think Putin's target, long term target is Odessa, because if he attacks Odessa, the NATO will be compelled to come in to defend Odessa. Also, what we'll see is Russia will shore up Iran.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0036
+
+## seg-0037 / 00:26:40-00:27:39 / SPEAKER_01
+
+I think that Iran has shown tremendous strategic restraint. Right. The Israelis, the Americans keep on attacking Iran. But the response from Iran has been really tippet. I think Iran is being. Influenced by Putin and the Russians. Putin is setting things up so that when the time is appropriate, then Iran and Russia will strike. And at that point, America will be too off balance to be able to fight back. So I think Putin has this grand vision of what World War Three looks like, which involves Iran and Russia. And if this fits into orthodox and Muslim and Christian eschatology. Because again, World War Three is what? Anatolia and the Middle East. Right? So Anatolia was north of Anatolia, the Black Sea. And what's north of the Black Sea? Odessa. Okay. So it's this entire region, which we come World War Three.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0037
+
+## seg-0038 / 00:27:40-00:28:18 / SPEAKER_00
+
+This is interesting. My understanding is that every simulation of a conventional war between NATO and Russia leads to nuclear war, every single simulation that every war game that Pentagon has done at the end of it at some point it escalates to nuclear war because some one side feels compelled to either uh equalize the situation or finish it off entirely so very scary but i agree with you i think that the target is odessa in order to landlock ukraine and gut it because you won't be able to occupy and keep it completely but if you can just landlock it then it's a rump state
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0038
+
+## seg-0039 / 00:28:18-00:29:20 / SPEAKER_01
+
+forever exactly yeah so so let me give you a simulation where there's no nuclear war okay the simulation is this russia encircles odessa nato is forced to protect odessa and resupply odessa um and the russians they don't go all in um it's it i mean it's a very light siege but nato is drawn in they send in troops this forces political upheaval in europe right because the british the french the germans the romanians the polish everyone in it was like why are we doing this what stake do we have in odessa um i mean let the ukrainians let the americans solve this and if you look at the political situation in europe right now it's extremely fragile you know all this immigration uh economic collapse like there are multiple factors so europe is now like right for civil war and so if putin is able to lay siege to odessa compel nato to invest resources
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0039
+
+## seg-0040 / 00:29:20-00:29:59 / SPEAKER_01
+
+which would be politically disinvented and then you have new governments coming to place that would be more pro -russian they would want a replacement with russia because listen before this war europe and russia were getting along great russia was providing cheap gas to germany which fueled the german economy which increased standard livings for for europeans europeans are addicted to cheap russian oil so there's a lot of people who want to go back to the state of affairs before 2014. so um so so i think that's one scenario that would avoid a nuclear war um and i think that's a scenario that putin wants
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0040
+
+## seg-0041 / 00:30:00-00:30:56 / SPEAKER_00
+
+very interesting idea i want to ask you now um earlier we talked before this interview about how you believe china and the us will have a rapprochement because they view each other as necessary for each other's economy the us needs to consume china needs to produce it's a symbiotic relationship but in the same way that you talked about how russia understands that you know we can't make peace with ukraine and give the us a chance to pause because their objective is to strategically sequence iran china they come back to russia does china not understand that uh the us views them as the near peer competitor and will ultimately want to destroy them through thucydides is our dilemma right uh the us sees this rising empire and either destroys it uh or it allows itself to be surpassed by it so in your argument how and why in a view it as part of their interests
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0041
+
+## seg-0042 / 00:30:56-00:31:00 / SPEAKER_00
+
+to continue to feed the us empire uh and have this
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0042
+
+## seg-0043 / 00:31:00-00:32:03 / SPEAKER_01
+
+economic relationship with them great question okay yeah so um 1997 actually dugan who is the foremost geopolitical um geo strategist in russia he's basically put in his brain um he has this master plan for how russia can conquer the eurasian continent okay he wrote this book called you rate um foundations of your politics and in the book um he lays out how russia alliances with with germany with uh japan with iran and he lists three major enemies of the russian plan for uh for global dominance right uh you have the anglo -american empire which is a dominant empire you have the turks uh turkey and they have china so why is it that in dugan's perception china is the enemy well there are three reasons okay the first reason is that um whoever the russian continent controls trade right that's the entire point of creating this mass um um coalition mass confederation in eurasia to
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0043
+
+## seg-0044 / 00:32:03-00:32:57 / SPEAKER_01
+
+facilitate land -based trade as opposed to sea -based trade because the anglo -american empire controls sea -based trade so if you're able to create land -based trade through railways then you negate the anglo -american empire you basically starve the american empire to to death but then the question then is who controls this treatment network right does russia wants to control it but so does china so what's your point politically these are competitors that's the first problem second problem is that as the chinese economy grows as the population grows china needs more space it needs more resources china is now forced to expand out into central asia right kazakhstan for example that comes that that's the traditional russian sphere of influence right so in terms of resources china needs to go into central asia which comes which forces them direct conflict with the russians and kazakhstan is really in case study because for about 20 30
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0044
+
+## seg-0045 / 00:32:57-00:33:59 / SPEAKER_01
+
+years china invested billions of dollars into kazakhstan in order to co -opt the local elite um then the russians backed another political faction which overthrew that um um political elite and so all that resources that china invested in kazakhstan has been negated okay so uh that's the second reason why the third reason this is the most important reason is this you think about the economy of china it is based entirely on cheap labor right so if china wants to export its cheap labor working an exporter too not russia because because russia also has resources energy right i mean so so the only place where china can export its cheap labor to is america which wants cheap labor so so economically um the united states and china have a much more symbiotic relationship than china and russia russia can give china cheap gas but then what does china do with the cheap gas right china still
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0045
+
+## seg-0046 / 00:33:59-00:34:46 / SPEAKER_01
+
+needs to export that cheap labor somewhere i mean like like it's saying saudi arabia it started arabia better off with russia or with the united states obviously united states because russia doesn't need cheap oil from saudi arabia right so you can think of cheap labor as the equivalent of cheap cheap um cheap oil and and that's why in alexander dugan's uh formulation china and russia are geopolitical enemies in fact china has much more to fear from russia than the united states and so as putin as russia rises in global dominance china is now sort of compelled to pivot back to the united states okay so that's that's the grand um um idea right because everyone's saying that putin is a junior partner to china
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0046
+
+## seg-0047 / 00:34:46-00:35:53 / SPEAKER_00
+
+putin doesn't think so russia doesn't think so yeah very interesting so you kind of touched on central asia control of world trade so this kind of ties into mackinder's theory of the world island right um what i what i think is both russia and china could potentially achieve their goals without competition but collaboration and so if china needs those resources and russia needs access to greater trade then if they form some sort of alliance and right now they're not officially allies but they essentially operate as such they just russia and china alone cover like the majority of the world island it's like without even firing a single bullet they've inched towards you know this victory according to george uh to mackinder um he he who controls the world island controls the world essentially and so i think it's an interesting possibility but in your mind is there the potential uh for russia and china to
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0047
+
+## seg-0048 / 00:35:53-00:35:57 / SPEAKER_00
+
+achieve their goals by simply collaborating together that's a great point okay
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0048
+
+## seg-0049 / 00:35:58-00:37:10 / SPEAKER_01
+
+let's talk about what happened in 2018 um really from the perspective of russia's crimes against the world thank you more unfortunately for our very short time everybody lost their focus after yesterday's interview we just finished parragut called hua威 за atheist country and it's always been an atheist country so the Chinese people are extremely materialistic uh people and that's why they're always looking to the United States okay the country that Chinese admire most in the world is the United States so there's a religion okay if you just split the world up in terms in religious framework China and the United States go well together where and then everyone else um the Orthodox the Muslim the Catholic societies go well together as well and that's Dugan's understanding of of geopolitics um geopolitics has to be framed by religion what drives people is religion not economic interests if it was purely economic interest the world would be at
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0049
+
+## seg-0050 / 00:37:10-00:37:15 / SPEAKER_01
+
+peace right now very interesting let me ask you this
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0050
+
+## seg-0051 / 00:37:15-00:38:12 / SPEAKER_00
+
+if I can how does artificial intelligence play into all of this you talked about the export of cheap labor um my understanding is that AI will produce not just automated software but eventually automation through hardware right machine robots performing a lot of this labor and so for example when people critique China and they say oh look at the uh the aging population you have fewer young people coming in how can they work the economy and care for the elderly at the same time this is impossible well in my mind I always think you have AI and automation coming in that can alleviate and offset some of that reduction in demographics that can't handle labor well now that labor is automated so that's just one example of how automation and AI could either hurt or help a civilization a society and its economy uh how does AI factor into this equation
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0051
+
+## seg-0052 / 00:38:13-00:39:22 / SPEAKER_01
+
+okay sure so um a few years ago 2022 I believe uh Beijing hosted the Winter Olympics and uh it became a national showcase of China's AI technology so what's happening is that at restaurants you have these drones and robots delivering food to customers and to athletes what people don't talk about is that behind every drone were two Chinese workers making sure the drones were operating effectively another way of saying this is that the Chinese cultural framework Chinese politics Chinese economy is based entirely on cheap labor um these things are intertwined together and so um if China were to move towards AI um even if it were feasible and like I actually don't think it's feasible but even if it were feasible it would cause tremendous political economic social disruption in China because you have these millions and millions of unemployed workers where do they go right the the entire basis of the Communist Party is
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0052
+
+## seg-0053 / 00:39:22-00:40:22 / SPEAKER_01
+
+jobs for everyone okay maybe these shops suck uh maybe they don't they don't pay very well but at least you have a job okay so so basically basically the idea of the iron rice bowl so that's a basis of the Communist Party legitimacy which is basically the basis of all of all Chinese empires basically making sure people people get get get bad so um AI would would involve just a tremendous overhaul of Chinese cultural values and assumptions that I don't believe is possible that's the first thing second thing is you look at AI and you look at the technology it is extremely environmentally destructive why is that that Google Amazon build their data centers near lakes because it consumes so much water and so much electricity China does not have resources China has been poor because of its limited resources China imports one -third of its food from the rest of the world so the
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0053
+
+## seg-0054 / 00:40:22-00:41:22 / SPEAKER_01
+
+idea that China is going to invest all these internal resources in developing AI it's going to cost them no strain on um on on on the environment okay and the third problem and this is the most important problem is if you look at history okay that's why pretty history is so important if you look at history whenever you have monopolies okay and the AI is is a monopoly right because it's monopolies like that that do AI in these different nations right um you have rent -seeking behavior which basically means that the people in these countries they're not invested in creating this cutting -edge technology that transforms the world for the better they're just interested in being pleased and doing this Wizard of Oz nonsense that tricks people into believing that this technology is useful when it's not it's just not like like you cannot find an AI company that's that's profitable open AI chat TBD
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0054
+
+## seg-0055 / 00:41:22-00:41:56 / SPEAKER_01
+
+they lose money on every subscriber okay so so this is the this is like one of the big open secrets about artificial intelligence this it's not product profitable and the technology is not transformative in the way that we think it is but it is in a memory destructive it is socially destructive um and um the people in it are like priests you know they're like like if you just listen to Sam Altman he it's just complete BS what he says the guy clearly has no um technology background he's not an engineer by training he like like the guy's a salesman by training
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0055
+
+## seg-0056 / 00:41:57-00:42:22 / SPEAKER_00
+
+so if that's the case um it isn't uh very profitable why are we seeing so much investment in it is it because they want to develop the models that can help them um produce technological Advancements that will advance weaponry like is this a race to uh the best model that can develop the best most advanced fighter jets you know jumping from a fifth or sixth generation to a tenth generation what is
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0056
+
+## seg-0057 / 00:42:22-00:43:16 / SPEAKER_01
+
+the point if it's not very profitable yeah I I think I think the reason is actually much more interesting the reason is this because these past 20 years capital has been monopolized by a few corporations they have to put their money somewhere to guarantee returns for the investors AI is is is is what sells it's the hype okay so maybe in five years time this entire industry goes buzz because um it's not profitable but that's five years away okay so so so so we've reached really the end stage of capitalism right it's monopoly capitalism people have control all the money and the money has to go somewhere so it goes it goes into like these big projects that cost trillions of dollars with a hope that it will transform society and remake the economy but if it doesn't it's not their problem it's investors problem like that's the world we're living in now there's just
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0057
+
+## seg-0058 / 00:43:16-00:43:27 / SPEAKER_01
+
+actually no place to put all this money uh that guarantees the return that investors want because so much capital has been um consolidated into so
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0058
+
+## seg-0059 / 00:43:27-00:43:59 / SPEAKER_00
+
+so few hands if I can pivot uh for this one last question if we can go back to uh the Iran war Russia Ukraine I mean those are two big questions I'll try to summarize it or simplify it in your view what do the next five years look like so does China go for Taiwan uh do they try to invade Iran in the next couple years does the Russia Ukraine war come to a pause or does Russia you know take
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0059
+
+## seg-0060 / 00:43:59-00:44:29 / SPEAKER_01
+
+odessa in the next few years okay so if china invades taiwan then everything i believe about the world is completely wrong okay you should just treat me as an idiot okay because i do not believe under any circumstances china will invade taiwan the chinese communist party is first and foremost concerned about regime stability um the chinese economy is going through very hard times and there's no optimistic outlook um so i so can you elaborate on why because for the rest of us
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0060
+
+## seg-0061 / 00:44:29-00:44:38 / SPEAKER_00
+
+outside we see all these videos of china looking amazing you know led buildings why are you describing the chinese economy as going through a hard time
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0061
+
+## seg-0062 / 00:44:39-00:45:32 / SPEAKER_01
+
+okay so you look at youtube videos okay obviously you see all these skyscrapers and futuristic cities and high -speed rail and uh self -driving cars and robots it's all very impressive okay but let me tell you how the chinese economy works and i'm gonna take some time okay but like once you understand this story this joke then you understand how the chinese economy works and story goes like this so um let's go to 2000 uh early 2000s and beijing has won the um the bid to host the summer olympics okay now the beijing government is needs to build up all these new new skyscrapers to host the olympics so it's taking bits and three companies approach uh the beijing government okay the first company is a singapore government uh and they say we want a billion dollars to build the stadium and uh that's a that's a really good deal the americans say we want
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0062
+
+## seg-0063 / 00:45:32-00:46:28 / SPEAKER_01
+
+two billion dollars because we use the best materials we have the best technology but then the third company is a local beijing company and they say we want three billion dollars and the beijing government is shocked like how do you justify this this bid because the singaporeans want one billion the americans want two billion and you want three billion and then the local beijing company said it's very simple math okay here's the math one billion for you one billion for me and one billion for the singaporeans to go build that stadium so that that's that that's the basis for the entire chinese economy that's why you see all these skyscrapers being built in china because it gives the corrupt officials a pretext to steal from the nation everyone sees the skyscrapers no one sees the debt in the skyscrapers like just just look at any chinese bank their balance sheets are off the
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0063
+
+## seg-0064 / 00:46:28-00:46:38 / SPEAKER_00
+
+wall the amount of debt that each bank has is just crazy and who are they borrowing from the central
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0064
+
+## seg-0065 / 00:46:38-00:47:02 / SPEAKER_01
+
+government the imf who are they borrowing from oh um yeah so they're they're borrowing from the future right they're boring from the nation um so that they can take this money um put it overseas oneself and then buy and even say that we here in china is our current state so they're not going to be reliant on twenty percent of our num internetá APIs in their currency now we're
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0065
+
+## seg-0066 / 00:47:02-00:47:04 / SPEAKER_00
+
+actually we already have amnesty sand i mean like just sit in the office what are you gonna do
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0066
+
+## seg-0067 / 00:47:04-00:48:30 / SPEAKER_01
+
+if you get out Scrum dept. and if you don't really care about getting a 50 % elites are happy with the way things are, because obviously the people are not a challenge to your authority. It's the local elites that could rebel against you. So by creating the system in which local elites have many ways to be corrupt, it basically appeases them. So that's the idea of regime stability. So corruption is not a bug of the system. It's a feature of the system. It's by nationalizing corruption, it allows for regime stability. That's the first point. Second point is people are generally impressed by these skyscrapers, right? So the people feel confident. They're like, China has arisen. China has stood up. We're so powerful. So there are lots of political benefits in building up these skyscrapers. But again, the long -term cost to the environment. To the financial system. To the economy. I mean, it'll be devastating for China.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0067
+
+## seg-0068 / 00:48:31-00:48:32 / SPEAKER_01
+
+So China cannot afford to fight a war.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0068
+
+## seg-0069 / 00:48:33-00:48:48 / SPEAKER_00
+
+Okay. So for that reason, you're saying that there's no way that China would risk putting pressure on this fragile system to go to war with Taiwan, even though they're rapidly building up their military strength. Is that a bluff in your view?
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0069
+
+## seg-0070 / 00:48:49-00:49:35 / SPEAKER_01
+
+I mean, like, like, ultimately, those guys. The skyscrapers are meant to impress the people of China and the world. The Chinese military is also meant to impress the people of China and the world. And also, I mean, like, if you're China, why would you go to war when you just bribe Taiwanese politicians? I mean, like, that's just the Chinese system, right, of geopolitics. You know, we won't go to war with you, but we'll bribe your local elite in order to appropriate your resources. That's that's the entire mentality of the Belt and Road Initiative. So so Chinese don't go to war. I mean, I mean, just look like historically speaking, Chinese have initiated very few wars. Most wars have been defensive.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0070
+
+## seg-0071 / 00:49:38-00:49:45 / SPEAKER_00
+
+So in your view, then China won't invade Taiwan. What about the situation in Russia and Iran? What do you think happens next?
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0071
+
+## seg-0072 / 00:49:45-00:50:48 / SPEAKER_01
+
+Well, as I said in my videos, I don't think Southeast Asia matters. But I mean, but I mean, if you look at the Middle East, Anatolia, the Middle East, it's World War Three. And so and so the sequencing events that I see is and I could get the sequencing wrong. OK, but I see these events happening. So I do believe that the United States and Iran, the conflict will escalate. And it's possible that Israel is the one driving this escalation. But eventually, what will happen is Iran will close off the Strait of Hormuz. Eventually, the Americans will send in ground troops to occupy the Strait of Hormuz and attempt regime change. Eventually, Russia will attempt to take Odessa. Eventually, NATO will militarize and send in troops to defend Odessa. It will be NATO's last stand. This will cause political upheaval, civil wars in in Europe. So that's what I see happening. And again, it's all
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0072
+
+## seg-0073 / 00:50:48-00:51:48 / SPEAKER_01
+
+interrelated because these eschatology, believe that there will be a reconciliation between the Orthodox world led by Putin and the Islamic world. And one thing that you mentioned in your videos, and I think like this will surprise everyone is they will destroy the al -Aqsaq mosque in Jerusalem. It will happen. And it's gonna shock everyone because it's like, why would you do this? And if you look at things purely from a geopolitical, economic, materialistic perspective, you won't understand why. And that's why I've been focusing so much on eschatology because it helps you understand why this will happen. So again, look, I'm making these predictions. And I will be perfectly happy if none of these predictions happen, because I have three kids and I want them to grow up in a safe world. I mean, I don't want wars, but I would be pretty happy to come back on your show if none of these things happen and say, I'm an idiot and no one should ever take anything I say.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0073
+
+## seg-0074 / 00:51:49-00:52:51 / SPEAKER_01
+
+… 07.30 don't believe anything i say anymore because my entire understanding of history geopolitics is wrong but if i am correct then i've given you a model an ethical model to understand why things are happening and hopefully we can together um better shape the course of events that i want to unfold okay how uh excuse me how okay um so if my analytical model is correct then the world is headed towards war chaos collapse and in order for us to rebuild the world first of all we have to imagine a better world what would a better world look like and i think a world in which we recognize our humanity when we ignore these religious racial uh divisions and just say that we're all human and we all share a similar history and that's the first step second step is
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0074
+
+## seg-0075 / 00:52:51-00:53:43 / SPEAKER_01
+
+listen we now have these tools predictive history game theory that allow us to better shape the world around us so let's make sure that we're aware of these tools let's make sure our kids are learning these tools so that we can uh um uh build a better world and the third thing i think this is the most important is let's tell the truth all right let's tell the truth about what's happening let's tell the truth about what will happen let's not gaslight other people let's not hide our heads in the sand what's happening in israel in gaza is atrocious let's just admit why it's happening it's happening because of the empire okay it's happening because of the greed selfishness materialism of the empire let's let's omit this let's be truthful to ourselves and let's just truthful to our children. And that's the least we can do for our children.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0075
+
+## seg-0076 / 00:53:45-00:54:40 / SPEAKER_00
+
+Very well said. I'm sorry to take up so much more of your time. I want to ask one last question if I can. Sure. So it just came to me while you were describing the greed or the corruption embedded in the system of the CCP in China. China is atheist as you describe it, but is there a way in which the communist fight against capitalism, late stage capitalism, trying to bring about this end of this system of capitalism, which could be a metaphorical end of times or end of the world type event, can that form an eschatological or form of religious belief, the idea that we need to create a more communist vision for the world?
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0076
+
+## seg-0077 / 00:54:40-00:55:23 / SPEAKER_01
+
+Yeah. So that's a great question. And you're right in that in communism, there is embedded an eschatology. And Mao Zedong during the Cultural Revolution, he was the one who tried to bring about this eschatology. And right now, I mean, no one talks about the Cultural Revolution. People consider the Cultural Revolution to be the worst possible fate for China. So there's this negation of the communist eschatology. There's also a negation of communism. And what's left is none of the religion, none of the aspirations, none of the hope, the faith, what's left is pure materialism. And the idea is that, hey, you're making money and you're buying stuff, you should be happy.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0077
+
+## seg-0078 / 00:55:23-00:55:46 / SPEAKER_00
+
+Stop complaining. Very interesting. All right, Professor Jang, thank you so much for spending time with us today. It was a pleasure. We hope we can have you back on soon. If you could quickly just share with our audience, obviously, I'm going to list your YouTube channel, they can see it here on the screen now, and they'll be able to subscribe. But, is there any other way that they can follow your work or support your work even?
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0078
+
+## seg-0079 / 00:55:47-00:56:30 / SPEAKER_01
+
+Okay. Well, thank you so much for having me. It's been wonderful. I mean, I really enjoyed this conversation. You have a wonderful mind. I mean, it's very broad. It's very deep. So I really enjoyed this conversation. So I would love to come back whenever you want to have me. So if you want to follow my work, best place is my YouTube channel where I'm posting my videos. My Twitter account, and hopefully you can see in the description, is at XueQinjiang. I'm on X Twitter and I post there a lot. So these are the two places where you can basically contact me. And I love engaging with my audience. So please feel free to reach out.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0079
+
+## seg-0080 / 00:56:30-00:56:42 / SPEAKER_00
+
+And I think you mentioned that you're going to be creating a whole course or curriculum. Is it going to be a digital university that people can subscribe to, or is it just they watch your videos in sequence? Right.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0080
+
+## seg-0081 / 00:56:43-00:57:41 / SPEAKER_01
+
+Yeah. So this YouTube thing, it's new. And I really didn't expect this to happen. Literally, what happened was on June 14, I got on a plane to take my kids back to Toronto, Canada to see their grandparents. And then when I got off the plane, I was famous. And so I was not prepared for how enthusiastic the response has been to my YouTube video. But my full -time job is as an educator. I teach. I teach high school students in China. And what I do is I upload the courses to YouTube. So in the fall semester, I'll be teaching a course on secret history of the world. So I'll be talking about the convergence of intelligence and religion and how this nexus shapes world history. So I'll be going through the entire history of humanity through that lens. So it'll be a really fun course. It'll be new. So definitely check it out. And then in the spring, I'll be teaching two new courses.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0081
+
+## seg-0082 / 00:57:41-00:58:15 / SPEAKER_01
+
+One is on the great books where I'll be introducing to a general audience all the great classical works of human literature. And I'll be teaching game theory analysis so that you can learn how to see the world, how to think like I do. And hopefully, that will help you better understand the world. So these are three new courses that are coming up. They'll all be on YouTube. It's all free. You can subscribe and enjoy for free. But in the future, I do hope to set up some internet courses for a more mature, more sophisticated audience. But that's in the future.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0082
+
+## seg-0083 / 00:58:16-00:58:20 / SPEAKER_00
+
+Wonderful. All right. Thank you again, Professor. We'll definitely have you back on soon.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0083
+
+## seg-0084 / 00:58:20-00:58:21 / SPEAKER_01
+
+Great. Thanks so much.
+
+Ref: video:interview-rhyf2eedfza@transcript:v1#seg-0084
