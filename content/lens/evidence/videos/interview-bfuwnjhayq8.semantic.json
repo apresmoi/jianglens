@@ -1,0 +1,1481 @@
+{
+  "id": "evidence:semanticvideo-interview-bfuwnjhayq8:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-bfuwnjhayq8",
+  "source_id": "video:interview-bfuwnjhayq8",
+  "source_title": "China vs USA: A NEW World Order | Professor Jiang",
+  "source_url": "https://www.youtube.com/watch?v=BFuwNjHaYq8",
+  "source_date": "2025-09-01",
+  "date_precision": "day",
+  "transcript_id": "video:interview-bfuwnjhayq8@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-bfuwnjhayq8/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-bfuwnjhayq8/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-bfuwnjhayq8/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-bfuwnjhayq8/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-bfuwnjhayq8/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-bfuwnjhayq8/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-bfuwnjhayq8/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-bfuwnjhayq8/packet-0008.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-bfuwnjhayq8/source.yaml",
+    "transcript_path": "content/sources/videos/interview-bfuwnjhayq8/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 8,
+    "interactions": 43,
+    "speaker_notes": 2,
+    "claims": 40,
+    "signature_moments": 20,
+    "predictions": 8,
+    "models": 8,
+    "glossary_terms": 15,
+    "chronology_notes": 8,
+    "uncertainty_notes": 4
+  },
+  "first_refs": [
+    "video:interview-bfuwnjhayq8@transcript:v1#seg-0004",
+    "video:interview-bfuwnjhayq8@transcript:v1#seg-0005",
+    "video:interview-bfuwnjhayq8@transcript:v1#seg-0007",
+    "video:interview-bfuwnjhayq8@transcript:v1#seg-0009",
+    "video:interview-bfuwnjhayq8@transcript:v1#seg-0011",
+    "video:interview-bfuwnjhayq8@transcript:v1#seg-0012",
+    "video:interview-bfuwnjhayq8@transcript:v1#seg-0014",
+    "video:interview-bfuwnjhayq8@transcript:v1#seg-0016"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0001",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0002",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0003"
+      ],
+      "kind": "question",
+      "summary": "The host frames the Tianjin summit as a possible world-order turning point, introduces Jiang, and asks what Predictive History is trying to do.",
+      "speaker_attribution": "Host Kai, with Jiang briefly thanking him inside seg-0002",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0004",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0005"
+      ],
+      "kind": "answer",
+      "summary": "Jiang defines Predictive History as a project that connects the past, explains the present, and predicts the future so history becomes an experimentally tested model.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0006"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to apply that framework to the Tianjin summit in broad terms.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0007",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang contrasts U.S. unipolar hegemony with a Chinese multipolar institutional approach, and the host presses how that claim fits unfriendly actors like Russia, Iran, and Pakistan.",
+      "speaker_attribution": "Jiang answer followed by host challenge",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0009"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says America organizes geopolitics ideologically while China tries to suspend ideology and cooperate through multilateral trade.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0010"
+      ],
+      "kind": "question",
+      "summary": "The host challenges whether China's trade-first stance just reflects the advantage of already being the strongest partner.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0011",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0012"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues the rules-based order extracts developing-world wealth for the West, while China offers infrastructure and greater ownership to poorer states.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0013"
+      ],
+      "kind": "question",
+      "summary": "The host asks how Cold War mentality might be overcome and what the Chinese attitude toward the West actually is.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0014"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says most Chinese admire the West for creativity, technology, and benevolent image, though recent U.S. conflicts have damaged that soft power.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0015"
+      ],
+      "kind": "question",
+      "summary": "The host pivots to the summit's economic implications and asks for the main financial takeaway.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says sanctions on Russia discredited Western finance and gave China an opening to build sovereign-safe alternatives to SWIFT and the dollar system.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0017"
+      ],
+      "kind": "answer",
+      "summary": "Jiang continues the financial-order argument by promising that China would not steal investor assets and would build an alternative to SWIFT.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0018"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether an SCO development bank could challenge the IMF and World Bank and institutionalize what China has already been doing abroad.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0019"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says China has long wanted a less political, more multilateral alternative to the IMF and World Bank, which he treats as arms of U.S. foreign policy.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0020"
+      ],
+      "kind": "question",
+      "summary": "The host challenges whether China would also use these institutions politically to secure resources and extend influence.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0021"
+      ],
+      "kind": "answer",
+      "summary": "Jiang concedes every great power uses institutions for national interest, but argues China's newcomer status forces it toward consensus and more win-win arrangements.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0022"
+      ],
+      "kind": "question",
+      "summary": "The host asks what to monitor over the next five to ten years if one wants to understand the SCO's impact on markets.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0023",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang points to Belt and Road trade networks, alternatives to SWIFT and the dollar, and Gulf energy ties as the real friction points with U.S. hegemony.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0025"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether China wants the renminbi, a basket of currencies, or some BRICS-style unit to displace the dollar.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0026",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0027"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Chinese policymakers are realistic: the dollar is too entrenched, so the plausible strategy is a basket of currencies that complements and competes with it.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0028"
+      ],
+      "kind": "question",
+      "summary": "The host asks how to interpret China's efforts to build financial and gold-linked infrastructure with Saudi Arabia.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0029",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0030"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Saudi Arabia is more fragile than outsiders think, and China wants tighter ties partly to secure future oil supply amid regional volatility.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0031"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether China would ever go so far as to back Iran militarily.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0032"
+      ],
+      "kind": "answer",
+      "summary": "Jiang rejects the idea of Chinese ground troops abroad and instead casts China as a mediator whose power lies in keeping the peace.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0033"
+      ],
+      "kind": "answer",
+      "summary": "Jiang extends his Middle East answer by saying China would remain neutral and mediate if a U.S.-Iran war broke out, while Russia would more likely protect Iran.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0034"
+      ],
+      "kind": "question",
+      "summary": "The host asks why Russia would float China as a security guarantor for Iran if China is supposedly unwilling to play that role.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0035"
+      ],
+      "kind": "answer",
+      "summary": "Jiang responds that geopolitics has no fixed lines, pointing to Russia's North Korea pact as evidence that every state keeps multiple options open.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0036"
+      ],
+      "kind": "question",
+      "summary": "The host asks about the China-India relationship.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0037",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0038"
+      ],
+      "kind": "answer",
+      "summary": "Jiang calls China-India relations deeply tense because of the border war and because long-term water control around Tibet threatens India existentially.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0039"
+      ],
+      "kind": "question",
+      "summary": "The host asks whether India is effectively a Trojan horse inside BRICS because it plays both sides with the West and with China.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says all states play both sides and then adds the sharper claim that Russia-China tensions may ultimately exceed China-U.S. tensions because Russia and China share a border and Central Asian ambitions.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0041"
+      ],
+      "kind": "question",
+      "summary": "The host asks for the true state of China's economy amid mixed signals about manufacturing strength and deflation.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0042",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0043"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says China is too regionally uneven for simple judgments, but consumer weakness and deflationary pressure coexist with a state-managed system that still has policy room.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0044"
+      ],
+      "kind": "question",
+      "summary": "The host turns to the U.S.-China tariff conflict and asks whether there is any win-win outcome.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0045",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0047"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the tariff war reflects disagreement over who should carry the next global rescue; he argues China saved the world in 2008, now resists another debt binge, and may still compromise through education-linked consumption.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0048"
+      ],
+      "kind": "question",
+      "summary": "The host asks what an investor should infer over the next six months if a tariff deal stabilizes the dollar.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0049"
+      ],
+      "kind": "answer",
+      "summary": "Jiang declines investment advice but predicts the dollar remains stable and that a surprising U.S.-China rapprochement is coming soon.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0050"
+      ],
+      "kind": "question",
+      "summary": "The host asks for Jiang's view on Taiwan after noting the issue seems oddly peripheral to current U.S.-China tensions.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0051",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0053"
+      ],
+      "kind": "answer",
+      "summary": "Jiang emphatically predicts China will not invade Taiwan and says Taiwan fear is Pentagon-driven rather than a real live topic in either China or Taiwan.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0052"
+      ],
+      "kind": "exchange",
+      "summary": "The host partially confirms Jiang's point by saying Taiwan barely surfaced in his own research.",
+      "speaker_attribution": "Host Kai response",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0054",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "The interview winds down with the host inviting Jiang back in six months to test his predictions and asking where viewers can find his work.",
+      "speaker_attribution": "Host closeout, with Jiang joking in seg-0055",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0057"
+      ],
+      "kind": "answer",
+      "summary": "Jiang tells viewers to find him on YouTube under Predictive History and from there follow links to his Substack.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0058"
+      ],
+      "kind": "monologue",
+      "summary": "The host closes the episode, praises the perspective shift, and asks viewers to comment, like, and subscribe.",
+      "speaker_attribution": "Host outro",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0002",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0003"
+      ],
+      "note": "The host question and Jiang's brief thanks are collapsed together by ASR before Jiang's substantive answer begins in seg-0004.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0029",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0030"
+      ],
+      "note": "The Saudi Arabia answer repeats phrases because of ASR or transcript duplication, but the main argument is still that Saudi fragility and oil dependence push China toward tighter ties.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says usable history must connect the past into a coherent human story, explain the present, and predict the future.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Method statement given on 2025-09-01.",
+      "topic_tags": [
+        "Predictive History",
+        "historical method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues assumptions and values generate a theoretical framework that can be tested by whether its future predictions prove accurate.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0004",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Method statement given on 2025-09-01.",
+      "topic_tags": [
+        "prediction",
+        "model validation",
+        "historical theory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Tianjin summit reveals a disparity between a U.S. strategy of preserving unipolar hegemony and a Chinese strategy of multipolar institutional consensus.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Current geopolitical diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "United States",
+        "China",
+        "SCO",
+        "world order"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He characterizes the United States as projecting military might while China presents itself as organizing economic cooperation so all parties benefit.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Current comparison on 2025-09-01.",
+      "topic_tags": [
+        "military power",
+        "economic cooperation",
+        "multipolarity"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the American geopolitical style divides the world into morally good and bad regimes according to neoliberal commitments, while China tries to bracket ideology and trade with everyone.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Current world-order diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "United States",
+        "China",
+        "ideology",
+        "trade"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues the U.S.-led rules-based order has siphoned cheap resources and capital from developing countries into Western economies while co-opting local elites.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Retrospective diagnosis covering the last few decades.",
+      "topic_tags": [
+        "rules-based order",
+        "developing world",
+        "capital flight"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang presents Chinese infrastructure building in Africa and South America as a fairer model that gives developing states more ownership over development.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0011",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Current policy description on 2025-09-01.",
+      "topic_tags": [
+        "infrastructure",
+        "Africa",
+        "South America",
+        "development"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says most Chinese families still see the West as the place to learn English, science, technology, innovation, and creativity.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Current social diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "China",
+        "West",
+        "soft power",
+        "education"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says U.S. sanctions on Russia, including freezing roughly $300 billion in assets and cutting Russia off from SWIFT, discredited the Western financial system for non-Western investors.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Post-Ukraine-war diagnosis stated on 2025-09-01.",
+      "topic_tags": [
+        "Russia sanctions",
+        "SWIFT",
+        "financial order"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues the sanctions opening gives China a chance to build a financial model that protects the sovereignty of assets and competes with Western infrastructure.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Current strategic opportunity on 2025-09-01.",
+      "topic_tags": [
+        "China",
+        "asset sovereignty",
+        "financial alternatives"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China seeks a financial system independent of the IMF and World Bank because those institutions function as arms of American foreign policy from a Chinese point of view.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Current institutional diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "IMF",
+        "World Bank",
+        "American foreign policy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues those Western institutions open developing-country markets so their assets can be sold cheaply to the West.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Retrospective diagnosis of the postwar financial order.",
+      "topic_tags": [
+        "developing world",
+        "asset extraction",
+        "U.S. order"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang openly acknowledges that any nation controlling multilateral organizations will use them to advance national interests.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "General geopolitical principle stated on 2025-09-01.",
+      "topic_tags": [
+        "geopolitics",
+        "institutions",
+        "national interest"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says America's long tenure as top dog since Bretton Woods made it corrupt, arrogant, and selfish, whereas China's newer position forces it to persuade others and build consensus.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Historical-system diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "Bretton Woods",
+        "American decline",
+        "Chinese rise"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the main five-to-ten-year friction with the United States will come from Chinese trade networks, payment alternatives, and attempts to reduce dependence on the petrodollar.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0023",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Five-to-ten-year forecast made on 2025-09-01.",
+      "topic_tags": [
+        "Belt and Road",
+        "SWIFT alternative",
+        "petrodollar",
+        "U.S.-China conflict"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues Iran is strategically crucial because Belt and Road and Russia's North-South Corridor both depend on Middle Eastern trade routes that pass through or near it.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Current strategic diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "Iran",
+        "Belt and Road",
+        "North-South Corridor",
+        "trade routes"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Chinese policymakers do not realistically expect the renminbi alone to replace the dollar because the dollar is too deeply entrenched.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0026",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Current policy diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "renminbi",
+        "U.S. dollar",
+        "Chinese policy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the most realistic Chinese option is a basket of currencies that supplements and competes against the dollar rather than immediate outright replacement.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0026",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Current policy preference on 2025-09-01.",
+      "topic_tags": [
+        "currency basket",
+        "de-dollarization",
+        "Chinese policy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang points to mounting U.S. national debt as one reason for global concern about the durability of the dollar order.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Current financial diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "U.S. debt",
+        "dollar system"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues Saudi Arabia is more economically fragile than commonly assumed because attempts to diversify away from oil have not really worked.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Current Saudi diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "Saudi Arabia",
+        "oil economy",
+        "fragility"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says China wants stronger relations with Saudi Arabia because China depends on Middle Eastern oil and cannot rely on a sanction-heavy environment around Iran.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0029",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Current strategic diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "China",
+        "Saudi Arabia",
+        "oil supply",
+        "Iran"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts China will not send ground troops to the Middle East and instead sees Chinese power as mediation and peace facilitation.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Forward-looking strategic prediction stated on 2025-09-01.",
+      "topic_tags": [
+        "China",
+        "Middle East",
+        "mediation",
+        "military restraint"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang warns that an Israel-Iran war could drag in the wider world by closing the Strait of Hormuz and cutting energy flows to East Asia.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Conditional war diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "Strait of Hormuz",
+        "Israel",
+        "Iran",
+        "East Asia energy"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says China would remain neutral and try to mediate if a U.S.-Iran war broke out, while Russia would be more likely to protect Iran.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Conditional war prediction stated on 2025-09-01.",
+      "topic_tags": [
+        "China",
+        "Iran",
+        "Russia",
+        "mediation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues geopolitics has no clean lines of allegiance because every player maximizes options and stays flexible.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "General geopolitical principle stated on 2025-09-01.",
+      "topic_tags": [
+        "geopolitics",
+        "strategy",
+        "flexibility"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China-India relations remain extremely tense because the memory of the 1960 border war still matters and because control of the Tibetan Plateau means control over regional water supply.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0037",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Long-duration geopolitical diagnosis stated on 2025-09-01.",
+      "topic_tags": [
+        "China",
+        "India",
+        "Tibetan Plateau",
+        "water"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats Chinese dam building and water leverage around Tibet as a major existential threat to India.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0037",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Current structural threat described on 2025-09-01.",
+      "topic_tags": [
+        "India",
+        "water security",
+        "dams",
+        "China"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the deeper long-term geopolitical tension may be between Russia and China rather than between China and the United States, because Russia and China share borders and compete in Central Asia.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Long-term geopolitical diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "Russia",
+        "China",
+        "Central Asia",
+        "trade routes"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China's economy cannot be summarized simply because the disparities between city and countryside and between north and south are too large.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Current economic diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "China economy",
+        "regional disparity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says weak consumer spending, the real-estate collapse, geopolitical issues, and trade sanctions have produced deflationary pressure in China over the last couple of years.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Recent-past diagnosis through 2025-09-01.",
+      "topic_tags": [
+        "deflation",
+        "consumer spending",
+        "real estate",
+        "trade sanctions"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues China's state-managed economy means its debt issue is less pressing than debt problems in the United States and other Western countries.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0042",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Current comparative diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "state management",
+        "debt",
+        "China",
+        "West"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says the tariff war reflects a deeper conflict over the future financial system and over Western pressure for China to rescue the world economy again.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Current geopolitical diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "tariff war",
+        "financial system",
+        "global economy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China effectively saved the world economy in 2008 by taking on massive debt, and he argues the West now wants China to do that again.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Retrospective claim about 2008 linked to present policy on 2025-09-01.",
+      "topic_tags": [
+        "2008 crisis",
+        "China debt",
+        "global economy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He predicts that within the next six months China and the United States will reach a behind-the-scenes compromise that publicly looks like a Chinese win but privately helps stabilize the dollar and reduce U.S. debt strain.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Next-six-month forecast made on 2025-09-01.",
+      "topic_tags": [
+        "U.S.-China compromise",
+        "U.S. dollar",
+        "U.S. debt"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang floats a concrete mechanism for compromise: more Chinese students in the United States financed by Chinese household debt, which would support U.S. higher education while giving Chinese students better education.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0046",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Speculative scenario attached to a near-term forecast on 2025-09-01.",
+      "topic_tags": [
+        "Chinese students",
+        "household debt",
+        "U.S. higher education"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang says the U.S. dollar remains stable and predicts that one of the coming surprises over the next half year to year will be how quickly U.S.-China relations improve.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Half-year to one-year forecast made on 2025-09-01.",
+      "topic_tags": [
+        "U.S. dollar",
+        "U.S.-China relations",
+        "rapprochement"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang bets emphatically that China will not invade Taiwan and treats invasion fear as a Pentagon funding narrative rather than a live Chinese policy agenda.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Current assessment and forward-looking prediction on 2025-09-01.",
+      "topic_tags": [
+        "Taiwan",
+        "Pentagon",
+        "China"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Taiwan invasion talk is not being seriously discussed inside China at the moment.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Current social-political diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "China",
+        "Taiwan",
+        "public discourse"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang extends the point by saying Taiwan itself does not treat invasion as a central public concern.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Current social diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "Taiwan",
+        "public discourse",
+        "China-Taiwan conflict"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang directs viewers to YouTube as the primary access point for Predictive History and says his Substack can be reached from there.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Current self-description on 2025-09-01.",
+      "topic_tags": [
+        "Predictive History",
+        "YouTube",
+        "Substack"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0004"
+      ],
+      "moment": "Jiang reduces good history to a three-part test: connect the past, explain the present, predict the future.",
+      "source_phrase": "it has to accomplish three goals",
+      "why_it_matters": "This is the methodological spine for the rest of the interview and for Jiang's public identity.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0005"
+      ],
+      "moment": "Predictions are not decoration but the thing that validates or breaks the historical model.",
+      "source_phrase": "If these predictions turn out to be accurate, they validate our model",
+      "why_it_matters": "It turns Jiang's history channel into a falsifiable forecasting project rather than a retrospective lecture series.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0007"
+      ],
+      "moment": "The Tianjin summit is framed as a clash between unipolar hegemony and multipolar institutional harmony.",
+      "source_phrase": "The United States very much is interested in maintaining its hegemony",
+      "why_it_matters": "It establishes the interview's governing contrast between American and Chinese world-order stories.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0009"
+      ],
+      "moment": "America is said to classify nations morally by ideology, while China sells itself as a system that works with everyone through trade.",
+      "source_phrase": "Americans take an ideological approach to geopolitics",
+      "why_it_matters": "This is Jiang's cleanest early formulation of the U.S.-China contrast in the interview.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0014"
+      ],
+      "moment": "Western power is reduced to image: benevolent, creative, open, generous.",
+      "source_phrase": "that's really the main power that the West has its image",
+      "why_it_matters": "It shifts the China-West comparison from GDP and weapons toward soft power and prestige.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0016"
+      ],
+      "moment": "Frozen Russian assets are treated as the proof that Western finance can simply steal from you.",
+      "source_phrase": "at any time your assets can be stolen from you",
+      "why_it_matters": "This is the hinge that turns the Ukraine war into a justification for a new financial order.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0019"
+      ],
+      "moment": "The IMF and World Bank are described not as neutral institutions but as an arm of American foreign policy.",
+      "source_phrase": "they're all just an arm of American foreign policy",
+      "why_it_matters": "This is Jiang's bluntest formulation of why China would want a parallel financial architecture.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0021"
+      ],
+      "moment": "China's moral advantage is presented not as innate virtue but as the discipline imposed on a newcomer that still has to persuade everyone else.",
+      "source_phrase": "China is forced to build consensus",
+      "why_it_matters": "It qualifies Jiang's pro-China framing with a hard geopolitical mechanism rather than pure idealism.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0024"
+      ],
+      "moment": "The real coming conflict is not abstract ideology but trade networks, currencies, and the petrodollar.",
+      "source_phrase": "the real source of the conflict will be over these trade networks",
+      "why_it_matters": "It translates Jiang's world-order thesis into specific infrastructures to watch.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0026",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0027"
+      ],
+      "moment": "The dollar is too entrenched to replace outright, so China must think in terms of a competing basket rather than a coronation of the renminbi.",
+      "source_phrase": "the second possibility is trying to create a basket of currencies",
+      "why_it_matters": "It makes Jiang's de-dollarization account more pragmatic than the usual BRICS-currency hype.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0032"
+      ],
+      "moment": "China's civilizational habit is presented as thousands of years of staying out of distant wars.",
+      "source_phrase": "the Chinese policy for thousands of years is not to get involved overseas",
+      "why_it_matters": "This is Jiang's core answer to the fantasy of Chinese troops in Iran.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0035"
+      ],
+      "moment": "Geopolitics is described as a strange game with no clear lines, only actors preserving optionality.",
+      "source_phrase": "There are no clear lines in geopolitics",
+      "why_it_matters": "This is Jiang's meta-rule for why alliances and security guarantees look contradictory from the outside.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0037"
+      ],
+      "moment": "The Tibetan Plateau is framed as a water lever so decisive that whoever controls it can threaten whole civilizations downstream.",
+      "source_phrase": "if it controls the Tibetan Plateau, it controls China. It controls all of East Asia",
+      "why_it_matters": "It shows Jiang reading China-India rivalry through hydrology and geography, not just military posturing.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0040"
+      ],
+      "moment": "Jiang flips conventional bloc thinking by saying Russia-China tensions may ultimately exceed China-U.S. tensions.",
+      "source_phrase": "there's going to be much more tension between Russia and China than between China and the United States",
+      "why_it_matters": "This is one of the interview's strongest contrarian geopolitical reversals.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0042"
+      ],
+      "moment": "China is presented as too large and uneven to summarize with a single macro headline.",
+      "source_phrase": "it's hard to make generalizations about the Chinese economy",
+      "why_it_matters": "It sets the tone for Jiang's refusal to read China through one PMI print or one deflation story.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0045"
+      ],
+      "moment": "The tariff fight is reframed as an argument over whether China should be the world's white knight again.",
+      "source_phrase": "The United States and Europe really want China to be the white knight again",
+      "why_it_matters": "It turns a trade dispute into a civilizational burden-sharing question.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0046"
+      ],
+      "moment": "Publicly China wins, privately it still makes the concessions that stabilize the U.S. system.",
+      "source_phrase": "Publicly, it will seem as though China has won",
+      "why_it_matters": "This is Jiang's characteristic two-level reading of geopolitical theater versus backstage settlement.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0049"
+      ],
+      "moment": "Jiang's near-term geopolitical surprise is not war but a fast improvement in U.S.-China relations.",
+      "source_phrase": "how quickly the U.S.-China relationship improves",
+      "why_it_matters": "It sharpens the interview's most dated forward-looking claim into a concrete timeline.",
+      "tone": "prediction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0051"
+      ],
+      "moment": "He offers a million-dollar bet that China does not invade Taiwan.",
+      "source_phrase": "I'll bet you a million dollars. China does not invade Taiwan",
+      "why_it_matters": "This is the interview's sharpest memorable line and the clearest packaging of Jiang's contrarian Taiwan view.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0053"
+      ],
+      "moment": "Taiwan itself is used as the empirical rebuttal to invasion panic.",
+      "source_phrase": "They don't talk about it. They don't care. It's not relevant to them",
+      "why_it_matters": "Jiang grounds his Taiwan claim in observed everyday discourse rather than strategic abstractions.",
+      "tone": "reversal",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Predictive History",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0004",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang's project of turning historical interpretation into a model that links past, present, and testable future forecasts.",
+      "confidence": "high"
+    },
+    {
+      "term": "multipolar institutional approach",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Jiang's description of China's preferred order: consensus-building institutions organized around shared economic benefit rather than ideological sorting.",
+      "confidence": "high"
+    },
+    {
+      "term": "rules-based order",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0011"
+      ],
+      "definition_or_usage": "Jiang's name for a U.S.-led system that claims neutrality but in practice advantages America and its allies.",
+      "confidence": "high"
+    },
+    {
+      "term": "Western soft power",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "The West's image in China as benevolent, creative, and open, especially in education and innovation.",
+      "confidence": "high"
+    },
+    {
+      "term": "sovereignty of all assets",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Jiang's phrase for a financial architecture where investors' holdings cannot be frozen or confiscated for geopolitical reasons.",
+      "confidence": "high"
+    },
+    {
+      "term": "Belt and Road Initiative",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0023",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "China's land and sea trade-network buildout, treated here as a practical alternative architecture to Western finance and logistics.",
+      "confidence": "high"
+    },
+    {
+      "term": "petrodollar",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "Jiang's shorthand for the dollar's oil-linked monetary power and thus a main pillar of U.S. hegemony.",
+      "confidence": "high"
+    },
+    {
+      "term": "North-South Corridor",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Russia's trade-route project, which Jiang pairs with Belt and Road to explain why Iran matters strategically.",
+      "confidence": "medium"
+    },
+    {
+      "term": "basket of currencies",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0026",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Jiang's preferred practical alternative to exclusive dollar dominance: multiple currencies that supplement and compete with it.",
+      "confidence": "high"
+    },
+    {
+      "term": "global mediator",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Jiang's characterization of China's role in conflict zones: not expeditionary enforcer but facilitator of peace and negotiation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Tibetan Plateau",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "A strategic water source in Jiang's account; whoever controls it can pressure India, China, and much of East Asia through river systems.",
+      "confidence": "high"
+    },
+    {
+      "term": "Trojan horse",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "The host's phrase for India as a BRICS member that still courts the United States and the West.",
+      "confidence": "high"
+    },
+    {
+      "term": "white knight",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Jiang's phrase for China rescuing a collapsing world economy by absorbing debt and stabilizing the system.",
+      "confidence": "high"
+    },
+    {
+      "term": "state managed",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "Jiang's description of why China's debt and policy options differ from market-driven Western economies.",
+      "confidence": "high"
+    },
+    {
+      "term": "rapprochement",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0049"
+      ],
+      "definition_or_usage": "Jiang's expected warming or compromise in U.S.-China relations over the coming months.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0001",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0007"
+      ],
+      "note": "The interview opens on 2025-09-01 with the Tianjin summit as the immediate event anchoring Jiang's contrast between U.S. and Chinese approaches to world order.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0013",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0016"
+      ],
+      "note": "This packet moves on 2025-09-01 from China's cultural attitude toward the West into Jiang's argument that the Ukraine-war sanctions regime opened a path for parallel Chinese-led financial institutions.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0022",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0024"
+      ],
+      "note": "On 2025-09-01 Jiang explicitly frames the next five to ten years as a period of intensifying conflict over payment rails, trade corridors, and Gulf energy alignments.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0028",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0032"
+      ],
+      "note": "This 2025-09-01 packet links currency-order discussion to Saudi oil security and then to Jiang's categorical rejection of Chinese ground-force intervention in a Middle Eastern war.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0036",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0040"
+      ],
+      "note": "This packet records a dated 2025-09-01 shift from Middle East neutrality questions to Jiang's longer-horizon China-India and Russia-China structural rivalry analysis.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0044",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0047"
+      ],
+      "note": "This 2025-09-01 packet contains Jiang's explicit next-six-month forecast for a U.S.-China tariff compromise and should be treated as a dated prediction rather than a timeless model.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0049",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0055"
+      ],
+      "note": "This packet contains Jiang's most time-sensitive 2025-09-01 predictions: a near-term U.S.-China rapprochement and a categorical rejection of a Chinese Taiwan invasion scenario.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0057",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0058"
+      ],
+      "note": "These final refs are pure interview closeout and channel-direction material from 2025-09-01 rather than substantive geopolitical analysis.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0004"
+      ],
+      "note": "ASR noise appears in the phrase about explaining 'where are things, the world, and the world as a whole'; the surrounding meaning is still clear enough to recover Jiang's three-part method."
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0012"
+      ],
+      "note": "The claim about '31 % of its exports' appears garbled by ASR; retain the broader point about Chinese infrastructure investment without treating that figure as clean."
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0026"
+      ],
+      "note": "The quoted U.S. debt figure appears malformed by ASR; preserve only the underlying point that Jiang treats U.S. debt as unsustainably large."
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0046"
+      ],
+      "note": "The Trump remark about 600,000 Chinese students is presented by Jiang as a speculative example rather than a verified policy commitment; keep the scenario low-confidence."
+    }
+  ]
+}
