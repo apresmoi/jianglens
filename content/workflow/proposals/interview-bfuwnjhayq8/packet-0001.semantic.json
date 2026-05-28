@@ -1,0 +1,187 @@
+{
+  "packet_id": "interview-bfuwnjhayq8-semantics-pkt-0001",
+  "source_id": "video:interview-bfuwnjhayq8",
+  "source_date": "2025-09-01",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0001",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0002",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0003"
+      ],
+      "kind": "question",
+      "summary": "The host frames the Tianjin summit as a possible world-order turning point, introduces Jiang, and asks what Predictive History is trying to do.",
+      "speaker_attribution": "Host Kai, with Jiang briefly thanking him inside seg-0002",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0004",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0005"
+      ],
+      "kind": "answer",
+      "summary": "Jiang defines Predictive History as a project that connects the past, explains the present, and predicts the future so history becomes an experimentally tested model.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0006"
+      ],
+      "kind": "question",
+      "summary": "The host asks Jiang to apply that framework to the Tianjin summit in broad terms.",
+      "speaker_attribution": "Host Kai",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0007",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang contrasts U.S. unipolar hegemony with a Chinese multipolar institutional approach, and the host presses how that claim fits unfriendly actors like Russia, Iran, and Pakistan.",
+      "speaker_attribution": "Jiang answer followed by host challenge",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0002",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0003"
+      ],
+      "note": "The host question and Jiang's brief thanks are collapsed together by ASR before Jiang's substantive answer begins in seg-0004.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says usable history must connect the past into a coherent human story, explain the present, and predict the future.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Method statement given on 2025-09-01.",
+      "topic_tags": [
+        "Predictive History",
+        "historical method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues assumptions and values generate a theoretical framework that can be tested by whether its future predictions prove accurate.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0004",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Method statement given on 2025-09-01.",
+      "topic_tags": [
+        "prediction",
+        "model validation",
+        "historical theory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Tianjin summit reveals a disparity between a U.S. strategy of preserving unipolar hegemony and a Chinese strategy of multipolar institutional consensus.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Current geopolitical diagnosis on 2025-09-01.",
+      "topic_tags": [
+        "United States",
+        "China",
+        "SCO",
+        "world order"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He characterizes the United States as projecting military might while China presents itself as organizing economic cooperation so all parties benefit.",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Current comparison on 2025-09-01.",
+      "topic_tags": [
+        "military power",
+        "economic cooperation",
+        "multipolarity"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0004"
+      ],
+      "moment": "Jiang reduces good history to a three-part test: connect the past, explain the present, predict the future.",
+      "source_phrase": "it has to accomplish three goals",
+      "why_it_matters": "This is the methodological spine for the rest of the interview and for Jiang's public identity.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0005"
+      ],
+      "moment": "Predictions are not decoration but the thing that validates or breaks the historical model.",
+      "source_phrase": "If these predictions turn out to be accurate, they validate our model",
+      "why_it_matters": "It turns Jiang's history channel into a falsifiable forecasting project rather than a retrospective lecture series.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0007"
+      ],
+      "moment": "The Tianjin summit is framed as a clash between unipolar hegemony and multipolar institutional harmony.",
+      "source_phrase": "The United States very much is interested in maintaining its hegemony",
+      "why_it_matters": "It establishes the interview's governing contrast between American and Chinese world-order stories.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Predictive History",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0004",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Jiang's project of turning historical interpretation into a model that links past, present, and testable future forecasts.",
+      "confidence": "high"
+    },
+    {
+      "term": "multipolar institutional approach",
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Jiang's description of China's preferred order: consensus-building institutions organized around shared economic benefit rather than ideological sorting.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0001",
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0007"
+      ],
+      "note": "The interview opens on 2025-09-01 with the Tianjin summit as the immediate event anchoring Jiang's contrast between U.S. and Chinese approaches to world order.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-bfuwnjhayq8@transcript:v1#seg-0004"
+      ],
+      "note": "ASR noise appears in the phrase about explaining 'where are things, the world, and the world as a whole'; the surrounding meaning is still clear enough to recover Jiang's three-part method."
+    }
+  ]
+}
