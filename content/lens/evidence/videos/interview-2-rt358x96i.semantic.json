@@ -1,0 +1,695 @@
+{
+  "id": "evidence:semanticvideo-interview-2-rt358x96i:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-2-rt358x96i",
+  "source_id": "video:interview-2-rt358x96i",
+  "source_title": "Empowering Teachers for Creativity  [Debate WISE 2014]",
+  "source_url": "https://www.youtube.com/watch?v=2_Rt358X96I",
+  "source_date": "2015-03-11",
+  "date_precision": "day",
+  "transcript_id": "video:interview-2-rt358x96i@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-2-rt358x96i/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-2-rt358x96i/packet-0002.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-2-rt358x96i/source.yaml",
+    "transcript_path": "content/sources/videos/interview-2-rt358x96i/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 2,
+    "interactions": 12,
+    "speaker_notes": 3,
+    "claims": 20,
+    "signature_moments": 10,
+    "predictions": 0,
+    "models": 7,
+    "glossary_terms": 8,
+    "chronology_notes": 2,
+    "uncertainty_notes": 2
+  },
+  "first_refs": [
+    "video:interview-2-rt358x96i@transcript:v1#seg-0001",
+    "video:interview-2-rt358x96i@transcript:v1#seg-0002",
+    "video:interview-2-rt358x96i@transcript:v1#seg-0003",
+    "video:interview-2-rt358x96i@transcript:v1#seg-0004",
+    "video:interview-2-rt358x96i@transcript:v1#seg-0006",
+    "video:interview-2-rt358x96i@transcript:v1#seg-0007",
+    "video:interview-2-rt358x96i@transcript:v1#seg-0008",
+    "video:interview-2-rt358x96i@transcript:v1#seg-0009"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0001"
+      ],
+      "kind": "monologue",
+      "summary": "A panelist opens the debate by framing teacher quality, motivation, shortages, and talent recruitment as the core bottleneck behind education reform.",
+      "speaker_attribution": "Opening panel framing by an unidentified speaker",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0002",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Another panelist argues that education's main problem is mindset rather than resources and says schools should form human beings with needs to learn, love, and create, not merely workers.",
+      "speaker_attribution": "Unidentified panelist",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0004",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "A panelist answers from an African schooling context, arguing creativity already exists culturally but is treated as disruption and has not been recognized or institutionalized in formal classrooms.",
+      "speaker_attribution": "Unidentified panelist speaking from an African policy context",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "A short intervention diagnoses the education system as fear-bound and self-hardwired even though everyone senses it is failing.",
+      "speaker_attribution": "Likely moderator or brief panel interjection",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0007",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Another panelist argues that weak teacher collaboration, habit-free training, burnout, and failure to use technology well are driving talent away from teaching, and that creativity is central to reversing that.",
+      "speaker_attribution": "Unidentified panelist",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0009"
+      ],
+      "kind": "monologue",
+      "summary": "A panelist explains a school-change process that begins with teacher attitude, shared vision, and repeated reflective practice until new methods become sustainable habits.",
+      "speaker_attribution": "Unidentified panelist describing institutional reform practice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Another panelist argues for disciplined creativity, evidence-informed experimentation, and teachers acting as designers of curriculum, assessment, relationships, and learning experiences.",
+      "speaker_attribution": "Unidentified panelist",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0011"
+      ],
+      "kind": "monologue",
+      "summary": "A speaker redefines creativity as a response to real social need and says it emerges when teachers and students collaborate on community problems.",
+      "speaker_attribution": "Unidentified panelist",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0012"
+      ],
+      "kind": "monologue",
+      "summary": "A panelist maps a chain from trust to autonomy to creativity and argues teachers need scaffolds such as protocols, peer feedback, coaching, and teams rather than abandonment.",
+      "speaker_attribution": "Unidentified panelist",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "A short intervention calls for a more open and fluid school system where parents can teach and teachers can become students.",
+      "speaker_attribution": "Unidentified panelist",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0014",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0015"
+      ],
+      "kind": "monologue",
+      "summary": "A speaker contrasts teacher training with teacher education, criticizes weak state investment in development, and uses a Minecraft design exercise to argue technology can rapidly change what learners are able to do.",
+      "speaker_attribution": "Unidentified panelist speaking from a government or policy role",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "The closing speaker says teaching should become a research-literate profession that uses evidence contextually and honors teachers already going beyond protocols for students.",
+      "speaker_attribution": "Unidentified panelist",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0004",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0005"
+      ],
+      "note": "seg-0005 is an empty boundary artifact after the approved repair; the substantive speech continues uninterrupted from seg-0004.",
+      "suggested_speaker": "same speaker as seg-0004",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0001",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0002",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0004",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0007"
+      ],
+      "note": "The source is a panel with multiple anonymous speakers; speaker roles are clear enough to distinguish turns, but names cannot be recovered from the transcript alone.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0014",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0015"
+      ],
+      "note": "seg-0015 continues the same Minecraft example from seg-0014 and should be interpreted as one uninterrupted argument.",
+      "suggested_speaker": "same speaker as seg-0014",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The opening framing says education reform keeps returning to teachers because shortages, quality, motivation, and talent recruitment are now global pressure points.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Panel diagnosis stated on 2015-03-11 about the current education landscape.",
+      "topic_tags": [
+        "teachers",
+        "teacher-shortage",
+        "education-reform",
+        "talent"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "One panelist argues the central problem in education is not resources but school mindset.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Panel diagnosis stated on 2015-03-11.",
+      "topic_tags": [
+        "mindset",
+        "resources",
+        "school-culture"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "That same speaker says schools must choose whether they are producing workers or full human beings, and defines human beings by needs to learn, love, and create.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0002",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Normative definition stated on 2015-03-11.",
+      "topic_tags": [
+        "human-beings",
+        "creativity",
+        "education-purpose",
+        "spiritual-needs"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The proposed solution is a revolution in thinking that restores creativity and the making of human beings to the center of school life.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0002",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Normative proposal stated on 2015-03-11.",
+      "topic_tags": [
+        "revolution-in-thinking",
+        "creativity",
+        "school-reform"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "A speaker from an African context argues creativity is often treated as disruptive in formal classrooms even though it already exists in traditional culture and informal learning.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Regional diagnosis stated on 2015-03-11.",
+      "topic_tags": [
+        "africa",
+        "creativity",
+        "classroom-culture",
+        "traditional-learning"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The same speaker says the problem is not the absence of creativity but its lack of recognition and institutional support inside formal schooling.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Regional diagnosis stated on 2015-03-11.",
+      "topic_tags": [
+        "institutionalization",
+        "creativity",
+        "school-system"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A brief intervention describes education as a fear-driven system that has become self-hardwired even though participants know it is not working.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Panel diagnosis stated on 2015-03-11.",
+      "topic_tags": [
+        "fear",
+        "system-lock-in",
+        "education-system"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Another panelist says teacher collaboration improves learning more than anything else, yet systems neglect it and overemphasize knowledge transfer instead of classroom habit change in teacher training.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Panel diagnosis stated on 2015-03-11.",
+      "topic_tags": [
+        "teacher-collaboration",
+        "teacher-training",
+        "habits",
+        "learning"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "That same speaker links the dominant school paradigm to teacher burnout, underused technology, and difficulty attracting a creativity-seeking younger generation into the profession.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0007",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Panel diagnosis stated on 2015-03-11.",
+      "topic_tags": [
+        "burnout",
+        "technology",
+        "teacher-recruitment",
+        "creativity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "One speaker says the first barrier to school change is attitudinal: teachers must want to learn, change, and become stakeholders in a shared vision.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Reform method stated on 2015-03-11.",
+      "topic_tags": [
+        "attitude",
+        "teacher-buy-in",
+        "school-change",
+        "vision"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Training only becomes sustainable when new methods are practiced, reflected on jointly, and repeated until they become habits.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Reform method stated on 2015-03-11.",
+      "topic_tags": [
+        "training",
+        "reflection",
+        "habits",
+        "sustainability"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A later speaker argues teachers need disciplined creativity grounded in evidence rather than being left alone to improvise without structure.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Normative proposal stated on 2015-03-11.",
+      "topic_tags": [
+        "disciplined-creativity",
+        "evidence",
+        "teacher-profession"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "The same speaker proposes reimagining teachers as designers of curriculum, assessment, relationships, and learning experiences rather than recipients of fixed rules.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Professional model stated on 2015-03-11.",
+      "topic_tags": [
+        "teachers-as-designers",
+        "curriculum",
+        "assessment",
+        "pedagogy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Another panelist says creativity is a response to need, not an end in itself, and emerges when teachers and students work together on social problems in the community.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Definition stated on 2015-03-11.",
+      "topic_tags": [
+        "creativity",
+        "social-problems",
+        "community",
+        "collaboration"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "A speaker offers a causal chain in which obedience produces discipline, trust produces autonomy, and autonomy produces creativity.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Causal model stated on 2015-03-11.",
+      "topic_tags": [
+        "obedience",
+        "trust",
+        "autonomy",
+        "creativity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "That same speaker says creativity-supporting autonomy still requires safety nets such as protocols, peer feedback, coaching, and teaching teams.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Professional method stated on 2015-03-11.",
+      "topic_tags": [
+        "safety-net",
+        "peer-feedback",
+        "coaching",
+        "teaching-teams"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A short intervention argues schools need more openness and fluidity, including parents entering classrooms and teachers becoming learners again.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Normative proposal stated on 2015-03-11.",
+      "topic_tags": [
+        "openness",
+        "flexibility",
+        "parents",
+        "teachers-as-students"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Another panelist distinguishes teacher training from teacher education and argues governments underinvest in teacher development beyond the school system.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Policy diagnosis stated on 2015-03-11.",
+      "topic_tags": [
+        "teacher-training",
+        "teacher-education",
+        "government",
+        "development"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Minecraft example is used as evidence that new tools can accelerate design learning so dramatically that professional training timelines may shrink.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0014",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Illustrative evidence stated on 2015-03-11.",
+      "topic_tags": [
+        "minecraft",
+        "design-learning",
+        "curriculum",
+        "technology"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The closing speaker says a real teaching profession must be research literate, ask what works in a specific context, and recognize teachers already acting creatively beyond protocols.",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Professional model stated on 2015-03-11.",
+      "topic_tags": [
+        "research-literacy",
+        "context",
+        "evidence",
+        "teacher-creativity"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0002"
+      ],
+      "moment": "The debate turns on a stark fork: schools can produce workers or produce human beings.",
+      "source_phrase": "Do we want to produce workers, or do we want to produce human beings?",
+      "why_it_matters": "It gives the whole panel a clear civilizational contrast between economic utility and human formation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0002"
+      ],
+      "moment": "Creativity is anchored in a spiritual anthropology: people need to learn, love, and create as fundamentally as they need food and water.",
+      "source_phrase": "three fundamental spiritual needs",
+      "why_it_matters": "It raises creativity from a soft skill to a survival-level human necessity.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0004"
+      ],
+      "moment": "The African classroom diagnosis is that creativity appears 'not by design, probably by accident.'",
+      "source_phrase": "Not by design, probably by accident",
+      "why_it_matters": "It preserves a sharp critique of formal schooling while admitting that creativity still survives socially and culturally.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0006"
+      ],
+      "moment": "The system is pictured as something that has hardwired itself through fear.",
+      "source_phrase": "a system that hardwired itself",
+      "why_it_matters": "It condenses institutional inertia into a memorable image of collective entrapment.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0007",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0008"
+      ],
+      "moment": "The argument for teacher recruitment ends by making creativity, not salary or compliance, the profession's real attraction mechanism.",
+      "source_phrase": "we think creativity is central to that",
+      "why_it_matters": "It reframes teacher recruitment as a meaning-and-profession question rather than a narrow policy fix.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0010"
+      ],
+      "moment": "Teachers are recast as authors and designers of pedagogy rather than consumers of ring-bound rules and downloaded tips.",
+      "source_phrase": "authors of their own pedagogies",
+      "why_it_matters": "It gives the panel a durable professional ideal that links creativity to teacher agency rather than looseness.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0011"
+      ],
+      "moment": "Creativity is treated not as a goal to chase but as something that appears when people respond together to real need.",
+      "source_phrase": "Creativity should not be the goal, it should be a means",
+      "why_it_matters": "It prevents the whole debate from collapsing into generic pro-creativity rhetoric.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0012"
+      ],
+      "moment": "The trust formula gives the panel a compact developmental chain: obedience makes discipline, trust makes autonomy, autonomy makes creativity.",
+      "source_phrase": "Obedience generates discipline. But trust generates autonomy",
+      "why_it_matters": "It is the clearest causal model in the packet for how school culture can either choke or unlock creative action.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0014",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0015"
+      ],
+      "moment": "Minecraft is used as a shock example of how quickly design capacity can expand once the system gives learners the right tool and task.",
+      "source_phrase": "in two days, 26 children ... mastered Minecraft",
+      "why_it_matters": "It provides the packet's most concrete policy image for accelerating learning and redesigning curriculum.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0016"
+      ],
+      "moment": "Evidence is not a script to obey but a prompt to ask what might work here, with these young people.",
+      "source_phrase": "what might work in my context with my young people",
+      "why_it_matters": "It converts evidence-based teaching from compliance into contextual judgment.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "mindset",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "The underlying orientation of schools that determines whether education is organized around human formation or narrow output production.",
+      "confidence": "high"
+    },
+    {
+      "term": "three fundamental spiritual needs",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "The panelist's definition of human flourishing in education: the need to learn, love, and create.",
+      "confidence": "high"
+    },
+    {
+      "term": "teacher collaboration",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "The practice of teachers working together, treated here as the strongest lever for improving student learning.",
+      "confidence": "high"
+    },
+    {
+      "term": "hardwired system",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "A fear-bound educational order that reproduces itself even when everyone involved knows it is malfunctioning.",
+      "confidence": "medium"
+    },
+    {
+      "term": "disciplined creativity",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "A form of teacher creativity bounded by evidence, real constraints, and reflective design rather than free improvisation.",
+      "confidence": "high"
+    },
+    {
+      "term": "design thinking",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "A way of generating solutions to real problems that combines analytical and intuitive thinking while staying focused on end users and constraints.",
+      "confidence": "high"
+    },
+    {
+      "term": "teacher education",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "A deeper developmental process contrasted with narrower teacher training, implying wider growth, judgment, and ongoing professional formation.",
+      "confidence": "high"
+    },
+    {
+      "term": "research literate",
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Able to understand educational evidence and then judge what may work in a local classroom context rather than merely copy generic best practice.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0001",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0007"
+      ],
+      "note": "This 2015-03-11 WISE panel frames creativity through teacher shortages, recruitment, and early technology-use pressure rather than later pandemic-era remote-learning concerns.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0009",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0016"
+      ],
+      "note": "This 2015-03-11 panel shows a pre-pandemic creativity-and-teacher-profession debate focused on mindset, design, evidence, and institutional reform rather than emergency online schooling.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0001",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0002",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0004",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0007"
+      ],
+      "note": "The transcript does not identify panelists by name, so speaker roles are described functionally rather than attributed to specific people."
+    },
+    {
+      "refs": [
+        "video:interview-2-rt358x96i@transcript:v1#seg-0014",
+        "video:interview-2-rt358x96i@transcript:v1#seg-0015"
+      ],
+      "note": "The Minecraft anecdote is clear as a rapid-learning example, but the architectural-training reduction claim is aspirational panel rhetoric rather than independently verified evidence within the source."
+    }
+  ]
+}
