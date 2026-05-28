@@ -1,0 +1,230 @@
+{
+  "packet_id": "interview-izzvijq0gka-semantics-pkt-0028",
+  "source_id": "video:interview-izzvijq0gka",
+  "source_date": "2026-05-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0217",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0218"
+      ],
+      "kind": "question",
+      "summary": "Sneako asks whether hantavirus coverage is real or fearmongering, and Jiang answers that while many viruses are circulating, hantavirus discourse is mainly a pretext narrative that could justify renewed lockdowns in China.",
+      "speaker_attribution": "Sneako question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0219",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0221"
+      ],
+      "kind": "question",
+      "summary": "Sneako asks whether Jiang has faced state pushback in China, and Jiang answers with a theory that AI surveillance works by categorizing people into predictable database profiles but largely ignores him because he is too anomalous to fit a usable category.",
+      "speaker_attribution": "Sneako question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0223",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0224"
+      ],
+      "kind": "exchange",
+      "summary": "After Jiang says his family may relocate, Sneako warmly endorses Malaysia and Jiang adds that his deeper ambition is to build a school-based creative community where like-minded people can gather around shared ideas.",
+      "speaker_attribution": "Sneako and Jiang exchange",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0220",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0221"
+      ],
+      "note": "Jiang repeatedly marks the surveillance explanation as a theory rather than a verified inside account. The packet should preserve both the confidence of the model and his explicit hedge about not being completely sure.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0221"
+      ],
+      "note": "The transcript line about where Jiang makes money appears garbled, but the surrounding sentence clearly means he believes he is safer so long as he does not engage the Chinese public directly and earns his income elsewhere, especially through Substack.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the hantavirus panic is mostly fearmongering, even though he also believes China is experiencing an unusually serious wave of circulating illness.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0217"
+      ],
+      "temporal_scope": "Current public-health and media diagnosis stated on 2026-05-18.",
+      "topic_tags": [
+        "hantavirus",
+        "fearmongering",
+        "China",
+        "illness",
+        "media panic"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says recent illness around his children's kindergarten suggests that something real is spreading in China, even if the specific hantavirus framing is exaggerated.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0217"
+      ],
+      "temporal_scope": "Immediate family observation and public-health inference stated on 2026-05-18.",
+      "topic_tags": [
+        "kindergarten",
+        "China",
+        "viruses",
+        "family observation",
+        "illness spread"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Chinese authorities could use renewed virus fears as a pretext for more lockdowns because confining discontented people to their apartments worked spectacularly well for the state before.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0217",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0218"
+      ],
+      "temporal_scope": "Speculative state-control prediction stated on 2026-05-18.",
+      "topic_tags": [
+        "lockdowns",
+        "pretext",
+        "state control",
+        "China",
+        "discontent"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang models an AI surveillance state as a database system that predicts behavior by correlating demographic history, economic background, buying habits, and social ties, then sorting people into categories.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0220"
+      ],
+      "temporal_scope": "Surveillance model stated on 2026-05-18.",
+      "topic_tags": [
+        "AI surveillance state",
+        "database",
+        "prediction",
+        "categorization",
+        "China"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says he slips through this surveillance logic because he is too distinctive to classify: he avoids Chinese social media, has few local ties, makes little public appearance, and is not a Chinese national.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0220",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0221"
+      ],
+      "temporal_scope": "Personal state-surveillance diagnosis stated on 2026-05-18.",
+      "topic_tags": [
+        "edge case",
+        "surveillance",
+        "classification",
+        "foreign national",
+        "China"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his practical strategy is to stay quiet in China, avoid direct engagement with the Chinese public, and spend more of his future life overseas, possibly in Malaysia.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0221",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0224"
+      ],
+      "temporal_scope": "Near-term personal strategy and relocation plan stated on 2026-05-18.",
+      "topic_tags": [
+        "Malaysia",
+        "relocation",
+        "China",
+        "self-protection",
+        "school community"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0217",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0218"
+      ],
+      "moment": "Virus panic becomes an instrument of apartment-level pacification: if people grow discontented, the state can just say a virus is going around and lock them back inside.",
+      "source_phrase": "we'll lock them up in their apartments",
+      "why_it_matters": "It fuses Jiang's public-health suspicion with his larger view of Chinese governance as opportunistic social control.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0220",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0221"
+      ],
+      "moment": "The AI surveillance state is described as a giant relational database that can rule almost everyone except the person too weird to categorize, who gets thrown out as an edge case.",
+      "source_phrase": "It treats me as an edge case and throws me out of the system",
+      "why_it_matters": "This is the packet's clearest image of how Jiang thinks predictive governance works and why he believes he partly escapes it.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0224"
+      ],
+      "moment": "Relocation is not framed as mere exit but as a chance to build a school that becomes a creative community for dispersed people who think like them.",
+      "source_phrase": "a great creative community",
+      "why_it_matters": "It turns a defensive conversation about surveillance into a constructive institutional ambition.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "edge case",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0221"
+      ],
+      "definition_or_usage": "Jiang's self-description inside the surveillance model: someone too socially and behaviorally distinctive for the predictive database to categorize cleanly.",
+      "confidence": "high"
+    },
+    {
+      "term": "AI surveillance state",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0220",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0221"
+      ],
+      "definition_or_usage": "A macro database system that classifies people by aggregated behavioral and demographic patterns in order to predict and manage them.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0217",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0224"
+      ],
+      "note": "The packet moves from present virus panic and possible renewed lockdowns, to Jiang's present explanation of how China surveils and classifies citizens, to a future-oriented plan of overseas relocation and school-building as his practical response.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0217",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0221"
+      ],
+      "note": "This packet blends immediate family observation, speculation about future lockdown pretexts, and Jiang's own theoretical model of Chinese AI surveillance. Downstream use should preserve the distinction between observed sickness, inferred state strategy, and unverified explanatory theory."
+    }
+  ]
+}

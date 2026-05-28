@@ -1,0 +1,241 @@
+{
+  "packet_id": "interview-izzvijq0gka-semantics-pkt-0004",
+  "source_id": "video:interview-izzvijq0gka",
+  "source_date": "2026-05-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0025",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0026",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0027",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0028",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0029",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0030"
+      ],
+      "kind": "answer",
+      "summary": "Jiang expands his WTO bargain theory, arguing that China never fully honored the expected U.S. terms on intellectual property and financial liberalization, then uses Huawei and sanctions to argue that China can optimize foreign products but still struggles to self-innovate.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0031"
+      ],
+      "kind": "exchange",
+      "summary": "Sneako summarizes the contrast between Trump's hostile first term and his more conciliatory second-term tone toward China.",
+      "speaker_attribution": "Interviewer Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0032"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees that the first term was personal and anti-China, then says the newer caution makes sense because Trump has been negotiating rapprochement behind the scenes.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0025"
+      ],
+      "note": "The transcript says China promised to protect American \"IPOs,\" but the surrounding argument indicates Jiang means intellectual property or IP rights rather than stock offerings.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0030"
+      ],
+      "note": "Several billionaire names in this segment appear garbled by ASR, but the broader point about a lobbying push for renewed U.S.-China accommodation is clear.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the WTO-era understanding behind normal U.S.-China trade was that China would protect American intellectual property and eventually open its financial sector to Wall Street.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Historical causal model presented on 2026-05-18, looking back to China's WTO-era bargain around 2000.",
+      "topic_tags": [
+        "WTO",
+        "China",
+        "United States",
+        "intellectual property",
+        "Wall Street",
+        "financial liberalization"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that Xi-era nationalism and assertiveness meant China did not fully enforce American IP demands, using Huawei's rise against Apple as an example of Chinese copying-plus-optimization.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0025",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Historical-to-current diagnosis presented on 2026-05-18, with a specific benchmark in 2015.",
+      "topic_tags": [
+        "Xi Jinping",
+        "nationalism",
+        "Huawei",
+        "Apple",
+        "technology",
+        "intellectual property"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says China could not truly liberalize its capital account because money would flee to the United States, the renminbi would crash, and Wall Street would impose predatory finance on China.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Structural diagnosis presented on 2026-05-18 about what would happen if China opened its financial markets.",
+      "topic_tags": [
+        "capital controls",
+        "renminbi",
+        "Wall Street",
+        "financial crisis",
+        "China"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He uses Huawei's inability to keep updating its software under sanctions as evidence that China still depends on foreign innovation and is stronger at reverse engineering and cost optimization than at self-innovation.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0027",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0028",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Diagnosis presented on 2026-05-18 using a 2017-2018 buying anecdote and the then-current sanctions environment.",
+      "topic_tags": [
+        "Huawei",
+        "sanctions",
+        "innovation",
+        "reverse engineering",
+        "China"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says China achieved low-cost manufacturing partly by accepting labor and environmental practices other states would reject, and that the trade war plus real-estate collapse severely damaged Chinese consumer confidence.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0029",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Current diagnosis on 2026-05-18 about the prior nine years of economic pressure.",
+      "topic_tags": [
+        "China",
+        "manufacturing",
+        "labor",
+        "environment",
+        "trade war",
+        "real estate"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that billionaire interests pushed Trump in his second term toward negotiation and a less hostile posture toward China after years of mutual economic pain.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0030",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Current political diagnosis on 2026-05-18 about Trump's second term.",
+      "topic_tags": [
+        "Trump",
+        "China",
+        "billionaires",
+        "rapprochement",
+        "trade war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0026"
+      ],
+      "moment": "Jiang frames financial opening not as modernization but as a self-liquidating act that would empty China into the United States.",
+      "source_phrase": "everyone would basically flee the country",
+      "why_it_matters": "It condenses his view that Chinese capital controls are not a policy quirk but a survival mechanism against Wall Street absorption.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0029"
+      ],
+      "moment": "China's manufacturing model is described as brilliance without genuine invention.",
+      "source_phrase": "China itself lacks the capacity to self innovate",
+      "why_it_matters": "This is Jiang's sharpest formulation of the limits he thinks sanctions exposed inside the Chinese development model.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0032"
+      ],
+      "moment": "Trump's anti-China theater is reframed as the surface layer over a hidden rapprochement effort.",
+      "source_phrase": "Trump was trying to negotiate a rapprochement behind the scenes",
+      "why_it_matters": "It gives the packet its decisive reversal: open hostility was not the whole story, and accommodation was being prepared in parallel.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "capital account liberalization",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0026"
+      ],
+      "definition_or_usage": "Jiang's phrase for opening China's financial system to freer capital flows, which he treats as dangerous because money and control would rush toward the United States.",
+      "confidence": "high"
+    },
+    {
+      "term": "rapprochement",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "Renewed U.S.-China accommodation that Jiang says Trump and billionaire interests began arranging behind the scenes during the supposedly harsher public period.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0025",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0026",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0027",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0030",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0032"
+      ],
+      "note": "Jiang's sequence runs from the WTO bargain around 2000, to Huawei's 2015 product peak, to his 2017-2018 laptop anecdote, to a nine-year trade-war hangover, and finally to Trump's more recent second-term pivot toward accommodation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0028"
+      ],
+      "note": "Jiang explicitly says he is making up the exact engineer-count numbers for Huawei, so the packet preserves the strategic point without treating those quantities as confirmed."
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0030"
+      ],
+      "note": "The billionaire list includes obvious ASR distortions, and the line about China being willing to negotiate is partially garbled, though the broader claim about renewed bargaining pressure is still recoverable."
+    }
+  ]
+}

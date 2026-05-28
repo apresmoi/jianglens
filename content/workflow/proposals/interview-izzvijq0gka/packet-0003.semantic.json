@@ -1,0 +1,213 @@
+{
+  "packet_id": "interview-izzvijq0gka-semantics-pkt-0003",
+  "source_id": "video:interview-izzvijq0gka",
+  "source_date": "2026-05-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0017",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0018"
+      ],
+      "kind": "monologue",
+      "summary": "Sneako explains why Malaysia appealed to him, describes fame as a detractor after an attack, and says he even considered moving there after meeting Prime Minister Anwar Ibrahim.",
+      "speaker_attribution": "Interviewer Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0019"
+      ],
+      "kind": "answer",
+      "summary": "Jiang reacts with amusement and says Sneako was unusually lucky to encounter the prime minister so quickly.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0020"
+      ],
+      "kind": "exchange",
+      "summary": "Sneako recounts the lucky logistics of that meeting and suggests a future trip, including a possible China visit with Jiang.",
+      "speaker_attribution": "Interviewer Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0021",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0022"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says China would be difficult because he is politically sensitive there, then recounts a canceled NBC interview and imagines police pressure if the interview had gone forward.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0023"
+      ],
+      "kind": "question",
+      "summary": "Sneako says Malaysia now looks like the safest meeting ground, then pivots to ask why roughly thirty tech billionaires accompanied Trump to China.",
+      "speaker_attribution": "Interviewer Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Jiang offers a theory that ultra-wealthy financiers and tech billionaires set the agenda for U.S.-China relations and frames the Trump trip as part of a new rapprochement after an earlier trade-war push.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0021",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0022"
+      ],
+      "note": "Jiang presents two possible reasons NBC canceled the interview, and he explicitly marks them as possibilities rather than confirmed facts.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Sneako says fame has become a detractor after he was attacked, and he considered moving to Malaysia because it felt more livable and he unexpectedly met Prime Minister Anwar Ibrahim there.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0017",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0018",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Current autobiographical report on 2026-05-18 about recent travel and attack aftermath.",
+      "topic_tags": [
+        "Sneako",
+        "Malaysia",
+        "fame",
+        "security",
+        "Anwar Ibrahim"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he is politically sensitive in China and suggests a visit there could trigger difficulty, citing a just-canceled NBC interview and the possibility of police intervention.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0021",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Current self-description and immediate political risk assessment on 2026-05-18.",
+      "topic_tags": [
+        "China",
+        "censorship",
+        "NBC",
+        "police pressure",
+        "political sensitivity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang theorizes that billionaires such as Elon Musk, Stephen Schwarzman, and Larry Fink set the real agenda for U.S.-China relations and traveled with Trump to seek a new rapprochement with China.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Current geopolitical theory presented on 2026-05-18 about a very recent Trump China trip.",
+      "topic_tags": [
+        "Trump",
+        "China",
+        "billionaires",
+        "Elon Musk",
+        "Stephen Schwarzman",
+        "Larry Fink",
+        "rapprochement"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says these same billionaire interests helped initiate the earlier trade war and are now pushing rapprochement because China's WTO-era bargain with the United States did not fully develop as expected.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Historical-to-current causal model presented on 2026-05-18, looking back to China's WTO entry around 2000.",
+      "topic_tags": [
+        "trade war",
+        "WTO",
+        "United States",
+        "China",
+        "elite interests"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0018"
+      ],
+      "moment": "Sneako turns celebrity into a burden severe enough to make exile-like relocation sound attractive.",
+      "source_phrase": "this celebrity, this fame thing is just a detractor",
+      "why_it_matters": "It explains why Malaysia becomes more than a travel anecdote; it becomes a possible refuge and alternative social order.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0022"
+      ],
+      "moment": "Jiang imagines state pressure in concrete physical terms rather than abstract censorship.",
+      "source_phrase": "a hundred police would come to my apartment and blockade",
+      "why_it_matters": "This is the packet's most vivid image of Jiang's claimed vulnerability inside China at this moment.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0024"
+      ],
+      "moment": "Jiang reduces a state visit to the movement of concentrated wealth.",
+      "source_phrase": "it is billionaires that really set the agenda for us, China relations",
+      "why_it_matters": "This is his governing geopolitical frame for the Trump trip and for the trade-war-to-rapprochement turn.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "rapprochement",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang's label for the renewed attempt at U.S.-China accommodation after the earlier trade-war phase.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0021",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0024"
+      ],
+      "note": "The packet anchors the source in the immediate aftermath of a Trump China visit that happened the prior Thursday and Friday, while also reaching back to China's WTO entry around 2000 as background for Jiang's trade-war theory.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0021",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0022"
+      ],
+      "note": "Jiang's explanation for the NBC cancellation is explicitly speculative; the packet supports that he suspects censorship or political vetting, not that either explanation is confirmed."
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0024"
+      ],
+      "note": "The billionaire list and the asserted total wealth are transcript-grounded but not independently verified within the packet."
+    }
+  ]
+}

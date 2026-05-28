@@ -1,0 +1,265 @@
+{
+  "source_slug": "interview-izzvijq0gka",
+  "decisions": [
+    {
+      "candidate_id": "seg-0005->seg-0006:move-leading-completion-to-previous:485e7ad3f55f",
+      "decision": "approve",
+      "reason": "'The' clearly belongs with 'idea is...' to complete the sentence."
+    },
+    {
+      "candidate_id": "seg-0021->seg-0022:move-leading-completion-to-previous:26326284316e",
+      "decision": "approve",
+      "reason": "Moves 'for us to interview Professor Jang?' back to finish the question."
+    },
+    {
+      "candidate_id": "seg-0024->seg-0025:move-leading-completion-to-previous:9cbae5ed0207",
+      "decision": "approve",
+      "reason": "'two things' completes the prior clause exactly."
+    },
+    {
+      "candidate_id": "seg-0026->seg-0027:move-leading-completion-to-previous:ffbb003ec751",
+      "decision": "approve",
+      "reason": "'and basically cause...' is a direct continuation of the prior sentence."
+    },
+    {
+      "candidate_id": "seg-0027->seg-0028:move-leading-completion-to-previous:42275ef7f0f9",
+      "decision": "approve",
+      "reason": "Moves 'to be aware of this problem' back to complete the manager's sentence."
+    },
+    {
+      "candidate_id": "seg-0029->seg-0030:move-leading-completion-to-previous:4f098bb9f8d4",
+      "decision": "reject",
+      "reason": "'consumer settlement' looks like ASR damage, so the safe boundary is unclear."
+    },
+    {
+      "candidate_id": "seg-0032->seg-0033:move-trailing-starter-to-next:139e5d4fca9a",
+      "decision": "reject",
+      "reason": "'George H. W. Bush,' already completes the prior clause; moving it would damage the name."
+    },
+    {
+      "candidate_id": "seg-0033->seg-0034:move-leading-completion-to-previous:95181558085b",
+      "decision": "approve",
+      "reason": "'they want to be like us' completes the prior thought cleanly."
+    },
+    {
+      "candidate_id": "seg-0036->seg-0037:move-leading-completion-to-previous:a789b91ee116",
+      "decision": "approve",
+      "reason": "'use US treasuries as your reserve' is the completion of the prior sentence."
+    },
+    {
+      "candidate_id": "seg-0039->seg-0040:move-leading-completion-to-previous:465b8df41e23",
+      "decision": "approve",
+      "reason": "'that prints the money' belongs with 'a federal reserve that...'"
+    },
+    {
+      "candidate_id": "seg-0043->seg-0044:move-trailing-starter-to-next:4d75765c80cf",
+      "decision": "approve",
+      "reason": "Moving 'this' makes 'And this is honestly why...' read as one sentence."
+    },
+    {
+      "candidate_id": "seg-0046->seg-0047:move-leading-completion-to-previous:3dcca803497f",
+      "decision": "approve",
+      "reason": "'there's only one place...' completes the setup from the prior segment."
+    },
+    {
+      "candidate_id": "seg-0052->seg-0053:move-leading-completion-to-previous:d1b5db2edd15",
+      "decision": "approve",
+      "reason": "'the trade that matters' directly completes the prior clause."
+    },
+    {
+      "candidate_id": "seg-0059->seg-0060:move-leading-completion-to-previous:e4e308e96903",
+      "decision": "approve",
+      "reason": "'first term' completes the phrase about Trump's opponents."
+    },
+    {
+      "candidate_id": "seg-0060->seg-0061:move-leading-completion-to-previous:fd0632a3eb45",
+      "decision": "approve",
+      "reason": "'Because OpenAI is not profitable' continues the same sentence."
+    },
+    {
+      "candidate_id": "seg-0073->seg-0074:move-leading-completion-to-previous:e9cf33e94e4e",
+      "decision": "approve",
+      "reason": "'made us more productive' completes the 'that's good because it's...' sentence."
+    },
+    {
+      "candidate_id": "seg-0074->seg-0075:move-leading-completion-to-previous:aa8f952b5072",
+      "decision": "approve",
+      "reason": "'humans, human misery can be a business opportunity' is one continuous clause."
+    },
+    {
+      "candidate_id": "seg-0075->seg-0076:move-leading-completion-to-previous:48055612944b",
+      "decision": "approve",
+      "reason": "'live in' completes 'the world that we just live...'"
+    },
+    {
+      "candidate_id": "seg-0083->seg-0084:move-leading-completion-to-previous:24054e03eec8",
+      "decision": "approve",
+      "reason": "'fortress' completes 'self-sufficient continental...'"
+    },
+    {
+      "candidate_id": "seg-0086->seg-0087:move-leading-completion-to-previous:611cb4c0c61d",
+      "decision": "approve",
+      "reason": "'of dollars of energy' belongs with 'billions and billions...'"
+    },
+    {
+      "candidate_id": "seg-0091->seg-0092:move-leading-completion-to-previous:02dc09d8e406",
+      "decision": "approve",
+      "reason": "'absolutely no political loyalties' completes the prior sentence."
+    },
+    {
+      "candidate_id": "seg-0103->seg-0104:move-leading-completion-to-previous:a491ab8cdb2f",
+      "decision": "approve",
+      "reason": "'that, yes, you could send your military overseas' finishes the fear setup."
+    },
+    {
+      "candidate_id": "seg-0106->seg-0107:move-leading-completion-to-previous:6e3040720af5",
+      "decision": "approve",
+      "reason": "'the Vietnamese...' completes the sentence about resources spent against them."
+    },
+    {
+      "candidate_id": "seg-0109->seg-0110:move-leading-completion-to-previous:c78fd5d74970",
+      "decision": "approve",
+      "reason": "'the United States' completes 'buy weapons from...'"
+    },
+    {
+      "candidate_id": "seg-0111->seg-0112:move-leading-completion-to-previous:27816b8ec7ba",
+      "decision": "reject",
+      "reason": "The next segment is a new rhetorical question, not a completion of 'entire -'."
+    },
+    {
+      "candidate_id": "seg-0118->seg-0119:move-leading-completion-to-previous:e454c18e6796",
+      "decision": "approve",
+      "reason": "'accept this status quo' completes 'Xi Jinping is saying, like, I...'"
+    },
+    {
+      "candidate_id": "seg-0123->seg-0124:move-leading-completion-to-previous:fdbcc4aa4608",
+      "decision": "approve",
+      "reason": "'approach' completes 'three pillars to this long-term...'"
+    },
+    {
+      "candidate_id": "seg-0126->seg-0127:move-leading-completion-to-previous:98781371906f",
+      "decision": "reject",
+      "reason": "The next segment is the interviewer changing topics with a question, not a completion."
+    },
+    {
+      "candidate_id": "seg-0128->seg-0129:move-leading-completion-to-previous:e0edc9384b21",
+      "decision": "approve",
+      "reason": "'in order to foment political discontent' completes 'you do surgical strikes...'"
+    },
+    {
+      "candidate_id": "seg-0132->seg-0133:move-leading-completion-to-previous:a1dc9be68cf9",
+      "decision": "approve",
+      "reason": "'moved on with their lives' directly completes the prior sentence."
+    },
+    {
+      "candidate_id": "seg-0141->seg-0142:move-leading-completion-to-previous:654a4339d078",
+      "decision": "approve",
+      "reason": "'like three thousand of them' continues the same sentence without a topic break."
+    },
+    {
+      "candidate_id": "seg-0149->seg-0150:move-leading-completion-to-previous:89caf7965308",
+      "decision": "approve",
+      "reason": "'something that I would hear from a propagandist' completes the thought."
+    },
+    {
+      "candidate_id": "seg-0179->seg-0180:move-leading-completion-to-previous:5c582d43b4bb",
+      "decision": "approve",
+      "reason": "'forces' completes the repeated phrase 'supernatural forces'."
+    },
+    {
+      "candidate_id": "seg-0180->seg-0181:move-leading-completion-to-previous:9f7915af4c65",
+      "decision": "approve",
+      "reason": "'state' completes 'AI surveillance...' before the explanation continues."
+    },
+    {
+      "candidate_id": "seg-0182->seg-0183:move-leading-completion-to-previous:55513fb1d2fe",
+      "decision": "approve",
+      "reason": "'from people like Peter Thiel' completes the phrase about transhumanism being spoken about."
+    },
+    {
+      "candidate_id": "seg-0200->seg-0201:move-leading-completion-to-previous:284d25dadc6e",
+      "decision": "approve",
+      "reason": "'you're not a professor' finishes what critics 'still say'."
+    },
+    {
+      "candidate_id": "seg-0201->seg-0202:move-leading-completion-to-previous:83d14a168e61",
+      "decision": "approve",
+      "reason": "'as long as someone's willing to debate me in good faith' completes the offer to debate."
+    },
+    {
+      "candidate_id": "seg-0206->seg-0207:move-trailing-starter-to-next:1489b58ae086",
+      "decision": "approve",
+      "reason": "Moving 'that's' makes 'So, that's one project...' a complete sentence."
+    },
+    {
+      "candidate_id": "seg-0207->seg-0208:move-leading-completion-to-previous:ab0bd7957226",
+      "decision": "approve",
+      "reason": "'where I present my argument...' completes the prior clause about debates with professors."
+    },
+    {
+      "candidate_id": "seg-0210->seg-0211:move-leading-completion-to-previous:1f60f1f875cb",
+      "decision": "approve",
+      "reason": "'feel like the next step...' completes 'And I...'"
+    },
+    {
+      "candidate_id": "seg-0220->seg-0221:move-leading-completion-to-previous:af5ed736db16",
+      "decision": "approve",
+      "reason": "'All right' completes the cut-off phrase 'category. All...'"
+    },
+    {
+      "candidate_id": "seg-0221->seg-0222:move-leading-completion-to-previous:e1d2085d4c24",
+      "decision": "approve",
+      "reason": "'I are looking to relocate...' completes 'My family and...'"
+    },
+    {
+      "candidate_id": "seg-0228->seg-0229:move-leading-completion-to-previous:ab8a5f6941f4",
+      "decision": "approve",
+      "reason": "'by line' completes 'we'll read it line...'"
+    },
+    {
+      "candidate_id": "seg-0239->seg-0240:move-trailing-starter-to-next:2b922e306a00",
+      "decision": "approve",
+      "reason": "Moving 'so' gives the next sentence its natural starter: 'And so the one way...'"
+    },
+    {
+      "candidate_id": "seg-0242->seg-0243:move-trailing-starter-to-next:ffa17b15a22a",
+      "decision": "approve",
+      "reason": "Moving 'There's' restores 'There's direction to my life.' as a complete sentence."
+    },
+    {
+      "candidate_id": "seg-0244->seg-0245:move-leading-completion-to-previous:a5ec3a42986a",
+      "decision": "reject",
+      "reason": "The next segment starts a new aside about the statistic rather than completing 'and how'."
+    },
+    {
+      "candidate_id": "seg-0250->seg-0251:move-leading-completion-to-previous:0b0104f29632",
+      "decision": "approve",
+      "reason": "'screwed over by him' completes the prior sentence exactly."
+    },
+    {
+      "candidate_id": "seg-0255->seg-0256:move-leading-completion-to-previous:c820dbcc0204",
+      "decision": "approve",
+      "reason": "'a lot' completes 'So he hit me...'"
+    },
+    {
+      "candidate_id": "seg-0256->seg-0257:move-leading-completion-to-previous:a24678126a3c",
+      "decision": "approve",
+      "reason": "'all three things' completes 'I was told about...'"
+    },
+    {
+      "candidate_id": "seg-0257->seg-0258:move-leading-completion-to-previous:96d2ad02e43c",
+      "decision": "approve",
+      "reason": "'to take a path that was unconventional and risky' completes 'I was never afraid...'"
+    },
+    {
+      "candidate_id": "seg-0258->seg-0259:move-leading-completion-to-previous:3c790e09e272",
+      "decision": "approve",
+      "reason": "'this is like a turning point' belongs with 'So I feel that this is...'"
+    },
+    {
+      "candidate_id": "seg-0263->seg-0264:move-leading-completion-to-previous:e1d75c848ff7",
+      "decision": "approve",
+      "reason": "'UFO conversation' completes 'especially with the new...'"
+    }
+  ]
+}

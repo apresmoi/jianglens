@@ -1,0 +1,181 @@
+{
+  "packet_id": "interview-izzvijq0gka-semantics-pkt-0026",
+  "source_id": "video:interview-izzvijq0gka",
+  "source_date": "2026-05-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0201",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0204"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang continues answering criticism by saying detractors attack his status instead of his arguments, and Sneako briefly reinforces the point by correcting the recurring mislabel that Jiang is a professor rather than a high-school teacher.",
+      "speaker_attribution": "Jiang answer with Sneako follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0205",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0208"
+      ],
+      "kind": "question",
+      "summary": "Sneako asks what Jiang plans to do when his school contract ends, and Jiang lays out a June Dante seminar, a likely North America podcast tour in the fall, and a plan to debate professors so he can test and refine his arguments under academic scrutiny.",
+      "speaker_attribution": "Sneako question and Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0202"
+      ],
+      "note": "Segment 0202 is effectively empty overlap from the preceding answer and should not be treated as a separate semantic event.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0207",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0208"
+      ],
+      "note": "Jiang shifts from scheduling talk into a methodological commitment to scholarly testing and self-critique; that second half matters more than the itinerary details alone.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says critics usually attack his personal status rather than engage his substantive arguments, even when he explicitly identifies himself as a high-school teacher rather than a professor.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0201",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0203",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0204"
+      ],
+      "temporal_scope": "Public-criticism diagnosis stated on 2026-05-18.",
+      "topic_tags": ["criticism", "status attack", "high-school teacher", "debate"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he will leave his school when the current contract expires in June.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0206"
+      ],
+      "temporal_scope": "Near-term personal plan stated on 2026-05-18 about June 2026.",
+      "topic_tags": ["contract", "school", "June 2026", "departure"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He plans to run a two-week public livestream seminar on Dante's Divine Comedy in June, reading the whole work line by line because he regards it as the greatest literary work ever and universally valuable.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0206"
+      ],
+      "temporal_scope": "Planned June 2026 teaching project stated on 2026-05-18.",
+      "topic_tags": ["Dante", "Divine Comedy", "seminar", "livestream", "teaching"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Divine Comedy also addresses themes like demons and energy harvesting, which is part of why he wants to teach it in this new format.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0206"
+      ],
+      "temporal_scope": "Interpretive literary claim stated on 2026-05-18.",
+      "topic_tags": ["Divine Comedy", "demons", "energy harvesting", "literary interpretation"],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says he will probably visit North America in the fall for podcasts, deeper in-person discussion, and possible debates with professors who know the material so he can present his arguments more scholarlily.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0207"
+      ],
+      "temporal_scope": "Planned fall 2026 travel and debate agenda stated on 2026-05-18.",
+      "topic_tags": ["North America", "podcasts", "debate", "professors", "fall 2026"],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says it is personally important for him to critique himself and test whether his arguments can withstand academic scrutiny.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0208"
+      ],
+      "temporal_scope": "Methodological commitment stated on 2026-05-18.",
+      "topic_tags": ["self-critique", "academic scrutiny", "debate", "method"],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0206"
+      ],
+      "moment": "The next stage after leaving school is not retreat but a global Dante livestream that reads the entire Divine Comedy line by line as a universal teaching event.",
+      "source_phrase": "a two-week live stream on Divine Comedy",
+      "why_it_matters": "It turns a personal contract ending into a concrete alternative educational model and public project.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0207"
+      ],
+      "moment": "Podcast appearances are framed not as clout-chasing but as a route toward deeper in-person argument and formal scholarly testing of his worldview.",
+      "source_phrase": "make my arguments much more scholarly",
+      "why_it_matters": "It shows Jiang trying to convert internet attention into a more rigorous public-intellectual lane.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0208"
+      ],
+      "moment": "He casts self-critique as necessary discipline: the point is to see whether the arguments can actually survive academic scrutiny.",
+      "source_phrase": "see if my arguments can withstand academic scrutiny",
+      "why_it_matters": "This is the packet's clearest statement that Jiang wants adversarial testing rather than insulated agreement.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Divine Comedy seminar",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0206"
+      ],
+      "definition_or_usage": "Jiang's planned June 2026 two-week public livestream reading of Dante line by line, presented as a universal educational offering.",
+      "confidence": "high"
+    },
+    {
+      "term": "academic scrutiny",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0207",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0208"
+      ],
+      "definition_or_usage": "Jiang's stated test for whether his arguments can survive debate with knowledgeable professors rather than remaining internet assertions.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0201",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0208"
+      ],
+      "note": "The packet moves from defensive talk about current critics into an explicit near-future roadmap: leaving school in June, launching a Dante seminar, likely traveling in North America in the fall, and deliberately submitting his views to scholarly critique.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0206",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0207"
+      ],
+      "note": "These plans are explicitly prospective and partly tentative. Preserve the dated future orientation and modal language rather than treating the seminar, travel, or professor debates as already accomplished facts."
+    }
+  ]
+}
