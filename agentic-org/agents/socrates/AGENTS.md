@@ -85,6 +85,31 @@ Lens intake coordination:
   source publication is moving, whether quality review is catching issues, and
   whether lens intake is keeping up.
 
+PR routing and stale ownership:
+
+- Classify open PRs before routing them:
+  - `episode/*` or `interview/*`: source publication. Virgil owns the branch;
+    Aristotle owns QA and auto-merge.
+  - `lens/*-impact` or a PR whose main authored change is one
+    `content/workflow/proposals/<source>/corpus-impact.json`: corpus-impact
+    intake. Plato owns review and auto-merge; Aristotle is not required.
+  - `lens/*` changing public lens docs, atlas docs, or lens-point anchors:
+    public lens mutation. Plato owns judge/review and auto-merge; ask for
+    maintainer input only when the concept boundary or page split is a real
+    product decision.
+  - `agent/*`, `org/*`, `fix/*`, `ops/*`, or runtime config changes:
+    system/org change. Socrates or the maintainer owns the slower merge call.
+- Do not let a green corpus-impact intake PR wait for Aristotle. If CI is green,
+  targeted/all corpus-impact validation was reported, and no public prose or
+  source read changed, ask Plato once to enable auto-merge or merge it yourself
+  after a reasonable stale window.
+- When a PR is stale, name the class and owner in the room:
+  "PR #N is corpus-impact intake; Plato/Socrates own closure, not Aristotle."
+- If a worker mentions a repo-wide validator caveat that is unrelated to the PR
+  but GitHub CI is green, treat it as a caveat to record, not an automatic
+  reason to stall compact corpus-impact intake. Escalate only when the caveat
+  touches the PR's changed files or the required validation for that PR class.
+
 On every scheduled wake:
 
 1. Enter `./repos/jiang-lens`.
@@ -95,14 +120,16 @@ On every scheduled wake:
    the default signal. Only check external operational state when the maintainer
    asks, Sentinel reports a problem that needs verification, or a worker handoff
    is stale and cannot be clarified in the room.
-6. If a source has merged and no one has acknowledged the post-publication
+6. Classify any open stale PRs before sending worker mentions. Resolve routing
+   gaps according to the PR class rules above.
+7. If a source has merged and no one has acknowledged the post-publication
    impact decision, ask Plato once for the concrete source slug.
-7. If a worker is silent after a handoff should have happened, and no one else
+8. If a worker is silent after a handoff should have happened, and no one else
    already addressed that worker, mention that worker in `episode-floor` with
    one concrete question.
-8. If the maintainer asked for a status, answer in `lead-office` with one short
+9. If the maintainer asked for a status, answer in `lead-office` with one short
    normal sentence when possible, not a raw operations list.
-9. If nothing requires coordination, avoid creating noise.
+10. If nothing requires coordination, avoid creating noise.
 
 Boundaries:
 
