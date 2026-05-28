@@ -1,0 +1,205 @@
+{
+  "packet_id": "interview-izzvijq0gka-semantics-pkt-0019",
+  "source_id": "video:interview-izzvijq0gka",
+  "source_date": "2026-05-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0145",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0146",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0147"
+      ],
+      "kind": "exchange",
+      "summary": "Sneako asks whether recent racialized streamer drama and draft talk fit Jiang's civil-war forecast, Jiang asks for background, and Sneako explains the episode as a symptom of mounting social division and possible race-war conditions.",
+      "speaker_attribution": "Sneako question, Jiang clarification request, and Sneako follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0148"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that social media is amplifying discontent and that his own popularity comes partly from articulating the anger people feel toward elite rule.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0149",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0150"
+      ],
+      "kind": "exchange",
+      "summary": "Sneako reflects that Jiang's appeal comes from offering game-theoretic analysis rather than propagandistic moral posturing, while the duplicated empty segment adds no new semantic content.",
+      "speaker_attribution": "Sneako reflection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0151",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0152"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang says the only real solution is honest awareness of how the world works, and Sneako paraphrases that Jiang prefers diagnosing what is over preaching what should be.",
+      "speaker_attribution": "Jiang answer with Sneako paraphrase",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0145"
+      ],
+      "note": "Sneako's opening question is cluttered with current-event references and ASR noise, but its function is clear: he is testing a live example against Jiang's broader civil-war prediction.",
+      "suggested_speaker": "Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0150"
+      ],
+      "note": "Segment 0150 is effectively empty duplication from the end of Sneako's prior turn and should not carry independent semantic weight.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says social media has amplified widespread discontent over the past several years.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0148"
+      ],
+      "temporal_scope": "Current social diagnosis stated on 2026-05-18.",
+      "topic_tags": [
+        "social media",
+        "discontent",
+        "public anger",
+        "online politics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that his online popularity comes from giving conceptual shape to popular anger by explaining how elites run the world and exploit ordinary people.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0148"
+      ],
+      "temporal_scope": "Self-description of Jiang's current audience relationship stated on 2026-05-18.",
+      "topic_tags": [
+        "Jiang",
+        "audience",
+        "elite critique",
+        "anger"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says platforms could easily ban or cancel him if they wanted to, so their tolerance for his reach suggests that highly charged discourse may be serving larger destabilizing conditions.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0148"
+      ],
+      "temporal_scope": "Current media-power interpretation stated on 2026-05-18.",
+      "topic_tags": [
+        "platform power",
+        "censorship",
+        "destabilization",
+        "revolution"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that the practical solution begins with an honest conversation about what is really driving the world, because awareness is a prerequisite for any genuine remedy.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0151"
+      ],
+      "temporal_scope": "Normative-political claim stated on 2026-05-18.",
+      "topic_tags": [
+        "awareness",
+        "honest conversation",
+        "world system",
+        "solution"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Sneako characterizes Jiang's method as analysis of how power actually works rather than moralizing about how states should behave.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0149",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0152"
+      ],
+      "temporal_scope": "Interpretive framing voiced during the 2026-05-18 interview.",
+      "topic_tags": [
+        "game theory",
+        "analysis",
+        "morality",
+        "method"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0148"
+      ],
+      "moment": "Jiang casts himself as a voice that gives structure to ambient rage, not by soothing it but by explaining how elite rule actually works.",
+      "source_phrase": "I give reason to a lot of this anger",
+      "why_it_matters": "It is one of the clearest self-descriptions in the interview of what Jiang thinks his online role is.",
+      "tone": "self-definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0148"
+      ],
+      "moment": "The unsettling implication is that the system may keep certain dissident voices alive because heated outrage itself helps create revolutionary conditions.",
+      "source_phrase": "it's a bit of conditions for for a revolution",
+      "why_it_matters": "This turns platform tolerance into part of Jiang's broader theory of managed destabilization.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0151"
+      ],
+      "moment": "The only real remedy Jiang offers is not policy but lucidity: first tell the truth about what drives the world, then solutions can even become thinkable.",
+      "source_phrase": "raise awareness about how the world works",
+      "why_it_matters": "It gives the packet its clearest constructive principle after many packets of geopolitical diagnosis.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "raise awareness about how the world works",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0151"
+      ],
+      "definition_or_usage": "Jiang's minimal program for change: expose the real drivers of power before talking about remedies.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0145",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0151"
+      ],
+      "note": "The packet moves from a concrete example of rising racial and online tension into Jiang's meta-account of why his own discourse spreads and why truthful system-analysis is, for him, the starting point for any solution.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0145",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0147"
+      ],
+      "note": "The named streamer and some current-event details are noisy in ASR, so the durable semantic value lies in the example's role as a symptom of racialized tension rather than in its exact factual particulars."
+    }
+  ]
+}

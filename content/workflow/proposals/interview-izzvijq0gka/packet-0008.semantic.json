@@ -1,0 +1,292 @@
+{
+  "packet_id": "interview-izzvijq0gka-semantics-pkt-0008",
+  "source_id": "video:interview-izzvijq0gka",
+  "source_date": "2026-05-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0057"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang corrects the trade-war timeline, dating it from January 2018 through the present.",
+      "speaker_attribution": "Jiang clarification",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0058"
+      ],
+      "kind": "question",
+      "summary": "Sneako asks whether the meeting was really about AI expansion and a new tech order rather than Iran or oil politics.",
+      "speaker_attribution": "Interviewer Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0059",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0060",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0061"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that the overt goal was opening China's market, but the deeper purpose was a revolutionary internal power shift in both countries, especially a U.S. struggle between Wall Street and tech elites over who will control the state and bankroll AI infrastructure.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0062"
+      ],
+      "kind": "exchange",
+      "summary": "Sneako suggests older Wall Street actors simply rotated into AI and tech investing instead of being displaced.",
+      "speaker_attribution": "Interviewer Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0063"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees that some financial elites switched sides, but says a deeper conflict remains between globalist Democratic elites and nationalist Republican tech elites and may turn violent.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "Sneako ties the elite realignment to public remarks from Larry Fink, portraying DEI and gender politics as a temporary experiment before capital pivots back to investment priorities.",
+      "speaker_attribution": "Interviewer Sneako",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0059"
+      ],
+      "note": "The line \"both Trump and presidency are revolutionaries\" is almost certainly garbled ASR. The surrounding argument suggests Jiang means Trump and Xi Jinping or the Chinese presidency, but the exact wording is unclear.",
+      "suggested_speaker": "Jiang",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0060"
+      ],
+      "note": "The name \"Seth Altman\" appears to be an ASR error for Sam Altman.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0063"
+      ],
+      "note": "The name \"Steven Swartzman\" appears to be an ASR rendering of Stephen Schwarzman.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang dates the trade-war period under discussion from January 2018 through the present of the interview.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Explicit chronology stated on 2026-05-18.",
+      "topic_tags": [
+        "trade war",
+        "chronology",
+        "2018"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the visible purpose of the trade war was to secure greater American access to the Chinese economy.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Retrospective explanation offered on 2026-05-18 about the 2018-to-present trade war.",
+      "topic_tags": [
+        "trade war",
+        "market access",
+        "China",
+        "United States"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that the hidden purpose of the trade war was revolutionary domestic consolidation: upsetting old economic winners and losers so loyal blocs could take control inside each political system.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Interpretive political model presented on 2026-05-18.",
+      "topic_tags": [
+        "trade war",
+        "revolution",
+        "domestic control",
+        "elite realignment",
+        "political systems"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Trump's coalition aligned more with Silicon Valley tech oligarchs than with Wall Street globalists, and he frames the struggle as a battle over control of Washington's policy apparatus.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0059",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Current U.S. elite-political diagnosis on 2026-05-18, with reference to Trump's first term.",
+      "topic_tags": [
+        "Trump",
+        "Silicon Valley",
+        "Wall Street",
+        "Washington",
+        "elite conflict"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that tech elites want state support for an AI surveillance buildout because firms like OpenAI are not yet profitable and need massive public financing for data centers before monopoly profits arrive.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0060",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Current technological-political diagnosis on 2026-05-18.",
+      "topic_tags": [
+        "AI",
+        "OpenAI",
+        "data centers",
+        "government investment",
+        "AI surveillance state",
+        "monopoly"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says a major function of the trade war was to weaken Wall Street's China-linked power base so a tech-aligned elite could replace it.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Retrospective strategic interpretation offered on 2026-05-18.",
+      "topic_tags": [
+        "trade war",
+        "Wall Street",
+        "China investments",
+        "tech elite",
+        "elite replacement"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says some financial elites have already switched into the tech camp, but a larger conflict between globalist Democratic elites and nationalist Republican tech elites still remains.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Current political diagnosis on 2026-05-18.",
+      "topic_tags": [
+        "globalists",
+        "Democrats",
+        "Republicans",
+        "tech elite",
+        "financial elite",
+        "realignment"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that the unresolved struggle between those elite blocs will eventually become violent inside the United States.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Future-oriented prediction stated on 2026-05-18.",
+      "topic_tags": [
+        "United States",
+        "elite conflict",
+        "violence",
+        "politics"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0059"
+      ],
+      "moment": "The trade war is recast as a revolution inside the revolutions, a method for rearranging loyalty and ownership rather than just bargaining over tariffs.",
+      "source_phrase": "the hidden reason",
+      "why_it_matters": "This is Jiang's turn from surface geopolitics to his preferred regime-theory explanation of what economic conflict is really doing.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0061"
+      ],
+      "moment": "AI only becomes a business once it can monopolize the social field so completely that Jiang glosses it as becoming God.",
+      "source_phrase": "once it becomes a monopoly, once it becomes God, then it's profitable",
+      "why_it_matters": "This phrase fuses Jiang's monopoly critique, AI political economy, and his theological register into one memorable line.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0063"
+      ],
+      "moment": "Elite realignment does not resolve the crisis; it only changes the banners on an approaching internal war.",
+      "source_phrase": "eventually things have got very violent in the United States",
+      "why_it_matters": "It turns a factional-money argument into a forecast of domestic rupture.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "AI surveillance state",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "A state-backed AI order that depends on large public investment in data centers and analytics capacity so tech elites can turn data into political control and eventual monopoly.",
+      "confidence": "high"
+    },
+    {
+      "term": "Wall Street globalists",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0059",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0060"
+      ],
+      "definition_or_usage": "Jiang's label for the older U.S. financial elite that previously dominated Washington and is being challenged by a tech-oligarch faction.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0057",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0059",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0060",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0061",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0063"
+      ],
+      "note": "Jiang anchors the trade war in January 2018, then layers a hidden-cause story onto that timeline: the conflict begins as market access pressure, becomes a domestic elite reshuffle, and projects forward into future U.S. internal violence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0058"
+      ],
+      "note": "Sneako's framing of the meeting as mainly about AI, tech order, and not Iran is an interviewer synthesis that Jiang partly accepts but does not restate in exactly the same terms."
+    }
+  ]
+}

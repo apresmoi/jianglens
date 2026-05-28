@@ -1,0 +1,244 @@
+{
+  "packet_id": "interview-izzvijq0gka-semantics-pkt-0001",
+  "source_id": "video:interview-izzvijq0gka",
+  "source_date": "2026-05-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0001"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang delivers a cold-open geopolitical riff arguing that Chinese opinion flipped against Iran after Trump visited China and that Chinese public sentiment is ultimately pragmatic and money-oriented.",
+      "speaker_attribution": "Jiang cold-open monologue",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0002"
+      ],
+      "kind": "question",
+      "summary": "The interviewer asks Jiang to explain his claim that AI will become God.",
+      "speaker_attribution": "Interviewer Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0003"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers by paraphrasing Peter Thiel on monopoly and then arguing that AI wins by exploiting human loneliness, before veering into a friendly aside about Malaysia.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0004"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer briefly affirms Jiang's invitation to visit Malaysia together.",
+      "speaker_attribution": "Interviewer Sneako",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0005",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang pivots from Malaysia to an occult reading of CERN, then explains a spiritual-energy model in which low-vibration emotions feed demons while joyful attention reconnects people to the monad.",
+      "speaker_attribution": "Jiang monologue",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0007",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "The actual live greeting begins, with Sneako and Jiang catching up about the Southeast Asia trip and confirming Jiang followed it on social media.",
+      "speaker_attribution": "Split greeting between Sneako and Jiang inside noisy ASR segments",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0001",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0002",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0003",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0004",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0005",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0006"
+      ],
+      "note": "These opening segments read like a pre-call montage or clipped teaser rather than a continuous live exchange; the speaker identities are mostly recoverable, but the editorial joins are abrupt.",
+      "suggested_speaker": "Mostly Jiang with one interviewer prompt",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0007",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0008"
+      ],
+      "note": "Segment 0007 contains both speakers in one ASR block, and segment 0008 continues Jiang's side of the greeting after the split.",
+      "suggested_speaker": "Mixed Sneako and Jiang in seg-0007; Jiang in seg-0008",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Chinese online opinion flipped against Iran after Trump visited China, and he treats that swing as evidence that Chinese public sentiment is fundamentally pragmatic and oriented toward whoever can make money.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Current geopolitical diagnosis presented on 2026-05-18 about reaction to a very recent Trump China visit.",
+      "topic_tags": [
+        "China",
+        "Iran",
+        "Trump",
+        "public opinion",
+        "pragmatism"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang borrows Peter Thiel's monopoly argument and says AI's decisive secret is human loneliness, which can be turned into a world-conquering product.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Current model and diagnosis on 2026-05-18.",
+      "topic_tags": [
+        "AI",
+        "Peter Thiel",
+        "monopoly",
+        "loneliness",
+        "technology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Malaysia appears ripe for new ideas based on what he observed from Sneako's Southeast Asia tour.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0003",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Current evaluative judgment on 2026-05-18.",
+      "topic_tags": [
+        "Malaysia",
+        "education reform",
+        "Southeast Asia"
+      ],
+      "claim_type": "normative",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang relays speculative claims that CERN may be trying to open interdimensional portals for free energy and for demonic entry into the world.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Speculative interpretation presented on 2026-05-18.",
+      "topic_tags": [
+        "CERN",
+        "occult",
+        "free energy",
+        "demons"
+      ],
+      "claim_type": "other",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang presents a spiritual-energy model in which hate and anger feed demons, while conscious, attentive, joyful states reconnect a person to the monad.",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Current spiritual model presented on 2026-05-18.",
+      "topic_tags": [
+        "vibration",
+        "demons",
+        "monad",
+        "attention",
+        "joy"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0001"
+      ],
+      "moment": "Jiang compresses Chinese geopolitical behavior into a brutally pragmatic image of a public that follows money over ideology.",
+      "source_phrase": "The Chinese people are first and foremost, pragmatic. They love money and that's it.",
+      "why_it_matters": "This sets the interview's early tone: Jiang reads geopolitics through incentives and opportunism rather than civilizational loyalty.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0003"
+      ],
+      "moment": "AI is reduced to a monopoly machine that wins by feeding on loneliness.",
+      "source_phrase": "The secret is human loneliness.",
+      "why_it_matters": "It is the packet's sharpest compression of Jiang's AI anxiety: technological dominance comes from an unmet human need, not from raw code alone.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0006"
+      ],
+      "moment": "Jiang describes emotion as fuel in a cosmic struggle between demonic feeding and joyful reconnection.",
+      "source_phrase": "if you are in a low vibrational state ... you're feeding these demons",
+      "why_it_matters": "This is the packet's most vivid metaphysical turn and shows how quickly Jiang can move from politics and tech into spiritual causality.",
+      "tone": "image",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "monad",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang's term for the higher spiritual source a person reconnects to when attention, consciousness, and joy replace low-vibration emotions.",
+      "confidence": "medium"
+    },
+    {
+      "term": "vibrational state",
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "A spiritual-emotional condition Jiang uses to distinguish demon-feeding states like hate and anger from attentive, joyful states aligned with higher consciousness.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0001",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0007",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0008"
+      ],
+      "note": "The packet juxtaposes an editorial cold open of Jiang's topical claims with the later live greeting that begins the actual interview call.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0005"
+      ],
+      "note": "The line transcribed as \"luge is your spiritual energy\" is likely garbled ASR; the broader occult-spiritual point is recoverable but the exact term is not."
+    },
+    {
+      "refs": [
+        "video:interview-izzvijq0gka@transcript:v1#seg-0007",
+        "video:interview-izzvijq0gka@transcript:v1#seg-0008"
+      ],
+      "note": "The greeting section is split awkwardly across segments and contains speaker mixing, so the exact sentence boundaries are approximate."
+    }
+  ]
+}
