@@ -1,0 +1,146 @@
+{
+  "packet_id": "interview-nqam-7gt-9k-semantics-pkt-0010",
+  "source_id": "video:interview-nqam-7gt-9k",
+  "source_date": "2012-03-16",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0073",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0075"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the word empathy carries a long history of Western connotations, so even a newly coined Chinese equivalent would still lack the lived meanings the English word already evokes.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0074"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer briefly pauses the conversation to resolve a frozen video connection before returning to the translation exercise.",
+      "speaker_attribution": "Interviewer technical interruption",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0076",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0077",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0078",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0079",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer and Rebecca continue the playful coinage attempt by isolating Chinese words for feeling and for 'into,' repeating them aloud as test pieces for a possible empathy term.",
+      "speaker_attribution": "Interviewer-Rebecca translation exercise",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0074"
+      ],
+      "note": "This segment is a technical interruption rather than semantic content about empathy.",
+      "suggested_speaker": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says empathy is difficult to translate because the English word already carries connotations, ideas, and images built up through a long Western civilizational history.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0073",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0075"
+      ],
+      "temporal_scope": "Civilizational-linguistic diagnosis stated on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "Western civilization",
+        "connotations",
+        "translation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that even if a Chinese term could be invented to capture the essence of empathy, the coined word would still lack the accumulated meaning and impact the English term already has.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0075"
+      ],
+      "temporal_scope": "Current conceptual limit stated on 2012-03-16.",
+      "topic_tags": [
+        "coining terms",
+        "meaning",
+        "impact",
+        "Chinese language",
+        "empathy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The group nevertheless treats the translation problem as a useful exercise by trying to break empathy into semantic components like feeling and 'into.'",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0076",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0077",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0078",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0079",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Live translation exercise on 2012-03-16.",
+      "topic_tags": [
+        "translation exercise",
+        "feeling",
+        "into",
+        "empathy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0075"
+      ],
+      "moment": "Jiang shifts the translation problem from dictionary equivalence to civilizational inheritance: the word matters because it drags a whole field of images behind it.",
+      "source_phrase": "it automatically brings up connotations and ideas and images",
+      "why_it_matters": "This turns empathy into a culture-bearing term rather than a neutral label that can be swapped across languages without residue.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0076",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0080"
+      ],
+      "moment": "After admitting the concept cannot be carried over intact, the conversation keeps playing with raw semantic pieces anyway.",
+      "source_phrase": "we'll change it by try to come up with a word in Chinese",
+      "why_it_matters": "The packet shows conceptual improvisation in real time rather than a settled doctrine.",
+      "tone": "method",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0073",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0075"
+      ],
+      "note": "This packet sharpens the earlier 'no Chinese word for empathy' claim by explaining that the missing piece is not only translation accuracy but missing historical connotation in China circa 2012.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0077",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0079"
+      ],
+      "note": "The ASR transliteration of Rebecca's Chinese pronunciation is approximate, so the exact lexical proposal is uncertain even though the exercise structure is clear."
+    }
+  ]
+}

@@ -1,0 +1,2741 @@
+{
+  "id": "evidence:semanticvideo-interview-nqam-7gt-9k:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "interview-nqam-7gt-9k",
+  "source_id": "video:interview-nqam-7gt-9k",
+  "source_title": "Jiang Xueqin & Edwin Rutsch: How to Build a Culture of Empathy in China Education System",
+  "source_url": "https://www.youtube.com/watch?v=nqAm_7gt_9k",
+  "source_date": "2012-03-16",
+  "date_precision": "day",
+  "transcript_id": "video:interview-nqam-7gt-9k@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0001.semantic.json",
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0002.semantic.json",
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0003.semantic.json",
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0004.semantic.json",
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0005.semantic.json",
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0006.semantic.json",
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0007.semantic.json",
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0008.semantic.json",
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0009.semantic.json",
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0010.semantic.json",
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0011.semantic.json",
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0012.semantic.json",
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0013.semantic.json",
+      "content/workflow/proposals/interview-nqam-7gt-9k/packet-0014.semantic.json"
+    ],
+    "source_path": "content/sources/videos/interview-nqam-7gt-9k/source.yaml",
+    "transcript_path": "content/sources/videos/interview-nqam-7gt-9k/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 14,
+    "interactions": 71,
+    "speaker_notes": 10,
+    "claims": 73,
+    "signature_moments": 41,
+    "predictions": 0,
+    "models": 19,
+    "glossary_terms": 19,
+    "chronology_notes": 14,
+    "uncertainty_notes": 11
+  },
+  "first_refs": [
+    "video:interview-nqam-7gt-9k@transcript:v1#seg-0002",
+    "video:interview-nqam-7gt-9k@transcript:v1#seg-0004",
+    "video:interview-nqam-7gt-9k@transcript:v1#seg-0005",
+    "video:interview-nqam-7gt-9k@transcript:v1#seg-0006",
+    "video:interview-nqam-7gt-9k@transcript:v1#seg-0009",
+    "video:interview-nqam-7gt-9k@transcript:v1#seg-0016",
+    "video:interview-nqam-7gt-9k@transcript:v1#seg-0010",
+    "video:interview-nqam-7gt-9k@transcript:v1#seg-0012"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0001"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A voiceover opens the interview with a slogan that frames empathy as world-changing perspective taking.",
+      "speaker_attribution": "Intro narrator or title-card voiceover",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0002"
+      ],
+      "kind": "answer",
+      "summary": "Jiang introduces himself, his transnational background, and his work in Beijing study-abroad education.",
+      "speaker_attribution": "Jiang self-introduction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0003"
+      ],
+      "kind": "question",
+      "summary": "The interviewer asks what Peking University High School is and what kind of school Jiang is describing.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0004",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0005",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0006",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0007"
+      ],
+      "kind": "answer",
+      "summary": "Jiang describes PKU High School as a historically innovative lab school, then explains how its 2010 international division responded to growing Chinese demand for U.S.-oriented education reform.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0008"
+      ],
+      "kind": "question",
+      "summary": "The interviewer reconnects the school to the Ashoka empathy competition and asks Jiang to explain the school's empathy proposal.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0009",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0010"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the Ashoka prompt by arguing that empathy is conceptually hard to name in Chinese but is the hidden key to creativity, communication, and collaboration.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0011"
+      ],
+      "kind": "question",
+      "summary": "The interviewer restates Jiang's argument as a national claim that China needs empathy as the foundation of creativity.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0012",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0013",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0014"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains China's shift from manufacturing to knowledge work and says the exam-driven system can produce disciplined workers but not intrinsically motivated creative people.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0015"
+      ],
+      "kind": "question",
+      "summary": "The interviewer asks whether the school uses the word empathy consciously and explicitly with staff, students, and parents.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0016"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the school uses empathy explicitly internally but often translates it into adjacent practices like collaboration, communication, self-learning, and self-control when speaking to parents and students.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0017"
+      ],
+      "kind": "question",
+      "summary": "The interviewer asks for concrete practices that build a culture of empathy in schools and across society.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0018",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0019",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0020",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0021",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0022",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0023"
+      ],
+      "kind": "answer",
+      "summary": "Jiang argues that humans are wired for empathy but modern school and market incentives suppress it, so his program deliberately negates short-term utilitarian drives through lifelong-learning messaging, group work, and service-learning experiences like Botswana.",
+      "speaker_attribution": "Jiang answer, briefly interrupted by a clarification request from the interviewer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0024"
+      ],
+      "kind": "question",
+      "summary": "The interviewer reflects the argument back as a case for travel and immersion as empathy-building through exposure to different people and environments.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0025",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0026"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the Botswana trip works only when students go for horizon-expanding reasons rather than resume motives, and he widens that into a critique of short-term materialist societies in both China and America.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0027"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer reflects that empathy requires an opened field of awareness rather than the narrowed focus of immediate gratification.",
+      "speaker_attribution": "Interviewer Edwin Rutsch reflection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0028"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees and says empathy, morality, altruism, and creativity appear to reinforce one another even if the neuroscience is still unclear.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0029"
+      ],
+      "kind": "question",
+      "summary": "The interviewer asks Jiang for his operating definition of empathy.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0030"
+      ],
+      "kind": "answer",
+      "summary": "Jiang defines empathy through theory of mind: understanding, accepting, and articulating viewpoints fundamentally different from one’s own.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0031",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer shares his four-part model of empathy, culminating in perspective-taking and coordinated empathic action.",
+      "speaker_attribution": "Interviewer Edwin Rutsch definition-sharing",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0033"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer closes his empathy definition and Jiang signals agreement.",
+      "speaker_attribution": "Interviewer close with Jiang acknowledgment",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0034"
+      ],
+      "kind": "answer",
+      "summary": "Jiang recasts the four-part empathy model as staged development from individualization into socialization.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0035",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0036"
+      ],
+      "kind": "question",
+      "summary": "The interviewer asks whether China's authoritarian and hierarchical social structure makes empathy-centered reform a major cultural shift.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0037",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0038"
+      ],
+      "kind": "answer",
+      "summary": "Jiang agrees that unequal hierarchy is the core problem and says empathy, communication, and creativity all require more equal power, trust, and a politics not ruled by fear or face.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0039"
+      ],
+      "kind": "question",
+      "summary": "The interviewer asks what empathy development looks like beyond one progressive school and whether Chinese businesses or other schools are moving in that direction.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0040"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says empathy is the basis of effective schools, businesses, and societies because it channels everyone’s creativity, and he points to respected, anti-scientific-management tech firms as proof.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0041",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0042"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang continues comparing American and Chinese workplace expectations, then the interviewer interrupts to ask about the closest Chinese words for empathy and compassion.",
+      "speaker_attribution": "Mixed Jiang answer with interviewer interruption",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0043"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says empathy must first be introduced as a concept in China, and he presents his school as evidence that removing pressure, hierarchy, and testing produces happier, more motivated, more creative students.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0044"
+      ],
+      "kind": "question",
+      "summary": "The interviewer asks whether the school is trying to function as a visible reform model that others can study.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0045"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says business interest in empathy has been opened by major tech firms and that his school likewise serves as a lab and showcase for what empathy-centered reform can make possible.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0046"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer reflects that empathy may always be present in human relations but still requires explicit vocabulary if a culture wants to strengthen it consciously.",
+      "speaker_attribution": "Interviewer Edwin Rutsch reflection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0047",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0048"
+      ],
+      "kind": "answer",
+      "summary": "Jiang uses street and traffic experience to argue that China lacks everyday mutual respect among strangers and remains a fragile clan-based society rather than a nation held together by broad empathy.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0049"
+      ],
+      "kind": "question",
+      "summary": "The interviewer offers to connect Jiang's school with empathy-focused peers, lesson-plan support, and public panel discussions.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0050",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0051",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0052",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0054"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says his program is unusually empowering inside China, but parent pressure is intense, so the school needs a global network and direct student-to-student exchange to reinforce its values and widen horizons.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0053"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer agrees that the proposed discussions can be organized and recorded publicly.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0055"
+      ],
+      "kind": "question",
+      "summary": "The interviewer asks Jiang for his own metaphor of empathy rather than the usual 'standing in someone else's shoes' formula.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "After briefly considering other images, Jiang settles on water as his metaphor because empathy pervades life, nourishes society, and functions as its basic sustaining medium.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0057"
+      ],
+      "kind": "answer",
+      "summary": "Jiang completes the water metaphor by saying societies without empathy slowly degenerate and dehydrate.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0058",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0061"
+      ],
+      "kind": "question",
+      "summary": "The interviewer returns to the Ashoka proposal and asks whether Jiang was effectively submitting the school itself as the empathy model.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0059",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0062",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0063",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0064"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the school practices empathy rather than preaching it, grounding the program in literature, group dynamic, evidence-based discussion, concrete feedback, and a move away from tests toward papers, presentations, and experiments.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0065"
+      ],
+      "kind": "question",
+      "summary": "The interviewer asks how Jiang plans to overcome the vocabulary problem of teaching empathy in a language that lacks an established equivalent term.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0066",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0067"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang brings a grade-11 student, Rebecca, into the call and introduces her to the interviewer as a live witness from the school program.",
+      "speaker_attribution": "Jiang introduction with Rebecca greeting",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0068"
+      ],
+      "kind": "question",
+      "summary": "Jiang turns the translation problem back to Rebecca and asks why the word empathy does not translate cleanly into Chinese.",
+      "speaker_attribution": "Jiang question to Rebecca",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0069"
+      ],
+      "kind": "answer",
+      "summary": "Rebecca says Chinese has narrower phrases for thinking about other people, but no single word broad enough to hold what empathy means in English.",
+      "speaker_attribution": "Student Rebecca answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0070",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0071",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer proposes coining a new Chinese term from the German sense of empathy as 'feeling into,' and Rebecca offers a Chinese word for feeling while the interviewer tests it aloud.",
+      "speaker_attribution": "Interviewer-led word-building exchange with Rebecca",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0073",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0075"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the word empathy carries a long history of Western connotations, so even a newly coined Chinese equivalent would still lack the lived meanings the English word already evokes.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0074"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer briefly pauses the conversation to resolve a frozen video connection before returning to the translation exercise.",
+      "speaker_attribution": "Interviewer technical interruption",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0076",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0077",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0078",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0079",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer and Rebecca continue the playful coinage attempt by isolating Chinese words for feeling and for 'into,' repeating them aloud as test pieces for a possible empathy term.",
+      "speaker_attribution": "Interviewer-Rebecca translation exercise",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0081",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0082"
+      ],
+      "kind": "exchange",
+      "summary": "The coinage attempt peters out as Rebecca supplies a word for 'into' and the interviewer laughs that the assembled term still does not work.",
+      "speaker_attribution": "Rebecca-interviewer translation exchange",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0083"
+      ],
+      "kind": "answer",
+      "summary": "Jiang explains that he brought Rebecca in so the interview can hear a student's perspective on why empathy matters in the school and how the school tries to cultivate it.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0084"
+      ],
+      "kind": "question",
+      "summary": "The interviewer asks Rebecca directly what she has learned about empathy at the school.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0085"
+      ],
+      "kind": "answer",
+      "summary": "Rebecca says a Botswana trip during winter vacation disrupted student stereotypes about Africa and set up an empathy lesson through travel and service learning.",
+      "speaker_attribution": "Student Rebecca answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0086"
+      ],
+      "kind": "question",
+      "summary": "Jiang interrupts to ask Rebecca what specifically in the service-learning experience cultivated empathy.",
+      "speaker_attribution": "Jiang follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0087",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0088"
+      ],
+      "kind": "answer",
+      "summary": "Rebecca says the trip exposed the empathy limits of an only-child upbringing, then describes learning perspective-taking both through a homestay girl caring for siblings and through half an hour spent trying to understand a nonverbal child with Down syndrome.",
+      "speaker_attribution": "Student Rebecca answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0089"
+      ],
+      "kind": "exchange",
+      "summary": "An empty duplicate tail marks the end of Rebecca's prior story without adding new content.",
+      "speaker_attribution": "Student Rebecca duplicate tail",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0090"
+      ],
+      "kind": "question",
+      "summary": "The interviewer paraphrases Rebecca's point as an only-child contrast between self-focused life and the mutual awareness demanded by larger families.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0091"
+      ],
+      "kind": "answer",
+      "summary": "Rebecca says she had never previously felt the depth of what she was missing, and that Botswana made her realize she lacked something important in how she related to others.",
+      "speaker_attribution": "Student Rebecca answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0092"
+      ],
+      "kind": "question",
+      "summary": "The interviewer asks whether the lack Rebecca feels is a missing larger-family experience or a broader missing capacity.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0093",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0094"
+      ],
+      "kind": "answer",
+      "summary": "Rebecca says the deeper lack is habitual awareness of other people, not family size itself; someone briefly affirms her point.",
+      "speaker_attribution": "Student Rebecca answer with brief affirmation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0095"
+      ],
+      "kind": "answer",
+      "summary": "Jiang generalizes Rebecca's story into a critique of Chinese students' narrow school-home lives, arguing that limited experience shrinks emotional range and impedes empathy.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0096"
+      ],
+      "kind": "question",
+      "summary": "The interviewer reframes empathy as feeling into another person's experience and asks Rebecca who she felt closest to in Botswana.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0097",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0098"
+      ],
+      "kind": "exchange",
+      "summary": "Rebecca asks the interviewer to repeat his question, and he restates it as a question about whom she felt emotionally closest to in Botswana.",
+      "speaker_attribution": "Rebecca clarification request with interviewer restatement",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0099"
+      ],
+      "kind": "answer",
+      "summary": "Rebecca says she felt closest to the girl in her homestay family because an evening of talking late into the night let them know each other and each other's families.",
+      "speaker_attribution": "Student Rebecca answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0100"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer widens the conversation from Rebecca's story to plans for networking schools around empathy and building a broader culture of empathy through future collaboration.",
+      "speaker_attribution": "Interviewer Edwin Rutsch reflection and proposal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0101"
+      ],
+      "kind": "answer",
+      "summary": "Jiang welcomes introductions, says the school can host visiting partners and video exchanges, and points to incoming Thai students as another chance to expose his students to different perspectives.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0102"
+      ],
+      "kind": "question",
+      "summary": "The interviewer confirms Jiang is open to connecting with other schools and then asks whether Jiang's role is teacher or administrator.",
+      "speaker_attribution": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0103",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0104"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says he runs the International Division and also teaches, then explains that the school treats itself as a community with blurred roles, student contribution, flattened hierarchy, and erased boundaries.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0105",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0106"
+      ],
+      "kind": "answer",
+      "summary": "Jiang completes his community explanation by saying the school's flattened community is made up of what he calls learners.",
+      "speaker_attribution": "Jiang answer tail",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0107"
+      ],
+      "kind": "exchange",
+      "summary": "The interviewer begins closing the conversation, apologizes for coughing, and says he wants to keep building the project through later panel discussions with more educators.",
+      "speaker_attribution": "Interviewer Edwin Rutsch closing reflection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0108"
+      ],
+      "kind": "answer",
+      "summary": "Jiang replies that empathy is still completely new in China, that promoting it is an uphill battle, and that any allies are valuable.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0109",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0110",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0111"
+      ],
+      "kind": "exchange",
+      "summary": "The interview ends with thanks, agreement to follow up by email, and a friendly exchange over names before goodbye.",
+      "speaker_attribution": "Mixed closing exchange",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0112"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The video closes by repeating the empathy slogan from the opening bumper.",
+      "speaker_attribution": "Video bumper voiceover",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0001"
+      ],
+      "note": "The opening slogan is not part of Jiang's live answer; it functions as a produced intro line.",
+      "suggested_speaker": "Intro narrator",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0019"
+      ],
+      "note": "The short 'Excuse me?' turn is a live interruption asking Jiang to restate or clarify, not a substantive question of its own.",
+      "suggested_speaker": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0041"
+      ],
+      "note": "This segment merges Jiang's answer with an interviewer follow-up about the closest Chinese word for empathy, so the diarization is not speaker-pure.",
+      "suggested_speaker": "Mixed Jiang and interviewer speech",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0056"
+      ],
+      "note": "Jiang starts with an abandoned dolphin image before revising toward his final water metaphor, so the segment records live thinking rather than a single polished answer.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0060"
+      ],
+      "note": "Segment 0060 is an empty duplicate tail of Jiang's prior sentence and does not add new semantic content.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0067"
+      ],
+      "note": "The unlabeled one-word greeting is Rebecca's voice immediately after Jiang introduces her.",
+      "suggested_speaker": "Student Rebecca",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0074"
+      ],
+      "note": "This segment is a technical interruption rather than semantic content about empathy.",
+      "suggested_speaker": "Interviewer Edwin Rutsch",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0094"
+      ],
+      "note": "The single-word affirmation is too short to attribute confidently; it likely comes from Jiang or the interviewer.",
+      "suggested_speaker": "Unclear brief acknowledgment",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0104"
+      ],
+      "note": "The empty segment is a duplicate tail from Jiang's preceding statement about creating community.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0111"
+      ],
+      "note": "This goodbye segment mixes Edwin, Rebecca, and Jiang as they exchange thanks and pronunciation corrections.",
+      "suggested_speaker": "Mixed closing voices",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says he was born in China, raised in Toronto, educated at Yale, and by 2012 had spent about four years working in study-abroad education in China after earlier work as a teacher, journalist, and documentary filmmaker.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Biographical self-description given on 2012-03-16.",
+      "topic_tags": [
+        "biography",
+        "education",
+        "China",
+        "Canada",
+        "study abroad"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes Peking University High School as a lab school founded in 1960, historically tied to university professors and known for producing top scientists, thinkers, and entrepreneurs.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Institutional history and current characterization given on 2012-03-16.",
+      "topic_tags": [
+        "Peking University High School",
+        "institutional history",
+        "innovation",
+        "elite education"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues the school's distinctiveness comes from its nurturing community and the quality of interaction between teachers and students, not just its elite outcomes.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0004",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Current school characterization on 2012-03-16.",
+      "topic_tags": [
+        "school culture",
+        "teacher-student relations",
+        "nurturing environment"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the international division was launched in 2010 because growing numbers of Chinese students wanted to bypass the domestic system and pursue study in the United States.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0005",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Recent trend and institutional response described on 2012-03-16 about 2010 and the preceding years.",
+      "topic_tags": [
+        "international division",
+        "study abroad",
+        "United States",
+        "education reform"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says study abroad in the mid-1990s and early 2000s was mainly an exit path for students who did not thrive in the Chinese system and typically chose Australia, Britain, or Canada rather than the United States.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0005",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Retrospective social trend described on 2012-03-16 about the mid-1990s through roughly 2006.",
+      "topic_tags": [
+        "study abroad",
+        "Chinese education system",
+        "Australia",
+        "Britain",
+        "Canada",
+        "United States"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He presents the international division as a lab within a lab school, meant not only to meet market demand but to test what education reform in China could look like.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Program purpose described on 2012-03-16 with reference to the 2010 launch.",
+      "topic_tags": [
+        "education reform",
+        "institutional experiment",
+        "international division"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says there is no straightforward Chinese word for empathy, making the concept difficult to translate and publicly introduce in China.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0009",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Current diagnosis on 2012-03-16, grounded in Jiang's account of the prior two years of trying to translate the term.",
+      "topic_tags": [
+        "empathy",
+        "translation",
+        "Chinese language",
+        "public vocabulary"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that China's education debate has missed the real issue because empathy, not just technical reform, is what links communication and collaboration to creativity.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0009",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Current diagnosis and model on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "creativity",
+        "education reform",
+        "communication",
+        "collaboration"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China is moving from a manufacturing economy to a knowledge economy, but its exam-oriented school system was built to produce disciplined literate workers for labor-intensive growth rather than self-directed thinkers.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0012",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Historical and current structural diagnosis on 2012-03-16, looking back over the previous 20 to 30 years.",
+      "topic_tags": [
+        "manufacturing economy",
+        "knowledge economy",
+        "standardized examinations",
+        "discipline",
+        "motivation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that China's system blocks the intrinsic motivation required by a knowledge economy because students are trained to succeed inside the school system rather than learn for their own growth.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0013",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Current diagnosis on 2012-03-16.",
+      "topic_tags": [
+        "intrinsic motivation",
+        "knowledge economy",
+        "creativity",
+        "self-learning",
+        "education system"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents empathy as the school's answer to China's transition problem, saying the school has spent the previous two years making empathy central to its reform effort.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Programmatic claim made on 2012-03-16 about the prior two years.",
+      "topic_tags": [
+        "empathy",
+        "school reform",
+        "China transition",
+        "education model"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the school often communicates empathy indirectly through related practices such as collaboration, communication, group dynamic, self-learning, self-care, self-understanding, and self-control.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Current practice description on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "school language",
+        "collaboration",
+        "self-learning",
+        "group dynamic"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says human beings are evolutionarily wired for empathy and that a culture of empathy is closer to a natural human condition than an artificial moral add-on.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0018",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Anthropological model asserted on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "human nature",
+        "evolution",
+        "natural state"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that both Chinese exam culture and American market scandals reflect the same larger problem: materialistic ends like money and tests reduce empathy.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Current civilizational diagnosis on 2012-03-16.",
+      "topic_tags": [
+        "materialism",
+        "China",
+        "United States",
+        "tests",
+        "Wall Street"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his school tries to strip away incentive-based learning and teach students that they are in school to become individuals and thinkers rather than short-term test performers.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0020",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Current program design on 2012-03-16.",
+      "topic_tags": [
+        "school culture",
+        "lifelong learning",
+        "test pressure",
+        "individuality",
+        "thinking"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He proposes a dual-center model in which altruistic creative capacities and utilitarian short-term drives compete, with the short-term center overriding the other when schooling is framed instrumentally.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0021",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Psychological model presented on 2012-03-16 with acknowledged scientific uncertainty.",
+      "topic_tags": [
+        "creative center",
+        "utilitarian center",
+        "motivation",
+        "psychology",
+        "school incentives"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says that by repeatedly negating utilitarian motives and reinforcing group dynamics, his program has made students more creative, more empathic, and more moral.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Current program outcome claim on 2012-03-16.",
+      "topic_tags": [
+        "program outcomes",
+        "creativity",
+        "empathy",
+        "morality",
+        "group work"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He defines intelligence less as test performance than as the ability to work with different people, recognize complementary strengths, and produce something great, lasting, and creative together.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Normative definition stated on 2012-03-16.",
+      "topic_tags": [
+        "intelligence",
+        "group work",
+        "strengths",
+        "creativity"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the school sent students to Botswana for service learning with AIDS orphans and disabled children because cross-cultural adaptation and processing difficult experience train empathy.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0023"
+      ],
+      "temporal_scope": "Recent program example cited on 2012-03-16 about the previous month.",
+      "topic_tags": [
+        "Botswana",
+        "service learning",
+        "AIDS orphans",
+        "disabled children",
+        "cross-cultural adaptation"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says transformative travel depends less on the trip itself than on the motivation students carry into it; framing Botswana as a college-application booster weakens the empathetic effect.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0025"
+      ],
+      "temporal_scope": "Current educational diagnosis on 2012-03-16 using the recent Botswana example.",
+      "topic_tags": [
+        "Botswana",
+        "motivation",
+        "college applications",
+        "service learning",
+        "transformation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that both China and America are overly focused on individuals and short-term rewards such as test scores and money, and need to move toward more holistic and altruistic social thinking.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0025",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0026"
+      ],
+      "temporal_scope": "Current social diagnosis on 2012-03-16.",
+      "topic_tags": [
+        "China",
+        "America",
+        "materialism",
+        "short-termism",
+        "altruism"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says empathy, morality, altruism, and creativity are interconnected capacities that likely reinforce one another.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Tentative conceptual model stated on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "morality",
+        "altruism",
+        "creativity"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang defines empathy as a theory-of-mind capacity: the ability to perceive, understand, accept, and articulate viewpoints fundamentally different from your own.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Definition stated on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "theory of mind",
+        "perspective taking",
+        "definition"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says articulating another person’s perspective is, from an intelligence standpoint, among the most intellectually demanding things a human being can do.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Normative definition stated on 2012-03-16.",
+      "topic_tags": [
+        "intelligence",
+        "perspective taking",
+        "empathy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang agrees with the interviewer's staged account of empathy and maps it onto an educational sequence in which people first become individuals and then learn to socialize properly with others.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Conceptual agreement stated on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "individualization",
+        "socialization",
+        "education"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China lacks a culture of empathy because hierarchy and unequal power let the powerful bully the powerless.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Current political-cultural diagnosis on 2012-03-16.",
+      "topic_tags": [
+        "China",
+        "hierarchy",
+        "power",
+        "bullying",
+        "empathy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that communication requires equality, respect, and trust, and that creativity requires an environment where people are not afraid to make mistakes or offend superiors.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0037",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Current model of social conditions on 2012-03-16.",
+      "topic_tags": [
+        "communication",
+        "creativity",
+        "trust",
+        "equality",
+        "fear"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China must re-examine its political system if it wants to progress as a 21st-century economy, society, and civilization.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Normative political judgment stated on 2012-03-16.",
+      "topic_tags": [
+        "China",
+        "political system",
+        "21st century",
+        "progress"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines empathy at the institutional level as the ability of a school, business, or society to channel the creativity and energy of everyone involved into creating something great.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Institutional definition stated on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "institutions",
+        "schools",
+        "business",
+        "society"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that firms which treat employees with respect and strip out scientific management thrive because they encourage people to act as creative individuals rather than managed animals.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Current business diagnosis on 2012-03-16 using contemporary tech-company examples.",
+      "topic_tags": [
+        "business",
+        "respect",
+        "scientific management",
+        "creativity",
+        "Google",
+        "Apple",
+        "Facebook"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says high-performing Americans enter the workplace expecting equality, autonomy, and the freedom to pursue what they love, and he treats that expectation as one reason empathy-rich firms thrive.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Comparative social diagnosis stated on 2012-03-16.",
+      "topic_tags": [
+        "America",
+        "autonomy",
+        "workplace",
+        "equality",
+        "education"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He repeats that Chinese lacks a word that fully captures empathy as a technical concept, even though it has neighboring words such as sympathy and compassion.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0041",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0042",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Current linguistic diagnosis on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "Chinese language",
+        "sympathy",
+        "compassion",
+        "vocabulary"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that China first needs to be introduced to the concept of empathy itself, and that one way to do this is to show that removing pressure, hierarchy, and constant testing yields happier, more motivated, more creative, and more collaborative students.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Current reform strategy and program evidence on 2012-03-16.",
+      "topic_tags": [
+        "China",
+        "empathy",
+        "education reform",
+        "pressure",
+        "hierarchy",
+        "testing"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says major tech companies have made businesses more willing to discuss empathy, and he frames his school as a lab and showcase for what an empathy-centered culture can accomplish in education.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Current business and school positioning on 2012-03-16.",
+      "topic_tags": [
+        "business",
+        "empathy",
+        "Microsoft",
+        "Apple",
+        "Google",
+        "lab school"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says China lacks a street-level culture of mutual respect among strangers, while families remain tightly bonded, making the country a fragile clan-based society rather than a nation glued together by broad empathy.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0047",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Current social diagnosis on 2012-03-16.",
+      "topic_tags": [
+        "China",
+        "mutual respect",
+        "strangers",
+        "families",
+        "clan society",
+        "national cohesion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that without empathy as social glue, China is weaker and more fragile than outsiders assume, because citizens do not naturally think and act at a national level.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Current civilizational diagnosis on 2012-03-16.",
+      "topic_tags": [
+        "China",
+        "fragility",
+        "social glue",
+        "nationhood",
+        "empathy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his school's program is highly distinctive in China and that students feel more respected, empowered, and personally better inside it.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Current program description on 2012-03-16.",
+      "topic_tags": [
+        "school culture",
+        "student empowerment",
+        "respect",
+        "China"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that parent and social-circle pressure push Chinese families toward SAT study, memorization, and visible credential work, making empathy-centered practices like reading and African service learning harder to justify.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Current social-pressure diagnosis on 2012-03-16.",
+      "topic_tags": [
+        "parents",
+        "social pressure",
+        "SAT",
+        "memorization",
+        "service learning"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his school needs connection with philosophically aligned schools abroad because a global network reinforces its values inside a difficult Chinese environment and broadens students' horizons toward empathy.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0051",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0052",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Current institutional strategy and request on 2012-03-16.",
+      "topic_tags": [
+        "global network",
+        "international exchange",
+        "school philosophy",
+        "empathy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says non-Western-educated students who have moved through both the mainstream Chinese system and his program are especially valuable witnesses to what empathy-centered reform changes.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Current evidentiary claim on 2012-03-16 about students in Jiang's program.",
+      "topic_tags": [
+        "students",
+        "Chinese system",
+        "reform evidence",
+        "education comparison"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines empathy metaphorically as water or air: a pervasive life-sustaining medium without which society cannot function.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Conceptual definition offered on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "water",
+        "air",
+        "society",
+        "metaphor"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says societies lacking empathy slowly degenerate, extending his water metaphor into a claim that empathy is necessary for social survival.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Conceptual claim stated on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "society",
+        "degeneration",
+        "water metaphor"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang describes his school as 'empathy in practice': empathy is foundational to the program even when it is not explicitly taught as doctrine.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0059",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Current program definition on 2012-03-16.",
+      "topic_tags": [
+        "empathy in practice",
+        "school identity",
+        "Ashoka proposal"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that reading literature is traditionally the best school-based path into empathy because fiction trains people to understand the world through different characters and writers already practice deep imaginative understanding.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Pedagogical model stated on 2012-03-16.",
+      "topic_tags": [
+        "literature",
+        "fiction",
+        "reading",
+        "empathy",
+        "lifelong readers"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says empathy cannot be taught half-heartedly or confined to a standalone class; it must pervade the whole school culture like water.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Current normative and organizational claim on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "school culture",
+        "whole-school reform",
+        "water metaphor"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents group dynamic as a core empathy practice that requires self-understanding, awareness of personal limits, and appreciation of other people's distinct strengths and weaknesses.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Current curricular design on 2012-03-16.",
+      "topic_tags": [
+        "group dynamic",
+        "self-understanding",
+        "strengths and weaknesses",
+        "collaboration"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says evidence, logic, and specific feedback are empathy practices because they keep discussion from collapsing into insults and train students to respond to ideas rather than attack people.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Current pedagogical model on 2012-03-16.",
+      "topic_tags": [
+        "evidence",
+        "logic",
+        "feedback",
+        "discussion",
+        "empathy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the school tries to move away from tests toward papers, presentations, and experiments so students get concrete accomplishment and collaborative end products instead of narrow exam validation.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Current school practice on 2012-03-16.",
+      "topic_tags": [
+        "testing",
+        "papers",
+        "presentations",
+        "experiments",
+        "assessment"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says neuroscience books reinforcing the importance of empathy are part of the reading culture surrounding the school's practices.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Current reading and intellectual context on 2012-03-16.",
+      "topic_tags": [
+        "neuroscience",
+        "reading program",
+        "empathy",
+        "school culture"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the school has been trying for many months to translate empathy into Chinese and still cannot find a satisfactory term.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Current linguistic problem described on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "translation",
+        "Chinese language",
+        "school practice"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rebecca says Chinese has smaller phrases that mean thinking for other people, but no term as broad as empathy.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Student linguistic judgment stated on 2012-03-16.",
+      "topic_tags": [
+        "Chinese language",
+        "empathy",
+        "thinking for other people",
+        "translation"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The live attempt to build a Chinese empathy word proceeds by treating empathy as 'feeling into' another person's experience.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0070",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0071",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Conceptual gloss attempted on 2012-03-16.",
+      "topic_tags": [
+        "feeling into",
+        "empathy",
+        "German origin",
+        "translation experiment"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says empathy is difficult to translate because the English word already carries connotations, ideas, and images built up through a long Western civilizational history.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0073",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0075"
+      ],
+      "temporal_scope": "Civilizational-linguistic diagnosis stated on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "Western civilization",
+        "connotations",
+        "translation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that even if a Chinese term could be invented to capture the essence of empathy, the coined word would still lack the accumulated meaning and impact the English term already has.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0075"
+      ],
+      "temporal_scope": "Current conceptual limit stated on 2012-03-16.",
+      "topic_tags": [
+        "coining terms",
+        "meaning",
+        "impact",
+        "Chinese language",
+        "empathy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The group nevertheless treats the translation problem as a useful exercise by trying to break empathy into semantic components like feeling and 'into.'",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0076",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0077",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0078",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0079",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Live translation exercise on 2012-03-16.",
+      "topic_tags": [
+        "translation exercise",
+        "feeling",
+        "into",
+        "empathy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang frames Rebecca as firsthand evidence of how the school tries to educate students into empathy rather than only talking about the concept abstractly.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Interview-stage framing on 2012-03-16.",
+      "topic_tags": [
+        "student testimony",
+        "school practice",
+        "empathy education"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rebecca says a Botswana trip taken a month earlier during winter vacation confronted student stereotypes about Africa and revealed a different social reality than they expected.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Student retrospective about a trip one month before the 2012-03-16 interview.",
+      "topic_tags": [
+        "Botswana",
+        "winter vacation",
+        "stereotypes",
+        "travel",
+        "Africa"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rebecca says being an only child left her unaccustomed to constantly thinking about siblings or other dependents, which made her homestay experience in Botswana newly instructive.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0087"
+      ],
+      "temporal_scope": "Student self-diagnosis stated on 2012-03-16 about earlier Botswana experiences.",
+      "topic_tags": [
+        "only child",
+        "homestay",
+        "siblings",
+        "self-diagnosis",
+        "empathy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rebecca says working with a nonverbal girl with Down syndrome forced her to spend an unusually long stretch trying to infer another person's wants and feelings, including realizing the girl was thirsty and getting her water.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Student report of a service-learning experience described on 2012-03-16.",
+      "topic_tags": [
+        "service learning",
+        "Down syndrome",
+        "nonverbal communication",
+        "perspective-taking",
+        "Botswana"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rebecca says Botswana was the first time she clearly felt she was missing something important in her own capacity to notice and care for other people.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0091"
+      ],
+      "temporal_scope": "Student retrospective insight stated on 2012-03-16 about a recent Botswana trip.",
+      "topic_tags": [
+        "Botswana",
+        "self-recognition",
+        "lack",
+        "empathy development"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rebecca defines the lack she discovered not as missing siblings per se but as missing the habit of constantly thinking about and staying aware of other people.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "Student self-definition stated on 2012-03-16.",
+      "topic_tags": [
+        "awareness of others",
+        "habit",
+        "only child",
+        "empathy"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Chinese students' lives are often restricted to school and home, with few relationships, jobs, dates, or outside interests, and that this narrow experience range limits emotional range and hinders empathy.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0095"
+      ],
+      "temporal_scope": "Current social diagnosis stated on 2012-03-16.",
+      "topic_tags": [
+        "Chinese students",
+        "limited experiences",
+        "emotional range",
+        "empathy",
+        "school and home"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The interviewer explicitly defines empathy here as feeling into someone else's experience, using Rebecca's Botswana story as an example of that process.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "Interviewer definition stated on 2012-03-16.",
+      "topic_tags": [
+        "feeling into",
+        "empathy",
+        "definition",
+        "Botswana"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rebecca says her strongest emotional connection in Botswana formed with the girl in her homestay family because long conversation created real mutual knowledge between them.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0099"
+      ],
+      "temporal_scope": "Student retrospective about Botswana stated on 2012-03-16.",
+      "topic_tags": [
+        "homestay",
+        "Botswana",
+        "friendship",
+        "mutual knowledge"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his school is ready for international empathy collaboration through video facilities, visiting exchanges, and hosting partner schools in China.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0101"
+      ],
+      "temporal_scope": "Current institutional offer stated on 2012-03-16.",
+      "topic_tags": [
+        "international exchange",
+        "video conferencing",
+        "hosting",
+        "school network"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang notes that students from Thailand are arriving on Sunday for a week and presents that visit as a concrete chance to expose his students to different perspectives.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0101"
+      ],
+      "temporal_scope": "Near-future event described on 2012-03-16.",
+      "topic_tags": [
+        "Thailand",
+        "student visit",
+        "different perspectives",
+        "international exposure"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he runs the International Division, also teaches, and deliberately resists rigid role boundaries because the school wants everyone to contribute as part of a community.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0103"
+      ],
+      "temporal_scope": "Current institutional self-description on 2012-03-16.",
+      "topic_tags": [
+        "International Division",
+        "administrator",
+        "teacher",
+        "community",
+        "role boundaries"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that flattening hierarchy and giving students multiple roles helps foster a culture of empathy.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0103"
+      ],
+      "temporal_scope": "Current pedagogical-organizational claim on 2012-03-16.",
+      "topic_tags": [
+        "flatten hierarchy",
+        "student roles",
+        "empathy culture",
+        "community"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang names the school's community not as a hierarchy of fixed roles but as a community of learners.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0106"
+      ],
+      "temporal_scope": "Current institutional definition stated on 2012-03-16.",
+      "topic_tags": [
+        "learners",
+        "community",
+        "school identity"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The interviewer says he wants the next step to be a panel discussion with additional school participants, extending the conversation into a wider empathy network.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0107"
+      ],
+      "temporal_scope": "Near-future plan stated on 2012-03-16.",
+      "topic_tags": [
+        "panel discussion",
+        "next steps",
+        "school network",
+        "empathy project"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says empathy is completely new in China and that promoting it there is an uphill battle.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0108"
+      ],
+      "temporal_scope": "Current national diagnosis stated on 2012-03-16.",
+      "topic_tags": [
+        "China",
+        "empathy",
+        "uphill battle",
+        "novelty"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says outside allies matter because the effort to promote empathy in China cannot be carried by the school alone.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0108"
+      ],
+      "temporal_scope": "Current strategic judgment stated on 2012-03-16.",
+      "topic_tags": [
+        "allies",
+        "empathy promotion",
+        "China",
+        "strategy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The closing bumper defines empathy as a quality of character that can change the world.",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0112"
+      ],
+      "temporal_scope": "Quoted video slogan heard on 2012-03-16.",
+      "topic_tags": [
+        "empathy",
+        "character",
+        "world change",
+        "slogan"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0001"
+      ],
+      "moment": "The interview is framed from the first line as an exercise in seeing through other people's eyes.",
+      "source_phrase": "See the world through other people's eyes.",
+      "why_it_matters": "It supplies the explicit empathy frame before Jiang even begins speaking and shapes the whole conversation as perspective work rather than policy talk.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0004",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0005"
+      ],
+      "moment": "Jiang treats the school's real asset as a teacher-student community, not just a pedigree factory.",
+      "source_phrase": "the sort of community, the sort of interactions between the teachers and the students",
+      "why_it_matters": "It sets up the later argument that empathy is built through culture and relationships, not simply through elite selection.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0006"
+      ],
+      "moment": "The new division is defined as a reform experiment nested inside an already experimental school.",
+      "source_phrase": "a lab within a lab school",
+      "why_it_matters": "This compressed phrase captures Jiang's method: use an international program as a controlled site for wider Chinese education reform.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0009"
+      ],
+      "moment": "Jiang names empathy as the missing key in China's innovation debate rather than treating it as a soft moral extra.",
+      "source_phrase": "I think the key is empathy. I think creativity and empathy are directly linked.",
+      "why_it_matters": "This is the packet's hinge claim and the reason the interview matters for Jiang's education model at all.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0012"
+      ],
+      "moment": "China's development miracle is compressed into the image of a sweatshop serving the world.",
+      "source_phrase": "China was a sweatshop to the world",
+      "why_it_matters": "It gives Jiang a blunt historical frame for why the old educational model once worked and why it now fails.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0013"
+      ],
+      "moment": "Jiang opposes disciplined literacy to the self-propelled learning of the creative class.",
+      "source_phrase": "motivation 3.0, which is the intrinsic drive",
+      "why_it_matters": "This supplies the causal mechanism for why empathy matters: it belongs with self-generated learning rather than exam obedience.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0020"
+      ],
+      "moment": "Jiang makes empathy constitutive of being human rather than a niche educational theme.",
+      "source_phrase": "empathy is really fundamentally about being a human being",
+      "why_it_matters": "This turns the school reform argument into a claim about human formation, not just pedagogy.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0021",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0022"
+      ],
+      "moment": "The school's method is described as a constant negation of the student's utilitarian drive.",
+      "source_phrase": "constantly negating the utilitarian drive",
+      "why_it_matters": "It is the packet's sharpest phrase for how Jiang thinks schools actively reshape motivation rather than merely delivering content.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0023"
+      ],
+      "moment": "Jiang redefines smartness as collaborative strength-matching rather than solitary test performance.",
+      "source_phrase": "Being smart means the ability to work with different people",
+      "why_it_matters": "This is a compact counter-definition of intelligence that later episode prose will need to preserve.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0025"
+      ],
+      "moment": "Jiang insists that the same Botswana trip can either transform students or remain shallow depending on whether it is framed as soul-widening or resume-padding.",
+      "source_phrase": "you're going to go because this will look good on your college application",
+      "why_it_matters": "It sharpens Jiang's recurring claim that motive structure, not just activity design, determines whether education builds empathy.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0025"
+      ],
+      "moment": "The packet turns into a civilizational demand to move away from short-term materialistic rewards.",
+      "source_phrase": "move away from a society that seeks short-term materialistic rewards and goals",
+      "why_it_matters": "This widens the school example into Jiang's broader diagnosis of what blocks empathy in both China and America.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0030"
+      ],
+      "moment": "Empathy is defined as the difficult intellectual labor of reading and articulating another person's world.",
+      "source_phrase": "the most intellectual thing that a human being can do",
+      "why_it_matters": "Jiang upgrades empathy from sentiment to a core measure of intelligence.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0037"
+      ],
+      "moment": "Jiang states the political-emotional core of the problem as the powerful feeling entitled to bully the powerless.",
+      "source_phrase": "it is their right to sort of bully the powerless",
+      "why_it_matters": "This is the packet's bluntest condensation of why hierarchy destroys empathy in Jiang's account.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0038"
+      ],
+      "moment": "Creativity is defined by the absence of fear: no fear of mistakes, no fear of offending superiors, no fear of losing face.",
+      "source_phrase": "you're not afraid to lose face",
+      "why_it_matters": "It connects creativity directly to the same anti-hierarchical atmosphere empathy requires.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0038"
+      ],
+      "moment": "Jiang pushes the empathy discussion all the way into a demand that China re-examine its political system.",
+      "source_phrase": "re-examine its political system",
+      "why_it_matters": "The packet escalates school reform into a civilizational and political argument.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0043"
+      ],
+      "moment": "Jiang casts his school as a demonstration that removing pressure and hierarchy does not produce chaos but happier and more driven students.",
+      "source_phrase": "if you remove pressure and hierarchy and starts testing from the Chinese system",
+      "why_it_matters": "This is the operational reform claim the school is trying to prove inside China.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0045"
+      ],
+      "moment": "Empathy is said to be in the school's blood even when it is not named explicitly.",
+      "source_phrase": "it very much is in the blood the culture of who we are and what we do",
+      "why_it_matters": "It condenses Jiang's distinction between explicit vocabulary and lived institutional culture.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0047"
+      ],
+      "moment": "Jiang turns traffic into a moral metaphor: the driver with a car acts as if he can do whatever he wants because no mutual respect restrains him.",
+      "source_phrase": "I have a car and ... I can go and do whatever I want",
+      "why_it_matters": "The example makes the absence of empathy concrete at street level rather than leaving it as abstract political theory.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0048"
+      ],
+      "moment": "China is described as lacking the social glue that would let strangers empathize nationally rather than only within family clans.",
+      "source_phrase": "there's no empathy the social glue",
+      "why_it_matters": "This is one of Jiang's strongest formulations of empathy as a nation-making force.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0050"
+      ],
+      "moment": "Chinese parental anxiety appears as a barrage of status questions: why America, why not SATs, why books, why Africa.",
+      "source_phrase": "why is he not studying for the SAT right now ... why is he reading books and ... going to Africa",
+      "why_it_matters": "It makes the social resistance to Jiang's program concrete and shows empathy work colliding with credential panic.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0051"
+      ],
+      "moment": "Jiang treats a global school network not as branding but as moral reinforcement for a fragile experiment inside China.",
+      "source_phrase": "we really want to be part of a global network",
+      "why_it_matters": "The packet shifts empathy from an internal pedagogy to an international support structure.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0056"
+      ],
+      "moment": "Empathy becomes water: society's equivalent of the substance that nourishes and composes life itself.",
+      "source_phrase": "if water is to the individual, then empathy is to society",
+      "why_it_matters": "This is one of the interview's strongest reusable formulations and later anchors Jiang's claim that societies dehydrate without empathy.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0057"
+      ],
+      "moment": "The water metaphor hardens into a civilizational warning: societies without empathy do not simply become meaner, they dehydrate and decay.",
+      "source_phrase": "if society, societies lack empathy, then they slowly, slowly degenerate ... dehydrate",
+      "why_it_matters": "It gives Jiang's empathy argument existential force and carries the metaphor beyond individual morality.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0059"
+      ],
+      "moment": "Jiang names the school not as a lecture about empathy but as empathy in practice.",
+      "source_phrase": "what I call empathy in practice",
+      "why_it_matters": "This phrase crystallizes the interview's whole reform logic: empathy must be lived institutionally, not merely defined.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0062"
+      ],
+      "moment": "Empathy is said to fail if isolated in a single class; it has to pervade the school the way water pervades life.",
+      "source_phrase": "you cannot have a class on empathy",
+      "why_it_matters": "It rejects modular reform and forces a whole-culture model of education change.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0063"
+      ],
+      "moment": "Jiang treats specific feedback and argument from evidence as empathy skills rather than merely academic technique.",
+      "source_phrase": "that requires empathy",
+      "why_it_matters": "The packet expands empathy from feeling into disciplined intellectual and conversational conduct.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0069"
+      ],
+      "moment": "Rebecca compresses the whole translation problem into a simple asymmetry: Chinese has fragments that point toward empathy but nothing as broad as the English term.",
+      "source_phrase": "there isn't a word in Chinese that's broad as that",
+      "why_it_matters": "It shows that Jiang's project is not only pedagogical but lexical and conceptual.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0070"
+      ],
+      "moment": "The interviewer tries to build empathy from first principles as 'feeling into' another person's experience.",
+      "source_phrase": "the original word for empathy was German ... feeling into someone else",
+      "why_it_matters": "The interview briefly becomes a live workshop on whether a culture can invent vocabulary for a missing moral concept.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0075"
+      ],
+      "moment": "Jiang shifts the translation problem from dictionary equivalence to civilizational inheritance: the word matters because it drags a whole field of images behind it.",
+      "source_phrase": "it automatically brings up connotations and ideas and images",
+      "why_it_matters": "This turns empathy into a culture-bearing term rather than a neutral label that can be swapped across languages without residue.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0076",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0080"
+      ],
+      "moment": "After admitting the concept cannot be carried over intact, the conversation keeps playing with raw semantic pieces anyway.",
+      "source_phrase": "we'll change it by try to come up with a word in Chinese",
+      "why_it_matters": "The packet shows conceptual improvisation in real time rather than a settled doctrine.",
+      "tone": "method",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0087"
+      ],
+      "moment": "Rebecca realizes that sibling care trains a constant outward attention she never had to practice as an only child.",
+      "source_phrase": "I never had that experience where I was just worrying about someone else all the time",
+      "why_it_matters": "It grounds empathy in family structure and lived habit rather than abstract moral exhortation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0088"
+      ],
+      "moment": "Empathy becomes thirty minutes of patient inference beside a girl who cannot speak and cannot properly grip a pen.",
+      "source_phrase": "the longest time I spent ... just getting into someone other's head",
+      "why_it_matters": "This is the packet's clearest lived example of perspective-taking as disciplined attention rather than sentiment.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0091"
+      ],
+      "moment": "Rebecca says the trip was the first time she felt, without euphemism, that she was lacking a lot.",
+      "source_phrase": "that was the time where I really thought I'm lacking a lot of things here actually",
+      "why_it_matters": "It turns travel into a painful moral mirror rather than a generic broadening experience.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0093"
+      ],
+      "moment": "The missing capacity is named as constant awareness that other people are there, rather than mere family structure.",
+      "source_phrase": "constantly being aware that there are other people around you",
+      "why_it_matters": "This is the clearest student-level definition of empathy as an everyday attentional discipline.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0095"
+      ],
+      "moment": "Jiang converts one student's story into a larger diagnosis: thin lives produce thin emotional range.",
+      "source_phrase": "because their experience is limited, their emotional range is also limited",
+      "why_it_matters": "It links empathy failure to experiential poverty rather than simply to bad values.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0099"
+      ],
+      "moment": "Rebecca's deepest connection comes not from the formal service project but from a night of ordinary conversation inside a family home.",
+      "source_phrase": "we talked very late into the night",
+      "why_it_matters": "It suggests empathy grows through unhurried mutual disclosure as much as through organized service work.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0101"
+      ],
+      "moment": "Jiang treats each incoming exchange as a machine for exposing students to different perspectives.",
+      "source_phrase": "an opportunity for us to expose our students to ... different perspectives",
+      "why_it_matters": "This makes international contact part of the school's empathy infrastructure rather than extracurricular ornament.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0103"
+      ],
+      "moment": "The school tries to 'get rid of boundaries' so administrators, teachers, assistants, and students all live inside one learning community.",
+      "source_phrase": "flatten the hierarchy ... get rid of boundaries",
+      "why_it_matters": "It condenses Jiang's institutional model of empathy into an organizational design principle.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0106"
+      ],
+      "moment": "Jiang's anti-hierarchical school model resolves into one compact label: learners.",
+      "source_phrase": "what we call learners",
+      "why_it_matters": "It gives the school's flattened social ideal a memorable name.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0108"
+      ],
+      "moment": "The interview closes on a sober diagnosis: empathy is still new in China and every ally counts because the climb is uphill.",
+      "source_phrase": "it is an uphill battle",
+      "why_it_matters": "This line condenses the difficulty, novelty, and coalition logic behind Jiang's whole project.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0112"
+      ],
+      "moment": "The closing bumper returns the interview to its framing slogan about seeing through other people's eyes.",
+      "source_phrase": "See the world through other people's eyes",
+      "why_it_matters": "It bookends the interview and makes empathy sound like a perceptual discipline with world-changing stakes.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "International Division",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0005",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The department Jiang says PKU High School started in 2010 to serve the U.S.-study-abroad trend and test possible education reforms in China.",
+      "confidence": "high"
+    },
+    {
+      "term": "knowledge-based economy",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0013",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "The economic stage Jiang says China cannot reach without moving beyond an exam system that rewards discipline over intrinsic motivation.",
+      "confidence": "high"
+    },
+    {
+      "term": "motivation 3.0",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Jiang's borrowed label for intrinsic, self-generated motivation to improve yourself rather than comply for external rewards.",
+      "confidence": "high"
+    },
+    {
+      "term": "utilitarian short-term center",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0021",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Jiang's name for the motive structure oriented toward tests, money, and immediate instrumental rewards that crowds out empathy and creativity.",
+      "confidence": "medium"
+    },
+    {
+      "term": "service learning",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0023"
+      ],
+      "definition_or_usage": "An experiential school practice in which students are sent into demanding social settings, here Botswana, to work with vulnerable people and process the experience reflectively.",
+      "confidence": "high"
+    },
+    {
+      "term": "theory of mind",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Jiang's technical label for empathy as perceiving, understanding, accepting, and articulating another person's different viewpoint.",
+      "confidence": "high"
+    },
+    {
+      "term": "empathic action",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0032"
+      ],
+      "definition_or_usage": "The interviewer's fourth empathy layer, where mutual understanding produces smooth, coordinated action without the friction of hostility.",
+      "confidence": "medium"
+    },
+    {
+      "term": "individualization",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0034"
+      ],
+      "definition_or_usage": "Jiang's educational frame for the developmental step in which a person first becomes an individual before entering richer socialization with others.",
+      "confidence": "medium"
+    },
+    {
+      "term": "scientific management",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "Jiang's negative label for managing workers like controllable units instead of respecting them as creative equals.",
+      "confidence": "high"
+    },
+    {
+      "term": "showcase",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0043",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Jiang's label for using one school as a visible proof-of-possibility for empathy-centered education reform in China.",
+      "confidence": "high"
+    },
+    {
+      "term": "social glue",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Jiang's phrase for the empathic cohesion that would let people act beyond narrow family or clan loyalty.",
+      "confidence": "high"
+    },
+    {
+      "term": "global network",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "Jiang's term for connecting his program with like-minded schools abroad so students and values are reinforced through live exchange rather than isolated theory.",
+      "confidence": "high"
+    },
+    {
+      "term": "empathy in practice",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Jiang's label for a school design where empathy is enacted through reading, group work, discussion norms, and assessment structure rather than preached as a slogan.",
+      "confidence": "high"
+    },
+    {
+      "term": "group dynamic",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0062"
+      ],
+      "definition_or_usage": "Jiang's programmatic term for deliberately teaching students how to work together through self-knowledge, recognition of limits, and appreciation of others' different contributions.",
+      "confidence": "high"
+    },
+    {
+      "term": "thinking for the other people",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0069"
+      ],
+      "definition_or_usage": "Rebecca's rough description of the narrower Chinese expressions that overlap with empathy without matching its full conceptual breadth.",
+      "confidence": "medium"
+    },
+    {
+      "term": "service learning",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0085",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0086"
+      ],
+      "definition_or_usage": "Rebecca and Jiang use the term for hands-on educational work in Botswana where students encounter unfamiliar lives and must respond concretely to other people's needs.",
+      "confidence": "high"
+    },
+    {
+      "term": "emotional range",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0095"
+      ],
+      "definition_or_usage": "Jiang's term for the breadth of feeling and response a student can develop through wider lived experience; he treats its narrowness as a direct obstacle to empathy.",
+      "confidence": "high"
+    },
+    {
+      "term": "flatten the hierarchy",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0103"
+      ],
+      "definition_or_usage": "Jiang's phrase for reducing rigid status distinctions inside the school so responsibility and contribution are shared more communally.",
+      "confidence": "high"
+    },
+    {
+      "term": "learners",
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0106"
+      ],
+      "definition_or_usage": "Jiang's label for a school community in which administrators, teachers, assistants, and students are all participants in one learning collective rather than rigid status tiers.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0004",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0005",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0006"
+      ],
+      "note": "This packet establishes a dated sequence from the school's 1960 founding, to study-abroad growth beginning around the mid-1990s, to the 2010 launch of the international division as Jiang's reform site.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0012",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0014"
+      ],
+      "note": "Jiang explicitly dates the old manufacturing regime to the prior 20 to 30 years and dates the school's empathy turn to the prior two years, framing empathy as a response to a current economic transition.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0023"
+      ],
+      "note": "Jiang dates the Botswana service-learning example to the month before the interview, making it a recent proof point for the school's empathy program rather than a generic aspiration.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0025"
+      ],
+      "note": "Jiang continues to treat the Botswana trip as a recent proof point, but the packet shifts from reporting the event to theorizing the motive structure that made it transformative.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0038"
+      ],
+      "note": "This packet anchors Jiang's 2012 position that China's educational and empathy crisis is inseparable from broader political hierarchy in the early 21st-century global economy.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0043"
+      ],
+      "note": "This packet clarifies Jiang's immediate 2012 strategy: first introduce the concept of empathy to China, then use the school as a present-tense demonstration of what the concept changes.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0050",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0054"
+      ],
+      "note": "This packet moves from current parent pressure around Jiang's already-running program to his immediate 2012 effort to internationalize support and bring a current student into the conversation as evidence.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0058",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0064"
+      ],
+      "note": "This packet returns from metaphor to institutional design, clarifying that Jiang's 2012 Ashoka submission is effectively the already-operating school culture itself rather than a separate future pilot.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0065",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0068"
+      ],
+      "note": "The interview shifts here from Jiang's institutional design claims to a live translation problem and then to student testimony, making the lexical gap itself part of the 2012 reform story.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0073",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0075"
+      ],
+      "note": "This packet sharpens the earlier 'no Chinese word for empathy' claim by explaining that the missing piece is not only translation accuracy but missing historical connotation in China circa 2012.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0085"
+      ],
+      "note": "The interview moves from conceptual translation to concrete evidence by introducing a Botswana trip from roughly one month before the interview as a recent empathy-forming experience for current students.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0091",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0095"
+      ],
+      "note": "Rebecca's recent Botswana realization is immediately generalized by Jiang into a wider 2012 diagnosis of Chinese student life, so the packet bridges personal experience and system-level argument.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0100",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0101"
+      ],
+      "note": "The conversation pivots from Rebecca's Botswana testimony to concrete future networking and exchange plans, including a Thai student visit scheduled for the week after the interview.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0107",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0109"
+      ],
+      "note": "This final packet closes the 2012 interview with future-oriented plans for follow-up panels and email coordination, while Jiang restates the broader national difficulty of the empathy project.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0005",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0006",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0007"
+      ],
+      "note": "These segments contain heavy ASR duplication of the 'Australia and Britain and Canada' line plus an empty trailing segment, but the underlying point about older study-abroad patterns versus the newer U.S. trend remains recoverable."
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0010"
+      ],
+      "note": "The ASR phrase 'lead China into the 24-hour first century' is likely garbled, but the underlying claim about educating future creative leaders is still clear."
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0020"
+      ],
+      "note": "The transcript says 'mere neurons,' which is likely ASR distortion of 'mirror neurons,' but the broader biological-wiring claim remains legible."
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0021"
+      ],
+      "note": "Jiang himself says the science behind the two-center framing is not fully clear, so the psychological model should be treated as a tentative heuristic rather than a settled empirical claim."
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0025"
+      ],
+      "note": "The transcript briefly garbles the percentage as \"9 %\" before the live clarification establishes that Jiang means the trip itself is about 90 percent of the work."
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0043"
+      ],
+      "note": "The ASR phrase \"better at clapping together\" is almost certainly a garble for working or collaborating together, but the underlying claim about improved collaboration is still clear."
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0071"
+      ],
+      "note": "Rebecca's Chinese wording is captured phonetically by ASR, so the exact term is uncertain even though the exchange clearly concerns the 'feeling' component of empathy."
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0077",
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0079"
+      ],
+      "note": "The ASR transliteration of Rebecca's Chinese pronunciation is approximate, so the exact lexical proposal is uncertain even though the exercise structure is clear."
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0087"
+      ],
+      "note": "The ASR around Rebecca's description of the homestay girl's siblings is noisy, but the underlying point about constant sibling care and outward concern is clear."
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0089"
+      ],
+      "note": "Segment 0089 is an empty duplicate tail of Rebecca's prior answer and adds no semantic content."
+    },
+    {
+      "refs": [
+        "video:interview-nqam-7gt-9k@transcript:v1#seg-0101"
+      ],
+      "note": "The ASR around Jiang's phrase 'very well much equipped' is rough, but the meaning is clearly that the school has facilities and readiness to host exchanges."
+    }
+  ]
+}

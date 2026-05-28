@@ -1,0 +1,675 @@
+# Jiang Xueqin & Edwin Rutsch: How to Build a Culture of Empathy in China Education System
+
+Source: https://www.youtube.com/watch?v=nqAm_7gt_9k
+
+## seg-0001 / 00:00:00-00:00:07 / SPEAKER_00
+
+See the world through other people's eyes. Empathy is a quality of character that can change the world.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0001
+
+## seg-0002 / 00:00:07-00:00:39 / SPEAKER_02
+
+My name is Jiang Xueqian. I am the deputy principal of a high school in Beijing called Peking University High School. We're affiliated with the University of Peking University. I was born in China, but I grew up in Toronto, Canada. And for my undergraduate, I was at Yale College. And after graduating in 1999, I've been working in China since then in different capacities. First as a high school teacher, then as a journalist, a documentary filmmaker. And now, for the past four years, I've been working in study abroad education in China.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0002
+
+## seg-0003 / 00:00:40-00:00:54 / SPEAKER_01
+
+So, I just brought up your school here, Peking University High School. That's right. I'm bringing up the webpage here. So, what is this school about? Right.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0003
+
+## seg-0004 / 00:00:54-00:01:54 / SPEAKER_02
+
+So, Peking University High School. So, the high school itself was founded in 1960 as a lab school for Peking University. So, a lot of the professors got their training here in the high school. And a lot of the children of professors sent their children here. And so, since 1960, this has been very much an innovative, progressive high school in China. So, a lot of top scientists have graduated from here, a lot of top thinkers. One of China's most famous entrepreneurs. His name is Wang Yan, and he is founder of an internet portal called Sina.com. They're very famous for their Twitter site called Sina Weibo, and he's a graduate of this high school. So, a lot of, you know, very famous scientists, very famous entrepreneurs graduate from this high school. And what makes this high school very interesting is the sort of community, the sort of interactions between the teachers and the students. And what
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0004
+
+## seg-0005 / 00:01:54-00:02:41 / SPEAKER_02
+
+makes this high school very interesting is the sort of community, the sort of interactions between the teachers and the students. It's a very much, it's very much a very nurturing, encouraging environment. So, in 2010, we started a new department of this high school called the International Division. Since about 2005, 2006, more and more Chinese students were applying to study in the United States. This has, you know, study abroad has been in China since about the mid -90s. But primarily, these are students who didn't do very well in the Chinese system, and so they opted to go to school in Australia and Britain and Canada. But primarily, these are students who didn't do very well in the Chinese system, and so they opted to go to school in Australia and Britain and Canada. But primarily, these are students who didn't do very well in the Chinese system, and so they opted to go to school in Australia and Britain and Canada.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0005
+
+## seg-0006 / 00:02:41-00:03:14 / SPEAKER_02
+
+But primarily, these are students who didn't do very well in the Chinese system, and so they opted to go to school in Australia and Britain and Canada. But primarily, these are students who didn't do very well in the Chinese system, and so they opted to go to school in Australia and Britain and Canada. But primarily, these are students who didn't do very well in the Chinese system, and so they opted to go to school in Australia and Britain and Canada. But primarily, these are students who didn't do very well in the Chinese system, and so they opted to go to school in Australia and Britain and Canada. opting out of the Chinese system and choosing to go to America instead. So this has become a huge trend in China. And so we started in 2010 to meet student demand, but more as an experiment, more as a lab within a lab school to see what was possible in terms of education reform in China.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0006
+
+## seg-0007 / 00:03:10-00:03:14 / SPEAKER_02
+
+
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0007
+
+## seg-0008 / 00:03:14-00:03:47 / SPEAKER_01
+
+Okay. Yeah. So if I could just interrupt here is the way we connected is that you've created a proposal for the competition, the Ashoka competition for activating empathy, how to promote empathy in the schools. And since you're a very progressive school, I imagine that that's why that empathy tends to be part of progressive schools. So can you tell me about your proposal that you did for the Ashoka competition? Right.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0008
+
+## seg-0009 / 00:03:48-00:04:40 / SPEAKER_02
+
+Empathy itself is not a very well -known concept. In fact, there's actually no Chinese word for empathy. We've been trying for the past two years, trying to translate the word and it's very hard to translate. I mean, there's a word for sympathy, which is the same feeling. Empathy isn't really the same thing. And so, I mean, for the past few years, there's this huge debate right now in China. There's a consensus that the Chinese system doesn't work. And it's one question that they have Chinese like to ask is why has China not produced a Nobel prize winner in the sciences? Why doesn't China produce innovative entrepreneurs like Steve Jobs and Mark Zuckerman and Bill Gates? And I think that the key here, and this is something that hasn't been discussed in China, is I think the key is empathy. I think creativity and empathy are directly linked. Empathy leads to creativity. So here we are
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0009
+
+## seg-0010 / 00:04:40-00:05:24 / SPEAKER_02
+
+trying to educate China's next generation of creative thinkers, the entrepreneurs, the writers, the scientists, the educators that are going to lead China into the 24 -hour first century. And for us, the fundamental essence has to be empathy, because empathy is the basis for collaboration, of course, understanding group dynamic and understanding the need to work with others. But also communication. Effective communication requires understanding the viewpoint of the other person. But also, I believe very strongly in creativity, in understanding yourself, in understanding different people. And it's this constant negotiation. With who you are and with what the world demands, that will lead to new ideas.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0010
+
+## seg-0011 / 00:05:25-00:05:48 / SPEAKER_01
+
+So you're saying that in China, the country feels that its education system is not producing maybe the top people or the most creative people, and you're really feeling that empathy is this foundation for creativity and maybe something that China needs to implement countrywide. Yeah. Yeah.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0011
+
+## seg-0012 / 00:05:48-00:06:52 / SPEAKER_02
+
+I mean, right now in China, there's a fundamental shift in the society. For the past 20, 30 years, China was very much a manufacturing -based economy. So I mean, a very blunt way of saying this is that China was a sweatshop to the world. It was manufacturing goods in its Pearl River Delta region and then exporting them elsewhere. So I mean, all the innovation was happening elsewhere, but all the manufacturing, sort of labor -intensive work was happening within China. And so that was fine for 20, 30 years because China was an agricultural society and to transfer to an industrial society means a rapid increase in wealth. You're talking about 8 % to 10 % GDP growth a year. And so you had massive wealth generation because of the shift from an agricultural -based society to a manufacturing -based society. And if you're a manufacturing -based society, then what you need are labor -intensive workers. You need literate workers who are able to execute simple tasks.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0012
+
+## seg-0013 / 00:06:52-00:07:56 / SPEAKER_02
+
+And that's what the Chinese system is very good at doing. It's very good at producing discipline -focused individuals who can read and write. And the way it does that is by using standardized examinations to sort of filter out who succeeds and who fails. And this sort of motivation system works fine. But what we're finding now is that China cannot shift from a manufacturing -based economy into a knowledge -based economy. Because of this education system, students are not required to think for themselves. They have actually no motivation to study outside the school system. So about 10 years ago, Richard Florida wrote this book called The Rise of the Creative Class about individuals who are constantly learning, who are constantly challenging themselves, who learn for the sake of learning. Daniel Pink wrote this book called Drive, which talks about motivation. And it's about motivation 3.0, which is the intrinsic drive, the motivation from within to improve yourself.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0013
+
+## seg-0014 / 00:07:56-00:08:33 / SPEAKER_02
+
+And that's very much what China lacks right now. And because of that, China cannot progress as a society and as an economy. And so there's this fundamental debate about how China can best transition from a manufacturing -based economy into a knowledge -based economy. And our solution here is empathy. Empathy has to be a fundamental part of our society. Empathy has to be a fundamental part of our society. The fundamental essence of China's shift from a standardized test exam system into a more progressive education system. And so for the past two years, we've been really focusing on empathy in our system.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0014
+
+## seg-0015 / 00:08:34-00:08:53 / SPEAKER_01
+
+Can I just add, are you focusing specifically on the word empathy? Are you actually using it among the staff and the professors and the students? Are you saying, hey, we need to do empathy. We need to foster empathy? So is it very conscious and explicit like that?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0015
+
+## seg-0016 / 00:08:54-00:09:33 / SPEAKER_02
+
+We use the word explicitly. But for us, it's very hard to translate into Chinese. And so there lacks a understanding of the concept here. And so we use different ideas to express the same thing, empathy. So we talk about collaboration. We talk about communication. We talk about group dynamic. We talk about self -learning. We talk about self -care. We talk about self -understanding. We talk about self -control. These are all fundamental concepts that are related to empathy. So we ourselves don't actually use the term in our communication to parents and to students. But it very much is in the background.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0016
+
+## seg-0017 / 00:09:34-00:10:05 / SPEAKER_01
+
+Well, what do you do then? What I'm really looking at is how do we build a culture of empathy? So it's like Ashoka is focused on empathy, creating a culture of empathy with schools. I'm looking at how do we build a culture of empathy within schools, within businesses, within the home, and a whole societal wide cultural shift. So I'm really interested in kind of any insights you have from your school. Like what are the things you do to build that culture?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0017
+
+## seg-0018 / 00:10:06-00:10:24 / SPEAKER_02
+
+Yes. That's a great question. And my answer is that humans through evolution have been sort of programmed, designed to be individuals with empathy. A culture of empathy is a natural state of self -care. We're wired for empathy basically.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0018
+
+## seg-0019 / 00:10:25-00:10:26 / SPEAKER_01
+
+Excuse me?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0019
+
+## seg-0020 / 00:10:26-00:11:35 / SPEAKER_02
+
+We're wired for empathy just through mere neurons and biologically. I mean think about this. I mean like we have families, right? We have friends. We have colleagues. In order to communicate with them, in order to be effective with them, we need empathy. So empathy is really fundamentally about being a human being. And so the question is. Why is it in China, China's not very much a society based on empathy. And why is it in America, you know, you have these Wall Street scandals. And so what's happening in this world that is reducing the level of empathy, and I think a lot of it is our sort of increasing focus on materialistic ends, money and tests. And so, you know, our school is a clear example of this, where our students came in, products of the Chinese system, standardized examinations, incentive -based learning. And what we've done here is basically eliminated that culture and we said, here you've come in to learn to be individuals and to be thinkers.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0020
+
+## seg-0021 / 00:11:35-00:12:26 / SPEAKER_02
+
+And we don't want short -term goals. Learning is a lifelong process. This is a message that we communicate to them all the time. And they come in and they think, oh, my job. Oh, my job. My job is to do well on the SAT. My job is to do well on the TOEFL and get into a top American school. And so what we say to them is, if you come in here with that sort of attitude, it's the same attitude as in a Chinese system, where you do well on examinations in order to get into top Chinese schools. And that's the reason why a lot of many Chinese students lack empathy. Because you know, and I mean, the science isn't very clear on this. But they've done a lot of experiments to show that people have two centers. There's the altruistic creative center and there's another utilitarian short -term center.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0021
+
+## seg-0022 / 00:12:26-00:13:21 / SPEAKER_02
+
+So another way of saying this is that, you know, these two centers are mutually exclusive. You can choose to tell students, okay, you're in school to be a better individual. Or you can choose to tell the student, you're in school to do a standardized examination so you can get into a top college. You can choose one or the other. You cannot choose both. And what happens often is that if you use the same message, it's the short -term utilitarian center that overrides the altruistic moral creative center. And that's what we've discovered in our program, where by constantly negating the utilitarian drive, the short -term thinking drive, students have become more creative, more empathic, more moral individuals. And that's something that we're extremely proud of. And we constantly reinforce this through, you know, the focus on group dynamic in our classes, on having the kids do group work,
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0022
+
+## seg-0023 / 00:13:22-00:14:13 / SPEAKER_02
+
+and telling the kids that, you know, just because you do well on tests does not mean that you're smart. Being smart means the ability to work with different people and to recognize the strengths of other people and how to match your strengths with the strengths of other people to produce something great and lasting and creative. That's what we tell them. And that's what we do. Last month, we sent our students to Botswana to do service learning there, to work with AIDS orphans and to work with disabled children. And that, obviously, was intellectually very challenging. And to shift from one culture to another culture and to adapt, that requires empathy. And so they were able to do that. We sent two teachers to constantly work with them and help have them process the experience.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0023
+
+## seg-0024 / 00:14:13-00:14:43 / SPEAKER_01
+
+So that way is, that way, I mean, one way of developing empathy is just kind of meet a lot of people and get a lot of experience. I, for example, went traveling around the world. I was like 17 and graduated from high school here. And I traveled for 10 years around the world and just started seeing that people were just like me in the sense that we had that common humanity. So you're saying you're kind of taking the students and getting them to get out into a different environment. I mean, Botswana, Africa, and probably...
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0024
+
+## seg-0025 / 00:14:43-00:15:42 / SPEAKER_02
+
+I mean, we sent our students to Botswana and they came back to transform. But I think that that's 9 % of it. How much? There's one... 90? That's about 90%. Okay. 90 % of it. But there's also another fundamental part here, which is why they go. They're going to meet new people and to expand horizons. I mean, like, reframe it as, oh, you're going to go because this will look good on your college application. Then, you know, they go in with a different motivation. And they will not get... They will not get as much of experience and they would come back, you know, not as transformed as they could have been. So again, I think it's very fundamental to tell our students and, you know, to sort of... Our society, both in China and America, needs to move away from a society that seeks short -term materialistic rewards and goals and towards a more sort of holistic thinking, a more altruistic society.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0025
+
+## seg-0026 / 00:15:42-00:15:56 / SPEAKER_02
+
+A more society -based sort of thinking. You know, I think America and China right now are both too much focused on the individual, on short -term goals like, you know, test scores and money.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0026
+
+## seg-0027 / 00:15:56-00:16:34 / SPEAKER_01
+
+So it's the short -term, just going for the immediate gratification, the immediate goals instead of looking at the larger picture, perhaps. And in fact, I think in terms of empathy is that empathy seems to take a wide space. Yeah. Empathy seems to take awareness. It's like if you're like working on a short -term goal, it takes a real focus and a closing of awareness. Yes. And empathy seems to take this opening of awareness to take in more. So I think kind of dynamically, biologically, that kind of overlaps with what you're talking about.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0027
+
+## seg-0028 / 00:16:35-00:16:51 / SPEAKER_02
+
+That's right. You know, I think empathy is related to a lot of things. Again, I don't know the neuroscience behind these things and, you know, no one has yet figured it out. But I think empathy, morality, altruism, creativity are all linked together somehow. And I think one reinforces the other.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0028
+
+## seg-0029 / 00:16:51-00:16:59 / SPEAKER_01
+
+Well, here's the thing is, is what is your definition of empathy? How are you defining it? What's your kind of operating definition?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0029
+
+## seg-0030 / 00:17:00-00:17:41 / SPEAKER_02
+
+Right. I mean, empathy, I consider, you know, I mean, a technical term is called theory of mind, which basically is the ability to perceive and understand and accept the viewpoints of others. That are fundamentally different from yours. You know, it's very easy for us to know what we think and to express what we think. But the ability to sort of sympathize or understand what other people think and to articulate their viewpoint, that's empathy. And that intellectually is, you know, just from an intelligence perspective, the most intellectual thing that a human being can do, the ability to like articulate, to basically read other, read another person's perspective. And that's what I think is mine.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0030
+
+## seg-0031 / 00:17:43-00:18:47 / SPEAKER_01
+
+Can I share with you my definition of empathy? I've looked at a lot of different definitions of empathy and kind of been putting them together. And I've come up with kind of like the four parts to empathy. And the first part I would call self empathy. So that's like self awareness, mindfulness, sensory awareness of the feelings that are within my body. You know, feeling, feeling my own pinching of myself. Right. And feeling the sensation. So it's like, it's this sensory awareness of what's going on in me from a feeling sensation level. Then there's the mirror neurons or what I call mirrored empathy, which is as you're watching me and you're seeing these hands kind of flailing around, that your body is mirroring that, those motions within you. And you can feel that to varying degrees, the more open you are and broader your awareness is. The more you can feel and have that mirrored empathy through the physical process of mirror neurons.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0031
+
+## seg-0032 / 00:18:48-00:19:50 / SPEAKER_01
+
+Then there's the theory of mind more area, which is what I call imaginative empathy or sometime called respective taking or cognitive empathy. So it's, it's being able to take the position of someone else, see the world, like what is it like from their position? Okay. Kind of in perspective and that has more of a cognitive, you know, imaginative quality to it. And then the fourth part is what I would call a empathic action that as we, as we connect at these other levels and are able to see each other and feel each other, that we create action together. That is an empathic type of action where there's no, uh, uh, barriers to the action. Like, you know, when people are mad at each other and they try to work together, I mean, it's just like terrible, you know, it just doesn't work. But when they, you're really well connected with someone, then you have this empathic, smooth action.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0032
+
+## seg-0033 / 00:19:50-00:19:55 / SPEAKER_01
+
+That's right. That's right. So that's kind of the, the, the working definition that I use. Yeah.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0033
+
+## seg-0034 / 00:19:56-00:20:24 / SPEAKER_02
+
+I mean like, you know, you're really talking about the four stages of empathy, right? Yeah. And, and how they build on each other. The first stage, the second stage, the third stage, the fourth stage, you know, another, um, another framework for understanding this is, is, um, you know, what educators call the individualization. Yeah. And, and the socialization process where you first have to become an individual before you can, uh, properly, uh, socialize yourself with other people. So, so yeah. So, I mean, I, I completely, I completely, um, I, you know, I completely agree with that.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0034
+
+## seg-0035 / 00:20:24-00:21:24 / SPEAKER_01
+
+Yeah. So it's like the, you're saying kind of an individual part, which may be overlaps with self empathy. You have to be able to be aware of who you are as a, as a individual. That's right. Perhaps. Yeah, that's right. Well, how, how, I'm just really curious. It's like, I mean, I was in China in 1990, uh, just kind of did a little bit of traveling through there. It was just before the real boom, I think really started taking off. But uh, you know, the, the, the sense that we get, I think here in the United States is, uh, China is more of an authoritarian, you know, um, you know, patriarchal kind of a, a society and that's very much as follow the rules, you know, certain people are in charge. Uh, you know, it's hierarchical, which is very different model from empathy. Empathy is about feeling everyone for their humanity and, you know, how do I interact with your humanity and how do you see my humanity?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0035
+
+## seg-0036 / 00:21:24-00:21:36 / SPEAKER_01
+
+Yeah. And, um, so it seems like it's, uh, for, to do that kind of a cultural change in China for people to really value empathy, that's, uh, um, that's quite a cultural shift.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0036
+
+## seg-0037 / 00:21:37-00:22:26 / SPEAKER_02
+
+Yeah. I mean, like, I, I think that you've, you, you know, you really hit the, uh, the, the nail on the head. I mean, that's exactly the problem where there is a hierarchy where, um, you know, power is distributed unevenly within China. And so, um, you know, the powers that be feel that, you know, it is their right to sort of, uh, bully the powerless and, and, and that's why we lack a culture of empathy, um, um, in China. And um, you know, that's not just the problem with empathy, that's the problem with, um, communication and, and creativity as well, where communication, you need, and some, you need equality. I mean, you need to respect and trust the people you're communicating with. And if you don't, then there's no communication and, you know, China lacks communication as well. And creativity is, is a culture, you know, unique culture of innovation when you're not afraid to lose face.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0037
+
+## seg-0038 / 00:22:26-00:23:16 / SPEAKER_02
+
+Yeah. Where you're not afraid to make mistakes, where you're not afraid to, you know, offend your superiors. And, you know, these three things, empathy, communication, creative, they're all related. Yeah. And China is very much in need of these three things if it is to, to progress as a society and as a civilization and, um, you know, you hit the nail on the head, which is fundamentally, it's a question of, you know, um, power distribution and, um, respect for, for, for, for everyone and, and the political system. I mean, that's, I mean, fundamentally, yeah. I mean, I mean, I mean, if China is, is, is, is to progress as an economy, as a society, as a people. Yeah. Then it has to fundamentally look at, re -examine its political system and question, um, the, the sort of effectiveness of it in a 21st century global economy.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0038
+
+## seg-0039 / 00:23:16-00:23:58 / SPEAKER_01
+
+So it's really, how do you create that empathy then within society and, and how is that movement going in, in China in terms of, I mean, your school is kind of progressive. It sounds like it's kind of on the cutting edge of this. How does it look at a larger societal level? Are there, uh, like here in the United States, there's businesses. Yeah. That are trying to implement more empathy. I mean, it's not like America is some kind of a parrot, you know, a paragon of, of, of, uh, empathy. So it's really a worldwide shift that needs to happen. It seems to me, but I'm just wondering, are there businesses that are, you know, kind of doing this or other schools? What's the picture in China for empathy, the development of empathy?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0039
+
+## seg-0040 / 00:23:59-00:24:56 / SPEAKER_02
+
+You know, I believe this, I believe very strongly that empathy is about being an effective school and effective business. Yeah. Of an effective society, which is the ability to channel, um, the creativity and the energy of everyone involved, um, to create something great. Um, you know, you, you look at companies that treat their employers with respect, um, you know, companies like Google and Apple and, and Facebook and which basically encourage them to be creative individuals and they sort of remove what, what's called scientific management from, from, from the equation where, you know, you know, I mean. Yeah. Yeah. People are treated like animals anymore. I mean these are creative companies that that have shown tremendous growth And I think that any company that employs a culture of empathy effectively will show Tremendous growth and that and that and that just because of of the way that Americans have been educated if you look at You
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0040
+
+## seg-0041 / 00:24:56-00:25:43 / SPEAKER_02
+
+know the sort of education that that really smart Americans Receive they go in the workplace expecting be treated as equals expecting expected to be given autonomy and freedom to pursue what they love and I mean, I mean if you look at companies that do that they thrive and companies that sort of try to Work against that they suffer so that's that's What's happening in America where you know, there's there there are these showcases for empathy in China right now The issue is again, there is no word for empathy. There's no understanding of the word empathy in in this culture What's the closest word in China in Chinese? The closest word is sympathy. Okay, which is a same feeling which is the same feeling
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0041
+
+## seg-0042 / 00:25:43-00:25:50 / SPEAKER_01
+
+Yeah, yeah, it's not empathy. Yeah and compassion. Is there a word for compassion? That's similar, but not quite. Yeah
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0042
+
+## seg-0043 / 00:25:51-00:26:36 / SPEAKER_02
+
+There's word for compassion, but you know empathy. It's a very much a technical term with a lot of connotations that just aren't captured in in the language so so, you know, so I mean what China needs right now is To sort of first be introduced to the concept of empathy and that's what we're trying to do here Where we're trying to show that if you remove Pressure and hierarchy and starts testing from the Chinese system You focus more on a culture of empathy students become happier. They become more motivated. They become more creative They become more driven to to learn they become better at clapping together And and you know, that's what's happening with our students. So we feel very strongly that first we need
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0043
+
+## seg-0044 / 00:26:36-00:26:49 / SPEAKER_01
+
+Showcase for what is possible within education reform what empathy could lead to so kind of like a model You want to model it within your school? So it's like something that others can look at and see exactly and exactly
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0044
+
+## seg-0045 / 00:26:49-00:27:28 / SPEAKER_02
+
+I think that you know right right now a lot of business are willing to discuss empathy Because of what Microsoft what Apple what Google were able to accomplish if it weren't for these companies then then I mean What then they wouldn't you know, you would not have that many companies talking about empathy right now Yeah, so, um, so right now our school, you know, I feel very strongly that that we're a lab And we're showcased for what is possible And you know empathy even though it's not Articulated explicitly it very much is in in the blood the culture of who we are and what we do. Well one thing
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0045
+
+## seg-0046 / 00:27:29-00:28:12 / SPEAKER_01
+
+Even in the United States sometimes Empathy is I mean it kind of infuses everything, you know I mean All human interaction and even if it there's a higher, you know, a kind of an authoritarian kind of a relationship even here There's still empathy, you know, you can't it's just kind of we're wired into it, but it's kind of like how do we maximize it? Right. How do we raise the level of empathy? But it does seem to be important to have a vocabulary for it You know, I mean they have an explicit vocabulary about you can have a whole series of other words like individualism or or collaboration But to have a clear vocabulary seems to mean to be very important
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0046
+
+## seg-0047 / 00:28:13-00:29:03 / SPEAKER_02
+
+You you know, you know, it's you know, China is a very different society from America and I'll give an example where you know When I walk the street, um, you know, I'm sort of beeped by a car and you know one time I've been hit by a car You know, and I had the right -of -way. I was hit by a car and You know, I've actually looked in the eyes of drivers and you know when they drive They don't seem to have awareness of other drivers. They don't seem to have awareness of pedestrians They feel that I have a car and and I I can go and do whatever I want, right? You know it, you know, it's it's sort of the culture of mutual respect is Is not it doesn't exist in China. It's it's not a cultural power and face. Yeah, and And shame it's it's not a culture of empathy and
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0047
+
+## seg-0048 / 00:29:03-00:29:49 / SPEAKER_02
+
+you're exactly right where where you know I mean when people Um, when when Americans are together, you know, there is there is a culture of empathy At at the you know at the most fundamental level, you know Even stranger you can and can express empathy to each other in China strangers cannot as empathy to each other families can though You know families are very much tight -knit Network, you know very much well connected. So, you know, that's a fundamental misunderstanding of of the world about China China You know as a nation It's actually very fragile very weak And that's because there's no empathy the social glue to to have everyone together and think nationally China very much is a clan based family -based society
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0048
+
+## seg-0049 / 00:29:50-00:30:37 / SPEAKER_01
+
+Well, you know, I'm I'd be glad to try to network together With yourself and other schools. Maybe do some panel discussions around empathy so that you know that you would be connected to others here talking about empathy absolutely and if you sound like and maybe with support you could get support for lesson plans and activities something that makes it more explicit you know explicit you know it's it's there's all these processes like active listening reflective listening you know mirroring exercises there's a lot of things that can be done to kind of explicitly you know give lessons into the nature of empathy and yeah that's kind of like building here
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0049
+
+## seg-0050 / 00:30:37-00:31:22 / SPEAKER_02
+
+now right I mean you know what we do is very special in China what we do is very distinctive and you know our students in this program love what what's happening you know they feel better as individuals and as students and they feel they feel as though they respect it they feel as though they're empowered in our culture but you know the parents themselves are in their children's lives and they're in their children's lives and they're tremendous pressure because you know they obviously have different social circles which tell which tell them you know like what is your kid doing your kid wants to go to America why is he not studying for the SAT right now why is that memorizing words why he's like why is he reading books and you know going to Africa to do service learning what's the point of that and so what's really important for us as a school is
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0050
+
+## seg-0051 / 00:31:22-00:32:06 / SPEAKER_02
+
+connect with other schools that share a philosophy and you know we want we really want to be part of a global network because you know what we do it in China is so challenging so you know it's good it's good for our students because it sort of reinforces the values of what we try to teach here at the same time you know it also brought runs up the horizons which leads to you know greater empathy yeah so I'm I mean you know if you could if you can be the facilitator for this you know help us you know put us in touch with other schools you know I hope very much that in the future you know you could arrange for our students to discuss with the students from from other schools I mean I mean I talk I talk about the theory a lot but I very much well would you know think that
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0051
+
+## seg-0052 / 00:32:06-00:32:10 / SPEAKER_02
+
+you would benefit a lot from talking to our students yeah we can do a panel
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0052
+
+## seg-0053 / 00:32:10-00:32:15 / SPEAKER_01
+
+discussions we can bring in some panel discussions and they can be recorded as
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0053
+
+## seg-0054 / 00:32:15-00:32:53 / SPEAKER_02
+
+well and put them online like would you like to meet one of our students right now sure so she can do okay let me turn on the lights too it's getting darker here all right yes so um I've asked a student to to join the conversation okay great but you know I feel very strongly that you know I mean I'm Western educated and I think that your audience you yourself would benefit a lot from talking to our students who is not Western educated and who went for the Chinese system and now and now is it is in our system one thing I like to ask
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0054
+
+## seg-0055 / 00:32:53-00:33:25 / SPEAKER_01
+
+else you know the empathy is often seen as the metaphor is is the metaphor of standing in someone else's shoes and looking through someone else's eyes and what I always like to do is ask people what is your personal metaphor of empathy so for me empathy is like a cornucopia so do you have a if you just from your own imagination what would empathy be like to you if it's if empathy was you know an animal or a type of land or a machine or just anything like that any kind of a metaphor yeah
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0055
+
+## seg-0056 / 00:33:26-00:34:40 / SPEAKER_02
+
+right well I mean like the image that comes to mind is I mean I need time to think about this the first thing that comes money is a dolphin and because dolphins are considered you know um but um you know empathy that's a very tough question well you're saying empathy is like a dolphin right I mean um well I mean dolphins can you know are considered to have empathy um I mean you know empathy is You know, it's like water, you know, it's like air. It pervades everything that is, and it's fundamental to life. I don't see how society can function without air or water empathy. I mean, I think if you ask me what it is, I have to say water. It nourishes us. It's fundamental to who we are. It's fundamentally what we are, actually, where, you know, 80 % water or whatever, but it's a source of life. I mean, if water is to the individual, then empathy is to society.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0056
+
+## seg-0057 / 00:34:40-00:35:04 / SPEAKER_02
+
+I don't see how societies can survive. Empathy. And, you know, and I think that if society, societies lack empathy, then they slowly, slowly degenerate. So, so yeah, so. They slowly, they slowly dehydrate. Yeah, yeah. If you're going to ask me for the metaphor, I would say empathy is water.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0057
+
+## seg-0058 / 00:35:04-00:35:23 / SPEAKER_01
+
+Yeah, I love it. I think that's a great metaphor. So, yeah. So, yeah. You know, I was asking, I didn't, I don't recall right. What was your proposal for the Ashoka contest? What was, what, what was it that the actual proposal was?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0058
+
+## seg-0059 / 00:35:23-00:36:26 / SPEAKER_02
+
+I mean, like, like what we try to do here is what I call empathy in practice. So even though we don't articulate it, even though we don't try to sort of indoctrinate our students with it, it is fundamental to everything that we do, you know, our focus. So we have, we have certain focus in our program that's fundamental to our identity as a school. The first is on reading literature. I want my students to become lifelong readers because, you know, reading literature, it's traditionally the best way to teach empathy in schools. I mean, literature, fiction is fundamentally about trying to understand the world through the perspectives of different characters and, you know, writers themselves are, are individuals with tremendous empathy for, for themselves and, and, and for the community. So the, so reading is so fundamental to, to work. What we do. And I think it's so unfortunate that reading has become increasingly irrelevant in schools, not just in China, but also in America.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0059
+
+## seg-0060 / 00:36:22-00:36:26 / SPEAKER_02
+
+
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0060
+
+## seg-0061 / 00:36:26-00:36:49 / SPEAKER_01
+
+So, you know, excuse me, your, your proposal then to Ashoka was kind of your school itself was what were you, what you were kind of showcasing and all the things that you're, you're, you're saying, you're saying this is our, our proposal that we're putting and it's our school. That's right. Which is, that's our goal. is really trying to incorporate empathy within China.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0061
+
+## seg-0062 / 00:36:50-00:37:41 / SPEAKER_02
+
+Yeah, you know, empathy cannot be done half -heartedly. You know, you cannot have a class on empathy. It has to be, it's like water, it has to be, it has to pervade everything for it to work. So, you know, like the first component is our reading program. I emphasize on reading and teaching students the love of reading. Second is on the idea of group dynamic, where we, where group dynamic pervades every class and we try to get our students to learn to work together. Now, to work together is not that easy. I mean, like, you just don't put, like, four people together and say, okay, go do this. I mean, there has to be certain things that are emphasized in group dynamic. For example, self -understanding, the understanding of your own limitations. Also, the appreciation of other people's strengths and weaknesses. What, appreciating that different people bring different things to the table and appreciating that.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0062
+
+## seg-0063 / 00:37:41-00:38:42 / SPEAKER_02
+
+Third is to emphasize evidence and logic as a way to, as a way to debate and also to offer specific feedback when, when, when you're discussing. I mean, in kids, I mean, it's very easy for them. Even adults, it's very easy for a group discussion to degenerate into sort of, you know, I mean, like insults. And just sort of ability to, like, hold yourself back and to offer specific feedback to ideas. That, that requires empathy. And, and, and so what's really important also is that to offer students feedback for what they do. So, I mean, the obvious feedback for reading is that, you know, you're reading more, the diff, the level of difficulty, the level of difficulty of what you're reading is increasing. So they feel a sense of accomplishment. But also group work is very important because at the end of the day, there's something concrete at the end of it. So we try to move away from tests and more towards papers, presentations, experiments.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0063
+
+## seg-0064 / 00:38:42-00:39:04 / SPEAKER_02
+
+You know, we, we, we, we read a lot of books of, on neuroscience, the brain that changes itself, the accidental, the accidental mind, brain, we read a lot of books that discuss the importance of, of empathy. So, so, I mean, like that's, so, you know, empathy is very fundamental to our culture and, and to our practices.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0064
+
+## seg-0065 / 00:39:04-00:39:26 / SPEAKER_01
+
+And how are you going to overcome that vocabulary problem of not having the word? Is it, like, you know, the word, you know, empathy was actually a German word and it got kind of incorporated into the English. They just, you know what I mean? So it's, but that's quite a long process. I don't know how you would, oh, you got your student there? I have a student here. Okay, great. Can you just hold on? Sure.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0065
+
+## seg-0066 / 00:39:30-00:39:41 / SPEAKER_02
+
+So, so I've asked one of my, one of our students to, to join us. Oh, great. This is Edwin and we're just having a step conversation. Hi, I'm Edwin. This is Rebecca. She's, she's one of our grade 11 students. Oh, great. Hi, Rebecca.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0066
+
+## seg-0067 / 00:39:43-00:39:43 / UNKNOWN
+
+Hi.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0067
+
+## seg-0068 / 00:39:43-00:40:11 / SPEAKER_02
+
+So coming closer, okay, so, so Rebecca has been in our program since, since the first day. And what we're talking about right now, what we're talking about right now is, is the word empathy. And how, you know, first of all, we can't translate the word in, in, into Chinese. We, we've been trying for like, you know, many, many months to translate the word into Chinese. What, what can we translate the word into Chinese? What, what's the problem?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0068
+
+## seg-0069 / 00:40:12-00:40:34 / SPEAKER_03
+
+Oh. I think there isn't a word in Chinese that's, that's broad as that. It has, there, there's small words that sort of means thinking for the other people. Mm -hm. Or like that, but they're not as broad as this word is. And, and somehow they just don't really fit together.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0069
+
+## seg-0070 / 00:40:34-00:41:12 / SPEAKER_01
+
+Well, how, how about we coin a word? We create a word right now. Um, so the, the original word for empathy was German. And it meant feeling into someone else. Into, uh, it's, it's ein feeling, which is feeling into. So as I sit here and look at you, I feel into your experience. So it would be feeling and into. So what would that be in Chinese? Like we'd need feel and then the, and into. Is there a couple of Chinese words that, uh, like what's feeling?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0070
+
+## seg-0071 / 00:41:13-00:41:17 / SPEAKER_03
+
+Mm. 感觉思考.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0071
+
+## seg-0072 / 00:41:17-00:41:20 / SPEAKER_01
+
+感觉. Yeah. Is feeling.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0072
+
+## seg-0073 / 00:41:20-00:41:32 / SPEAKER_02
+
+Yeah. Yeah. I mean, like, like, I mean, the problem with the word empathy is, you know, I mean, it, it's been, I mean, it's been such a fundamental part of Western civilization that the word itself brings up a lot of connotations.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0073
+
+## seg-0074 / 00:41:32-00:41:42 / SPEAKER_01
+
+Oh, just a second. I'm sorry. Your image just froze. If you could, sometimes if that happens, if you hit the, you know, the, oh, there it goes. Okay. Sorry. Okay. Sorry.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0074
+
+## seg-0075 / 00:41:42-00:42:23 / SPEAKER_02
+
+Go ahead. Right. I mean, the problem with the word empathy, and it's why it's so hard to translate, as Rebecca just mentioned, is that, you know, the, the word has been so intrinsic in Western civilization for so long that it automatically brings up connotations and ideas and images that right now don't exist in, in China. So even if we were to create a word, um, that were, that were to basically capture the essence of it, it still wouldn't have the meaning and the impact that, that the word has in, um, is in English language. Uh, can we do it as a fun exercise? All right. We'll, we'll, we'll, we'll change it by, try to come up with a word in Chinese that means empathy or captures the essence of empathy.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0075
+
+## seg-0076 / 00:42:23-00:42:27 / SPEAKER_01
+
+Okay. And, and it starts with feeling and you just said guan, what was it again? Feeling.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0076
+
+## seg-0077 / 00:42:29-00:42:31 / SPEAKER_03
+
+Gan zhe. Gan zhe.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0077
+
+## seg-0078 / 00:42:31-00:42:32 / SPEAKER_01
+
+Gan zhe. Gan zhe.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0078
+
+## seg-0079 / 00:42:32-00:42:33 / SPEAKER_03
+
+Gan zhe. Yeah.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0079
+
+## seg-0080 / 00:42:34-00:42:36 / SPEAKER_01
+
+Uh, okay. And into, what is into?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0080
+
+## seg-0081 / 00:42:38-00:42:39 / SPEAKER_03
+
+Xingwu.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0081
+
+## seg-0082 / 00:42:39-00:42:48 / SPEAKER_01
+
+Xingwu. Gan zhe inwu. I don't know. Yeah. It doesn't work, huh? It doesn't work. It doesn't work. Well, we tried.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0082
+
+## seg-0083 / 00:42:49-00:43:11 / SPEAKER_02
+
+We tried. Right. But, I mean, I mean, you know, Rebecca's one of, one of our students and, um, I asked Rebecca to join us because I was hoping that maybe that from the perspective of, of a student, she can share with us, you know, the importance of empathy in our, in our school and how we sort of try to educate students, um, and sort of try to like teach them empathy here.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0083
+
+## seg-0084 / 00:43:11-00:43:14 / SPEAKER_01
+
+So what have you learned about empathy? Uh, in this school?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0084
+
+## seg-0085 / 00:43:16-00:44:12 / SPEAKER_03
+
+Uh, so I was, I was thinking about the Botswana trip that we took, uh, a month ago in our winter vacation. We went to Botswana. It was the first time for almost all of us, um, in Africa and, um, I think we went in with a lot of stereotypes and, but it turned out to be really different than what we expected. Um, the people there were very nice and we kept talking on about this point. Um, I think we did each other on the streets. They were very nice to us. Um, so I think, and we also did service learning there, um, and, well, I think just all these added up and, well, this is really good. But, but, but, But, but, But, but, but,
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0085
+
+## seg-0086 / 00:44:12-00:44:17 / SPEAKER_02
+
+What specifically about service learning that, that sort of, um, that sort of, um, focus on empathy?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0086
+
+## seg-0087 / 00:44:19-00:45:13 / SPEAKER_03
+
+Um, we are all, us, I think most of us are this single child in, in our homes. Um, as a, I'm not accustomed to constantly thinking about someone else, like a brother or a sister, um, feeling, okay, she can, I was at a homestay family, um, and she, like the girl I was staying with. She had a, uh, a, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh. She had the brother and a sister, a little brother and a little sister. And when we, while we were eating, she was constantly saying, don't get too close to the television or you can't eat with your hands like that. And have you washed your hands? And she was constantly thinking about them. And it is, I felt like, so I never had that experience where I was just worrying about someone else along the time. And during the service learning process, we work with children that had, um, Down syndrome.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0087
+
+## seg-0088 / 00:45:13-00:46:10 / SPEAKER_03
+
+And that, and some had difficulties expressing themselves. So I was sitting with that one girl who couldn't speak and, um, and we were supposed to draw something, but she had problems wrapping the pen. So she, so we just sat there for half an hour. And so during that half an hour, it was a really long time for me just thinking about what she wants, what she was thinking about. And I think that's probably the longest time I spent. Just, just getting into someone other's head and just trying to feel what they're feeling right now. Like she, she kept looking at the people having lunch over there and I think she was thirsty. And then I think like, and I asked, um, her, uh, a teacher there and they sort of communicated in a way and I got her some water. So it was, it was a really different experience for me.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0088
+
+## seg-0089 / 00:46:08-00:46:10 / SPEAKER_03
+
+
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0089
+
+## seg-0090 / 00:46:10-00:46:25 / SPEAKER_01
+
+Yeah. So you've grown up in a, in a, in a family where you're the only child. And so you could just think about yourself all the time and here you're seeing how other children in large families had to kind of think about each other all the time.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0090
+
+## seg-0091 / 00:46:26-00:46:54 / SPEAKER_03
+
+Yeah. So I never really had that experience. Um, and I just, just honestly speaking, I never felt that I lacked that much on that. Um, on that I had classmates. I felt. Well, I, I made friends and all that, which is, I never really felt that, um, that, that difference. So that was the time where I really thought I'm lacking a lot of things here actually.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0091
+
+## seg-0092 / 00:46:54-00:47:00 / SPEAKER_01
+
+Oh, so you feel like you're lacking that, uh, family, that larger family or you're just lacking something?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0092
+
+## seg-0093 / 00:47:01-00:47:27 / SPEAKER_03
+
+I just, I think it's lacking, um, just the, I think it's lacking the thing that, um, I'm, um, just when some, when you constantly think about someone else, just constantly being aware that there are other people around you. And when I'm at home, then there's just me and this is very easily just to think about yourself and just kind of forget the rest of the world or something.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0093
+
+## seg-0094 / 00:47:27-00:47:28 / UNKNOWN
+
+Yeah.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0094
+
+## seg-0095 / 00:47:28-00:47:50 / SPEAKER_02
+
+But, but, you know, I mean like, like I'll make a larger point, which is, you know, in my experience, um, you know, Chinese students have very limited experiences. You know, they go to school, they go home, that's about it. They don't date. They don't, uh, work. They don't, um, have friends. They don't have real interests outside of school. And so because their experience is limited, their emotional range is also limited and that hinders the development of, of empathy.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0095
+
+## seg-0096 / 00:47:51-00:48:13 / SPEAKER_01
+
+Well, uh, for me, one part of empathy is kind of feeling into someone else's experience. And it sounded like you were, uh, feeling into the experience of the people that were there, kind of feeling what it's like to be thinking about your brothers and sisters. And, uh, I'm just curious, who did you feel the most closest to? When you were there?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0096
+
+## seg-0097 / 00:48:15-00:48:17 / SPEAKER_03
+
+Um, excuse me. Can you repeat that question?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0097
+
+## seg-0098 / 00:48:17-00:48:25 / SPEAKER_01
+
+Uh, who did you feel the closest? Did you have, did you feel having the closest feeling to, kind of the closest emotional feeling?
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0098
+
+## seg-0099 / 00:48:27-00:48:52 / SPEAKER_03
+
+Um, I think it was the girl I stayed with in the homestay family. And we, I stayed there for one night and, uh, it was, is, we got a lot of time just to talk, to talk to each other and we talked very late into the night. Um. And, um, so we got, got a lot of time to get to know each other and I get, I got to know her family. She heard about mine.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0099
+
+## seg-0100 / 00:48:52-00:49:27 / SPEAKER_01
+
+Oh, great. Yeah. Well, we're looking at, uh, how, uh, we were just talking about how we can perhaps network with others, you know, other schools, maybe here in the United States to actually kind of talk about empathy and looking at different ways to, uh, deepen, uh, empathy and to, uh, build what I call a culture of empathy. So how do we create empathy? How do we create an environment that's kind of supportive of people connecting and, uh, seeing each, you know, seeing the world through each other's eyes? So I'm really looking forward to that. Yeah.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0100
+
+## seg-0101 / 00:49:27-00:50:08 / SPEAKER_02
+
+I mean, you know, I mean, please, please make the introduction, um, you know, if, if, if possible, you know, you know, we have video facilities, um, you know, Skype, but also video conferencing. So, um, and you know, I mean, like if they were wanting to visit China, then, uh, we would, we would love to host them. Um, we have, um, some students coming in from Thailand on, on Sunday to spend a week with us and, you know, it's, it's, it's an opportunity for us to expose our students to, you know, um, different perspectives and, um, did, um, and so, you know, and, and so, I mean, we are very well much equipped to host schools and, you know, our schools would love to, to visit other countries as, as well.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0101
+
+## seg-0102 / 00:50:08-00:50:31 / SPEAKER_01
+
+Mm -hmm. So you're really open for connecting with other, uh, with other schools. That's right. So I'll, I'll do what I can. And then to, uh, uh, kind of see if I can facilitate that. And I think our, our next step will be maybe a panel discussion. We can have, uh, some teachers and, and are you a teacher or administrator there? I'm not sure what, what your role is.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0102
+
+## seg-0103 / 00:50:32-00:51:18 / SPEAKER_02
+
+Um, I, I run the National Division. Oh, okay. So I'm an administrator. Mm -hmm. But I also teach as, as, uh, I mean, uh, as well. Mm -hmm. Mm -hmm. And, and, and, you know, here, you know, we don't really, um, clarify roles and responsibilities. Like we're, like, we see ourselves as a community. So everyone has responsibility to help contribute, um, and that also fosters a culture of empathy. So, you know, Rebecca, um, is my teacher assistant in an English class, um, so, and she's, she, she also works, you know, in a student council, so, you know, she also has different roles and responsibilities. Oh, okay. So, you know, we, we, we, we try to sort of, you know, flatten the hierarchy. We, we, we, we try to like, you know, you know, you know, you know, you know, you know, like, um, we, we, we try to basically get rid of boundaries and, and, and try, and try to create a community.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0103
+
+## seg-0104 / 00:51:16-00:51:18 / SPEAKER_02
+
+
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0104
+
+## seg-0105 / 00:51:18-00:51:19 / SPEAKER_01
+
+Mm -hmm.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0105
+
+## seg-0106 / 00:51:19-00:51:20 / SPEAKER_02
+
+Of, of what we call learners.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0106
+
+## seg-0107 / 00:51:22-00:51:57 / SPEAKER_01
+
+I have, I had a little bit of, uh, bronchitis last couple months, so I'm sorry about coughing a little bit here. Um, so, yeah, okay, so I think, uh, we, we'll kind of bring it to a close. We've been at it for about an hour, but we'll, we'll keep that in mind as the next thing is I'll try to get some other, uh, people who are, uh, in the schools and we'll see about doing a panel discussion around this and, and, and, and just keep kind of building on it. I'm, I'm really excited, uh, because this is kind of the first connection I've had to China, you know, around this project and, so this is really great for me. I'm just really enjoying it.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0107
+
+## seg-0108 / 00:51:57-00:52:10 / SPEAKER_02
+
+Yeah, empathy is, I mean, empathy is completely new in, in, in, in China. We're, we're doing our best to sort of promote it, um, but, I mean, it, you know, it is an uphill battle, so whatever allies we, we, we can find in the process, you know, we're very grateful.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0108
+
+## seg-0109 / 00:52:11-00:52:22 / SPEAKER_01
+
+Okay. Well, then, um, we'll end it there and, uh, we'll kind of communicate via email about the next steps then, and I, and I really appreciate you taking the time to, you know, talk about your project.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0109
+
+## seg-0110 / 00:52:22-00:52:28 / SPEAKER_02
+
+I appreciate you, you, you organizing this and, you know, helping us, um, link, link with, with, with the people.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0110
+
+## seg-0111 / 00:52:29-00:52:54 / SPEAKER_01
+
+Okay. My pleasure. So, okay. Goodbye. What was your, oh, what was your name again? Thank you. Rebecca. Rebecca. Sorry, Rebecca. And you'll have to pronounce yours again. Sorry. Sorry. Sorry. Uh, Jiang Xueqian. Jiang Xue, Jiang Xue. Jiang Xueqian. Jiang Xueqian. Jiang Xueqian. Sorry. Goodbye. I'm doing my best. Okay. Goodbye, then. Until the next time. No, thank you so much guys. Okay. Bye. Bye.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0111
+
+## seg-0112 / 00:52:55-00:53:02 / SPEAKER_00
+
+See the world through other people's eyes. Now, empathy is a quality of character that can change the world.
+
+Ref: video:interview-nqam-7gt-9k@transcript:v1#seg-0112
