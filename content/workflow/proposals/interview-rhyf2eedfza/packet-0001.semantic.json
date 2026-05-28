@@ -1,0 +1,232 @@
+{
+  "packet_id": "interview-rhyf2eedfza-semantics-pkt-0001",
+  "source_id": "video:interview-rhyf2eedfza",
+  "source_date": "2025-08-05",
+  "interactions": [
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0001",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0002"
+      ],
+      "kind": "question",
+      "summary": "The host introduces Jiang's biography, recent predictive fame, and asks him to define Predictive History and its importance.",
+      "speaker_attribution": "Host introduction and opening question, with Jiang's brief thanks embedded in seg-0002",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0003",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0004"
+      ],
+      "kind": "answer",
+      "summary": "Jiang defines Predictive History as a system that judges historical frameworks by whether they connect the past, explain the present, and predict the future.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0005"
+      ],
+      "kind": "question",
+      "summary": "The host asks what allowed Jiang to predict the Iran-Israel war.",
+      "speaker_attribution": "Host follow-up question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0006",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0007",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says Soleimani's killing functioned as a war declaration, and from there he treated later conflict as a question of timing driven by pro-war actors around Iran.",
+      "speaker_attribution": "Jiang interview answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0002"
+      ],
+      "note": "ASR merges Jiang's thanks into the host's question before Jiang's substantive definition begins in seg-0003.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defines Predictive History as an attempt to systematize historical interpretation so one can tell whether a reading of history is right or wrong.",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Method definition given on 2025-08-05.",
+      "topic_tags": [
+        "Predictive History",
+        "historical method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says a valid historical framework must connect the past into a coherent narrative, explain the present, and predict future events.",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0003",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Method definition given on 2025-08-05.",
+      "topic_tags": [
+        "prediction",
+        "historical theory",
+        "method"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues historical models contain embedded values and assumptions, and those hidden assumptions generate the predictions a model will make.",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Method statement on 2025-08-05.",
+      "topic_tags": [
+        "values",
+        "assumptions",
+        "prediction model"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Trump's January 2020 killing of Soleimani was historically equivalent to a direct war provocation because killing an ambassador compels retaliation.",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Retrospective geopolitical claim made on 2025-08-05 about January 2020.",
+      "topic_tags": [
+        "Soleimani",
+        "Iran",
+        "United States",
+        "war trigger"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says that after Soleimani's assassination the conflict with Iran became a matter of timing, briefly delayed only because Trump lost to Biden.",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Retrospective diagnosis on 2025-08-05.",
+      "topic_tags": [
+        "Iran war",
+        "Trump",
+        "Biden",
+        "timeline"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He identifies Christian Zionism, AIPAC, and Saudi interests as actors with incentives to push a U.S.-Iran war.",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Current actor map on 2025-08-05.",
+      "topic_tags": [
+        "Christian Zionism",
+        "AIPAC",
+        "Saudi Arabia",
+        "Iran war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts that war will eventually erupt between the United States and Iran, even though seg-0008 misstates the country as Iraq.",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0007",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Open-ended forecast made on 2025-08-05.",
+      "topic_tags": [
+        "prediction",
+        "United States",
+        "Iran"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0003",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0004"
+      ],
+      "moment": "Jiang turns good history into a three-part stress test: connect the past, explain the present, predict the future.",
+      "source_phrase": "we should be able to do three things",
+      "why_it_matters": "This is the interview's governing method and the standard by which Jiang wants history judged.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0006"
+      ],
+      "moment": "Soleimani's killing is read not as an isolated strike but as an old-world ambassador murder that makes war structurally inevitable.",
+      "source_phrase": "if you killed an ambassador, that's a direct provocation of war",
+      "why_it_matters": "It shows Jiang's habit of folding modern events into deep historical pattern recognition.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0007"
+      ],
+      "moment": "The war is framed as delayed timing rather than uncertain possibility.",
+      "source_phrase": "it was just a question of timeline",
+      "why_it_matters": "That phrase defines Jiang's confidence in predictive history and sets the tone for the interview's later forecasts.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Predictive History",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0003",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Jiang's attempt to make historical interpretation testable by linking past, present, and future forecasts inside one model.",
+      "confidence": "high"
+    },
+    {
+      "term": "values and assumptions",
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "The hidden premises Jiang thinks every historical framework carries, which later determine its predictions.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0006",
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0007"
+      ],
+      "note": "This packet anchors Jiang's Iran-war model to the January 2020 Soleimani assassination and explicitly says Trump's return would restart the delayed timeline.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:interview-rhyf2eedfza@transcript:v1#seg-0008"
+      ],
+      "note": "The final segment says 'Iraq,' but the surrounding packet clearly concerns Iran; treat that as ASR or slip noise rather than a substantive shift."
+    }
+  ]
+}
