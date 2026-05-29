@@ -50,6 +50,7 @@ export const docsSidebar = [
     label: 'Lens Atlas: State And Strategy',
     items: [
       { label: 'Game Theory', slug: 'lens/game-theory' },
+      { label: 'Prediction As Falsifiable Prophecy', slug: 'lens/prediction-as-falsifiable-prophecy' },
       { label: 'Eschatology As Script', slug: 'lens/eschatology' },
       { label: 'Legitimacy Fiction', slug: 'lens/legitimacy-fiction' },
       { label: 'Nation As God-Machine', slug: 'lens/nation-as-god-machine' },

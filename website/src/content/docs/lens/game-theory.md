@@ -55,11 +55,11 @@ The **2025-12-31** Recombination Nation interview gives an earlier, more structu
 <span id="game-theory-elite-overproduction-domestic-war" class="lens-point-anchor"></span>
 Elite overproduction and fifth-generation conflict turn foreign pressure, civil unrest, and psychological warfare into a proximity game when too many elites compete inside a shrinking hierarchy, externalize the struggle through states or proxies, and then use public rage or social fracture as the street-level surface of elite conflict.
 
-Jiang later applies the same method to contemporary American civil-war risk. He reads the second Trump presidency as [a civil war inside the American elite]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0096"}, with militant arms and street clashes as the downstream form. The important game-theory claim is the agency reversal: [political differences inside the deep state are resolved in the streets by instigating civil war]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0097"}. His follow-up on revolutions keeps the same boundary. Pure peasant rage is usually crushed; successful revolution needs [an elite faction that can galvanize popular discontent and lead it]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0104"}.
+Jiang later applies the same method to civil-war risk. He reads the second Trump presidency as [a civil war inside the American elite]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0096"} and names the agency reversal: [political differences inside the deep state are resolved in the streets by instigating civil war]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0097"}. Successful revolution likewise needs [an elite faction that can galvanize popular discontent and lead it]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0104"}.
 
-The **2025-11-15** Danny Haiphong interview adds a spectacle version of the same proximity test. Jiang treats the Epstein-file fight as visible damage on the surface but asks whether the nearer game is Trump's need for a base prepared for political violence. In that reading, declining approval, elite infighting, and public humiliation can still be instrumental if the target payoff is not immediate popularity but [a MAGA street army mobilized by the message that the elite has cornered Trump]{evidence="video:interview-vvj4mxqu2qk@transcript:v1#seg-0044 video:interview-vvj4mxqu2qk@transcript:v1#seg-0045"}. Jiang closes the interview by making the assumption explicit: if Trump wants civil war and accelerated imperial collapse, [a lot of things make more sense]{evidence="video:interview-vvj4mxqu2qk@transcript:v1#seg-0111"}. The claim remains speculative, but it belongs here because the active test is game-theoretic: what payoff would make an apparently self-harming scandal strategy rational?
+The **2025-11-15** Danny Haiphong interview adds a speculative spectacle case: the Epstein-file fight could be self-harming publicity, or it could be a proximity game if the target payoff is [a MAGA street army mobilized by the message that the elite has cornered Trump]{evidence="video:interview-vvj4mxqu2qk@transcript:v1#seg-0044 video:interview-vvj4mxqu2qk@transcript:v1#seg-0045"}. Jiang makes the assumption explicit: if Trump wants civil war and accelerated imperial collapse, [a lot of things make more sense]{evidence="video:interview-vvj4mxqu2qk@transcript:v1#seg-0111"}.
 
-The **2025-11-06** Libertarian Party interview gives this same family a fifth-generation-war formulation. Jiang says nuclear powers are unlikely to fight each other directly, so [fifth-generation warfare is much more likely]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0033"}. The board is not only battlefield attrition. It is the game of maintaining one's own population while diminishing another society's cohesion. In Europe, Jiang reads wedge issues and media fronts as ways to [provoke a civil war]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0035"}; inside a state, he adds the uglier payoff that [civil war can reduce social discontent for the elite]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0035"}. The passage belongs here because it asks what outcome becomes useful to which player. [Mass Society](/lens/mass-society-as-political-constraint/) owns the scale problem of keeping populations fed, surveilled, and pacified; Game Theory owns the moment social fracture becomes a selectable move inside elite or geopolitical play.
+The **2025-11-06** Libertarian Party interview gives the same family a fifth-generation-war formulation. Jiang says nuclear powers are unlikely to fight directly, so [fifth-generation warfare is much more likely]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0033"}. The board is maintaining one's own population while diminishing another society's cohesion; wedge issues and media fronts can [provoke a civil war]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0035"}, and civil war can become useful because it [can reduce social discontent for the elite]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0035"}. [Mass Society](/lens/mass-society-as-political-constraint/) owns population-scale pacification; Game Theory owns social fracture as a selectable payoff.
 
 This belongs inside game theory because the mechanism is methodological. It does not say domestic politics is always the hidden cause, and it does not turn every foreign event into a civil-war claim. It gives the analyst a test: when an external move looks strategically incoherent, ask whether a nearer audience, election, faction, bureaucracy, status contest, or spiritual struggle is the real game being won.
 
@@ -181,17 +181,11 @@ The disturbing claim is that transgression can solve trust. If a group crosses a
 
 The reader should not flatten this into admiration for cheating. Jiang's point is diagnostic. If a public order rewards rule-followers less than hidden coordinators, the analyst must see that game. Otherwise moral language becomes a way of missing the actual power structure.
 
-## Prediction Changes The Game
+## Prediction As Falsifiable Method
 
-The July 2025 universal-law lecture also gives game theory its own limit. After deriving a strong forecast from the mass-energy-coordination formula, Jiang stops himself. If the game is now visible, then the model is no longer outside the game. A player can see the contours, enter the board, and use the forecast itself as material.
+Game theory becomes dangerous when it turns every event into proof that the analyst was right. Jiang's own prediction material now has a child page because it is no longer a side note inside the player-payoff method. [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/) owns the forecast discipline: visible games can invite intervention, theater claims must cash out as dated predictions, misses must remain visible, and frameworks must name what would force revision.
 
-This is not a retreat from prediction. It is a harder rule for prediction. Game theory can clarify players, trajectory, and incentives; but once [the players are obvious and the trajectory seems clear]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0031"}, the situation becomes attractive to the person who can bend it. Jiang names this figure through Hegel and Nietzsche as the world-historical actor, then applies the claim to Putin in that dated source: [the new player sees the contours of the game, manipulates events, and changes the course of the game for himself and his group]{evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0031 video:predictive-history-5i2vpypjj68@transcript:v1#seg-0032"}.
-
-<!-- lens-point id="game-theory-visible-game-invites-intervention" concept="game-theory-method" evidence="video:predictive-history-5i2vpypjj68@transcript:v1#seg-0031 video:predictive-history-5i2vpypjj68@transcript:v1#seg-0032" -->
-<span id="game-theory-visible-game-invites-intervention" class="lens-point-anchor"></span>
-A game-theory prediction changes the board when the game becomes visible enough for a new player to see its contours, manipulate events, and redirect the apparent trajectory toward his own ends.
-
-The boundary matters. This is not a separate "great man" theory and not a license to make every forecast unfalsifiable. The useful diagnostic is narrower: when a model has become clear enough to guide action, ask who can read the same model, enter late, and turn the visible trajectory into a weapon.
+The parent boundary is narrower. Game Theory asks who is playing, what they want, which board is nearest, and what payoff makes a move rational. The prediction child asks what happens when that model risks the future, meets a hostile audit, or becomes readable enough for another player to use it.
 
 ## When Target Order Creates Alignment
 
@@ -206,48 +200,6 @@ The **2026-01-25** interview with The Geopolitics Show gives the same mechanism 
 Strategic sequencing backfires when a hegemon's one-by-one target order becomes visible enough that later targets coordinate, because each one's fall exposes the rest.
 
 This belongs on Game Theory before it belongs on Strategy. Strategy asks whether the empire can actually fight, supply, occupy, finance, and exit the fronts it imagines. Game Theory asks the prior player-position question: once the order of targets is visible, who has an incentive to bind together even if their ordinary interests diverge?
-
-## Theater Becomes A Prediction Test
-
-The late-processed **2026-01-05** Glenn Diesen interview gives the May lecture an earlier public formulation. Jiang treats April not as a calendar curiosity but as a board position. Trump, in this dated forecast, wants Caribbean pressure, Western Hemisphere control, African competition, and China-Japan tension to accumulate before the China meeting because [everything is leading to April, where leverage can be converted into a grand bargain]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0075 video:interview-orycs0r2tpg@transcript:v1#seg-0091 video:interview-orycs0r2tpg@transcript:v1#seg-0092"}. That is a game-theory move before it is a strategy claim: the summit is not the game; it is the moment where previous moves try to change the payoff table.
-
-<!-- lens-point id="game-theory-bargain-as-sequence" concept="game-theory-method" evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0075 video:interview-orycs0r2tpg@transcript:v1#seg-0078 video:interview-orycs0r2tpg@transcript:v1#seg-0079 video:interview-orycs0r2tpg@transcript:v1#seg-0091 video:interview-orycs0r2tpg@transcript:v1#seg-0092" -->
-<span id="game-theory-bargain-as-sequence" class="lens-point-anchor"></span>
-A bargain is a sequence rather than an event when the analyst asks what earlier pressure, factional alignment, leverage, and next-game positioning make a summit rational, even if the agreement itself will not stabilize the larger board.
-
-The same interview also preserves the method's limit. Jiang says he cannot know exactly what China will do because Chinese factions, Russia dependence, domestic concerns, and the wider geopolitical environment still have to coalesce; then he makes a bet that [China and the United States will come to a grand bargain without altering the geopolitical landscape]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0078 video:interview-orycs0r2tpg@transcript:v1#seg-0079"}. The point is not that every bargain is fake. The point is that a deal can solve one player's immediate sequence while leaving the next game intact. In Jiang's January version, China is treated as [the penultimate boss before Iran]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0092"}, so the China bargain matters precisely because it clears or blocks a later war path.
-
-The May 2026 U.S.-China lecture adds a practical discipline to the same rule. Jiang begins with a visible diplomatic scene: Trump in China, an unusually heavy U.S. entourage, AI and finance figures near the table, and public friction still filling the news. His game-theory move is not to deny the friction. It is to ask whether the friction is the real game or the visible noise around a larger bargain. He says that if the class uses game theory and looks at the broad contours, it can make better predictions, then names the surface conflict [just theater]{evidence="video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0007"}.
-
-This matters because "theater" is easy to abuse. In Jiang's stronger form, theater is not an excuse to believe any hidden story. It has to cash out as a forecast. He explicitly calls the model speculative, asks students to question and debate it, and says that once they understand the theory they can make predictions; [the predictions then test whether the theory is correct]{evidence="video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0016"}. The lecture closes the same way: the grand-bargain claim will be known soon enough because [the prediction can be wrong within days]{evidence="video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067"}.
-
-<!-- lens-point id="game-theory-theater-prediction-test" concept="game-theory-method" evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0019 video:interview-crw5ccq8uf4@transcript:v1#seg-0021 video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0007 video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0016 video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0067 video:interview-vvj4mxqu2qk@transcript:v1#seg-0038 video:interview-vvj4mxqu2qk@transcript:v1#seg-0039 video:interview-vvj4mxqu2qk@transcript:v1#seg-0044 video:interview-vvj4mxqu2qk@transcript:v1#seg-0046" -->
-<span id="game-theory-theater-prediction-test" class="lens-point-anchor"></span>
-Theater becomes useful game-theory evidence only when the analyst names the performer, the larger game, and the desired payoff, states predictions that follow from the hidden structure, and accepts that near-term outcomes can falsify the theory.
-
-That gives the reader a boundary. If "it's all theater" merely protects a claim from contrary evidence, it has left Jiang's game-theory method and become story insulation. If it identifies players, constraints, desired payoffs, visible signals, and dated predictions, then theater can be tested as a game-board signal. The point belongs here rather than on the stories page because the mechanism is methodological: the analyst is not asking how narrative captures imagination, but whether visible drama is misdirection, bargaining language, or evidence of a different payoff structure.
-
-The March 11 interview supplies the personal-politics version before the May U.S.-China lecture turns theater into an explicit prediction test. Jiang calls Trump [a super athlete in political manipulation and perception control]{evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0019"}, then says the relevant game-theory questions are what Trump does well, what he wants, what incentives face him, and what strategy is optimal. When Jiang then says [politics was always a show]{evidence="video:interview-crw5ccq8uf4@transcript:v1#seg-0021"}, the useful lens is not blanket cynicism. The claim becomes game theory only when the show is tied to player skill, motive, payoff, and a prediction that can later embarrass the model if events do not answer.
-
-The Danny Haiphong interview makes that guardrail especially important because Jiang himself marks the claim as a theory that could be wrong. He says the Epstein spectacle may be [a Trump show and an illusion designed to maximize emotional reaction]{evidence="video:interview-vvj4mxqu2qk@transcript:v1#seg-0038"}, then names the mechanism as tension and release: hide the files, make people beg, let new information agitate them, and redirect the demand toward Democratic enemies. The theater claim earns a place on this page only because Jiang attaches a payoff and a short horizon: the show would matter if it channels anger toward lawfare and a 2028/third-term street-army strategy, and he says to [watch how things play out over the next few months]{evidence="video:interview-vvj4mxqu2qk@transcript:v1#seg-0044 video:interview-vvj4mxqu2qk@transcript:v1#seg-0046"}.
-
-## Prediction Under Cross-Examination
-
-The April 2026 Zeteo interview turns that boundary into a hostile audit. Mehdi Hasan does not let Jiang keep the "China's Nostradamus" aura. He names the apparent hits, presses the Nikki Haley miss, asks whether prediction is foresight or luck, and pushes the difference between speculation and evidence. Jiang's useful answer is not that he never misses. It is that Predictive History is supposed to [build a historical framework, make predictions from it, and see whether they work out]{evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0044 video:interview-kh8dvnddooq@transcript:v1#seg-0045"}.
-
-That makes the interview a method source rather than only a reputation source. Jiang [concedes the Haley branch was wrong, then reinterprets the Vance/Gabbard choice as a different signal about Trump's second term and possible off-ramp]{evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0023 video:interview-kh8dvnddooq@transcript:v1#seg-0025"}. The correction is fragile, but it matters for the lens: a missed branch should not disappear into charisma. It has to be named, rerouted, and exposed to later events.
-
-The undated Russia Today interview gives the same method its anti-propaganda entrance. Jiang says history is often [a tool of indoctrination and propaganda used by winners to manipulate losers]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0008"}. The proposed rescue is not a more respectable story. It is exposure to failure: [rescue history from indoctrination by forcing it to make predictions]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0009"}. That makes prediction a moral pressure on interpretation, not a fortune-teller's brand. A history that never risks a future claim can always be adjusted after power wins.
-
-The same interview then shows why the audit cannot stop at accuracy. Asked about psychohistory as governing technology, Jiang imagines [an AI blueprint that can simulate hundreds of actions and guide future leaders]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0041"}. The next question supplies the human limit: flourishing is not prediction itself but [love, creativity, learning, and productive contribution across cultures]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0043"}. That keeps the method from becoming technocratic divination. Game theory can discipline history with forecasts, but the forecast still has to answer what kind of human order it is helping build.
-
-<!-- lens-point id="game-theory-prediction-under-audit" concept="game-theory-method" evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0023 video:interview-kh8dvnddooq@transcript:v1#seg-0025 video:interview-kh8dvnddooq@transcript:v1#seg-0045 video:interview-kh8dvnddooq@transcript:v1#seg-0055 video:interview-kh8dvnddooq@transcript:v1#seg-0071 video:interview-kh8dvnddooq@transcript:v1#seg-0072 video:interview-obqsun0g0u4@transcript:v1#seg-0062 video:interview-obqsun0g0u4@transcript:v1#seg-0063 video:interview-qsxkdk4mzgk@transcript:v1#seg-0008 video:interview-qsxkdk4mzgk@transcript:v1#seg-0009 video:interview-qsxkdk4mzgk@transcript:v1#seg-0041 video:interview-qsxkdk4mzgk@transcript:v1#seg-0043" -->
-<span id="game-theory-prediction-under-audit" class="lens-point-anchor"></span>
-Prediction stays inside Jiang's game-theory method only when it can survive adversarial audit: the analyst names misses, distinguishes checkable facts from truth-claims, marks speculative analysis as speculative, lets later events test whether the historical framework actually predicts, and keeps prediction ordered toward human flourishing rather than propaganda or technocratic prestige.
-
-Hasan's facts-versus-truth challenge supplies the danger. Jiang says facts are independently verifiable, while truth means deeper understanding of why things are the way they are and what can be predicted from them: [there is a difference between facts and truth]{evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0053 video:interview-kh8dvnddooq@transcript:v1#seg-0054 video:interview-kh8dvnddooq@transcript:v1#seg-0055"}. That distinction can rescue thought from flat fact-collection. It can also become a license for pattern language to outrun evidence. Hasan's later demand that Jiang admit the Pax Judaica account is [speculative analysis]{evidence="video:interview-kh8dvnddooq@transcript:v1#seg-0071 video:interview-kh8dvnddooq@transcript:v1#seg-0072"} is therefore not outside the method. It is one of the method's necessary tests.
-
-The **2026-03-12** Piers Morgan interview gives the same audit a shorter and harsher public form. Piers asks what viewers should do with an eschatological explanation that may sound like fantasy or anti-Semitic trope. Jiang does not answer by pretending to have archival proof. He says he is doing [speculative predictive modeling]{evidence="video:interview-obqsun0g0u4@transcript:v1#seg-0062"}: throw out a theory, derive predictions, and see whether reality answers. That defense is useful only if the reader keeps its risk visible. [Predictions coming true can give a theory provisional legitimacy]{evidence="video:interview-obqsun0g0u4@transcript:v1#seg-0062 video:interview-obqsun0g0u4@transcript:v1#seg-0063"}, but they do not turn eschatological causation into settled fact. Piers's objection therefore belongs inside the method, not outside it: hostile questioning is the condition that keeps prediction from becoming charisma.
 
 ## Material Tests Still Matter
 
@@ -287,9 +239,6 @@ Ask:
 - What form of coordination is operating: leader, bureaucracy, family, religion, story, nation, secret society, or subconscious dance?
 - Does a financial-flow model identify the real payoff, or has it made the players too rational and unified?
 - Does the story pass material tests of cost, organization, logistics, time, and enemy adaptation?
-- Has the game become visible enough that a late player can read the model, enter the board, and redirect the trajectory?
-- If the surface event is theater, what dated prediction would make that claim testable rather than self-protecting?
-- If the analyst missed a branch or admits speculation, is the miss preserved and the speculative layer marked, or is charisma protecting the model from audit?
 - Which earlier choices made only bad choices available now?
 
 The final question is often the most important. A trap is not just a bad move. It is a game whose previous moves have narrowed the field until every option damages the actor.
@@ -297,43 +246,37 @@ The final question is often the most important. A trap is not just a bad move. I
 ## Source Trail
 
 - **2024-05-29**, [Geo-Strategy #8: The Iran Trap](/episodes/predictive-history-7y-hbz6loeo/)  
-  Historical analogy and game theory are paired as methods for asking why rational actors may choose a trap, and the actor-by-actor pass separates U.S., Iranian, Israeli, and Saudi payoffs.
+  Rational actors can choose a trap when each actor optimizes a different payoff.
 
 - **2025-03-18**, [Civilization #39: Genghis Khan, World Shatterer](/episodes/predictive-history-mpqzapnjykm/)
-  The Mongol case shows optimal strategy under harsh constraint: a weaker mobile actor makes the stronger actor's fair game unplayable, then uses escalation, psychological warfare, and demonic reputation to make resistance irrational.
+  The Mongol case shows a weaker mobile actor making the stronger actor's fair game unplayable.
 
 - **2025-06-05**, [Civilization #58: Birth of the Nation-State](/episodes/predictive-history-tquo1usc5nw/)  
-  Nationalism spreads as a coordination game: once one people groups itself into a nation-state, others must group or lose.
+  Nationalism spreads as a coordination game: group into a nation-state or lose to those who do.
 
 - **2025-07-11**, [Geo-Strategy Update #5: The Universal Law of Game Theory](/episodes/predictive-history-5i2vpypjj68/)  
-  Jiang states the mass-energy-coordination formula, distinguishes conscious from subconscious coordination, makes story the highest coordination technology, and warns that a visible game can invite a player who changes its trajectory.
+  Jiang states the mass-energy-coordination formula and makes story the highest coordination technology.
 
 - **2025-08-29**, [Secret History #4: How Evil Triumphs](/episodes/predictive-history-btlwoqwlm9q/)  
-  Game theory becomes morally severe: hidden coordination, cheating, taboo breach, and transgression are analyzed as ways groups can bind themselves and win.
+  Hidden coordination, cheating, taboo breach, and transgression become ways groups bind themselves and win.
 
 - **2025-11-15**, [The Epstein Trap and the Theater of Imperial Collapse](/interviews/interview-vvj4mxqu2qk/)
-  Jiang extends the domestic-conflict and theater tests into the Epstein-file spectacle: a scandal that looks damaging to Trump may still be read as tension-and-release if the hypothesized payoff is anti-elite rage, lawfare against Democratic enemies, and a base prepared for street conflict. The source remains explicitly speculative, so its value is the dated game-theory test rather than proof of a hidden plan.
+  The Epstein-file spectacle becomes a domestic-conflict payoff test.
 
 - **2025-12-31**, [How This Civilisation Ends with Professor Jiang](/interviews/interview-mcjno0xrly8/)
-  The law of proximity gains a domestic-conflict form: elite overproduction makes foreign tension, civil-war risk, and revolutionary leadership legible as nearer elite games using states, proxies, and popular rage as their public surface.
-
-- **Undated**, [History Must Predict Or It Becomes Propaganda](/interviews/interview-qsxkdk4mzgk/)
-  Jiang gives the prediction method its anti-propaganda entrance: history can manipulate losers when written by winners, so psychohistory has to risk future claims; the same interview then imagines AI simulation as a long-horizon governing aid that still has to serve love, creativity, learning, and human flourishing.
+  Elite overproduction makes foreign tension, civil-war risk, and revolutionary leadership legible as nearer elite games.
 
 - **2025-10-30**, [Mafia Empire, Sunk Costs, And The Taiwan Illusion](/interviews/interview-xrk5vsezj4y/)
-  The proxy-player test sharpens into a NATO agency audit: Ukrainian troops remain visible, but Jiang assigns financing, technology, special forces, command and control, targeting, and alliance extortion to NATO and the American empire. The Taiwan section adds the threat-story correction: a public invasion story fails if invasion would remove a useful regional balance, expose China's trade and coastal industry, and undermine the peace-and-prosperity payoff Jiang assigns to Chinese policymakers.
-
-- **2026-01-05**, [An Empire That Sacrifices Strategy For Optics](/interviews/interview-orycs0r2tpg/)
-  The April grand-bargain forecast shows the sequence rule: pressure across theaters, internal Chinese factions, and the later Iran endgame make the China meeting one move in a wider game rather than a self-contained diplomatic event.
+  NATO agency and the Taiwan non-invasion argument sharpen the real-player and threat-story tests.
 
 - **2026-01-06**, [Game Theory #1: The Dating Game](/episodes/predictive-history-he4l9wylf3u/)  
-  The course definition appears: players, rules or constraints, and incentives. The dating case shows how status can be the real game behind sex, marriage, and fertility.
+  The course definition appears, and status becomes the real game behind dating and fertility.
 
 - **2026-01-08**, [Game Theory #2: Why Schools Suck](/episodes/predictive-history-ks-muauq62e/)  
-  School becomes a stakeholder game whose real reward structure can make learning the least important game.
+  School becomes a stakeholder game where learning can be the least rewarded move.
 
 - **2026-01-09**, [Pax Judaica, Piggy Banks, And The Prison State](/interviews/interview-acpe2tgkbje/)
-  Jiang tests a finance-first model of world order against game-theory limits: money can coordinate and voting can decay, but ego, short-term interest, volatility, and factional struggle persist inside every bloc.
+  Money can coordinate, but ego, volatility, and factional struggle persist inside every bloc.
 
 - **2026-01-15**, [Game Theory #4: The Immigration Game Is Rigged](/episodes/predictive-history-35hrplvyf0g/)
   The host-written-rules case separates school success, income, and civic obedience from status and rule-setting power.
@@ -345,25 +288,16 @@ The final question is often the most important. A trap is not just a bad move. I
   Jiang gives the methodological warning that apparent irrationality may mean the analyst has named the wrong game and wrong reward.
 
 - **2026-03-11**, [Attention Is The Real Battleground](/interviews/interview-crw5ccq8uf4/)
-  Jiang gives the method an autobiographical origin: Yale's meritocratic theology breaks against lived institutional reality, poker teaches that players can win with strategies that look illogical from outside, human society becomes a game of major players and psychology, and politics-as-show becomes usable only when tied to performer skill, incentive, and prediction.
-
-- **2026-03-12**, [Empire Breaks When Hormuz Stays Closed](/interviews/interview-obqsun0g0u4/)
-  Piers Morgan repeats the audit in compressed public form: when a speculative eschatological model sounds fantastical or dangerous, Jiang defends it as predictive modeling whose warrant is provisional forecast success, not documentary proof.
+  Yale and poker give the method an autobiographical origin: player psychology matters more than outside reasonableness.
 
 - **2026-03-19**, [Game Theory #14: The Law of Proximity](/episodes/predictive-history-noqqgy4boby/)
   The method gains a proximity rule: actors play many games at once, and the nearest visible game can make domestic faction, party, or spiritual conflict govern the apparent interstate game.
 
-- **2026-04-03**, [Useful Idiot, Predictive History, And The Facts Trap](/interviews/interview-kh8dvnddooq/)
-  Hasan turns the prediction method into cross-examination: Jiang distinguishes facts from truth, admits the Haley miss, marks part of the Pax Judaica account as speculative analysis, and gives a dated 2026 prediction set that can be checked later.
-
 - **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)  
   War imposes the hard material test: economics, organization, and logistics expose when story has replaced strategy.
 
-- **2026-05-14**, [Game Theory #25: Trump in China as a Grand Bargain Engine](/episodes/predictive-history-bil5vjn6ohi/)
-  The theater claim is made falsifiable: visible U.S.-China friction is treated as noise around a larger bargain only because Jiang attaches dated predictions and says the theory can be tested by whether those predictions hold.
-
 - **Unknown source date**, [History Must Predict Or It Becomes Propaganda](/interviews/interview-qsxkdk4mzgk/)
-  The Ukraine war sequence adds proxy-player identification: Jiang says the game is not reducible to Ukraine versus Russia because European financing, weaponry, command, intelligence, and future conscription make Europe a real player in the continuation of the war.
+  The Ukraine war sequence adds proxy-player identification through European financing, command, intelligence, and future conscription.
 
 ## Related Concepts
 
@@ -372,5 +306,6 @@ The final question is often the most important. A trap is not just a bad move. I
 - [Nation As God-Machine](/lens/nation-as-god-machine/) - for coordination becoming a sacred national body.
 - [Eschatology As Script](/lens/eschatology/) - for non-material end-times payoffs that coordinate actors.
 - [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) - for love, creativity, learning, and relation as the human good that prediction should serve rather than replace.
+- [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/) - for the forecast method once game-theory models must risk misses, theater tests, hostile audit, and explicit falsification.
 - [Taboo As Control Surface](/lens/taboo-as-control-surface/) - for transgression as a boundary mechanism.
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) - for the war-specific form of the material correction.
