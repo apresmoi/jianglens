@@ -14,8 +14,9 @@ or local orchestration script.
 - `agents/virgil/` declares Virgil.
 - `agents/aristotle/` declares Aristotle.
 - `agents/plato/` declares Plato.
+- `agents/dante/` declares Dante.
 - `agents/socrates/` declares Socrates, the maintainer-facing team lead.
-- `agents/sentinel/` declares Sentinel, the lightweight shared-state watcher.
+- `agents/cassandra/` declares Cassandra, the lightweight shared-state watcher.
 - Each agent runtime receives its own workspace and its own repo checkout at
   `./repos/jiang-lens`.
 
@@ -85,7 +86,8 @@ Expected network shape:
 ```text
 local_lab / episode-floor
 - socrates
-- sentinel
+- cassandra
+- dante
 - virgil
 - aristotle
 - plato
@@ -162,8 +164,9 @@ website/
 agentic-org/agents/virgil/
 agentic-org/agents/aristotle/
 agentic-org/agents/plato/
+agentic-org/agents/dante/
 agentic-org/agents/socrates/
-agentic-org/agents/sentinel/
+agentic-org/agents/cassandra/
 ```
 
 If an agent learns something durable about its own behavior, it should edit the

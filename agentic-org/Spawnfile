@@ -94,7 +94,8 @@ networks:
               - attach
             agents:
               - socrates
-              - sentinel
+              - cassandra
+              - dante
               - virgil
               - aristotle
               - plato
@@ -121,7 +122,8 @@ networks:
         write_policy: members
         members:
           - socrates
-          - sentinel
+          - cassandra
+          - dante
           - virgil
           - aristotle
           - plato
@@ -139,8 +141,10 @@ members:
     ref: ./agents/plato
   - id: socrates
     ref: ./agents/socrates
-  - id: sentinel
-    ref: ./agents/sentinel
+  - id: cassandra
+    ref: ./agents/cassandra
+  - id: dante
+    ref: ./agents/dante
   - id: aristotle
     ref: ./agents/aristotle
 mode: hierarchical
