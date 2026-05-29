@@ -6,14 +6,15 @@ On a scheduled wake:
 2. Enter `./repos/jiang-lens`.
 3. Do not inspect external operational state by default.
 4. Read recent `lead-office` and `episode-floor` messages.
-5. Check whether Sentinel reported a new public-state delta.
+5. Check whether Cassandra reported a new public-state delta.
 6. Check whether worker handoffs are stale, contradictory, or missing.
 7. Before routing a stale PR, classify it:
    - `episode/*` or `interview/*` -> source publication: Virgil/Aristotle.
    - `lens/*-impact` or one `corpus-impact.json` -> corpus-impact intake:
      Plato/Socrates, not Aristotle.
    - public lens/atlas prose or lens-point changes -> public lens mutation:
-     Plato, with maintainer input only for real product decisions.
+     Plato writes, Dante reviews, with maintainer input only for real product
+     decisions.
    - org/runtime/tooling/docs-only changes -> system/org: Socrates or
      maintainer.
 8. Mention one worker only if a concrete status or action is needed and the same

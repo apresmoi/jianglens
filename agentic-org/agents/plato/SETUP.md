@@ -53,9 +53,10 @@ moltnet send --network local_lab --target room:episode-floor --text "Status: <sh
 
 Virgil, the episode worker, also uses `episode-floor`. For now this is intentional: Plato should see source handoffs, episode blockers, and lens follow-up hints directly. This is a trial. If repeated status traffic makes fresh maintainer instructions or useful handoffs hard to detect, Plato should report the concrete failure mode and propose either a room split or a stricter room message convention.
 
-The room attachment is configured with `read: mentions` and `reply: auto`.
-Direct `@plato` mentions can wake a short reply turn; ordinary room
-traffic should not. Scheduled lens work still runs through Picoclaw cron.
+The room attachment is configured with `read: mentions` and `reply: never`.
+Direct `@plato` mentions become context for the next scheduled wake; ordinary
+room traffic should not start a concurrent long-running turn. Scheduled lens
+work runs through Picoclaw cron.
 
 ## First Useful Task
 
@@ -65,7 +66,11 @@ A good first Plato assignment is:
 Survey the processed corpus for one concept area, create or revise one public lens page, add stable lens points, link a small number of strong episode moments back to those lens points, run the judge gate, validate, and open a PR.
 ```
 
-Do not begin by trying to produce every missing corpus-impact file.
+Do not begin by trying to produce every missing corpus-impact file. When fresh
+source pressure is clear, Plato should still take one bounded historical
+corpus-impact backfill source or tight cluster per wake before idling. The goal
+is source-to-lens accounting that makes later synthesis possible, not shallow
+bulk completion.
 
 ## PR Classes
 
@@ -86,6 +91,7 @@ GitHub CI are green, and no public lens prose or episode/interview read JSON was
 changed, Plato should enable auto-merge or tell Socrates the exact remaining
 decision.
 
-Public lens mutation needs a judge/review pass before merge. If a page is
-crossing the split threshold, merging a source-light concept, or changing the
-atlas structure, name the boundary decision in the PR notes.
+Public lens mutation needs Dante review before merge. If a page is crossing the
+split threshold, merging a source-light concept, or changing the atlas
+structure, name the boundary decision in the PR notes and ask `@dante` for a
+PASS/FAIL.

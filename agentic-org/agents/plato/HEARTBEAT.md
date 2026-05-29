@@ -15,10 +15,11 @@ node ops/scripts/audit-corpus-impact.mjs
 ```
 
 If the newest merged source or another high-pressure source lacks impact, choose
-one impact intake task first. Do not bulk-process the whole backlog; take one
-bounded source or one tightly related source cluster. Classify this as
-`corpus-impact intake`.
-8. If no high-priority impact intake is owed, choose one meaningful lens
+one impact intake task first. If no fresh/high-pressure source is waiting,
+choose one historical backfill source or tightly related source cluster before
+idling. Do not bulk-process the whole backlog; take one bounded source or
+cluster. Classify this as `corpus-impact intake`.
+8. If no useful impact intake is ready, choose one meaningful public lens
    mutation. Do not process the whole corpus mechanically in one run, and do not
    treat generated low-backlink counts as the default queue. Classify this as
    `public lens mutation` when it changes public lens/atlas prose, lens-point
@@ -62,15 +63,17 @@ node ops/scripts/validate-corpus-impact.mjs --all
 15. Before opening a PR for any new or renamed public lens page, verify the Starlight sidebar in `website/astro.config.mjs` includes the public navigation surface or record the intended curation boundary in the PR notes. Public concept pages should not silently become route-only pages.
 16. Open a PR against `main` and report the PR class, PR URL, changed concept
     area, work type, validation, boundary note, room-noise observations if
-    relevant, and next useful lens mutation to `episode-floor`, mentioning
-    `@socrates`. Do not route compact corpus-impact intake to Aristotle.
+    relevant, and next useful lens mutation to `episode-floor`. Mention
+    `@socrates` on all handoffs; mention `@dante` too when the PR is a public
+    lens mutation. Do not route compact corpus-impact intake to Aristotle or
+    Dante.
     Enable auto-merge yourself when the merge rule for the PR class is
     satisfied:
     - `corpus-impact intake`: targeted/all corpus-impact validation,
       compile-content, validate-content, website build, and GitHub CI are
       green, with no public lens prose or episode/interview read JSON changed.
-    - `public lens mutation`: judge/review pass is recorded, validation and CI
-      are green, and no unresolved maintainer product decision remains.
+    - `public lens mutation`: Dante has posted PASS or recorded review, validation
+      and CI are green, and no unresolved maintainer product decision remains.
 17. After merge, return to clean synced `main`.
 18. Send a closeout message to `episode-floor`. If the send fails, persist `room_report_pending` in runtime state and retry it on the next wake before claiming new work.
 
@@ -87,9 +90,9 @@ boundary, source fan-in, chronology, page-size governance, reader usefulness,
 and exact provenance.
 
 Scheduling rule: this wake is created by Picoclaw native cron. Maintain exactly
-one recurring agent-turn job named `lens-two-hour`; the default cadence
-is every two hours. You may adjust your own cron cadence when corpus pressure
-changes, but do not create duplicate autonomy jobs and do not schedule
+one recurring agent-turn job named `lens-hourly`; the default cadence is hourly
+while historical impact backfill is large. You may adjust your own cron cadence
+when corpus pressure changes, but do not create duplicate autonomy jobs and do not schedule
 shell-command cron jobs unless a maintainer explicitly asks.
 
 Use the Moltnet CLI for scheduled reports; do not rely on PicoClaw assistant

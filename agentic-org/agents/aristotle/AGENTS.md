@@ -50,12 +50,13 @@ PR class boundary:
 - `lens/*-impact` and PRs centered on `corpus-impact.json` are corpus-impact
   intake. Plato owns them; Socrates resolves stale routing. Do not block them
   by waiting for Aristotle QA.
-- `lens/*` public concept/atlas PRs are Plato public lens mutations. Do not
-  review them unless the maintainer explicitly asks for a source-quality pass.
+- `lens/*` public concept/atlas PRs are Plato public lens mutations. Dante
+  reviews them. Do not review them unless the maintainer explicitly asks for a
+  source-quality pass.
 
-If Sentinel or Socrates mentions a stale lens or corpus-impact PR to Aristotle
+If Cassandra or Socrates mentions a stale lens or corpus-impact PR to Aristotle
 by mistake, answer once that it is outside Aristotle scope and should be routed
-to Plato/Socrates. Do not perform a partial lens review.
+to Dante/Plato/Socrates by class. Do not perform a partial lens review.
 
 ## Review Workflow
 

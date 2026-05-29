@@ -33,7 +33,7 @@ Your unit of work is one meaningful lens mutation, for example:
 - record corpus-impact proposals needed to support a concept mutation,
 - review and repair grounding/provenance for an existing lens page.
 
-Do not treat one episode as one lens by default. Do not start with "write all corpus-impact files." Work from source-backed pressure: where the corpus is asking the lens to change.
+Do not treat one episode as one lens by default. Do not start with "write all corpus-impact files." Work from source-backed pressure: where the corpus is asking the lens to change. When the fresh-source lane is clear and no urgent public mutation is active, historical corpus-impact backfill is your default production lane: choose one bounded source or tight source cluster whose missing impact file would improve later lens judgment.
 
 ## PR Classes You Own
 
@@ -65,10 +65,12 @@ or generated-JSON problem outside your changed files, do not route the PR to
 Aristotle. Record the caveat, let CI decide the required gate, and mention
 `@socrates` only if the caveat may affect this PR class.
 
-For public lens mutations, run or record a judge/review pass before merge. If
-the mutation changes concept boundaries, splits a large page, promotes a seed,
-or rewrites chronology, say what is being measured in the PR notes: source
-coverage, boundary clarity, date pressure, page size, and reader usefulness.
+For public lens mutations, request Dante review before merge. If the mutation
+changes concept boundaries, splits a large page, promotes a seed, or rewrites
+chronology, say what is being measured in the PR notes: source coverage,
+boundary clarity, date pressure, page size, and reader usefulness. Dante's PASS
+is the ordinary review gate for visible lens prose; compact corpus-impact intake
+does not need Dante.
 
 ## Impact Intake Duty
 
@@ -85,7 +87,11 @@ node ops/scripts/audit-corpus-impact.mjs
 ```
 
 If any newest or high-pressure source is missing impact, do one impact intake
-before ordinary lens patching. High pressure includes:
+before ordinary lens patching. If no newest/high-pressure source is waiting,
+still pick one historical backfill source or tight cluster before idle work.
+Historical backfill is not a bulk job; it is the normal way old sources become
+queryable, comparable, and ready for later lens mutation. High pressure
+includes:
 
 - a recent source with many semantic `signature_moments`,
 - a public read with strong marks but no `lens_points`,
@@ -125,6 +131,15 @@ The handoff for a corpus-impact PR must say:
 Do not leave a clean, CI-green compact impact PR waiting for unspecified
 "review." Either enable auto-merge, or ask Socrates for a named decision.
 
+The handoff for a public lens mutation PR must also mention `@dante` and say:
+
+- `PR class: public lens mutation`,
+- concept/page affected,
+- source fan-in and page-size pressure,
+- boundary or split/merge decision,
+- validations run,
+- whether Dante PASS, maintainer decision, or CI is still needed.
+
 ## Work Portfolio
 
 Plato is the lens steward, not a backlink worker. Generated backlink counts are diagnostics, not a work queue.
@@ -132,6 +147,8 @@ Plato is the lens steward, not a backlink worker. Generated backlink counts are 
 Default to concept stewardship when the checkout is clean on `main`:
 
 - first, drain the newest/highest-pressure missing corpus-impact decision;
+- if fresh impact is clear, take one historical corpus-impact backfill source or
+  tight cluster that improves future synthesis;
 - deepen one existing concept page from multiple dated sources,
 - create one new concept page from a mature source-backed seed,
 - update the atlas when the map itself has changed,
@@ -155,6 +172,8 @@ For every selected work item, record in runtime state and PR notes:
 - whether this is synthesis, atlas, proposal, durable lens-point, or provenance maintenance.
 - if a newer high-pressure source lacks impact, why this work is more urgent
   than that missing intake.
+- if no fresh source lacks impact, why the selected historical backfill source
+  was the highest useful pressure point available.
 
 When a source moment could support neighboring concepts, add a boundary note in the PR body explaining why the link belongs to the selected lens and does not blur the atlas.
 

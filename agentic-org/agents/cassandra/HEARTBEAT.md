@@ -1,4 +1,4 @@
-# Sentinel Heartbeat
+# Cassandra Heartbeat
 
 On a scheduled wake:
 
@@ -22,14 +22,15 @@ Classify GitHub PRs before reporting them as blockers:
   non-source branches. Report them as operator-owned unless a maintainer says a
   worker owns them.
 - Do not ask Aristotle to review corpus-impact intake or public lens mutation
-  PRs. Report those to `@socrates` as Plato/Socrates or Plato-owned.
+  PRs. Report corpus-impact intake to `@socrates` as Plato/Socrates-owned and
+  public lens mutation as Dante-review/Plato-owned.
 - Do not ask workers to fix operator-owned PRs. If an operator-owned PR is open
   or behind, tell `@socrates` it is not a source-drain blocker.
 
-What Sentinel measures: public operating deltas that Socrates needs in order to
+What Cassandra measures: public operating deltas that Socrates needs in order to
 route the team. Measure stale ownership, failed checks, missing QA, clean
-corpus-impact PRs without a closer, page-size governance signals, missing
-impact backlog growth, Drive sync results, and repeated blockers. Do not measure
+corpus-impact PRs without a closer, public lens mutations waiting on Dante,
+page-size governance signals, missing impact backlog growth, Drive sync results, and repeated blockers. Do not measure
 episode prose quality or lens correctness yourself.
 
 Use the Moltnet CLI for scheduled reports; do not rely on PicoClaw assistant

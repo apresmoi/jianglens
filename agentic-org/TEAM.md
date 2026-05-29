@@ -6,9 +6,10 @@ Stable ids keep runtime, state, work, and automation legible. Symbolic names giv
 
 - `virgil`: Virgil, the source guide for website-visible episodes.
 - `plato`: Plato, the steward of the public Jiang Lens.
+- `dante`: Dante, the public-lens judge for Plato's visible mutations.
 - `aristotle`: Aristotle, the source-quality reviewer for episode and interview handoffs.
 - `socrates`: Socrates, the team lead and maintainer-facing coordinator.
-- `sentinel`: Sentinel, a cheap shared-state watcher that reports health deltas to Socrates.
+- `cassandra`: Cassandra, a cheap shared-state watcher that reports health deltas to Socrates.
 
 ## Runtime
 
@@ -19,10 +20,11 @@ Stable ids keep runtime, state, work, and automation legible. Symbolic names giv
 - Use `gpt-5.4` for Virgil's first-pass source-to-episode work. The output must
   preserve exact transcripts, refs, semantic artifacts, and enough public prose
   for later repair.
-- Use `gpt-5.5` for Aristotle's source QA and Plato's lens synthesis, because
+- Use `gpt-5.5` for Aristotle's source QA, Plato's lens synthesis, and Dante's
+  public-lens review, because
   those passes decide whether nuance was lost and whether the public lens map
   should mutate.
-- Use `gpt-5.4-mini` for Socrates and Sentinel when Spark quota is exhausted.
+- Use `gpt-5.4-mini` for Socrates and Cassandra when Spark quota is exhausted.
   They coordinate and observe; they should not consume strong-model budget for
   ordinary status work.
 - When the runtime exposes reasoning controls, scheduled wakes default to low
@@ -37,8 +39,9 @@ Stable ids keep runtime, state, work, and automation legible. Symbolic names giv
 | `virgil` | `gpt-5.4` | first-pass source-to-episode drafting | flag unusual source pressure for Aristotle or Plato |
 | `aristotle` | `gpt-5.5` | detailed episode/interview QA | reject drafts that lose source nuance or corpus bar |
 | `plato` | `gpt-5.5` | lens synthesis and atlas mutation | decide concept boundaries, chronology, contradiction, canon pressure |
+| `dante` | `gpt-5.5` | public lens mutation review | protect source fan-in, compression, boundary, chronology, and page-size governance |
 | `socrates` | `gpt-5.4-mini` | maintainer-facing coordination | ask the right teammate instead of doing expert work |
-| `sentinel` | `gpt-5.4-mini` | cheap public-state observation | report deltas only when Socrates needs to act |
+| `cassandra` | `gpt-5.4-mini` | cheap public-state observation | report deltas only when Socrates needs to act |
 
 ## Corpus Anchor Loop
 
@@ -122,10 +125,21 @@ Its symbolic name is Plato. It should not mechanically create every missing work
 Plato owns the expensive interpretive judgment. It should use cheap corpus
 signals to find pressure, but concept creation, concept merging, chronology
 revision, and atlas mutation require strong source-grounded judgment.
+When no fresh source or urgent public mutation is active, Plato's default lane
+is historical corpus-impact backfill: one bounded source or tight cluster per
+wake, prioritized by source pressure and current lens needs. This keeps the old
+archive connected to the public map without turning impact files into bulk
+paperwork.
+
+`dante` owns public-lens review. Dante does not write first-draft lens prose and
+does not review source publication. Dante judges Plato's public lens mutations
+for source fan-in, compression, concept boundary, chronology, provenance, page
+size, and reader usefulness. Compact corpus-impact intake does not need Dante;
+visible public lens mutation does.
 
 `socrates` owns sparse coordination, not production. Socrates talks with the maintainer in `lead-office`, observes the team room, asks workers for status when needed, and decides when a worker should be nudged. Socrates should not inspect other agents' private runtime workspaces by default and should not turn the team into a centrally scripted workflow. If a worker already addressed the right teammate with a concrete action, Socrates should usually observe instead of relaying.
 
-`sentinel` owns cheap observation of shared/public state: GitHub review state, Drive sync workflow results, Moltnet silence windows, and main movement. Sentinel reports compact deltas to `@socrates` only when Socrates needs to act, and does not edit content, assign work, or inspect worker-private filesystems.
+`cassandra` owns cheap observation of shared/public state: GitHub review state, Drive sync workflow results, Moltnet silence windows, and main movement. Cassandra reports compact deltas to `@socrates` only when Socrates needs to act, and does not edit content, assign work, or inspect worker-private filesystems.
 
 ## PR Classes And Ownership
 
@@ -136,14 +150,14 @@ who reviews, what is being measured, and who prevents it from going stale.
 | --- | --- | --- | --- | --- | --- |
 | source publication | `episode/*`, `interview/*` | Virgil | Aristotle | public read quality, transcript fidelity, exact marks, route/build readiness | Aristotle `QA PASS` + CI green -> Aristotle enables auto-merge |
 | corpus-impact intake | `lens/*-impact` or one source's `corpus-impact.json` | Plato | Plato, with Socrates as stale router | whether a merged source has been digested into lens pressure, existing links, held seeds, ledger candidates, or no-op accounting | targeted/all corpus-impact validation + compile/build/CI green -> Plato enables auto-merge; Socrates merges or routes if stale |
-| public lens mutation | `lens/*` changing public lens/atlas prose or lens points | Plato | Plato judge pass; Socrates/Sentinel only for split/staleness signals | concept boundary, source fan-in, chronology, size governance, reader usefulness, provenance | judge/review note + validation + CI green -> Plato enables auto-merge unless a maintainer decision is needed |
+| public lens mutation | `lens/*` changing public lens/atlas prose or lens points | Plato | Dante, with Socrates/Cassandra only for stale-routing signals | concept boundary, source fan-in, chronology, size governance, reader usefulness, provenance | Dante PASS + validation + CI green -> Dante or Plato enables auto-merge unless a maintainer decision is needed |
 | system/org change | `agent/*`, `org/*`, `fix/*`, `ops/*` | authoring worker or maintainer | Socrates or maintainer | worker behavior, runtime safety, validation/tooling behavior | slower explicit merge; do not assume Aristotle review |
 
 Aristotle does not review corpus-impact intake, lens mutation, or system/org PRs
 unless the maintainer explicitly asks. Socrates owns routing gaps: if a green PR
 has sat without the responsible closer for a reasonable window, Socrates should
 either mention the owner with one concrete action or merge the PR when the merge
-rule is satisfied. Sentinel reports stale PRs with their class and likely owner,
+rule is satisfied. Cassandra reports stale PRs with their class and likely owner,
 not just a raw PR number.
 
 ## Local Moltnet
@@ -158,7 +172,7 @@ The team declares a local Moltnet network named `local_lab`.
   asks for operational detail. Workers are not members of this room.
 - `codex-operator`: a local operator participant for reading and sending room messages from the repo with `moltnet read` and `moltnet send`.
 
-For now durable workers share `episode-floor` with Socrates and Sentinel so Plato can see episode completions and Socrates can see blockers. Socrates observes worker mentions there, but does not auto-reply in that room. Maintainer conversation should normally happen in `lead-office` with Socrates, who can then decide whether to mention a worker in `episode-floor`.
+For now durable workers share `episode-floor` with Socrates and Cassandra so Plato can see episode completions, Dante can see lens-review requests, and Socrates can see blockers. Socrates observes worker mentions there, but does not auto-reply in that room. Maintainer conversation should normally happen in `lead-office` with Socrates, who can then decide whether to mention a worker in `episode-floor`.
 
 Room language should match the room:
 
@@ -179,15 +193,22 @@ should not wake on room traffic. Virgil uses `read: mentions` with `reply:
 never`; maintainer and Socrates messages become context for the next native
 PicoClaw autonomy wake, not immediate long-running production starts. Socrates
 uses `reply: auto` only in `lead-office`; in `episode-floor`, Socrates reads
-mentions but replies only through explicit scheduled coordination. Sentinel,
-Aristotle, and Plato may use `reply: auto` for short coordination replies.
+mentions but replies only through explicit scheduled coordination. Cassandra may
+use `reply: auto` for short coordination replies; Virgil, Aristotle, Plato, and
+Dante treat mentions as context for their next scheduled work wake unless their
+own Spawnfile says otherwise.
 Runtime state stays ignored under `.moltnet/` and `.spawn/`.
 
 ## Growth Pattern
 
 Add new workers only when a responsibility becomes too large for the existing durable agents. Prefer symbolic agents with broad but bounded ownership over many tiny workflow workers.
 
-For now, avoid splitting Plato into separate corpus-impact, concept, provenance, atlas, and judge workers. Those are skills and methods Plato can use. A separate judge, archive, or provenance agent should appear only when lived work shows Plato needs an independent peer rather than another checklist.
+For now, avoid splitting Plato into separate corpus-impact, concept, provenance,
+and atlas workers. Those are skills and methods Plato can use. Dante exists
+because lived work showed public lens synthesis needs an independent peer judge:
+someone who can reject bloat, shallow stubs, blurred boundaries, and weak source
+fan-in without becoming the writer. Add more workers only when a responsibility
+cannot be handled by an existing durable agent plus a skill contract.
 
 The process skills remain the stable base. Worker memory may improve with experience, but durable methodology belongs in `.codex/skills/`.
 
