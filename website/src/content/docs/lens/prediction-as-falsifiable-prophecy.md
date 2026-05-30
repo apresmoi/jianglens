@@ -11,6 +11,18 @@ The word prophecy can mislead. In Jiang's strongest form, prediction is not a my
 
 That is why the source trail here runs from the July 2025 universal-law lecture through the 2026 interviews that put Predictive History under public cross-examination, then into the May 28, 2026 final examination where Jiang explicitly welcomes falsification pressure from his own audience.
 
+## Forecast Families Come Before Ledger Items
+
+The **2025-09-01** Tianjin interview gives the public method its earlier plain statement. Jiang says history has to connect the past, explain the present, and predict the future; then a theoretical framework becomes a predictive model whose claims can [validate the model when they turn out to be accurate]{evidence="video:interview-bfuwnjhayq8@transcript:v1#seg-0004 video:interview-bfuwnjhayq8@transcript:v1#seg-0005"}. The public danger is obvious: once a model starts producing dramatic geopolitical bets, the bets can become more magnetic than the discipline that made them useful.
+
+That same interview shows why Prediction needs a queue discipline before ledger promotion. Jiang's claims point in several directions at once: a five-to-ten-year U.S.-China conflict over trade networks, alternatives to SWIFT, the petrodollar, Iran, and Gulf oil currency use; a next-six-month compromise that publicly looks like a Chinese win while stabilizing the dollar; and a categorical bet that [China does not invade Taiwan]{evidence="video:interview-bfuwnjhayq8@transcript:v1#seg-0023 video:interview-bfuwnjhayq8@transcript:v1#seg-0024 video:interview-bfuwnjhayq8@transcript:v1#seg-0046 video:interview-bfuwnjhayq8@transcript:v1#seg-0049 video:interview-bfuwnjhayq8@transcript:v1#seg-0051"}. Those are not one prophecy. They are different forecast families with different clocks, conditions, and owning mechanisms.
+
+<!-- lens-point id="prediction-forecast-family-before-ledger" concept="prediction-as-falsifiable-prophecy" evidence="video:interview-bfuwnjhayq8@transcript:v1#seg-0004 video:interview-bfuwnjhayq8@transcript:v1#seg-0005 video:interview-bfuwnjhayq8@transcript:v1#seg-0023 video:interview-bfuwnjhayq8@transcript:v1#seg-0046 video:interview-bfuwnjhayq8@transcript:v1#seg-0051" -->
+<span id="prediction-forecast-family-before-ledger" class="lens-point-anchor"></span>
+A dramatic prediction becomes ledger-ready only after it has been sorted into a forecast family with its source date, time horizon, conditions, neighboring mechanism, later comparison trail, and possible miss or revision kept visible.
+
+This keeps the atlas from turning every forecast into a topic page. [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/) owns corridor, energy, route, and payment-rail pressure when access is the active board. [Power As Alchemy](/lens/power-as-alchemy/) owns dollar belief, frozen assets, and financial abstraction when money is the active reality. [Game Theory](/lens/game-theory/) owns player maps, option preservation, and bargain sequences. Prediction owns the audit relation among dated claim, forecast family, later evidence, miss, and correction.
+
 ## Prediction Changes The Board
 
 The July 2025 universal-law lecture gives prediction its first game-theory limit. After deriving a strong forecast from the mass-energy-coordination formula, Jiang stops himself. If the game is now visible, then the model is no longer outside the game. A player can see the contours, enter the board, and use the forecast itself as material.
@@ -85,6 +97,7 @@ Ask:
 
 - What framework is being used, and which observations does it make newly visible?
 - What dated prediction follows from the framework?
+- Which forecast family does the claim belong to, and what are its source date, time horizon, conditions, neighboring mechanism, and later comparison trail?
 - What would count as a miss, and is the miss preserved rather than explained away?
 - Is the claim marked as speculative when the evidence is model-based rather than documentary?
 - Does "theater" identify a performer, payoff, sequence, and near-term test, or does it protect the claim from contradiction?
@@ -96,6 +109,9 @@ Ask:
 
 - **2025-07-11**, [Geo-Strategy Update #5: The Universal Law of Game Theory](/episodes/predictive-history-5i2vpypjj68/)  
   Jiang warns that once a game becomes visible, a new player can see the contours, manipulate events, and redirect the trajectory.
+
+- **2025-09-01**, [Trade Corridors Matter More Than Ideology](/interviews/interview-bfuwnjhayq8/)
+  Jiang gives the plain public Predictive History method, then supplies several forecast families that must be compared separately before any ledger promotion: corridor/payment-rail conflict, U.S.-China compromise, and Taiwan non-invasion.
 
 - **2025-11-15**, [The Epstein Trap and the Theater of Imperial Collapse](/interviews/interview-vvj4mxqu2qk/)  
   The Epstein-file spectacle is treated as an explicitly speculative tension-and-release theory whose value depends on whether later public anger and lawfare behavior match the proposed payoff.
