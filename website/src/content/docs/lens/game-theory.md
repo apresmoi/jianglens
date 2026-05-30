@@ -41,27 +41,7 @@ The March 2026 proximity lecture adds a second correction. People and states do 
 
 Jiang names this the law of proximity: [the game nearest to the actor shapes decision-making most]{evidence="video:predictive-history-noqqgy4boby@transcript:v1#seg-0013 video:predictive-history-noqqgy4boby@transcript:v1#seg-0015"}. The everyday ladder is deliberately plain. A person may be playing family, school, work, city, and national games at the same time. The visible and proximate game is often the one that captures attention. Then Jiang lifts the rule to nations: [what looks like a game between nations may be determined by the game within nations]{evidence="video:predictive-history-noqqgy4boby@transcript:v1#seg-0015 video:predictive-history-noqqgy4boby@transcript:v1#seg-0016"}.
 
-<!-- lens-point id="game-theory-nearest-game-governs" concept="game-theory-method" evidence="video:predictive-history-noqqgy4boby@transcript:v1#seg-0013 video:predictive-history-noqqgy4boby@transcript:v1#seg-0015 video:predictive-history-noqqgy4boby@transcript:v1#seg-0016" -->
-<span id="game-theory-nearest-game-governs" class="lens-point-anchor"></span>
-The law of proximity says actors play many games at once, but the nearest visible game often governs action; in geopolitics, internal factional contests can determine how nations behave toward external enemies.
-
-That is why the Iran war in the proximity lecture is not analyzed first as a clean state-versus-state board. American parties can support an unpopular war because each side imagines a nearer domestic payoff. Jiang's sharp sentence is that [the war is not really about America defeating Iran]{evidence="video:predictive-history-noqqgy4boby@transcript:v1#seg-0018"} but about Democrats and Republicans obtaining or keeping power. Later, the same method reaches intelligence and assassination. Jiang explicitly caveats that he lacks direct evidence, but argues that game theory gives the best explanation: [internal factions can provide intelligence to external enemies in order to limit domestic rivals]{evidence="video:predictive-history-noqqgy4boby@transcript:v1#seg-0040 video:predictive-history-noqqgy4boby@transcript:v1#seg-0041"}.
-
-The **2025-11-24** Glenn Diesen interview supplies the civilizational-collapse version of the same test. Asked why Western cohesion is breaking, Jiang reaches for Peter Turchin: [elite overproduction is the main factor leading to civil war because wealth creates more elites than there are command positions]{evidence="video:interview-gssim9xnrae@transcript:v1#seg-0010"}. He then names the nearer American board. The public sees a party fight, but Jiang reads [the second Trump administration as a civil war between different oligarchs]{evidence="video:interview-gssim9xnrae@transcript:v1#seg-0011"}: big-tech-aligned Republican oligarchs against a financial elite represented by the Democratic Party. This does not replace the Borderland page's energy-openness-cohesion scorecard or Bureaucracy's narrative bubble. It sharpens the game-theory question: when cohesion fails, which elite faction is using public politics as the visible surface of its own position war?
-
-The **2025-12-31** Recombination Nation interview gives an earlier, more structural version of the same proximity rule. The host asks whether interstate tension is partly staged for domestic consumption, and Jiang answers that it is [entirely for domestic consumption]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0077"}. His explanation is not that geopolitics disappears. It is that [elite overproduction turns hierarchy into factional struggle, and factions draw other nation-states into the fight to defer their own power struggle]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0077 video:interview-mcjno0xrly8@transcript:v1#seg-0078"}. The board the public sees as United States versus Russia, or one state against another, may be a later layer over a nearer elite game.
-
-<!-- lens-point id="game-theory-elite-overproduction-domestic-war" concept="game-theory-method" evidence="video:interview-gssim9xnrae@transcript:v1#seg-0010 video:interview-gssim9xnrae@transcript:v1#seg-0011 video:interview-mcjno0xrly8@transcript:v1#seg-0077 video:interview-mcjno0xrly8@transcript:v1#seg-0096 video:interview-mcjno0xrly8@transcript:v1#seg-0097 video:interview-mcjno0xrly8@transcript:v1#seg-0104 video:interview-vvj4mxqu2qk@transcript:v1#seg-0044 video:interview-vvj4mxqu2qk@transcript:v1#seg-0045 video:interview-vvj4mxqu2qk@transcript:v1#seg-0111 video:interview-7qz4kmtbvru@transcript:v1#seg-0033 video:interview-7qz4kmtbvru@transcript:v1#seg-0035 video:interview-7qz4kmtbvru@transcript:v1#seg-0036 video:interview-7qz4kmtbvru@transcript:v1#seg-0037" -->
-<span id="game-theory-elite-overproduction-domestic-war" class="lens-point-anchor"></span>
-Elite overproduction and fifth-generation conflict turn foreign pressure, civil unrest, and psychological warfare into a proximity game when too many elites compete inside a shrinking hierarchy, externalize the struggle through states or proxies, and then use public rage or social fracture as the street-level surface of elite conflict.
-
-Jiang later applies the same method to civil-war risk. He reads the second Trump presidency as [a civil war inside the American elite]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0096"} and names the agency reversal: [political differences inside the deep state are resolved in the streets by instigating civil war]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0097"}. Successful revolution likewise needs [an elite faction that can galvanize popular discontent and lead it]{evidence="video:interview-mcjno0xrly8@transcript:v1#seg-0104"}.
-
-The **2025-11-15** Danny Haiphong interview adds a speculative spectacle case: the Epstein-file fight could be self-harming publicity, or it could be a proximity game if the target payoff is [a MAGA street army mobilized by the message that the elite has cornered Trump]{evidence="video:interview-vvj4mxqu2qk@transcript:v1#seg-0044 video:interview-vvj4mxqu2qk@transcript:v1#seg-0045"}. Jiang makes the assumption explicit: if Trump wants civil war and accelerated imperial collapse, [a lot of things make more sense]{evidence="video:interview-vvj4mxqu2qk@transcript:v1#seg-0111"}.
-
-The **2025-11-06** Libertarian Party interview gives the same family a fifth-generation-war formulation. Jiang says nuclear powers are unlikely to fight directly, so [fifth-generation warfare is much more likely]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0033"}. The board is maintaining one's own population while diminishing another society's cohesion; wedge issues and media fronts can [provoke a civil war]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0035"}, and civil war can become useful because it [can reduce social discontent for the elite]{evidence="video:interview-7qz4kmtbvru@transcript:v1#seg-0035"}. [Mass Society](/lens/mass-society-as-political-constraint/) owns population-scale pacification; Game Theory owns social fracture as a selectable payoff.
-
-This belongs inside game theory because the mechanism is methodological. It does not say domestic politics is always the hidden cause, and it does not turn every foreign event into a civil-war claim. It gives the analyst a test: when an external move looks strategically incoherent, ask whether a nearer audience, election, faction, bureaucracy, status contest, or spiritual struggle is the real game being won.
+[Proximity Games And Elite Overproduction](/lens/proximity-games-and-elite-overproduction/) carries the detailed domestic-faction branch of this method: Iran-war support as party payoff, elite overproduction as civil-war pressure, foreign tension as domestic-consumption theater, Epstein spectacle as possible street mobilization, fifth-generation cohesion attacks, and Wall Street versus Silicon Valley/Palantir as a late elite-game recurrence. This page keeps the parent method: when an external move looks incoherent, ask whether the nearer audience, faction, bureaucracy, election, status contest, or spiritual struggle is the game being won.
 
 ## Identify The Real Player
 
@@ -230,7 +210,7 @@ Ask:
 - What is the declared prize, and what behavior suggests a different prize?
 - What game is the stronger actor trying to make everyone accept, and who can survive only by refusing that board?
 - Which game is nearest to the actor: family, school, city, party, faction, bureaucracy, audience, election, or soul?
-- Is an external conflict carrying an unresolved internal hierarchy struggle, especially elite overproduction inside a shrinking status order?
+- Is an external conflict carrying an unresolved internal hierarchy struggle, especially one of the [proximity games](/lens/proximity-games-and-elite-overproduction/) where elite overproduction makes public conflict serve a nearer factional payoff?
 - Is the visible battlefield actor also the real player, or are financing, weapons, intelligence, command, manpower, and profit moving agency to another player?
 - Is the headline threat the move the player actually wants, or would it worsen the player's surrounding board by removing a useful balance, exposing material vulnerabilities, or damaging the player's real optimizing goal?
 - Is the real payoff material, status-based, spiritual, narrative, emotional, institutional, or civilizational?
@@ -260,12 +240,6 @@ The final question is often the most important. A trap is not just a bad move. I
 - **2025-08-29**, [Secret History #4: How Evil Triumphs](/episodes/predictive-history-btlwoqwlm9q/)  
   Hidden coordination, cheating, taboo breach, and transgression become ways groups bind themselves and win.
 
-- **2025-11-15**, [The Epstein Trap and the Theater of Imperial Collapse](/interviews/interview-vvj4mxqu2qk/)
-  The Epstein-file spectacle becomes a domestic-conflict payoff test.
-
-- **2025-12-31**, [How This Civilisation Ends with Professor Jiang](/interviews/interview-mcjno0xrly8/)
-  Elite overproduction makes foreign tension, civil-war risk, and revolutionary leadership legible as nearer elite games.
-
 - **2025-10-30**, [Mafia Empire, Sunk Costs, And The Taiwan Illusion](/interviews/interview-xrk5vsezj4y/)
   NATO agency and the Taiwan non-invasion argument sharpen the real-player and threat-story tests.
 
@@ -291,7 +265,7 @@ The final question is often the most important. A trap is not just a bad move. I
   Yale and poker give the method an autobiographical origin: player psychology matters more than outside reasonableness.
 
 - **2026-03-19**, [Game Theory #14: The Law of Proximity](/episodes/predictive-history-noqqgy4boby/)
-  The method gains a proximity rule: actors play many games at once, and the nearest visible game can make domestic faction, party, or spiritual conflict govern the apparent interstate game.
+  The method gains a proximity rule: actors play many games at once, and the nearest visible game can govern the apparent interstate game. The detailed domestic-faction cluster now lives in [Proximity Games And Elite Overproduction](/lens/proximity-games-and-elite-overproduction/).
 
 - **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/)  
   War imposes the hard material test: economics, organization, and logistics expose when story has replaced strategy.
@@ -307,5 +281,6 @@ The final question is often the most important. A trap is not just a bad move. I
 - [Eschatology As Script](/lens/eschatology/) - for non-material end-times payoffs that coordinate actors.
 - [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) - for love, creativity, learning, and relation as the human good that prediction should serve rather than replace.
 - [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/) - for the forecast method once game-theory models must risk misses, theater tests, hostile audit, and explicit falsification.
+- [Proximity Games And Elite Overproduction](/lens/proximity-games-and-elite-overproduction/) - for the domestic-faction child lens where nearest games, elite overproduction, civil-war risk, and fifth-generation conflict become the active mechanism.
 - [Taboo As Control Surface](/lens/taboo-as-control-surface/) - for transgression as a boundary mechanism.
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) - for the war-specific form of the material correction.
