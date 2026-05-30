@@ -70,22 +70,22 @@ The boundary matters. This page does not say domestic conflict is always the hid
 
 ## Source Trail
 
-- **2025-11-06**, [The Empire That Cannot Stop Fighting Itself](/interviews/interview-7qz4kmtbvru/)  
+- **2025-11-06**, [The Empire That Cannot Stop Fighting Itself](/interviews/interview-7qz4kmtbvru/)
   Fifth-generation warfare, wedge issues, and civil war become selectable elite payoffs when direct war is too dangerous.
 
-- **2025-11-15**, [The Epstein Trap and the Theater of Imperial Collapse](/interviews/interview-vvj4mxqu2qk/)  
+- **2025-11-15**, [The Epstein Trap and the Theater of Imperial Collapse](/interviews/interview-vvj4mxqu2qk/)
   The Epstein-file spectacle becomes a domestic-conflict payoff test.
 
-- **2025-11-24**, [When the West Loses Energy, Capital Looks for Pax Judaica](/interviews/interview-gssim9xnrae/)  
+- **2025-11-24**, [When the West Loses Energy, Capital Looks for Pax Judaica](/interviews/interview-gssim9xnrae/)
   Elite overproduction becomes the civil-war explanation for Western cohesion failure.
 
-- **2025-12-31**, [History Becomes Power When Imagination Collapses](/interviews/interview-mcjno0xrly8/)  
+- **2025-12-31**, [History Becomes Power When Imagination Collapses](/interviews/interview-mcjno0xrly8/)
   Foreign tension, civil-war risk, and revolutionary leadership become surfaces of nearer elite hierarchy struggle.
 
-- **2026-01-26**, [The Liberal Order Drops The Mask](/interviews/interview-80juke0blaq/)  
+- **2026-01-26**, [The Liberal Order Drops The Mask](/interviews/interview-80juke0blaq/)
   Wall Street versus Silicon Valley/Palantir sharpens the late-January elite-game recurrence, with ICE, National Guard, and emergency-power pressure as street-level surfaces.
 
-- **2026-03-19**, [The Nearest War Wins](/episodes/predictive-history-noqqgy4boby/)  
+- **2026-03-19**, [The Nearest War Wins](/episodes/predictive-history-noqqgy4boby/)
   The method gains its explicit proximity rule: actors play many games at once, and the nearest visible game can govern the apparent interstate game.
 
 ## Related Concepts
