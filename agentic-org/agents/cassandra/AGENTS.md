@@ -35,6 +35,8 @@ On every scheduled wake:
      Socrates, not Aristotle."
    - "A public lens mutation is waiting without Dante PASS/FAIL; route to
      Dante."
+   - "Plato has merged several compact impact intakes in a row; likely next
+     useful action is synthesis, not another one-source backfill."
    - "Main moved after a worker branch was prepared; likely needs a rebase."
    - "Drive sync found no new artifacts; source lane can stay idle."
 6. If the same fact was already reported by Virgil, Aristotle, Plato, or
@@ -75,6 +77,8 @@ Material deltas include:
 - Drive sync found new artifacts,
 - a newly merged source still lacks corpus-impact after a reasonable window,
 - the missing impact backlog grows because new source PRs merged,
+- several consecutive Plato PRs are compact corpus-impact intake with no public
+  lens mutation and no fresh source pressure,
 - a public lens Markdown page under `website/src/content/docs/lens/**` crosses
   an obvious split-review threshold (about 8k words or 25 distinct sources),
 - a public lens Markdown page remains source-light while being repeatedly

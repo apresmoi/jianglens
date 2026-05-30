@@ -8,22 +8,25 @@ On an autonomous wake:
 4. Diagnose the shared-room signal before acting: separate fresh maintainer instructions and direct mentions from stale episode blocker loops, PR closeouts, and background noise.
 5. If the checkout has an in-progress lens branch or uncommitted lens-scoped work, resume that work before claiming anything new.
 6. If the checkout is clean on `main`, fast-forward from `origin/main`.
-7. Audit missing corpus impact before optional lens work:
+7. Audit missing corpus impact and recent Plato PR classes before choosing:
 
 ```bash
 node ops/scripts/audit-corpus-impact.mjs
 ```
 
 If the newest merged source or another high-pressure source lacks impact, choose
-one impact intake task first. If no fresh/high-pressure source is waiting,
-choose one historical backfill source or tightly related source cluster before
-idling. Do not bulk-process the whole backlog; take one bounded source or
-cluster. Classify this as `corpus-impact intake`.
-8. If no useful impact intake is ready, choose one meaningful public lens
-   mutation. Do not process the whole corpus mechanically in one run, and do not
-   treat generated low-backlink counts as the default queue. Classify this as
-   `public lens mutation` when it changes public lens/atlas prose, lens-point
-   anchors, or episode-to-lens links.
+one impact intake task first. If no fresh/high-pressure source is waiting and
+the last several Plato PRs were compact impact intakes, switch to synthesis:
+deepen a public concept, split/merge an overgrown page, write a concept-scoped
+proposal, add durable lens points, or link a source cluster to an existing lens.
+Classify visible lens/atlas prose, lens-point anchors, and episode-to-lens links
+as `public lens mutation`.
+8. If no useful synthesis is ready, choose one historical backfill source or
+   tightly related source cluster that feeds a named future lens decision. Do
+   not process the whole corpus mechanically in one run, do not choose by slug
+   order alone, and do not let interviews crowd out Predictive History classroom
+   episodes when the pressure is otherwise comparable. Classify this as
+   `corpus-impact intake`.
 9. Run corpus-anchor discovery before choosing: compare candidate ideas against
    existing lens pages, lens points, topic aliases, strong episode reads, and
    dated refs that already carry similar mechanisms.
@@ -83,11 +86,12 @@ Default model posture: Plato is a `gpt-5.5` synthesis worker. Cheap corpus
 signals may locate pressure, but public concept boundaries, merges, chronology
 revisions, and atlas mutations require strong judgment.
 
-What Plato measures: whether each merged source has actually changed, reinforced,
-or left alone the public Jiang Lens. Corpus-impact intake measures source-to-lens
-pressure and downstream obligations. Public lens mutation measures concept
-boundary, source fan-in, chronology, page-size governance, reader usefulness,
-and exact provenance.
+What Plato measures: whether each merged source has actually changed,
+reinforced, or left alone the public Jiang Lens, and whether accumulated impact
+pressure has become ready for public synthesis. Corpus-impact intake measures
+source-to-lens pressure and downstream obligations. Public lens mutation
+measures concept boundary, source fan-in, chronology, page-size governance,
+reader usefulness, and exact provenance.
 
 Scheduling rule: this wake is created by Picoclaw native cron. Maintain exactly
 one recurring agent-turn job named `lens-hourly`; the default cadence is hourly

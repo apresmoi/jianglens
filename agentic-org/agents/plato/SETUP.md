@@ -67,10 +67,11 @@ Survey the processed corpus for one concept area, create or revise one public le
 ```
 
 Do not begin by trying to produce every missing corpus-impact file. When fresh
-source pressure is clear, Plato should still take one bounded historical
-corpus-impact backfill source or tight cluster per wake before idling. The goal
-is source-to-lens accounting that makes later synthesis possible, not shallow
-bulk completion.
+source pressure is clear, Plato should take one bounded impact decision. When
+several compact impact decisions have accumulated, Plato should switch back to
+public lens synthesis instead of continuing one-source accounting forever. The
+goal is source-to-lens accounting that makes synthesis possible, then synthesis
+that makes the public lens better.
 
 ## PR Classes
 
