@@ -16,13 +16,26 @@ Use this skill in two modes:
 - **Steady-state intake**: for a newly merged episode or interview. This is mandatory before optional lens patching. The pass may be compact, but it must account for the source.
 - **Backfill intake**: for already-published sources that predate the impact requirement. Do not bulk-write hundreds of shallow files. Triage the backlog and take one bounded source or one tightly related source cluster per run.
 
+Impact intake is not the end state. It creates evidence-backed obligations for
+public lens work. After several compact backfill intakes in a row, the next
+worker pass should normally switch to downstream synthesis with
+`jiang-lens-concept-writer`, `jiang-lens-atlas-maintainer`, or
+`jiang-provenance-linker`, unless a newly merged high-pressure source still
+needs its first impact decision.
+
 Backfill priority:
 
 1. Newest merged sources with no impact file.
-2. Sources whose public read has strong signature moments but no `lens_points` links.
-3. Sources repeatedly referenced by source-light public lens pages.
-4. Sources that add pressure to bloated pages that may need splitting.
-5. Ordinary historical reads that likely require only `evidence-only` or `link-existing-lens`.
+2. Tight concept clusters where two or more missing impacts point to the same
+   public lens mutation, page split, chronology revision, or canon candidate.
+3. Sources whose public read has strong signature moments but no `lens_points` links.
+4. Sources repeatedly referenced by source-light public lens pages.
+5. Sources that add pressure to bloated pages that may need splitting.
+6. Ordinary historical reads that likely require only `evidence-only` or `link-existing-lens`.
+
+Do not choose by slug order alone. Interviews and classroom episodes should be
+mixed when they carry the same mechanism; otherwise the impact queue can become
+an interview-only accounting treadmill instead of a lens-building loop.
 
 For backfill, prefer a useful compact decision over a long essay. The goal is to close the source's accounting and create clear downstream tasks only when the source actually pressures the lens.
 

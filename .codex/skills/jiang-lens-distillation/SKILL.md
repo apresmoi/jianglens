@@ -46,6 +46,15 @@ The corpus should mutate continuously without turning into an append-only pile.
   arbitrary batches.
 - For historical backfill, choose one bounded source or tightly related cluster
   per run. Prefer useful compact accounting over shallow bulk completion.
+- Corpus-impact files are feedstock for lens work, not the final product. If a
+  worker has produced several compact impact intakes in a row, the next lens
+  run should synthesize: deepen a public concept, split/merge an overgrown
+  page, write a concept-scoped proposal, add durable lens points, or explain
+  why the accumulated impacts still do not justify a public mutation.
+- Backfill order must be concept-pressure driven, not lexical slug order. Do
+  not let `interview-*` sources dominate simply because they sort before
+  `predictive-history-*`; when impact pressure is otherwise comparable, include
+  classroom episodes and interviews in the same concept cluster.
 - Before expanding a concept page, check whether the page is becoming too large
   to function as a lens. Around 6,000 words or 20 distinct sources, consider a
   split. Around 8,000 words or 25 sources, do not keep appending without an

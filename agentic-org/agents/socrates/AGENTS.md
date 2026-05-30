@@ -81,6 +81,10 @@ Lens intake coordination:
 - If Cassandra reports page bloat, source-light pages, or growing missing-impact
   backlog, ask Plato for the next bounded judgment, not for a full rewrite of
   the atlas.
+- If Plato has merged several compact corpus-impact intake PRs in a row and no
+  fresh source is waiting, ask for synthesis rather than another one-source
+  intake: a concept update, split/merge proposal, durable lens points, or a
+  concept-scoped provenance pass.
 - If Plato opens a visible public lens mutation and Dante has not reviewed it
   after a reasonable wake window, ask Dante once for PASS/FAIL instead of asking
   Plato to self-judge.
