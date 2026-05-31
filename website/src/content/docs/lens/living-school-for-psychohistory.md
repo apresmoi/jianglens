@@ -25,6 +25,18 @@ Jiang then defines the project as "true history": [connect the past into a coher
 <span id="living-school-forms-future-makers" class="lens-point-anchor"></span>
 A living school forms future-makers when Great Books, historical context, coherent story, present explanation, and prediction train students to treat the future as something imagined, argued over, and made.
 
+## The Classroom Becomes Public
+
+The same 2025 source adds a public-scale pressure that does not fit ordinary schooling. Jiang says he first uploaded the classes so Chinese students with imperfect English could review the lectures. The archive was built for one classroom. Then the audience changed: [a few hundred subscribers became roughly 25,000 in about a month]{evidence="video:predictive-history-voqeteh6hko@transcript:v1#seg-0006 video:predictive-history-voqeteh6hko@transcript:v1#seg-0007"}, and the class became a public channel before the institution around it existed.
+
+That scale does not erase the school mechanism. It tests it. Jiang thanks early subscribers because they believed, commented, gave feedback, and helped him see what the course needed. When the audience becomes too large to answer one by one, he still treats the comments as part of the course's correction loop: [viewer suggestions and critiques become summer reading, philosophy repair, economics repair, and a new iteration of the course]{evidence="video:predictive-history-voqeteh6hko@transcript:v1#seg-0008 video:predictive-history-voqeteh6hko@transcript:v1#seg-0009"}. The global classroom therefore has two sides. It can amplify a teacher faster than the teacher can administratively handle, but it can also expose weak points and force the syllabus to become more coherent.
+
+<!-- lens-point id="living-school-public-classroom-corrects-course" concept="living-school-psychohistory" evidence="video:predictive-history-voqeteh6hko@transcript:v1#seg-0006 video:predictive-history-voqeteh6hko@transcript:v1#seg-0007 video:predictive-history-voqeteh6hko@transcript:v1#seg-0008 video:predictive-history-voqeteh6hko@transcript:v1#seg-0009 video:predictive-history-voqeteh6hko@transcript:v1#seg-0011" -->
+<span id="living-school-public-classroom-corrects-course" class="lens-point-anchor"></span>
+A living school becomes a public classroom when archived lectures reach a wider audience whose comments, criticism, feedback, and visible scale force the teacher to revise the course rather than merely broadcast finished doctrine.
+
+This should not be confused with [Attention Capture](/lens/attention-capture-as-capital-extraction/), where platforms train dependence and extract imagination, or with [Prediction](/lens/prediction-as-falsifiable-prophecy/), where public claims become testable forecasts. The active mechanism here is educational: the channel turns one class into a distributed school whose audience can correct the teacher's weak points before the next version is taught. The school dream becomes less like a finished campus and more like an institution in formation, with students, viewers, comments, revision, and future community all pulling on the same project.
+
 ## Models Need The Human Heart
 
 The first formulation of psychohistory appears in the 2024 final class. Jiang describes building and refining models by going back through history, testing causes of war against cases such as Sicily and Barbarossa, then putting many refined models together until [the work begins to become psychohistory]{evidence="video:predictive-history-s-k6eswheqa@transcript:v1#seg-0020"}. This is not only commentary. It is model correction across history.
@@ -105,6 +117,7 @@ Use this lens when an educational, intellectual, or forecasting project claims t
 
 - **Formation Test**: Does the school form love, creation, learning, agency, compassion, and judgment, or only credentials and obedience?
 - **Context Test**: Do books and facts become a coherent historical world, or remain impressive fragments?
+- **Public Classroom Test**: Does wider audience attention merely broadcast the teacher, or does it expose weak points and improve the next course?
 - **Model-Correction Test**: Are predictions tested against historical cases and revised, or protected as prophecy?
 - **Edge-Case Test**: Who watches for figures or events that break the model, and are they allowed to revise the equations?
 - **Human-Heart Test**: Does the model include the needs that make people flourish, hate, create, destroy, learn, and rebel?
@@ -115,7 +128,7 @@ Use this lens when an educational, intellectual, or forecasting project claims t
 ## Chronology
 
 - **2024-06-13**, [The Future Is What You Make Happen](/episodes/predictive-history-s-k6eswheqa/): Jiang gives the first known formulation. The future is imagined and fought for; models become psychohistory through refinement; failed predictions must revise analysis; great-person edge cases require a second-foundation layer of observers; the human heart, agency, compassion, and democracy become conditions for valid future-making; the class closes with student growth and a shared dream.
-- **2025-06-13**, [Predictive History Begins As A School](/episodes/predictive-history-voqeteh6hko/): Jiang clarifies the origin and institution. Predictive History begins in Great Books teaching, becomes true history through coherent story, present explanation, and prediction, and points toward a liberal-arts school for psychohistory.
+- **2025-06-13**, [Predictive History Begins As A School](/episodes/predictive-history-voqeteh6hko/): Jiang clarifies the origin and institution. Predictive History begins in Great Books teaching, becomes true history through coherent story, present explanation, and prediction, turns a classroom archive into a public channel whose comments can revise the course, and points toward a liberal-arts school for psychohistory.
 - **2026-03-11**, [Attention Is The Real Battleground](/interviews/interview-crw5ccq8uf4/): after an interview on political theater, consciousness, AI, and civilizational darkness, Jiang says the few students who show up are changed by deeper thought and observation, then defines teaching as thought-process formation for people who want to seek wisdom and help others through the coming dark age.
 
 ## Related Concepts
