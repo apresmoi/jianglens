@@ -9,11 +9,17 @@ Jiang's prediction method grows out of Game Theory, but it now needs its own pag
 
 The word prophecy can mislead. In Jiang's strongest form, prediction is not a mystic exemption from evidence. It is a moral pressure on interpretation. A history that never risks a future claim can be rewritten after power wins. A model that names players, constraints, incentives, and payoffs has to say what should happen next, what would embarrass the model, and what would force revision.
 
-That is why the source trail here runs from the July 2025 universal-law lecture through the 2026 interviews that put Predictive History under public cross-examination, then into the May 28, 2026 final examination where Jiang explicitly welcomes falsification pressure from his own audience.
+That is why the source trail here begins before the ledger problem. On June 13, 2025, Jiang frames Predictive History as a school project in which true history must connect the past, explain the present, and predict the future. The public method then hardens through the September 2025 forecast-family interview, the 2026 interviews that put Predictive History under cross-examination, and the May 28, 2026 final examination where Jiang explicitly welcomes falsification pressure from his own audience.
+
+## School Origin Before Ledger
+
+The **2025-06-13** direct-address source gives Prediction an earlier chronology without making every classroom detail part of Prediction. Jiang says the course has made him think about a new kind of history: [true history should connect events of the past into a coherent story, explain the present, and predict the future]{evidence="video:predictive-history-voqeteh6hko@transcript:v1#seg-0005"}. That is the pre-ledger origin. The method begins as a pedagogical ambition before it becomes a public queue of dated geopolitical claims.
+
+The boundary matters because the same source is already doing Living School work. Great Books, missing historical context, uploaded lectures, comments, weak-point repair, and the dream of a future psychohistory school belong on [Living School For Psychohistory](/lens/living-school-for-psychohistory/). Prediction inherits the narrower rule: a historical framework cannot remain only a coherent story. It has to risk the future, and later sources have to preserve the public conditions under which a prediction validates, fails, or forces correction.
 
 ## Forecast Families Come Before Ledger Items
 
-The **2025-09-01** Tianjin interview gives the public method its earlier plain statement. Jiang says history has to connect the past, explain the present, and predict the future; then a theoretical framework becomes a predictive model whose claims can [validate the model when they turn out to be accurate]{evidence="video:interview-bfuwnjhayq8@transcript:v1#seg-0004 video:interview-bfuwnjhayq8@transcript:v1#seg-0005"}. The public danger is obvious: once a model starts producing dramatic geopolitical bets, the bets can become more magnetic than the discipline that made them useful.
+The **2025-09-01** Tianjin interview gives the public method its plain forecast discipline. Jiang again says history has to connect the past, explain the present, and predict the future; then a theoretical framework becomes a predictive model whose claims can [validate the model when they turn out to be accurate]{evidence="video:interview-bfuwnjhayq8@transcript:v1#seg-0004 video:interview-bfuwnjhayq8@transcript:v1#seg-0005"}. The public danger is obvious: once a model starts producing dramatic geopolitical bets, the bets can become more magnetic than the discipline that made them useful.
 
 That same interview shows why Prediction needs a queue discipline before ledger promotion. Jiang's claims point in several directions at once: a five-to-ten-year U.S.-China conflict over trade networks, alternatives to SWIFT, the petrodollar, Iran, and Gulf oil currency use; a next-six-month compromise that publicly looks like a Chinese win while stabilizing the dollar; and a categorical bet that [China does not invade Taiwan]{evidence="video:interview-bfuwnjhayq8@transcript:v1#seg-0023 video:interview-bfuwnjhayq8@transcript:v1#seg-0024 video:interview-bfuwnjhayq8@transcript:v1#seg-0046 video:interview-bfuwnjhayq8@transcript:v1#seg-0049 video:interview-bfuwnjhayq8@transcript:v1#seg-0051"}. Those are not one prophecy. They are different forecast families with different clocks, conditions, and owning mechanisms.
 
@@ -106,6 +112,9 @@ Ask:
 - Does prediction serve human flourishing, learning, love, and better judgment, or does it become technocratic prestige?
 
 ## Source Trail
+
+- **2025-06-13**, [Predictive History Begins As A School](/episodes/predictive-history-voqeteh6hko/)
+  Jiang gives the method its school-origin form: true history connects the past, explains the present, predicts the future, and must later become public enough to be corrected.
 
 - **2025-07-11**, [Geo-Strategy Update #5: The Universal Law of Game Theory](/episodes/predictive-history-5i2vpypjj68/)  
   Jiang warns that once a game becomes visible, a new player can see the contours, manipulate events, and redirect the trajectory.
