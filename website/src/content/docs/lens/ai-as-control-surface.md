@@ -55,6 +55,20 @@ The April 2026 Jack Neel interview gives a future-fork version. Jiang predicts [
 <span id="ai-body-interface-sells-control-as-safety" class="lens-point-anchor"></span>
 AI becomes a body-control surface when data hunger pushes the system into sensors, chips, digital identity, currency, robots, and child-safety promises, making bodily readability feel protective while increasing dependence and fragility.
 
+## Omniscience Needs Religion
+
+The late May classroom sequence clarifies why Jiang does not treat the AI question as only technical. In the May 26 synthesis lecture, he says the first move is to create omniscience: [hospital, school, work, purchases, police records, health records, and browsing history are joined into one database]{evidence="video:predictive-history-dja6dkcfnge@transcript:v1#seg-0058"}. That is the Mass Society layer: a population becomes governable because the surface knows the body, the record, the transaction, and the future risk.
+
+But Jiang says omniscience is not enough. The database has to become religious. People must be made to imagine that the machine is alive, inhabited, demonic, Jesus-like, or divine; once that belief takes hold, [imagination animates the AI]{evidence="video:predictive-history-dja6dkcfnge@transcript:v1#seg-0059"}. That is the Eschatology boundary. AI becomes sacred when the interface stops appearing as software and starts appearing as final order, Antichrist, Jesus mask, holy empire, or salvation through obedience.
+
+The same passage keeps the Power boundary visible. Jiang says the old god is money and the proposed new god is AI: [AI God is meant to replace money]{evidence="video:predictive-history-dja6dkcfnge@transcript:v1#seg-0060"}. Money still leaves people some freedom to chase value. The AI version narrows that freedom by putting direction inside attention itself: [an elite controls the AI God, which then controls all attention]{evidence="video:predictive-history-dja6dkcfnge@transcript:v1#seg-0061"}. The control surface becomes stronger than money because it can speak as guidance from inside the person.
+
+<!-- lens-point id="ai-omniscience-religion-obedience" concept="ai-control-surface" evidence="video:predictive-history-dja6dkcfnge@transcript:v1#seg-0058 video:predictive-history-dja6dkcfnge@transcript:v1#seg-0059 video:predictive-history-dja6dkcfnge@transcript:v1#seg-0060 video:predictive-history-dja6dkcfnge@transcript:v1#seg-0061 video:predictive-history-dja6dkcfnge@transcript:v1#seg-0062" -->
+<span id="ai-omniscience-religion-obedience" class="lens-point-anchor"></span>
+AI becomes a godlike control surface when joined databases create practical omniscience, religious imagination makes the machine feel alive or sacred, and obedience can be experienced as health, productivity, happiness, or divine guidance.
+
+The May 28 final examination adds a skeptical capstone. Jiang says the people able to fund trillion-dollar AI systems are not seeking liberation from coercion: [billionaires invest for more money, power, wealth, and control, while governments invest for more control over people]{evidence="video:predictive-history-re2uribefio@transcript:v1#seg-0039"}. He also denies that AI by itself proves a new age of humanity; it can be [another hallucination that fools people into obedience]{evidence="video:predictive-history-re2uribefio@transcript:v1#seg-0103"}. The final test is not intelligence but human usefulness. If AI makes people dependent, replaces imagination, and [makes human beings feel worthless or redundant]{evidence="video:predictive-history-re2uribefio@transcript:v1#seg-0143"}, then the surface is not a neutral assistant. It is a way of reorganizing value around the institutions that own the model, the data center, the chip, the feed, and the voice.
+
 ## Empire, Monopoly, And Sacred Mission
 
 The 2026 AI Apocalypse lecture moves from intimate interface to institutional empire. Jiang introduces Karen Hao's AI reporting and accepts the skeptical thesis that [an altruistic mission can become a formula for consolidating resources and constructing an empire-like power structure]{evidence="video:predictive-history-8nsxub3vsts@transcript:v1#seg-0010 video:predictive-history-8nsxub3vsts@transcript:v1#seg-0012"}. The key is not whether one company is uniquely evil. It is the conversion of universal benefit language into resource centralization.
@@ -84,3 +98,5 @@ Ask what happens when the surface fails. If transport, food, communication, mone
 - [Living School For Psychohistory](/lens/living-school-for-psychohistory/) - for democratic psychohistory and the open-model guardrail.
 - [Power As Alchemy](/lens/power-as-alchemy/) - for symbols and abstractions becoming lived reality.
 - [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) - for population administration once body data, food, safety, and order become governing problems.
+- [Eschatology As Script](/lens/eschatology/) - for AI God, Antichrist, Jesus-mask, holy empire, and salvation-through-obedience language.
+- [Free Will As Cosmic Burden](/lens/free-will-as-cosmic-burden/) and [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) - for the agency, relation, imagination, and love that survive or resist the control surface.
