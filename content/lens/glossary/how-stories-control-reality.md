@@ -1,0 +1,48 @@
+---
+id: glossary:how-stories-control-reality
+title: How Stories Control Reality
+description: Jiang Lens glossary entry for how stories control reality, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - stories create reality
+  - narrative reality
+  - story as world
+  - myth-making
+related_lens:
+  - how-stories-control-reality
+  - legitimacy-fiction
+  - how-poetry-creates-civilization
+---
+
+# How Stories Control Reality
+
+**Aliases:** stories create reality, narrative reality, story as world, myth-making.
+
+> **Fast answer:** How stories control reality names Jiang's claim that humans act inside imagined worlds. A story can focus attention, organize roles, make a political fiction feel real, and cause people to build the world the story has already taught them to see.
+
+## What Jiang Means
+
+Jiang's story theory is not only propaganda analysis. Stories are reality machines because consciousness, imagination, memory, and attention are part of what makes a world social. A strong story gives people roles, enemies, futures, and emotional grammar.
+
+This is why Caesar, Homer, Dante, the cave, the Bible, and modern media can belong to the same family. They do not merely describe reality. They train people to inhabit one.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2026-01-07, [The Great Books and the Escape From the Dead Zombie World](/episodes/predictive-history-tsd-8fga84a/) | `video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011`, `#seg-0037` | Attention and prisoners creating reality | Cave mechanism. |
+| 2026-01-21, [The Poem That Gives Birth To Civilization](/episodes/predictive-history-xrp407wsa0w/) | `video:predictive-history-xrp407wsa0w@transcript:v1#seg-0005` | Poem/story creates civilizational reality | Poetry bridge. |
+| 2024-11-12, [Caesar Changed Rome's Reality, So Rome Killed Him](/episodes/predictive-history-f8qqgsefggc/) | `video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002`, `#seg-0005` | Myth maker builds a new reality | Political example. |
+
+## How To Use This Term
+
+Use this term when Jiang is explaining story as a force that organizes perception, identity, coordination, or political reality.
+
+Do not use it for any narrative reference unless the story is doing reality-making work.
+
+## Related Lens Pages
+
+- [How Stories Control Reality](/lens/how-stories-control-reality/)
+- [Legitimacy Fiction](/lens/legitimacy-fiction/)
+- [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/)
+

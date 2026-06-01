@@ -1,0 +1,48 @@
+---
+id: glossary:dispensationalism
+title: Dispensationalism
+description: Jiang Lens glossary entry for dispensationalism, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - dispensational premillennialism
+  - Christian Zionism prophecy
+  - promise becomes plan
+  - rapture politics
+related_lens:
+  - eschatology
+  - prediction-as-falsifiable-prophecy
+  - chokepoint-empire-and-no-exit-war
+---
+
+# Dispensationalism
+
+**Aliases:** dispensational premillennialism, Christian Zionism prophecy, promise becomes plan, rapture politics.
+
+> **Fast answer:** In Jiang Lens, dispensationalism matters because it turns Christian end-times promise into a plan believers can help fulfill. Israel, temple, Antichrist, war, and Jesus's return become operational conditions rather than distant symbols.
+
+## What Jiang Means
+
+Jiang contrasts historic premillennialism, which waits for Jesus to return, with dispensational premillennialism, which treats prophecy as a sequence believers can help bring about. That shift is the dangerous grammar: promise becomes plan.
+
+The term should stay narrow. Jiang is not describing all Christians. He is identifying an organized eschatological minority whose political energy can matter because it treats conflict, statehood, temple, and enemy roles as required steps.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2024-05-08, [Christian Zionism Turns War Into Prophecy](/episodes/predictive-history-lkkrzq4ydqy/) | `video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0014`, `#seg-0018` | Promise versus plan; committed minority | Core definition. |
+| 2024-05-08, [Christian Zionism Turns War Into Prophecy](/episodes/predictive-history-lkkrzq4ydqy/) | `video:predictive-history-lkkrzq4ydqy@transcript:v1#seg-0024`, `#seg-0030` | War with Iran as prophecy fuel | Geopolitical application. |
+| 2026-03-05, [Belief Is Reality, and History Follows Sacred Scripts](/interviews/interview-zsgyhwkinzk/) | `video:interview-zsgyhwkinzk@transcript:v1#seg-0018`, `#seg-0060` | Belief becomes reality; roles must be acted out | Interview restatement. |
+
+## How To Use This Term
+
+Use this term when Jiang is specifically talking about Christian Zionist end-times sequence as political action logic.
+
+Do not use it for Christianity in general or for any pro-Israel position without the prophecy-as-plan mechanism.
+
+## Related Lens Pages
+
+- [Eschatology As Script](/lens/eschatology/)
+- [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/)
+- [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/)
+

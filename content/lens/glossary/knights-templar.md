@@ -1,0 +1,54 @@
+---
+id: glossary:knights-templar
+title: Knights Templar
+description: Jiang Lens glossary entry for Knights Templar, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - Knights Templars
+  - Templars
+  - Templar banking
+  - Freemasons Templar origin
+related_lens:
+  - secret-society-as-coordination-technology
+  - eschatology
+  - power-as-alchemy
+---
+
+# Knights Templar
+
+**Aliases:** Knights Templars, Templars, Templar banking, Freemasons Templar origin.
+
+> **Fast answer:** In Jiang Lens, the Knights Templar are not mainly a medieval curiosity. They are a coordination form: a crusading religious order that becomes a multinational bank, cross-border logistics network, and later secret-society legitimacy story. Jiang discusses them most directly in the 2025-03-20 lecture [The Church That Demanded Your Soul](/episodes/predictive-history-3751zjwmrbw/), especially `video:predictive-history-3751zjwmrbw@transcript:v1#seg-0034` through `#seg-0036`.
+
+## What Jiang Means
+
+Jiang's Templars begin inside Church authority but gain a different kind of power: [money movement, cross-border logistics, trade, investment, and administration]{evidence="video:predictive-history-3751zjwmrbw@transcript:v1#seg-0034"}. In the March 2025 lecture, pilgrims give money to the Templars before traveling and receive it back in Jerusalem. That makes the order, practically, "a bank" and "the first multinational organization in Europe."
+
+Jerusalem then changes the institution. Because the Templars have to govern a mixed sacred city, Jiang says they [work with Jews and Muslims, learn from them, and become more tolerant and cosmopolitan]{evidence="video:predictive-history-3751zjwmrbw@transcript:v1#seg-0035"}. The key mechanism is not a clean virtue story. It is distance from Rome plus contact with other traditions producing new habits of thought.
+
+The third layer is persecution and underground continuity. Once the Templars become too powerful and too intellectually independent, Church authority turns on them. In Jiang's account, [the 1307 persecution does not simply erase them; it drives the organization underground]{evidence="video:predictive-history-3751zjwmrbw@transcript:v1#seg-0036"}. Later lectures connect that undergrounding to Freemasonry.
+
+The Freemason link needs Jiang's caveat. He repeats that Templar survivors become part of the Freemason trail, but in the 2026 Albert Pike lecture he also says the clean Templar-to-Freemason genealogy [does not make sense as literal history but matters as self-authorization]{evidence="video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0029 video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0030"}. Secret societies use older persecution stories to make themselves feel ancient, legitimate, and necessary.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2025-03-20, [The Church That Demanded Your Soul](/episodes/predictive-history-3751zjwmrbw/) | 37:52, `video:predictive-history-3751zjwmrbw@transcript:v1#seg-0034` | "first multinational organization in Europe" and "a bank" | Core banking and logistics definition. |
+| 2025-03-20, [The Church That Demanded Your Soul](/episodes/predictive-history-3751zjwmrbw/) | 39:02, `video:predictive-history-3751zjwmrbw@transcript:v1#seg-0035` | Work with Jews and Muslims in Jerusalem | Contact with other traditions changes the order. |
+| 2025-03-20, [The Church That Demanded Your Soul](/episodes/predictive-history-3751zjwmrbw/) | 40:11, `video:predictive-history-3751zjwmrbw@transcript:v1#seg-0036` | Free-thinking, 1307 persecution, undergrounding | Suppression becomes mutation. |
+| 2025-12-04, [The Church Becomes the Empire Outside History](/episodes/predictive-history-tedvhye8po0/) | 1:13:15-1:14:13, `video:predictive-history-tedvhye8po0@transcript:v1#seg-0083`, `#seg-0084` | First multinational bank; survivors become basis of Freemasons | Later compact Freemason bridge. |
+| 2025-06-28, [Newton's Divine Plan Runs Through The War](/episodes/predictive-history-kw-tin6decm/) | 19:01, `video:predictive-history-kw-tin6decm@transcript:v1#seg-0017` | Templar contact with Zoroastrianism, Islam, Judaism, and paganism | Secret teachings enter the underground story. |
+| 2026-05-19, [The Holy Empire of AI](/episodes/predictive-history-rg1clzlrfoo/) | 31:34-32:43, `video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0029`, `#seg-0030` | Pike rewrites history around the Templars | Legitimacy story caveat. |
+
+## How To Use This Term
+
+Use this term when Jiang is discussing sacred orders becoming financial networks, cross-border institutions, underground societies, or Freemasonic self-legitimation.
+
+Do not use it for generic medieval crusaders, generic conspiracy claims, or a literal uninterrupted Templar-to-Freemason genealogy without Jiang's caveat about self-authorization.
+
+## Related Lens Pages
+
+- [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/)
+- [Eschatology As Script](/lens/eschatology/)
+- [Power As Alchemy](/lens/power-as-alchemy/)

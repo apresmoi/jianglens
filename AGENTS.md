@@ -6,7 +6,7 @@ This repo is a markdown-first Jiang Lens project. Preserve the boundary between 
 
 - `content/` is canonical project state.
 - `ops/` is tooling for compiling, validating, and ingesting content.
-- `website/` is a renderer. Treat generated files under `website/src/content/docs/generated/` and `website/src/data/lens/` as compiler outputs.
+- `website/` is a renderer. Treat generated files under `website/src/content/docs/generated/`, `website/src/content/docs/glossary.md`, `website/src/content/docs/glossary/`, and `website/src/data/lens/` as compiler outputs.
 - `docs/research/` is archived research context, not operational state.
 
 ## Canon Rules
@@ -120,6 +120,7 @@ Skills are process contracts, not agent personas. Use the narrowest skill that m
 - per-episode corpus impact and mutation level when explicitly assigned to a corpus-impact worker: `.codex/skills/jiang-corpus-impact-pass/SKILL.md`
 - one public concept page: `.codex/skills/jiang-lens-concept-writer/SKILL.md`
 - public lens atlas maintenance: `.codex/skills/jiang-lens-atlas-maintainer/SKILL.md`
+- search-facing glossary entries and aliases: `.codex/skills/jiang-glossary-entry-writer/SKILL.md`
 - evidence marks, hovers, backlinks, and lens-point links: `.codex/skills/jiang-provenance-linker/SKILL.md`
 - canon/glossary/ledger promotion: `.codex/skills/jiang-canon-promotion/SKILL.md`
 - adversarial review: `.codex/skills/jiang-lens-judge/SKILL.md`

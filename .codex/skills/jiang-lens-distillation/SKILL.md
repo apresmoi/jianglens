@@ -25,6 +25,7 @@ Do not use this for raw Colab work or single-video episode publication. Use `col
 - One serious public concept page: `jiang-lens-concept-writer`
 - High-level atlas and `lens-point:*` anchors: `jiang-lens-atlas-maintainer`
 - Evidence marks, source refs, hovers, backlinks, and episode-to-lens links: `jiang-provenance-linker`
+- Search-facing glossary entries and aliases: `jiang-glossary-entry-writer`
 - Promotion into canon/glossary/ledger: `jiang-canon-promotion`
 - Independent criticism before handoff or promotion: `jiang-lens-judge`
 

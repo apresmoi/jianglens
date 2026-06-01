@@ -1,0 +1,48 @@
+---
+id: glossary:prediction-as-prophecy
+title: Prediction As Prophecy
+description: Jiang Lens glossary entry for prediction as prophecy, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - prediction as falsifiable prophecy
+  - falsifiable prophecy
+  - prophecy as prediction
+  - forecast audit
+related_lens:
+  - prediction-as-falsifiable-prophecy
+  - eschatology
+  - game-theory
+---
+
+# Prediction As Prophecy
+
+**Aliases:** prediction as falsifiable prophecy, falsifiable prophecy, prophecy as prediction, forecast audit.
+
+> **Fast answer:** Prediction as prophecy names the tension in Jiang's public method: a forecast can feel prophetic, but it should remain falsifiable. The useful form is not mystique. It is a dated claim derived from a model, exposed to later evidence, and corrected when the forecast branch breaks.
+
+## What Jiang Means
+
+Jiang's prediction language sits between two dangers. One danger is ordinary commentary that never risks being wrong. The other is prophecy aura that turns every later event into confirmation. The Jiang Lens term keeps the pressure in the middle: a model should predict, but the prediction should be inspectable.
+
+That is why the page routes to both game theory and eschatology. Game theory supplies players, incentives, constraints, and payoffs. Eschatology supplies the caution: prophecy can become a role-script people try to fulfill. Prediction stays useful only when it does not escape audit.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2025-06-13, [Predictive History Begins As A School](/episodes/predictive-history-voqeteh6hko/) | `video:predictive-history-voqeteh6hko@transcript:v1#seg-0005` | True history predicts the future | Starting rule. |
+| 2025-09-01, [Trade Corridors Matter More Than Ideology](/interviews/interview-bfuwnjhayq8/) | `video:interview-bfuwnjhayq8@transcript:v1#seg-0004`, `#seg-0005` | Predictive model validates through events | Public forecast discipline. |
+| 2026-05-28, [Final Examination: Collapse, Imagination, and the Soul's Purpose](/episodes/predictive-history-re2uribefio/) | `video:predictive-history-re2uribefio@transcript:v1#seg-0097`, `#seg-0100`, `#seg-0101` | Audience pressure and correction | Late-method falsification pressure. |
+
+## How To Use This Term
+
+Use this term when a Jiang prediction is being evaluated as a test of the framework.
+
+Do not use it to make a failed forecast unfalsifiable or to treat every dramatic claim as sacred foresight.
+
+## Related Lens Pages
+
+- [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/)
+- [Eschatology As Script](/lens/eschatology/)
+- [Game Theory](/lens/game-theory/)
+

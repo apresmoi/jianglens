@@ -1,0 +1,48 @@
+---
+id: glossary:proximity-games
+title: Proximity Games
+description: Jiang Lens glossary entry for proximity games, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - nearest game
+  - domestic payoff
+  - factional game
+  - local incentive game
+related_lens:
+  - proximity-games-and-elite-overproduction
+  - game-theory
+  - legitimacy-fiction
+---
+
+# Proximity Games
+
+**Aliases:** nearest game, domestic payoff, factional game, local incentive game.
+
+> **Fast answer:** Proximity games name Jiang's game-theory correction that the nearest payoff can govern the visible geopolitical move. A war, scandal, alliance, or threat may look international while actually rewarding a domestic faction, elite coalition, bureaucracy, election machine, or status group.
+
+## What Jiang Means
+
+The term grows out of Jiang's larger game theory method: identify players, rules, incentives, and real rewards. Proximity games add one recurring result. The actor may not be maximizing the public objective. It may be winning a nearer game inside the party, state, bureaucracy, or elite class.
+
+That does not make geopolitics fake. It means the visible board can be downstream of a smaller board that is more urgent to the people making decisions.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2026-03-19, [The Nearest War Wins](/episodes/predictive-history-noqqgy4boby/) | `video:predictive-history-noqqgy4boby@transcript:v1#seg-0013`, `#seg-0015`, `#seg-0016` | The nearest game governs | Direct concept source. |
+| 2025-11-24, [When the West Loses Energy, Capital Looks for Pax Judaica](/interviews/interview-gssim9xnrae/) | `video:interview-gssim9xnrae@transcript:v1#seg-0010`, `#seg-0011` | Domestic faction payoffs | Elite game extension. |
+| 2025-12-31, [History Becomes Power When Imagination Collapses](/interviews/interview-mcjno0xrly8/) | `video:interview-mcjno0xrly8@transcript:v1#seg-0077`, `#seg-0078` | Internal elite conflict | Wider application. |
+
+## How To Use This Term
+
+Use this term when a public conflict seems too self-damaging unless a nearer factional payoff is named.
+
+Do not use it to dismiss material strategy; use it to ask which game is closest to the decision-maker.
+
+## Related Lens Pages
+
+- [Proximity Games And Elite Overproduction](/lens/proximity-games-and-elite-overproduction/)
+- [Game Theory](/lens/game-theory/)
+- [Legitimacy Fiction](/lens/legitimacy-fiction/)
+

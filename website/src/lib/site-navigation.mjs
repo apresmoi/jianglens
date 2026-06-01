@@ -20,6 +20,7 @@ export const docsSidebar = [
       { label: 'Is Professor Jiang Legit?', slug: 'is-professor-jiang-legit' },
       { label: 'Professor Jiang Predictions', slug: 'professor-jiang-predictions' },
       { label: 'Professor Jiang Transcripts', slug: 'professor-jiang-transcripts' },
+      { label: 'Glossary', slug: 'glossary' },
     ],
   },
   {
