@@ -1,0 +1,48 @@
+---
+id: glossary:attention-capture
+title: Attention Capture
+description: Jiang Lens glossary entry for attention capture, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - attention as wealth
+  - capture attention
+  - attention economy
+  - consciousness extraction
+related_lens:
+  - attention-capture-as-capital-extraction
+  - the-dead-world-and-the-cave
+  - power-as-alchemy
+---
+
+# Attention Capture
+
+**Aliases:** attention as wealth, capture attention, attention economy, consciousness extraction.
+
+> **Fast answer:** Attention capture names Jiang's claim that attention is energy and true wealth. Whoever can focus attention can capture imagination, direct work, extract value, and construct reality. Money, school, social media, AI, and capital all compete for that power.
+
+## What Jiang Means
+
+Jiang's attention model begins from consciousness. If consciousness helps make reality, then attention is not a productivity metric. It is the energy by which imagination works.
+
+Capital then becomes a mechanism for extracting that energy. The worker's focus, anxiety, desire, and time can be pointed toward production, consumption, debt, or screen worlds. AI enters as a new attention-directing companion when money loses some of its organizing force.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2026-01-07, [The Great Books and the Escape From the Dead Zombie World](/episodes/predictive-history-tsd-8fga84a/) | `video:predictive-history-tsd-8fga84a@transcript:v1#seg-0011`, `#seg-0012` | Attention as energy; cave wall | Core attention source. |
+| 2025-12-09, [Capital Steals Attention And Calls It Freedom](/episodes/predictive-history-b5fthagng8c/) | `video:predictive-history-b5fthagng8c@transcript:v1#seg-0001`, `#seg-0002` | Capital extracts human energy | Economic mechanism. |
+| 2026-03-16, [Our True Wealth Is Consciousness](/interviews/interview-rsi7cdrurme/) | `video:interview-rsi7cdrurme@transcript:v1#seg-0069`, `#seg-0072`, `#seg-0073` | AI companion directs attention | Late AI extension. |
+
+## How To Use This Term
+
+Use this term when Jiang is describing power as the ability to focus consciousness, imagination, labor, desire, or reality-making.
+
+Do not use it only for ordinary distraction.
+
+## Related Lens Pages
+
+- [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/)
+- [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/)
+- [Power As Alchemy](/lens/power-as-alchemy/)
+

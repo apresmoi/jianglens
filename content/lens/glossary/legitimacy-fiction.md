@@ -1,0 +1,48 @@
+---
+id: glossary:legitimacy-fiction
+title: Legitimacy Fiction
+description: Jiang Lens glossary entry for legitimacy fiction, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - legitimacy story
+  - savior fiction
+  - political myth
+  - authority story
+related_lens:
+  - legitimacy-fiction
+  - power-as-alchemy
+  - how-stories-control-reality
+---
+
+# Legitimacy Fiction
+
+**Aliases:** legitimacy story, savior fiction, political myth, authority story.
+
+> **Fast answer:** Legitimacy fiction names Jiang's pattern in which power becomes governable by telling a story people can inhabit. The fiction is not "fake" in the weak sense. It becomes politically real when it lets rulers, institutions, or movements convert violence, succession, guilt, or failure into authority.
+
+## What Jiang Means
+
+Jiang's legitimacy material often starts with Rome and scripture. Caesar builds a new reality around himself; Octavian turns Caesar's death into imperial legitimacy; biblical and royal stories can convert murder, conquest, or apology into sacred continuity.
+
+The mechanism is alchemical. A story changes the status of an act. Violence becomes founding. Defeat becomes destiny. A person becomes a symbol. Once enough people act inside the story, legitimacy stops being only an argument and becomes a world.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2024-11-12, [Caesar Changed Rome's Reality, So Rome Killed Him](/episodes/predictive-history-f8qqgsefggc/) | `video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002`, `#seg-0005` | Myth maker constructs new reality | Core fiction-to-reality pattern. |
+| 2024-11-19, [Caesar's Death Made Octavian Emperor](/episodes/predictive-history-dc54iqur7ik/) | `video:predictive-history-dc54iqur7ik@transcript:v1#seg-0013`, `#seg-0017` | Death becomes legitimacy | Succession mechanism. |
+| 2024-12-05, [David's Apology Turns Murder Into Scripture](/episodes/predictive-history-rkpgrrugjnk/) | `video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0030`, `#seg-0052` | Apology and scriptural authority | Sacred legitimacy example. |
+
+## How To Use This Term
+
+Use this term when Jiang is analyzing how a story makes rule, succession, violence, or institution-building feel authorized.
+
+Do not use it as a generic "lie" label. The point is how fiction becomes operative reality.
+
+## Related Lens Pages
+
+- [Legitimacy Fiction](/lens/legitimacy-fiction/)
+- [Power As Alchemy](/lens/power-as-alchemy/)
+- [How Stories Control Reality](/lens/how-stories-control-reality/)
+

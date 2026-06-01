@@ -1,0 +1,48 @@
+---
+id: glossary:secret-society
+title: Secret Society
+description: Jiang Lens glossary entry for secret society in Jiang's sense, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - secret society as coordination
+  - hidden network
+  - oath society
+  - underground continuity
+related_lens:
+  - secret-society-as-coordination-technology
+  - taboo-as-control-surface
+  - power-as-alchemy
+---
+
+# Secret Society
+
+**Aliases:** secret society as coordination, hidden network, oath society, underground continuity.
+
+> **Fast answer:** In Jiang Lens, secret society means a coordination technology, not just a conspiracy label. It is a way to create trust, continuity, roles, initiation, loyalty, taboo, and action across institutions when ordinary public organization is too exposed or too weak.
+
+## What Jiang Means
+
+Jiang's strongest secret-society use is structural. A hidden society can move across silos, preserve memory, test loyalty, and bind members through oaths, stories, shared risk, or taboo. Its power is not only secrecy; it is coordination under conditions where explicit command would fail.
+
+The caveat matters. Do not flatten every hidden-power claim into "secret society did it." The term works when the source gives a mechanism: initiation, underground survival, symbolic continuity, institutional penetration, or self-authorization.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2025-07-11, [Stories Win The Game](/episodes/predictive-history-5i2vpypjj68/) | `video:predictive-history-5i2vpypjj68@transcript:v1#seg-0002`, `#seg-0003` | Story and coordination | Early mechanism. |
+| 2026-04-09, [History As River, Prophecy As Plan](/episodes/predictive-history-ue8y5e3hnhe/) | `video:predictive-history-ue8y5e3hnhe@transcript:v1#seg-0013`, `#seg-0014` | Hidden continuity and role logic | Later coordination source. |
+| 2025-11-06, [The Empire That Cannot Stop Fighting Itself](/interviews/interview-7qz4kmtbvru/) | `video:interview-7qz4kmtbvru@transcript:v1#seg-0027`, `#seg-0028`, `#seg-0029` | Cross-institutional hidden power | Interview application. |
+
+## How To Use This Term
+
+Use this term when Jiang is describing hidden coordination, oath-bound trust, underground survival, symbolic continuity, or cross-silo action.
+
+Do not use it as a catch-all explanation for any opaque event.
+
+## Related Lens Pages
+
+- [Secret Society As Coordination Technology](/lens/secret-society-as-coordination-technology/)
+- [Taboo As Control Surface](/lens/taboo-as-control-surface/)
+- [Power As Alchemy](/lens/power-as-alchemy/)
+

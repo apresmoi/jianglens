@@ -1,0 +1,48 @@
+---
+id: glossary:civilization-as-inner-order
+title: Civilization As Inner Order
+description: Jiang Lens glossary entry for civilization as inner order, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - inner order
+  - civilization as arrangement
+  - lived world
+  - civilizational order
+related_lens:
+  - civilization-as-inner-order
+  - sacred-machines
+  - how-poetry-creates-civilization
+---
+
+# Civilization As Inner Order
+
+**Aliases:** inner order, civilization as arrangement, lived world, civilizational order.
+
+> **Fast answer:** Civilization as inner order names Jiang's way of reading a civilization as the arrangement of myth, economy, violence, memory, sex, hierarchy, language, and survival inside people. A civilization is not only buildings or states. It is what a people can imagine as natural.
+
+## What Jiang Means
+
+The term lets Jiang compare farming worlds, pastoral worlds, Homeric worlds, religious worlds, and modern worlds without reducing them to GDP or institutions. A civilization makes a way of life feel coherent. It tells people what counts as wealth, beauty, gender, violence, virtue, kinship, and future.
+
+That inner order can protect, but it can also dominate. Old Europe, Yamnaya conquest, sacred machines, and poetry all matter because they show different worlds being installed inside human beings.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2024-08-29, [Farming Won Because It Carried Religion](/episodes/predictive-history-jjqf9t59uy0/) | `video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0034` | Settlement made meaningful | Civilization as lived arrangement. |
+| 2024-09-12, [How the Yamnaya Made War, Money, and the West](/episodes/predictive-history-j4htfjwl5d8/) | `video:predictive-history-j4htfjwl5d8@transcript:v1#seg-0016`, `#seg-0019` | Pastoral order and social change | Contrasting inner worlds. |
+| 2024-10-10, [Destruction, Homer, and the Birth of the Human](/episodes/predictive-history-677rmlrgvlq/) | `video:predictive-history-677rmlrgvlq@transcript:v1#seg-0032` | Homer and human formation | Poetic civilization layer. |
+
+## How To Use This Term
+
+Use this term when Jiang is describing the internal architecture that makes a people, economy, religion, literature, or gender order feel real.
+
+Do not use it as a generic synonym for "civilization."
+
+## Related Lens Pages
+
+- [Civilization As Inner Order](/lens/civilization-as-inner-order/)
+- [Sacred Machines](/lens/sacred-machines/)
+- [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/)
+

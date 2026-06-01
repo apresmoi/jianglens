@@ -1,0 +1,52 @@
+---
+id: glossary:petrodollar
+title: Petrodollar
+description: Jiang Lens glossary entry for the petrodollar, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - dollar hegemony
+  - oil dollar
+  - reserve currency
+  - dollar order
+  - petrodollar collapse
+related_lens:
+  - power-as-alchemy
+  - chokepoint-empire-and-no-exit-war
+  - imperial-retrenchment-and-proxy-attrition
+---
+
+# Petrodollar
+
+**Aliases:** dollar hegemony, oil dollar, reserve currency, dollar order, petrodollar collapse.
+
+> **Fast answer:** Jiang uses petrodollar to name the post-1971 dollar-demand system in which oil pricing and Gulf alignment help keep global demand for U.S. dollars alive after gold backing ends. In his Iran and empire lectures, petrodollar weakness becomes one sign that American power is shifting from productive legitimacy into coercion, financial engineering, and collapse management.
+
+## What Jiang Means
+
+The petrodollar is not just a currency fact in Jiang's corpus. It is a story about how empire survives after its older sacred or material backing fails. Nixon breaks the dollar's gold link, then the United States has to create another reason for the world to hold dollars. Jiang's compact mechanism is that Saudi or Gulf oil sold in dollars forces oil buyers to hold dollars.
+
+That makes Iran central. If American control of the Middle East weakens, the oil-dollar mechanism weakens too. In the Iran-war frame, a failed ground invasion would not only be a military failure; it would push America out of the Middle East, weaken reserve-currency power, and destabilize the global economy.
+
+Jiang's later warning is sharper: trying to coerce the world into buying U.S. oil may not save the petrodollar. It can serve elite factions while making national collapse more likely.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2026-05-28, [Final Examination: Collapse, Imagination, and the Soul's Purpose](/episodes/predictive-history-re2uribefio/) | 22:47-23:38, `video:predictive-history-re2uribefio@transcript:v1#seg-0023`, `#seg-0024` | U.S. coercion and elite factions | Latest collapse-management framing. |
+| 2026-05-16, [Putin Does Not Want The Throne](/episodes/predictive-history-x83hclwvhi8/) | 24:50-25:55, `video:predictive-history-x83hclwvhi8@transcript:v1#seg-0021`, `#seg-0022` | 1971, Nixon, Saudi Arabia, GCC, China | Monetary origin story. |
+| 2026-05-14, [Trump in China as a Grand Bargain Engine](/episodes/predictive-history-bil5vjn6ohi/) | 15:00-16:20, `video:predictive-history-bil5vjn6ohi@transcript:v1#seg-0013`, `#seg-0014` | 1972 China visit and dollar shift | Geopolitical extension after gold. |
+| 2025-12-26, [GCC And The Dollar Order](/episodes/predictive-history-jis2eb-rgv0/) | `video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0012`, `#seg-0013` | GCC oil must be bought in dollars | Direct definition. |
+| 2026-05-18, [Grand Strategy Or Pawnhood](/episodes/predictive-history-xrmerlhuqbk/) | `video:predictive-history-xrmerlhuqbk@transcript:v1#seg-0010` | Iran invasion, petrodollar, global economy | Prediction chain. |
+
+## How To Use This Term
+
+Use this term when Jiang is explaining dollar demand, oil pricing, Gulf alignment, Iran strategy, reserve-currency weakness, or the monetary side of American empire.
+
+Do not use it as a generic synonym for "the dollar." The term matters when oil, Gulf politics, reserve currency, and imperial coercion are linked.
+
+## Related Lens Pages
+
+- [Power As Alchemy](/lens/power-as-alchemy/)
+- [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/)
+- [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/)

@@ -1,0 +1,48 @@
+---
+id: glossary:sacred-machines
+title: Sacred Machines
+description: Jiang Lens glossary entry for sacred machines, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - sacred machine
+  - religion as infrastructure
+  - temple machine
+  - invisible order
+related_lens:
+  - sacred-machines
+  - civilization-as-inner-order
+  - nation-as-god-machine
+---
+
+# Sacred Machines
+
+**Aliases:** sacred machine, religion as infrastructure, temple machine, invisible order.
+
+> **Fast answer:** Sacred machines are Jiang's pattern for invisible religious or symbolic orders that become practical infrastructure. Farming, temples, cities, pyramids, writing, and nationhood work because sacred meaning organizes labor, hierarchy, obedience, memory, and time.
+
+## What Jiang Means
+
+Jiang does not treat religion as decoration added after economics. In the early civilization sources, sacred order makes settled life imaginable and livable. Agriculture wins not only through calories but because religion can turn labor, storage, sacrifice, and hierarchy into meaningful participation.
+
+The machine is sacred because people obey it as more than utility. It is a world-order that makes a material system feel natural, necessary, and permanent.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2024-08-29, [Farming Won Because It Carried Religion](/episodes/predictive-history-jjqf9t59uy0/) | `video:predictive-history-jjqf9t59uy0@transcript:v1#seg-0003`, `#seg-0021`, `#seg-0040` | Farming, religion, labor, temple | Core sacred infrastructure. |
+| 2024-09-03, [Humans Are Religious Before They Are Economic](/episodes/predictive-history-x1e5rrmcit4/) | `video:predictive-history-x1e5rrmcit4@transcript:v1#seg-0007`, `#seg-0013`, `#seg-0036` | Religion as prior social order | Mechanism boundary. |
+| 2024-11-26, [The Pyramid That Tried To End History](/episodes/predictive-history-kssscznyrgo/) | `video:predictive-history-kssscznyrgo@transcript:v1#seg-0015` | Pyramid as sacred-political machine | Monumental example. |
+
+## How To Use This Term
+
+Use this term when Jiang is explaining how sacred meaning becomes labor system, political infrastructure, city, temple, or national machine.
+
+Do not use it for any religious symbol unless it organizes practical life.
+
+## Related Lens Pages
+
+- [Sacred Machines](/lens/sacred-machines/)
+- [Civilization As Inner Order](/lens/civilization-as-inner-order/)
+- [Nation As God-Machine](/lens/nation-as-god-machine/)
+

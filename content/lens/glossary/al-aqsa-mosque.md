@@ -1,0 +1,52 @@
+---
+id: glossary:al-aqsa-mosque
+title: Al-Aqsa Mosque
+description: Jiang Lens glossary entry for Al-Aqsa Mosque, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - Al Aqsa
+  - Al-Aqsa
+  - Temple Mount
+  - Third Temple
+  - Temple of Solomon
+related_lens:
+  - eschatology
+  - chokepoint-empire-and-no-exit-war
+  - prediction-as-falsifiable-prophecy
+---
+
+# Al-Aqsa Mosque
+
+**Aliases:** Al Aqsa, Al-Aqsa, Temple Mount, Third Temple, Temple of Solomon.
+
+> **Fast answer:** In Jiang Lens, Al-Aqsa Mosque is not just a site reference. It is the sacred flashpoint where Jiang's eschatology, Israel analysis, Islamic history, and prediction discipline converge. He repeatedly treats the destruction or non-destruction of Al-Aqsa as a decisive pressure point for Third Temple politics and for testing larger claims about who actually controls the war script.
+
+## What Jiang Means
+
+Jiang frames Al-Aqsa through sacred geography. The site sits inside a layered religious conflict: Islamic sanctity, Jewish temple expectation, Jerusalem sovereignty, and end-times imagination all occupy the same symbolic space. That is why the site can become a geopolitical trigger rather than merely a religious monument.
+
+The strongest claims are predictive. In one lecture, Jiang predicts that Israelis will eventually destroy Al-Aqsa Mosque to build the Third Temple or Temple of Solomon. In later interviews, the question becomes more analytic: if Al-Aqsa is destroyed, what kind of power structure was able to authorize it? If it is not destroyed, what constraints still hold?
+
+That means the term should be handled carefully. Al-Aqsa in Jiang Lens is a test point inside a prediction framework, not a generic shorthand for all Israel-Palestine politics.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2024-09-12, [Third Temple Prediction Source](/episodes/predictive-history-3t0mevbd24i/) | `video:predictive-history-3t0mevbd24i@transcript:v1#seg-0042` | Al-Aqsa destroyed and Third Temple built | Direct prediction claim. |
+| 2024-08-29, [Temple Mount Historical Setup](/episodes/predictive-history-2odo8lokuo8/) | `video:predictive-history-2odo8lokuo8@transcript:v1#seg-0005`, `#seg-0006` | Third holiest site in Islam; Temple Mount problem | Sacred geography setup. |
+| 2026-03-30, [Interview Prediction Reference](/interviews/interview-kh8dvnddooq/) | `video:interview-kh8dvnddooq@transcript:v1#seg-0078` | War and Al-Aqsa destruction | Later restatement. |
+| 2026-03-24, [False Flag And Temple Politics](/interviews/interview-o1delachnro/) | `video:interview-o1delachnro@transcript:v1#seg-0033`, `#seg-0034` | Spectacular event and wider war | Mechanism possibility. |
+| 2026-05-19, [The Holy Empire of AI](/episodes/predictive-history-rg1clzlrfoo/) | `video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0005`, `#seg-0006` | Conspiracy critique and prediction discipline | Prevents over-mechanical reading. |
+
+## How To Use This Term
+
+Use this term when Jiang is discussing Third Temple politics, Jerusalem as sacred trigger, eschatological war scripts, or falsifiable prediction points around Israel and Islam.
+
+Do not use it as a generic proxy for Middle East conflict. It matters when the sacred site itself is doing explanatory work in Jiang's model.
+
+## Related Lens Pages
+
+- [Eschatology As Script](/lens/eschatology/)
+- [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/)
+- [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/)

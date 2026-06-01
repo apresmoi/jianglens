@@ -1,0 +1,48 @@
+---
+id: glossary:power-as-alchemy
+title: Power As Alchemy
+description: Jiang Lens glossary entry for power as alchemy, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - alchemy of power
+  - symbol becomes reality
+  - political alchemy
+  - money as alchemy
+related_lens:
+  - power-as-alchemy
+  - legitimacy-fiction
+  - attention-capture-as-capital-extraction
+---
+
+# Power As Alchemy
+
+**Aliases:** alchemy of power, symbol becomes reality, political alchemy, money as alchemy.
+
+> **Fast answer:** Power as alchemy is Jiang's phrase for the conversion by which perception, symbol, story, money, office, or ritual becomes real authority. Power works when the sign no longer merely points at reality but reorganizes the reality people obey.
+
+## What Jiang Means
+
+The alchemy frame explains why Jiang can discuss myth, money, Church, empire, and modern institutions together. The practical question is how a representation becomes binding: a title becomes command, paper becomes wealth, a story becomes legitimacy, a ritual becomes social order.
+
+Money is the cleanest modern example. It can be nothing and everything because it stores trust, attention, future claims, and social coordination. But Jiang uses the same pattern for political myth and official history.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2025-08-21, [Power Is Alchemy](/episodes/predictive-history-ajfxykt9joo/) | `video:predictive-history-ajfxykt9joo@transcript:v1#seg-0003`, `#seg-0005`, `#seg-0094` | Direct power-as-alchemy formulation | Core source. |
+| 2025-03-27, [The Iron Cage Of Protestant Anxiety](/episodes/predictive-history-tcxloijz8v0/) | `video:predictive-history-tcxloijz8v0@transcript:v1#seg-0012`, `#seg-0015`, `#seg-0018` | Anxiety, calling, worldly signs | Religious-economic conversion. |
+| 2025-11-27, [The Godhead Equation That Made Money Real](/episodes/predictive-history-za30rbc3ttg/) | `video:predictive-history-za30rbc3ttg@transcript:v1#seg-0029`, `#seg-0047` | Money and modern reality ideas | Late symbolic-money source. |
+
+## How To Use This Term
+
+Use this term when Jiang is explaining a conversion: sign into authority, paper into wealth, story into legitimacy, or abstraction into lived reality.
+
+Do not use it as a vague synonym for "power is mysterious."
+
+## Related Lens Pages
+
+- [Power As Alchemy](/lens/power-as-alchemy/)
+- [Legitimacy Fiction](/lens/legitimacy-fiction/)
+- [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/)
+

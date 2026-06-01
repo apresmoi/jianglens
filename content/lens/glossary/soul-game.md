@@ -1,0 +1,48 @@
+---
+id: glossary:soul-game
+title: Soul Game
+description: Jiang Lens glossary entry for soul game, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - education as a soul game
+  - school game
+  - soul wager
+  - grades as game
+related_lens:
+  - education-as-a-soul-game
+  - human-heart-as-civilizational-measure
+  - the-guide-who-becomes-a-trap
+---
+
+# Soul Game
+
+**Aliases:** education as a soul game, school game, soul wager, grades as game.
+
+> **Fast answer:** Soul game names Jiang's claim that education always plays for the student's inner life, not only scores or credentials. School can train imagination, love, judgment, and agency, or it can turn the student into an obedient player inside a credential game.
+
+## What Jiang Means
+
+Jiang's education critique does not stop at "school is inefficient." The deeper problem is that school teaches what kind of self a student should become. Grades, competition, college anxiety, parental pressure, and institutional scripts can capture attention and make the child play for status instead of growth.
+
+The positive side is harder: teaching should help students think, observe, ask, imagine, and become more fully human. That is why the term belongs near the living school rather than generic education reform.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2025-06-13, [Predictive History Begins As A School](/episodes/predictive-history-voqeteh6hko/) | `video:predictive-history-voqeteh6hko@transcript:v1#seg-0010`, `#seg-0011` | School as future intellectual formation | Positive institution dream. |
+| 2026-01-08, [School Sucks Because It Is a Game](/episodes/predictive-history-ks-muauq62e/) | `video:predictive-history-ks-muauq62e@transcript:v1#seg-0001`, `#seg-0002`, `#seg-0003` | School as game structure | Core diagnosis. |
+| 2026-03-16, [Attention Is The Real Battleground](/interviews/interview-crw5ccq8uf4/) | `video:interview-crw5ccq8uf4@transcript:v1#seg-0079`, `#seg-0080` | Teaching thought processes | Late interview boundary. |
+
+## How To Use This Term
+
+Use this term when Jiang is discussing education as formation of attention, agency, imagination, judgment, and love.
+
+Do not use it for school policy in general unless the student's inner formation is the active mechanism.
+
+## Related Lens Pages
+
+- [Education As A Soul Game](/lens/education-as-a-soul-game/)
+- [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/)
+- [The Guide Who Becomes A Trap](/lens/the-guide-who-becomes-a-trap/)
+

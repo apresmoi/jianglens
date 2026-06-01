@@ -1,0 +1,48 @@
+---
+id: glossary:no-exit-war
+title: No-Exit War
+description: Jiang Lens glossary entry for no-exit war, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - war with no exit
+  - escalation trap
+  - sunk-cost war
+  - imperial suicide
+related_lens:
+  - chokepoint-empire-and-no-exit-war
+  - prediction-as-falsifiable-prophecy
+  - game-theory
+---
+
+# No-Exit War
+
+**Aliases:** war with no exit, escalation trap, sunk-cost war, imperial suicide.
+
+> **Fast answer:** No-exit war names Jiang's escalation pattern where starting the conflict creates political, financial, sacred, or credibility costs that make leaving harder than entering. The war then gains its own momentum even when the original purpose weakens.
+
+## What Jiang Means
+
+The no-exit pattern is central to Jiang's Iran-war analysis but broader than Iran. An empire can start with a show of force, a limited strike, or a credibility test. Once the opponent absorbs the strike, closes options, or forces a ground decision, the original limited move becomes a commitment trap.
+
+The exit problem is not only military. It includes dollar credibility, Gulf protector credibility, domestic humiliation, allied doubts, sunk costs, and leader survival.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2026-03-09, [A War Without Purpose Becomes Imperial Suicide](/interviews/interview-6rtli-qwd1i/) | `video:interview-6rtli-qwd1i@transcript:v1#seg-0004` | War without purpose | Name pressure. |
+| 2026-03-13, [War Becomes Its Own Momentum](/interviews/interview-px5wsnsqwme/) | `video:interview-px5wsnsqwme@transcript:v1#seg-0024`, `#seg-0027`, `#seg-0031` | Escalation ladder | Core no-exit mechanism. |
+| 2026-03-20, [War Gets Its Own Logic](/interviews/interview-2k2nqsttjqe/) | `video:interview-2k2nqsttjqe@transcript:v1#seg-0008` | War logic after entry | Later compressed restatement. |
+
+## How To Use This Term
+
+Use this term when Jiang is analyzing why a conflict cannot be cleanly ended after credibility, sunk cost, sacred script, or strategic chokepoint pressures attach to it.
+
+Do not use it for every hard war. The key is that exit becomes structurally harder because the war itself changes the board.
+
+## Related Lens Pages
+
+- [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/)
+- [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/)
+- [Game Theory](/lens/game-theory/)
+

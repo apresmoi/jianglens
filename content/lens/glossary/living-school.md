@@ -1,0 +1,48 @@
+---
+id: glossary:living-school
+title: Living School
+description: Jiang Lens glossary entry for living school, with dated source refs, episode links, aliases, and related lens pages.
+kind: glossary
+aliases:
+  - living school for psychohistory
+  - psychohistory school
+  - Plato's Academy
+  - Jiang school dream
+related_lens:
+  - living-school-for-psychohistory
+  - education-as-a-soul-game
+  - human-heart-as-civilizational-measure
+---
+
+# Living School
+
+**Aliases:** living school for psychohistory, psychohistory school, Plato's Academy, Jiang school dream.
+
+> **Fast answer:** Living school names Jiang's positive education dream: a school that trains people to read history, test models, ask better questions, and make futures together. It is "living" because prediction needs formed human beings, not only a closed model or machine.
+
+## What Jiang Means
+
+The living school begins from a classroom problem. Jiang says Great Books alone are not enough if students lack the historical world around them. Predictive History becomes the bridge: books, wars, institutions, religions, and futures are taught together so students can think historically rather than memorize fragments.
+
+The term also marks a boundary around psychohistory. A predictive model can become an elite control surface if the people using it are not trained in openness, compassion, argument, correction, and shared action. The school is the human institution needed around the method.
+
+## Where Jiang Says It
+
+| Source | Timestamp / ref | What to inspect | Why it matters |
+|---|---|---|---|
+| 2024-06-13, [The Future Is What You Make Happen](/episodes/predictive-history-s-k6eswheqa/) | `video:predictive-history-s-k6eswheqa@transcript:v1#seg-0001`, `#seg-0056` | Future as made; shared long dream | Earliest school pressure. |
+| 2025-06-13, [Predictive History Begins As A School](/episodes/predictive-history-voqeteh6hko/) | `video:predictive-history-voqeteh6hko@transcript:v1#seg-0003`, `#seg-0005` | Great Books need history; true history predicts | Curriculum origin. |
+| 2025-06-13, [Predictive History Begins As A School](/episodes/predictive-history-voqeteh6hko/) | `video:predictive-history-voqeteh6hko@transcript:v1#seg-0010`, `#seg-0011` | Plato's Academy and future intellectuals | Named institution dream. |
+
+## How To Use This Term
+
+Use this term when Jiang is talking about education as the institution around psychohistory: students, books, models, questions, and future-making.
+
+Do not use it for any school reform idea detached from Jiang's Great Books, history, and psychohistory sources.
+
+## Related Lens Pages
+
+- [Living School For Psychohistory](/lens/living-school-for-psychohistory/)
+- [Education As A Soul Game](/lens/education-as-a-soul-game/)
+- [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/)
+
