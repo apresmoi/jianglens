@@ -35,6 +35,7 @@ export const docsSidebar = [
       { label: 'Fictional Heroes And The Self', slug: 'lens/how-fictional-heroes-become-part-of-the-self' },
       { label: 'The Guide Who Becomes A Trap', slug: 'lens/the-guide-who-becomes-a-trap' },
       { label: 'Human Heart As Civilizational Measure', slug: 'lens/human-heart-as-civilizational-measure' },
+      { label: 'Love Recognizes The Other', slug: 'lens/love-recognizes-the-other' },
       { label: 'Sacred Machines', slug: 'lens/sacred-machines' },
     ],
   },
