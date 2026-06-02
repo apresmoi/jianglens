@@ -194,6 +194,8 @@ Caesar changes Rome's reality by making himself the protagonist of a new story. 
 
 David's apology uses the same machinery in scripture. [Political spin outlives the immediate political problem and becomes literature]{evidence="video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0034 video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0052"}. A story designed to protect a king becomes a sacred archive that later peoples use to understand themselves. The scandal is not that fiction is fake. The scandal is that fiction can become more durable than the exposed facts it was designed to manage.
 
+The child lens [Scripture, Identity, And Imperial Authorization](/lens/scripture-identity-and-imperial-authorization/) follows that textual route when [crisis writing, return, temple, law, purity, public reading, and imperial permission make identity portable enough to outlive the sponsor]{evidence="video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0030 video:predictive-history-3t0mevbd24i@transcript:v1#seg-0061 video:predictive-history-3t0mevbd24i@transcript:v1#seg-0094 video:predictive-history-3t0mevbd24i@transcript:v1#seg-0107"}.
+
 This is why the atlas should not separate "religion," "literature," and "politics" too cleanly. In Jiang's reading, power often becomes durable only after it finds the right story-form.
 
 <!-- lens-point id="legitimacy-fiction-becomes-real" concept="legitimacy-fiction" evidence="video:predictive-history-dc54iqur7ik@transcript:v1#seg-0014 video:predictive-history-f8qqgsefggc@transcript:v1#seg-0002 video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0034" -->
