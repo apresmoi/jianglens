@@ -35,39 +35,13 @@ A founder's fiction outlives the founder when death, inheritance, public guilt, 
 
 This is why Jiang can say political change is about changing myths. A law may be passed, an army may win, a rival may be killed, but the deeper question is whether the shared story has changed enough that people can feel the new order as legitimate.
 
-## Writing Makes Crisis Durable
+## Scripture Can Make Identity Inheritable
 
-David's apology shows the same mechanism in scripture.
+The biblical sources now have their own child lens: [Scripture, Identity, And Imperial Authorization](/lens/scripture-identity-and-imperial-authorization/).
 
-In the December 5, 2024 Bible lecture, Jiang begins from the cost of writing. Ancient writing is expensive; it requires materials, scribes, and royal sponsorship. That means writing often serves power. Jiang says it plainly: writing is sponsored by the king [in order to create legitimacy]{evidence="video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0030"}. The Bible first appears in this reading as an apology for David: a work that explains why the house of David is in charge.
+The parent only needs the gateway rule. Writing matters here when it makes a founding crisis transferable. In the December 5, 2024 David lecture, Jiang says royal writing is sponsored [in order to create legitimacy]{evidence="video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0030"}; in the November 18, 2025 "Dawn of the Jews" lecture, [imperial authorization turns return, temple, law, purity, and written memory into identity that can outlive the empire that sponsored it]{evidence="video:predictive-history-3t0mevbd24i@transcript:v1#seg-0061 video:predictive-history-3t0mevbd24i@transcript:v1#seg-0094 video:predictive-history-3t0mevbd24i@transcript:v1#seg-0107"}. The child page carries the full David, Cyrus, Ezra, Artaxerxes, return, temple, law, purity, and public-memory path.
 
-The scandal is not simply that rulers use literature. It is that literature can outlive the political problem that produced it. David's story works because it does not remove guilt by pretending nothing happened. It turns the scandal into a drama of fallibility, desire, repentance, prophetic rebuke, and divine judgment. Jiang's harsh reconstruction is that David may have killed Uriah for political reasons, then used the Bathsheba story to explain the killing as human weakness. Yet the disguise becomes powerful leadership literature: [a story that captures the imagination of readers]{evidence="video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0052"}.
-
-That is legitimacy fiction at its most dangerous. The immediate operation is apologetic; the durable result is scripture. A crisis-management story becomes sacred memory, and later people encounter the old political settlement as a text about God, kingship, sin, desire, and human nature.
-
-<!-- lens-point id="legitimacy-fiction-scripture-outlives-spin" concept="legitimacy-fiction" evidence="video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0030 video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0034 video:predictive-history-rkpgrrugjnk@transcript:v1#seg-0052" -->
-<span id="legitimacy-fiction-scripture-outlives-spin" class="lens-point-anchor"></span>
-Political spin becomes durable legitimacy when writing, priestly explanation, ritual use, and collective memory turn a crisis-management story into sacred or literary inheritance.
-
-Do not flatten this into propaganda studies. Jiang's point is stranger: a story may begin as manipulation and still become a deep human text because it preserves guilt inside legitimacy instead of remaining a disposable lie.
-
-## Sacred Text Can Edit Identity
-
-The November 18, 2025 "Dawn of the Jews" lecture adds an imperial identity layer to the scripture mechanism. David's apology shows writing turning royal crisis into durable sacred memory. The later Bible-as-imperial-script source asks what happens when empire sponsors return, temple, law, and purity so a population inherits a new identity through the text.
-
-Jiang's thesis is deliberately severe, and the public boundary has to stay precise. He is not treating Jews, Israelites, and Israelis as one timeless essence. He says [Israel and Jewish identity are constructs of imperial imagination]{evidence="video:predictive-history-3t0mevbd24i@transcript:v1#seg-0007"} because empires try to manipulate the identity of a strategically useful place. The Levant matters because it gives access to Egypt, so Persia needs a group there that depends on imperial permission. In Jiang's compressed explanation, the empire [sets up a group in the Levant that exists because the empire allows it to exist]{evidence="video:predictive-history-3t0mevbd24i@transcript:v1#seg-0031"}.
-
-The legitimacy fiction is return. Cyrus can be remembered as liberator and Messiah because he allows exiles to go back and finances the Second Temple, but the same act creates a managed conflict. The returning exiles say they are the true Israelites; the people who stayed become false Israelites, traitors, or unclean. Jiang says this conflict is [part of Persian divide-and-rule strategy]{evidence="video:predictive-history-3t0mevbd24i@transcript:v1#seg-0033 video:predictive-history-3t0mevbd24i@transcript:v1#seg-0038 video:predictive-history-3t0mevbd24i@transcript:v1#seg-0048"}. A sacred restoration becomes a political border.
-
-Ezra supplies the textual hinge. Jiang treats him as [the creator of the Bible we have today]{evidence="video:predictive-history-3t0mevbd24i@transcript:v1#seg-0056"}, then reads Artaxerxes' letter as the ancient pattern of imperial authorization: a king authorizes Ezra to go to Jerusalem and build the Second Temple. Jiang's modern comparison is the Balfour Declaration. The point is not only analogy. The Bible becomes [a script for geopolitical ambition]{evidence="video:predictive-history-3t0mevbd24i@transcript:v1#seg-0061"} because later empires can recognize and reuse the earlier authorization form.
-
-<!-- lens-point id="legitimacy-fiction-imperial-script-edits-identity" concept="legitimacy-fiction" evidence="video:predictive-history-3t0mevbd24i@transcript:v1#seg-0007 video:predictive-history-3t0mevbd24i@transcript:v1#seg-0031 video:predictive-history-3t0mevbd24i@transcript:v1#seg-0061 video:predictive-history-3t0mevbd24i@transcript:v1#seg-0094 video:predictive-history-3t0mevbd24i@transcript:v1#seg-0107" -->
-<span id="legitimacy-fiction-imperial-script-edits-identity" class="lens-point-anchor"></span>
-Sacred text becomes imperial legitimacy fiction when authorization, return, temple, law, purity, and written memory edit identity into an inheritable form that can stabilize one empire and later give the authorized people a script for leaving another.
-
-The last step is memory. Jiang says Jewish historical memory becomes the Bible: [who we are and what we remember are whatever is written there]{evidence="video:predictive-history-3t0mevbd24i@transcript:v1#seg-0094"}. That makes identity resilient, flexible, and portable. It also makes the fiction dangerous to its sponsor. A people whose memory was authorized for imperial management can learn the pattern. Jiang's closing claim is that the identity is [fluid, flexible, and open because it was created by an empire for maintaining empire]{evidence="video:predictive-history-3t0mevbd24i@transcript:v1#seg-0104"}, but that historical knowledge can later make [subordination to another empire intolerable]{evidence="video:predictive-history-3t0mevbd24i@transcript:v1#seg-0107"}.
-
-This stays within legitimacy fiction because the active mechanism is inheritance: an imperial letter, sacred return, temple authority, purity border, and written memory become political reality. [How Poetry Creates Civilization](/lens/how-poetry-creates-civilization/) explains scripture as memory medium when political authorization is secondary; [How Stories Control Reality](/lens/how-stories-control-reality/) explains text-world imagination; [Eschatology As Script](/lens/eschatology/) explains temple or theocracy material when end-times role assignment is primary.
+This keeps the parent boundary clean. Legitimacy fiction owns the inheritance question: how a political invention survives its crisis and becomes a world later people must inhabit. The child owns the textual route, where crisis writing and imperial permission make identity portable enough to be taught, fought over, and later reused against another empire.
 
 ## Useful Fiction Governs What Force Cannot
 
@@ -285,6 +259,7 @@ Ask when the fiction stops working. Legitimacy breaks when the story no longer m
 ## Related Concepts
 
 - [Power As Alchemy](/lens/power-as-alchemy/) - for the deeper conversion of abstractions into lived reality.
+- [Scripture, Identity, And Imperial Authorization](/lens/scripture-identity-and-imperial-authorization/) - for crisis writing, imperial permission, return, temple, law, purity, and public memory becoming inheritable identity.
 - [How Stories Control Reality](/lens/how-stories-control-reality/) - for the narrative machinery that makes a world feel inhabitable.
 - [Nation As God-Machine](/lens/nation-as-god-machine/) - for the sacred collective body produced by national legitimacy.
 - [Taboo As Control Surface](/lens/taboo-as-control-surface/) - for boundaries whose violation can transfer or destroy legitimacy.
