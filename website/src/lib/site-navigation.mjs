@@ -29,6 +29,7 @@ export const docsSidebar = [
       { label: 'Civilization As Inner Order', slug: 'lens/civilization-as-inner-order' },
       { label: 'How Poetry Creates Civilization', slug: 'lens/how-poetry-creates-civilization' },
       { label: 'How Stories Control Reality', slug: 'lens/how-stories-control-reality' },
+      { label: 'Imperial Poetry And Trojan-Horse Inversion', slug: 'lens/imperial-poetry-and-trojan-horse-inversion' },
       { label: 'Screen-World Governance And War Script', slug: 'lens/screen-world-governance-and-war-script' },
       { label: 'The Dead World And The Cave', slug: 'lens/the-dead-world-and-the-cave' },
       { label: 'Fictional Heroes And The Self', slug: 'lens/how-fictional-heroes-become-part-of-the-self' },
