@@ -9,7 +9,7 @@ Public surface affected later: `website/src/content/docs/lens/power-as-alchemy.m
 
 Do not create a new public **Power As Alchemy** child page today.
 
-The page is over the ordinary size warning line at about 6,500 words, with 18 distinct authored evidence sources and 17 durable lens points. That is real source-density pressure. The pressure, however, is uneven: the **Money: A Number That Commands Work** section carries about 4,200 words, 14 distinct sources, and 12 of the 17 lens points. The individual and nation-state sections remain compact. The page is not globally incoherent; the monetary branch has become the overloaded branch.
+The page is not over the hard split line, but it is carrying real source-density pressure: about 5,684 words, 18 distinct authored evidence sources, and 17 durable lens points. The pressure is uneven: the **Money: A Number That Commands Work** section carries about 3,576 words, 14 distinct sources, and 12 of the 17 lens points. The individual and nation-state sections remain compact. The page is not globally incoherent; the monetary branch has become the concentrated branch, and much of that branch now overlaps the already-existing Dollar Hegemony and Debt As Sovereignty surfaces.
 
 The first response should be parent compression and stricter routing to already-existing child-neighbor pages, not a new child. **Dollar Hegemony** already owns the dollar world game, reserve-currency institutions, demand creation after gold, petrodollar dependence, SWIFT/IMF/World Bank pipes, Treasury tribute, protection credibility, and dollar-addiction demand. **Debt As Sovereignty** already owns debt as policy command, reserve-asset hostage, household debt absorber, default pressure, and debt becoming rule. A new "Money Alchemy" child would mostly duplicate those two pages unless it kept a much narrower boundary.
 
@@ -33,19 +33,19 @@ Measured from the authored Markdown on clean `main` at `cc80cd8a`:
 
 | Page | Approx. words | Authored evidence sources | Lens points | Existing governance |
 | --- | ---: | ---: | ---: | --- |
-| Power As Alchemy | 6,505 | 18 | 17 | no recent source-density review |
+| Power As Alchemy | 5,684 | 18 | 17 | no recent source-density review |
 | Chokepoint Empire And No-Exit War | 6,300 | 18 | 11 | recent chronology compression and forecast-routing proposal |
 | Mass Society As Political Constraint | 6,038 | 19 | 14 | recent compression plus child-safety and domestic-control reviews |
 | Game Theory | 5,620 | 18 | 9 | recent second-split deferral after Proximity Games extraction |
 
-Power is therefore the cleanest next review target from the remaining source-density cue. It is the largest candidate, has the highest lens-point count in the checked set, and lacks a recent split/compression review. Chokepoint, Mass Society, and Game Theory already have current routing decisions that should be obeyed before being reopened.
+Power is therefore the cleanest next review target from the remaining source-density cue. It is a high-pressure candidate because it combines 18 authored sources, 17 lens points, a concentrated monetary branch, and no recent split/compression review. Chokepoint, Mass Society, and Game Theory already have current routing decisions that should be obeyed before being reopened.
 
 Within Power itself:
 
 | Section | Approx. words | Sources | Lens points | Judgment |
 | --- | ---: | ---: | ---: | --- |
 | The Method: Imagination Is The Battlefield | 226 | 1 | 0 | keep as parent spine |
-| Money: A Number That Commands Work | 4,197 | 14 | 12 | overloaded branch; compress and route |
+| Money: A Number That Commands Work | 3,576 | 14 | 12 | concentrated branch; compress and route |
 | The Individual: Isolation As Control | 602 | 2 | 2 | compact; keep |
 | The Nation-State: False Memory With Sacrificial Power | 632 | 2 | 2 | compact; keep |
 | Monotheism And Modern Abstraction | 231 | 3 | 0 | compact; keep |
@@ -113,7 +113,7 @@ The next public Power edit should be a Dante-reviewed compression and routing pa
 5. Do not add new monetary evidence unless it replaces weaker prose or clarifies a boundary.
 6. Leave individual and national-memory sections visible so the page still teaches the broader conversion mechanism.
 
-The target should be to bring the parent back under roughly 5,800 words without weakening source fan-in or deleting the alchemy spine. If compression cannot do that cleanly, reopen the child-boundary question with a redistribution plan that accounts for Dollar Hegemony and Debt As Sovereignty first.
+The target should be to keep the parent compact while reducing monetary repetition and clarifying the Dollar Hegemony / Debt As Sovereignty routing, without weakening source fan-in or deleting the alchemy spine. If the monetary branch cannot be compressed cleanly, reopen the child-boundary question with a redistribution plan that accounts for Dollar Hegemony and Debt As Sovereignty first.
 
 ## Conditions That Force Reopening
 
