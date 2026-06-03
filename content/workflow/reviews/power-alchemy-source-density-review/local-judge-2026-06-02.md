@@ -8,7 +8,7 @@ Target: `content/workflow/proposals/power-alchemy-source-density-review/proposal
 
 Result: PASS with residual risk.
 
-The proposal teaches a usable map decision rather than only reporting page size. It preserves Power As Alchemy as the parent mechanism for abstraction-becomes-reality and does not flatten Jiang's sharper claims about money, scarcity, debt, national memory, or expert privatization into generic financial commentary. The decision is also not mechanical: it recognizes that Power is the largest remaining page in the checked source-density set while refusing a redundant child because Dollar Hegemony and Debt As Sovereignty already occupy the narrower surfaces.
+The proposal teaches a usable map decision rather than only reporting page size. It preserves Power As Alchemy as the parent mechanism for abstraction-becomes-reality and does not flatten Jiang's sharper claims about money, scarcity, debt, national memory, or expert privatization into generic financial commentary. The decision is also not mechanical: it recognizes that Power has high source and anchor pressure in the monetary branch while refusing a redundant child because Dollar Hegemony and Debt As Sovereignty already occupy the narrower surfaces.
 
 The boundary table is useful for future agents. It separates symbolic conversion, dollar operating-system mechanics, debt-as-rule, material chokepoints, administrative digital control, attention capture, national-body machinery, and legal rightfulness. That should reduce the risk that future impact files append every stablecoin, Treasury, petrodollar, or frozen-asset moment back onto Power.
 
@@ -18,7 +18,7 @@ Residual risk: the proposal recommends compression without performing it. That i
 
 Result: PASS with residual risk.
 
-The proposal uses source-density and section-distribution measurements from the authored Markdown rather than generated backlink counts alone. It does not introduce new public claims or evidence marks, and it names stable lens-point IDs without moving them. Because the artifact is a workflow governance proposal, exact inline evidence marks are not required for every page-size or routing claim; those claims are grounded in the current file structure and existing public pages.
+The proposal uses source-density and section-distribution measurements from the authored Markdown rather than generated backlink counts alone. It does not introduce new public claims or evidence marks, and it names stable lens-point IDs without moving them. Because the artifact is a workflow governance proposal, exact inline evidence marks are not required for every routing claim; the corrected size claims are grounded in the current file structure and existing public pages.
 
 The proposal correctly avoids moving `power-alchemy-*` IDs today. Several anchors are close to Dollar Hegemony or Debt As Sovereignty, but their hover text currently names alchemical conversion. Moving them without a public redistribution pass could silently change existing episode-link meaning.
 
