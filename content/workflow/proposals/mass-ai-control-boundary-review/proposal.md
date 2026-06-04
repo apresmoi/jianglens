@@ -5,6 +5,8 @@ Status: concept-scoped routing proposal; public prose held
 Work type: synthesis after Mass Society domestic-grid, AI God boundary, March 24 ledger, and Hasan forecast-comparison records
 Public surface affected later: `website/src/content/docs/lens/mass-society-as-political-constraint.md`, `website/src/content/docs/lens/ai-as-control-surface.md`, `website/src/content/docs/lens/prediction-as-falsifiable-prophecy.md`, possible child pages only after split review
 
+Review: `content/workflow/reviews/mass-ai-control-boundary-review/local-judge-2026-06-04.md`
+
 ## Decision
 
 Do not append another ordinary AI-surveillance, federal-voter-list, database, or imagination-control section to **Mass Society As Political Constraint**, **AI As Control Surface**, or **Prediction As Falsifiable Prophecy** yet.
@@ -25,6 +27,29 @@ The useful next move is routing discipline. Treat the April-May database/control
 - **Platform Infrastructure** owns the public-face/deeper-pipe reversal when the visible AI product, app, or company distracts from data centers, cables, identity systems, payment rails, or state-subsidized technical infrastructure.
 
 This proposal is synthesis, not impact intake. The source impacts already exist for the main pressure points. The purpose is to prevent Prediction ledger work from smuggling in a vague "AI police state" mechanism and to prevent Mass Society or AI Control from becoming catchalls.
+
+## June 4 Update
+
+The June 4 intake and boundary work confirms this proposal rather than replacing it. The public pages are still below hard split pressure, but their neighborhood is tight enough that the next public move should be compression or replacement, not additive surveillance prose.
+
+Fresh local diagnostics on `main`:
+
+- **Mass Society As Political Constraint:** about 5,312 words, 19 distinct local evidence source slugs, and 14 stable lens-point anchors. It is close to the ordinary 6,000-word warning line and already carries digital permission, AI legitimacy, obedient-world, surveillance-bargain, embodied-data, domestic-war-control, reconstruction, techno-martial, and population-war anchors.
+- **AI As Control Surface:** about 2,198 words, 13 distinct local evidence source slugs, and 4 stable lens-point anchors. It is not size-pressured, but it is the shared interface home for answer, companion, body, sacred, and Wizard-of-Oz command surfaces.
+- **Attention Capture As Capital Extraction:** about 5,078 words and 15 distinct local evidence source slugs. It should not receive ordinary control-grid material unless the active mechanism is attention, dependency, reading displacement, loneliness, or consciousness capture.
+- **Power As Alchemy:** about 5,684 words and 18 distinct local evidence source slugs. It should not receive digital-currency material unless the active mechanism is debt, money, value conversion, stablecoin demand, or money-to-AI replacement.
+
+The **2025-12-09** Canadian Prepper source, recorded in `interview-lhssc-w0bk4` and the AI Eats Itself review, adds a data-quality route rather than a new public page. AI can exhaust internet data, train on its own output, become less relevant, and seek fresh real-world data through sensors, robotics, body chips, digital ID, and digital currency. The split remains: AI Control owns degradation and the answering/body interface; Mass Society owns the embodied data grid; Prediction owns the two-year quality claim only if a ledger pass defines the public measurement surface.
+
+The **2026-01-16** "China Without The Good Monorail" intake, `interview-dhlr7zydlj8`, adds China-as-preview pressure without creating a China page. Jiang joins Chinese compliance, Western censorship, DeepSeek/AI infrastructure, digital currency, digital ID, and behavior monitoring into a possible future administrative model. That should be held as **China As Administrative Preview** only until multiple dated sources prove the mechanism cannot be carried by existing parents. For now:
+
+- Mass Society owns China-as-preview when the active object is digital permission, compliance, censorship, monitoring, or population administration.
+- AI As Control Surface owns DeepSeek/OpenAI/AI infrastructure only when the active object is the answering or command interface.
+- Platform Infrastructure owns model/data-center/pipe economics when Jiang redirects from public AI products to deeper infrastructure.
+- Bureaucracy owns administrative self-protection, censorship routines, and official compliance if the passage is about institutional procedure rather than population-scale permission.
+- Secret Society owns hidden membership, initiation, Wall Street/CCP/elite-school interlock, or portable-wealth coordination, not the public China comparison by itself.
+
+Do not create **China As Administrative Preview**, **AI Eats Itself**, **Embodied Data Grid**, **AI Police State**, **DeepSeek Control Stack**, or **China Future** as public pages now. The existing parents can carry the source pressure if the next public mutation is governed by replacement and routing discipline.
 
 ## Source Pressure
 
@@ -75,7 +100,8 @@ Until then, use existing anchors:
 
 ## Next Useful Work
 
-1. If public lens work is needed, compress Mass Society before adding ordinary surveillance examples; then request Dante review.
-2. If ledger work resumes, keep the March 24 emergency chain and Hasan closing forecasts split from the surrounding AI-control apparatus.
-3. If provenance work is needed, link exact episode marks to the existing Mass Society and AI Control anchors rather than creating a new page.
-4. For historical intake, `interview-p5gg9xxbqze` is a candidate database-dissent source, but it should not preempt synthesis unless a later run chooses a database-control impact cluster explicitly.
+1. If public lens work is needed, do a Dante-reviewed Mass Society compression or replacement before adding ordinary surveillance examples. Preserve existing `mass-society-*` anchors and make the China-as-preview material a compact comparison only if it sharpens the digital-permission grid.
+2. If AI public work is needed, deepen or replace AI As Control Surface only around interface mechanics: data exhaustion as degraded answer, Wizard-of-Oz command, body interface, sacred voice, and democratic guardrail. Route the population grid back to Mass Society.
+3. If ledger work resumes, keep the March 24 emergency chain, the December 9 AI-quality claim, and Hasan closing forecasts split from the surrounding AI-control apparatus.
+4. If provenance work is needed, link exact episode marks to existing Mass Society and AI Control anchors rather than creating a new page.
+5. For historical intake, choose database-control or China-as-preview backfill only when it feeds this specific compression/replacement question; do not let the broad missing-impact count preempt needed control-grid synthesis by default.
