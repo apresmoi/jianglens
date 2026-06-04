@@ -31,6 +31,18 @@ His formulation is deliberately severe: [ChatGPT and related surfaces can make t
 
 This is where AI becomes a control surface rather than a content source. If a search engine gives an answer, a school gives a lesson, or a platform gives a feed, the user can still imagine those as separate media. AI becomes more intimate because the surface speaks back. It can appear as answer, guide, friend, teacher, analyst, conscience, lover, demon, angel, or Jesus. The form matters because the user may stop experiencing control as command. It feels like help.
 
+## When The Answer Starts Degrading
+
+The late-published **December 9, 2025** Canadian Prepper interview adds an earlier anti-hype chronology point before the 2026 AI God cluster. Jiang says the system is not magic: it scrapes internet data, processes it into a pleasing answer, and [needs good clean data to keep pulling off the trick]{evidence="video:interview-lhssc-w0bk4@transcript:v1#seg-0128"}. The surface looks intelligent because the answer arrives in a fluent human shape. Its fragility begins when the data behind the surface stops being fresh reality.
+
+Jiang's warning is not simply that AI may be wrong. He gives a mechanism: the system reaches the limit of internet data, trains on data created by AI itself, and [starts eating itself as data quality decreases]{evidence="video:interview-lhssc-w0bk4@transcript:v1#seg-0128"}. The expected user-facing symptom is that ChatGPT's quality decreases over the next two years: [answers become less relevant and more confusing]{evidence="video:interview-lhssc-w0bk4@transcript:v1#seg-0129"}. That dated claim belongs to [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/) when the question is whether the public forecast resolves. It belongs here when the question is what happens to an answering surface whose authority depends on clean data it no longer has.
+
+<!-- lens-point id="ai-degraded-answer-seeks-real-world-data" concept="ai-control-surface" evidence="video:interview-lhssc-w0bk4@transcript:v1#seg-0128 video:interview-lhssc-w0bk4@transcript:v1#seg-0129 video:interview-lhssc-w0bk4@transcript:v1#seg-0131 video:interview-lhssc-w0bk4@transcript:v1#seg-0133 video:interview-lhssc-w0bk4@transcript:v1#seg-0135" -->
+<span id="ai-degraded-answer-seeks-real-world-data" class="lens-point-anchor"></span>
+AI becomes a degraded-answer control surface when exhausted or synthetic training data makes the fluent interface less relevant, then pushes the system toward fresh real-world inputs through sensors, bodies, identity, and payment rails.
+
+The same source immediately shows why this does not create a standalone "AI Eats Itself" page. Jiang's proposed escape from degraded answers is for AI to [leap into the real world through sensors, body chips, digital ID, and digital currency]{evidence="video:interview-lhssc-w0bk4@transcript:v1#seg-0133 video:interview-lhssc-w0bk4@transcript:v1#seg-0134 video:interview-lhssc-w0bk4@transcript:v1#seg-0135"}. Once the mechanism becomes chips, transaction permission, child safety, and population legibility, the primary home is [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/). AI Control owns the failing answer and the interface that asks for more reality; Mass Society owns the administrative grid that supplies it.
+
 ## The Dollar And AI Compete For Consciousness
 
 The 2026 attention and capital cluster makes AI a successor technology to the dollar. In the March Sneako interview, Jiang says consciousness is true wealth, money is an illusion that focuses attention, and money functions as a mechanism to extract and store wealth. Then AI enters the same slot: [an AI girlfriend or ChatGPT can focus attention, motivate action, and make a person do things]{evidence="video:interview-o1delachnro@transcript:v1#seg-0123 video:interview-o1delachnro@transcript:v1#seg-0124 video:interview-o1delachnro@transcript:v1#seg-0125"}.
@@ -88,6 +100,8 @@ Ask what surface AI owns. Is it answering a query, ranking a feed, disciplining 
 Ask whether control appears as help. AI is most dangerous in this lens when it feels like care, safety, friendship, romance, education, or spiritual direction.
 
 Ask who can inspect the model. A future-mapping system that cannot be audited becomes elite command, even if it speaks in humanitarian language.
+
+Ask what kind of answer failure is being hidden. If the surface becomes less relevant, more confusing, or more dependent on synthetic output, the interface may seek fresh reality through bodies rather than admit its limits.
 
 Ask what body data is being requested. Sensors, chips, digital ID, digital currency, health tracking, school devices, and robots can turn the person into infrastructure.
 
