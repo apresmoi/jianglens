@@ -1,8 +1,8 @@
 # Strategy Material Test Split Review
 
 Date: 2026-05-27
-Updated: 2026-05-28
-Status: first split completed; second split decision recorded
+Updated: 2026-06-04
+Status: first and second public splits completed; parent remains under active size watch
 Work type: atlas governance / concept-boundary proposal
 Public surface: `website/src/content/docs/lens/when-war-becomes-a-story-instead-of-a-material-test.md`
 
@@ -17,6 +17,34 @@ The next public mutation should therefore be a compression/split pass, not more 
 - war stories must answer economics, organization, and logistics;
 - spectacle, dominance, money, and declared strategy become real only when they survive material audit;
 - neighboring lenses own narrative, nation, money, eschatology, or game incentives when those are the active mechanism.
+
+## 2026-06-04 Split Watch Update
+
+The first two public splits have now landed. `chokepoint-empire-and-no-exit-war.md` carries the Hormuz, Malacca, cheap-energy platform, no-exit, ceasefire-theater, war-momentum, and escalation-ladder cluster. `imperial-retrenchment-and-proxy-attrition.md` carries the resource-empire, replacement-muscle, vassal-spending, debt-war, overextension, and sanctioned-state-volatility cluster. The Strategy parent is no longer the 13.5k-word hard-split page described in the original review.
+
+Current local counts on 2026-06-04:
+
+- Strategy parent: about 5.95k words, 14 distinct local evidence source slugs, and 12 durable anchors.
+- Chokepoint child: about 5.3k words, 18 distinct local evidence source slugs, and 10 durable anchors.
+- Imperial Retrenchment child: about 3.6k words, 16 distinct local evidence source slugs, and 6 durable anchors.
+
+Decision: keep the current public Strategy parent folded for now. It is close to the soft split-review threshold, but the child extraction work has already reduced the page to a usable parent surface. Do not create a third Strategy child in reaction to the page-size warning alone.
+
+The next Strategy-family work should instead be a concept-scoped compression/routing pass:
+
+- Keep **Strategy** as the parent for the material audit: economics, organization, logistics, war form, spectacle versus execution, dominance versus control, hybrid-war attack surfaces, and the general diagnostic questions.
+- Keep **Chokepoint Empire And No-Exit War** as the home for the new May 5, 2026 Piers Morgan pressure from `interview-dbvdnl6hwog`: Hormuz as production-system collapse through helium, fertilizer, sulfuric acid, energy, manufacturing, Gulf desalination, and water rather than ordinary oil-price shock (`video:interview-dbvdnl6hwog@transcript:v1#seg-0001`, `video:interview-dbvdnl6hwog@transcript:v1#seg-0004`, `video:interview-dbvdnl6hwog@transcript:v1#seg-0005`, `video:interview-dbvdnl6hwog@transcript:v1#seg-0028`).
+- Keep **Prediction** in charge of the May 5 dated forecast families before ledger promotion: sustained Strait disruption / global depression risk, provocation-to-ground-invasion path, five-year climate-energy fork, and ten-to-twenty-percent energy-decline-to-GDP contraction (`video:interview-dbvdnl6hwog@transcript:v1#seg-0001`, `video:interview-dbvdnl6hwog@transcript:v1#seg-0015`, `video:interview-dbvdnl6hwog@transcript:v1#seg-0040`).
+- Hold **Energy Reversal As De-Industrialization** as a repeated seed across the March 11 Dore source and the May 5 Piers source, not a public child page yet. Promote only if a concept-scoped review proves that Chokepoint, Strategy, Prediction, Civilization, and Borderland cannot carry the mechanism.
+
+This synthesis is more urgent than another historical backfill because the last run just drained the newest missing high-pressure intake, recent Plato work is impact-heavy, and Cassandra's 2026-06-04 room signal named Strategy page size as the next public-lens pressure. The answer is not another append and not an immediate third split: it is to keep Strategy under watch while routing new Hormuz production-system evidence into the Chokepoint/Prediction comparison lane.
+
+The next public Strategy-family PR should be one of two bounded shapes:
+
+1. a Chokepoint compression/replacement section that integrates the May 5 production-system recurrence without pushing the child past a new split threshold; or
+2. a Prediction comparison proposal/page patch that teaches the Hormuz/depression forecast families before any ledger item is promoted.
+
+Do not append May 5 Piers material directly to the Strategy parent unless the edit replaces weaker prose and keeps the page below the soft threshold.
 
 ## 2026-05-28 Split Decision
 
