@@ -1,132 +1,113 @@
 # Eschatology Split Review
 
+Date: 2026-06-04
 Status: concept-scoped synthesis proposal; public prose held
-Date: 2026-05-31
-Public surface affected later: `website/src/content/docs/lens/eschatology.md` and possible child pages under `website/src/content/docs/lens/`
+Work type: page-size and concept-boundary review after AI-God, Pax Judaica, and Holy Empire pressure
+Public surface affected later: `website/src/content/docs/lens/eschatology.md`, `website/src/content/docs/lens/ai-as-control-surface.md`, `website/src/content/docs/lens/mass-society-as-political-constraint.md`, `website/src/content/docs/lens/attention-capture-as-capital-extraction.md`, and possible future child pages only after a second review
 
 ## Decision
 
-Treat [Eschatology As Script](/lens/eschatology/) as a split-review candidate before adding another ordinary end-times, AI, Iran-war, Pax Judaica, or heaven/hell section.
+Do not split **Eschatology** yet, and do not create standalone **Holy Empire Of AI**, **AI God**, **Pax Judaica**, **Al-Aqsa Sequence**, **Antichrist**, or **Gog And Magog** pages from the current pressure.
 
-The page is still under the ordinary word warning line at about 5,069 words, but Cassandra has flagged it as far over the distinct-source fan-in threshold. Its current section structure already behaves like a parent atlas node: general script coordination, prophecy-as-geopolitics, holy empire/AI obedience, messianic-return mission continuity, institution outside history, counter-war morale technology, chosen hell, salvation without contract, and cosmic inversion/fail-safe.
+The page is about 5,400 words and cites 17 distinct Jiang video sources. It is near the ordinary word warning line but still below the 20-source split threshold. More important, the current page has a coherent parent mechanism: end-times stories assign roles, sequence actions, transform catastrophe into meaning, and make present obedience, war, martyrdom, adaptation, or resistance feel like participation in the final order.
 
-Keep the public parent as Jiang's general mechanism: an end-times story assigns roles, sequence, enemy, destination, and meaning to present action. Do not append more examples unless the edit compresses the parent or routes one child-like mechanism toward a cleaner public boundary.
-
-## Why This Advances The Lens
-
-This is synthesis after repeated compact impact intakes and recent Stories governance work, not another historical backfill. The live corpus-impact audit still shows many missing historical records, but no newly merged high-pressure source appeared in the room. Cassandra's latest room signal says multiple public pages are over split-review pressure, and Eschatology is one of the clearest cases because several recent impact files already warn against appending ordinary AI, Pax Judaica, or Iran-war prose to it.
-
-The risk is not that the Eschatology page is weak. The risk is that it is becoming the default container for every sacred script, AI-god, Jerusalem, Antichrist, martyrdom, and afterlife mechanism. That would blur boundaries with Prediction, Chokepoint, Mass Society, Attention, Free Will, Secret Society, and Power As Alchemy.
-
-The right next step is not public extraction yet. The right next step is a routing decision that names which mechanisms stay on the parent, which are child candidates, and what source comparison is required before any visible split.
+The live risk is not that Eschatology lacks structure. The risk is that every new Pax Judaica, AI God, Antichrist, Al-Aqsa, temple, or war-prophecy source will be appended to the parent because the names are vivid. Treat this review as a guardrail: future public edits should compress or replace weaker passages before adding more evidence. Route AI interface pressure to AI As Control Surface, population administration to Mass Society, captured attention to Attention, money-to-AI value conversion to Power As Alchemy, and noncoercive agency to Free Will or Human Heart.
 
 ## Current Page Pressure
 
-Current governance signals:
+Current public page signals:
 
-- **Size:** about 5,069 words, below the word-count warning line but already large enough that more examples would make the page less entry-point resilient.
-- **Source fan-in:** Cassandra reported the page above the split-review threshold by distinct sources.
-- **Anchor count:** multiple durable lens points now name mechanisms that could be mistaken for standalone pages if the parent boundary is not explicit.
+- **Size:** about 5,400 words, close to the 6,000-word warning line.
+- **Source fan-in:** 17 distinct Jiang video sources, below but near the 20-source warning line.
+- **Durable anchors:** 13 lens points already cover the mature mechanisms: `eschatology-script-coordinates-action`, `eschatology-promise-becomes-plan`, `eschatology-ritual-script-demands-sequence`, `eschatology-messianic-victory-recoded-as-adaptation`, `prophecy-becomes-geopolitical-plan`, `eschatology-accelerates-collapse-with-capital`, `eschatology-holy-empire-removes-intention`, `eschatology-messianic-return-resumes-mission`, `eschatology-institution-outside-history`, `eschatology-counter-war-technology`, `hell-as-chosen-world`, `eschatology-inversion-war`, and `eschatology-cosmic-failsafe-resets-hell`.
+- **Chronology pressure:** February-to-May 2026 sources now connect Pax Judaica, AI surveillance, Antichrist role language, one-world government, AI God, and holy empire obedience, but the public page already carries the key holy-empire anchor.
 
-Current public anchors show the strain:
+The page can stay whole only if the next edit respects compression. A new source should not be added because it mentions AI, Israel, Jerusalem, Third Temple, Gog and Magog, prophecy, or Antichrist. It should be added only if it clarifies the role-script mechanism or supplies stronger dated evidence that can replace weaker prose.
 
-- `eschatology-script-coordinates-action` gives the parent mechanism.
-- `eschatology-promise-becomes-plan`, `eschatology-ritual-script-demands-sequence`, and `prophecy-becomes-geopolitical-plan` form the prophecy-to-plan/governance cluster.
-- `eschatology-accelerates-collapse-with-capital` ties sacred acceleration to capital timing.
-- `eschatology-holy-empire-removes-intention` gives the AI obedience / holy empire cluster.
-- `eschatology-messianic-return-resumes-mission` gives return-script mission continuity.
-- `eschatology-institution-outside-history` gives sacred institutional armor.
-- `eschatology-counter-war-technology` gives population-war morale reversal.
-- `hell-as-chosen-world`, `eschatology-inversion-war`, and `eschatology-cosmic-failsafe-resets-hell` carry inner-world and cosmic-fail-safe pressure.
+## Boundary Decision
 
-## Recommended Parent Boundary
+Keep Eschatology as one parent concept for now:
 
-Keep Eschatology As Script as the parent for **role assignment under an imagined ending**.
+> An eschatology turns history into a role-script: it names the end, assigns actors their parts, sequences the required shocks, and lets catastrophe feel like obedience to the final order rather than merely political failure.
 
-The parent should own cases where Jiang's active mechanism is:
+That boundary still holds across the current sections:
 
-1. a story of the end that gives history a destination;
-2. assigned roles such as Messiah, Antichrist, restrainer, martyr, remnant, chosen people, enemy, or savior;
-3. a sequence of acts, sites, dates, enemies, destructions, consecrations, or returns;
-4. catastrophe made meaningful as proof, purification, acceleration, test, or reset;
-5. salvation and hell made present as worlds people inhabit before death.
+1. **Script and role:** end-times stories answer origin, task, and destination, then assign actors as martyr, restrainer, Antichrist, chosen people, remnant, savior, or betrayer.
+2. **Promise becoming plan:** waiting for God becomes an operational program when believers try to accelerate temple, war, enemy, or messianic sequence.
+3. **Ritual sequence:** Al-Aqsa, red heifers, Third Temple, Gog and Magog, and Pax Judaica matter when the source treats order of acts as sacred choreography.
+4. **Holy empire and AI obedience:** AI belongs here only when technology is made into the machinery of sacred final order, where human intention becomes the defect to remove.
+5. **Counter-script:** Paul, Augustine, Dante, and Jiang's heaven/hell readings show that eschatology can also recode, neutralize, armor, or invert the final-battle story.
 
-The parent should stay capable of routing readers into neighboring pages, but should not become a general page for all religion, AI, war, prophecy, or geopolitical forecast material.
+These are still stages and variants of one mechanism. Splitting now would create child pages that immediately depend on the parent for role-script grammar.
 
-## Child Candidate 1: Eschatology As Stored Geopolitical Memory
+## Possible Future Splits
 
-Mechanism: long conflict, exile, return, failed messiahs, sacred geography, and imperial memory survive as portable story when ordinary policy analysis cannot. The story stores roles that later actors can re-enter.
+### Candidate 1: Holy Empire And Obedient AI
 
-Source pressure:
+Split only if public work needs a narrower hover for AI God, AI-as-Jesus surface, AI in the head, one-world government, sameness of thought, reason as obedience, and human intention as sin or error.
 
-- **2026-05-26**, `predictive-history-dja6dkcfnge`: the impact file names this directly as a held seed, with the Levant as compressed memory field, scripture carrying return across exile, failed messiahs generating Antichrist logic, and Middle East war becoming attractive when temple, Gog and Magog, Antichrist, Messiah, and Jesus-return roles are treated as operational sequence (`video:predictive-history-dja6dkcfnge@transcript:v1#seg-0009`, `video:predictive-history-dja6dkcfnge@transcript:v1#seg-0010`, `video:predictive-history-dja6dkcfnge@transcript:v1#seg-0013`, `video:predictive-history-dja6dkcfnge@transcript:v1#seg-0018`).
-- **2025-08-01**, `predictive-history-yq-xg1nibms`: the existing page already uses the lecture for eschatology as origin, purpose, destination, minority energy, and geopolitics (`video:predictive-history-yq-xg1nibms@transcript:v1#seg-0003`, `video:predictive-history-yq-xg1nibms@transcript:v1#seg-0008`, `video:predictive-history-yq-xg1nibms@transcript:v1#seg-0025`).
-- **2024-12-31**, `predictive-history-gdbzbvuivde`: Augustine's two cities show an institution surviving historical failure by relocating itself into sacred history (`video:predictive-history-gdbzbvuivde@transcript:v1#seg-0006`, `video:predictive-history-gdbzbvuivde@transcript:v1#seg-0045`).
+Candidate anchor:
 
-Boundary: Eschatology owns sacred memory when the active mechanism is role-script and return across historical time. How Stories Control Reality owns general narrative memory; Nation owns peoplehood and state body; Poetry owns memorized language as civilizational medium; Legitimacy Fiction owns public authorization to rule.
+- `eschatology-holy-empire-removes-intention`
 
-Decision now: do not publish this child yet. Use the next public Eschatology mutation to compress and strengthen a stored-memory subsection first. Split only if further sources make stored memory a reader-useful diagnostic that would be diluted inside the parent.
+Reason to wait: the existing **AI God Boundary Review** already decided that AI As Control Surface remains the public AI parent and Eschatology receives only sacred final-order passages. A public child now would likely duplicate that review and blur Mass Society, Attention, Power, Free Will, and AI As Control Surface.
 
-## Child Candidate 2: Holy Empire And AI Obedience
+### Candidate 2: Pax Judaica And Ritual Sequence
 
-Mechanism: a promised heaven on earth treats human intention, subjectivity, disagreement, and free will as the defect to be removed. AI, surveillance, reason, and total management become sacred repair rather than only administrative control.
+Split only if the Al-Aqsa, red-heifer, Third Temple, Greater Israel, Gog-and-Magog, and Pax Judaica material needs a separate reader route after forecast comparison and speculation caveats are settled.
 
-Source pressure:
+Candidate anchors:
 
-- **2026-03-09**, `interview-o1delachnro`: Jiang frames Pax Judaica and AI as an eschatological system where artificial intelligence creates one-world government, appears as Jesus, and builds a holy empire of reason by taking away human autonomy (`video:interview-o1delachnro@transcript:v1#seg-0103`, `video:interview-o1delachnro@transcript:v1#seg-0116`, `video:interview-o1delachnro@transcript:v1#seg-0119`).
-- **2026-05-19**, `predictive-history-rg1clzlrfoo`: the Holy Empire lecture recodes opposition to AI surveillance as Antichrist evil and imagines AI in the head turning persons into programmable obedient subjects (`video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0071`, `video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0072`, `video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0073`).
-- **2026-05-26**, `predictive-history-dja6dkcfnge`: the impact file warns that AI-god pressure straddles Attention Capture, Mass Society, Eschatology, and Power As Alchemy and should not be appended wholesale to one page (`video:predictive-history-dja6dkcfnge@transcript:v1#seg-0058`, `video:predictive-history-dja6dkcfnge@transcript:v1#seg-0062`).
-- **2026-02-15**, `interview-lma4p2gdxzm`: the impact file routes AI Antichrist and Pax Judaica language to Eschatology only when the active mechanism is role-script; Mass Society owns the same AI system when population administration is primary (`video:interview-lma4p2gdxzm@transcript:v1#seg-0065`, `video:interview-lma4p2gdxzm@transcript:v1#seg-0245`).
+- `eschatology-promise-becomes-plan`
+- `eschatology-ritual-script-demands-sequence`
+- `eschatology-accelerates-collapse-with-capital`
 
-Boundary: Eschatology owns AI when the machine becomes an end-times role, god, Antichrist, holy empire, or obedience-as-salvation device. Mass Society owns AI as population administration. Attention owns machine mediation and focus capture. Free Will owns the spiritual claim that love cannot save by eliminating choice. Power As Alchemy owns AI only when it succeeds money as a value-conversion apparatus.
+Reason to wait: the current material still works as the parent example of promise becoming plan. Prediction owns dated forecast status; Chokepoint owns Iran, Hormuz, Gulf, and material war access; Power owns dollar and financing mechanics. A Pax Judaica child would become a topic archive unless it is explicitly scoped to sacred sequence.
 
-Decision now: this is the strongest future child candidate, but not ready for public extraction until it is reviewed across Attention, Mass Society, Eschatology, and Power As Alchemy. A child page would clarify if it owns the sacred-obedience mechanism and leaves surveillance infrastructure, attention dependence, and money-to-AI alchemy on their pages.
+### Candidate 3: Imperial Religion Outside History
 
-## Child Candidate 3: Counter-War Eschatology
+Split only if Augustine, Paul, institutional salvation, obedience, Church authority, and adaptation-to-empire grow into a separate Christian-imperial governance mechanism.
 
-Mechanism: when war targets civilians through infrastructure, economy, ethnic tension, and despair, an end-times story can reverse the expected payoff. Suffering becomes proof, martyrdom, divine plan, purification, courage, or heaven rather than surrender pressure.
+Candidate anchors:
 
-Source pressure:
+- `eschatology-messianic-victory-recoded-as-adaptation`
+- `eschatology-institution-outside-history`
 
-- **2026-04-21**, `predictive-history-txgpfnxgzce`: the existing public anchor states that when war targets economy, infrastructure, and civilian morale, game theory leaves eschatology as the counter because suffering can become divine plan and martyrdom (`video:predictive-history-txgpfnxgzce@transcript:v1#seg-0051`, `video:predictive-history-txgpfnxgzce@transcript:v1#seg-0054`).
-- **2026-03-13**, `interview-px5wsnsqwme`: acceleration-with-capital material adds the darker cousin: collapse can be treated as providential acceleration while capital treats chaos as a buying window (`video:interview-px5wsnsqwme@transcript:v1#seg-0063`, `video:interview-px5wsnsqwme@transcript:v1#seg-0067`).
-- **2026-01-09**, `interview-acpe2tgkbje`: the Simon Dixon debate creates a Prediction comparison problem around Pax Judaica if Iran falls versus Iran as Eurasian pivot if it survives; the sacred role layer must not erase the material route-control board (`video:interview-acpe2tgkbje@transcript:v1#seg-0003`, `video:interview-acpe2tgkbje@transcript:v1#seg-0068`).
+Reason to wait: Religion As Administrative Filter, Legitimacy Fiction, Free Will, and Guide Trap already border this material. Eschatology should keep it only when the active move is end-state threat or salvation script governing present obedience.
 
-Boundary: Eschatology owns the morale-role inversion. Chokepoint owns Iran, Hormuz, routes, oil, ground-war exposure, infrastructure, and war exit. Prediction owns dated forecast comparison and miss/revision discipline. Power As Alchemy owns dollar, Treasury, and capital when monetary reality is primary.
+## Routing Rules For Future Work
 
-Decision now: keep this inside the parent as a strategic subsection unless further sources show a reusable child beyond the April nation-state lecture. The immediate need is not a new page; it is keeping Pax Judaica and Iran-war claims routed through Prediction/Chokepoint with speculation caveats.
+Use **Eschatology** when the active object is a sacred role, final order, Antichrist function, messianic age, promised catastrophe, temple sequence, sacred acceleration, holy empire, or salvation-through-obedience story.
 
-## What Not To Split Yet
+Use **AI As Control Surface** when the active object is the interface: answer engine, companion, tutor, lover, guardian angel, body sensor, prediction layer, or command surface through which AI reaches the person.
 
-Do not create a standalone **Pax Judaica** page. It is currently a forecast-comparison and role-script cluster, not a clean mechanism. Prediction owns the conditional claims and test windows; Chokepoint owns Iran, routes, Hormuz, and material exit; Eschatology owns Jerusalem, Al-Aqsa, Third Temple, Gog-and-Magog, Messiah, Antichrist, and script pressure.
+Use **Mass Society** when the active object is administrative machinery: digital ID, digital currency, data center, police prediction, microchip, work allocation, rationing, child safety, draft, or population permission grid.
 
-Do not create a standalone **Antichrist** page. Antichrist is a role inside several mechanisms: ritual sequence, AI holy empire, and hostile role assignment. Split only if later sources make the role itself a diagnostic that cannot be handled by Eschatology parent anchors.
+Use **Attention Capture** when the active object is consciousness, imagination, dependency, loneliness, focus, reading, companion addiction, or the dollar-AI contest for human attention.
 
-Do not create a standalone **Heaven And Hell** page yet. The inner-world material is strong, especially Dante and Secret History #9, but it routes cleanly through Eschatology with Free Will, Human Heart, Dead World, and Guide Trap neighbors. Splitting it now would risk duplicating Free Will's cosmic-burden page.
+Use **Power As Alchemy** when the active object is value conversion: money losing command, AI becoming the next abstraction, stablecoins, Treasury demand, petrodollar recycling, or belief becoming operating reality.
 
-Do not create a general **AI God** public page without first deciding whether its public home is Attention, Mass Society, Eschatology, Power As Alchemy, or a cross-page child. The current strongest boundary is sacred obedience, not generic AI.
+Use **Free Will** or **Human Heart** when the active object is agency, love, relation, refusal, imagination, community, or the claim that salvation cannot be achieved by eliminating choice.
 
 ## Proposed Next Public Mutation
 
-The next public Eschatology mutation, if no fresher source forces impact intake, should be a compression/deepening pass with Dante review:
+If Eschatology receives another public mutation, make it a **compression and replacement pass**, not an append:
 
-1. Keep the parent as role-script and ending mechanism.
-2. Add a compact stored-geopolitical-memory layer from `predictive-history-dja6dkcfnge` rather than a full new section.
-3. Add a short governance note near the Holy Empire section that says AI material routes to Eschatology only when the machine becomes sacred obedience, Antichrist role, or holy empire; otherwise route to Attention, Mass Society, Power, or Free Will.
-4. Preserve all existing lens-point IDs unless an anchor moves to a child page with the same meaning.
+1. Keep the existing URL and parent boundary.
+2. Preserve all stable lens-point IDs unless a future split moves them with the same meaning.
+3. Replace weaker or repetitive Pax Judaica / AI God prose with the strongest dated formulations from February 15, March 9, March 13, May 19, and May 26.
+4. Keep speculative named-actor claims attributed and caveated; the reusable mechanism is role-script conversion, not proof of a factional plot.
+5. Add no new Holy Empire, AI God, Pax Judaica, Al-Aqsa, Antichrist, or Gog-and-Magog public page without a fresh review showing a separate reader mechanism.
+6. Run Dante review for any public Eschatology prose or anchor changes, measuring source coverage, boundary clarity, chronology, page size, reader usefulness, and exact provenance.
 
-Measure the public mutation by source coverage, boundary clarity, date pressure, page-size compression, reader usefulness, and whether the page stays an entry point instead of becoming a feedstock pile.
+## Why This Advances The Lens Map
 
-## Downstream Source Accounting
+This is synthesis after repeated impact and boundary work. Recent Plato runs recorded high-pressure Iran-war and AI obedience impact, an AI God boundary review already exists, and Cassandra flagged large-page pressure. The useful move is not another historical intake and not a public append. The useful move is a boundary record that prevents Eschatology from becoming a generic archive for every apocalyptic, AI, or Middle East term.
 
-Before public extraction, compare these already-digested sources:
+The boundary is right because the existing Eschatology parent still teaches the reusable mechanism: sacred scripts make actors, actions, and catastrophes legible inside a final order. The Holy Empire / AI obedience cluster is real, but it is still one section of that mechanism unless a later public edit proves the reader needs a child page.
 
-- `predictive-history-dja6dkcfnge`: stored geopolitical memory and AI-god boundary pressure.
-- `predictive-history-rg1clzlrfoo`: Holy Empire of AI / Antichrist recoding.
-- `interview-o1delachnro`: Pax Judaica / one-world AI government / holy empire of reason.
-- `interview-lma4p2gdxzm`: AI Antichrist and Pax Judaica language, with Mass Society boundary.
-- `interview-acpe2tgkbje`: Pax Judaica versus Iran-survival conditional forecast comparison.
-- `predictive-history-txgpfnxgzce`: counter-war eschatology as morale technology.
-- `interview-px5wsnsqwme`: acceleration-with-capital and speculative Iran-war eschatology.
+## Next Useful Work
 
-This proposal intentionally does not choose another historical corpus-impact intake. Recent Plato work already recorded two compact Imperial Poetry intakes, and the current room signal is page-size governance. The selected work is synthesis: a concept-boundary record that prevents the next Eschatology edit from becoming another ordinary accretion.
+1. If public lens work is next, run a Dante-reviewed Eschatology compression pass that preserves anchors and tightens the February-to-May AI/Pax Judaica chronology.
+2. If workflow synthesis is next, compare Pax Judaica forecast claims against Prediction and Chokepoint before any ledger or child-page move.
+3. If impact intake becomes necessary, choose a source that directly blocks one of these named public decisions rather than another ordinary eschatology example.
