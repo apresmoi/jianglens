@@ -84,7 +84,7 @@ Promotion condition: do not promote Pax Judaica or Al-Aqsa claims inside a gener
 Compare the AI forecast only on its own measurement surface.
 
 - **2025-12-09**, `interview-lhssc-w0bk4`: Jiang predicts ChatGPT/public AI assistant quality will become less relevant and more confusing within a two-year frame because clean internet data is exhausted and AI starts eating AI-created data (`video:interview-lhssc-w0bk4@transcript:v1#seg-0128`, `video:interview-lhssc-w0bk4@transcript:v1#seg-0129`, `video:interview-lhssc-w0bk4@transcript:v1#seg-0131`).
-- The same source immediately moves to the escape route: sensors, robotics, body chips, digital ID, digital currency, child tracking, and matrix pressure pull real-world data into the system (`video:interview-lhssc-w0bk4@transcript:v1#seg-0133`, `video:interview-lhssc-w0bk4@transcript:v1#seg-0135`, `video:interview-lhssc-w0bk4@transcript:v1#seg-0137`, `video:interview-lhssc-w0bk4@transcript:v1#seg-0139`).
+- The same source immediately moves to the escape route: sensors, robotics, body chips, digital ID, digital currency, child tracking, and matrix pressure pull real-world data into the system (`video:interview-lhssc-w0bk4@transcript:v1#seg-0133`, `video:interview-lhssc-w0bk4@transcript:v1#seg-0134`, `video:interview-lhssc-w0bk4@transcript:v1#seg-0135`, `video:interview-lhssc-w0bk4@transcript:v1#seg-0137`, `video:interview-lhssc-w0bk4@transcript:v1#seg-0139`).
 
 Routing: Prediction owns the dated quality claim only when source date, two-year horizon, public object, relevance/confusion/usefulness symptoms, and later status are explicit. AI As Control Surface owns degraded answers and the answering interface. Mass Society owns embodied data grids and population legibility.
 
