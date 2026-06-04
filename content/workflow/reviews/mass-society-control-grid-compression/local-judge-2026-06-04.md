@@ -18,6 +18,8 @@ Residual risk: The page remains a dense parent around 5.28k words with many date
 
 Finding: Pass.
 
-The revised evidence marks still point to the exact December 9, 2025 refs carrying the embodied-data sequence: real-world leap, body chips with digital ID/currency, child-location safety, and forced microchipping/matrix language. The stable `mass-society-embodied-data-grid` anchor is preserved because episode read JSON already links to it.
+The revised evidence marks still point to the exact December 9, 2025 refs carrying the embodied-data sequence: real-world leap, sensors/robotics/interface, body chips with digital ID/currency, child-location safety, and forced microchipping/matrix language. The stable `mass-society-embodied-data-grid` anchor is preserved because episode read JSON already links to it.
+
+Dante repair applied: expanded the "leap into the real world through sensors, robotics, and human interfaces" evidence mark from only `seg-0133` to `seg-0133`, `seg-0134`, and `seg-0135`, because `seg-0134` carries sensors/robotics/interface language and `seg-0135` carries Jiang's assent plus body-chip continuation.
 
 Applied check: removed an internal `Platform Infrastructure` anchor link that pointed to an atlas section rather than a standalone concept page; the local boundary paragraph now uses only active neighboring public concept links needed for this passage.
