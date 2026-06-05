@@ -43,6 +43,18 @@ This is the reason not to promote a single "Jiang predicted collapse" item. In t
 
 The capital-center passage adds another boundary. Jiang says [China did not accept the full hegemonic burden and then projects Israel as another activity center]{evidence="video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0046 video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0047 video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0055"}. Prediction can compare the dated capital-migration claim, but it should not silently convert that movement into [Eschatology As Script](/lens/eschatology/) unless the active evidence is sacred sequence, Al-Aqsa, Third Temple, Pax Judaica, or messianic role. [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/) owns successor-center burden when the issue is who carries empire's reserve, base, and trade responsibilities.
 
+## Active Watch Is Not Confirmation
+
+The **2025-08-01** eschatological-convergence lecture gives Prediction a harder public case because it is vivid, long-horizon, and already adjacent to later war pressure. Jiang presents the world-war scenario as a framework for [how geopolitics might develop over the next 10 to 20 years]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0028"}. Inside that framework, the United States launches a ground invasion of Iran, fights for years, gives up, retreats back to the Western continent, and triggers civil war in America. The claim is more ledger-shaped than a general apocalypse label, but it is still not the same as "Iran war happened."
+
+The scoring problem is that early pieces can become real without fulfilling the branch. Hormuz pressure, air or maritime conflict, invasion planning, draft anxiety, and domestic emergency machinery may all matter. They still have different owners. [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/) owns the Hormuz and material-war board. [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/) owns retreat back to the Western continent. [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) owns draft and home-front permission machinery. Prediction owns the active-watch status: which leg has happened, which leg is only adjacent, which leg remains open, and what later Jiang sources revise.
+
+<!-- lens-point id="prediction-active-watch-is-not-confirmation" concept="prediction-as-falsifiable-prophecy" evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0025 video:predictive-history-yq-xg1nibms@transcript:v1#seg-0028 video:predictive-history-yq-xg1nibms@transcript:v1#seg-0031 video:predictive-history-yq-xg1nibms@transcript:v1#seg-0032" -->
+<span id="prediction-active-watch-is-not-confirmation" class="lens-point-anchor"></span>
+A long-horizon branch becomes active-watch material, not confirmation, when later events touch only some legs of the chain; Prediction has to keep the source date, horizon, exact sequence, partial signals, neighboring mechanisms, and revision path visible before ledger promotion.
+
+This rule also protects eschatology from becoming a scoreboard. The August 1 lecture says [eschatology drives geopolitics and would gain compelling proof if events happen that way]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0031"}. That conditional matters. If later events only produce a Hormuz crisis, a limited raid, or domestic unrest, the result may strengthen Chokepoint, Strategy, Mass Society, or Imperial Retrenchment without proving the whole sacred convergence scenario. Prediction should preserve the branch as live, partial, revised, missed, or still-open rather than turning one dramatic source into a catch-all confirmation.
+
 ## Quality Forecasts Need Measurement Surfaces
 
 The **2025-12-09** Canadian Prepper interview gives a smaller but useful test case. Jiang predicts that over the next couple of years [AI will become less effective because models have reached the limit of clean internet data and are starting to train on AI-created data]{evidence="video:interview-lhssc-w0bk4@transcript:v1#seg-0128"}. He then narrows the public object: [the big limits test is whether ChatGPT quality increases or decreases over the next two years]{evidence="video:interview-lhssc-w0bk4@transcript:v1#seg-0129"}. His expected symptom is not merely that people dislike AI. It is that answers become less relevant and more confusing as users keep talking with the system.
@@ -130,6 +142,7 @@ Ask:
 - What framework is being used, and which observations does it make newly visible?
 - What dated prediction follows from the framework?
 - Which forecast family does the claim belong to, and what are its source date, time horizon, conditions, neighboring mechanism, and later comparison trail?
+- Which legs of a long-horizon branch are confirmed, only adjacent, still open, revised, or missed?
 - What would count as a miss, and is the miss preserved rather than explained away?
 - Is the claim marked as speculative when the evidence is model-based rather than documentary?
 - Does "theater" identify a performer, payoff, sequence, and near-term test, or does it protect the claim from contradiction?
@@ -144,6 +157,9 @@ Ask:
 
 - **2025-07-11**, [Geo-Strategy Update #5: The Universal Law of Game Theory](/episodes/predictive-history-5i2vpypjj68/)  
   Jiang warns that once a game becomes visible, a new player can see the contours, manipulate events, and redirect the trajectory.
+
+- **2025-08-01**, [When Eschatologies Converge](/episodes/predictive-history-yq-xg1nibms/)
+  Jiang's long-horizon convergence scenario becomes an active-watch example: America absence, failed Iran invasion, retreat, civil war, sacred convergence, and later comparison signals must be scored as separate legs rather than one broad confirmation.
 
 - **2025-09-01**, [Trade Corridors Matter More Than Ideology](/interviews/interview-bfuwnjhayq8/)
   Jiang gives the plain public Predictive History method, then supplies several forecast families that must be compared separately before any ledger promotion: corridor/payment-rail conflict, U.S.-China compromise, and Taiwan non-invasion.
