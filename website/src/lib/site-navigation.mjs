@@ -45,6 +45,7 @@ export const docsSidebar = [
       { label: 'Attention Capture As Capital Extraction', slug: 'lens/attention-capture-as-capital-extraction' },
       { label: 'Bureaucracy As Institutional Death', slug: 'lens/bureaucracy-as-institutional-death' },
       { label: 'Education As A Soul Game', slug: 'lens/education-as-a-soul-game' },
+      { label: 'Meritocracy Converts Wounds Into Credentials', slug: 'lens/meritocracy-converts-wounds-into-credentials' },
       { label: 'Free Will As Cosmic Burden', slug: 'lens/free-will-as-cosmic-burden' },
       { label: 'Gerontocracy As Intergenerational Extraction', slug: 'lens/gerontocracy-as-intergenerational-extraction' },
       { label: 'Living School For Psychohistory', slug: 'lens/living-school-for-psychohistory' },

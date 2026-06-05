@@ -1,6 +1,6 @@
 ---
 title: Education As A Soul Game
-description: "Jiang Lens concept page on education as a soul game: stakeholder conflict, meritocratic selection, status trauma, and rival formation."
+description: "Jiang Lens concept page on education as a soul game: stakeholder conflict, school trust, authority formation, status traps, and rival formation."
 ---
 
 # Education As A Soul Game
@@ -53,21 +53,11 @@ The objection matters: is Jiang's class also brainwashing? His answer is procedu
 
 ## Meritocracy Turns Wounds Into Credentials
 
-Secret History #7 moves the school game upward into the elite sorting system. Meritocracy begins as a moral ideal: talent, ability, and hard work should decide success. [Jiang begins meritocracy with the polite ideal of talent, ability, and hard work]{evidence="video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0001"} Then Harvard and Yale become the case study. The most powerful schools are not neutral excellence machines. They choose proximity to power.
+Secret History #7 moves the school game upward into the elite sorting system. Meritocracy begins as a moral ideal: talent, ability, and hard work should decide success. [Jiang begins meritocracy with the polite ideal of talent, ability, and hard work]{evidence="video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0001"} Then Harvard and Yale become the case study: the most powerful schools are not neutral excellence machines but institutions able to define which wounds, signals, families, and ambitions count as future power.
 
-Jiang's admissions history is a genealogy of moral language as institutional discretion. Harvard once trains ministers because Protestant literacy is a divine imperative; wealth later hollows the religion into social clubs; the SAT brings bright outsiders back into Harvard's orbit; holistic character then lets the institution preserve alumni power and exclude groups it does not want. [Holistic character becomes a moral mask for institutional discretion and exclusion]{evidence="video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0004 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0008 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0009 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0010"}
+The parent mechanism is formation. Elite schools can make the child, parent, and high school play backward from a future admissions decision until love, attention, and self-worth become conditional on performance. Jiang's most painful example is autobiographical: [Yale admits the trauma-driven applicant because desperation and insecurity can become endless achievement]{evidence="video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0027 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0028 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0029"}. That mechanism now has its own narrower child page, [Meritocracy Converts Wounds Into Credentials](/lens/meritocracy-converts-wounds-into-credentials/), which carries the preserved `meritocracy-converts-trauma` lens point.
 
-The key operating powers are secrecy and discretion. The school never has to tell an applicant why he was admitted or rejected. It can define "best" not as smartest, but as most likely to succeed in a public, power-building way. [Harvard's best applicant means most likely to succeed, not necessarily the smartest student]{evidence="video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0011 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0012"} The school is selecting not only ability but future brand upside.
-
-Jiang's most painful claim is autobiographical. Yale reads his background as desperation, insecurity, hunger, and transgression. It wants the applicant with a void in the heart because achievement can fill the void without satisfying it. [Yale admits the trauma-driven applicant because desperation and insecurity can become endless achievement]{evidence="video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0027 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0028 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0029"} Meritocracy does not merely discover talent. It discovers wounds that can be made productive.
-
-<!-- lens-point id="meritocracy-converts-trauma" concept="education-soul-game" evidence="video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0027 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0030 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0037" -->
-<span id="meritocracy-converts-trauma" class="lens-point-anchor"></span>
-Meritocracy converts trauma when elite schools seek wounded, hungry, transgressive applicants, then spread the same selection pressure backward into high school and parenting until love is conditional on performance.
-
-That selection pressure moves backward. Yale becomes the Hunger Games. High school becomes Yale preparation. Parenting becomes high-school preparation. Unconditional love is replaced by a conditional ice cream economy: perform first, then receive attention. [Meritocratic parenting neglects the child while demanding the child]{evidence="video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0030 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0036 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0037"} The soul game has now entered the home.
-
-The ambivalence is essential. When a student asks whether Jiang would choose Yale again, he says probably, because poor people who want to move ahead have few paths around elite schools. But he would not send his own children into that competitive, traumatic environment. [Jiang would likely repeat Yale for himself because the system leaves poor strivers few alternatives, but not for his children]{evidence="video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0039 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0040 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0041"} This is not a clean outside critique. It is the voice of someone who escaped through the machine and still knows what the machine damaged.
+The ambivalence remains on the parent because it is part of the education game itself. When a student asks whether Jiang would choose Yale again, he says probably, because poor people who want to move ahead have few paths around elite schools. But he would not send his own children into that competitive, traumatic environment. [Jiang would likely repeat Yale for himself because the system leaves poor strivers few alternatives, but not for his children]{evidence="video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0039 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0040 video:predictive-history-ju-8fjjtgxa@transcript:v1#seg-0041"} This is not a clean outside critique. It is the voice of someone who escaped through the machine and still knows what the machine damaged.
 
 ## School Success Is Not Command
 
@@ -187,7 +177,7 @@ The ending matters because it prevents the education lens from becoming only ins
 - **Trust Test**: Who is the student being trained to trust when parent, teacher, peer group, state, and credential conflict?
 - **Separation Test**: What attachment had to be weakened so the school could become authoritative?
 - **Soul Output**: What kind of person does the school make rational: curious, obedient, anxious, transgressive, hollow, loving, imaginative, or useful?
-- **Meritocracy Test**: Is the system measuring ability, or selecting wounds that can be converted into ambition?
+- **Meritocracy Test**: Is the system measuring ability, or selecting wounds that can be converted into credentials and ambition?
 - **Status Test**: Does the education produce command in the wider social game, or only legibility, employment, and obedience inside someone else's rules?
 - **Coercion Test**: Can the student challenge, refuse, leave, fail, or ask whether the teacher is lying without penalty?
 - **Test-Trust Test**: Is the exam measuring learning, or has it become the only trusted substitute for institutions that families expect to be captured?
@@ -218,6 +208,7 @@ The ending matters because it prevents the education lens from becoming only ins
 ## Related Concepts
 
 - [Game Theory](/lens/game-theory/) - for the player and incentive method that explains why bad school games stabilize.
+- [Meritocracy Converts Wounds Into Credentials](/lens/meritocracy-converts-wounds-into-credentials/) - for the child mechanism where elite selection turns insecurity, hunger, conditional love, and test-winning fragility into credentials.
 - [The Borderland Engine](/lens/the-borderland-engine/) - for the Viking energy, openness, and resilience pattern behind the "Viking school" counterexample.
 - [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) - for school as an attention system that can turn focus and imagination into usable power.
 - [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/) - for the metaphysical frame in which school materialism becomes part of a false reality.
