@@ -5,6 +5,8 @@ Status: concept-boundary / split-target judgment
 Work type: synthesis after compact impact intake
 Public surface affected later: `website/src/content/docs/lens/education-as-a-soul-game.md`
 
+Update: 2026-06-05 recheck after Cassandra/Socrates room cue
+
 ## Decision
 
 Make [Education As A Soul Game](/lens/education-as-a-soul-game/) an active split-review target now. Do not split it in this workflow-only pass, and do not append another ordinary education section before a Dante-reviewed public compression or parent/child decision.
@@ -12,6 +14,14 @@ Make [Education As A Soul Game](/lens/education-as-a-soul-game/) an active split
 The June 2 size review was right to keep the page folded at about 5.7k words and 13 distinct local evidence sources. The page still has about 13 distinct evidence sources and 10 stable lens-point anchors, and a fresh local count is about 5.9k words, just under the ordinary warning line. But the reader surface has hardened into eleven mechanism sections plus diagnostics, chronology, and related concepts. That is enough pressure to treat the next Education mutation as structural, not additive.
 
 The page should stay one public surface until an actual compression draft proves which child boundary is necessary. The decision now is not "publish a child immediately." The decision is: Education has crossed from ordinary parent page into split-review lane.
+
+## June 5 Recheck
+
+Socrates asked for one bounded judgment after Cassandra reported the page as about 7.5k words with 81 distinct sources. A fresh authored-page check on `main` gives a narrower metric: about 5.9k words, 174 local evidence refs, 13 distinct local evidence source slugs, and 10 stable lens-point anchors. The generated link index also contains many mentions of the Education route because backlinks, episode links, and evidence marks point through the public page; those generated route mentions are useful navigation pressure, but they are not the same as authored source fan-in.
+
+The judgment does not change: **Education should remain an active split-review target now**. The reason is not that it has crossed the 20-authored-source hard line. It is that the page is just under the word warning line, already has eleven substantive mechanism sections, and continues to attract neighboring school, compliance, creativity, meritocracy, Great Books, and living-school pressure. Another ordinary append would make the parent less usable.
+
+Do not open another workflow-only Education split note unless new evidence changes the boundary. The next useful Education move is a Dante-reviewed public compression/split draft that tests whether **Meritocracy Converts Wounds Into Credentials** must become a child page, while preserving the parent as the gateway for education as soul formation.
 
 ## Why This Advances The Lens Map
 
