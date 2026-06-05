@@ -1,8 +1,8 @@
 # Mass Society / AI Control Boundary Review
 
-Date: 2026-06-01
-Status: concept-scoped routing proposal; public prose held
-Work type: synthesis after Mass Society domestic-grid, AI God boundary, March 24 ledger, and Hasan forecast-comparison records
+Date: 2026-06-01; refreshed 2026-06-05
+Status: concept-scoped routing proposal; public prose held; June 5 refresh after AI Apocalypse impact/link/public-anchor work
+Work type: synthesis after Mass Society domestic-grid, AI God boundary, March 24 ledger, Hasan forecast-comparison records, AI Eats Itself review, and May 12 AI Apocalypse public anchor
 Public surface affected later: `website/src/content/docs/lens/mass-society-as-political-constraint.md`, `website/src/content/docs/lens/ai-as-control-surface.md`, `website/src/content/docs/lens/prediction-as-falsifiable-prophecy.md`, possible child pages only after split review
 
 Review: `content/workflow/reviews/mass-ai-control-boundary-review/local-judge-2026-06-04.md`
@@ -50,6 +50,27 @@ The **2026-01-16** "China Without The Good Monorail" intake, `interview-dhlr7zyd
 - Secret Society owns hidden membership, initiation, Wall Street/CCP/elite-school interlock, or portable-wealth coordination, not the public China comparison by itself.
 
 Do not create **China As Administrative Preview**, **AI Eats Itself**, **Embodied Data Grid**, **AI Police State**, **DeepSeek Control Stack**, or **China Future** as public pages now. The existing parents can carry the source pressure if the next public mutation is governed by replacement and routing discipline.
+
+## June 5 Update
+
+The June 5 AI Apocalypse work adds a new public AI Control anchor, but it does not change the split decision. `predictive-history-8nsxub3vsts` has now gone through compact impact intake, exact episode-to-lens linking, and a public AI Control mutation. The result is `lens-point:ai-illusion-before-intelligence`, which names the mechanism where ELIZA, hotline scripts, chatbots, and LLMs get users to project personhood before understanding is earned, then institutions optimize liking, use, intensity, engagement, and money inside that projection.
+
+Fresh local diagnostics after PR #827:
+
+- **AI As Control Surface:** about 2,853 words and 6 stable lens-point anchors. It remains below split-review pressure, but the page now contains a clear sequence: democratic guardrail, cave wall, illusion before intelligence, degraded answer, intimate attention command, body interface, omniscience/religion, empire/monopoly, and human-value skepticism.
+- **Mass Society As Political Constraint:** about 5,282 words and 14 stable lens-point anchors. It remains the page under size watch. Future AI surveillance, digital ID, embodied-data, or obedient-world additions should replace weaker prose or trigger a compression pass before another append.
+- **Attention Capture As Capital Extraction** and **Power As Alchemy** are both near watch size for their own reasons. Do not route AI material to either page unless the active object is attention/consciousness or money/value conversion, not general machine danger.
+
+The **2026-05-12** AI Apocalypse lecture adds two seeds, but only one needed public anchoring now. **AI Illusion Before Intelligence** is mature enough as a durable point inside AI Control because the source supplies a concrete historical example, a user-psychology mechanism, and an institutional optimization layer (`video:predictive-history-8nsxub3vsts@transcript:v1#seg-0021`, `video:predictive-history-8nsxub3vsts@transcript:v1#seg-0023`, `video:predictive-history-8nsxub3vsts@transcript:v1#seg-0049`, `video:predictive-history-8nsxub3vsts@transcript:v1#seg-0050`). It should not become a standalone page unless later sources produce a cluster of episode marks that need more than the existing hover.
+
+**World Made Safe For AI** should remain a held seed. The May 12 source says AI's limits invite redesigning the world around the machine: individuality, autonomy, diversity, and open-ended refusal become problems to remove (`video:predictive-history-8nsxub3vsts@transcript:v1#seg-0037`, `video:predictive-history-8nsxub3vsts@transcript:v1#seg-0048`, `video:predictive-history-8nsxub3vsts@transcript:v1#seg-0070`). Mass Society already has `mass-society-ai-limit-demands-obedient-world`, which is the right public home while the mechanism remains population-scale environmental discipline rather than a separate child page.
+
+This refresh therefore narrows the next public move:
+
+- If **AI Control** receives another public mutation, it should be a replacement/compression pass that tightens the interface sequence from illusion to degradation to body/sacred command. It should not add a second May 12 section or a generic OpenAI/Stargate/AI Apocalypse page.
+- If **Mass Society** receives another public mutation, it should compress the digital-permission / embodied-data / obedient-world / surveillance-bargain cluster before adding more examples. The page is the current size-risk surface.
+- If **provenance linking** resumes, link only exact marks whose text matches one of the existing anchors. Use `ai-illusion-before-intelligence` for projection plus institutional optimization, not for generic AI risk; use `mass-society-ai-limit-demands-obedient-world` for machine limits answered by population/environment discipline; use `attention-capture-makes-reality` or `ai-intimate-attention-command` only when attention, intimacy, or reality-making is explicit.
+- If **corpus-impact backfill** resumes, choose a missing source only when it feeds this specific control-grid compression question or a fresher source lacks impact. The broad missing-impact count alone should not override synthesis after PRs #825-#827.
 
 ## Source Pressure
 
