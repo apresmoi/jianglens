@@ -27,6 +27,18 @@ The **2025-05-20** Russia lecture gives the negative version through Anna Kareni
 
 This belongs here rather than only on [Free Will As Cosmic Burden](/lens/free-will-as-cosmic-burden/) because the active question is what love itself does inside relation. Free will owns the agency limit: even love cannot force redemption. Love Recognizes The Other owns why coercion, possession, and management destroy love's object.
 
+## Treachery Blinds Love
+
+The **2026-04-29** Dante lecture gives the concept its most brutal negative test. Jiang reads Count Ugolino as a soul trained by betrayal until relation itself has been damaged. Treachery is worse than ordinary harm because chosen bonds depend on trust; betray a guest, friend, or ally and [the other person's capacity to trust and love is wounded]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0018 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0017"}.
+
+Ugolino then becomes perception broken by that world. He betrays and is betrayed, redirects guilt outward, and remains frozen in a loop of biting the archbishop instead of facing his own responsibility. The terrible scene with his children makes the mechanism visible: Jiang reads the sons' offer as a final act of love, but [Ugolino cannot recognize the act of love because betrayal has taught him to see only betrayal]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0027"}. Love appears as food.
+
+<!-- lens-point id="heart-treachery-blinds-love" concept="human-heart" evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0018 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0028 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0029" -->
+<span id="heart-treachery-blinds-love" class="lens-point-anchor"></span>
+Treachery blinds love when betrayal becomes a way of seeing: the soul no longer merely harms another person, but loses the ability to recognize a concrete act of love when it is offered.
+
+This does not create a standalone treachery page. [Free Will As Cosmic Burden](/lens/free-will-as-cosmic-burden/) owns the wider self-made hell: blocked love and blocked self-forgiveness make the soul build its own prison. This page owns the relational damage inside that hell. The question is whether a person can still see the beloved, the child, the enemy, or the offered mercy as real.
+
 ## Relation As Divine Light
 
 The **2025-01-07** Dante lecture makes love relational rather than abstract. Beatrice is not a sentimental reward in paradise. She and Dante ask how the moon works, and when Dante doubts her answer, [she tells him to do an experiment]{evidence="video:predictive-history-gfqji0qevok@transcript:v1#seg-0031 video:predictive-history-gfqji0qevok@transcript:v1#seg-0032"}. Love does not abolish intellect. It makes shared inquiry possible because the beloved is not a ruler demanding obedience.
@@ -62,6 +74,7 @@ Use this lens when a relation claims love, duty, mercy, family, theology, missio
 - **Recognition Test:** Does the relation make a concrete person more visible, alive, free, and capable of growth?
 - **Secret-Sign Test:** Is there a shared life dense enough to recognize the other without reducing the relation to public information?
 - **Possession Test:** Has the beloved become property, proof, credential, status display, void-filler, or object?
+- **Treachery Test:** Has betrayal become a perceptual habit, so that even love offered concretely looks like threat, leverage, food, or another betrayal?
 - **Inquiry Test:** Does love permit experiment, doubt, and shared learning, or demand obedience?
 - **Enemy Test:** Does grief make the enemy human enough to interrupt revenge?
 - **Mission Test:** Is a person being sacrificed to destiny, empire, piety, or institutional purpose while love's name remains on the act?
@@ -77,6 +90,7 @@ Use this lens when a relation claims love, duty, mercy, family, theology, missio
 - **2026-03-11**, [Odysseus Comes Home Through Secret Signs](/episodes/predictive-history-as-nfpspmu8/): Odysseus and Penelope's signs make recognition concrete, private, and falsifiable.
 - **2026-03-18**, [The Poem That Poisoned Homer](/episodes/predictive-history-ebwtrvjz1dw/): Virgil's anti-Homer inversion makes enemy-recognition and mercy look weak.
 - **2026-03-25**, [The Aeneid Trains The Imperial Robot](/episodes/predictive-history-yxtrlvfirt8/): the Aeneid tests love against mission, Dido, Pallas, Turnus, vengeance, and imperial destiny.
+- **2026-04-29**, [Hell Is the Imagination Turned Against Itself](/episodes/predictive-history-wgpdmya2bme/): Ugolino shows treachery as perceptual damage; the betrayed and betraying soul cannot recognize a child's final act of love.
 
 ## Related Concepts
 
