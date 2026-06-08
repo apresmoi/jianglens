@@ -57,6 +57,7 @@ async function runYtDlp(commandPrefix, videoId, { cookiesFile = null } = {}) {
     ...prefixArgs,
     "--dump-json",
     "--skip-download",
+    "--ignore-no-formats-error",
     "--no-warnings",
   ];
   if (cookiesFile) {
