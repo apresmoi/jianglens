@@ -69,12 +69,9 @@ not be published directly:
 repos/jianglens-private
 ```
 
-This checkout is hydrated by the host-side runtime sync script after the
-Spawnfile container starts:
-
-```bash
-agentic-org/ops/sync-private-corpus-to-workspaces.sh
-```
+This checkout is a readonly Spawnfile git resource backed by
+`apresmoi/jianglens-private`. The shared `GH_TOKEN` must have read access to
+that private repository before the agent container starts.
 
 From inside `repos/jiang-lens`, use:
 
