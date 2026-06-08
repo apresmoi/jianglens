@@ -1,0 +1,2801 @@
+{
+  "id": "evidence:semanticvideo-predictive-history-kfh4aujwqti:v1",
+  "kind": "video-semantic-pass",
+  "source_slug": "predictive-history-kfh4aujwqti",
+  "source_id": "video:predictive-history-kfh4aujwqti",
+  "source_title": "Predictive History Founding Members #1",
+  "source_url": "https://www.youtube.com/watch?v=kFH4AujWqtI",
+  "source_date": "2026-06-07",
+  "date_precision": "day",
+  "transcript_id": "video:predictive-history-kfh4aujwqti@transcript:v1",
+  "generated_from": {
+    "semantic_passes": [
+      "content/workflow/proposals/predictive-history-kfh4aujwqti/packet-0001.semantic.json",
+      "content/workflow/proposals/predictive-history-kfh4aujwqti/packet-0002.semantic.json",
+      "content/workflow/proposals/predictive-history-kfh4aujwqti/packet-0003.semantic.json",
+      "content/workflow/proposals/predictive-history-kfh4aujwqti/packet-0004.semantic.json",
+      "content/workflow/proposals/predictive-history-kfh4aujwqti/packet-0005.semantic.json",
+      "content/workflow/proposals/predictive-history-kfh4aujwqti/packet-0006.semantic.json",
+      "content/workflow/proposals/predictive-history-kfh4aujwqti/packet-0007.semantic.json",
+      "content/workflow/proposals/predictive-history-kfh4aujwqti/packet-0008.semantic.json",
+      "content/workflow/proposals/predictive-history-kfh4aujwqti/packet-0009.semantic.json",
+      "content/workflow/proposals/predictive-history-kfh4aujwqti/packet-0010.semantic.json",
+      "content/workflow/proposals/predictive-history-kfh4aujwqti/packet-0011.semantic.json",
+      "content/workflow/proposals/predictive-history-kfh4aujwqti/packet-0012.semantic.json"
+    ],
+    "source_path": "content/sources/videos/predictive-history-kfh4aujwqti/source.yaml",
+    "transcript_path": "content/sources/videos/predictive-history-kfh4aujwqti/transcripts/v1/transcript.clean.jsonl"
+  },
+  "counts": {
+    "semantic_passes": 12,
+    "interactions": 39,
+    "speaker_notes": 15,
+    "claims": 89,
+    "signature_moments": 35,
+    "predictions": 18,
+    "models": 22,
+    "glossary_terms": 26,
+    "chronology_notes": 12,
+    "uncertainty_notes": 24
+  },
+  "first_refs": [
+    "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0001",
+    "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0002",
+    "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0003",
+    "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0004",
+    "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0006",
+    "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007",
+    "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008",
+    "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0009"
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0001",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0002",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the livestream as a demonstration of how he researches and interprets news, then insists he is an independent analyst rather than a state actor or team-backed operator.",
+      "speaker_attribution": "Jiang livestream monologue with diarization noise.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0004",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0005",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0006",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He uses the Ivanka Trump Albania resort controversy to model his method: infer strategic intent, then ask who is organizing and funding protests before mapping the ideological and institutional actors involved.",
+      "speaker_attribution": "Jiang livestream monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0009",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang treats Pentagon concern about Israeli spying as a signal tied to Section 224: the real issue is not espionage in the abstract but a deeper military fusion that could lock the United States into Israel's wars.",
+      "speaker_attribution": "Jiang livestream monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0011",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0012",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0013",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0014",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0015"
+      ],
+      "kind": "monologue",
+      "summary": "He walks through AIPAC's defense of Section 224 and argues each reassurance is spin: the bill obscures rather than prevents integration, influence, data exposure, and congressional loss of visibility.",
+      "speaker_attribution": "Jiang livestream monologue quoting and rebutting AIPAC talking points.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0015",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "The packet pivots from the Israel section into AI politics: Bernie Sanders' concern about AGI risk and resource cost is contrasted with Jiang's suspicion that public ownership rhetoric is really a bailout path for unprofitable AI firms.",
+      "speaker_attribution": "Jiang livestream monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0017"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang escalates his AI warning into a prediction that the state will eventually take over expensive data centers and convert them into protected military infrastructure.",
+      "speaker_attribution": "Jiang livestream monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0018",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0019",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0020",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0021"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He walks through Candace Owens material about Russia, sanctions, and Christian bridge-building, then interprets the trip as a public signal of deeper Russia-America religious rapprochement.",
+      "speaker_attribution": "Jiang quoting and paraphrasing Candace Owens material with noisy ASR in the quoted clip.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0022",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0023",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Answering a chat question about Candace Owens's agenda, Jiang argues that her courage and Russia trip make sense if she is backed by a Catholic faction seeking reconciliation with Orthodoxy against Western secular liberalism.",
+      "speaker_attribution": "Jiang answering a viewer question.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0025",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0026",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0027"
+      ],
+      "kind": "answer",
+      "summary": "Continuing the Candace Owens discussion, Jiang says her significance lies in her role-model status for young religious families, then pivots back to AI by arguing firms offload their costs onto retail investors and government.",
+      "speaker_attribution": "Jiang answering chat prompts with a diarization split mid-answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0028",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0029",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0030",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031"
+      ],
+      "kind": "answer",
+      "summary": "Asked how he selects interesting news, Jiang explains that he looks for dissonance between events and his existing world model: spotlight-seeking by private figures, Bernie Sanders discussing AI with Sam Altman, or Pentagon leaks against Israel.",
+      "speaker_attribution": "Jiang answering viewer questions; one short segment is mislabeled as another speaker but remains part of his answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "After a viewer suggests having someone monitor chat, Jiang agrees, admits livestreaming is harder than expected, and floats later moderator or Zoom participation as improvements.",
+      "speaker_attribution": "Viewer suggestion followed by Jiang response.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0033",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0034"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains that he respects strategically coherent adversaries because clear motives make them easier to model, then applies that frame to Peter Thiel, Putin, and Milei's AI policy moves in Argentina.",
+      "speaker_attribution": "Jiang livestream monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0035",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0036"
+      ],
+      "kind": "exchange",
+      "summary": "A viewer asks whether the AI bill means firms want government contracts, and Jiang answers that they want something deeper: state buyouts and equity stakes that offload losses onto the public.",
+      "speaker_attribution": "Viewer question followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0037",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0038"
+      ],
+      "kind": "exchange",
+      "summary": "Asked whether the Albanian protests are organic, Jiang argues they fit a color-revolution pattern of NGO training, foreign funding, and disproportionate media amplification rather than a spontaneous local uprising.",
+      "speaker_attribution": "Viewer question followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0038",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0039"
+      ],
+      "kind": "exchange",
+      "summary": "The packet closes with a market question that lets Jiang restate his financial worldview: elite capital treats AI listings and related assets as a rigged pump-and-dump against retail investors.",
+      "speaker_attribution": "Viewer question followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0041",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0043"
+      ],
+      "kind": "exchange",
+      "summary": "A viewer asks about note-taking and news filtering, and Jiang answers that he keeps almost everything in memory, promoting items from short-term to long-term only when they keep escalating.",
+      "speaker_attribution": "Viewer questions followed by Jiang answers.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0043",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0044",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0045"
+      ],
+      "kind": "monologue",
+      "summary": "He says Twitter analysis depends on distinguishing genuine signals from AI-generated or clickbait noise, then pivots into a live demonstration of his feed-reading process.",
+      "speaker_attribution": "Jiang livestream monologue with diarization splits during screen-share setup.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0046",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0047"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He reads a sensational Elon Musk claim about the U.S.-Israel defense bill, immediately dismissing it as fabricated noise.",
+      "speaker_attribution": "Jiang quoting a feed item and then judging it.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Scanning further down the feed, Jiang disregards several items as irrelevant or incoherent, then locks onto a China-Japan-Philippines maritime story as a genuine conflict signal worth tracking.",
+      "speaker_attribution": "Jiang live-reading and triaging Twitter items.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0049",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0050",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0051"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang continues his live feed triage by storing the China-Japan-Philippines conflict in memory as a serious escalation track, then skims past noise, self-help chatter, and celebrity posts while narrating how quickly he filters.",
+      "speaker_attribution": "Jiang livestream monologue with diarization noise during screen-scroll narration.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0052",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0053",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0054"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He pauses on posts about Pentagon leaks, Israel, and Kushner bunker rumors, treating the first as a real contradiction inside the U.S.-Israel alliance and the second as fantasy that misunderstands how insulated oligarch fronts think.",
+      "speaker_attribution": "Jiang reading posts aloud and then interpreting or rejecting them.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0055",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang treats the Candace Owens Russia story as at least plausible intelligence concern, then answers a viewer question about Iran by arguing Tehran cannot survive a conventional ground push and will stay with attritional guerrilla tactics.",
+      "speaker_attribution": "Jiang monologue followed by a viewer question and Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0057",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0058",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0059",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0060"
+      ],
+      "kind": "exchange",
+      "summary": "Continuing the intelligence-influence thread, Jiang says elite actors play multidimensional games with divided loyalties, explains why game theory matters more than personality-reading, and answers that Candace Owens may be influenced by many services without being a simple formal spy.",
+      "speaker_attribution": "Jiang monologue flowing into a viewer question and answer, with one short diarization split inside Jiang's answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0060",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0061"
+      ],
+      "kind": "exchange",
+      "summary": "A viewer asks about PBD and Mehdi Hasan, and Jiang answers by contrasting Hasan's combative attack style with Patrick Bet-David's smoother hustler persona.",
+      "speaker_attribution": "Viewer question followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0061",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0062",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0063",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "Asked about Candace Owens and Tucker Carlson's reach, Jiang says their power comes from resonant audiences and trend anticipation, links both to a spiritual turn in America, and then speculates about Opus Dei, JD Vance, and Catholic power networks.",
+      "speaker_attribution": "Viewer prompt followed by Jiang answer with speculative religious-network analysis.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0065",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0066"
+      ],
+      "kind": "exchange",
+      "summary": "Asked what a young U.S. military entrant should study about an American-Israeli military merge, Jiang answers with a long forecast: U.S. military expansion into the western hemisphere plus a privatized military structure linked to partner states such as Israel, Japan, and Germany.",
+      "speaker_attribution": "Viewer question followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0067"
+      ],
+      "kind": "exchange",
+      "summary": "A viewer asks whether giant data centers are dubious, and Jiang answers by speculating that they could later be framed as false-flag targets whose destruction wipes financial records.",
+      "speaker_attribution": "Viewer prompt and Jiang answer compressed into one segment.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0068",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0069"
+      ],
+      "kind": "exchange",
+      "summary": "Asked for thoughts on Nick Fuentes, Jiang calls him talented but compromised, objects to his anti-Jewish rhetoric as strategically unnatural, and points listeners to January 6 as evidence he was not treated like a normal dissident.",
+      "speaker_attribution": "Viewer question followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0069",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0070",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0071",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers meetup questions by saying he wants only private invitation-only gatherings, then predicts AI firms will receive a bailout and says Peter Thiel's camp is likely to conquer the future, making elite networking strategically useful.",
+      "speaker_attribution": "Several viewer prompts with Jiang answers flowing together.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0073",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0074"
+      ],
+      "kind": "exchange",
+      "summary": "A viewer asks whether state-backed AI and data centers create real competition, and Jiang answers that AI is a shared state-control mechanism in which rival intelligence systems actually cooperate.",
+      "speaker_attribution": "Viewer question followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0075",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0076",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0077",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0078",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0079",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "Daryl Fry asks whether rumors of an Iranian bomb change the U.S. ground-invasion forecast and whether crisis could force CBDCs; Jiang rejects the bomb narrative as dangerous, argues a crude nuclear handoff would not solve Iran's strategic problem, says CBDCs are coming regardless, and frames crisis acceleration as opportunistic rather than fully engineered.",
+      "speaker_attribution": "Viewer question followed by Jiang's extended multi-part answer, with another question folded into the same answer sequence.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0081",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0082",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0083"
+      ],
+      "kind": "exchange",
+      "summary": "Ian asks why DEI is bad for America, and Jiang answers by contrasting it with Martin Luther King Jr.'s colorblind ethic before arguing that DEI redirects class anger into race management and functions as an elite response to Occupy Wall Street.",
+      "speaker_attribution": "Viewer question compressed into Jiang's answer sequence.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0083",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0084",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0085"
+      ],
+      "kind": "exchange",
+      "summary": "A viewer asks how Section 224 affects the Iran war, and Jiang answers that the provision locks America into a perpetual conflict because war on Israel's behalf keeps the United States committed indefinitely.",
+      "speaker_attribution": "Viewer question followed by Jiang answer, with the end of the answer spilling into the next segment.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0085",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0086"
+      ],
+      "kind": "exchange",
+      "summary": "Christy asks about the U.S.-Iran ceasefire, and Jiang dismisses it as theater meant to buy time for either a false flag or a ground invasion.",
+      "speaker_attribution": "Viewer question followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0086",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0087"
+      ],
+      "kind": "exchange",
+      "summary": "Asked who will win the AI race, Jiang says oligarchs will win because China and America are partners using AI to justify parallel surveillance states; he then folds in a Michael Burry question to argue the AI bubble is a rigged game that can still end in bailout.",
+      "speaker_attribution": "Two viewer prompts compressed into one answer run.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0087",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0088"
+      ],
+      "kind": "exchange",
+      "summary": "Sarah asks for a livestream topic timeline and Matthew asks whether America resembles Weimar Germany; Jiang says the format will remain organic for several months and predicts a Great Depression-style crash.",
+      "speaker_attribution": "Multiple viewer questions with Jiang answers compressed together.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0089"
+      ],
+      "kind": "exchange",
+      "summary": "A viewer asks what kind of spiritual belief Chinese people practice, and Jiang answers with a blunt social diagnosis that materialism dominates because money is what people love most.",
+      "speaker_attribution": "Viewer question compressed into Jiang's answer.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0089",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0090"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the stream by saying the format is more exhausting than he expected, promising another founding-members session next month and a paid-subscribers stream the following week.",
+      "speaker_attribution": "Jiang closing monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0090",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0091"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks for help thinking about intimate invitation-only meetups for safety reasons, apologizes for unanswered questions, and then a second speaker signs off the audience.",
+      "speaker_attribution": "Jiang closing remarks followed by another speaker's farewell.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0002",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0005"
+      ],
+      "note": "These short segments are labeled as a second speaker, but context indicates they are still Jiang narrating his own transition and screen-share setup rather than audience intervention.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0019"
+      ],
+      "note": "This brief second-speaker segment appears inside Jiang's playback or paraphrase of Candace Owens material rather than as a live audience interruption.",
+      "suggested_speaker": "quoted clip / not live chat",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0026",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0030"
+      ],
+      "note": "These short second-speaker fragments read as continuations of Jiang's own answer rather than distinct audience interventions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0035"
+      ],
+      "note": "The segment begins with the viewer name and question, but the trailing phrase about 'the people on the government' may be clipped question text rather than a new speaker turn from Jiang.",
+      "suggested_speaker": "viewer question with ASR truncation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0041",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0045"
+      ],
+      "note": "These second-speaker labels contain Jiang's own trailing market comment and screen-share narration around viewer prompts, so the diarization split does not mark a stable separate speaker.",
+      "suggested_speaker": "mixed viewer prompt and Jiang narration",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0051",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0054"
+      ],
+      "note": "These short second-speaker segments read as Jiang's own scrolling narration and clipped continuation rather than stable audience turns.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0060"
+      ],
+      "note": "This short second-speaker segment begins with a viewer question, but its first sentence appears to be the clipped end of Jiang's prior answer about preferring game-theory analysis.",
+      "suggested_speaker": "mixed Jiang continuation plus viewer question",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0067"
+      ],
+      "note": "The ASR blends the viewer's data-center question directly into Jiang's answer, but the interaction structure is still recoverable from context.",
+      "suggested_speaker": "mixed viewer question plus Jiang answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0075"
+      ],
+      "note": "This segment is the spoken question from Daryl Fry and should be read as the setup for the long answer that follows.",
+      "suggested_speaker": "viewer question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0079"
+      ],
+      "note": "The transcript compresses a second Daryl Fry question about depression and CBDCs directly into Jiang's continuing answer.",
+      "suggested_speaker": "mixed viewer question plus Jiang answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0081"
+      ],
+      "note": "The Peter Thiel remarks continue from the prior packet before the ASR folds Ian's DEI question into the end of the segment.",
+      "suggested_speaker": "Jiang monologue shifting into viewer question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0085"
+      ],
+      "note": "This segment starts with the tail of Jiang's Section 224 answer and then pivots into Christy's ceasefire question.",
+      "suggested_speaker": "mixed Jiang answer plus viewer question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0086",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0087",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0088"
+      ],
+      "note": "Several viewer prompts are flattened into Jiang's running answer, but the interaction boundaries are still recoverable from the explicit cue phrases.",
+      "suggested_speaker": "mixed viewer questions plus Jiang answers",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0089"
+      ],
+      "note": "The question about Chinese spiritual belief is flattened into Jiang's answer, but the interaction is still identifiable from the cue phrase at the start of the segment.",
+      "suggested_speaker": "mixed viewer question plus Jiang answer",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0091"
+      ],
+      "note": "This brief closing thank-you is spoken by someone other than Jiang, likely a moderator or host-side participant.",
+      "suggested_speaker": "secondary speaker or moderator",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the point of the founding-members livestream is to expose his method for watching, interpreting, and analyzing news in real time.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Livestream framing claim on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "research",
+        "livestream"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents himself as a one-man analyst with no intelligence ties, no confidential sources, no institutional backing, and an intentionally lightweight media stack centered on Twitter, YouTube, and Google.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0002",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Self-description on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "independence",
+        "information-sources"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ivanka Trump's choice to do a rare interview is interpreted as strategic image management around a project she wants seen as virtuous and personal.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0004",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Livestream interpretation of current news on 2026-06-07.",
+      "topic_tags": [
+        "Ivanka Trump",
+        "strategy",
+        "image-management"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his basic protest-analysis heuristic is to ask who is organizing the protest and who is funding it.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Method claim on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "protests",
+        "funding"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He infers that Albanian environmental protest networks may sit inside a George Soros/Open Society orbit because NGOs, study-abroad youth, and conservation funders map onto a Western ideological pipeline in Eastern Europe.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Livestream inference on 2026-06-07 about Albania protests.",
+      "topic_tags": [
+        "Albania",
+        "George Soros",
+        "Open Society",
+        "NGO"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang treats the identity of the actors in a story as the key prerequisite for anticipating how the story will develop.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Method claim on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "actor-analysis",
+        "prediction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that Israel is the foreign actor most aggressively spying on the American military, more effectively than Russia, China, or Britain.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Geopolitical claim made on 2026-06-07 about current intelligence concerns.",
+      "topic_tags": [
+        "Israel",
+        "espionage",
+        "United States military"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the timing of Pentagon alarm over Israeli spying is explained by Section 224 and the fear that U.S.-Israel military cooperation is being formalized into a deeper merger.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0009",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07 about current U.S.-Israel politics.",
+      "topic_tags": [
+        "Israel",
+        "Section 224",
+        "Pentagon",
+        "espionage"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that if Israel starts wars against regional states such as Turkey or Egypt, Section 224 would trap the United States in the Middle East by making separation operationally impossible.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0010",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Forward-looking strategic warning stated on 2026-06-07.",
+      "topic_tags": [
+        "Section 224",
+        "Middle East",
+        "Turkey",
+        "Egypt"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says AIPAC's public case for Section 224 is spin because it refutes a straw man about Israeli control while leaving intact the real concern about merged strategic decision-making.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0011",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Livestream interpretation on 2026-06-07.",
+      "topic_tags": [
+        "AIPAC",
+        "spin",
+        "Section 224",
+        "strategy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that Section 224 effectively re-labels aid to Israel as aid to the United States itself, allowing Israeli participation without naming the transfer as direct military aid.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "Section 224",
+        "military aid",
+        "Israel"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says promises of oversight and transparency are misleading because Congress can monitor formal military activity while still being unable to see the real scope of U.S.-Israel cooperation.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0014",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "Congress",
+        "oversight",
+        "Section 224",
+        "transparency"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats reading the other side's argument as a method for sharpening one's own understanding because weak defenses expose the underlying structure of the controversy.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0010",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Method claim on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "controversy",
+        "argument-reading"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang presents Bernie Sanders' AI concern as fear of AGI, job loss, electricity demand, and water consumption, but says the deeper political play is a public bailout for unprofitable AI firms.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0015",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07 about current AI politics.",
+      "topic_tags": [
+        "AI",
+        "Bernie Sanders",
+        "OpenAI",
+        "bailout"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that AI companies are not profitable on their own and therefore seek state subsidy while retaining private control over information and surveillance capacity.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Livestream economic claim on 2026-06-07.",
+      "topic_tags": [
+        "AI",
+        "profitability",
+        "surveillance",
+        "state subsidy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts that the government will eventually make major AI data centers public because their costs are too high to sustain privately.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Forward-looking prediction stated on 2026-06-07.",
+      "topic_tags": [
+        "AI",
+        "data centers",
+        "public ownership"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says state takeover would harden AI infrastructure into protected military bases, making public sabotage far more difficult.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Forward-looking strategic warning on 2026-06-07.",
+      "topic_tags": [
+        "AI",
+        "militarization",
+        "data centers"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Candace Owens's Russia messaging as evidence that sanctions branding does not break Russia and that she is willing to mock Western assumptions about Russian isolation.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0018",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Livestream interpretation on 2026-06-07.",
+      "topic_tags": [
+        "Candace Owens",
+        "Russia",
+        "sanctions"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He interprets Owens's bridge-between-Christians rhetoric as an attempt to reconcile Catholic and Orthodox worlds rather than merely defend Russia geopolitically.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0020",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "Candace Owens",
+        "Catholicism",
+        "Orthodoxy",
+        "religion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Candace Owens's agenda is best explained by support from a powerful Catholic or Jesuit-adjacent network that sees her as a vehicle for spiritual and civilizational renewal.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0022",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0023",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "Candace Owens",
+        "Jesuits",
+        "Catholic Church",
+        "agenda"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that this faction's perceived enemy is American materialism, secularism, and liberalism rather than ordinary party politics.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "materialism",
+        "secularism",
+        "liberalism",
+        "religion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Candace Owens matters as a charismatic young mother and religious model who represents pronatal family life and overt Christian commitment for her audience.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0025",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0026",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "Candace Owens",
+        "religion",
+        "family",
+        "role model"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that AI firms survive by unloading infrastructure costs onto retail investors, governments, and anyone except the operators who keep the upside.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Livestream economic claim on 2026-06-07.",
+      "topic_tags": [
+        "AI",
+        "retail investors",
+        "subsidy",
+        "profit"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he selects interesting news by testing events against a prior theoretical framework and paying attention when something creates dissonance with that framework.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0028",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0029",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Method claim on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "dissonance",
+        "news selection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats unexpected public behavior by normally private actors such as Ivanka Trump and Jared Kushner as a clue that a hidden agenda is in motion.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Method example stated on 2026-06-07.",
+      "topic_tags": [
+        "Ivanka Trump",
+        "Jared Kushner",
+        "method",
+        "agenda"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Bernie Sanders appearing with Sam Altman is newsworthy precisely because Sanders is not an AI figure, so the pairing signals a deeper coordinated agenda.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Method example on 2026-06-07.",
+      "topic_tags": [
+        "Bernie Sanders",
+        "Sam Altman",
+        "AI",
+        "dissonance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Pentagon insiders leaking discord with Israel is especially significant because it contradicts his baseline model of Israel as a Pentagon subcontractor for Middle East conflict generation.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0030",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "Pentagon",
+        "Israel",
+        "Middle East",
+        "dissonance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says this is his first solo livestream and that he may later use moderators or Zoom participation because continuous speaking and chat management are exhausting.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Livestream process note on 2026-06-07.",
+      "topic_tags": [
+        "livestream",
+        "process",
+        "audience interaction"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he finds strategically rational adversaries easier to respect analytically because their behavior can be predicted from coherent motives.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Method claim stated on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "strategy",
+        "prediction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He contrasts Peter Thiel and Vladimir Putin, whom he calls strategically legible, with Donald Trump, whom he treats as hard to forecast because his moves do not form a clear strategic pattern.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0033"
+      ],
+      "temporal_scope": "Comparative diagnosis made on 2026-06-07.",
+      "topic_tags": [
+        "Peter Thiel",
+        "Vladimir Putin",
+        "Donald Trump",
+        "strategy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Peter Thiel's relationship to Argentina matters because Javier Milei is reshaping policy to make AI firms easier to build and harder to scrutinize, effectively doing what Thiel wants in the Western Hemisphere.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Livestream geopolitical diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "Peter Thiel",
+        "Argentina",
+        "Javier Milei",
+        "AI surveillance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says AI firms do not mainly want ordinary government contracts; they want the government to buy data centers or take equity stakes so losses are socialized while private insiders keep the upside.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Political-economy claim stated on 2026-06-07.",
+      "topic_tags": [
+        "AI",
+        "data centers",
+        "government stake",
+        "socialize losses"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Albanian protests are not organic but instead resemble a color-revolution network organized through NGOs, George Soros/Open Society funding, Washington training, and sympathetic media exposure.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0037",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0038"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07 about current Albania coverage.",
+      "topic_tags": [
+        "Albania",
+        "color revolution",
+        "George Soros",
+        "NGO"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that elite investors control modern financial markets so thoroughly that AI companies such as SpaceX, OpenAI, and Anthropic can be pumped up and dumped on retail participants indefinitely.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Market diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "financial markets",
+        "AI",
+        "SpaceX",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats current oil pricing as evidence that markets are rigged, because in his view recent geopolitical conditions should already have driven oil much higher.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Market diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "oil",
+        "financial markets",
+        "rigged markets"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says he does not keep written notebooks or computer notes; instead he stores potential story lines in memory and waits to see whether they escalate before committing them to long-term attention.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Method claim stated on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "memory",
+        "note-taking"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents memory-based filtering as a way to preserve intellectual flexibility, arguing that not writing everything down lets him keep more freedom in how patterns later connect.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Method claim stated on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "intellectual flexibility",
+        "memory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Twitter analysis requires separating what is actually newsworthy from clickbait and from AI-generated fabricated content.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0043",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Method claim stated on 2026-06-07.",
+      "topic_tags": [
+        "Twitter",
+        "AI fabrication",
+        "news judgment"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He dismisses the Elon Musk claim about Congress hiding the U.S.-Israel military relationship in the defense bill as made-up noise rather than a usable signal.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0046",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Real-time feed judgment on 2026-06-07.",
+      "topic_tags": [
+        "Twitter",
+        "Elon Musk",
+        "Section 224",
+        "misinformation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang identifies China-Japan-Philippines maritime delimitation as a real conflict track worth watching and predicts that China and Japan will eventually go kinetic over South China Sea shipping lanes.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Forward-looking geopolitical judgment stated on 2026-06-07.",
+      "topic_tags": [
+        "China",
+        "Japan",
+        "Philippines",
+        "South China Sea"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the emerging maritime conflict matters because Japan is abandoning strategic ambiguity and moving toward a clearer confrontation over territorial waters and shipping encroachment.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Geopolitical diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "Japan",
+        "strategic ambiguity",
+        "territorial waters",
+        "shipping lanes"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the China-Japan-Philippines maritime track deserves close attention because Japan is abandoning strategic ambiguity and moving toward a clearer confrontation with Chinese encroachment.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Forward-looking geopolitical diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "China",
+        "Japan",
+        "Philippines",
+        "strategic ambiguity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats much of his feed as disposable noise and says ordinary stress advice misses the point because heightened stress is a rational reaction to a broken world.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Livestream judgment on 2026-06-07.",
+      "topic_tags": [
+        "news filtering",
+        "stress",
+        "livestream method"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the contradiction between Pentagon leaks about Israeli spying and Congress moving toward military fusion with Israel reveals emotional and institutional struggle inside the American military establishment.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07 about current U.S.-Israel politics.",
+      "topic_tags": [
+        "Pentagon",
+        "Israel",
+        "Section 224",
+        "institutional conflict"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He rejects the claim that Ivanka Trump and Jared Kushner bought an island bunker because they know catastrophe is coming, arguing instead that they are insulated front figures who assume public anger will never seriously turn against them.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0052",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0053",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07 about current Kushner/Ivanka speculation.",
+      "topic_tags": [
+        "Ivanka Trump",
+        "Jared Kushner",
+        "oligarchs",
+        "front people"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says suspicion around Candace Owens's Russia trip is plausible because U.S. intelligence services already surveilled Tucker Carlson's earlier Russia outreach and treated that media contact as a threat.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07 about current media-intelligence dynamics.",
+      "topic_tags": [
+        "Candace Owens",
+        "Tucker Carlson",
+        "Russia",
+        "CIA"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He presents his rapid feed scanning as a trained prioritization skill that lets him decide quickly what matters and what is fake.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0055",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Method claim stated on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "prioritization",
+        "misinformation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Iran will not launch a conventional ground offensive because that would expose it to overwhelming American and Israeli air power, so Tehran will keep using a hide-and-seek guerrilla strategy instead.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Forward-looking military prediction stated on 2026-06-07.",
+      "topic_tags": [
+        "Iran",
+        "guerrilla warfare",
+        "air power",
+        "Middle East"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says high-level actors operate with divided loyalties inside a multidimensional power game, which is why personality-reading fails and game theory is the better tool for prediction.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0057",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Method claim stated on 2026-06-07.",
+      "topic_tags": [
+        "game theory",
+        "method",
+        "elite politics",
+        "divided loyalties"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that Candace Owens may be influenced by foreign or intelligence-linked contacts without being a simple conscious spy, because information is often passed through social networks and dinner-table relationships.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0058",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0059"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "Candace Owens",
+        "intelligence influence",
+        "Mossad",
+        "CIA"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says his own method avoids direct access networks because talking to insiders would mostly expose him to planted narratives designed to shape downstream opinion.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0059",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0060"
+      ],
+      "temporal_scope": "Method claim stated on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "information control",
+        "insiders"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He characterizes Mehdi Hasan as a naturally combative interviewer who attacks by warping an opponent's words, while Patrick Bet-David is framed as a smoother businessman-hustler who gets overrun in that matchup.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Media-personality judgment on 2026-06-07.",
+      "topic_tags": [
+        "Mehdi Hasan",
+        "Patrick Bet-David",
+        "media style",
+        "interviewing"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Candace Owens and Tucker Carlson are among the most influential American media figures not simply because of scale, but because their audiences deeply believe them and they anticipate trends before others do.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0062",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Media-influence diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "Candace Owens",
+        "Tucker Carlson",
+        "influence",
+        "trend prediction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that American audiences are nearing a spiritual tipping point, with Orthodoxy in particular positioned to grow because it appears more conservative, traditional, and consistent than alternatives.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0062",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Religious-cultural diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "Orthodox Church",
+        "spirituality",
+        "religion",
+        "America"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts Candace Owens and Tucker Carlson will keep gaining influence, while figures such as Joe Rogan and Nick Fuentes are already in relative decline.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Forward-looking media prediction stated on 2026-06-07.",
+      "topic_tags": [
+        "Candace Owens",
+        "Tucker Carlson",
+        "Joe Rogan",
+        "Nick Fuentes"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says JD Vance is Opus Dei, describes Opus Dei as one of the Catholic Church's secret societies, and speculates that Candace Owens may be adjacent through George Farmer or wider Catholic family networks.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0063",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Speculative religious-network diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "Opus Dei",
+        "JD Vance",
+        "Candace Owens",
+        "Catholic Church"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang predicts the U.S. military will expand rapidly over the next ten to twenty years because America needs direct control over the western hemisphere.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0065",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Forward-looking geopolitical prediction stated on 2026-06-07.",
+      "topic_tags": [
+        "U.S. military",
+        "western hemisphere",
+        "expansion",
+        "occupation"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He forecasts that this expansion could include military control or colonization of places such as Mexico, Colombia, Honduras, Cuba, Greenland, and possibly Venezuela.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Forward-looking regional prediction stated on 2026-06-07.",
+      "topic_tags": [
+        "western hemisphere",
+        "military occupation",
+        "Mexico",
+        "Greenland"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that the second major military trend will be privatization, with private military structures merged through contracts with allied states such as Israel, Japan, and Germany.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Institutional forecast stated on 2026-06-07.",
+      "topic_tags": [
+        "military privatization",
+        "Israel",
+        "Japan",
+        "Germany"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He speculates that large data centers may be positioned as future false-flag targets so that a blamed attack can erase crucial financial data.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0067",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0068"
+      ],
+      "temporal_scope": "Speculative scenario proposed on 2026-06-07.",
+      "topic_tags": [
+        "data centers",
+        "false flag",
+        "financial records",
+        "AI infrastructure"
+      ],
+      "claim_type": "prediction",
+      "confidence": "low"
+    },
+    {
+      "claim": "Jiang says Nick Fuentes is talented and intelligent but likely compromised, partly because his anti-Jewish rhetoric lacks the nuance Jiang expects and partly because his January 6 treatment suggests protection.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0068",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Political-media diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "Nick Fuentes",
+        "compromise",
+        "January 6",
+        "controlled opposition"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says any in-person events around him should remain private and invitation-only because he wants to preserve anonymity and personal safety rather than become a public celebrity.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0069",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Personal operational preference stated on 2026-06-07.",
+      "topic_tags": [
+        "meetups",
+        "privacy",
+        "personal safety"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the AI bubble will burst but still receive a government bailout, framing current public disputes around AI as theater ahead of that rescue.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0070",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Economic-political prediction stated on 2026-06-07.",
+      "topic_tags": [
+        "AI bubble",
+        "bailout",
+        "Altman",
+        "government intervention"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He predicts Peter Thiel and his network are likely to conquer the future, which is why he treats friendship with Thiel-adjacent elites as strategically prudent.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0071",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Elite-power forecast stated on 2026-06-07.",
+      "topic_tags": [
+        "Peter Thiel",
+        "elite networks",
+        "future power",
+        "Stanford"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Candace Owens could help advance a 'third room eschatology' and ties that possibility to his game-theory reading of her role.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Speculative influence diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "Candace Owens",
+        "third room eschatology",
+        "game theory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues there is no real AI competition among states because AI is fundamentally a mechanism of maximum social control, so Britain, Canada, China, and the United States advance similar surveillance agendas rather than genuinely competing.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0073",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Geopolitical model stated on 2026-06-07.",
+      "topic_tags": [
+        "AI",
+        "surveillance state",
+        "state power",
+        "intelligence agencies"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says intelligence agencies such as Mossad, FSB, MSS, and CIA function less like true rivals than like parasitic institutions that cooperate by citing each other as threats in order to absorb more money and power.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0073",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0074"
+      ],
+      "temporal_scope": "Institutional diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "intelligence agencies",
+        "Mossad",
+        "CIA",
+        "state parasitism"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang rejects the claim that Iran already has a transferred nuclear weapon, saying that such a handoff would be strategically irrational without reliable testing, delivery systems, and command-and-control infrastructure.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0075",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0076",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0077"
+      ],
+      "temporal_scope": "Current-war diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "Iran",
+        "nuclear weapon",
+        "delivery systems",
+        "command and control"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that the narrative of an Iranian bomb helps the American case for escalation, because public fear of a nuclear Iran makes ground intervention, airstrikes, or even U.S. nuclear use easier to justify.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0077",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "War-escalation diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "Iran war",
+        "escalation",
+        "narrative control",
+        "U.S. intervention"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts Israel would strike first if it had concrete evidence that Iran possessed and intended to use a nuclear weapon against Tel Aviv.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Counterfactual military prediction stated on 2026-06-07.",
+      "topic_tags": [
+        "Israel",
+        "Iran",
+        "preemption",
+        "Tel Aviv"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says CBDCs are coming regardless of whether the current war is engineered, citing Canada and China as evidence that cash restrictions and digital-money controls are already advancing.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0079"
+      ],
+      "temporal_scope": "Policy forecast stated on 2026-06-07.",
+      "topic_tags": [
+        "CBDC",
+        "Canada",
+        "China",
+        "cash controls"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the crisis sequence is not fully engineered from scratch; rather, elites recognize coming crashes and wars, then accelerate and control those real-time events.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Crisis-management model stated on 2026-06-07.",
+      "topic_tags": [
+        "engineering",
+        "crisis acceleration",
+        "war",
+        "financial crash"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reiterates that the Iran war should be understood as a response to Russia's invasion of Ukraine and to a tightening Russia-China-Iran alignment.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Geopolitical causal claim restated on 2026-06-07.",
+      "topic_tags": [
+        "Iran war",
+        "Russia",
+        "Ukraine",
+        "China"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says highly intelligent elites prefer to cooperate rather than fight each other, which is why he treats Peter Thiel as both dangerous and strategically untouchable.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0081"
+      ],
+      "temporal_scope": "Elite-coordination diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "Peter Thiel",
+        "elite coordination",
+        "power"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He frames Martin Luther King Jr.'s core ethic as judging people by character rather than race, and uses that ethic as the standard against which he rejects DEI.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0081",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Normative contrast stated on 2026-06-07.",
+      "topic_tags": [
+        "DEI",
+        "Martin Luther King Jr.",
+        "merit",
+        "race"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues DEI is a tool used by financial elites such as Larry Fink to redirect legitimate anger about class inequality into identity-based management of historical grievance.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Political-social diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "DEI",
+        "Larry Fink",
+        "class inequality",
+        "elite distraction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says DEI should be understood as a direct response to Occupy Wall Street, because racial division broke apart a movement that could have united the '99 percent' against class power.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0082",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Historical-causal model stated on 2026-06-07.",
+      "topic_tags": [
+        "Occupy Wall Street",
+        "DEI",
+        "class conflict",
+        "race division"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says antifa and the George Floyd protests were engineered and sponsored rather than organic.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Movement-legitimacy diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "antifa",
+        "George Floyd protests",
+        "engineered movements"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues the entire point of Section 224 is to commit America permanently to the Iran war by binding U.S. support to Israel's ongoing conflict.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0083",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0084",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "War-structure diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "Section 224",
+        "Iran war",
+        "Israel",
+        "forever war"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang dismisses the U.S.-Iran ceasefire as theater meant to buy time, and predicts the next real step will be a ground invasion, whether after a false flag or after force buildup.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Current-war prediction stated on 2026-06-07.",
+      "topic_tags": [
+        "ceasefire",
+        "Iran war",
+        "false flag",
+        "ground invasion"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the real winner of the AI race will be oligarchs, because China and America function as partners that give each other cover to expand AI-based surveillance states.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Geopolitical-control model stated on 2026-06-07.",
+      "topic_tags": [
+        "AI",
+        "oligarchs",
+        "China",
+        "America",
+        "surveillance state"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the AI bubble will eventually burst but says insiders can prolong it for years and still secure a government bailout because the game is rigged and capital is concentrated.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0086",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0087"
+      ],
+      "temporal_scope": "Economic prediction stated on 2026-06-07.",
+      "topic_tags": [
+        "AI bubble",
+        "government bailout",
+        "Michael Burry",
+        "rigged game"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the livestream format will stay interactive and experimental for roughly six months before he imposes a firmer structure.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Channel-planning statement made on 2026-06-07.",
+      "topic_tags": [
+        "livestream format",
+        "channel structure",
+        "experimentation"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says America resembles the 1920s Weimar period and predicts that a Great Depression and stock-market collapse should be expected.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Historical analogy and economic prediction stated on 2026-06-07.",
+      "topic_tags": [
+        "Weimar",
+        "Great Depression",
+        "stock market",
+        "America"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says Chinese people are deeply materialistic and that money is the dominant practical belief organizing social life.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0089"
+      ],
+      "temporal_scope": "Cultural diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "China",
+        "materialism",
+        "money",
+        "social values"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says the first founding-members livestream was more exhausting than expected because he had to talk continuously while also reading and answering live chat.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0089"
+      ],
+      "temporal_scope": "Channel-format reflection made on 2026-06-07.",
+      "topic_tags": [
+        "livestream",
+        "fatigue",
+        "format"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he wants to rethink the stream and return next month, possibly at a different time such as 9 p.m., in order to include different viewers.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0089"
+      ],
+      "temporal_scope": "Near-term scheduling plan stated on 2026-06-07.",
+      "topic_tags": [
+        "livestream schedule",
+        "audience",
+        "next month"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says there will be another livestream the following week for paid subscribers, while this session was only for founding members.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0090"
+      ],
+      "temporal_scope": "Channel-membership plan stated on 2026-06-07.",
+      "topic_tags": [
+        "founding members",
+        "paid subscribers",
+        "next week"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says any meetups should be intimate, invitation-only, and not publicly advertised in order to protect his personal safety.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0090"
+      ],
+      "temporal_scope": "Operational preference stated on 2026-06-07.",
+      "topic_tags": [
+        "meetups",
+        "privacy",
+        "personal safety"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0002",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0003"
+      ],
+      "moment": "The opening anti-mystique move is that the analyst is not a spy at all, just one person in a bedroom with Twitter, YouTube, and Google.",
+      "source_phrase": "I am not a spy ... I'm just one guy sitting in my bedroom doing research",
+      "why_it_matters": "It establishes the founding-members episode as a demonstration of method built on pattern reading rather than hidden access.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007"
+      ],
+      "moment": "When a protest appears, Jiang's mind immediately splits it into organizer and funder.",
+      "source_phrase": "who's organizing these protests ... who's funding these protests",
+      "why_it_matters": "This is the cleanest reusable statement of the source's investigative heuristic.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "moment": "He does not start with moral judgment; he starts by identifying the people in the story so he can forecast what they will do next.",
+      "source_phrase": "I'm just trying to figure out who are the people in this story",
+      "why_it_matters": "It compresses Jiang's shift from ideological reaction to actor-mapping and strategic prediction.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0010"
+      ],
+      "moment": "Section 224 is framed not as a technical cooperation tweak but as the mechanism that could make the United States 'all-in' on Israel.",
+      "source_phrase": "the United States will be all-in in Israel",
+      "why_it_matters": "It compresses Jiang's whole warning about strategic fusion into one line with obvious later-lens pressure.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0012"
+      ],
+      "moment": "The clean counter-spin is brutal: if American troops were not in battle to begin with, they would already be safer.",
+      "source_phrase": "if American troops were not in battle to begin with, they'd be safer",
+      "why_it_matters": "It preserves Jiang's refusal to treat battlefield optimization as a neutral good when the war itself is optional.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0016"
+      ],
+      "moment": "Public ownership language around AI is recoded as a bailout machine that socializes cost while preserving private command over data and surveillance.",
+      "source_phrase": "what Seth Ullman really wants is for a public bailout",
+      "why_it_matters": "This is the packet's bridge from geopolitics to domestic AI control: state rescue becomes a route to deeper private-public fusion.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0017"
+      ],
+      "moment": "The AI bailout forecast sharpens into a militarization forecast: once the state owns the data centers, they stop being civilian targets and start being military bases.",
+      "source_phrase": "once the government takes them over, then these data centers can become military bases",
+      "why_it_matters": "It preserves the packet's strongest causal chain from subsidy to securitization.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0020"
+      ],
+      "moment": "Candace Owens in Russia is interpreted not just as geopolitics but as an attempted Christian bridge between East and West.",
+      "source_phrase": "become a bridge that unites Christians in the East and Christians in the West",
+      "why_it_matters": "It captures the packet's move from media event to religious-civilizational strategy.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "moment": "Jiang's reading of elite backing is that Candace Owens is a vehicle for people who see American materialism and secularism as the enemy.",
+      "source_phrase": "they see the great enemy as American materialism, secularism, liberalism",
+      "why_it_matters": "It condenses the underlying civilizational enemy-image driving his interpretation of the Owens-Russia story.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0027"
+      ],
+      "moment": "The AI business model is framed as a simple extraction machine: everyone else eats the costs while the operators keep the profit.",
+      "source_phrase": "you just unload the costs on retail investors, on government, on anyone except yourself",
+      "why_it_matters": "It preserves the packet's clearest formulation of Jiang's AI political-economy critique.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0028",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031"
+      ],
+      "moment": "Interesting news is not just novelty but dissonance: something appears that should not be there if your current map of the world were complete.",
+      "source_phrase": "I get interested in news when dissonance is created",
+      "why_it_matters": "This is one of the sharpest method statements in the source and likely belongs in any later public read.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031"
+      ],
+      "moment": "The Pentagon-Israel leak becomes a model case of dissonance because even anti-Israel noise is meaningful only when it violates the expected alliance script.",
+      "source_phrase": "that's dissonance ... that doesn't make any sense",
+      "why_it_matters": "It shows how Jiang converts contradiction inside an apparent alliance into a predictive clue.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0033"
+      ],
+      "moment": "Jiang's odd respect for dangerous figures comes from legibility: evil operators who know what they are doing are easier to map than chaotic ones.",
+      "source_phrase": "I like it when people who are evil actually know what they're doing",
+      "why_it_matters": "It is a sharp statement of his predictive ethic: strategic coherence matters more than moral approval for analysis.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0036"
+      ],
+      "moment": "The AI-state fusion thesis tightens here into a blunt formula: socialize the losses and privatize the gains.",
+      "source_phrase": "socialize the losses and privatize the gains",
+      "why_it_matters": "This is the packet's cleanest reusable line for Jiang's political economy of AI firms and their state ambitions.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0039"
+      ],
+      "moment": "The stock market is reduced to a casino in which the house always wins and retail arrives only in time to be dumped on.",
+      "source_phrase": "it's a casino. It's a house we'll always win",
+      "why_it_matters": "It preserves the packet's hottest compression of Jiang's view that finance is now oligarchic theater rather than price discovery.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042"
+      ],
+      "moment": "Jiang's archive is almost entirely mental: he keeps story lines in short-term memory until events prove they deserve promotion.",
+      "source_phrase": "I basically put the news item in short-term memory",
+      "why_it_matters": "It is one of the cleanest method disclosures in the source and explains how he builds patterns without visible notebooks.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0043"
+      ],
+      "moment": "He claims to have trained his mind into a detector that spots the difference between signal and manufactured AI noise.",
+      "source_phrase": "I've turned my mind to be able to spot the difference",
+      "why_it_matters": "This preserves the packet's central self-description of judgment as a cultivated perceptual skill.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "moment": "Among the feed clutter, the line Jiang decides to keep is stark: at some point China and Japan will go kinetic over the shipping lanes.",
+      "source_phrase": "at some point, China and Japan will go kinetic",
+      "why_it_matters": "It captures how his live feed triage converts noisy snippets into a concrete war forecast.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0052"
+      ],
+      "moment": "The Pentagon leak and the congressional merger vote are held together as one dissonant picture: fear and fusion advancing at the same time.",
+      "source_phrase": "why the Pentagon is leaking about its concern about Israel while at the same time Congress is voting to merge these two militaries",
+      "why_it_matters": "It is a clean restatement of Jiang's broader Section 224 thesis in the middle of his live feed demonstration.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0053"
+      ],
+      "moment": "Kushner-world elites are compressed into a single image: they are not sovereign actors but front people performing confidence for oligarchic interests.",
+      "source_phrase": "they're just the front people, right? They're just the actors",
+      "why_it_matters": "This preserves Jiang's recurring model of visible celebrity elites as masks for deeper power.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0056"
+      ],
+      "moment": "Iranian invasion fantasy is dismissed with military bluntness: a ground offensive would be complete suicide.",
+      "source_phrase": "a ground offensive by the Iranians would be complete suicide",
+      "why_it_matters": "It captures Jiang's concrete war-modeling style: he reduces geopolitical speculation to exposure, terrain, and air-power asymmetry.",
+      "tone": "prediction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0057",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0060"
+      ],
+      "moment": "The strongest method compression here is that elite personalities are unreadable poker players, so the analyst must step back and read only the game.",
+      "source_phrase": "it's important to use game theory because game theory just removes yourself from the personalities",
+      "why_it_matters": "This is one of the clearest packets for Jiang's claim that prediction requires abstraction away from charisma, morality, and stated intention.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0059"
+      ],
+      "moment": "Candace Owens is reduced to a classic intelligence image: not a master conspirator but a useful idiot passing along socially delivered information.",
+      "source_phrase": "she's being a useful idiot and that's just how the world works",
+      "why_it_matters": "It preserves Jiang's sharpest phrasing for indirect influence operations and media mediation.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0063"
+      ],
+      "moment": "If Candace and Tucker were stocks, Jiang says he would put all his money on them.",
+      "source_phrase": "if candace and tucker were stocks i put all my money on candace and tucker",
+      "why_it_matters": "It captures how fully he reframes media influence as a forward market on spiritual and political appetite.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0066"
+      ],
+      "moment": "Jiang compresses the military future into empire-by-contractor: occupation in the hemisphere plus a privatized force merged into allied states.",
+      "source_phrase": "the two major trends a military occupation of the western hemisphere the privatization of the military which then merges with other nation states",
+      "why_it_matters": "This is one of the clearest packets for his fusion of retrenchment, privatization, and imperial occupation into a single strategic picture.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0067",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0068"
+      ],
+      "moment": "The data-center image is apocalyptic: a lone-wolf bombing becomes the pretext for financial amnesia.",
+      "source_phrase": "the data center is blown up and oops all that financial data is gone",
+      "why_it_matters": "It preserves Jiang's sharpest image linking AI infrastructure, sabotage theater, and crisis governance.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0072"
+      ],
+      "moment": "Peter Thiel is framed not as a businessman but as an approaching ruling dynasty one should befriend before it wins.",
+      "source_phrase": "peter thiel and his people are going to conquer the world",
+      "why_it_matters": "It captures Jiang's recurring move of treating elite figures as future-sovereignty blocs rather than ordinary public actors.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0073",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0074"
+      ],
+      "moment": "The AI packet's core compression is that surveillance states are not racing but jointly building the same machine of control.",
+      "source_phrase": "there's no ai competition",
+      "why_it_matters": "This is the cleanest formulation in the source of Jiang's claim that geopolitical rivalry often masks a cooperative control project.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0077"
+      ],
+      "moment": "A transferred bomb becomes a trap, not a shield: America would love Iran to have one because it unlocks the justification for nuclear war.",
+      "source_phrase": "america would love for iran to have nuclear weapon because that justifies america using nuclear weapons against iran",
+      "why_it_matters": "It preserves the packet's sharpest reversal, where deterrence flips into pretext for escalation.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0080"
+      ],
+      "moment": "His crisis model is neither total conspiracy nor innocence: elites do not invent every emergency, but they accelerate and control the emergencies they recognize.",
+      "source_phrase": "why not accelerate advance and then control events",
+      "why_it_matters": "This is a compact statement of Jiang's middle position between 'everything is engineered' and 'nothing is coordinated.'",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0082",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0083"
+      ],
+      "moment": "DEI is compressed into a counterrevolutionary device: break apart the '99 percent' by sorting class anger into race categories.",
+      "source_phrase": "how do you divide occupy wall street well you break it down according to race",
+      "why_it_matters": "This is the sharpest formulation in the source of Jiang's claim that identity management protects elite power from class revolt.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0083",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0084",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0085"
+      ],
+      "moment": "Section 224 becomes a forever-war ratchet: make Israel the scapegoat and America can never leave.",
+      "source_phrase": "the entire point of section 224 is to commit america forever to this war",
+      "why_it_matters": "It preserves Jiang's cleanest summary of how alliance law becomes permanent entrapment.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0086"
+      ],
+      "moment": "The AI race is inverted into a partnership of rulers: China and America are not competing civilizations here but mutual pretexts for the same surveillance machine.",
+      "source_phrase": "the oligarchs will win the ai race",
+      "why_it_matters": "This preserves the packet's strongest reversal from geopolitical rivalry to cooperative elite domination.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0089"
+      ],
+      "moment": "His answer on China reduces the social creed to a three-word liturgy: money, money, money.",
+      "source_phrase": "it's money money money that's all that matters",
+      "why_it_matters": "It captures the packet's bluntest cultural compression and preserves the tone of Jiang's answer rather than sanding it into generic sociological language.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0090"
+      ],
+      "moment": "Even the community surface is framed defensively: meet, but do it intimately, by invitation, and out of public view.",
+      "source_phrase": "invitation only and not publicize at all",
+      "why_it_matters": "This closing note matters for later public-read framing because it shows Jiang building a selective audience rather than a maximal public platform.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "actor-mapping",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang's practice of identifying organizers, funders, and ideological networks before predicting how a news story will unfold.",
+      "confidence": "high"
+    },
+    {
+      "term": "Open Society pipeline",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang's shorthand for NGOs and study-abroad networks that he thinks channel young Eastern Europeans into Western ideology.",
+      "confidence": "medium"
+    },
+    {
+      "term": "Section 224",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0009",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "A National Defense Budget provision Jiang reads as formalizing deeper U.S.-Israel military integration while obscuring its practical consequences.",
+      "confidence": "high"
+    },
+    {
+      "term": "public bailout",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Jiang's term for the state buying out or subsidizing AI infrastructure that private firms cannot profitably sustain on their own.",
+      "confidence": "high"
+    },
+    {
+      "term": "public data-center takeover",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "Jiang's forecast that the state will nationalize or publicly absorb expensive AI data centers and then protect them as strategic infrastructure.",
+      "confidence": "high"
+    },
+    {
+      "term": "spiritual awakening",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang's name for the civilizational role he assigns to Candace Owens: drawing people back toward traditional Christian faith against secular modernity.",
+      "confidence": "high"
+    },
+    {
+      "term": "dissonance",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0028",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Jiang's term for an event or pairing that does not fit his standing theoretical model and therefore deserves closer analysis.",
+      "confidence": "high"
+    },
+    {
+      "term": "role-model politics",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0025",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Jiang's reading of Candace Owens as a public example of family, religiosity, and reproductive aspiration rather than merely a commentator.",
+      "confidence": "high"
+    },
+    {
+      "term": "color revolution playbook",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0037"
+      ],
+      "definition_or_usage": "Jiang's label for protests he sees as networked through NGOs, foreign funding, training, and media amplification rather than organic local mobilization.",
+      "confidence": "high"
+    },
+    {
+      "term": "socialize the losses and privatize the gains",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0036"
+      ],
+      "definition_or_usage": "Jiang's summary of what AI firms want from state participation: public absorption of downside with private capture of upside.",
+      "confidence": "high"
+    },
+    {
+      "term": "intellectual flexibility",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Jiang's reason for avoiding extensive notes: hold emerging items in memory until repeated escalation clarifies what deserves durable attention.",
+      "confidence": "high"
+    },
+    {
+      "term": "go kinetic",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Jiang's phrase for latent maritime competition turning into actual military conflict.",
+      "confidence": "high"
+    },
+    {
+      "term": "front people",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "Jiang's label for public-facing elites who appear powerful but in his telling are acting on behalf of deeper oligarchic interests.",
+      "confidence": "high"
+    },
+    {
+      "term": "hide-and-seek guerrilla warfare",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "Jiang's phrase for Iran's likely strategy of evasion, dispersed attack, and attrition instead of exposed conventional advance.",
+      "confidence": "high"
+    },
+    {
+      "term": "useful idiot",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0059"
+      ],
+      "definition_or_usage": "Jiang's term for a media figure who may unknowingly relay narratives or fragments supplied through intelligence-adjacent social networks.",
+      "confidence": "high"
+    },
+    {
+      "term": "divided loyalties",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0057"
+      ],
+      "definition_or_usage": "Jiang's description of elite actors positioned across overlapping factions, making personal motives opaque and game-theoretic analysis necessary.",
+      "confidence": "high"
+    },
+    {
+      "term": "Opus Dei",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "Described by Jiang as a famous, hierarchical, messianic secret society inside the Catholic Church with possible links to current political and media figures.",
+      "confidence": "medium"
+    },
+    {
+      "term": "military privatization",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0066"
+      ],
+      "definition_or_usage": "Jiang's forecast that the U.S. military will increasingly operate through privatized companies that can contractually merge with allied states.",
+      "confidence": "high"
+    },
+    {
+      "term": "false flag",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "Used here for a staged or manipulable attack on data centers that could justify a narrative reset and destruction of financial records.",
+      "confidence": "high"
+    },
+    {
+      "term": "third room eschatology",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "An eschatological frame Jiang believes media figures such as Candace Owens may help circulate, inferred through his game-theory reading of elite messaging.",
+      "confidence": "medium"
+    },
+    {
+      "term": "AI surveillance state",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0073"
+      ],
+      "definition_or_usage": "Jiang's term for AI as a mechanism through which states maximize control over populations rather than merely compete commercially.",
+      "confidence": "high"
+    },
+    {
+      "term": "CBDC society",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0079"
+      ],
+      "definition_or_usage": "Used to describe a political order where central-bank digital currency and cash restrictions normalize state visibility and control over economic life.",
+      "confidence": "high"
+    },
+    {
+      "term": "useful idiot",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0078"
+      ],
+      "definition_or_usage": "Jiang's possible label for pundits who spread a war-escalating narrative, whether through gullibility or more deliberate service.",
+      "confidence": "medium"
+    },
+    {
+      "term": "DEI",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0082",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0083"
+      ],
+      "definition_or_usage": "In Jiang's usage, a political tool that converts class grievance into identity management and racial fragmentation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Section 224",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0083",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0084"
+      ],
+      "definition_or_usage": "Named as the legislative mechanism that deepens U.S.-Israel military integration and traps America in a permanent Middle East war.",
+      "confidence": "high"
+    },
+    {
+      "term": "forever war",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0083",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0086"
+      ],
+      "definition_or_usage": "Jiang's label for a conflict structure that never truly ends because alliance commitments and managed escalations keep America locked in.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0001",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0003"
+      ],
+      "note": "On 2026-06-07 Jiang explicitly stages a 'founding members' session as a live demonstration of his research method, which makes this source valuable for explaining process rather than only conclusions.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0009",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0016"
+      ],
+      "note": "On 2026-06-07 Jiang links two current pressure points in one analytic frame: U.S.-Israel military fusion through Section 224 and public takeover pressure in AI infrastructure.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0017",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "note": "On 2026-06-07 Jiang explicitly connects domestic AI infrastructure politics with a separate religious-realignment reading of Candace Owens in Russia, showing how widely he ranges within one predictive frame.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0032"
+      ],
+      "note": "On 2026-06-07 Jiang explicitly describes this as his first livestream and reflects on how the format may evolve toward moderation or direct audience participation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0034",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0036"
+      ],
+      "note": "On 2026-06-07 Jiang links Thiel's Argentina angle and AI financing in the same frame, extending his earlier AI-bailout argument into a hemispheric surveillance-state reading.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "note": "On 2026-06-07 Jiang moves from abstract method explanation into a live Twitter-feed demonstration, making this packet especially useful for showing how his memory and triage model produces concrete geopolitical forecasts in real time.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0052",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0056"
+      ],
+      "note": "On 2026-06-07 Jiang's live feed method keeps looping back to the same active war frame: U.S.-Israel military fusion, intelligence influence over media, and Iran avoiding suicidal escalation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0062",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0064"
+      ],
+      "note": "On 2026-06-07 Jiang ties current media power to a religious turn in America, making this packet useful for later chronology around Candace/Tucker influence, Orthodoxy, and Catholic-network speculation.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0065",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0066",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0070",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0072"
+      ],
+      "note": "On 2026-06-07 Jiang links western-hemisphere military occupation, privatized force structures, AI bailout politics, and Thiel-adjacent elite ascent into one future-power map.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0073",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0080"
+      ],
+      "note": "On 2026-06-07 Jiang fuses his AI-control model with his Iran-war model: the same elite systems cooperate across borders, accelerate crises, and convert danger into stronger surveillance and intervention powers.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0082",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0083",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0086",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0088"
+      ],
+      "note": "On 2026-06-07 Jiang places domestic identity management, AI surveillance buildout, and the Iran-war ratchet inside one control narrative: elites fragment class revolt at home, construct surveillance capacity, and bind America to permanent external conflict.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0089",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0090"
+      ],
+      "note": "This packet closes the 2026-06-07 founding-members livestream and establishes the immediate next cadence: another members stream next month, a paid-subscribers stream the following week, and possible future meetups kept private.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "note": "The Soros/Open Society linkage is framed as Jiang's inference from NGO and study-abroad cues, not as demonstrated evidence inside the source itself."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0011"
+      ],
+      "note": "The transcript repeatedly says 'APAC'; context strongly suggests AIPAC, but the semantic pass preserves the source wording rather than silently normalizing it."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0016"
+      ],
+      "note": "The transcript says 'Seth Ullman'; context suggests Sam Altman, but the ASR name error should be corrected only downstream if another grounded source supports it."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0018",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0019"
+      ],
+      "note": "The Kenneth/Candace clip transcript is heavily corrupted by ASR, so the semantic pass keeps only the broad Russia-sanctions and bridge-building interpretation that is supported by surrounding context."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0023",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "note": "The Jesuit-network explanation is Jiang's inference about Owens's backing, not demonstrated evidence inside the source."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0029"
+      ],
+      "note": "The transcript says 'Seth Altman'; context suggests Sam Altman, but the semantic pass keeps the grounded ASR wording and uses the common-name normalization only in interpretation."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0026",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0030"
+      ],
+      "note": "Short split segments likely reflect diarization or boundary noise rather than true speaker changes."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0034"
+      ],
+      "note": "The transcript says 'Javier Mele'; context strongly suggests Javier Milei, but the semantic pass preserves the grounded source spelling in interpretation rather than silently correcting the ASR."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0037",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0038"
+      ],
+      "note": "The Open Society, Washington-training, and media-orchestration claims are Jiang's inference about Albania protest mechanics, not evidence demonstrated inside the source itself."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0046",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "note": "Several quoted Twitter lines are ASR-corrupted or decontextualized, so the semantic pass preserves only judgments clearly supported by Jiang's surrounding narration."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0055"
+      ],
+      "note": "The transcript uses 'Kenneth Owens' for Candace Owens and contains clipped references around Tucker Carlson's Russia trip, so the semantic pass preserves only the clearly grounded intelligence-surveillance point."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0050",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0054"
+      ],
+      "note": "Several feed items are decontextualized fragments from scrolling, so the pass extracts only Jiang's explicit judgments rather than trying to reconstruct the underlying posts."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0061"
+      ],
+      "note": "The transcript says 'Manny Hassan'; context suggests Mehdi Hasan, but the pass keeps the interpretation conservative because the ASR form is noisy."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0063",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0064"
+      ],
+      "note": "The Opus Dei, JD Vance, and Catholic-family-network material is presented as Jiang's speculation and inference rather than evidence demonstrated inside the source."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0068",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0069"
+      ],
+      "note": "The ASR renders Nick Fuentes inconsistently, and Jiang's compromise argument relies on his interpretation of January 6 treatment rather than evidence demonstrated inside the packet."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0072"
+      ],
+      "note": "The references to 'third room eschatology,' Accelerationism, and Dugin are brief and speculative; the packet does not fully define those frames."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0073"
+      ],
+      "note": "The opening of the AI question is noisy ASR, but the core issue is still clear: state-funded AI and data-center buildout as a geopolitical-control question."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0076",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0078"
+      ],
+      "note": "The references to Larry Johnson, Pepe Escobar, and Judge Napolitano are part of Jiang's criticism of their bomb narrative; the packet does not independently verify their claims or motivations."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0079"
+      ],
+      "note": "Jiang's statement about Mark Carney and a two-thousand-dollar cash limit is presented with his own uncertainty about whether it is passed law or only under discussion."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0081"
+      ],
+      "note": "The ASR renders 'DEI' as 'dia' in the question, but the surrounding answer makes the topic unambiguous."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0083"
+      ],
+      "note": "The claims about antifa and the George Floyd protests being engineered are Jiang's interpretation in this source and are not independently established inside the packet."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0088"
+      ],
+      "note": "The Weimar comparison is concise and analogical rather than a detailed historical argument, so the packet should preserve it as a forecast frame rather than a developed model."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0089"
+      ],
+      "note": "The viewer's question about Chinese spiritual belief is noisy ASR, but the answer's subject is still clear enough to preserve the exchange."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0091"
+      ],
+      "note": "The final thank-you is too brief to identify the speaker precisely beyond 'not Jiang.'"
+    }
+  ]
+}

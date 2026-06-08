@@ -1,0 +1,218 @@
+{
+  "packet_id": "predictive-history-kfh4aujwqti-semantics-pkt-0001",
+  "source_id": "video:predictive-history-kfh4aujwqti",
+  "source_date": "2026-06-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0001",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0002",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang frames the livestream as a demonstration of how he researches and interprets news, then insists he is an independent analyst rather than a state actor or team-backed operator.",
+      "speaker_attribution": "Jiang livestream monologue with diarization noise.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0004",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0005",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0006",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He uses the Ivanka Trump Albania resort controversy to model his method: infer strategic intent, then ask who is organizing and funding protests before mapping the ideological and institutional actors involved.",
+      "speaker_attribution": "Jiang livestream monologue.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0002",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0005"
+      ],
+      "note": "These short segments are labeled as a second speaker, but context indicates they are still Jiang narrating his own transition and screen-share setup rather than audience intervention.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the point of the founding-members livestream is to expose his method for watching, interpreting, and analyzing news in real time.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Livestream framing claim on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "research",
+        "livestream"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents himself as a one-man analyst with no intelligence ties, no confidential sources, no institutional backing, and an intentionally lightweight media stack centered on Twitter, YouTube, and Google.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0002",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Self-description on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "independence",
+        "information-sources"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ivanka Trump's choice to do a rare interview is interpreted as strategic image management around a project she wants seen as virtuous and personal.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0004",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Livestream interpretation of current news on 2026-06-07.",
+      "topic_tags": [
+        "Ivanka Trump",
+        "strategy",
+        "image-management"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his basic protest-analysis heuristic is to ask who is organizing the protest and who is funding it.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Method claim on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "protests",
+        "funding"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He infers that Albanian environmental protest networks may sit inside a George Soros/Open Society orbit because NGOs, study-abroad youth, and conservation funders map onto a Western ideological pipeline in Eastern Europe.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Livestream inference on 2026-06-07 about Albania protests.",
+      "topic_tags": [
+        "Albania",
+        "George Soros",
+        "Open Society",
+        "NGO"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang treats the identity of the actors in a story as the key prerequisite for anticipating how the story will develop.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Method claim on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "actor-analysis",
+        "prediction"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that Israel is the foreign actor most aggressively spying on the American military, more effectively than Russia, China, or Britain.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Geopolitical claim made on 2026-06-07 about current intelligence concerns.",
+      "topic_tags": [
+        "Israel",
+        "espionage",
+        "United States military"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0002",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0003"
+      ],
+      "moment": "The opening anti-mystique move is that the analyst is not a spy at all, just one person in a bedroom with Twitter, YouTube, and Google.",
+      "source_phrase": "I am not a spy ... I'm just one guy sitting in my bedroom doing research",
+      "why_it_matters": "It establishes the founding-members episode as a demonstration of method built on pattern reading rather than hidden access.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007"
+      ],
+      "moment": "When a protest appears, Jiang's mind immediately splits it into organizer and funder.",
+      "source_phrase": "who's organizing these protests ... who's funding these protests",
+      "why_it_matters": "This is the cleanest reusable statement of the source's investigative heuristic.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "moment": "He does not start with moral judgment; he starts by identifying the people in the story so he can forecast what they will do next.",
+      "source_phrase": "I'm just trying to figure out who are the people in this story",
+      "why_it_matters": "It compresses Jiang's shift from ideological reaction to actor-mapping and strategic prediction.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "actor-mapping",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang's practice of identifying organizers, funders, and ideological networks before predicting how a news story will unfold.",
+      "confidence": "high"
+    },
+    {
+      "term": "Open Society pipeline",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "Jiang's shorthand for NGOs and study-abroad networks that he thinks channel young Eastern Europeans into Western ideology.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0001",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0003"
+      ],
+      "note": "On 2026-06-07 Jiang explicitly stages a 'founding members' session as a live demonstration of his research method, which makes this source valuable for explaining process rather than only conclusions.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0008"
+      ],
+      "note": "The Soros/Open Society linkage is framed as Jiang's inference from NGO and study-abroad cues, not as demonstrated evidence inside the source itself."
+    }
+  ]
+}
