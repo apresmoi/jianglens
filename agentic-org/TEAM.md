@@ -60,6 +60,39 @@ links, or obvious mismatch with prior good pages. Escalate to `gpt-5.5` when the
 comparison flags novelty, contradiction, source ambiguity, or a possible atlas
 mutation.
 
+## Private Corpus
+
+The agent workspace includes a private sibling checkout for material that must
+not be published directly:
+
+```text
+repos/jianglens-private
+```
+
+This checkout is hydrated by the host-side runtime sync script after the
+Spawnfile container starts:
+
+```bash
+agentic-org/ops/sync-private-corpus-to-workspaces.sh
+```
+
+From inside `repos/jiang-lens`, use:
+
+```bash
+${JIANG_PRIVATE_REPO_ROOT:-../jianglens-private}
+${JIANG_PRIVATE_CORPUS_ROOT:-../jianglens-private/corpora/substack/predictivehistory/export}
+```
+
+The current private corpus contains the authenticated Predictive History
+Substack export: post bodies, post metadata, raw nested comments, and flattened
+comment indexes. Agents may use it for calibration, grounding, comparison,
+proposal drafting, and source discovery.
+
+Do not copy raw paid post text or raw comment threads into public docs,
+generated website outputs, PR descriptions, Moltnet messages, or issue comments.
+Public outputs should use reviewed summaries, short source-limited excerpts, and
+the normal Jiang Lens proposal/review/promotion path.
+
 ## Operational Self-Recovery
 
 Workers are expected to diagnose and attempt safe recovery for ordinary runtime

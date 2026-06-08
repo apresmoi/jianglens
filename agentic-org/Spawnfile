@@ -40,6 +40,8 @@ shared:
       GIT_AUTHOR_EMAIL: agents@jianglens.local
       GIT_COMMITTER_NAME: Jiang Lens Agents
       GIT_COMMITTER_EMAIL: agents@jianglens.local
+      JIANG_PRIVATE_REPO_ROOT: ../jianglens-private
+      JIANG_PRIVATE_CORPUS_ROOT: ../jianglens-private/corpora/substack/predictivehistory/export
     secrets:
       - name: GH_TOKEN
         required: true
