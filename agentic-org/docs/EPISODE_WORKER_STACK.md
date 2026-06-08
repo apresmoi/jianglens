@@ -180,9 +180,15 @@ ${JIANG_PRIVATE_CORPUS_ROOT:-../jianglens-private/corpora/substack/predictivehis
 
 The host running Spawnfile must have a read-only SSH deploy-key alias named
 `github.com-jianglens-private` for `apresmoi/jianglens-private`; this keeps
-private corpus hydration separate from the agent `GH_TOKEN`. Treat that checkout
-as private grounding material: use it for analysis and proposals, but do not
-publish raw paid post text or raw comment threads.
+private corpus hydration separate from the agent `GH_TOKEN`. After
+`spawnfile up`, the operator hydrates agent workspaces from the host checkout:
+
+```bash
+agentic-org/ops/sync-private-corpus-to-workspaces.sh
+```
+
+Treat that checkout as private grounding material: use it for analysis and
+proposals, but do not publish raw paid post text or raw comment threads.
 
 If an agent learns something durable about its own behavior, it should edit the
 committed copy under `repos/jiang-lens/agentic-org/agents/<agent-id>/...` and

@@ -14,12 +14,6 @@ shared:
         branch: main
         mount: ./repos/jiang-lens
         mode: mutable
-      - id: jiang-lens-private-repo
-        kind: git
-        url: git@github.com-jianglens-private:apresmoi/jianglens-private.git
-        branch: main
-        mount: ./repos/jianglens-private
-        mode: mutable
     skills:
       - ref: ../.codex/skills/moltnet
       - ref: ../.codex/skills/jiang-autonomous-work-protocol
