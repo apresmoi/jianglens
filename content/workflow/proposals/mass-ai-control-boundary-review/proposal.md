@@ -1,11 +1,11 @@
 # Mass Society / AI Control Boundary Review
 
-Date: 2026-06-01; refreshed 2026-06-05
-Status: concept-scoped routing proposal; public prose held; June 5 refresh after AI Apocalypse impact/link/public-anchor work
-Work type: synthesis after Mass Society domestic-grid, AI God boundary, March 24 ledger, Hasan forecast-comparison records, AI Eats Itself review, and May 12 AI Apocalypse public anchor
+Date: 2026-06-01; refreshed 2026-06-05 and 2026-06-08
+Status: concept-scoped routing proposal; public prose held; June 5 refresh after AI Apocalypse impact/link/public-anchor work; June 8 refresh after Prediction emergency forecast-family review
+Work type: synthesis after Mass Society domestic-grid, AI God boundary, March 24 ledger, Hasan forecast-comparison records, AI Eats Itself review, May 12 AI Apocalypse public anchor, and June 8 Prediction emergency-family review
 Public surface affected later: `website/src/content/docs/lens/mass-society-as-political-constraint.md`, `website/src/content/docs/lens/ai-as-control-surface.md`, `website/src/content/docs/lens/prediction-as-falsifiable-prophecy.md`, possible child pages only after split review
 
-Review: `content/workflow/reviews/mass-ai-control-boundary-review/local-judge-2026-06-04.md`
+Review: `content/workflow/reviews/mass-ai-control-boundary-review/local-judge-2026-06-04.md`; refreshed at `content/workflow/reviews/mass-ai-control-boundary-refresh/local-judge-2026-06-05.md` and `content/workflow/reviews/mass-ai-control-domestic-pressure-review/local-judge-2026-06-08.md`
 
 ## Decision
 
@@ -85,6 +85,33 @@ The **2026-05-18** Sneako interview widens the grid into a surveillance bargain:
 The **2026-05-19** Holy Empire lecture joins the infrastructure and sacred layers. Oracle, Operation Stargate, data centers, and Palantir prediction supply the Mass Society database stack (`video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0059`, `video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0060`, `video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0070`), while AI entering the head, eliminating subjectivity, and making sameness into God belongs to Eschatology and AI Control (`video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0071`, `video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0072`, `video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0073`).
 
 The **2026-05-26** predictive-history synthesis gives the cleanest boundary sentence. Joined hospital, school, work, police, health, purchase, and browsing records create practical omniscience (`video:predictive-history-dja6dkcfnge@transcript:v1#seg-0058`): Mass Society. Religious imagination animates the machine (`video:predictive-history-dja6dkcfnge@transcript:v1#seg-0059`): Eschatology and AI Control. AI replacing money as the next godlike command system (`video:predictive-history-dja6dkcfnge@transcript:v1#seg-0060`, `video:predictive-history-dja6dkcfnge@transcript:v1#seg-0061`): Power, Attention, and AI Control by active mechanism.
+
+## June 8 Update
+
+The June 8 Prediction emergency forecast-family review adds one decision: the April-May domestic-control cluster still does **not** require a new public Mass Society child, an AI Police State page, or a Prediction append.
+
+Fresh local diagnostics on current `main`:
+
+- **Mass Society As Political Constraint:** about 5,180 words, 20 distinct local evidence source slugs, and 14 stable anchors. The page is near source-count watch but below hard split pressure after earlier compression.
+- **AI As Control Surface:** about 2,853 words, 13 distinct local evidence source slugs, and 6 stable anchors. It is not size-pressured; its risk is boundary drift if every database or policing claim is treated as AI-interface material.
+- **Attention Capture As Capital Extraction:** about 5,078 words, 15 local source slugs, and 11 anchors. Keep it for captured focus, loneliness, companion dependency, reading displacement, and imagination shrinkage.
+- **Power As Alchemy:** about 5,244 words, 19 local source slugs, and 18 anchors. Keep it for stablecoins, Treasury demand, money-to-AI replacement, debt absorption, and value conversion.
+- **Prediction As Falsifiable Prophecy:** about 4,133 words, 14 local source slugs, and 9 anchors. Keep it for source-date accountability, active-watch status, ledger readiness, and miss/revision records.
+
+The main new pressure is **federal voter-list / mail-ballot administration** as an adjacent status path to the March 24 war-draft emergency family. Prediction should hold the status check and revision risk: the voter-list route is not the same mechanism as limited deployment -> mission creep -> draft riots -> National Guard -> emergency powers unless a later Jiang source explicitly revises the route. Mass Society should receive only the administrative object if future public prose needs it: voter lists as population legibility, eligibility control, identity verification, and permission infrastructure. Legitimacy Fiction owns the emergency title or crisis legality; Proximity Games owns factional election payoff; Prediction owns whether a dated claim has shifted.
+
+The April-May control apparatus therefore remains a **shared routing family**, not a single public child page:
+
+- **Draft administration and federal force:** Mass Society when bodies are being made available, policed, mobilized, rationed, or denied ordinary movement.
+- **Federal voter lists and mail-ballot machinery:** Mass Society only as population legibility and permission infrastructure; Prediction when the object is whether the March 24 emergency route is confirmed, missed, or revised.
+- **Data centers, Oracle, Palantir, Stargate, digital ID, digital currency, and joined records:** Mass Society when the population database is the active object; Platform Infrastructure when Jiang is redirecting from visible product or owner to deeper pipes.
+- **AI as answer, companion, body interface, sacred voice, or imagination governor:** AI As Control Surface when command reaches the person through the interface; Attention when the object is captured focus or dependency.
+- **AI God, Antichrist, Jesus mask, holy empire, salvation-through-obedience:** Eschatology when sacred role-script language is doing the work.
+- **Stablecoin, Treasury demand, dollar-to-AI replacement, money as older god:** Power As Alchemy when value conversion is primary.
+
+This update chooses **no public mutation today**. A public Mass Society edit would be justified only if it replaces weaker prose, compresses the digital-permission / domestic-war-control / surveillance-bargain spine, or creates a Dante-reviewed child after evidence shows the parent cannot carry the mechanism. A public AI Control edit would be justified only as a replacement/compression around interface sequence: illusion before intelligence, degraded answer, intimate attention command, body interface, omniscience/religion, and human-value skepticism.
+
+Do not create **Domestic Control Grid**, **AI Police State**, **Federal Voter-List Control**, **AI God**, **World Made Safe For AI**, **Data-Center Empire**, or **Imagination-Control Interface** as public pages now. The existing parents and anchors are sufficient unless clustered episode links require a narrower hover or Mass Society crosses size/source pressure again.
 
 ## Boundary Table
 
