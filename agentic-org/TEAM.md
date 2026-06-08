@@ -69,6 +69,13 @@ not be published directly:
 repos/jianglens-private
 ```
 
+This checkout is hydrated by the host-side runtime sync script after the
+Spawnfile container starts:
+
+```bash
+agentic-org/ops/sync-private-corpus-to-workspaces.sh
+```
+
 From inside `repos/jiang-lens`, use:
 
 ```bash
