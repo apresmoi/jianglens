@@ -1,0 +1,222 @@
+{
+  "packet_id": "predictive-history-kfh4aujwqti-semantics-pkt-0006",
+  "source_id": "video:predictive-history-kfh4aujwqti",
+  "source_date": "2026-06-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0041",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0043"
+      ],
+      "kind": "exchange",
+      "summary": "A viewer asks about note-taking and news filtering, and Jiang answers that he keeps almost everything in memory, promoting items from short-term to long-term only when they keep escalating.",
+      "speaker_attribution": "Viewer questions followed by Jiang answers.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0043",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0044",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0045"
+      ],
+      "kind": "monologue",
+      "summary": "He says Twitter analysis depends on distinguishing genuine signals from AI-generated or clickbait noise, then pivots into a live demonstration of his feed-reading process.",
+      "speaker_attribution": "Jiang livestream monologue with diarization splits during screen-share setup.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0046",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0047"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He reads a sensational Elon Musk claim about the U.S.-Israel defense bill, immediately dismissing it as fabricated noise.",
+      "speaker_attribution": "Jiang quoting a feed item and then judging it.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Scanning further down the feed, Jiang disregards several items as irrelevant or incoherent, then locks onto a China-Japan-Philippines maritime story as a genuine conflict signal worth tracking.",
+      "speaker_attribution": "Jiang live-reading and triaging Twitter items.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0041",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0045"
+      ],
+      "note": "These second-speaker labels contain Jiang's own trailing market comment and screen-share narration around viewer prompts, so the diarization split does not mark a stable separate speaker.",
+      "suggested_speaker": "mixed viewer prompt and Jiang narration",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says he does not keep written notebooks or computer notes; instead he stores potential story lines in memory and waits to see whether they escalate before committing them to long-term attention.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Method claim stated on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "memory",
+        "note-taking"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He presents memory-based filtering as a way to preserve intellectual flexibility, arguing that not writing everything down lets him keep more freedom in how patterns later connect.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Method claim stated on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "intellectual flexibility",
+        "memory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Twitter analysis requires separating what is actually newsworthy from clickbait and from AI-generated fabricated content.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0043",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0044"
+      ],
+      "temporal_scope": "Method claim stated on 2026-06-07.",
+      "topic_tags": [
+        "Twitter",
+        "AI fabrication",
+        "news judgment"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He dismisses the Elon Musk claim about Congress hiding the U.S.-Israel military relationship in the defense bill as made-up noise rather than a usable signal.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0046",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Real-time feed judgment on 2026-06-07.",
+      "topic_tags": [
+        "Twitter",
+        "Elon Musk",
+        "Section 224",
+        "misinformation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang identifies China-Japan-Philippines maritime delimitation as a real conflict track worth watching and predicts that China and Japan will eventually go kinetic over South China Sea shipping lanes.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Forward-looking geopolitical judgment stated on 2026-06-07.",
+      "topic_tags": [
+        "China",
+        "Japan",
+        "Philippines",
+        "South China Sea"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the emerging maritime conflict matters because Japan is abandoning strategic ambiguity and moving toward a clearer confrontation over territorial waters and shipping encroachment.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Geopolitical diagnosis stated on 2026-06-07.",
+      "topic_tags": [
+        "Japan",
+        "strategic ambiguity",
+        "territorial waters",
+        "shipping lanes"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042"
+      ],
+      "moment": "Jiang's archive is almost entirely mental: he keeps story lines in short-term memory until events prove they deserve promotion.",
+      "source_phrase": "I basically put the news item in short-term memory",
+      "why_it_matters": "It is one of the cleanest method disclosures in the source and explains how he builds patterns without visible notebooks.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0043"
+      ],
+      "moment": "He claims to have trained his mind into a detector that spots the difference between signal and manufactured AI noise.",
+      "source_phrase": "I've turned my mind to be able to spot the difference",
+      "why_it_matters": "This preserves the packet's central self-description of judgment as a cultivated perceptual skill.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "moment": "Among the feed clutter, the line Jiang decides to keep is stark: at some point China and Japan will go kinetic over the shipping lanes.",
+      "source_phrase": "at some point, China and Japan will go kinetic",
+      "why_it_matters": "It captures how his live feed triage converts noisy snippets into a concrete war forecast.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "intellectual flexibility",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Jiang's reason for avoiding extensive notes: hold emerging items in memory until repeated escalation clarifies what deserves durable attention.",
+      "confidence": "high"
+    },
+    {
+      "term": "go kinetic",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Jiang's phrase for latent maritime competition turning into actual military conflict.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "note": "On 2026-06-07 Jiang moves from abstract method explanation into a live Twitter-feed demonstration, making this packet especially useful for showing how his memory and triage model produces concrete geopolitical forecasts in real time.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0046",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0048"
+      ],
+      "note": "Several quoted Twitter lines are ASR-corrupted or decontextualized, so the semantic pass preserves only judgments clearly supported by Jiang's surrounding narration."
+    }
+  ]
+}

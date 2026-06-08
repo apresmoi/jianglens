@@ -1,0 +1,219 @@
+{
+  "packet_id": "predictive-history-kfh4aujwqti-semantics-pkt-0003",
+  "source_id": "video:predictive-history-kfh4aujwqti",
+  "source_date": "2026-06-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0017"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang escalates his AI warning into a prediction that the state will eventually take over expensive data centers and convert them into protected military infrastructure.",
+      "speaker_attribution": "Jiang livestream monologue.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0018",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0019",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0020",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0021"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "He walks through Candace Owens material about Russia, sanctions, and Christian bridge-building, then interprets the trip as a public signal of deeper Russia-America religious rapprochement.",
+      "speaker_attribution": "Jiang quoting and paraphrasing Candace Owens material with noisy ASR in the quoted clip.",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0022",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0023",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "Answering a chat question about Candace Owens's agenda, Jiang argues that her courage and Russia trip make sense if she is backed by a Catholic faction seeking reconciliation with Orthodoxy against Western secular liberalism.",
+      "speaker_attribution": "Jiang answering a viewer question.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0019"
+      ],
+      "note": "This brief second-speaker segment appears inside Jiang's playback or paraphrase of Candace Owens material rather than as a live audience interruption.",
+      "suggested_speaker": "quoted clip / not live chat",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang predicts that the government will eventually make major AI data centers public because their costs are too high to sustain privately.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Forward-looking prediction stated on 2026-06-07.",
+      "topic_tags": [
+        "AI",
+        "data centers",
+        "public ownership"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says state takeover would harden AI infrastructure into protected military bases, making public sabotage far more difficult.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Forward-looking strategic warning on 2026-06-07.",
+      "topic_tags": [
+        "AI",
+        "militarization",
+        "data centers"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Candace Owens's Russia messaging as evidence that sanctions branding does not break Russia and that she is willing to mock Western assumptions about Russian isolation.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0018",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Livestream interpretation on 2026-06-07.",
+      "topic_tags": [
+        "Candace Owens",
+        "Russia",
+        "sanctions"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He interprets Owens's bridge-between-Christians rhetoric as an attempt to reconcile Catholic and Orthodox worlds rather than merely defend Russia geopolitically.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0020",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "Candace Owens",
+        "Catholicism",
+        "Orthodoxy",
+        "religion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Candace Owens's agenda is best explained by support from a powerful Catholic or Jesuit-adjacent network that sees her as a vehicle for spiritual and civilizational renewal.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0022",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0023",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "Candace Owens",
+        "Jesuits",
+        "Catholic Church",
+        "agenda"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He argues that this faction's perceived enemy is American materialism, secularism, and liberalism rather than ordinary party politics.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "materialism",
+        "secularism",
+        "liberalism",
+        "religion"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0017"
+      ],
+      "moment": "The AI bailout forecast sharpens into a militarization forecast: once the state owns the data centers, they stop being civilian targets and start being military bases.",
+      "source_phrase": "once the government takes them over, then these data centers can become military bases",
+      "why_it_matters": "It preserves the packet's strongest causal chain from subsidy to securitization.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0020"
+      ],
+      "moment": "Candace Owens in Russia is interpreted not just as geopolitics but as an attempted Christian bridge between East and West.",
+      "source_phrase": "become a bridge that unites Christians in the East and Christians in the West",
+      "why_it_matters": "It captures the packet's move from media event to religious-civilizational strategy.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "moment": "Jiang's reading of elite backing is that Candace Owens is a vehicle for people who see American materialism and secularism as the enemy.",
+      "source_phrase": "they see the great enemy as American materialism, secularism, liberalism",
+      "why_it_matters": "It condenses the underlying civilizational enemy-image driving his interpretation of the Owens-Russia story.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "public data-center takeover",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0017"
+      ],
+      "definition_or_usage": "Jiang's forecast that the state will nationalize or publicly absorb expensive AI data centers and then protect them as strategic infrastructure.",
+      "confidence": "high"
+    },
+    {
+      "term": "spiritual awakening",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "definition_or_usage": "Jiang's name for the civilizational role he assigns to Candace Owens: drawing people back toward traditional Christian faith against secular modernity.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0017",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "note": "On 2026-06-07 Jiang explicitly connects domestic AI infrastructure politics with a separate religious-realignment reading of Candace Owens in Russia, showing how widely he ranges within one predictive frame.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0018",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0019"
+      ],
+      "note": "The Kenneth/Candace clip transcript is heavily corrupted by ASR, so the semantic pass keeps only the broad Russia-sanctions and bridge-building interpretation that is supported by surrounding context."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0023",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0024"
+      ],
+      "note": "The Jesuit-network explanation is Jiang's inference about Owens's backing, not demonstrated evidence inside the source."
+    }
+  ]
+}

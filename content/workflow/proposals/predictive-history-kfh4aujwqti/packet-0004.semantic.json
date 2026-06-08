@@ -1,0 +1,241 @@
+{
+  "packet_id": "predictive-history-kfh4aujwqti-semantics-pkt-0004",
+  "source_id": "video:predictive-history-kfh4aujwqti",
+  "source_date": "2026-06-07",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0025",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0026",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0027"
+      ],
+      "kind": "answer",
+      "summary": "Continuing the Candace Owens discussion, Jiang says her significance lies in her role-model status for young religious families, then pivots back to AI by arguing firms offload their costs onto retail investors and government.",
+      "speaker_attribution": "Jiang answering chat prompts with a diarization split mid-answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0028",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0029",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0030",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031"
+      ],
+      "kind": "answer",
+      "summary": "Asked how he selects interesting news, Jiang explains that he looks for dissonance between events and his existing world model: spotlight-seeking by private figures, Bernie Sanders discussing AI with Sam Altman, or Pentagon leaks against Israel.",
+      "speaker_attribution": "Jiang answering viewer questions; one short segment is mislabeled as another speaker but remains part of his answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "After a viewer suggests having someone monitor chat, Jiang agrees, admits livestreaming is harder than expected, and floats later moderator or Zoom participation as improvements.",
+      "speaker_attribution": "Viewer suggestion followed by Jiang response.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0026",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0030"
+      ],
+      "note": "These short second-speaker fragments read as continuations of Jiang's own answer rather than distinct audience interventions.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Candace Owens matters as a charismatic young mother and religious model who represents pronatal family life and overt Christian commitment for her audience.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0025",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0026",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "Candace Owens",
+        "religion",
+        "family",
+        "role model"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that AI firms survive by unloading infrastructure costs onto retail investors, governments, and anyone except the operators who keep the upside.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Livestream economic claim on 2026-06-07.",
+      "topic_tags": [
+        "AI",
+        "retail investors",
+        "subsidy",
+        "profit"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he selects interesting news by testing events against a prior theoretical framework and paying attention when something creates dissonance with that framework.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0028",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0029",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Method claim on 2026-06-07.",
+      "topic_tags": [
+        "method",
+        "dissonance",
+        "news selection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats unexpected public behavior by normally private actors such as Ivanka Trump and Jared Kushner as a clue that a hidden agenda is in motion.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0028"
+      ],
+      "temporal_scope": "Method example stated on 2026-06-07.",
+      "topic_tags": [
+        "Ivanka Trump",
+        "Jared Kushner",
+        "method",
+        "agenda"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Bernie Sanders appearing with Sam Altman is newsworthy precisely because Sanders is not an AI figure, so the pairing signals a deeper coordinated agenda.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0029"
+      ],
+      "temporal_scope": "Method example on 2026-06-07.",
+      "topic_tags": [
+        "Bernie Sanders",
+        "Sam Altman",
+        "AI",
+        "dissonance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Pentagon insiders leaking discord with Israel is especially significant because it contradicts his baseline model of Israel as a Pentagon subcontractor for Middle East conflict generation.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0030",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031"
+      ],
+      "temporal_scope": "Livestream diagnosis on 2026-06-07.",
+      "topic_tags": [
+        "Pentagon",
+        "Israel",
+        "Middle East",
+        "dissonance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says this is his first solo livestream and that he may later use moderators or Zoom participation because continuous speaking and chat management are exhausting.",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Livestream process note on 2026-06-07.",
+      "topic_tags": [
+        "livestream",
+        "process",
+        "audience interaction"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0027"
+      ],
+      "moment": "The AI business model is framed as a simple extraction machine: everyone else eats the costs while the operators keep the profit.",
+      "source_phrase": "you just unload the costs on retail investors, on government, on anyone except yourself",
+      "why_it_matters": "It preserves the packet's clearest formulation of Jiang's AI political-economy critique.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0028",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031"
+      ],
+      "moment": "Interesting news is not just novelty but dissonance: something appears that should not be there if your current map of the world were complete.",
+      "source_phrase": "I get interested in news when dissonance is created",
+      "why_it_matters": "This is one of the sharpest method statements in the source and likely belongs in any later public read.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031"
+      ],
+      "moment": "The Pentagon-Israel leak becomes a model case of dissonance because even anti-Israel noise is meaningful only when it violates the expected alliance script.",
+      "source_phrase": "that's dissonance ... that doesn't make any sense",
+      "why_it_matters": "It shows how Jiang converts contradiction inside an apparent alliance into a predictive clue.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "dissonance",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0028",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031"
+      ],
+      "definition_or_usage": "Jiang's term for an event or pairing that does not fit his standing theoretical model and therefore deserves closer analysis.",
+      "confidence": "high"
+    },
+    {
+      "term": "role-model politics",
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0025",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0027"
+      ],
+      "definition_or_usage": "Jiang's reading of Candace Owens as a public example of family, religiosity, and reproductive aspiration rather than merely a commentator.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0032"
+      ],
+      "note": "On 2026-06-07 Jiang explicitly describes this as his first livestream and reflects on how the format may evolve toward moderation or direct audience participation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0029"
+      ],
+      "note": "The transcript says 'Seth Altman'; context suggests Sam Altman, but the semantic pass keeps the grounded ASR wording and uses the common-name normalization only in interpretation."
+    },
+    {
+      "refs": [
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0026",
+        "video:predictive-history-kfh4aujwqti@transcript:v1#seg-0030"
+      ],
+      "note": "Short split segments likely reflect diarization or boundary noise rather than true speaker changes."
+    }
+  ]
+}
