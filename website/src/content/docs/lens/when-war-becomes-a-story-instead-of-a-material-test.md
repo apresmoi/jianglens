@@ -39,9 +39,9 @@ The three tests are deliberately unromantic.
 
 **Logistics** asks whether supply, maintenance, fatigue, replacement, and geography have been faced. Jiang's air-war example is not that the United States lacks air power. It is that a force designed for a short air campaign can encounter [maintenance, pilot fatigue, and enemy adaptation]{evidence="video:predictive-history-0hyet47cc-e@transcript:v1#seg-0014 video:predictive-history-0hyet47cc-e@transcript:v1#seg-0015"}. Air supremacy does not abolish wear. A machine still has to be repaired. A pilot still gets tired. An enemy that survives long enough starts learning.
 
-## Chokepoint Empire And No-Exit War
+## Chokepoint Children
 
-The access-control and Iran-war systems material now has its own child lens: [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/). That page carries the dense Hormuz, Malacca, Gulf fragility, cheap-energy platform, hemisphere supply-line, systems-fire, no-exit, ceasefire-theater, war-momentum, and escalation-ladder anchors.
+The access-control and Iran-war systems material now has two child lenses. [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) carries the dense Hormuz, Malacca, Gulf fragility, cheap-energy platform, hemisphere supply-line, systems-fire, and ceasefire-theater anchors. [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/) carries the no-exit, war-momentum, and escalation-ladder anchors.
 
 The parent rule is simpler. A reserve-currency empire can try to become a chokepoint empire when monetary circulation weakens, but the move still has to pass the material test: ships, crews, repair yards, ports, oil, food, bases, client economies, and alliance belief must survive the pressure they are asked to carry. If a gate closes or becomes too costly to police, the protection story that made the empire's money and bases feel normal can be audited at once.
 
@@ -61,7 +61,7 @@ This belongs on Strategy rather than only [Human Heart](/lens/human-heart-as-civ
 
 ## No-Exit War
 
-The no-exit war material now lives inside [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/), where the stable anchor `strategy-no-exit-war-dollar-trap` remains intact. The parent keeps the diagnostic: a war can begin as defense of money, alliance, prestige, or protection, then become harder to stop than to continue because exit would discredit the order that made the war possible.
+The no-exit war material now lives inside [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/), where the stable anchor `strategy-no-exit-war-dollar-trap` remains intact. The parent keeps the diagnostic: a war can begin as defense of money, alliance, prestige, or protection, then become harder to stop than to continue because exit would discredit the order that made the war possible.
 
 Use this parent section to recognize the pattern. Use the child page for the detailed Iran-war chain: ground troops that airpower cannot replace, draft and manufacturing limits, Gulf-client exposure, Hormuz taxation, Treasury-buyer doubt, and the casino-like pressure to fund one more bad move.
 
@@ -95,7 +95,7 @@ This belongs inside strategy rather than only [How Stories Control Reality](/len
 
 ## Ceasefire Theater And War Architecture
 
-The ceasefire-theater anchor now lives in [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/) as `strategy-ceasefire-theater-war-architecture`. The parent keeps the routing rule: peace language is not enough if the underlying architecture still points through blockades, energy disruption, war-economy conversion, defense planning, chokepoints, and dollar-financed supply.
+The ceasefire-theater anchor now lives in [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) as `strategy-ceasefire-theater-war-architecture`. The parent keeps the routing rule: peace language is not enough if the underlying architecture still points through blockades, energy disruption, war-economy conversion, defense planning, chokepoints, and dollar-financed supply.
 
 This belongs to Strategy when the question is what material system continues under the public signal. It belongs to [How Stories Control Reality](/lens/how-stories-control-reality/) when the ceasefire language itself is the operative script, and to [Power As Alchemy](/lens/power-as-alchemy/) when the financing belief loop is the active object.
 
@@ -171,7 +171,7 @@ This is also why Jiang is suspicious of imperial hubris. The dominant actor ofte
 
 ## War Gets Its Own Logic
 
-The war-momentum and escalation-ladder material now lives inside [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/), preserving the stable anchors `strategy-war-gets-own-logic` and `strategy-escalation-ladder-gains-momentum`. The parent keeps the broader test: a war gets its own logic when the material and political cost of stopping becomes larger than the next escalation.
+The war-momentum and escalation-ladder material now lives inside [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/), preserving the stable anchors `strategy-war-gets-own-logic` and `strategy-escalation-ladder-gains-momentum`. The parent keeps the broader test: a war gets its own logic when the material and political cost of stopping becomes larger than the next escalation.
 
 Use this parent rule when reading any theater. Ask what ceasefire would discredit, which geography must now be held, which institutions are suppressing feedback, and whether face-saving has become a war capacity. Go to the child page when the mechanism is specifically tied to Hormuz, Gulf protection, ground-war traps, and escalation control in the Iran-war cluster.
 
@@ -281,7 +281,7 @@ This parent page now keeps the source trail compact so it can serve as the Strat
 - **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/) - war must be judged by economics, organization, and logistics before rescue mythology and noble scenes are believed.
 - **2026-05-21**, [Putin Does Not Want The Throne](/episodes/predictive-history-x83hclwvhi8/) - sanctioned-state volatility can make American policing, dollar demand, and allied protection too expensive across several boards.
 
-For the moved access-control cluster, see [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/).
+For the moved access-control cluster, see [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/). For the moved no-exit and escalation cluster, see [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/).
 
 For the moved imperial cost-transfer cluster, see [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/).
 

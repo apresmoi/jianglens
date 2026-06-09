@@ -9,7 +9,7 @@ Iran as pressure point names a recurring Jiang mechanism: Iran matters because p
 
 This page is not the same as the Iran Trap. The trap is the invasion problem: a hegemon enters believing it can dictate terms and then discovers that geography, morale, logistics, and domestic politics make exit harder than entry. Iran as pressure point is wider. It asks why Iran is the place where several systems can be audited at once.
 
-Use this lens when the active Jiang claim is transmission. A strike on Iran becomes a test of [whether military dominance can still command energy, money, alliance belief, and population will]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0011 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0013 video:interview-px5wsnsqwme@transcript:v1#seg-0029"}. Route narrow strait, blockade, and no-exit mechanics to [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/). Route dated forecast auditing to [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/).
+Use this lens when the active Jiang claim is transmission. A strike on Iran becomes a test of [whether military dominance can still command energy, money, alliance belief, and population will]{evidence="video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0011 video:predictive-history-jis2eb-rgv0@transcript:v1#seg-0013 video:interview-px5wsnsqwme@transcript:v1#seg-0029"}. Route narrow strait and blockade mechanics to [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/); route exit-cost and escalation-ladder mechanics to [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/). Route dated forecast auditing to [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/).
 
 ## The Original Trap Becomes A System Test
 
@@ -77,7 +77,8 @@ Ask whether the actor is using dominance or control. Dominance counts weapons an
 
 ## Related Concepts
 
-- [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/) - for Hormuz, no-exit war, ceasefire theater, and access-control strategy in detail.
+- [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) - for Hormuz, blockade, ceasefire theater, and access-control strategy in detail.
+- [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/) - for no-exit war, mission creep, morale, and escalation feedback.
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) - for the broader strategy audit of logistics, economics, organization, and war-story failure.
 - [Dollar Hegemony](/lens/dollar-hegemony/) - for the reserve-currency and foreign-buyer layer exposed by Iran.
 - [Eschatology As Script](/lens/eschatology/) - for sacred war scripts and end-time role assignment.
