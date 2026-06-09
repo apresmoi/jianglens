@@ -1,6 +1,6 @@
 ---
 title: No-Exit War And Escalation Ladder
-description: A Jiang Lens concept on wars that become hard to stop because exit would discredit money, alliance protection, face, morale, and the institutions that launched the war.
+description: A Jiang Lens concept on wars that become hard to stop because exit would discredit money, alliances, face, morale, and launching institutions.
 ---
 
 # No-Exit War And Escalation Ladder
