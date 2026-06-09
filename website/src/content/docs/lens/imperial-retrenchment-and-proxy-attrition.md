@@ -136,7 +136,7 @@ Ask these questions when applying this lens.
 ## Related Concepts
 
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/)
-- [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/)
+- [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/)
 - [Power As Alchemy](/lens/power-as-alchemy/)
 - [Game Theory](/lens/game-theory/)
 - [Nation As God-Machine](/lens/nation-as-god-machine/)

@@ -80,5 +80,6 @@ Ask whether the dollar is acting as money, tribute, tax, rank, addiction, or con
 - [Power As Alchemy](/lens/power-as-alchemy/) - for the broader conversion of money and symbols into lived reality.
 - [Debt As Sovereignty](/lens/debt-as-sovereignty/) - for debt as policy discipline, foreign tax administration, consumer absorption, and sovereignty loss.
 - [Iran As Pressure Point](/lens/iran-as-pressure-point/) - for the war surface that exposes petrodollar and Treasury dependence.
-- [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/) - for the material gate where dollar protection is tested.
+- [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) - for the material gate where dollar protection is tested.
+- [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/) - for the exit-cost trap that appears when retreat would make dollar protection look false.
 - [Nation As God-Machine](/lens/nation-as-god-machine/) - for the national body, military, manufacturing, and financing needed to enforce the dollar order.

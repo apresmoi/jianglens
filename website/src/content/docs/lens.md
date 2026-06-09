@@ -286,7 +286,7 @@ The current atlas therefore treats strategy as a double test. Does the actor und
 <span id="strategy-tests-story-against-material-reality" class="lens-point-anchor"></span>
 Strategy fails when story and material reality are no longer checking each other. A state can possess power, myth, and will, yet still lose if its story cannot pass the tests of cost, organization, logistics, alliance, and time.
 
-[Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/) is the first child surface under this strategy family. It owns the access-control cluster: straits, canals, blockades, Hormuz, Malacca, Gulf fragility, cheap-energy platforms, ground-war traps, ceasefire theater, and escalation ladders. The parent remains the general material-audit entry point.
+[Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) is the first child surface under this strategy family. It owns the access-control cluster: straits, canals, blockades, Hormuz, Malacca, Gulf fragility, cheap-energy platforms, hemisphere supply lines, and ceasefire theater. [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/) now carries the narrower exit-cost cluster: ground-war traps, unavailable draft or occupation capacity, mission creep, morale, face, and escalation feedback. The parent remains the general material-audit entry point.
 
 ## [Gerontocracy And Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/)
 
