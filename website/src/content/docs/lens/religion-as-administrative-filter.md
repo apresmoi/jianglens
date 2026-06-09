@@ -9,7 +9,7 @@ Religion becomes an administrative filter when a worldview does more than legiti
 
 In this Jiang Lens concept, "religion" is not limited to church or temple. It can mean a cosmic story, a cultivation canon, a ritual code, or even an intellectual procedure that decides who counts as trustworthy. The filter works before mass belief has to be complete. It can be aimed at administrators, scholar-officials, priests, scientists, or any class whose job is to make a large system operate at a distance.
 
-The source trail runs from the **2024 Cyrus lecture** through the **2025 Middle Kingdom**, **Scientific Revolution**, and French Revolution lectures. Persia supplies the clean positive mechanism: the empire needs loyal administrators, and Zoroastrianism binds them to truth against lie. China supplies the darker comparison: Confucian bureaucratism routes status, literacy, and culture through a scholar-official monopoly. Science supplies the modern countercase: doubt becomes a productive bureaucracy that later risks gatekeeping out the founding genius. The French Revolution sequence supplies the boundary: reason can inherit religion's truth-making and sacrificial work without primarily functioning as an officeholder filter.
+The source trail runs from the **2024 Cyrus lecture** through the **2024 Godhead lecture**, **2025 Middle Kingdom**, **Scientific Revolution**, and French Revolution lectures. Persia supplies the clean positive mechanism: the empire needs loyal administrators, and Zoroastrianism binds them to truth against lie. The early Christian church supplies the institutional scaling case: hierarchy, bishop-controlled interpretation, and aristocratic networks turn doctrine into an office-centered expansion machine. China supplies the darker comparison: Confucian bureaucratism routes status, literacy, and culture through a scholar-official monopoly. Science supplies the modern countercase: doubt becomes a productive bureaucracy that later risks gatekeeping out the founding genius. The French Revolution sequence supplies the boundary: reason can inherit religion's truth-making and sacrificial work without primarily functioning as an officeholder filter.
 
 The boundary matters. [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) asks what happens when offices and procedures survive after institutional life drains away. Religion as administrative filter asks what code makes the office-holding class selectable and loyal in the first place.
 
@@ -38,6 +38,16 @@ Zoroastrianism disciplines Persian administrators by turning imperial honesty in
 This is why Jiang's provocative phrase "best religion" cannot be read as a generic ranking. A student challenges the phrase, and Jiang narrows it. The relevant question is administrative usefulness. The religion is abstract, intellectual, and hard to understand; that abstraction is what makes it attractive to the best administrators. The Persians are [not trying to make a popular religion but to use religion to filter the best and brightest]{evidence="video:predictive-history-hvvtntpzq7e@transcript:v1#seg-0038"}.
 
 The comparison he reaches for is China. To become a scholar-official, one shows cultivation through the Confucian classics. To become an administrator in this Persian system, one believes in Zoroastrianism and participates in its rites. In both cases, access to office passes through a symbolic code that only some people can master.
+
+## Bishop-Controlled Interpretation
+
+The 2024 Godhead lecture adds a Christian institutional case before the later monotheism-symbol argument. Jiang does not treat Paul's church only as a belief community. He describes a church that succeeds because it fits Roman social form: [the pater familias makes the household a small empire, and Paul's church mirrors that hierarchy with bishop at the top, dogma under his control, and interpretation centralized]{evidence="video:predictive-history-za30rbc3ttg@transcript:v1#seg-0012 video:predictive-history-za30rbc3ttg@transcript:v1#seg-0013 video:predictive-history-za30rbc3ttg@transcript:v1#seg-0014"}.
+
+<!-- lens-point id="administrative-filter-bishop-controls-interpretation" concept="administrative-filter" evidence="video:predictive-history-za30rbc3ttg@transcript:v1#seg-0012 video:predictive-history-za30rbc3ttg@transcript:v1#seg-0013 video:predictive-history-za30rbc3ttg@transcript:v1#seg-0014" -->
+<span id="administrative-filter-bishop-controls-interpretation" class="lens-point-anchor"></span>
+A religious institution becomes an administrative filter when interpretation is centralized in office: hierarchy decides who may read, teach, convert, and scale the doctrine.
+
+That filter is not identical to the Power page's Godhead mechanism. **Power As Alchemy** owns the later moment when symbols become reality. **Legitimacy Fiction** owns Constantine's ruler-level orthodoxy settlement. Here the active mechanism is narrower: [only the bishop has the right reading, so a local aristocrat can become bishop and convert his network through an office-centered church]{evidence="video:predictive-history-za30rbc3ttg@transcript:v1#seg-0014 video:predictive-history-za30rbc3ttg@transcript:v1#seg-0015"}. The doctrine scales because interpretation has been made administrable.
 
 ## Confucian Bureaucratism
 
@@ -107,6 +117,13 @@ Finally, ask whether the filter is being mistaken for the purpose. If the office
   `video:predictive-history-hvvtntpzq7e@transcript:v1#seg-0029`  
   `video:predictive-history-hvvtntpzq7e@transcript:v1#seg-0034`  
   `video:predictive-history-hvvtntpzq7e@transcript:v1#seg-0038`
+
+- **2024-12-28**, [Civilization #26: The Godhead Equation That Made Money Real](/episodes/predictive-history-za30rbc3ttg/)
+  Paul's church fits Roman household hierarchy, centralizes dogma through the bishop, and turns aristocratic conversion into network conversion before Constantine's orthodoxy settlement.
+  `video:predictive-history-za30rbc3ttg@transcript:v1#seg-0012`
+  `video:predictive-history-za30rbc3ttg@transcript:v1#seg-0013`
+  `video:predictive-history-za30rbc3ttg@transcript:v1#seg-0014`
+  `video:predictive-history-za30rbc3ttg@transcript:v1#seg-0015`
 
 - **2025-03-13**, [Civilization #38: Twilight of the Middle Kingdom](/episodes/predictive-history-a2lmjerhckm/)  
   Keju, literary Chinese, and Confucian bureaucratism localize elites, monopolize status, and make scholar-official rule look like civilization itself.  
