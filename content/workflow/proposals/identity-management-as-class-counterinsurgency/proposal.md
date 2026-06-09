@@ -62,14 +62,11 @@ If promoted later, the public surface should likely be a compact section or atla
 
 These are not added yet.
 
-- `identity-management-breaks-class-coalition`  
-  Identity management becomes class counterinsurgency when a possible economic coalition is broken into race, gender, and historical-grievance categories so the public stops naming the banking or oligarchic target.
+- `identity-management-breaks-class-coalition`: Identity management becomes class counterinsurgency when a possible economic coalition is broken into race, gender, and historical-grievance categories so the public stops naming the banking or oligarchic target.
 
-- `historical-grievance-replaces-redistribution`  
-  Historical grievance replaces redistribution when institutions make recognition and category repair the moral foreground while class inequality and wealth transfer leave the center of attention.
+- `historical-grievance-replaces-redistribution`: Historical grievance replaces redistribution when institutions make recognition and category repair the moral foreground while class inequality and wealth transfer leave the center of attention.
 
-- `fragmented-public-feeds-ai-control`  
-  A fragmented public feeds AI control when class unity would threaten elite power but loneliness, rivalry, and managed grievance make the population easier to model, soothe, monetize, and surveil.
+- `fragmented-public-feeds-ai-control`: A fragmented public feeds AI control when class unity would threaten elite power but loneliness, rivalry, and managed grievance make the population easier to model, soothe, monetize, and surveil.
 
 ## Promotion Conditions
 
