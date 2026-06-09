@@ -185,6 +185,23 @@ private repository before `spawnfile up` runs.
 
 Treat that checkout as private grounding material: use it for analysis and
 proposals, but do not publish raw paid post text or raw comment threads.
+Agents should not name the private repo, checkout path, scrape files, or export
+metadata in public artifacts. When a public claim is supported by the corpus,
+cite the original Substack post by title/date/URL and keep excerpts short and
+source-limited. Comment threads are audience reaction, not Jiang-authored
+evidence, unless the claim is specifically about reception.
+
+Article-derived work should preserve the substance of Jiang's positions without
+reproducing the articles. Prefer claim inventories, mechanism summaries,
+chronology notes, corpus-impact proposals, glossary seeds, lens-pressure notes,
+and full lens-page drafts when the material has enough conceptual merit. Keep
+these outputs compressed and analytical; do not mirror a post's full structure
+or provide a replacement for the paid text. Short quotations are allowed when
+the exact phrasing carries evidence or Jiang-specific force, but they should be
+brief, source-attributed to the original Substack page, and embedded in
+agent-authored analysis. Once a lens page exists, use the corpus to map across
+articles, videos, interviews, chronology, ledger entries, and existing lens
+points so the page is enriched by the broader source field.
 
 If an agent learns something durable about its own behavior, it should edit the
 committed copy under `repos/jiang-lens/agentic-org/agents/<agent-id>/...` and
