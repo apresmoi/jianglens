@@ -1,11 +1,11 @@
 # Mass Society / AI Control Boundary Review
 
-Date: 2026-06-01; refreshed 2026-06-05 and 2026-06-08
-Status: concept-scoped routing proposal; public prose held; June 5 refresh after AI Apocalypse impact/link/public-anchor work; June 8 refresh after Prediction emergency forecast-family review
-Work type: synthesis after Mass Society domestic-grid, AI God boundary, March 24 ledger, Hasan forecast-comparison records, AI Eats Itself review, May 12 AI Apocalypse public anchor, and June 8 Prediction emergency-family review
+Date: 2026-06-01; refreshed 2026-06-05, 2026-06-08, and 2026-06-09
+Status: concept-scoped routing proposal; public prose held; June 5 refresh after AI Apocalypse impact/link/public-anchor work; June 8 refresh after Prediction emergency forecast-family review; June 9 refresh after the April 6 Sneako impact intake
+Work type: synthesis after Mass Society domestic-grid, AI God boundary, March 24 ledger, Hasan forecast-comparison records, AI Eats Itself review, May 12 AI Apocalypse public anchor, June 8 Prediction emergency-family review, and April 6 identity/intellectual-class control intake
 Public surface affected later: `website/src/content/docs/lens/mass-society-as-political-constraint.md`, `website/src/content/docs/lens/ai-as-control-surface.md`, `website/src/content/docs/lens/prediction-as-falsifiable-prophecy.md`, possible child pages only after split review
 
-Review: `content/workflow/reviews/mass-ai-control-boundary-review/local-judge-2026-06-04.md`; refreshed at `content/workflow/reviews/mass-ai-control-boundary-refresh/local-judge-2026-06-05.md` and `content/workflow/reviews/mass-ai-control-domestic-pressure-review/local-judge-2026-06-08.md`
+Review: `content/workflow/reviews/mass-ai-control-boundary-review/local-judge-2026-06-04.md`; refreshed at `content/workflow/reviews/mass-ai-control-boundary-refresh/local-judge-2026-06-05.md`, `content/workflow/reviews/mass-ai-control-domestic-pressure-review/local-judge-2026-06-08.md`, and `content/workflow/reviews/mass-ai-control-boundary-refresh-2026-06-09/local-judge-2026-06-09.md`
 
 ## Decision
 
@@ -113,6 +113,26 @@ This update chooses **no public mutation today**. A public Mass Society edit wou
 
 Do not create **Domestic Control Grid**, **AI Police State**, **Federal Voter-List Control**, **AI God**, **World Made Safe For AI**, **Data-Center Empire**, or **Imagination-Control Interface** as public pages now. The existing parents and anchors are sufficient unless clustered episode links require a narrower hover or Mass Society crosses size/source pressure again.
 
+## June 9 Update
+
+The April 6 Sneako impact file, `content/workflow/proposals/interview-vucfnjlcyqk/corpus-impact.json`, adds a different kind of Mass Society pressure: not another database, payment, data-center, or AI-interface example, but the credentialed opinion class as a population-management layer.
+
+Jiang says journalists, teachers, professors, doctors, and other credentialed explainers curate opinion because their status depends on power and because AI can make part of that explanatory class redundant (`video:interview-vucfnjlcyqk@transcript:v1#seg-0092`, `video:interview-vucfnjlcyqk@transcript:v1#seg-0097`, `video:interview-vucfnjlcyqk@transcript:v1#seg-0098`, `video:interview-vucfnjlcyqk@transcript:v1#seg-0101`). That pressure belongs near Mass Society only when the active mechanism is opinion management at population scale. It should not be folded into the digital-permission grid or AI Control sequence merely because AI appears as replacement pressure.
+
+This refresh therefore adds a third routing axis beside the domestic-control grid and AI interface:
+
+- **Mass Society** owns the opinion-management layer when the object is how a large population is segmented, narrated to, pacified, or prevented from forming a shared political body.
+- **Bureaucracy** owns the credentialed class when the object is procedure, institutional self-protection, professional status, or loyalty to official categories.
+- **Education / Meritocracy** own the credential path when tests, schools, wounds, credentials, or elite sorting are the active mechanism.
+- **Proximity Games** owns class-to-identity diversion when the active question is factional payoff, elite overproduction, or how a possible 99-percent coalition is broken into nearer identity contests.
+- **AI As Control Surface** owns this source only if the machine becomes the interface through which opinion, explanation, or authority reaches the person; mere replacement of journalists or professors by AI is not enough.
+
+The June 9 source does **not** justify a public Mass Society append today. The current public page is still about 5,180 words, and its dense section already carries programmable money, AI sign-off, obedient-world pressure, embodied data, domestic war control, surveillance bargain, ruined-territory reconstruction, and scarcity control. Adding the anxious intellectual class to that section would blur two mechanisms: administrative permission over bodies and narrative/credential management over opinion.
+
+If this pressure becomes public later, the first move should be a small boundary note or atlas relation, not a new child page. A child such as **Intellectual Class As Control Layer** would need more than the April 6 source plus the identity-management proposal; it would need clustered episode links or repeated dated sources where credentialed explainers, schools, media, professional status, AI replacement, and class fragmentation form one reusable mechanism.
+
+This keeps the **Identity Management As Class Counterinsurgency** seed held. April 6 is the origin source for Occupy-to-DEI class diversion, while May 18 and June 7 are later recurrences inside AI-order and live-control contexts. Route that seed first through Proximity Games or Mass Society by active mechanism; do not create standalone **DEI**, **Wokeism**, **Occupy Wall Street**, **Class Counterinsurgency**, **Credentialed Opinion Class**, or **AI Replaces Intellectuals** pages now.
+
 ## Boundary Table
 
 | Evidence pressure | Primary home | Boundary note |
@@ -124,6 +144,7 @@ Do not create **Domestic Control Grid**, **AI Police State**, **Federal Voter-Li
 | Loneliness, attention capture, companion dependency, reading/imagination displacement | Attention Capture | Use when the inner resource being captured is focus, imagination, energy, or consciousness |
 | Data centers, apps, identity systems, payment rails, military or state-subsidized technical pipes | Platform Infrastructure | Use when Jiang redirects from visible product or owner to the deeper infrastructure |
 | Stablecoin, Treasury demand, debt absorption, money-to-AI replacement | Power As Alchemy | Use when the mechanism is value conversion or an abstraction becoming lived compulsion |
+| Credentialed opinion class, professional explainers, journalists, teachers, doctors, professors, AI replacement of status work | Mass Society / Bureaucracy / Education by active mechanism | Mass Society only when the object is population-scale opinion management; Bureaucracy when status and procedure dominate; Education or Meritocracy when credential formation dominates; AI Control only when the machine is the command interface |
 
 ## Public Mutation Rule
 
