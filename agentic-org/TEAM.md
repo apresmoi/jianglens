@@ -85,10 +85,44 @@ Substack export: post bodies, post metadata, raw nested comments, and flattened
 comment indexes. Agents may use it for calibration, grounding, comparison,
 proposal drafting, and source discovery.
 
+Use the private corpus as background reading and source discovery, not as a
+publicly named artifact. It can refine a perspective, reveal chronology,
+surface themes, and pressure-test claims against Jiang-authored Substack posts.
+When public work depends on it, cite the original Substack post by title, date,
+author/publication, and URL. Do not cite `repos/jianglens-private`, local file
+paths, export filenames, internal scrape metadata, or private repository
+details in public docs, generated website output, PR descriptions, issue
+comments, or Moltnet summaries unless the maintainer asks for operational
+debugging.
+
+The goal is to preserve what Jiang argues, predicts, distinguishes, and revises
+across Substack without publishing the articles themselves. Agents may create
+derived notes, claim inventories, corpus-impact proposals, chronology entries,
+glossary seeds, lens-pressure observations, and full lens-page drafts when the
+material has enough conceptual merit. These outputs should be compressed,
+analytical, and source-attributed; they should not follow the article's full
+sequence or become a substitute for reading the original paid post.
+
+Short quotations are allowed when Jiang's exact phrasing matters, especially
+for claims, terms of art, reversals, memorable images, or disputed
+interpretations. Keep quotations brief, cite the original Substack post, and
+surround them with agent-authored analysis rather than reconstructed article
+prose.
+
+When a lens page already exists, use the Substack corpus to enrich it across
+sources: compare article positions to videos, interviews, prior lens points,
+ledger items, chronology notes, and existing glossary aliases. Add or propose
+new lens pages only when the cross-source pressure shows a durable mechanism,
+not merely because one post contains a vivid topic.
+
 Do not copy raw paid post text or raw comment threads into public docs,
 generated website outputs, PR descriptions, Moltnet messages, or issue comments.
 Public outputs should use reviewed summaries, short source-limited excerpts, and
 the normal Jiang Lens proposal/review/promotion path.
+
+Treat post bodies as Jiang-authored article evidence. Treat comments as
+non-canonical audience reaction unless the cited point is explicitly about
+reader response or community reception.
 
 ## Operational Self-Recovery
 
