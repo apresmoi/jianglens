@@ -9,7 +9,7 @@ Jiang's prediction method grows out of Game Theory, but it now needs its own pag
 
 The word prophecy can mislead. In Jiang's strongest form, prediction is not a mystic exemption from evidence. It is a moral pressure on interpretation. A history that never risks a future claim can be rewritten after power wins. A model that names players, constraints, incentives, and payoffs has to say what should happen next, what would embarrass the model, and what would force revision.
 
-That is why the source trail here begins before the ledger problem. On June 13, 2025, Jiang frames Predictive History as a school project in which true history must connect the past, explain the present, and predict the future. The public method then hardens through the September 2025 forecast-family interview, the 2026 interviews that put Predictive History under cross-examination, and the May 28, 2026 final examination where Jiang explicitly welcomes falsification pressure from his own audience.
+That is why the source trail here begins before the ledger problem. On June 13, 2025, Jiang frames Predictive History as a school project in which true history must connect the past, explain the present, and predict the future. The public method then hardens through the September 2025 forecast-family interview, the 2026 interviews that put Predictive History under cross-examination, the May 28, 2026 final examination where Jiang explicitly welcomes falsification pressure from his own audience, and the June 7, 2026 founding-members livestream where he exposes how ordinary public feeds become prediction material.
 
 ## School Origin Before Ledger
 
@@ -133,6 +133,18 @@ A predictive framework remains alive only when it begins as a skeleton for bette
 
 This is the child page boundary. [Game Theory](/lens/game-theory/) still owns the player map and payoff correction. [Living School For Psychohistory](/lens/living-school-for-psychohistory/) owns the pedagogy of students, questions, and open inquiry. Prediction As Falsifiable Prophecy owns the public method once Jiang's claims are asked to survive dates, misses, hostile questions, and possible revision.
 
+## Live Feeds Become Method
+
+The **2026-06-07** founding-members livestream adds a later layer: Prediction is not only how claims are scored after they are made. It is also how ordinary public noise gets admitted into the model in the first place. Jiang opens by removing the spy mystique. He says he has no organization, no confidential sources, no team, no major-news subscriptions, and instead works from [Twitter, YouTube, Google, and one person doing research in a bedroom]{evidence="video:predictive-history-kfh4aujwqti@transcript:v1#seg-0003"}. That anti-mystique matters because it makes the method auditable. The reader can ask whether the public-source chain actually supports the inference.
+
+The live method has three movements. First, Jiang looks for dissonance: [news becomes interesting when something does not fit his existing worldview]{evidence="video:predictive-history-kfh4aujwqti@transcript:v1#seg-0028 video:predictive-history-kfh4aujwqti@transcript:v1#seg-0031"}. Second, he turns a story into players by asking who organized it and who funded it, as in the Albanian protest example where the first questions are [who is organizing and who is funding]{evidence="video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007"}. Third, he keeps unsettled items flexible: [a news item can sit in short-term memory until he sees whether it escalates or continues]{evidence="video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042"}.
+
+<!-- lens-point id="prediction-live-feed-method" concept="prediction-as-falsifiable-prophecy" evidence="video:predictive-history-kfh4aujwqti@transcript:v1#seg-0003 video:predictive-history-kfh4aujwqti@transcript:v1#seg-0007 video:predictive-history-kfh4aujwqti@transcript:v1#seg-0028 video:predictive-history-kfh4aujwqti@transcript:v1#seg-0042" -->
+<span id="prediction-live-feed-method" class="lens-point-anchor"></span>
+Jiang's live-feed method turns public noise into forecast material only after an anomaly creates dissonance, the analyst maps organizers and funders, the item stays flexible in memory, and later events decide whether it deserves promotion into a prediction family.
+
+This belongs on Prediction rather than a new "dissonance" page because the source is showing admission rules for forecast material. [Game Theory](/lens/game-theory/) still owns the underlying player and payoff abstraction. [Living School For Psychohistory](/lens/living-school-for-psychohistory/) owns the livestream as a classroom form where audience questions shape the session. Prediction owns the narrower audit: how a public-source anomaly becomes a claim that can later be sorted, tested, revised, or discarded.
+
 ## Diagnostics
 
 Use this lens when a forecast, theater claim, or historical framework asks for trust.
@@ -140,6 +152,7 @@ Use this lens when a forecast, theater claim, or historical framework asks for t
 Ask:
 
 - What framework is being used, and which observations does it make newly visible?
+- What public-source chain admitted the item into the model: dissonance, organizer, funder, rival account, memory pattern, or later escalation?
 - What dated prediction follows from the framework?
 - Which forecast family does the claim belong to, and what are its source date, time horizon, conditions, neighboring mechanism, and later comparison trail?
 - Which legs of a long-horizon branch are confirmed, only adjacent, still open, revised, or missed?
@@ -190,6 +203,9 @@ Ask:
 
 - **2026-05-28**, [Game Theory #29: Final Examination](/episodes/predictive-history-re2uribefio/)  
   Jiang accepts oversimplification pressure, defends the skeleton framework as a tool for better observation, and names political surprises that would invalidate his American-decline worldview.
+
+- **2026-06-07**, [Follow the Dissonance, Then Follow the Funder](/episodes/predictive-history-kfh4aujwqti/)
+  Jiang exposes the live-feed method: no hidden sources, public feeds as inputs, dissonance as selection pressure, organizer/funder mapping as actor discipline, and memory filtering as the bridge from anomaly to forecast family.
 
 ## Related Concepts
 
