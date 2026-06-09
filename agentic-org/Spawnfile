@@ -14,6 +14,12 @@ shared:
         branch: main
         mount: ./repos/jiang-lens
         mode: mutable
+      - id: jiang-lens-private-repo
+        kind: git
+        url: https://github.com/apresmoi/jianglens-private.git
+        branch: main
+        mount: ./repos/jianglens-private
+        mode: readonly
     skills:
       - ref: ../.codex/skills/moltnet
       - ref: ../.codex/skills/jiang-autonomous-work-protocol
@@ -44,6 +50,12 @@ shared:
       JIANG_PRIVATE_CORPUS_ROOT: ../jianglens-private/corpora/substack/predictivehistory/export
     secrets:
       - name: GH_TOKEN
+        required: true
+      - name: GIT_CONFIG_COUNT
+        required: true
+      - name: GIT_CONFIG_KEY_0
+        required: true
+      - name: GIT_CONFIG_VALUE_0
         required: true
       - name: MOLTNET_AGENT_TOKEN
         required: true
