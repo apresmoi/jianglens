@@ -216,7 +216,7 @@ Use this lens when a political system, reform, revolution, school, platform, or 
 - [Nation As God-Machine](/lens/nation-as-god-machine/) - for the state machinery that grows population into war capacity and then faces population as target.
 - [AI As Control Surface](/lens/ai-as-control-surface/) - for the answer, companion, body interface, degraded model, or sacred machine voice through which command reaches the user.
 - [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) - for anxiety, work discipline, loneliness, and the extraction of focus that keep mass capitalism moving.
-- [Platform Infrastructure As Control Surface](/lens/platform-infrastructure-as-control-surface/) - for cables, apps, payment rails, data centers, and deeper pipes when infrastructure ownership is primary.
+- [Platform Infrastructure As Control Surface](/lens/#platform-infrastructure-as-control-surface) - for cables, apps, payment rails, data centers, and deeper pipes when infrastructure ownership is primary.
 - [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/) - for dated claims about emergency powers, elections, surveillance bargains, AI quality, and later confirmation or failure.
 - [Power As Alchemy](/lens/power-as-alchemy/) - for stablecoins, sovereign debt, forced demand, and money-to-reality conversion when monetary machinery is primary.
 - [Eschatology As Script](/lens/eschatology/) - for the story-form that can make suffering, martyrdom, holy empire, and endurance meaningful under population-targeting pressure.
