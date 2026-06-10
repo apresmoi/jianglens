@@ -163,7 +163,7 @@ Jiang calls the final governance form "techno-martialism": [resource-holding nat
 <span id="mass-society-techno-martialism-scarcity-control" class="lens-point-anchor"></span>
 Techno-martialism appears when resource-holding nations use AI surveillance to allocate scarcity and control people, producing a class order where freedom remains at the top while the bottom is administered as bonded labor.
 
-This sharpens the boundary between mass society and neighboring pages. [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) owns the energy shocks, chokepoints, and war decisions that make the scarcity order plausible. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the national body that wants resources, sacrifice, and military capacity. Mass society owns the population-administration form that follows: the use of AI surveillance to decide who receives freedom, mobility, food, work, and constraint when the system can no longer promise abundance.
+This sharpens the boundary between mass society and neighboring pages. [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) owns the resilience-after-efficiency audit: the energy shocks, chokepoints, and war decisions that expose what a cheap, optimized system could not absorb. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the national body that wants resources, sacrifice, and military capacity. Mass society owns the population-administration form that follows: the use of AI surveillance to decide who receives freedom, mobility, food, work, and constraint when the system can no longer promise abundance.
 
 ## Population Management Becomes War
 
@@ -213,7 +213,7 @@ Use this lens when a political system, reform, revolution, school, platform, or 
 
 ## Related Concepts
 
-- [Nation As God-Machine](/lens/nation-as-god-machine/) - for the state machinery that grows population into war capacity and then faces population as target.
+- [Nation As God-Machine](/lens/nation-as-god-machine/) - for the state machinery that grows population into war capacity, faces population as target, or seeks smaller resilient successor forms when national scale becomes brittle.
 - [AI As Control Surface](/lens/ai-as-control-surface/) - for the answer, companion, body interface, degraded model, or sacred machine voice through which command reaches the user.
 - [Attention Capture As Capital Extraction](/lens/attention-capture-as-capital-extraction/) - for anxiety, work discipline, loneliness, and the extraction of focus that keep mass capitalism moving.
 - [Platform Infrastructure As Control Surface](/lens/#platform-infrastructure-as-control-surface) - for cables, apps, payment rails, data centers, and deeper pipes when infrastructure ownership is primary.

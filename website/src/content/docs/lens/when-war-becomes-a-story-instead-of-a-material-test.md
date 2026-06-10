@@ -213,7 +213,7 @@ Ask these questions when applying this lens.
 
 **Where are the gates?** If trade, energy, food, ships, cables, resources, or payment systems must pass through a narrow point, ask who can grant permission, who can deny access, and whether control can be made too costly to maintain.
 
-**What did efficiency remove?** If a system was optimized for cheap movement, just-in-time abundance, or consumer comfort, ask what redundancy, local capacity, political consent, or social discipline disappeared before the crisis arrived.
+**What did efficiency remove?** If a system was optimized for cheap movement, just-in-time abundance, or consumer comfort, ask what redundancy, local capacity, political consent, or social discipline disappeared before the crisis arrived. The material test comes first; [Mass Society](/lens/mass-society-as-political-constraint/) enters when the exposed scarcity becomes permissions, rationing, and AI surveillance.
 
 **What does retreat discredit?** If leaving a war would make allies doubt protection, stop buying debt, question bases, or seek a new patron, the war may continue because exit threatens the system that funded it.
 
@@ -290,6 +290,7 @@ For the moved imperial cost-transfer cluster, see [Imperial Retrenchment And Pro
 - [How Stories Control Reality](/lens/how-stories-control-reality/)
 - [Game Theory](/lens/game-theory/)
 - [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/)
+- [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) - for the domestic control grid that appears after energy, food, water, draft, or war pressure turns material scarcity into permissions and surveillance.
 - [The Dead World And The Cave](/lens/the-dead-world-and-the-cave/)
 - [Nation As God-Machine](/lens/nation-as-god-machine/)
 - [The Borderland Engine](/lens/the-borderland-engine/)
