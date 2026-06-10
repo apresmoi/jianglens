@@ -27,7 +27,7 @@ Appending the three new intakes as another public section would make the page mo
 
 ### 1. Iran, Hormuz, Ground War, And No-Exit Escalation
 
-The October source gives the earlier Hormuz and second-round frame: Iran's leverage is not only retaliation, but the ability to make a narrow route uninsurable or selectively negotiable (`video:interview-e-ee0dtx95q@transcript:v1#seg-0007`, `video:interview-e-ee0dtx95q@transcript:v1#seg-0010`, `video:interview-e-ee0dtx95q@transcript:v1#seg-0012`). It also gives the no-exit precursor where escalation can catch the United States overcommitted (`video:interview-e-ee0dtx95q@transcript:v1#seg-0025`, `video:interview-e-ee0dtx95q@transcript:v1#seg-0029`).
+The October source gives the earlier Hormuz and second-round frame: Iran's leverage is not only retaliation, but the ability to make a narrow route uninsurable or selectively negotiable (`video:interview-e-ee0dtx95q@transcript:v1#seg-0007`, `video:interview-e-ee0dtx95q@transcript:v1#seg-0010`, `video:interview-e-ee0dtx95q@transcript:v1#seg-0012`). It also gives the no-exit precursor where escalation can catch the United States overcommitted (`video:interview-e-ee0dtx95q@transcript:v1#seg-0028`).
 
 The January source sharpens the same board into renewed false-flag/strike pressure and a future ground-war/world-war branch (`video:interview-h5lcj0d4dpy@transcript:v1#seg-0007`, `video:interview-h5lcj0d4dpy@transcript:v1#seg-0008`). It also links Iran survival to Eurasian access, shadow fleets, and China-facing sea-route coercion (`video:interview-h5lcj0d4dpy@transcript:v1#seg-0038`, `video:interview-h5lcj0d4dpy@transcript:v1#seg-0070`, `video:interview-h5lcj0d4dpy@transcript:v1#seg-0071`).
 
