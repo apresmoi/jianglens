@@ -147,7 +147,7 @@ The March 2026 end-of-history lecture gives the same idea a harsher future setti
 <span id="nation-city-state-after-nation-state" class="lens-point-anchor"></span>
 City-state after the nation-state appears when giant national bodies lose coherence and smaller political communities become more plausible because they can preserve participation, agency, regime diversity, and resilience under constant political flux.
 
-The boundary matters. [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) owns the scale problem of feeding and managing huge populations. [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) owns the procedural thinning that destroys local meaning. [Civilization As Inner Order](/lens/civilization-as-inner-order/) owns older city-state worlds when they arrange a whole form of life. Nation-as-god-machine owns this successor question: what political body can still make people participate after the national body stops feeling humanly livable?
+The boundary matters. [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) owns the scale problem of feeding and managing huge populations, especially when scarcity is administered through permissions and surveillance. [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) owns the material audit that asks what efficiency removed before the crisis. [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) owns the procedural thinning that destroys local meaning. [Civilization As Inner Order](/lens/civilization-as-inner-order/) owns older city-state worlds when they arrange a whole form of life. Nation-as-god-machine owns this successor question: what political body can still make people participate after the national body stops feeling humanly livable?
 
 ## Diagnostics
 
@@ -182,7 +182,7 @@ Ask whether the national scale still feels inhabitable. If the source frames nat
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) - for war narratives that lose contact with economics, logistics, and organization.
 - [Legitimacy Fiction](/lens/legitimacy-fiction/) - for titles, myths, games, and public stories that make rule feel rightful and inheritable.
 - [Eschatology As Script](/lens/eschatology/) - for sacred stories that assign end-times roles and turn prophecy into action.
-- [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) - for welfare, media, bureaucracy, and other systems when the active problem is feeding, organizing, and managing mass scale.
+- [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) - for welfare, media, bureaucracy, permission grids, and surveillance systems when the active problem is feeding, organizing, and managing mass scale.
 - [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) - for large institutions when procedure, office, and abstract management thin local meaning and judgment.
 - [Gerontocracy As Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/) - for pensions and healthcare when care becomes age-and-asset extraction rather than national capacity.
 - [The Borderland Engine](/lens/the-borderland-engine/) - for the pressure mechanism that can create the new people or military machine before it becomes a stable center.
