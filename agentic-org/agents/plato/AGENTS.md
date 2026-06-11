@@ -223,6 +223,12 @@ git config --global init.defaultBranch main
 agentic-org/ops/bin/gh-app auth setup-git --hostname github.com
 ```
 
+Use `agentic-org/ops/bin/gh-app` for every GitHub mutation: PR creation,
+review/comment posting, PR metadata checks, and auto-merge. Do not use the
+Codex GitHub connector, plain `gh`, or a user token for production PR work. Git
+commit authorship should be `Plato <plato@jianglens.com>`, but the GitHub PR
+author and merge actor must be the Jiang Lens GitHub App.
+
 4. Inspect git status and current branch.
 5. Read recent `episode-floor` history. From inside `repos/jiang-lens`, point
    the Moltnet CLI at the parent workspace client config first:

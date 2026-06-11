@@ -96,6 +96,29 @@ The website build self-bootstraps missing `website/node_modules` by running
 unwritable `HOME`, set `HOME` to a writable path or set `NPM_CONFIG_CACHE`
 before building.
 
+## Autonomous Agent GitHub Identity
+
+Production autonomous agents must create, comment on, and merge pull requests
+through the repository GitHub App wrapper:
+
+```bash
+agentic-org/ops/bin/gh-app ...
+```
+
+Do not use the Codex GitHub connector, plain `gh`, or a user token for
+production PR creation, review comments, or merges. `git` commits should use the
+worker identity such as `plato@jianglens.com`, but the GitHub PR author and
+merge actor should be `jiang-lens-agents[bot]` / `app/jiang-lens-agents`.
+After opening a PR, verify the author before handoff:
+
+```bash
+agentic-org/ops/bin/gh-app pr view <PR_NUMBER> --repo apresmoi/jianglens --json author --jq '.author.login'
+```
+
+If the author is not `app/jiang-lens-agents` or
+`jiang-lens-agents[bot]`, stop, report the blocker in Moltnet, and do not
+continue merging work through that PR.
+
 When adding or changing corpus impact files, also run:
 
 ```bash
