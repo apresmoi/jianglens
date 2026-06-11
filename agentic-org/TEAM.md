@@ -211,6 +211,14 @@ visible public lens mutation does.
 Every PR must be understandable as one of these classes. The class determines
 who reviews, what is being measured, and who prevents it from going stale.
 
+All production GitHub mutations must use the Jiang Lens GitHub App wrapper:
+`agentic-org/ops/bin/gh-app`. Workers may use normal `git` for local commits
+and pushes after `gh-app auth setup-git`, but PR creation, PR comments, reviews,
+and merges must not use the Codex GitHub connector, plain `gh`, or a user token.
+After creating a PR, the owner must verify that `.author.login` is
+`app/jiang-lens-agents` or `jiang-lens-agents[bot]`; otherwise the PR was
+created through the wrong identity and should be stopped before merge.
+
 | PR class | Branch shape | Owner | Reviewer / closer | What it measures | Merge rule |
 | --- | --- | --- | --- | --- | --- |
 | source publication | `episode/*`, `interview/*` | Virgil | Aristotle | public read quality, transcript fidelity, exact marks, route/build readiness | Aristotle `QA PASS` + CI green -> Aristotle enables auto-merge |

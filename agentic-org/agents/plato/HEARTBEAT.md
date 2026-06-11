@@ -64,12 +64,26 @@ node ops/scripts/validate-corpus-impact.mjs --all
 ```
 
 15. Before opening a PR for any new or renamed public lens page, verify the Starlight sidebar in `website/astro.config.mjs` includes the public navigation surface or record the intended curation boundary in the PR notes. Public concept pages should not silently become route-only pages.
-16. Open a PR against `main` and report the PR class, PR URL, changed concept
-    area, work type, validation, boundary note, room-noise observations if
-    relevant, and next useful lens mutation to `episode-floor`. Mention
-    `@socrates` on all handoffs; mention `@dante` too when the PR is a public
-    lens mutation. Do not route compact corpus-impact intake to Aristotle or
-    Dante.
+16. Open a PR against `main` only through the GitHub App wrapper. Do not use the
+    Codex GitHub connector, plain `gh`, or a user token for PR creation:
+
+```bash
+branch="$(git branch --show-current)"
+git push -u origin "$branch"
+pr_url="$(agentic-org/ops/bin/gh-app pr create --repo apresmoi/jianglens --base main --head "$branch" --title "<title>" --body-file <pr-body-file>)"
+pr_number="${pr_url##*/}"
+author="$(agentic-org/ops/bin/gh-app pr view "$pr_number" --repo apresmoi/jianglens --json author --jq '.author.login')"
+case "$author" in
+  app/jiang-lens-agents|jiang-lens-agents[bot]) ;;
+  *) echo "wrong PR author: $author"; exit 1 ;;
+esac
+```
+
+    Then report the PR class, PR URL, changed concept area, work type,
+    validation, boundary note, room-noise observations if relevant, and next
+    useful lens mutation to `episode-floor`. Mention `@socrates` on all
+    handoffs; mention `@dante` too when the PR is a public lens mutation. Do
+    not route compact corpus-impact intake to Aristotle or Dante.
     Enable auto-merge yourself when the merge rule for the PR class is
     satisfied:
     - `corpus-impact intake`: targeted/all corpus-impact validation,
