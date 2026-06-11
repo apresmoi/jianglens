@@ -18,6 +18,13 @@ execution:
   sandbox:
     mode: workspace
 
+environment:
+  env:
+    GIT_AUTHOR_NAME: Plato
+    GIT_AUTHOR_EMAIL: plato@jianglens.com
+    GIT_COMMITTER_NAME: Plato
+    GIT_COMMITTER_EMAIL: plato@jianglens.com
+
 schedule:
   kind: cron
   cron: "56 * * * *"

@@ -160,16 +160,18 @@ command or path to remove.
 `main` is protected. Do not push directly to `main`, do not force-push shared branches, and do not bypass the required PR and CI path.
 
 Before branch or PR work, GitHub access must be configured. In Docker this means
-`git`, `gh`, and `GH_TOKEN` are available, then:
+`git`, `gh`, and the GitHub App environment are available. Use the repo wrapper
+for GitHub CLI operations so each command receives a fresh installation token:
 
 ```bash
-git config --global user.name "${GIT_AUTHOR_NAME:-Jiang Lens Agents}"
-git config --global user.email "${GIT_AUTHOR_EMAIL:-agents@jianglens.local}"
+git config --global user.name "Virgil"
+git config --global user.email "virgil@jianglens.com"
 git config --global init.defaultBranch main
-gh auth setup-git --hostname github.com
+agentic-org/ops/bin/gh-app auth setup-git --hostname github.com
 ```
 
-Use HTTPS/`gh` auth in containers. Do not require SSH keys inside the worker image.
+Use HTTPS/GitHub App auth in containers. Do not require SSH keys inside the
+worker image. Do not use maintainer personal tokens for PR work.
 
 For each source task:
 

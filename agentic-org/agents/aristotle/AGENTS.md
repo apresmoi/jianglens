@@ -34,7 +34,7 @@ Then:
 4. Inspect open source PRs:
 
 ```bash
-gh pr list --repo apresmoi/jianglens --state open \
+agentic-org/ops/bin/gh-app pr list --repo apresmoi/jianglens --state open \
   --json number,title,headRefName,url,mergeStateStatus,updatedAt
 ```
 
@@ -167,7 +167,7 @@ If it passes:
 3. Enable auto-merge:
 
 ```bash
-gh pr merge <PR_NUMBER> --auto --squash --delete-branch
+agentic-org/ops/bin/gh-app pr merge <PR_NUMBER> --auto --squash --delete-branch
 ```
 
 If it fails:

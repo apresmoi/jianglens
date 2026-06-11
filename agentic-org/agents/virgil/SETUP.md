@@ -4,21 +4,27 @@ Virgil is deployed as an autonomous PR producer. He processes one ready video so
 
 ## Fresh Workspace
 
-Virgil needs GitHub access to push branches and create PRs. In Docker, pass a token at runtime with:
+Virgil needs GitHub access to push branches and create PRs. In Docker, provide
+the `jiang-lens-agents` GitHub App secrets at runtime with:
 
 ```bash
 cp agentic-org/ops/env/agentic-org.env.example agentic-org/ops/secrets/agentic-org.env
 $EDITOR agentic-org/ops/secrets/agentic-org.env
 ```
 
-Use a fine-grained token scoped to `apresmoi/jianglens` with:
+Install the app on `apresmoi/jianglens` and `apresmoi/jianglens-private`. The
+app needs:
 
+- Actions: read/write
+- Checks: read
+- Commit statuses: read
 - Contents: read/write
+- Issues: read/write
 - Pull requests: read/write
 - Metadata: read
 
-A classic token needs `repo`. Do not bake this token into the image. Keep it in
-`agentic-org/ops/secrets/agentic-org.env` locally.
+Keep the app private key material in `agentic-org/ops/secrets/agentic-org.env`
+locally. Do not bake it into the image or commit it.
 
 The local org stack requires `spawnfile@0.1.9` or newer so agent schedules are
 lowered into PicoClaw's native cron store. Use `spawnfile up` directly; there is
@@ -31,10 +37,10 @@ video; raw media and cookies belong to Colab/Drive, not the episode PR worker.
 Configure `git` and `gh` inside the worker environment when needed:
 
 ```bash
-git config --global user.name "${GIT_AUTHOR_NAME:-Jiang Lens Agents}"
-git config --global user.email "${GIT_AUTHOR_EMAIL:-agents@jianglens.local}"
+git config --global user.name "Virgil"
+git config --global user.email "virgil@jianglens.com"
 git config --global init.defaultBranch main
-gh auth setup-git --hostname github.com
+agentic-org/ops/bin/gh-app auth setup-git --hostname github.com
 ```
 
 Run this at the start of a wake before branch or PR work if GitHub operations
@@ -98,7 +104,7 @@ troubleshooting, see `agentic-org/docs/EPISODE_WORKER_STACK.md`.
 Start from a clean clone. In Docker or any token-based environment, prefer HTTPS through `gh`:
 
 ```bash
-gh repo clone apresmoi/jianglens jiang-lens
+agentic-org/ops/bin/gh-app repo clone apresmoi/jianglens jiang-lens
 cd jiang-lens
 ```
 
@@ -283,7 +289,7 @@ git status --short
 git add <scoped-files>
 git commit -m "Process source <source-slug>"
 git push -u origin episode/<source-slug>
-gh pr create --base main --head episode/<source-slug> --title "Process source <source-slug>" --body-file <pr-body-file>
+agentic-org/ops/bin/gh-app pr create --base main --head episode/<source-slug> --title "Process source <source-slug>" --body-file <pr-body-file>
 ```
 
 Use `interview/<source-slug>` instead of `episode/<source-slug>` for interview-format sources.
