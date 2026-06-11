@@ -25,11 +25,13 @@ The November 30 CapitalCosm interview shows the same transition before the April
 
 The April 9 strategy interview adds the later replacement map. If America loses the Middle East and GCC petrodollar recycling, Jiang says it must [move from finance empire to resource empire]{evidence="video:interview-rsld81qme04@transcript:v1#seg-0068 video:interview-rsld81qme04@transcript:v1#seg-0069"}: retreat into the Western Hemisphere, then sell oil, rare earths, agriculture, and weapons to East Asia. The April 13 Dugin interview gives the same mechanism with a larger geography. Greater North America would shift America [from financial empire to resource empire]{evidence="video:interview-n44of1y7zgo@transcript:v1#seg-0064"} by turning Greenland, Canada, Mexico, Venezuela, Colombia, Cuba, Nicaragua, Honduras, oil, minerals, food, shipping routes, and two-ocean safety into a continental fortress.
 
+The April 16 Capital CosM interview makes the boundary with Chokepoint sharper. Jiang says the Trump strategy treats [the Western Hemisphere as American territory, including South American lithium and Venezuelan oil]{evidence="video:interview-t8jfdx3gfcw@transcript:v1#seg-0013"}, while the Navy's old free-trade function becomes a paid gate: [control over the seas can be monetized instead of protected for free]{evidence="video:interview-t8jfdx3gfcw@transcript:v1#seg-0014"}. This is not isolationism. It is anti-globalist empire: [America is recentered from finance toward resources and manufacturing]{evidence="video:interview-t8jfdx3gfcw@transcript:v1#seg-0020"}, then war scarcity makes Venezuelan oil and North American production profitable because the world needs energy while the world burns. Jiang's summary is the resource-fortress form: [America becomes the resource and manufacturing hub while wars it started keep the outside world dependent]{evidence="video:interview-t8jfdx3gfcw@transcript:v1#seg-0021"}.
+
 That makes the Iran war a test of imperial form rather than only a regional war. In the April 7 PBD interview, Jiang defines loss as being forced out of the Middle East and losing the GCC petrodollar machine; the result is not only prestige failure but [a dollar-order and domestic-order crisis]{evidence="video:interview-wio-7-gios@transcript:v1#seg-0026 video:interview-wio-7-gios@transcript:v1#seg-0027"}. His proposed exit is not liberal international repair. It is a retreat into [a self-sufficient Western Hemisphere]{evidence="video:interview-wio-7-gios@transcript:v1#seg-0039"} where the United States pays less for sea lanes, European defense, and the reserve-currency burden.
 
-<!-- lens-point id="strategy-resource-empire-replaces-finance" concept="strategy-material-test" evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0055 video:interview-sutm8lojrqw@transcript:v1#seg-0056 video:interview-sutm8lojrqw@transcript:v1#seg-0064 video:interview-sutm8lojrqw@transcript:v1#seg-0065 video:interview-p-dhmudovdo@transcript:v1#seg-0004 video:interview-p-dhmudovdo@transcript:v1#seg-0027 video:interview-rsld81qme04@transcript:v1#seg-0068 video:interview-rsld81qme04@transcript:v1#seg-0069 video:interview-n44of1y7zgo@transcript:v1#seg-0064 video:interview-wio-7-gios@transcript:v1#seg-0039" -->
+<!-- lens-point id="strategy-resource-empire-replaces-finance" concept="strategy-material-test" evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0055 video:interview-sutm8lojrqw@transcript:v1#seg-0056 video:interview-sutm8lojrqw@transcript:v1#seg-0064 video:interview-sutm8lojrqw@transcript:v1#seg-0065 video:interview-p-dhmudovdo@transcript:v1#seg-0004 video:interview-p-dhmudovdo@transcript:v1#seg-0027 video:interview-rsld81qme04@transcript:v1#seg-0068 video:interview-rsld81qme04@transcript:v1#seg-0069 video:interview-n44of1y7zgo@transcript:v1#seg-0064 video:interview-t8jfdx3gfcw@transcript:v1#seg-0013 video:interview-t8jfdx3gfcw@transcript:v1#seg-0014 video:interview-t8jfdx3gfcw@transcript:v1#seg-0020 video:interview-t8jfdx3gfcw@transcript:v1#seg-0021 video:interview-wio-7-gios@transcript:v1#seg-0039" -->
 <span id="strategy-resource-empire-replaces-finance" class="lens-point-anchor"></span>
-Resource empire appears when a weakening finance empire can no longer rely on dollar legitimacy and consent, so it retreats toward continental resources, near-abroad labor, proxy clients, chokepoints, naval tolls, energy leverage, and weapons supply as the material substitute for open global circulation.
+Resource empire appears when a weakening finance empire can no longer rely on dollar legitimacy and consent, so it retreats toward continental resources, near-abroad labor, proxy clients, chokepoints, paid sea control, energy leverage, manufacturing revival, and weapons supply as the material substitute for open global circulation.
 
 ## Replacement Empire Audition
 
@@ -109,6 +111,8 @@ Ask these questions when applying this lens.
 
 **Which material substitute replaces dollar belief?** When monetary legitimacy weakens, ask whether the proposed substitute is continental resources, naval tolls, weapons sales, energy leverage, bases, sanctions, blockades, or near-abroad control.
 
+**Is retreat being sold as withdrawal while becoming extraction?** Jiang's resource-fortress mechanism is not simple isolationism. It appears when the center drops parts of global liberal management but keeps monetizing seas, nearby resources, allied conflict, weapons supply, oil scarcity, and manufacturing dependency.
+
 **Who is being auditioned as replacement muscle?** Identify the actor being judged for political will, manufacturing capacity, casualty tolerance, unity, cost effectiveness, infrastructure control, and ability to inherit command shells or coercive infrastructure.
 
 **Which ally is being spent?** If the empire says it is merely coordinating, ask whether a vassal is being made to supply bodies, wealth, territory, ports, legitimacy, weapons purchases, or regional risk.
@@ -131,12 +135,14 @@ Ask these questions when applying this lens.
 - **2026-04-09**, [After Petrodollar Defeat Comes Resource Empire](/interviews/interview-rsld81qme04/) - a weakening dollar-finance empire may retreat into continental resources and weapons supply.
 - **2026-04-13**, [The Pirate Navy After The Petrodollar](/interviews/interview-p-dhmudovdo/) - naval protection can become naval extraction when rules-based legitimacy no longer carries the order.
 - **2026-04-13**, [Greater North America As Fortress](/interviews/interview-n44of1y7zgo/) - Greenland, Canada, Mexico, food, oil, minerals, shipping, and two-ocean safety become the resource-empire map.
+- **2026-04-16**, [The World Runs on Borrowed Time](/interviews/interview-t8jfdx3gfcw/) - resource-fortress America is clarified as anti-globalist but not anti-imperial: the Western Hemisphere, paid sea control, Venezuelan oil, resources, manufacturing, and war dependency become the business model.
 - **2026-05-21**, [Putin Does Not Want The Throne](/episodes/predictive-history-x83hclwvhi8/) - sanctioned-state volatility makes American policing, dollar demand, and allied protection expensive across several boards.
 
 ## Related Concepts
 
 - [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/)
 - [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/)
+- [Dollar Hegemony](/lens/dollar-hegemony/)
 - [Power As Alchemy](/lens/power-as-alchemy/)
 - [Game Theory](/lens/game-theory/)
 - [Nation As God-Machine](/lens/nation-as-god-machine/)
