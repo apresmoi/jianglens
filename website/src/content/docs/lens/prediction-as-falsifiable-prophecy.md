@@ -29,6 +29,12 @@ A dramatic prediction becomes ledger-ready only after it has been sorted into a 
 
 This keeps the atlas from turning every forecast into a topic page. [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) owns corridor, energy, route, and payment-rail pressure when access is the active board. [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/) owns war momentum and exit cost when stopping itself becomes the material problem. [Power As Alchemy](/lens/power-as-alchemy/) owns dollar belief, frozen assets, and financial abstraction when money is the active reality. [Game Theory](/lens/game-theory/) owns player maps, option preservation, and bargain sequences. Prediction owns the audit relation among dated claim, forecast family, later evidence, miss, and correction.
 
+Late-2025 and early-2026 sources make the same rule more urgent. On October 25, 2025, Jiang treats a possible Iran crisis as several forecast surfaces at once: Hormuz could become a stranglehold on the global economy that forces U.S. ground troops, Trump-China drama could become a major economic deal, and domestic arrests could spill into militia and National Guard scenarios (`video:interview-e-ee0dtx95q@transcript:v1#seg-0007`, `video:interview-e-ee0dtx95q@transcript:v1#seg-0068`, `video:interview-e-ee0dtx95q@transcript:v1#seg-0076`). The next day, he adds a sharper war-clock version: a second Israel-Iran round, a Strait of Hormuz question, eschatological factions, civil-unrest watch, and AI-bubble exhaustion (`video:interview-pul2i1womxg@transcript:v1#seg-0003`, `video:interview-pul2i1womxg@transcript:v1#seg-0004`, `video:interview-pul2i1womxg@transcript:v1#seg-0013`, `video:interview-pul2i1womxg@transcript:v1#seg-0053`, `video:interview-pul2i1womxg@transcript:v1#seg-0076`). These claims share a clock, but they do not share one owner.
+
+The December 19 and January 17 interviews show why a dramatic term cannot become a public lens page just because it recurs. Jiang says that if America were defeated by Iran, American Middle East assets could transfer to Israel and create Pax Judaica; he also says Israel wants America dragged into Iran through the Strait of Hormuz, while a U.S.-China deal may try to open Chinese household savings to Western finance (`video:interview-hzix1hy8hr0@transcript:v1#seg-0027`, `video:interview-hzix1hy8hr0@transcript:v1#seg-0029`, `video:interview-hzix1hy8hr0@transcript:v1#seg-0008`, `video:interview-hzix1hy8hr0@transcript:v1#seg-0011`). A month later, he separately names false-flag risk, possible U.S. ground forces after Hormuz, quick-victory optics, stablecoins backed by Treasuries, Chinese household savings, and forced dollar demand (`video:interview-h5lcj0d4dpy@transcript:v1#seg-0007`, `video:interview-h5lcj0d4dpy@transcript:v1#seg-0008`, `video:interview-h5lcj0d4dpy@transcript:v1#seg-0061`, `video:interview-h5lcj0d4dpy@transcript:v1#seg-0088`, `video:interview-h5lcj0d4dpy@transcript:v1#seg-0104`, `video:interview-h5lcj0d4dpy@transcript:v1#seg-0115`). Prediction should hold these as split families before ledger work: Iran/Hormuz/no-exit, U.S.-China bargain, Pax Judaica as capital platform or sacred sequence, quick-victory optics, savings extraction, and domestic emergency pressure.
+
+The April 15 panel adds the method's ethical pressure. Jiang says he makes predictions to validate and debate his models, then ties Iran-war danger to America's petrodollar and Treasury addiction, a baby-boomer refusal to sacrifice for world peace, Canada as an authoritarian warning, and elite schools that train authority-followers (`video:interview-mgazlaa5oza@transcript:v1#seg-0033`, `video:interview-mgazlaa5oza@transcript:v1#seg-0043`, `video:interview-mgazlaa5oza@transcript:v1#seg-0044`, `video:interview-mgazlaa5oza@transcript:v1#seg-0060`, `video:interview-mgazlaa5oza@transcript:v1#seg-0071`, `video:interview-mgazlaa5oza@transcript:v1#seg-0098`). This is still Prediction only at the audit layer. Strategy, Chokepoint, Power, Dollar Hegemony, Debt, Mass Society, Gerontocracy, Education, Eschatology, Secret Society, and Game Theory own the mechanisms. Prediction owns the dated family split and the later question: which branch became real, which stayed adjacent, which missed, and which later Jiang source revised the board.
+
 ## Financial Collapse Must Be Split Before Scoring
 
 The **2026-03-31** Great Reset lecture shows why this discipline matters when a forecast sounds too large to test. Jiang opens by saying [global and U.S. economic collapse will come through war, while financial collapse itself has to be engineered rather than natural]{evidence="video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0001 video:predictive-history-vbowbtjwkbo@transcript:v1#seg-0005"}. He also marks the class as speculative. That caveat is not decorative; it is part of the scoring surface. A later reviewer cannot treat the claim as settled proof of hidden coordination just because some financial stress appears after the source date.
@@ -177,14 +183,29 @@ Ask:
 - **2025-09-01**, [Trade Corridors Matter More Than Ideology](/interviews/interview-bfuwnjhayq8/)
   Jiang gives the plain public Predictive History method, then supplies several forecast families that must be compared separately before any ledger promotion: corridor/payment-rail conflict, U.S.-China compromise, and Taiwan non-invasion.
 
+- **2025-10-25**, [The Strait, The Tribute Empire, The New Triumvirate](/interviews/interview-e-ee0dtx95q/)
+  Jiang turns Hormuz closure, a second Iran round, China-U.S. rapprochement, and domestic unrest into a dated scenario family rather than one all-purpose prediction.
+
+- **2025-10-26**, [War Clocks, Secret Factions, And AI As A Parasite On Mass Society](/interviews/interview-pul2i1womxg/)
+  Jiang adds a war-clock version of the same pressure: Israel-Iran round two, Strait of Hormuz escalation, eschatological factions, civil-unrest watch, and AI-bubble exhaustion must be split before scoring.
+
 - **2025-11-15**, [The Epstein Trap and the Theater of Imperial Collapse](/interviews/interview-vvj4mxqu2qk/)  
   The Epstein-file spectacle is treated as an explicitly speculative tension-and-release theory whose value depends on whether later public anger and lawfare behavior match the proposed payoff.
 
 - **2025-12-09**, [America Is Cannibalizing Europe](/interviews/interview-lhssc-w0bk4/)
   Jiang's AI-quality forecast becomes a measurement-surface example: a two-year ChatGPT/public-assistant claim must separate relevance, confusion, usefulness, and clean-data exhaustion from cost pressure, layoffs, censorship, and embodied-data expansion.
 
+- **2025-12-19**, [Pax Judaica By American Defeat](/interviews/interview-hzix1hy8hr0/)
+  Jiang joins Pax Judaica by American defeat, Iran/Hormuz no-exit war, U.S.-China bargaining, Chinese-consumer debt absorption, Epstein elite-theater evidence, and globalized-elite identity conflict into one comparison cluster that should not become a standalone topic page.
+
+- **2026-01-17**, [Empire Runs On Optics, Chokepoints, And Chinese Savings](/interviews/interview-h5lcj0d4dpy/)
+  Jiang sharpens the late-2025 forecast cluster through renewed Iran strike and ground-war risk, quick-victory optics, stablecoins, Treasury hostage pressure, Chinese household-savings extraction, and Canada as financial receptacle.
+
 - **2026-03-31**, [Collapse Is Engineered](/episodes/predictive-history-vbowbtjwkbo/)
   Jiang's Great Reset lecture becomes a financial-collapse comparison example: engineered timing, private-credit rupture, AI-bubble rupture, war-tied crash, capital migration, and distressed-asset acquisition must be split before any ledger promotion.
+
+- **2026-04-15**, [Empire Is Evil, but It Pays](/interviews/interview-mgazlaa5oza/)
+  Jiang restates prediction as model validation and debate, then ties Iran-war pressure to petrodollar and Treasury addiction, boomer sacrifice refusal, Canada as authoritarian warning, and elite-school authority formation.
 
 - **Undated**, [History Must Predict Or It Becomes Propaganda](/interviews/interview-qsxkdk4mzgk/)  
   Jiang frames prediction as the anti-propaganda pressure on history and then limits psychohistory by saying prediction must still serve love, creativity, learning, and human flourishing.
