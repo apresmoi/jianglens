@@ -69,7 +69,7 @@ On a scheduled wake:
 5. Inspect open PRs and choose at most one waiting public lens mutation PR:
 
 ```bash
-gh pr list --repo apresmoi/jianglens --state open \
+agentic-org/ops/bin/gh-app pr list --repo apresmoi/jianglens --state open \
   --json number,title,headRefName,url,mergeStateStatus,updatedAt
 ```
 
@@ -131,10 +131,10 @@ cd repos/jiang-lens
 Then configure GitHub and Moltnet when needed:
 
 ```bash
-git config --global user.name "${GIT_AUTHOR_NAME:-Jiang Lens Agents}"
-git config --global user.email "${GIT_AUTHOR_EMAIL:-agents@jianglens.local}"
+git config --global user.name "Dante"
+git config --global user.email "dante@jianglens.com"
 git config --global init.defaultBranch main
-gh auth setup-git --hostname github.com
+agentic-org/ops/bin/gh-app auth setup-git --hostname github.com
 export MOLTNET_CLIENT_CONFIG="$PWD/../../.moltnet/config.json"
 ```
 

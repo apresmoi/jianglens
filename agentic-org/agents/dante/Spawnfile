@@ -18,6 +18,13 @@ execution:
   sandbox:
     mode: workspace
 
+environment:
+  env:
+    GIT_AUTHOR_NAME: Dante
+    GIT_AUTHOR_EMAIL: dante@jianglens.com
+    GIT_COMMITTER_NAME: Dante
+    GIT_COMMITTER_EMAIL: dante@jianglens.com
+
 schedule:
   kind: cron
   cron: "23,53 * * * *"

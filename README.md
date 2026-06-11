@@ -94,8 +94,9 @@ spawnfile up agentic-org \
   -d
 ```
 
-The worker stack requires current `spawnfile` and `moltnet` releases and reads `GH_TOKEN` from
-`agentic-org/ops/secrets/agentic-org.env`. Do not bake GitHub tokens into images. See
+The worker stack requires current `spawnfile` and `moltnet` releases and reads
+the `jiang-lens-agents` GitHub App secrets from
+`agentic-org/ops/secrets/agentic-org.env`. Do not bake GitHub credentials into images. See
 [Agentic Org Stack](agentic-org/docs/EPISODE_WORKER_STACK.md) for the full auth,
 environment, and Moltnet runbook.
 

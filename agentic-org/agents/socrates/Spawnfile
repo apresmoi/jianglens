@@ -18,6 +18,13 @@ execution:
   sandbox:
     mode: workspace
 
+environment:
+  env:
+    GIT_AUTHOR_NAME: Socrates
+    GIT_AUTHOR_EMAIL: socrates@jianglens.com
+    GIT_COMMITTER_NAME: Socrates
+    GIT_COMMITTER_EMAIL: socrates@jianglens.com
+
 schedule:
   kind: cron
   cron: "27 * * * *"

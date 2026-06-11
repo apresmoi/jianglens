@@ -70,8 +70,9 @@ repos/jianglens-private
 ```
 
 This checkout is a readonly Spawnfile git resource backed by
-`apresmoi/jianglens-private`. The shared `GH_TOKEN` must have read access to
-that private repository before the agent container starts.
+`apresmoi/jianglens-private`. The `jiang-lens-agents` GitHub App installation
+must include this private repository before the agent container starts, because
+the container uses short-lived installation tokens for private checkout access.
 
 From inside `repos/jiang-lens`, use:
 

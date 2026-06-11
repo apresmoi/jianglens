@@ -217,10 +217,10 @@ Then:
 3. Configure GitHub access before branch or PR work:
 
 ```bash
-git config --global user.name "${GIT_AUTHOR_NAME:-Jiang Lens Agents}"
-git config --global user.email "${GIT_AUTHOR_EMAIL:-agents@jianglens.local}"
+git config --global user.name "Plato"
+git config --global user.email "plato@jianglens.com"
 git config --global init.defaultBranch main
-gh auth setup-git --hostname github.com
+agentic-org/ops/bin/gh-app auth setup-git --hostname github.com
 ```
 
 4. Inspect git status and current branch.

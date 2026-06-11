@@ -49,13 +49,15 @@ shared:
       JIANG_PRIVATE_REPO_ROOT: ../jianglens-private
       JIANG_PRIVATE_CORPUS_ROOT: ../jianglens-private/corpora/substack/predictivehistory/export
     secrets:
-      - name: GH_TOKEN
-        required: true
       - name: GIT_CONFIG_COUNT
         required: true
       - name: GIT_CONFIG_KEY_0
         required: true
       - name: GIT_CONFIG_VALUE_0
+        required: true
+      - name: GITHUB_APP_ID
+        required: true
+      - name: GITHUB_APP_PRIVATE_KEY_B64
         required: true
       - name: MOLTNET_AGENT_TOKEN
         required: true

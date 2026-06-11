@@ -13,13 +13,13 @@ Before work:
 ```bash
 cd repos/jiang-lens
 git fetch origin
-gh auth setup-git --hostname github.com
+agentic-org/ops/bin/gh-app auth setup-git --hostname github.com
 ```
 
 Review source PRs only:
 
 ```bash
-gh pr list --repo apresmoi/jianglens --state open \
+agentic-org/ops/bin/gh-app pr list --repo apresmoi/jianglens --state open \
   --json number,title,headRefName,url,mergeStateStatus,updatedAt
 ```
 
