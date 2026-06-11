@@ -41,13 +41,27 @@ Log in to Codex on the host account that will run the org:
 codex login --device-auth
 ```
 
-Create a fine-grained GitHub token for `apresmoi/jianglens` with:
+Create and install the `jiang-lens-agents` GitHub App on the repositories the
+org needs:
 
+- `apresmoi/jianglens`
+- `apresmoi/jianglens-private`
+
+The app needs repository permissions for source work, PRs, and manual sync
+workflow dispatch:
+
+- Actions: read/write
+- Checks: read-only
+- Commit statuses: read-only
 - Contents: read/write
+- Issues: read/write
+- Metadata: read-only
 - Pull requests: read/write
-- Metadata: read
+- Workflows: no access
 
-Store it locally:
+Generate an app private key, then store the app id and base64-encoded private
+key in the local env file. The helper discovers the app installation id at
+runtime, defaulting to the `apresmoi` installation:
 
 ```bash
 mkdir -p agentic-org/ops/secrets
@@ -179,9 +193,9 @@ ${JIANG_PRIVATE_CORPUS_ROOT:-../jianglens-private/corpora/substack/predictivehis
 ```
 
 The private corpus checkout is a readonly Spawnfile git resource backed by
-`apresmoi/jianglens-private`. The `GH_TOKEN` in
-`agentic-org/ops/secrets/agentic-org.env` must include read access to that
-private repository before `spawnfile up` runs.
+`apresmoi/jianglens-private`. The `jiang-lens-agents` GitHub App installation
+must include that private repository before `spawnfile up` runs, otherwise the
+readonly resource clone will fail before the workers start.
 
 Treat that checkout as private grounding material: use it for analysis and
 proposals, but do not publish raw paid post text or raw comment threads.

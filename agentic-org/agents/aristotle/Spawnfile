@@ -18,6 +18,13 @@ execution:
   sandbox:
     mode: workspace
 
+environment:
+  env:
+    GIT_AUTHOR_NAME: Aristotle
+    GIT_AUTHOR_EMAIL: aristotle@jianglens.com
+    GIT_COMMITTER_NAME: Aristotle
+    GIT_COMMITTER_EMAIL: aristotle@jianglens.com
+
 schedule:
   kind: cron
   cron: "8,38 * * * *"

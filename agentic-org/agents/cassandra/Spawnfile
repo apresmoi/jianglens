@@ -18,6 +18,13 @@ execution:
   sandbox:
     mode: workspace
 
+environment:
+  env:
+    GIT_AUTHOR_NAME: Cassandra
+    GIT_AUTHOR_EMAIL: cassandra@jianglens.com
+    GIT_COMMITTER_NAME: Cassandra
+    GIT_COMMITTER_EMAIL: cassandra@jianglens.com
+
 schedule:
   kind: cron
   cron: "17,47 * * * *"
