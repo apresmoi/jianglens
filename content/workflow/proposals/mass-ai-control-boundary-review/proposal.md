@@ -1,11 +1,11 @@
 # Mass Society / AI Control Boundary Review
 
-Date: 2026-06-01; refreshed 2026-06-05, 2026-06-08, and 2026-06-09
-Status: concept-scoped routing proposal; public prose held; June 5 refresh after AI Apocalypse impact/link/public-anchor work; June 8 refresh after Prediction emergency forecast-family review; June 9 refresh after the April 6 Sneako impact intake
+Date: 2026-06-01; refreshed 2026-06-05, 2026-06-08, 2026-06-09, and 2026-06-12
+Status: concept-scoped routing proposal; public prose held after June 10 Mass Society compression; June 5 refresh after AI Apocalypse impact/link/public-anchor work; June 8 refresh after Prediction emergency forecast-family review; June 9 refresh after the April 6 Sneako impact intake; June 12 refresh after checking the March 24 ledger review and the compressed public Mass Society / AI Control surface
 Work type: synthesis after Mass Society domestic-grid, AI God boundary, March 24 ledger, Hasan forecast-comparison records, AI Eats Itself review, May 12 AI Apocalypse public anchor, June 8 Prediction emergency-family review, and April 6 identity/intellectual-class control intake
 Public surface affected later: `website/src/content/docs/lens/mass-society-as-political-constraint.md`, `website/src/content/docs/lens/ai-as-control-surface.md`, `website/src/content/docs/lens/prediction-as-falsifiable-prophecy.md`, possible child pages only after split review
 
-Review: `content/workflow/reviews/mass-ai-control-boundary-review/local-judge-2026-06-04.md`; refreshed at `content/workflow/reviews/mass-ai-control-boundary-refresh/local-judge-2026-06-05.md`, `content/workflow/reviews/mass-ai-control-domestic-pressure-review/local-judge-2026-06-08.md`, and `content/workflow/reviews/mass-ai-control-boundary-refresh-2026-06-09/local-judge-2026-06-09.md`
+Review: `content/workflow/reviews/mass-ai-control-boundary-review/local-judge-2026-06-04.md`; refreshed at `content/workflow/reviews/mass-ai-control-boundary-refresh/local-judge-2026-06-05.md`, `content/workflow/reviews/mass-ai-control-domestic-pressure-review/local-judge-2026-06-08.md`, `content/workflow/reviews/mass-ai-control-boundary-refresh-2026-06-09/local-judge-2026-06-09.md`, and `content/workflow/reviews/mass-ai-control-boundary-refresh-2026-06-12/local-judge-2026-06-12.md`
 
 ## Decision
 
@@ -132,6 +132,29 @@ The June 9 source does **not** justify a public Mass Society append today. The c
 If this pressure becomes public later, the first move should be a small boundary note or atlas relation, not a new child page. A child such as **Intellectual Class As Control Layer** would need more than the April 6 source plus the identity-management proposal; it would need clustered episode links or repeated dated sources where credentialed explainers, schools, media, professional status, AI replacement, and class fragmentation form one reusable mechanism.
 
 This keeps the **Identity Management As Class Counterinsurgency** seed held. April 6 is the origin source for Occupy-to-DEI class diversion, while May 18 and June 7 are later recurrences inside AI-order and live-control contexts. Route that seed first through Proximity Games or Mass Society by active mechanism; do not create standalone **DEI**, **Wokeism**, **Occupy Wall Street**, **Class Counterinsurgency**, **Credentialed Opinion Class**, or **AI Replaces Intellectuals** pages now.
+
+## June 12 Update
+
+This refresh checks the named March 24 emergency-powers follow-up against current public and workflow state. The March 24 ledger review and the broader emergency forecast-family review already exist, and they already decide the key Prediction point: do not promote the war-draft-National Guard-emergency-powers chain as confirmed; keep it as active-watch / partial-adjacent signal with clear miss, shift, and revision risks. The useful follow-on was the Mass Society / AI Control routing question, and that has now also been partially promoted and compressed in public.
+
+Current local diagnostics after the June 10 public Mass Society compression:
+
+- **Mass Society As Political Constraint:** about 5,040 words, 20 distinct local evidence source slugs, 66 authored evidence marks, and 14 stable anchors. It remains source-dense but is below the ordinary 6,000-word warning line after the public compression.
+- **AI As Control Surface:** about 2,853 words, 13 distinct local evidence source slugs, 42 authored evidence marks, and 6 stable anchors. It is not size-pressured; its risk is still boundary drift if database, police, voter-list, or data-center claims are treated as interface claims.
+- The public Mass Society page already carries the relevant April-May anchors: `mass-society-surveillance-bargain-grid`, `mass-society-digital-permission-grid`, `mass-society-embodied-data-grid`, and `mass-society-domestic-war-control-grid`.
+- The public AI Control page already carries the corresponding interface anchors: `ai-degraded-answer-seeks-real-world-data`, `ai-intimate-attention-command`, `ai-body-interface-sells-control-as-safety`, and `ai-omniscience-religion-obedience`.
+
+The boundary therefore holds with no new public mutation today. March 24 remains a Prediction ledger-status problem when the object is source date, April clock, draft authorization, National Guard scope, emergency route, or November-midterm test. Mass Society already owns the population-administration apparatus that the chain would use if it materialized: draft administration, ICE normalization, federal force, voter lists, identity, payment, rationing, data centers, and database legibility. AI Control already owns the interface layer only when command reaches the person through answer, companion, body interface, predictive voice, sacred voice, or imagination governor.
+
+Do not use the March 24 review as a reason to append another Mass Society paragraph. The public page has already absorbed the home-front grid and should now be replacement-only unless a fresh source changes the mechanism, clustered episode links need a narrower hover, or the page crosses split pressure again.
+
+The next public move in this cluster should be one of three bounded options:
+
+1. **Provenance maintenance:** link exact episode marks to existing Mass Society or AI Control anchors only when the mark names the same mechanism.
+2. **AI Control replacement:** tighten the interface sequence if future AI sources create redundancy around degraded answer, body interface, sacred voice, or loneliness/companion command.
+3. **Child review:** revisit a child only if Mass Society rises above the 6,000-word warning line, a ledger promotion needs a public explanatory child, or episode links cluster around one anchor enough to need a narrower reader surface.
+
+If no public mutation is needed and no fresh high-pressure source lacks first-impact intake, ordinary historical corpus-impact work can resume, but it should be chosen for a concrete concept boundary question rather than for the missing-impact count alone.
 
 ## Boundary Table
 
