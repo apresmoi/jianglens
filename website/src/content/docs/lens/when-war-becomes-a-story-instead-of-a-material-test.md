@@ -41,11 +41,9 @@ The three tests are deliberately unromantic.
 
 ## Chokepoint Children
 
-The access-control and Iran-war systems material now has two child lenses. [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) carries the dense Hormuz, Malacca, Gulf fragility, cheap-energy platform, hemisphere supply-line, systems-fire, and ceasefire-theater anchors. [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/) carries the no-exit, war-momentum, and escalation-ladder anchors.
+[Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) now carries the dense Hormuz, Malacca, Gulf fragility, cheap-energy platform, hemisphere supply-line, systems-fire, and ceasefire-theater anchors. [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/) carries the no-exit, war-momentum, and escalation-ladder anchors.
 
-The parent rule is simpler. A reserve-currency empire can try to become a chokepoint empire when monetary circulation weakens, but the move still has to pass the material test: ships, crews, repair yards, ports, oil, food, bases, client economies, and alliance belief must survive the pressure they are asked to carry. If a gate closes or becomes too costly to police, the protection story that made the empire's money and bases feel normal can be audited at once.
-
-Keep this boundary sharp. Strategy owns the access-control audit; [Power As Alchemy](/lens/power-as-alchemy/) owns petrodollar belief and Treasury demand; [Eschatology As Script](/lens/eschatology/) owns sacred acceleration; [Game Theory](/lens/game-theory/) owns player-payoff sequencing; [How Stories Control Reality](/lens/how-stories-control-reality/) owns pretext and spectacle when the frame, not the gate, is doing the main work.
+The parent rule is the audit: a reserve-currency empire can try to become a chokepoint empire when monetary circulation weakens, but ships, crews, repair yards, ports, oil, food, bases, client economies, and alliance belief must survive the pressure they are asked to carry. Strategy owns that access-control test; [Power As Alchemy](/lens/power-as-alchemy/) owns petrodollar belief and Treasury demand; [Eschatology As Script](/lens/eschatology/) owns sacred acceleration; [Game Theory](/lens/game-theory/) owns player-payoff sequencing; [How Stories Control Reality](/lens/how-stories-control-reality/) owns pretext and spectacle when the frame, not the gate, is doing the main work.
 
 ## Deathbed Hubris
 
@@ -95,15 +93,13 @@ This belongs inside strategy rather than only [How Stories Control Reality](/len
 
 ## Ceasefire Theater And War Architecture
 
-The ceasefire-theater anchor now lives in [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) as `strategy-ceasefire-theater-war-architecture`. The parent keeps the routing rule: peace language is not enough if the underlying architecture still points through blockades, energy disruption, war-economy conversion, defense planning, chokepoints, and dollar-financed supply.
-
-This belongs to Strategy when the question is what material system continues under the public signal. It belongs to [How Stories Control Reality](/lens/how-stories-control-reality/) when the ceasefire language itself is the operative script, and to [Power As Alchemy](/lens/power-as-alchemy/) when the financing belief loop is the active object.
+The ceasefire-theater anchor now lives in [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) as `strategy-ceasefire-theater-war-architecture`. The parent keeps only the routing rule: peace language is not enough if the underlying architecture still points through blockades, energy disruption, war-economy conversion, defense planning, chokepoints, and dollar-financed supply. Strategy asks what material system continues under the public signal; [How Stories Control Reality](/lens/how-stories-control-reality/) owns the operative script, and [Power As Alchemy](/lens/power-as-alchemy/) owns the financing belief loop.
 
 ## Imperial Retrenchment And Proxy Attrition
 
 The resource-empire, replacement-muscle, vassal-spending, debt-war, overextension, and sanctioned-state-volatility material now has its own child lens: [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/). That page carries the stable anchors `strategy-resource-empire-replaces-finance`, `strategy-replacement-empire-audition`, `strategy-vassal-proxy-attrition`, `strategy-debt-war-cannot-admit-defeat`, `overextension-turns-empire-against-itself`, and `strategy-sanctioned-states-create-volatility`.
 
-The parent rule is the material audit. When a finance empire weakens, the next question is not only whether the old monetary story still persuades. It is which resources, gates, bases, clients, allies, weapons, and bodies must carry the imperial cost after belief gets thin. Use this parent page for the diagnostic. Use the child page when the active mechanism is imperial cost transfer: the center retreats toward continental resources, auditions a successor muscle, makes allies absorb attrition, or turns sanctioned-state volatility into a way to exhaust the policing empire.
+The parent rule is the material audit. When a finance empire weakens, ask which resources, gates, bases, clients, allies, weapons, and bodies must carry the imperial cost after belief gets thin. Use the child page when the active mechanism is cost transfer: the center retreats toward continental resources, auditions a successor muscle, makes allies absorb attrition, or turns sanctioned-state volatility into a way to exhaust the policing empire.
 
 ## Four-Dimensional War
 
@@ -221,49 +217,19 @@ Ask these questions when applying this lens.
 
 ## Chronology So Far
 
-In **April 2024**, the Operation True Promise lecture separates military dominance from strategic victory and introduces Iran's asymmetrical cost and strategy matrix.
+In **April and May 2024**, the Operation True Promise and shock-and-awe lectures separate dominance from victory, then show how Iraq 2003 became a false doctrine of speed, omniscience, special forces, and decisive collapse.
 
-In **May 2024**, the shock-and-awe lecture explains how the apparent success of Iraq 2003 taught America a doctrine of godlike speed, precision, and special-forces empire.
+In **June and November 2024**, the page gets its older imperial and Roman counterweights: strategic imagination can exploit overextension, debt, and civil discord, while Rome shows that a story of no surrender can become material endurance when institutions and manpower carry it.
 
-In **June 2024**, the Putin lecture defines overextension, debt, and civil discord as an imperial-death mechanism that strategic imagination can exploit.
+In **April through August 2025**, Jiang adds the structural spine: military form determines political form; escalation dominance can become compulsion to react; and hybrid war can attack media, infrastructure, psychology, sanctions, services, and the state-population bond before open battlefield defeat.
 
-In **November 2024**, the Rome lecture gives the ancient countercase: a story of no surrender can become real material endurance when institutions and manpower can carry it.
+In **November and December 2025**, the Venezuela and Glenn Diesen sources add the empire-cycle board: hidden-route operations and anti-cartel pressure still fail against guerrilla preparation, manpower limits, and political will, while deathbed hubris turns a declining empire's remaining capacity into a long conflict board.
 
-In **April 2025**, the gunpowder lecture gives the older structural rule: military form determines political form, and effective gunpowder warfare requires a whole-society transformation before the weapon can become world conquest.
+In **March 2026**, the Iran-war cluster creates the live test now mostly routed through [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) and [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/): Hormuz, cheap drones, ground-war limits, dollar protection, Gulf fragility, ceasefire illusions, escalation momentum, and efficient-but-fragile consumer life all become one material audit.
 
-In **June 2025**, the escalation-dominance update adds the credibility trap: the hegemon's power to climb can become compulsion to react.
+In **March and April 2026**, the Iran escalation, Pax Judaica, World War Trump, and Hollywood-Pentagon lectures make the latest parent formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; a failing imperial muscle can be compared against possible replacements; reserve-currency power can harden into access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
 
-In **August 2025**, the eschatology convergence update adds the hybrid-war layer: modern war may begin through unseen media, cyber, psychological, covert, economic, and infrastructure pressure against the state-population bond before open battlefield defeat.
-
-In **November 2025**, the Libertarian Party interview supplies the hidden-route version of the Venezuela audit: anti-cartel pressure may target drug-smuggling infrastructure and deep-state revenue, but full invasion still fails against guerrilla preparation, manpower limits, and political will.
-
-Later in **November 2025**, the CapitalCosm interview supplies a Western Hemisphere retrenchment layer now carried by [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/): Venezuela pressure is read as oil bargaining and Monroe-Doctrine enforcement, while Canada, Mexico, Greenland, Germany, Japan, and Israel become parts of a retreating empire's nearby-resource and regional-proxy map.
-
-In **December 2025**, the Glenn Diesen interview adds deathbed hubris: a declining empire that refuses mortality can turn its remaining technological, economic, military, and allied capacity into a long conflict board rather than accept retreat.
-
-In **March 2026**, the U.S.-Iran lecture shows the access-control problem before the later Hollywood-Pentagon lecture generalizes it: Hormuz is a narrow passage where oil, food, dollar demand, Gulf liquidity, and military credibility all become testable.
-
-In **March 2026**, the March 3 Iran-war interview gives a compact live-war formulation of attrition as an audit of the American prestige machine: cheap drones, infrastructure pressure, and cost asymmetry puncture the aura that made American protection feel real.
-
-In **March 2026**, the Piers Morgan interview turns the same Hormuz board into a cheap-energy-platform audit: oil, food, fertilizer, semiconductors, AI infrastructure, travel, desalination, tourism, and American security guarantees all become one exposed system.
-
-In **March 2026**, the Danny Haiphong interview adds the no-exit war formulation: hubris and Heartland-dollar desperation start the war, a real Iran campaign requires unavailable ground-war capacity, and retreat would threaten the GCC, bases, Treasury buyers, and the dollar order.
-
-In **March and April 2026**, the Iran escalation, Pax Judaica, and Hollywood-Pentagon lectures make the latest formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; a failing imperial muscle may be judged against possible replacement actors; reserve-currency power can harden into chokepoint access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
-
-In **March 2026**, the Rick Sanchez interview adds the spectacle-resilience test: a visible strike may try to manufacture the public authorization, troop commitment, and funding that a long war lacks, while Hormuz and Gulf infrastructure expose that an efficient unipolar consumer world was not built for strategic disruption.
-
-In **March 2026**, the Glenn Diesen interview supplies the earliest live-war no-exit and escalation-control formulation: a collapsed pretext, Hormuz pressure, Gulf mirage, ground-invasion rumors, and Diesen's "illusion of escalation control" all show the war outrunning any coherent public theory of victory.
-
-In **March 2026**, the Tucker Carlson interview adds another war-momentum formulation: ceasefire threatens petrodollar/Gulf order, cheap energy scarcity audits whole societies, and a small island operation becomes a logistics-and-occupation trap once the map answers back.
-
-In **March 2026**, the Redacted Iran-war interview intensifies this into the escalation-ladder momentum test: when all sides find reasons to climb, morale, rule-changing institutions, media bubbles, and imperial face become part of the material board.
-
-In **April 2026**, the World War Trump lecture adds the ceasefire-theater test: public peace signals can matter less than the continuing architecture of blockade, energy disruption, war-economy conversion, defense planning, chokepoints, and dollar-financed supply.
-
-In **April 2026**, the interview cluster around Iran and the petrodollar adds the latest resource-empire formulation now carried by [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/): a weakening dollar-finance empire may try to retreat into the Western Hemisphere, convert naval protection into toll extraction, and replace open circulation with continental resources, energy leverage, weapons sales, and chokepoint control.
-
-In **May 2026**, the Putin-in-Beijing lecture adds the sanctioned-state volatility machine now carried by [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/): Russia does not need to inherit the world leader role if sanctioned states can make American policing, dollar demand, and allied protection too expensive across several theaters at once.
+In **April and May 2026**, the resource-empire and sanctioned-state-volatility material moves into [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/): a weakening dollar-finance empire may retreat into nearby resources, convert protection into toll extraction, and be exhausted by states that make American policing, dollar demand, and allied protection too expensive across several boards.
 
 ## Source Trail
 
@@ -281,9 +247,7 @@ This parent page now keeps the source trail compact so it can serve as the Strat
 - **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/) - war must be judged by economics, organization, and logistics before rescue mythology and noble scenes are believed.
 - **2026-05-21**, [Putin Does Not Want The Throne](/episodes/predictive-history-x83hclwvhi8/) - sanctioned-state volatility can make American policing, dollar demand, and allied protection too expensive across several boards.
 
-For the moved access-control cluster, see [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/). For the moved no-exit and escalation cluster, see [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/).
-
-For the moved imperial cost-transfer cluster, see [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/).
+For the moved access-control cluster, see [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/). For the moved no-exit and escalation cluster, see [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/). For the moved imperial cost-transfer cluster, see [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/).
 
 ## Related Concepts
 
