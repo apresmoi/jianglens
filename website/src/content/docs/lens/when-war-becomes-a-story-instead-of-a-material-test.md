@@ -15,6 +15,20 @@ That is why this page belongs beside [How Stories Control Reality](/lens/how-sto
 <span id="strategy-material-test-three-constraints" class="lens-point-anchor"></span>
 Strategy passes the material test only when its story can survive economics, organization, and logistics: cost, executable structure, supply, endurance, and replacement capacity.
 
+## World Theory Before Tactics
+
+The **2026-04-09** Hang Seng lecture adds a sharper method layer without creating a separate Grand Strategy page. Jiang contrasts a Chinese habit of utility and stratagem with a Thucydidean habit of reading character, speech, and structural force. The strategic question is not only which tactic is clever. It is whether the actor knows what world it is inside.
+
+That distinction matters because tactics can work inside a shared cultural code and still fail on the world board. Jiang says Thucydides treats nation-states and societies as having [soul, psychology, emotional state, personality, and outlook]{evidence="video:interview-rsld81qme04@transcript:v1#seg-0007"}. A pure utility model can miss why societies endure, fear, sacrifice, panic, or overreach. Speeches also matter because they reveal the personality of a people and tell them what they are fighting for, but this page keeps the strategic test: does the story of action understand the force moving through the board?
+
+The lecture's material image is the swimmer and the wave. A great strategist can swim brilliantly, but a great swimmer still cannot beat [the structural force of an ocean wave]{evidence="video:interview-rsld81qme04@transcript:v1#seg-0019"}. In the Iran case, Jiang therefore reads the war through Heartland pressure and Anglo-American naval strategy rather than through Trump as a lone decider: if [Russia, Iran, and China can join the Eurasian pivot, sea-power empire faces a structural danger]{evidence="video:interview-rsld81qme04@transcript:v1#seg-0020 video:interview-rsld81qme04@transcript:v1#seg-0021"} it cannot solve with one clever move.
+
+<!-- lens-point id="strategy-world-theory-before-tactics" concept="strategy-material-test" evidence="video:interview-rsld81qme04@transcript:v1#seg-0007 video:interview-rsld81qme04@transcript:v1#seg-0019 video:interview-rsld81qme04@transcript:v1#seg-0028 video:interview-rsld81qme04@transcript:v1#seg-0029" -->
+<span id="strategy-world-theory-before-tactics" class="lens-point-anchor"></span>
+Strategy needs a theory of the world before tactics can matter: without a map of character, structural force, geography, and motive, even wealth and clever moves leave an actor available to another player's board.
+
+The boundary is important. [How Stories Control Reality](/lens/how-stories-control-reality/) owns speech as world-making and coordination. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the state or people as a coordinated actor. [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) owns Heartland/Rimland gates and sea-lane access. [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/) owns dated forecast scoring. Strategy owns the audit that comes before all of them: does the actor have a world theory strong enough to meet material force, or is it only reacting inside someone else's theory?
+
 ## Military Form Makes Political Form
 
 The April 10, 2025 gunpowder lecture gives the deeper historical rule behind the material test. Jiang starts before modern air power or Iran-war systems and says [the nature of the military determines the nature of the political system]{evidence="video:predictive-history-dirjyy-8v54@transcript:v1#seg-0001 video:predictive-history-dirjyy-8v54@transcript:v1#seg-0003"}. A hoplite farmer, a rower, a cavalry noble, a replenishable Roman legionary, a Viking raider, a steppe archer, a knight, and a cannon do not require the same world. Each war form asks for a different economy, hierarchy, training regime, and political body.
@@ -197,6 +211,8 @@ Ask these questions when applying this lens.
 
 **What are the three material tests?** Ask whether economics, organization, and logistics support the story. If the answer is vague, the story may be doing the work that supply, cost, and executable planning should do.
 
+**What world theory is directing the tactics?** Ask whether the actor has a map of structural force, geography, character, motive, alliance, and time. If it only has clever moves or short-term utility, it may be playing inside someone else's grand strategy.
+
 **Who controls escalation?** The stronger actor may possess dominance while the weaker actor controls timing, justification, terrain, cost, and public opinion.
 
 **Has the ladder become self-propelling?** Ask whether each actor's next move now looks mandatory, whether morale has become a war capacity, whether institutions are suppressing bad feedback, and whether face-saving makes exit feel more dangerous than continuing.
@@ -227,7 +243,7 @@ In **November and December 2025**, the Venezuela and Glenn Diesen sources add th
 
 In **March 2026**, the Iran-war cluster creates the live test now mostly routed through [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) and [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/): Hormuz, cheap drones, ground-war limits, dollar protection, Gulf fragility, ceasefire illusions, escalation momentum, and efficient-but-fragile consumer life all become one material audit.
 
-In **March and April 2026**, the Iran escalation, Pax Judaica, World War Trump, and Hollywood-Pentagon lectures make the latest parent formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; a failing imperial muscle can be compared against possible replacements; reserve-currency power can harden into access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
+In **March and April 2026**, the Iran escalation, Pax Judaica, Grand Strategy, World War Trump, and Hollywood-Pentagon lectures make the latest parent formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; world theory must precede tactics; a failing imperial muscle can be compared against possible replacements; reserve-currency power can harden into access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
 
 In **April and May 2026**, the resource-empire and sanctioned-state-volatility material moves into [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/): a weakening dollar-finance empire may retreat into nearby resources, convert protection into toll extraction, and be exhausted by states that make American policing, dollar demand, and allied protection too expensive across several boards.
 
@@ -245,6 +261,7 @@ This parent page now keeps the source trail compact so it can serve as the Strat
 - **2025-11-30**, [The Money Transfers and America Is Allowed to Implode](/interviews/interview-sutm8lojrqw/) - Western Hemisphere retrenchment turns nearby resources and regional proxies into a declining empire's material fallback.
 - **2026-03-26**, [Game Theory #16: Pax Judaica Rising](/episodes/predictive-history-mk4vchtawso/) - four-dimensional war and replacement-empire audition test whether a successor can supply imperial muscle.
 - **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/) - war must be judged by economics, organization, and logistics before rescue mythology and noble scenes are believed.
+- **2026-04-09**, [Grand Strategy Or Pawnhood](/interviews/interview-rsld81qme04/) - world theory has to join character, structural force, geography, and motive before tactics can become strategy.
 - **2026-05-21**, [Putin Does Not Want The Throne](/episodes/predictive-history-x83hclwvhi8/) - sanctioned-state volatility can make American policing, dollar demand, and allied protection too expensive across several boards.
 
 For the moved access-control cluster, see [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/). For the moved no-exit and escalation cluster, see [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/). For the moved imperial cost-transfer cluster, see [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/).
