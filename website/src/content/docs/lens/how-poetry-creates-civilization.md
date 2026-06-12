@@ -133,6 +133,16 @@ The poet may not know he is a prophet. That is part of the point. Homer is not i
 <span id="poetry-soul-gateway-breaks-familiar-prison" class="lens-point-anchor"></span>
 Poetry works as a gateway into the soul when words awaken buried memory, break the prison of familiar impressions, and give higher sight into a reality ordinary perception cannot reach.
 
+## Dante: Poetry As Quiet Revolution, Then Invasion
+
+The March 2025 Dante lecture gives the constructive layer before the darker April 2026 Dante/Virgil reading. Jiang first presents Dante as the poet who lets Renaissance modernity ignite from inside Christianity rather than against it.
+
+The background conditions are real: city-state competition, recovered Greek learning, merchant patronage, printing, and vernacular literacy. But Jiang says conditions do not create a civilization by themselves. The decisive missing spark is a poet. [Dante writes in Tuscan so the Divine Comedy becomes accessible to common people]{evidence="video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0063 video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0064"}, then becomes for the Renaissance what Homer was for Greece: [the father of modernity who ignites civilization by giving it a new human self-image]{evidence="video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0064"}.
+
+This matters because the poem does not merely distribute an existing theology. Dante changes what Christianity can imagine a human being to be. Raphael can insert himself into *The School of Athens* because [Dante first makes the poet the hero of a sacred journey]{evidence="video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0033"}. Michelangelo can place human imagination at the heart of the Church because [Dante peacefully destroys and reinvents an empire through poetry, subtlety, love, and imagination]{evidence="video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0068"}.
+
+So Dante has two visible positions in the current corpus. The earlier lecture shows poetry as ignition: vernacular access, human dignity, imagination, love, and modern selfhood entering the Church from within. The later lecture shows poetry as invasion: the poem enters memory, remakes the reader, and exposes the guide as a possible trap. They are not contradictory. A poem can liberate by making a new world accessible, and it can liberate again by teaching the reader how a world gets inside.
+
 ## Dante: Poetry As Invasion And Liberation
 
 The Dante lecture adds a darker form of the same mechanism.
@@ -211,6 +221,7 @@ It also warns that poetic power is not automatically good. A world can be made t
 ## Chronology So Far
 
 - **2025-03-06**, [The Viking Memory Machine](/episodes/predictive-history-tymnsa83nhy/): The oral-memory source gives the upstream medium. Oral tradition preserves a living relation among speaker, listener, hall, fire, acoustics, play, and repetition, and Jiang says [Homer, Dante, and Shakespeare would not exist without that older oral tradition]{evidence="video:predictive-history-tymnsa83nhy@transcript:v1#seg-0063"}.
+- **2025-03-25**, [Dante's Quiet Revolution](/episodes/predictive-history-v6cdqjnrvlk/): Dante supplies the constructive Renaissance layer before the later guide-trap sequence. [Tuscan makes the Divine Comedy accessible to common people, and the poet becomes the spark that ignites modernity]{evidence="video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0063 video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0064"}; by the end, Jiang says [poetry, love, and imagination let Dante reinvent the Church from within]{evidence="video:predictive-history-v6cdqjnrvlk@transcript:v1#seg-0068"}.
 - **2025-05-14**, [Civilization #51](/episodes/predictive-history-qms7trnkwqq/): Shakespeare adds the language-as-empire layer. [English becomes a linguistic platform that opens and filters the world]{evidence="video:predictive-history-qms7trnkwqq@transcript:v1#seg-0047 video:predictive-history-qms7trnkwqq@transcript:v1#seg-0048"}, while theatre, rhythm, diction, and ordinary audiences show how poetic language can scale from performance memory into civilizational infrastructure.
 - **2025-06-04**, [Civilization #57](/episodes/predictive-history-cylkqpsffry/): Modernism gives the negative case. [Joyce turns the path toward truth into entry into Joyce's own mind]{evidence="video:predictive-history-cylkqpsffry@transcript:v1#seg-0045"}, while [modern literature becomes elite, self-referential, inward, and tempted by self-salvation]{evidence="video:predictive-history-cylkqpsffry@transcript:v1#seg-0046 video:predictive-history-cylkqpsffry@transcript:v1#seg-0048"}.
 - **2026-01-07**: Great Books #1 gives the metaphysical premise. [A great book is a universe the reader can enter]{evidence="video:predictive-history-tsd-8fga84a@transcript:v1#seg-0032"}, and modern material reality is the dead world that competes for attention and imagination.
