@@ -6,6 +6,39 @@ Status: first and second public splits completed; parent remains under active si
 Work type: atlas governance / concept-boundary proposal
 Public surface: `website/src/content/docs/lens/when-war-becomes-a-story-instead-of-a-material-test.md`
 
+## 2026-06-11 Split Watch Update
+
+Cassandra's 2026-06-11 room warning named the Strategy parent as over split-review threshold at 7.6k words / 48 sources. A direct authored-page and compiled-index check on current `main` gives a narrower live surface:
+
+- Strategy parent: about 6,006 authored words, 42 authored evidence marks, 11 stable lens-point anchors, and 14 distinct local video source slugs.
+- Compiled link-index pressure: 75 source-ref rows touch the page, but they collapse back to the same 14 local video source slugs rather than 48 distinct authored sources.
+- Public children already carrying extracted burden: [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/), [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/), and [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/).
+
+Decision: **do not create another Strategy child from the warning alone**. The page is at the soft word threshold, but its source fan-in is still below the ordinary 20-source watch line and the largest former child clusters have already been extracted. Treat the next Strategy-family public edit as parent compression and routing, not a new split or another example append.
+
+The right next public mutation should shorten the parent around the five entry-point functions it still owns:
+
+1. the economics / organization / logistics material test;
+2. the rule that military form demands political and social form;
+3. deathbed hubris as a strategy problem, not only a moral mood;
+4. spectacle versus material resilience, including quick victories and optics sacrificing the board;
+5. dominance versus control, where escalation reputation makes strength spend itself badly.
+
+Candidate compression targets are now visible. The parent can probably replace, not extend, the **Ceasefire Theater**, **Imperial Retrenchment**, **War Gets Its Own Logic**, and **Chokepoint Children** routing sections with shorter child-router paragraphs, because their dense anchors live on child pages. The **Chronology So Far** and **Source Trail** sections can also be reduced to the parent spine plus child pointers. Do not remove stable Strategy anchors from the parent unless a later Dante-reviewed draft proves the same meaning compiles correctly at a new destination.
+
+Boundary after the June 11 public mutations:
+
+- **Strategy parent** owns the material audit of war stories: cost, organization, logistics, war form, replacement capacity, resilience, escalation control, dominance traps, and whether the story can still be carried by the board.
+- **Chokepoint** owns access-control war: straits, sea lanes, gates, blockades, client exposure, and protection credibility at material passages.
+- **No-Exit** owns war momentum after entry: ground-war traps, draft pressure, face, sunk cost, and escalation-ladder compulsion.
+- **Imperial Retrenchment** owns protection turning into extraction: fortress resources, paid sea control, ally burden transfer, and regional resource business models.
+- **Dollar Hegemony / Debt / Power** own reserve demand, Treasury buying, financial coercion, debt command, and abstraction becoming lived compulsion.
+- **Prediction** owns dated scoring and ledger readiness, not the mechanism itself.
+
+This synthesis is more urgent than another historical impact backfill because the checkout is clean, recent Plato work already includes compact impact and Prediction workflow reviews, Virgil reports no new processable source artifacts, and the live room signal is a concrete public-page governance warning. The useful response is to keep the Strategy parent from growing, not to turn a soft-threshold warning into a premature child page.
+
+Next useful Strategy-family mutation: a Dante-reviewed public replacement/compression pass that reduces the parent below the soft line while preserving the existing 11 parent anchors, unless a fresh high-pressure source first changes the corpus-impact obligation.
+
 ## Proposed Decision
 
 Treat **When War Becomes A Story Instead Of A Material Test** as the parent Strategy page and stop appending ordinary Iran-war, chokepoint, or proxy-war sections until the page is compressed into a parent-plus-child shape.
