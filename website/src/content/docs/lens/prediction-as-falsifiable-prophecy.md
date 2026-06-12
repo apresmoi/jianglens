@@ -153,21 +153,15 @@ This belongs on Prediction rather than a new "dissonance" page because the sourc
 
 ## Diagnostics
 
-Use this lens when a forecast, theater claim, or historical framework asks for trust.
+Use this lens when a forecast, theater claim, or historical framework asks for trust. Before treating it as a hit, build a scoring packet.
 
-Ask:
+Name the **model**: what framework is being used, which observations it makes newly visible, and what public-source chain admitted the item into the model. Dissonance, organizer, funder, rival account, memory pattern, and later escalation are different admission routes.
 
-- What framework is being used, and which observations does it make newly visible?
-- What public-source chain admitted the item into the model: dissonance, organizer, funder, rival account, memory pattern, or later escalation?
-- What dated prediction follows from the framework?
-- Which forecast family does the claim belong to, and what are its source date, time horizon, conditions, neighboring mechanism, and later comparison trail?
-- Which legs of a long-horizon branch are confirmed, only adjacent, still open, revised, or missed?
-- What would count as a miss, and is the miss preserved rather than explained away?
-- Is the claim marked as speculative when the evidence is model-based rather than documentary?
-- Does "theater" identify a performer, payoff, sequence, and near-term test, or does it protect the claim from contradiction?
-- Has the model become visible enough that another player can read it and change the board?
-- What concrete surprise would force revision?
-- Does prediction serve human flourishing, learning, love, and better judgment, or does it become technocratic prestige?
+Name the **claim**: source date, exact prediction, time horizon, condition, forecast family, neighboring mechanism, and later comparison trail. If the same passage touches Hormuz, Pax Judaica, AI quality, domestic unrest, and a China bargain, it is not one prophecy.
+
+Name the **status**: confirmed, partial, adjacent, active-watch, revised, missed, or still open. A long-horizon branch can have real legs without being fulfilled; a theater claim needs performer, payoff, sequence, and near-term test rather than a protected story about spectacle.
+
+Name the **correction rule**: what would count as a miss, what concrete surprise would force revision, whether the claim was marked speculative, and whether the miss remains visible instead of being explained away. The final question is purpose: does prediction serve human flourishing, learning, love, and better judgment, or does it become technocratic prestige?
 
 ## Source Trail
 
@@ -183,11 +177,8 @@ Ask:
 - **2025-09-01**, [Trade Corridors Matter More Than Ideology](/interviews/interview-bfuwnjhayq8/)
   Jiang gives the plain public Predictive History method, then supplies several forecast families that must be compared separately before any ledger promotion: corridor/payment-rail conflict, U.S.-China compromise, and Taiwan non-invasion.
 
-- **2025-10-25**, [The Strait, The Tribute Empire, The New Triumvirate](/interviews/interview-e-ee0dtx95q/)
-  Jiang turns Hormuz closure, a second Iran round, China-U.S. rapprochement, and domestic unrest into a dated scenario family rather than one all-purpose prediction.
-
-- **2025-10-26**, [War Clocks, Secret Factions, And AI As A Parasite On Mass Society](/interviews/interview-pul2i1womxg/)
-  Jiang adds a war-clock version of the same pressure: Israel-Iran round two, Strait of Hormuz escalation, eschatological factions, civil-unrest watch, and AI-bubble exhaustion must be split before scoring.
+- **2025-10-25 / 2025-10-26**, [The Strait, The Tribute Empire, The New Triumvirate](/interviews/interview-e-ee0dtx95q/) and [War Clocks, Secret Factions, And AI As A Parasite On Mass Society](/interviews/interview-pul2i1womxg/)
+  Jiang turns Hormuz closure, a second Iran round, China-U.S. rapprochement, eschatological factions, civil unrest, and AI-bubble exhaustion into adjacent dated scenario families that must be split before scoring.
 
 - **2025-11-15**, [The Epstein Trap and the Theater of Imperial Collapse](/interviews/interview-vvj4mxqu2qk/)  
   The Epstein-file spectacle is treated as an explicitly speculative tension-and-release theory whose value depends on whether later public anger and lawfare behavior match the proposed payoff.
