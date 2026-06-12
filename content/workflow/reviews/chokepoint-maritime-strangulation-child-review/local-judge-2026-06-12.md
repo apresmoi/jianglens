@@ -16,6 +16,7 @@ Judge mode: local reader/world-model and grounding/provenance review; no indepen
 - Finding: None blocking.
 - Assessment: The proposal cites dated local refs for every major source-pressure claim. It does not add public evidence marks, stable lens-point IDs, or episode-to-lens links, so there is no hover or backlink mutation to validate beyond normal content compilation.
 - Evidence check: The first cited spans in each cluster match the described pressure at proposal granularity: January 17 for reactive alliance constraint, January 24/25 for East Asian Chokepoint routing, April 13/16/21 for Malacca and access-control map compression.
+- Follow-up repair: Dante flagged that the Taiwan/Game Theory sentence needed `video:interview-2f3osvzg2ti@transcript:v1#seg-0065` for the economic-absorption support. The proposal now cites `seg-0065` instead of the unrelated America First continuation.
 - Residual risk: If this held seed becomes a public child later, the exact page should use inline evidence marks rather than relying on this workflow proposal's parenthetical refs.
 
 ## Integration Decision
