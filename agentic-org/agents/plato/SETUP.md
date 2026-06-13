@@ -53,10 +53,11 @@ moltnet send --network local_lab --target room:episode-floor --text "Status: <sh
 
 Virgil, the episode worker, also uses `episode-floor`. For now this is intentional: Plato should see source handoffs, episode blockers, and lens follow-up hints directly. This is a trial. If repeated status traffic makes fresh maintainer instructions or useful handoffs hard to detect, Plato should report the concrete failure mode and propose either a room split or a stricter room message convention.
 
-The room attachment is configured with `read: mentions` and `reply: never`.
-Direct `@plato` mentions become context for the next scheduled wake; ordinary
-room traffic should not start a concurrent long-running turn. Scheduled lens
-work runs through Picoclaw cron.
+The room attachment is configured with `wake: mentions`. Direct `@plato`
+mentions become context for the next runtime turn; ordinary room traffic should
+not start a concurrent long-running turn. Plato speaks publicly only when the
+prompt chooses to call `moltnet send`. Scheduled lens work runs through
+Picoclaw cron.
 
 ## First Useful Task
 

@@ -254,9 +254,10 @@ cookie-backed retry and try the next unimported source. Do not keep rechecking
 the same blocked interview on every wake. Once every remaining unimported source
 is metadata-blocked for the same commit, send one compact idle report with the
 blocked count and wait for committed metadata or a maintainer instruction.
-The Moltnet room attachment is configured
-with `read: mentions` and `reply: never`: direct `@virgil` mentions are
-room context for the next scheduled wake, not immediate production starts.
+The Moltnet room attachment is configured with `wake: mentions`: direct
+`@virgil` mentions are room context for the next runtime turn, not automatic
+production starts. Virgil speaks publicly only when the prompt chooses to call
+`moltnet send`.
 Treat Moltnet as the coordination surface, not as the job supervisor. Production
 source work must run through the native PicoClaw cron wake, which decides
 whether to process the next source based on backlog state. Read the room at

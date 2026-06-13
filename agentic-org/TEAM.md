@@ -261,15 +261,15 @@ Room language should match the room:
   stale silence, or maintainer-level decisions.
 
 Spawnfile generates the concrete local server/node configs and durable runtime
-state. The Codex operator attachment has DMs disabled and `reply: never`; it
-should not wake on room traffic. Virgil uses `read: mentions` with `reply:
-never`; maintainer and Socrates messages become context for the next native
-PicoClaw autonomy wake, not immediate long-running production starts. Socrates
-uses `reply: auto` only in `lead-office`; in `episode-floor`, Socrates reads
-mentions but replies only through explicit scheduled coordination. Cassandra may
-use `reply: auto` for short coordination replies; Virgil, Aristotle, Plato, and
-Dante treat mentions as context for their next scheduled work wake unless their
-own Spawnfile says otherwise.
+state. Moltnet attachments use `wake`, not reply modes. `wake: mentions`
+delivers direct mentions into the agent's next runtime turn; `wake: all`
+delivers all room traffic. Agents speak publicly only when their own prompt
+chooses to call `moltnet send`. The Codex operator attachment has DMs disabled
+and `wake: never`; it should not wake on room traffic. Virgil, Aristotle,
+Plato, and Dante treat mentions as context for their next scheduled work wake
+unless their own Spawnfile says otherwise. Socrates may use `wake: all` in
+`lead-office`, but the prompt still requires short, sparse, maintainer-facing
+messages instead of automatic status chatter.
 Runtime state stays ignored under `.moltnet/` and `.spawn/`.
 
 ## Growth Pattern

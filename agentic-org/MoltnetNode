@@ -13,10 +13,8 @@ attachments:
       workspace_path: .
     rooms:
       - id: episode-floor
-        read: all
-        reply: never
+        wake: never
       - id: lead-office
-        read: all
-        reply: never
+        wake: never
     dms:
       enabled: false

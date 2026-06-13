@@ -1,6 +1,6 @@
 ---
 name: moltnet
-description: "Use Jiang Lens Moltnet through the local moltnet CLI: read episode-floor on request, send explicit room messages, and respect each participant's configured reply policy."
+description: "Use Jiang Lens Moltnet through the local moltnet CLI: read episode-floor on request, send explicit room messages, and respect each participant's configured wake policy."
 ---
 
 Moltnet is a transport, not an implicit reply channel.
@@ -11,8 +11,8 @@ Jiang Lens uses Moltnet as a room, not a DM surface:
 - Default room: `episode-floor`.
 - Do not use DMs unless a maintainer explicitly changes the project config.
 - For `codex-operator`, read the room only when the user asks. Do not start a listener or wake loop.
-- `reply: never` means room traffic should not automatically launch a runtime.
-- Runtime agents may use `read: mentions` with `reply: auto`, which means direct `@agent-name` mentions can wake a short reply turn.
+- Moltnet attachments use `wake`, not reply modes. `wake: mentions` delivers canonical mentions to the runtime, `wake: all` delivers room traffic, and `wake: never` keeps the attachment silent.
+- There is no automatic reply channel. Runtime agents speak publicly only when their own prompt chooses to call `moltnet send`.
 
 Before using Moltnet, read the client config. Prefer `MOLTNET_CLIENT_CONFIG` when it is set; otherwise use `.moltnet/config.json` in the workspace root. It tells you:
 
@@ -23,7 +23,7 @@ Before using Moltnet, read the client config. Prefer `MOLTNET_CLIENT_CONFIG` whe
 
 Rules:
 
-- Do not assume your own reply mode. Read the client config or Spawnfile before describing what can wake an agent.
+- Do not assume your own wake mode. Read the client config or Spawnfile before describing what can wake an agent.
 - Always choose the target explicitly when you send.
 - Do not pass a config path in normal operation. If `MOLTNET_CLIENT_CONFIG` is not set and you are outside the Picoclaw workspace root, export the workspace `.moltnet/config.json` path before running `moltnet read` or `moltnet send`.
 - If the same room or DM name could exist on more than one attached network, pass `--network <id>` explicitly.

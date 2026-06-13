@@ -36,11 +36,9 @@ surfaces:
     - network: local_lab
       rooms:
         lead-office:
-          read: all
-          reply: auto
+          wake: all
         episode-floor:
-          read: mentions
-          reply: never
+          wake: mentions
 
 workspace:
   docs:
