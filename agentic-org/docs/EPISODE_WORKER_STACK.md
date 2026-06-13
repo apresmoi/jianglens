@@ -116,6 +116,7 @@ From the repo root:
 
 ```bash
 spawnfile up agentic-org \
+  --deployment prod \
   --out agentic-org/.spawn \
   --auth-profile jiang-lens \
   --env-file agentic-org/ops/secrets/agentic-org.env \
@@ -147,6 +148,23 @@ Moltnet state is durable. `agentic-org/Spawnfile` declares a managed SQLite
 store with `store.persistence.mode: durable`; `spawnfile up` turns that into a
 Docker named volume for the server store. Room history and registered static
 agent identities should survive container replacement.
+
+Deployment state is tracked under `.spawn/deployments/<name>.json`. Production
+uses `--deployment prod`; local experiments should use a different deployment
+name, for example `--deployment local`, so status and replacement records do not
+get mixed.
+
+Check production with:
+
+```bash
+spawnfile status agentic-org --live --deployment prod --quiet
+```
+
+As of Spawnfile `0.1.12` with Moltnet `0.1.13` and Picoclaw `0.2.9`,
+Picoclaw `/health` can be healthy while `/ready` returns HTTP 503
+`{"status":"not ready"}` even though Moltnet attachments, cron entries, and
+agent room messages are functioning. Treat that as a runtime/status contract
+issue to fix upstream; do not work around it with a parallel supervisor.
 
 Stop the org with Docker when needed:
 
