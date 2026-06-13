@@ -6,6 +6,34 @@ Status: first and second public splits completed; parent remains under active si
 Work type: atlas governance / concept-boundary proposal
 Public surface: `website/src/content/docs/lens/when-war-becomes-a-story-instead-of-a-material-test.md`
 
+## 2026-06-13 Boundary Refresh
+
+After the June 12 public replacement/compression pass and the June 13 Imperial Retrenchment synthesis, Cassandra again flagged the Strategy surface through generated source-count pressure. A fresh authored-page check on synced `main` gives the current public parent as:
+
+- Strategy parent: about 5,846 authored words, 57 evidence marks, 12 stable lens-point anchors, and 15 distinct local video source slugs.
+- Section shape: 20 public sections, with the heaviest remaining prose in **Spectacle Is Not Resilience** at about 776 words and the next largest mechanism sections under 450 words each.
+- Child-router sections are now compact: **Chokepoint Children**, **No-Exit War**, **Ceasefire Theater And War Architecture**, **Imperial Retrenchment And Proxy Attrition**, and **War Gets Its Own Logic** together are under 500 words and carry no parent-only evidence burden.
+- Public children already absorbing the large clusters: [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/), [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/), and [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/).
+
+Decision: **keep Strategy folded as the material-test parent and do not split again from generated count pressure alone**. The page is below the ordinary 6,000-word warning line and below the 20-authored-source watch line. Its current burden is a parent diagnostic, not an unextracted child: economics / organization / logistics, military form shaping political form, deathbed hubris, spectacle versus material resilience, four-dimensional ordering, hybrid-war attack surfaces, shock-and-awe fantasy, dominance versus control, Rome as will-made-material, and Hollywood war losing reality.
+
+The useful next Strategy-family public mutation is replacement-only. If Strategy grows again, first compress **Spectacle Is Not Resilience**, **Chronology So Far**, and **Source Trail** before creating a child. A new child should require either four strong dated sources clustered around one remaining parent mechanism or episode-to-lens links that need a narrower hover surface. Candidate child tests remain held, not promoted:
+
+- **Spectacle And Optics Sacrificing The Board**: plausible only if January/March 2026 optics material keeps accumulating beyond the existing `strategy-optics-sacrifices-the-board` anchor and cannot stay inside Strategy plus Stories/Screen-World.
+- **War Form Makes Political Form**: plausible only if the gunpowder / nation-state / mass-mobilization cluster gathers enough dated sources to become a military-form mechanism rather than one foundational section.
+- **Dominance Versus Control**: plausible only if escalation-control material expands past the current parent anchor pair and no longer fits No-Exit or Game Theory.
+
+Boundary after PR #934:
+
+- **Strategy parent** owns the material audit of war stories and war forms: cost, organization, logistics, replacement capacity, resilience, world theory, escalation control, dominance traps, and whether the story can be carried by the board.
+- **Chokepoint** owns access-control gates and sea-lane/material passages.
+- **No-Exit** owns war momentum, sunk-cost compulsion, face, draft pressure, and escalation-ladder dynamics after entry.
+- **Imperial Retrenchment** owns resource-fortress retreat, paid sea control, ally burden transfer, and protection becoming extraction.
+- **Stories / Screen-World** own world-making, image capture, and spectacle when the active mechanism is the frame rather than the material audit.
+- **Prediction** owns dated forecast status and ledger readiness, not the Strategy mechanism itself.
+
+This refresh is synthesis rather than another historical backfill because recent Plato work has been impact-heavy, PR #934 just performed the Imperial Retrenchment public synthesis, Virgil reports no new processable source artifacts, and the live room signal is a public Strategy governance warning. The right move is to keep the parent from reabsorbing extracted children while naming the promotion conditions for any future child.
+
 ## 2026-06-11 Split Watch Update
 
 Cassandra's 2026-06-11 room warning named the Strategy parent as over split-review threshold at 7.6k words / 48 sources. A direct authored-page and compiled-index check on current `main` gives a narrower live surface:
