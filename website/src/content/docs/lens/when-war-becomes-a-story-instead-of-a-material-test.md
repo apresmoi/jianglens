@@ -19,7 +19,7 @@ Strategy passes the material test only when its story can survive economics, org
 
 The **2026-04-09** Hang Seng lecture adds a sharper method layer without creating a separate Grand Strategy page. Jiang contrasts a Chinese habit of utility and stratagem with a Thucydidean habit of reading character, speech, and structural force. The strategic question is not only which tactic is clever. It is whether the actor knows what world it is inside.
 
-That distinction matters because tactics can work inside a shared cultural code and still fail on the world board. Jiang says Thucydides treats nation-states and societies as having [soul, psychology, emotional state, personality, and outlook]{evidence="video:interview-rsld81qme04@transcript:v1#seg-0007"}. A pure utility model can miss why societies endure, fear, sacrifice, panic, or overreach. Speeches also matter because they reveal the personality of a people and tell them what they are fighting for, but this page keeps the strategic test: does the story of action understand the force moving through the board?
+That distinction matters because tactics can work inside a shared cultural code and still fail on the world board. Jiang says Thucydides treats nation-states and societies as having [soul, psychology, emotional state, personality, and outlook]{evidence="video:interview-rsld81qme04@transcript:v1#seg-0007"}. A pure utility model can miss why societies endure, fear, sacrifice, panic, or overreach. Strategy asks whether the story of action understands the force moving through the board.
 
 The lecture's material image is the swimmer and the wave. A great strategist can swim brilliantly, but a great swimmer still cannot beat [the structural force of an ocean wave]{evidence="video:interview-rsld81qme04@transcript:v1#seg-0019"}. In the Iran case, Jiang therefore reads the war through Heartland pressure and Anglo-American naval strategy rather than through Trump as a lone decider: if [Russia, Iran, and China can join the Eurasian pivot, sea-power empire faces a structural danger]{evidence="video:interview-rsld81qme04@transcript:v1#seg-0020 video:interview-rsld81qme04@transcript:v1#seg-0021"} it cannot solve with one clever move.
 
@@ -27,7 +27,7 @@ The lecture's material image is the swimmer and the wave. A great strategist can
 <span id="strategy-world-theory-before-tactics" class="lens-point-anchor"></span>
 Strategy needs a theory of the world before tactics can matter: without a map of character, structural force, geography, and motive, even wealth and clever moves leave an actor available to another player's board.
 
-The boundary is important. [How Stories Control Reality](/lens/how-stories-control-reality/) owns speech as world-making and coordination. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the state or people as a coordinated actor. [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) owns Heartland/Rimland gates and sea-lane access. [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/) owns dated forecast scoring. Strategy owns the audit that comes before all of them: does the actor have a world theory strong enough to meet material force, or is it only reacting inside someone else's theory?
+The boundary is important. [How Stories Control Reality](/lens/how-stories-control-reality/) owns speech as world-making, [Nation As God-Machine](/lens/nation-as-god-machine/) owns the coordinated people, [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) owns gates, and [Prediction As Falsifiable Prophecy](/lens/prediction-as-falsifiable-prophecy/) owns dated scoring. Strategy owns the prior audit: does the actor have a world theory strong enough to meet material force, or is it only reacting inside someone else's theory?
 
 ## Military Form Makes Political Form
 
@@ -41,7 +41,7 @@ That is why the lecture's ugly sentence belongs on this page: a whole-society ap
 <span id="strategy-war-form-demands-society" class="lens-point-anchor"></span>
 A war form passes the material test only when society can become the machine the weapon requires: taxation, conscription, supply, specialists, industry, research, bureaucracy, hierarchy, and trained bodies all have to fit the way of fighting.
 
-This section stays inside strategy because the active question is whether a military form is materially executable. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the later scale machinery of population, school, welfare, industry, and war. [Education As A Soul Game](/lens/education-as-a-soul-game/) owns what schooling does to the person. [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) owns the mature monopoly that protects hierarchy and can suppress innovation. [The Borderland Engine](/lens/the-borderland-engine/) owns the older margin advantage of hunger, openness, and motion. Strategy owns the test: the weapon is only real when the social order can carry it.
+This section stays inside strategy because the active question is whether a military form is materially executable. [Nation As God-Machine](/lens/nation-as-god-machine/) owns scale machinery, [Education As A Soul Game](/lens/education-as-a-soul-game/) owns soul formation, [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) owns the mature monopoly, and [The Borderland Engine](/lens/the-borderland-engine/) owns margin advantage. Strategy owns the test: the weapon is only real when the social order can carry it.
 
 ## The Three Material Tests
 
@@ -57,7 +57,7 @@ The three tests are deliberately unromantic.
 
 [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) now carries the dense Hormuz, Malacca, Gulf fragility, cheap-energy platform, hemisphere supply-line, systems-fire, and ceasefire-theater anchors. [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/) carries the no-exit, war-momentum, and escalation-ladder anchors.
 
-The parent rule is the audit: a reserve-currency empire can try to become a chokepoint empire when monetary circulation weakens, but ships, crews, repair yards, ports, oil, food, bases, client economies, and alliance belief must survive the pressure they are asked to carry. Strategy owns that access-control test; [Power As Alchemy](/lens/power-as-alchemy/) owns petrodollar belief and Treasury demand; [Eschatology As Script](/lens/eschatology/) owns sacred acceleration; [Game Theory](/lens/game-theory/) owns player-payoff sequencing; [How Stories Control Reality](/lens/how-stories-control-reality/) owns pretext and spectacle when the frame, not the gate, is doing the main work.
+The parent rule is the audit: a reserve-currency empire can try to become a chokepoint empire when monetary circulation weakens, but ships, crews, repair yards, ports, oil, food, bases, client economies, and alliance belief must survive the pressure they are asked to carry. Strategy owns that access-control test. [Power As Alchemy](/lens/power-as-alchemy/) owns petrodollar belief, [Eschatology As Script](/lens/eschatology/) owns sacred acceleration, [Game Theory](/lens/game-theory/) owns player-payoff sequencing, and Stories owns pretext when the frame does the main work.
 
 ## Deathbed Hubris
 
@@ -69,7 +69,7 @@ That refusal changes the strategic board. A power that could accept limits might
 <span id="strategy-deathbed-hubris-refuses-mortality" class="lens-point-anchor"></span>
 Deathbed hubris becomes a strategic material problem when a declining empire refuses mortality, treats retreat as humiliation, and spends its remaining technological, economic, military, allied, and narrative capacity to fight everywhere rather than let the imperial world die.
 
-This belongs on Strategy rather than only [Human Heart](/lens/human-heart-as-civilizational-measure/) or [Civilization As Inner Order](/lens/civilization-as-inner-order/) because Jiang is not only diagnosing pride or decadence. He is explaining why a dying power still moves ships, allies, proxies, resources, and war plans. [Gerontocracy As Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/) owns old cohorts preserving the world they expect to die inside; [Legitimacy Fiction](/lens/legitimacy-fiction/) owns the fading rules story. Strategy owns the material result: refusal of mortality makes exit unavailable and turns remaining capacity into a long conflict board.
+This belongs on Strategy rather than only [Human Heart](/lens/human-heart-as-civilizational-measure/) or [Civilization As Inner Order](/lens/civilization-as-inner-order/) because Jiang is explaining why a dying power still moves ships, allies, proxies, resources, and war plans. [Gerontocracy As Intergenerational Extraction](/lens/gerontocracy-as-intergenerational-extraction/) owns cohorts preserving their world; [Legitimacy Fiction](/lens/legitimacy-fiction/) owns the fading rules story. Strategy owns the material result: refusal of mortality makes exit unavailable and turns remaining capacity into a long conflict board.
 
 ## No-Exit War
 
@@ -91,7 +91,7 @@ The late-processed **2026-01-05** interview gives this trap an earlier Western H
 <span id="strategy-optics-sacrifices-the-board" class="lens-point-anchor"></span>
 Optics sacrifices the board when a victory scene, decapitation raid, or humiliation spectacle has to answer to enemy adaptation, trust, alliance response, and the political consequences created after the cameras move on.
 
-This is the boundary with [How Stories Control Reality](/lens/how-stories-control-reality/). Stories owns the world-making mechanism by which Trump-world can feel true if enough people watch it; strategy owns the audit after belief has moved bodies, troops, markets, allies, enemies, and humiliated publics. In the January 5 source, Jiang's point is not only that Trump lives in make-believe. It is that the make-believe produces a worse board: [a short-term projection of strength plants the seed of global resistance against American power]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0064"}.
+This is the boundary with [How Stories Control Reality](/lens/how-stories-control-reality/). Stories owns the world-making mechanism by which Trump-world can feel true if enough people watch it; strategy owns the audit after belief has moved bodies, markets, allies, enemies, and humiliated publics. In the January 5 source, Jiang's point is that the make-believe produces a worse board: [a short-term projection of strength plants the seed of global resistance against American power]{evidence="video:interview-orycs0r2tpg@transcript:v1#seg-0064"}.
 
 The **2026-03-26** Rick Sanchez interview returns to the same Iran board after several later formulations. Its value is not a new forecast category. It is the way Jiang puts the Hollywood-war, chokepoint, and material-resilience layers into one immediate test.
 
@@ -103,7 +103,7 @@ The same interview then turns the strait from a geography lesson into a resilien
 <span id="strategy-spectacle-exploits-fragility" class="lens-point-anchor"></span>
 Spectacle exploits fragility when a leader uses a visible strike to manufacture consent for a war whose material supports are missing, while the target pressure point exposes that an efficient global system has not been built to absorb disruption.
 
-This belongs inside strategy rather than only [How Stories Control Reality](/lens/how-stories-control-reality/) because the story is being judged by what it is trying to replace: troops, money, authorization, supply resilience, and escalation control. It borders [Nation As God-Machine](/lens/nation-as-god-machine/) when draft and patriotism convert population into war capacity, [Power As Alchemy](/lens/power-as-alchemy/) when the lifestyle depends on dollar-order confidence, and [Eschatology As Script](/lens/eschatology/) when rupture is later framed as tribulation and spiritual awakening. Strategy owns the diagnostic: does the television scene survive contact with the system it has just made brittle?
+This belongs inside strategy because the story is judged by what it tries to replace: troops, money, authorization, supply resilience, and escalation control. It borders Nation when draft and patriotism convert population into war capacity, Power when the lifestyle depends on dollar-order confidence, and Eschatology when rupture is framed as tribulation. Strategy owns the diagnostic: does the television scene survive contact with the system it has just made brittle?
 
 ## Ceasefire Theater And War Architecture
 
@@ -127,7 +127,7 @@ Iran's counter in this dated model is the reverse order. Jiang says the Iranians
 <span id="strategy-four-dimensional-war-orders-the-board" class="lens-point-anchor"></span>
 Four-dimensional war is won by ordering the board correctly: military action must be tested against narrative, political, and economic feedback instead of forcing those dimensions to obey a brittle military story.
 
-This belongs inside strategy rather than inside [Game Theory](/lens/game-theory/) because the active mechanism is not only hidden payoff identification. It is operational feedback. Jiang's contrast is reflection, flexibility, and resilience: the side that can let economics, politics, and narrative alter military choices can adapt; the side that makes every dimension serve the military image tends to double down, choose desperate moves, and make replenishment harder. It also touches [Power As Alchemy](/lens/power-as-alchemy/) because finance and empire structure the wider board, but this page owns the moment where that structure is tested by war.
+This belongs inside strategy rather than inside [Game Theory](/lens/game-theory/) because the active mechanism is operational feedback. Jiang's contrast is reflection, flexibility, and resilience: the side that lets economics, politics, and narrative alter military choices can adapt; the side that makes every dimension serve the military image tends to double down and make replenishment harder. [Power As Alchemy](/lens/power-as-alchemy/) owns the finance structure; this page owns the moment where that structure is tested by war.
 
 ## Hybrid War Before Visible War
 
@@ -143,7 +143,7 @@ This is strategy rather than only propaganda because the pressure has to pass th
 
 The reversal is that this pressure can backfire. In the August source, sabotage meant to break Iran can [increase resolve, let Iran close Hormuz, and force the ground war America cannot win]{evidence="video:predictive-history-yq-xg1nibms@transcript:v1#seg-0002"}. Hybrid war therefore still belongs under the material test. A story of invisible pressure must be judged by whether the population panics, hardens, fractures, sacralizes suffering, or gives the state permission to escalate.
 
-The boundary matters. [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) owns the scale problem of feeding, organizing, soothing, and managing millions or billions. [Nation As God-Machine](/lens/nation-as-god-machine/) owns the national machinery that first turns population into capacity. [Eschatology As Script](/lens/eschatology/) owns the role-story that can make suffering meaningful. This page owns the strategic attack surface: pressure on necessities and legitimacy before the war looks like war.
+The boundary matters. [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) owns population management, [Nation As God-Machine](/lens/nation-as-god-machine/) owns population becoming capacity, and [Eschatology As Script](/lens/eschatology/) owns suffering made meaningful. This page owns the strategic attack surface: pressure on necessities and legitimacy before the war looks like war.
 
 ## Shock And Awe As Fantasy
 
@@ -207,62 +207,28 @@ The result is not only propaganda. It is a planning failure. War becomes a seque
 
 Ask these questions when applying this lens.
 
-**What is the story of victory?** Name the scene the actor is trying to create: rescue, punishment, deterrence, humiliation, liberation, surgical strike, total war, no surrender, controlled escalation, or imperial display.
+- **What is the story of victory?** Name the scene the actor is trying to create: rescue, punishment, humiliation, liberation, surgical strike, total war, no surrender, controlled escalation, or imperial display.
+- **Do economics, organization, and logistics support it?** If the answer is vague, story may be doing the work that cost, supply, and executable planning should do.
+- **What world theory directs the tactics?** Ask whether the actor has a map of structural force, geography, character, motive, alliance, and time, or only clever moves inside someone else's grand strategy.
+- **Who controls escalation?** The stronger actor may possess dominance while the weaker actor controls timing, justification, terrain, cost, and public opinion.
+- **Has the ladder become self-propelling?** Ask whether each next move now looks mandatory, whether institutions suppress feedback, and whether face-saving makes exit feel more dangerous than continuing.
+- **What reputation must be defended?** A hegemon, bully, empire, or alliance leader can lose freedom because credibility demands response.
+- **What is the replacement capacity?** Aircraft, ships, missiles, pilots, soldiers, factories, fertilizer, fuel, public trust, and alliance patience all have replacement curves.
+- **Is imperial cost being transferred?** If the center claims it is withdrawing or preserving order, ask whether [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/) is active.
+- **Where are the gates?** If trade, energy, food, ships, cables, resources, or payment systems pass through a narrow point, ask who grants permission and whether control can be made too costly to maintain.
+- **What did efficiency remove?** If a system was optimized for cheap movement or consumer comfort, ask what redundancy, local capacity, political consent, or social discipline disappeared before crisis arrived.
+- **What does retreat discredit?** If leaving would make allies doubt protection, stop buying debt, question bases, or seek a new patron, the war may continue because exit threatens the system that funded it.
+- **Is the story making the actor spend strength badly?** The enemy's best move may be to make an empire reveal its own exhaustion, debt, inflexibility, and civil discord.
 
-**What are the three material tests?** Ask whether economics, organization, and logistics support the story. If the answer is vague, the story may be doing the work that supply, cost, and executable planning should do.
+## Chronology And Source Trail
 
-**What world theory is directing the tactics?** Ask whether the actor has a map of structural force, geography, character, motive, alliance, and time. If it only has clever moves or short-term utility, it may be playing inside someone else's grand strategy.
+The page begins in **April-May 2024**, when Operation True Promise and shock-and-awe separate dominance from victory and show how Iraq 2003 became a false doctrine of speed, omniscience, special forces, and decisive collapse. **June-November 2024** add the older counterweights: overextension, debt, civil discord, and Rome's proof that a story of no surrender becomes material only when institutions and manpower carry it.
 
-**Who controls escalation?** The stronger actor may possess dominance while the weaker actor controls timing, justification, terrain, cost, and public opinion.
+In **April-August 2025**, Jiang adds the structural spine: military form determines political form; escalation dominance can become compulsion to react; and hybrid war attacks media, infrastructure, psychology, sanctions, services, and the state-population bond before open battlefield defeat. **November-December 2025** add the empire-cycle board: Western Hemisphere pressure still has to face guerrilla preparation, manpower limits, political will, and deathbed hubris.
 
-**Has the ladder become self-propelling?** Ask whether each actor's next move now looks mandatory, whether morale has become a war capacity, whether institutions are suppressing bad feedback, and whether face-saving makes exit feel more dangerous than continuing.
+In **March-April 2026**, the Iran-war, Pax Judaica, Grand Strategy, World War Trump, and Hollywood-Pentagon lectures make the current parent formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; world theory must precede tactics; reserve-currency power can harden into access control; and war must be judged by economics, organization, and logistics before narrative spectacle. **April-May 2026** move the dense resource-empire and sanctioned-state-volatility evidence into [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/).
 
-**What reputation must be defended?** A hegemon, bully, empire, or alliance leader can lose freedom because credibility demands response. The trap begins when not answering looks impossible.
-
-**What is the replacement capacity?** Aircraft, ships, missiles, pilots, soldiers, factories, fertilizer, fuel, public trust, and alliance patience all have replacement curves.
-
-**Is imperial cost being transferred?** If the center claims it is withdrawing, coordinating, or only preserving order, ask whether [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/) is active: a successor muscle is being auditioned, allies are being spent, or nearby resources are replacing open financial circulation.
-
-**Where are the gates?** If trade, energy, food, ships, cables, resources, or payment systems must pass through a narrow point, ask who can grant permission, who can deny access, and whether control can be made too costly to maintain.
-
-**What did efficiency remove?** If a system was optimized for cheap movement, just-in-time abundance, or consumer comfort, ask what redundancy, local capacity, political consent, or social discipline disappeared before the crisis arrived. The material test comes first; [Mass Society](/lens/mass-society-as-political-constraint/) enters when the exposed scarcity becomes permissions, rationing, and AI surveillance.
-
-**What does retreat discredit?** If leaving a war would make allies doubt protection, stop buying debt, question bases, or seek a new patron, the war may continue because exit threatens the system that funded it.
-
-**Is the story making the actor spend strength badly?** The enemy's best move may be to make an empire reveal its own exhaustion, debt, inflexibility, and civil discord.
-
-## Chronology So Far
-
-In **April and May 2024**, the Operation True Promise and shock-and-awe lectures separate dominance from victory, then show how Iraq 2003 became a false doctrine of speed, omniscience, special forces, and decisive collapse.
-
-In **June and November 2024**, the page gets its older imperial and Roman counterweights: strategic imagination can exploit overextension, debt, and civil discord, while Rome shows that a story of no surrender can become material endurance when institutions and manpower carry it.
-
-In **April through August 2025**, Jiang adds the structural spine: military form determines political form; escalation dominance can become compulsion to react; and hybrid war can attack media, infrastructure, psychology, sanctions, services, and the state-population bond before open battlefield defeat.
-
-In **November and December 2025**, the Venezuela and Glenn Diesen sources add the empire-cycle board: hidden-route operations and anti-cartel pressure still fail against guerrilla preparation, manpower limits, and political will, while deathbed hubris turns a declining empire's remaining capacity into a long conflict board.
-
-In **March 2026**, the Iran-war cluster creates the live test now mostly routed through [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/) and [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/): Hormuz, cheap drones, ground-war limits, dollar protection, Gulf fragility, ceasefire illusions, escalation momentum, and efficient-but-fragile consumer life all become one material audit.
-
-In **March and April 2026**, the Iran escalation, Pax Judaica, Grand Strategy, World War Trump, and Hollywood-Pentagon lectures make the latest parent formulation explicit: control beats dominance; narrative, political, economic, and military dimensions must be ordered correctly; world theory must precede tactics; a failing imperial muscle can be compared against possible replacements; reserve-currency power can harden into access control; and war must be judged by economics, organization, and logistics before narrative spectacle.
-
-In **April and May 2026**, the resource-empire and sanctioned-state-volatility material moves into [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/): a weakening dollar-finance empire may retreat into nearby resources, convert protection into toll extraction, and be exhausted by states that make American policing, dollar demand, and allied protection too expensive across several boards.
-
-## Source Trail
-
-This parent page now keeps the source trail compact so it can serve as the Strategy entry point. The child pages carry the dense access-control evidence and the dense imperial cost-transfer evidence.
-
-- **2024-04-24**, [Military Dominance Is Not Victory](/episodes/predictive-history-xeepoxqdu5e/) - military dominance fails when the weaker actor controls terrain, cost, timing, opinion, and rules of engagement.
-- **2024-05-22**, [Shock and Awe Made Empire Feel Like a Game](/episodes/predictive-history-jiefc4yww4o/) - shock and awe turns a special case into a doctrine of speed, omniscience, special forces, and decisive collapse.
-- **2024-06-05**, [How Strategic Imagination Turns Empire Against Itself](/episodes/predictive-history-b-al2wgk49y/) - overextension, debt, and civil discord become an imperial-death mechanism.
-- **2024-11-07**, [Rome's Cult Of No Surrender](/episodes/predictive-history-tdce7xgdayo/) - a story of no surrender becomes material endurance only when civic character, manpower, and institutions carry it.
-- **2025-04-10**, [Turn Society Into The Cannon](/episodes/predictive-history-dirjyy-8v54/) - military form demands a matching social order: taxation, conscription, supply, specialists, industry, bureaucracy, hierarchy, and trained bodies.
-- **2025-06-22**, [Escalation Dominance Becomes The Trap](/episodes/predictive-history-n4cs-8mrp-s/) - reputation can force the dominant actor into reactions that serve the weaker actor's calibrated trap.
-- **2025-08-01**, [When Eschatologies Converge](/episodes/predictive-history-yq-xg1nibms/) - hybrid war attacks legitimacy and basic services before open battlefield defeat.
-- **2025-11-30**, [The Money Transfers and America Is Allowed to Implode](/interviews/interview-sutm8lojrqw/) - Western Hemisphere retrenchment turns nearby resources and regional proxies into a declining empire's material fallback.
-- **2026-03-26**, [Game Theory #16: Pax Judaica Rising](/episodes/predictive-history-mk4vchtawso/) - four-dimensional war and replacement-empire audition test whether a successor can supply imperial muscle.
-- **2026-04-07**, [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/) - war must be judged by economics, organization, and logistics before rescue mythology and noble scenes are believed.
-- **2026-04-09**, [Grand Strategy Or Pawnhood](/interviews/interview-rsld81qme04/) - world theory has to join character, structural force, geography, and motive before tactics can become strategy.
-- **2026-05-21**, [Putin Does Not Want The Throne](/episodes/predictive-history-x83hclwvhi8/) - sanctioned-state volatility can make American policing, dollar demand, and allied protection too expensive across several boards.
+Core source trail: [Military Dominance Is Not Victory](/episodes/predictive-history-xeepoxqdu5e/), [Shock and Awe Made Empire Feel Like a Game](/episodes/predictive-history-jiefc4yww4o/), [How Strategic Imagination Turns Empire Against Itself](/episodes/predictive-history-b-al2wgk49y/), [Rome's Cult Of No Surrender](/episodes/predictive-history-tdce7xgdayo/), [Turn Society Into The Cannon](/episodes/predictive-history-dirjyy-8v54/), [Escalation Dominance Becomes The Trap](/episodes/predictive-history-n4cs-8mrp-s/), [When Eschatologies Converge](/episodes/predictive-history-yq-xg1nibms/), [The Money Transfers and America Is Allowed to Implode](/interviews/interview-sutm8lojrqw/), [Game Theory #16: Pax Judaica Rising](/episodes/predictive-history-mk4vchtawso/), [Game Theory #19: The Hollywood-Pentagon Complex](/episodes/predictive-history-0hyet47cc-e/), [Grand Strategy Or Pawnhood](/interviews/interview-rsld81qme04/), and [Putin Does Not Want The Throne](/episodes/predictive-history-x83hclwvhi8/).
 
 For the moved access-control cluster, see [Chokepoint Empire](/lens/chokepoint-empire-and-no-exit-war/). For the moved no-exit and escalation cluster, see [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/). For the moved imperial cost-transfer cluster, see [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/).
 
