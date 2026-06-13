@@ -6,6 +6,26 @@ Status: first and second public splits completed; parent remains under active si
 Work type: atlas governance / concept-boundary proposal
 Public surface: `website/src/content/docs/lens/when-war-becomes-a-story-instead-of-a-material-test.md`
 
+## 2026-06-13 Evening Addendum
+
+Socrates asked for one bounded judgment after Cassandra's evening warning that `when-war-becomes-a-story-instead-of-a-material-test.md` is "still 7588 words" and had grown to "75 sources." A fresh check on synced `main` gives a different authored-page picture:
+
+- Authored Strategy parent: 5,846 words, 45 inline evidence attributes, 12 stable lens-point anchors, 122 video-ref occurrences, and 15 distinct local video source slugs.
+- Compiled link-index pressure: 81 source-ref rows currently touch the page. This is real navigation/backlink pressure, but it is row pressure from repeated refs and anchors, not 75 distinct Jiang sources.
+- Public children already carrying extracted burden: [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/), [No-Exit War And Escalation Ladder](/lens/no-exit-war-and-escalation-ladder/), and [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/).
+
+Decision: **do not split Strategy immediately from the generated row count alone, but stop treating the page as merely under-watch. The next Strategy-family public mutation should be a Dante-reviewed parent compression pass before any new ordinary evidence append.** The page remains below the soft authored-word threshold and below the distinct-source threshold, but Cassandra's repeated generated-count warning shows reader/navigation pressure from a dense parent with many anchors and source rows.
+
+The compression pass should preserve the current URL as the parent material-audit entry point and reduce row/reader pressure by replacing prose rather than adding examples. First targets:
+
+1. **Spectacle Is Not Resilience**: decide whether the quick-victory / optics / television-war material remains a parent section or is ready for a narrow child test such as **Spectacle And Optics Sacrificing The Board**.
+2. **Chronology So Far** and **Source Trail**: keep only the parent spine and route readers to Chokepoint, No-Exit, and Imperial Retrenchment for dense child evidence.
+3. Child-router sections: keep them as short orientation paragraphs, not evidence-bearing mini-pages.
+
+Promotion rule after this addendum: create another Strategy child only if a compression draft proves one remaining mechanism cannot stay folded. The strongest held candidate is **Spectacle And Optics Sacrificing The Board**, because it has stable parent anchors and crosses Strategy, Stories, and Screen-World; it should still require at least four dated sources or clustered episode-to-lens links that need a narrower hover surface. **War Form Makes Political Form** and **Dominance Versus Control** remain held candidate tests, not public child instructions.
+
+Boundary answer for Socrates: Strategy still owns material audit of war stories and war forms: economics, organization, logistics, replacement capacity, world theory, escalation control, dominance traps, and whether the declared story can be carried by the board. Chokepoint owns access-control gates; No-Exit owns war momentum after entry; Imperial Retrenchment owns cost transfer and resource-fortress retreat; Stories and Screen-World own image-world mechanics when the active mechanism is the frame; Prediction owns dated status and ledger readiness.
+
 ## 2026-06-13 Boundary Refresh
 
 After the June 12 public replacement/compression pass and the June 13 Imperial Retrenchment synthesis, Cassandra again flagged the Strategy surface through generated source-count pressure. A fresh authored-page check on synced `main` gives the current public parent as:
