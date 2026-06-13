@@ -26,4 +26,3 @@ Caveat: the review intentionally does not rerun a public-event status check. Tha
 - Split the candidate objects before scoring.
 - Added routing notes for Debt, Power, Dollar Hegemony, Imperial Retrenchment, Chokepoint, Education, and Prediction.
 - Explicitly separated this household/dollar/resource family from the Venezuela systems-fire family.
-

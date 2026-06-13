@@ -124,4 +124,3 @@ The next useful Plato mutation is one of:
 1. a Venezuela managed-show-force versus systems-fire ledger-candidate review, because that is the other narrow follow-up left by the systems-fire comparison proposal;
 2. a public replacement/compression pass on Debt As Sovereignty or Power only if future episode links need a narrower household-absorber hover than the existing anchors;
 3. compact impact for a newer or directly blocking source only if it changes the U.S.-China bargain or Venezuela forecast-family comparison.
-
