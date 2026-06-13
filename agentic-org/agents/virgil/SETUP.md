@@ -73,6 +73,7 @@ For local testing, run the organization with native Spawnfile:
 ```bash
 spawnfile validate agentic-org
 spawnfile up agentic-org \
+  --deployment local \
   --out agentic-org/.spawn \
   --auth-profile jiang-lens \
   --env-file agentic-org/ops/secrets/agentic-org.env \

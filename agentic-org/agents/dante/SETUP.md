@@ -7,6 +7,7 @@ From the repo root:
 ```bash
 spawnfile validate agentic-org
 spawnfile up agentic-org \
+  --deployment local \
   --out agentic-org/.spawn \
   --auth-profile jiang-lens \
   --env-file agentic-org/ops/secrets/agentic-org.env \

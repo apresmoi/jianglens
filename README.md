@@ -87,6 +87,7 @@ The local organization should be started through Spawnfile. There is no committe
 ```bash
 spawnfile validate agentic-org
 spawnfile up agentic-org \
+  --deployment local \
   --out agentic-org/.spawn \
   --auth-profile jiang-lens \
   --env-file agentic-org/ops/secrets/agentic-org.env \
@@ -98,7 +99,7 @@ The worker stack requires current `spawnfile` and `moltnet` releases and reads
 the `jiang-lens-agents` GitHub App secrets from
 `agentic-org/ops/secrets/agentic-org.env`. Do not bake GitHub credentials into images. See
 [Agentic Org Stack](agentic-org/docs/EPISODE_WORKER_STACK.md) for the full auth,
-environment, and Moltnet runbook.
+environment, deployment-record, and Moltnet runbook.
 
 ## Working Model
 

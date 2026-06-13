@@ -15,7 +15,7 @@ The committed topology is:
   exact check state, validation logs, and worker packet details belong in
   `episode-floor` unless the maintainer asks for operational detail.
 
-`codex-operator` is an operator participant, not an autonomous worker. It can read and send messages from this repo, but its node attachment uses `reply: never` and has DMs disabled so room traffic does not automatically launch new Codex runs.
+`codex-operator` is an operator participant, not an autonomous worker. It can read and send messages from this repo, but its node attachment uses `wake: never` and has DMs disabled so room traffic does not automatically launch new Codex runs.
 
 ## Start
 
@@ -23,6 +23,7 @@ The normal agent org path is Spawnfile-managed:
 
 ```bash
 spawnfile up agentic-org \
+  --deployment local \
   --out agentic-org/.spawn \
   --auth-profile jiang-lens \
   --env-file agentic-org/ops/secrets/agentic-org.env \
