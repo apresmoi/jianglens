@@ -1,0 +1,202 @@
+{
+  "packet_id": "predictive-history-f03gaklvzrs-semantics-pkt-0007",
+  "source_id": "video:predictive-history-f03gaklvzrs",
+  "source_date": "2026-06-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0049"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains his Frankist frame by saying Frankists survive by redirecting scrutiny into generic antisemitism and hiding behind Jews.",
+      "speaker_attribution": "Jiang slide monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0050",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0051",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0052",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0053"
+      ],
+      "kind": "monologue",
+      "summary": "He then narrates the Iran-war news cycle as a sequence of escalation, temporary agreement, and inevitable breakdown, with a coming shift toward attacks on civilian infrastructure.",
+      "speaker_attribution": "Jiang slide monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0054",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0055",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0056"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang broadens the analysis into the AI bubble and deglobalization, arguing that absurd valuations and trade-dependent nodes such as Singapore and Ireland are structurally exposed.",
+      "speaker_attribution": "Jiang slide monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0050",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0056"
+      ],
+      "note": "This packet is a sustained Jiang presentation rather than audience Q and A, even when he references tweets or headlines.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Frankists protect themselves by encouraging people to blame Jews in general, allowing Frankists to disappear behind a broader antisemitic discourse.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0049"
+      ],
+      "temporal_scope": "Claim stated in the June 13, 2026 livestream as Jiang's interpretive model.",
+      "topic_tags": [
+        "frankists",
+        "antisemitism",
+        "disguise"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says the recent Iran-war de-escalation may produce a memorandum of understanding, but such agreements are mainly used to exhaust public attention and are unlikely to last because they cannot realistically include Gaza and Lebanon.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0051",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Claim stated in the June 13, 2026 livestream about events over the previous few days and expected weekend developments.",
+      "topic_tags": [
+        "iran-war",
+        "mou",
+        "peace-process"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the war will increasingly target civilian infrastructure such as water, power, bridges, and railways because depleted munitions and peer-war economics reward pain-infliction over conventional battlefield efficiency.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Claim stated in the June 13, 2026 livestream as a forward-looking analysis of the war's next phase.",
+      "topic_tags": [
+        "civilian-infrastructure",
+        "peer-war",
+        "iran-war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He describes the AI boom as an unsustainable credit bubble with companies like Nvidia and SpaceX carrying valuations detached from obvious productive fundamentals.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0054",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0055"
+      ],
+      "temporal_scope": "Claim stated in the June 13, 2026 livestream about the present market environment.",
+      "topic_tags": [
+        "ai-bubble",
+        "nvidia",
+        "spacex"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that deglobalization will hit highly trade-mediated jurisdictions such as Singapore and Ireland especially hard because their wealth depends on global flows, arbitrage, and intermediary functions.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Claim stated in the June 13, 2026 livestream as a structural forecast under wartime deglobalization.",
+      "topic_tags": [
+        "deglobalization",
+        "singapore",
+        "ireland"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0049"
+      ],
+      "moment": "He claims the best shield for a hidden faction is to provoke a louder and cruder public hatred that conceals it.",
+      "source_phrase": "hide behind Jews",
+      "why_it_matters": "This is the packet's sharpest and most reusable statement of Jiang's Frankist camouflage theory.",
+      "tone": "reversal",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0053"
+      ],
+      "moment": "War becomes a search for bigger pain per missile once weapon stocks run thin.",
+      "source_phrase": "a bigger bang for the buck",
+      "why_it_matters": "It compresses his transition from ordinary bombing to infrastructure war into one memorable economic image.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0054"
+      ],
+      "moment": "The AI-finance system is described as one maxed-out credit card paying another's interest.",
+      "source_phrase": "maxing one credit card in order to pay off the interest of another",
+      "why_it_matters": "This is the most vivid metaphor in the bubble analysis and should survive into any later read or review.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "MOU",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0051",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "A memorandum of understanding Jiang treats as a fragile temporary peace instrument that manages public fatigue more than it resolves the war.",
+      "confidence": "high"
+    },
+    {
+      "term": "peer economics",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "Jiang's war-economics phrase for the constraints that drive states toward cheaper, more painful targets when high-end munitions become scarce.",
+      "confidence": "medium"
+    },
+    {
+      "term": "deglobalization",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "The decline of integrated trade networks, which Jiang uses to explain why places built on global intermediation become unusually fragile.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0050",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0052"
+      ],
+      "note": "Jiang dates the war sequence very tightly here: escalation seemed imminent three days earlier, de-escalation headlines appeared the previous day, and he expects a possible weekend MOU that still would not endure.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0051"
+      ],
+      "note": "ASR slightly mangles some institutional names in the war recap, but the sequence Jiang is asserting remains clear: helicopter incident, retaliation, then a likely but unstable agreement."
+    }
+  ]
+}

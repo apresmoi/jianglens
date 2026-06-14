@@ -1,0 +1,197 @@
+{
+  "packet_id": "predictive-history-f03gaklvzrs-semantics-pkt-0006",
+  "source_id": "video:predictive-history-f03gaklvzrs",
+  "source_date": "2026-06-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0041",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0042",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0043"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers a question about how secret societies control agents like Trump by describing a system of media programming, social nudging, and whisper networks rather than direct orders.",
+      "speaker_attribution": "Audience question quoted by Jiang, then Jiang response",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0044",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0045",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0046",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0047",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0048"
+      ],
+      "kind": "monologue",
+      "summary": "He pivots from Q and A into current-events commentary: taking a victory lap on a Candace Owens prediction, then retracting an earlier claim about Albanian protests while still predicting the protesters will lose.",
+      "speaker_attribution": "Jiang presentation monologue with slide commentary",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0045",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0048"
+      ],
+      "note": "After the secret-society answer, the packet shifts cleanly into Jiang's slide-driven monologue on recent events rather than audience exchange.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says elite control over public figures like Trump works mostly through subtle influence: surrounding them with trusted people, feeding them media agendas, and nudging them until the resulting decisions feel self-generated.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0041",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Claim stated in the June 13, 2026 livestream as Jiang's general model of control.",
+      "topic_tags": [
+        "mind-control",
+        "trump",
+        "elite-influence"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He cites Fox News, Sean Hannity, Susie Wiles, and Howard Lutnick as examples of the media and interpersonal ecosystem he believes shapes Trump.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0041",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0042"
+      ],
+      "temporal_scope": "Claim stated in the June 13, 2026 livestream as supporting evidence for the control model.",
+      "topic_tags": [
+        "fox-news",
+        "hannity",
+        "trump-network"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says his earlier prediction about Candace Owens traveling to Russia to help reconcile the Catholic and Orthodox churches was confirmed by her subsequent statements about long-term visas and bringing young Catholics to Russia.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0045",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0046",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Claim stated in the June 13, 2026 livestream about a prediction he says he made in the prior week's founder stream.",
+      "topic_tags": [
+        "candace-owens",
+        "russia",
+        "catholic-orthodox"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He retracts his earlier view that Albanian protests were a Soros-style NGO operation and instead accepts that the protests are organic resistance to a development project destroying conservation land.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0047",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Claim stated in the June 13, 2026 livestream as a correction of a previous week's assessment.",
+      "topic_tags": [
+        "albania",
+        "protests",
+        "correction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang still predicts the Albanian protesters are unlikely to win because the site is too strategically valuable and external interests will force the deal through.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Claim stated in the June 13, 2026 livestream as a forecast about the protest outcome.",
+      "topic_tags": [
+        "albania",
+        "strategy",
+        "protest-outcome"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0042"
+      ],
+      "moment": "Control works best when the target experiences the implanted agenda as his own idea.",
+      "source_phrase": "make that person think it's his idea",
+      "why_it_matters": "This is the packet's most reusable compact definition of Jiang's hidden-power model.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0047"
+      ],
+      "moment": "He publicly reverses himself on Albania instead of digging in, but still keeps the darker strategic reading of the outcome.",
+      "source_phrase": "you're obviously right",
+      "why_it_matters": "It shows a visible self-correction inside the stream while preserving his broader geopolitical pessimism.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0046"
+      ],
+      "moment": "Candace Owens is recast as a bridge-builder in a Christian civilizational reconciliation project.",
+      "source_phrase": "repair the schism",
+      "why_it_matters": "This is the strongest civilizational phrase in the packet and explains why Jiang sees her as more important than a normal commentator.",
+      "tone": "image",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "repair the schism",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "The phrase Jiang uses for a Catholic-Orthodox reconciliation project he believes Candace Owens is helping advance through Russia.",
+      "confidence": "medium"
+    },
+    {
+      "term": "nudge",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0042"
+      ],
+      "definition_or_usage": "Jiang's preferred verb for elite influence: indirect prompting that avoids open commands and preserves the subject's sense of autonomy.",
+      "confidence": "high"
+    },
+    {
+      "term": "organic protest",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0047",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "A protest Jiang distinguishes from NGO-managed agitation, here meaning real public anger over land theft and ecological destruction.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0045",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0047"
+      ],
+      "note": "This packet explicitly revisits the previous week's founder-member stream twice: first to claim a successful Candace Owens prediction, then to correct his earlier misread of the Albanian protests.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0048"
+      ],
+      "note": "ASR mangles the Albanian project and place names, but Jiang's overall correction is clear: he now treats the protests as real and strategically doomed."
+    }
+  ]
+}

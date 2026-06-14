@@ -1,0 +1,295 @@
+{
+  "packet_id": "predictive-history-f03gaklvzrs-semantics-pkt-0013",
+  "source_id": "video:predictive-history-f03gaklvzrs",
+  "source_date": "2026-06-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0097",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0098"
+      ],
+      "kind": "question",
+      "summary": "A viewer asks how an English literature background led Jiang into geopolitics, and Jiang answers by grounding the shift in broad curiosity and a drive to investigate domains where elite behavior suggests hidden logic.",
+      "speaker_attribution": "Brief handoff or filler in seg-0097, then Jiang answer in seg-0098",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0099",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0100"
+      ],
+      "kind": "question",
+      "summary": "A viewer asks why Jiang rarely discusses health, big pharma, and poisonous food, and Jiang responds that he has followed those subjects for years and intends to address them more directly later.",
+      "speaker_attribution": "Viewer question read aloud across seg-0099 and seg-0100, followed by Jiang answer in seg-0100",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0101",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0102"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang pauses to sort live comments and then pivots to questions under his Substack article, answering how to remain peaceful in chaos by treating education as the path to calm and broader intelligibility.",
+      "speaker_attribution": "Jiang facilitation and answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0102",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0103",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0104"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang accepts a viewer correction that the real problem is entrenched power rather than boomers as such, then takes a Belfast question and predicts the unrest has crossed into a civil-war trajectory.",
+      "speaker_attribution": "Jiang answer with comment interpolation, then viewer question read aloud and Jiang answer",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0097"
+      ],
+      "note": "Seg-0097 is likely not substantive speech but a transition token or moderator filler before the geopolitics question begins.",
+      "suggested_speaker": "host or audience prompt",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0099"
+      ],
+      "note": "Seg-0099 appears to continue Jiang's answer before switching into a named viewer question, so the diarization boundary does not cleanly track speaker turns.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0103",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0104"
+      ],
+      "note": "The Belfast question is split across seg-0103 and seg-0104, with Jiang's answer beginning immediately after the quoted question text.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says his move from English literature into geopolitics comes from a general compulsion to keep learning until he can satisfy his curiosity about history, politics, and any field he thinks matters.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0098"
+      ],
+      "temporal_scope": "Self-description given on 2026-06-13.",
+      "topic_tags": [
+        "intellectual formation",
+        "geopolitics",
+        "curiosity"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says elite investment in the occult is one reason he wants to study sex magic, demonic possession, reincarnation, and related ideas, because he assumes there must be some logic behind elite attention to them.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0098"
+      ],
+      "temporal_scope": "Current research rationale stated on 2026-06-13.",
+      "topic_tags": [
+        "occult",
+        "elite behavior",
+        "research agenda"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says he distrusted the rush toward COVID vaccination and credits Bret Weinstein's analysis as part of why he followed the issue skeptically.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0100"
+      ],
+      "temporal_scope": "Retrospective judgment about the COVID period, voiced on 2026-06-13.",
+      "topic_tags": [
+        "COVID",
+        "vaccines",
+        "Bret Weinstein"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says the contemporary food system is mass-manufactured and controlled by food corporations whose purpose is to make people unhealthy.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0100"
+      ],
+      "temporal_scope": "Current social diagnosis stated on 2026-06-13.",
+      "topic_tags": [
+        "food industry",
+        "corporate control",
+        "public health"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says education is the way to remain peaceful in a chaotic world because greater understanding of the universe, the present situation, and the direction of events makes a person more relaxed.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0102"
+      ],
+      "temporal_scope": "Advice and model offered on 2026-06-13.",
+      "topic_tags": [
+        "education",
+        "peace",
+        "self-mastery"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He accepts that the deeper problem is not boomers as a generation but powerful people who refuse to relinquish power.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0102",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0103"
+      ],
+      "temporal_scope": "Clarification made on 2026-06-13.",
+      "topic_tags": [
+        "power",
+        "boomers",
+        "elite rule"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang predicts the attempted beheading in Belfast marks a tipping point after which public anger in the UK will be very difficult to calm and will develop into civil war.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0103",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0104"
+      ],
+      "temporal_scope": "Forward-looking prediction made on 2026-06-13.",
+      "topic_tags": [
+        "United Kingdom",
+        "Belfast",
+        "civil war",
+        "immigration"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He attributes the forecasted unrest to a bad economy, generalized anger, and what he describes as excessive immigration pressure.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0104"
+      ],
+      "temporal_scope": "Causal diagnosis attached to his UK forecast on 2026-06-13.",
+      "topic_tags": [
+        "economy",
+        "anger",
+        "immigration",
+        "United Kingdom"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0098"
+      ],
+      "moment": "Jiang treats the occult not as fringe entertainment but as a clue to how elites think and what hidden logics they may be acting on.",
+      "source_phrase": "so much of the elite are invested in the occult",
+      "why_it_matters": "This sharpens his recurring move of following elite obsessions as evidence rather than dismissing them as noise.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0100"
+      ],
+      "moment": "The food system is framed not as merely compromised but as intentionally organized to make people unhealthy.",
+      "source_phrase": "the entire purpose is to make us unhealthy",
+      "why_it_matters": "It condenses his anti-institutional suspicion into a memorable causal accusation.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0102"
+      ],
+      "moment": "Education is presented as the emotional technology that converts chaos into calm.",
+      "source_phrase": "the more educated you become, the more relaxed you become",
+      "why_it_matters": "This is a reusable Jiang definition of why knowledge matters beyond credentials or information collection.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0104"
+      ],
+      "moment": "Belfast is cast as the point where submerged social anger erupts into open civil-war momentum.",
+      "source_phrase": "all this anger has blown up the surface",
+      "why_it_matters": "The phrasing turns a local incident into Jiang's broader model of latent crisis breaking through.",
+      "tone": "image",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "occult",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0098"
+      ],
+      "definition_or_usage": "A research field Jiang wants to study because elite fascination with it may reveal operative beliefs or techniques hidden behind formal politics.",
+      "confidence": "medium"
+    },
+    {
+      "term": "education as peace",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0102"
+      ],
+      "definition_or_usage": "Jiang's idea that deeper understanding of reality makes a person calmer and less panicked inside social chaos.",
+      "confidence": "high"
+    },
+    {
+      "term": "tipping point",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0103",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0104"
+      ],
+      "definition_or_usage": "Jiang's threshold concept for a crisis that has accumulated enough anger or disorder that reversal becomes very difficult.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0100"
+      ],
+      "note": "Jiang's comments on vaccines are retrospective to the COVID period, but the judgment itself is made in this 2026-06-13 livestream.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0103",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0104"
+      ],
+      "note": "The Belfast exchange is framed as an immediate current-events read and not a retrospective lecture; the civil-war prediction is time-sensitive to the live political moment of 2026-06-13.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0098"
+      ],
+      "note": "The phrase 'Giving you a degree was English literature' is ASR-distorted; the intended question is clearly about why an English literature background led Jiang toward geopolitics."
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0102"
+      ],
+      "note": "The transcript line 'It's on my ass' is likely ASR corruption around Jiang switching between Substack comments; the surrounding answer about peace through education is still recoverable."
+    }
+  ]
+}
