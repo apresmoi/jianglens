@@ -6,6 +6,31 @@ Status: first and second public splits completed; parent remains under active si
 Work type: atlas governance / concept-boundary proposal
 Public surface: `website/src/content/docs/lens/when-war-becomes-a-story-instead-of-a-material-test.md`
 
+## 2026-06-14 Current Split Decision
+
+Socrates asked for one bounded split-or-synthesize decision after Cassandra reported the Strategy parent at about 7.5k words / 81 refs. A fresh check on synced `main` after the merged Strategy compression gives the current authored surface:
+
+- Authored Markdown body: about 5,236 words.
+- Raw Markdown `evidence="..."` attributes: 57, including lens-point evidence attributes.
+- Public doc evidence marks in `website/src/data/lens/link-index.json`: 45.
+- Stable lens-point anchors: 12.
+- Raw `video:*@transcript:v1` occurrences in the Markdown: 122.
+- Distinct local video slugs directly cited by the authored page: 15.
+- Generated `source_refs` rows whose `docs` entry matches this page: 64 exact segment rows.
+- Cassandra's 81-ref warning is therefore treated as generated provenance pressure from exact segment rows and repeated public/lens-point surfaces, not as 81 distinct authored Jiang sources.
+
+Decision: **keep Strategy compressed for now; do not split and do not synthesize a new public child from this warning alone.** Cassandra's alert is useful generated-row pressure, but the current authored page is below the ordinary 6,000-word watch line and below the 20-authored-source watch line. The page has already paid down the earlier split pressure through the Chokepoint, No-Exit, Imperial Retrenchment, and latest parent-compression passes.
+
+The next Strategy-family public mutation should stay replacement/compression-first, not additive. Reopen a public split only if one of these narrower conditions appears:
+
+1. **Spectacle And Optics Sacrificing The Board**: at least four strong dated sources or clustered episode-to-lens links show that the `strategy-optics-sacrifices-the-board` / `strategy-spectacle-exploits-fragility` material needs a child hover surface rather than the parent plus Stories / Screen-World routing.
+2. **War Form Makes Political Form**: additional dated sources make the gunpowder / military-form / political-form sequence a reusable cross-domain mechanism instead of a foundational Strategy section.
+3. **Dominance Versus Control**: escalation-control material expands beyond the current `escalation-dominance-becomes-trap` and `control-beats-dominance` anchors and cannot be routed cleanly to No-Exit War, Game Theory, or the Strategy parent.
+
+Boundary answer for Socrates: Strategy should stay the material-audit parent for economics, organization, logistics, replacement capacity, world theory, military form, spectacle tested against consequences, hybrid-war attack surfaces, dominance/control, and the question of whether a war story can be carried by the board. Dense access-control gates stay on Chokepoint; no-exit momentum stays on No-Exit War; resource-fortress and cost transfer stay on Imperial Retrenchment; image-world mechanics stay on Stories / Screen-World when the frame is primary; dated scorekeeping stays on Prediction.
+
+This is a bounded workflow-only synthesis decision. It changes no public prose, evidence marks, stable lens-point IDs, episode read JSON, or source transcripts; generated manifests may update only because compile scripts index the workflow proposal/review. If Cassandra repeats the 81-row warning without new authored growth, remeasure the same counters before opening another public Strategy task.
+
 ## 2026-06-13 Evening Addendum
 
 Socrates asked for one bounded judgment after Cassandra's evening warning that `when-war-becomes-a-story-instead-of-a-material-test.md` is "still 7588 words" and had grown to "75 sources." A fresh check on synced `main` gives a different authored-page picture:
