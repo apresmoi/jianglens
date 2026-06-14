@@ -1,6 +1,7 @@
 # Pax Judaica, Iran Survival, And Eschatological Speculation Forecast Comparison Record
 
 Date: 2026-05-31
+Updated: 2026-06-14 after the 2026-03-26 `predictive-history-mk4vchtawso` impact intake
 Status: workflow comparison record; public prose and ledger promotion held
 Work type: forecast-family comparison after Prediction method chronology correction
 Public surface affected later: `website/src/content/docs/lens/prediction-as-falsifiable-prophecy.md`, possible forecast-ledger promotion records, `website/src/content/docs/lens/eschatology.md`, `website/src/content/docs/lens/chokepoint-empire-and-no-exit-war.md`, and possibly a Mass Society or Platform Infrastructure review for the AI-surveillance layer
@@ -17,8 +18,23 @@ The active family is a conditional and partly speculative sequence. Jiang repeat
 - **2026-03-11**, `interview-6tqrwlvswrs`: the Dore interview gives the strongest eschatological production-line version: regional conflagration, Iran destroyed, Greater Israel/Pax Judaica, Al-Aqsa destruction, Third Temple, diaspora return, Gog and Magog, and accelerated end times (`video:interview-6tqrwlvswrs@transcript:v1#seg-0024`, `video:interview-6tqrwlvswrs@transcript:v1#seg-0027`, `video:interview-6tqrwlvswrs@transcript:v1#seg-0028`, `video:interview-6tqrwlvswrs@transcript:v1#seg-0029`).
 - **2026-03-12 / 2026-04-03**, hostile-audit interviews: Piers Morgan and Mehdi Hasan force Jiang to mark the method as speculative predictive modeling or speculative analysis, not documentary proof (`video:interview-obqsun0g0u4@transcript:v1#seg-0062`, `video:interview-obqsun0g0u4@transcript:v1#seg-0063`, `video:interview-kh8dvnddooq@transcript:v1#seg-0071`, `video:interview-kh8dvnddooq@transcript:v1#seg-0072`).
 - **2026-03-13**, `interview-px5wsnsqwme`: the Haiphong interview keeps the Chokepoint board and the sacred-acceleration layer together without making them identical: Jiang says the war cannot be explained only geopolitically, while religious extremists and transnational capital can align because sacred acceleration and cheap-asset timing both welcome collapse (`video:interview-px5wsnsqwme@transcript:v1#seg-0052`, `video:interview-px5wsnsqwme@transcript:v1#seg-0063`, `video:interview-px5wsnsqwme@transcript:v1#seg-0065`, `video:interview-px5wsnsqwme@transcript:v1#seg-0067`, `video:interview-px5wsnsqwme@transcript:v1#seg-0068`).
+- **2026-03-26**, `predictive-history-mk4vchtawso`: the Game Theory lecture gives the cleanest material-succession version. Jiang calls the lecture intellectual speculation rather than prophecy, but treats Pax Judaica as a replacement-empire audition: Israel would have to supply imperial muscle, unity, infrastructure control, human capital, AI surveillance, corridor access, and capital protection after American retreat or implosion (`video:predictive-history-mk4vchtawso@transcript:v1#seg-0025`, `video:predictive-history-mk4vchtawso@transcript:v1#seg-0026`, `video:predictive-history-mk4vchtawso@transcript:v1#seg-0050`, `video:predictive-history-mk4vchtawso@transcript:v1#seg-0051`, `video:predictive-history-mk4vchtawso@transcript:v1#seg-0058`, `video:predictive-history-mk4vchtawso@transcript:v1#seg-0064`, `video:predictive-history-mk4vchtawso@transcript:v1#seg-0065`).
+- **2026-04-01**, `interview-t5cnf8dqj-q`: the Kim Iversen interview gives the capital-safe-house version: capital moves from Pax Britannica to Pax Americana and then speculatively toward Israel/Pax Judaica when the old host burns, combining security, reconstruction, AI surveillance, digital ID/currency, and transhumanist control pressure (`video:interview-t5cnf8dqj-q@transcript:v1#seg-0074`, `video:interview-t5cnf8dqj-q@transcript:v1#seg-0076`, `video:interview-t5cnf8dqj-q@transcript:v1#seg-0078`, `video:interview-t5cnf8dqj-q@transcript:v1#seg-0090`).
 
-This record is synthesis, not intake. The relevant impact files already exist for the January 9 Simon Dixon debate and the March Iran-war sources. The useful mutation is to keep the forecast family dated, conditional, and caveated before any public page or ledger promotion.
+This record is synthesis, not intake. The relevant impact files already exist for the January 9 Simon Dixon debate, the March Iran-war sources, the March 26 Game Theory lecture, and the April 1 Kim Iversen interview. The useful mutation is to keep the forecast family dated, conditional, and caveated before any public page or ledger promotion.
+
+## 2026-06-14 Routing Update
+
+The March 26 impact intake makes the old record too Prediction-centered if read alone. The family now needs a six-way routing rule before public promotion:
+
+1. **Replacement muscle** belongs first to [Imperial Retrenchment And Proxy Attrition](/lens/imperial-retrenchment-and-proxy-attrition/). The question is whether a successor can carry empire's coercive burden after America loses capacity or will: unity, determination, cheap force, human capital, infrastructure command, and willingness to do what the incumbent no longer can.
+2. **Capital safe house** belongs first to [Power As Alchemy](/lens/power-as-alchemy/). The question is where transnational capital can keep its abstractions protected by credible enforcement after a host empire becomes a debt-ridden fire.
+3. **Sacred sequence** belongs first to [Eschatology As Script](/lens/eschatology/). The question is whether Al-Aqsa, Third Temple, diaspora return, Greater Israel, Gog and Magog, Messiah/Antichrist roles, and sacred acceleration are being treated as operational sequence rather than symbolism.
+4. **Surveillance order** belongs to [AI As Control Surface](/lens/ai-as-control-surface/) or [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) depending on scale. AI Control owns the individualized interface and manipulation surface; Mass Society owns digital ID/currency, permission grids, population administration, and obedient bodies.
+5. **Corridor/resource board** belongs to [Chokepoint Empire And No-Exit War](/lens/chokepoint-empire-and-no-exit-war/) and Strategy. The question is access to Hormuz, Gulf food/water/oil exposure, Levantine routes, rail corridors, data centers, labor, and resource gates.
+6. **Dated forecast status** belongs to Prediction. The question is not whether the term is vivid; it is what exact claim, condition, horizon, caveat, later comparison, miss, confirmation, or revision can be tested.
+
+This routing is why `Pax Judaica As Capital Platform` should remain a held seed/comparison family. It is not ready as a public page because the phrase currently names a bundle of mechanisms, not one mechanism. If a child page later becomes justified, the first test should be narrow: can it teach the *capital platform plus replacement muscle* mechanism without swallowing the sacred sequence, AI-surveillance stack, corridor map, and ledger status? If not, keep routing to the existing pages.
 
 ## Forecast Family
 
@@ -30,7 +46,7 @@ The family can be named:
 
 That sentence is not ledger-ready. It is a family label.
 
-Ledger promotion would need to choose one exact candidate with source date, horizon, condition, and later comparison trail. The source trail contains at least six separable candidates:
+Ledger promotion would need to choose one exact candidate with source date, horizon, condition, and later comparison trail. The source trail contains at least eight separable candidates:
 
 1. **Conditional Pax Judaica after Iran falls**: if Iran falls, Israel becomes the Middle East nexus through technology, surveillance, transnational capital, and route control (`video:interview-acpe2tgkbje@transcript:v1#seg-0003`).
 2. **Iran-survival corridor alternative**: if Iran survives, Russia, China, and Iran can build rail and corridor networks that preclude U.S. oceanic control (`video:interview-acpe2tgkbje@transcript:v1#seg-0068`).
@@ -38,6 +54,8 @@ Ledger promotion would need to choose one exact candidate with source date, hori
 4. **Ritual sequence**: regional conflagration produces Greater Israel/Pax Judaica, Al-Aqsa destruction, Third Temple, diaspora return, and Gog-and-Magog conflict (`video:interview-6tqrwlvswrs@transcript:v1#seg-0027`, `video:interview-6tqrwlvswrs@transcript:v1#seg-0028`, `video:interview-6tqrwlvswrs@transcript:v1#seg-0029`).
 5. **No-nuclear / Al-Aqsa prediction bundle**: under hostile audit, Jiang states ground troops/draft, no nuclear weapon, and Al-Aqsa destruction as separate predictions about the war's progress (`video:interview-kh8dvnddooq@transcript:v1#seg-0076`, `video:interview-kh8dvnddooq@transcript:v1#seg-0078`).
 6. **Acceleration-with-capital mechanism**: sacred acceleration and mobile capital align because collapse can be read as providential timing and as an asset-buying window (`video:interview-px5wsnsqwme@transcript:v1#seg-0063`, `video:interview-px5wsnsqwme@transcript:v1#seg-0067`, `video:interview-px5wsnsqwme@transcript:v1#seg-0068`).
+7. **Replacement-empire audition**: Israel is tested as possible imperial muscle only if America loses or retreats; the criteria include unity, capacity, determination, infrastructure control, AI surveillance, corridor access, and system-maintenance value (`video:predictive-history-mk4vchtawso@transcript:v1#seg-0025`, `video:predictive-history-mk4vchtawso@transcript:v1#seg-0026`, `video:predictive-history-mk4vchtawso@transcript:v1#seg-0050`, `video:predictive-history-mk4vchtawso@transcript:v1#seg-0051`, `video:predictive-history-mk4vchtawso@transcript:v1#seg-0061`).
+8. **Capital-safe-house branch**: capital migrates from old imperial hosts toward a new protected enforcement platform when Pax Americana becomes unreliable, but this is a Power mechanism until a dated forecast object is split out (`video:interview-t5cnf8dqj-q@transcript:v1#seg-0074`, `video:interview-t5cnf8dqj-q@transcript:v1#seg-0076`, `video:interview-t5cnf8dqj-q@transcript:v1#seg-0078`).
 
 ## Comparison Table
 
@@ -49,6 +67,8 @@ Ledger promotion would need to choose one exact candidate with source date, hori
 | `interview-6tqrwlvswrs` | 2026-03-11 | Regional conflagration leads to Greater Israel/Pax Judaica, Al-Aqsa destruction, Third Temple, diaspora return, Gog and Magog, and accelerated end times | Speculative next-five-to-ten-year script, with explicit no-concrete-evidence caveat later in the same interview | Eschatology for ritual sequence; Secret Society only where hidden coordination is active | Using the vivid script without the speculation caveat would flatten Jiang's epistemic status |
 | `interview-obqsun0g0u4` | 2026-03-12 | Piers frames the eschatological explanation as possible fantasy; Jiang answers with speculative predictive modeling, provisional legitimacy through predictions, and no final proof | Hostile-audit caveat on the method | Prediction owns the audit; Eschatology owns the role-script content | Treating prediction success as proof of eschatological causation would violate the method |
 | `interview-px5wsnsqwme` | 2026-03-13 | War is not explainable only geopolitically; religious extremists and transnational capital align through sacred acceleration and asset timing | Mechanism comparison, not ledger candidate by itself | Eschatology for sacred acceleration; Chokepoint for war architecture; Power/Imperial Retrenchment for asset acquisition | Making capital and eschatology identical would erase Jiang's "aligned interests" distinction |
+| `predictive-history-mk4vchtawso` | 2026-03-26 | Israel is auditioning to replace America by proving it can provide imperial muscle and maintain the system when America can no longer do so | Explicitly intellectual speculation, not prophecy; must be compared with later American-retreat and Iran-war claims | Imperial Retrenchment for replacement muscle; Strategy for four-dimensional war; Power for capital-enforcement migration; AI/Mass Society for surveillance stack | Treating this as a settled Pax Judaica outcome would erase the source's speculative status and the American-retreat condition |
+| `interview-t5cnf8dqj-q` | 2026-04-01 | Capital leaves Pax Americana for a speculative Pax Judaica safe house, joining security, reconstruction, AI surveillance, digital ID/currency, and transhumanist control pressure | Capital-platform mechanism and forecast-family input, not a standalone public page | Power for capital migration; AI Control/Mass Society for surveillance; Prediction for dated status; Eschatology only for sacred Israel role-script | Letting "Pax Judaica" absorb every control-grid detail would blur Power, AI Control, Mass Society, and Prediction into one topic label |
 | `interview-kh8dvnddooq` | 2026-04-03 | Hasan forces Jiang to admit Pax Judaica/Greater Israel analysis is speculative; Jiang then states discrete war predictions including ground troops/draft, no nuclear weapon, and Al-Aqsa destruction | Hostile-audit record; separate predictions should be tested separately | Prediction owns caveat and forecast split; Eschatology owns Al-Aqsa/Temple role sequence | Promoting the Al-Aqsa line without the speculative-analysis admission would turn audit material into charisma |
 
 ## Boundary Notes
@@ -58,6 +78,10 @@ Prediction owns this comparison because the live problem is not whether Pax Juda
 Eschatology owns the role-script: Jerusalem, Al-Aqsa, Third Temple, diaspora return, Gog and Magog, Messiah, Antichrist, and sacred acceleration. The existing Eschatology page already has `eschatology-promise-becomes-plan`, `eschatology-ritual-script-demands-sequence`, and `eschatology-accelerates-collapse-with-capital`; this comparison does not justify a new public child page yet.
 
 Chokepoint owns the material Iran board: Hormuz, Gulf food/water/oil exposure, route access, Eurasian corridors, U.S. ocean control, and ground-war pressure. Iran survival is not only an eschatological counterfactual; it is the corridor alternative that keeps route access from becoming a Jerusalem-centered or U.S.-controlled order.
+
+Imperial Retrenchment owns the replacement-empire audition. The March 26 lecture should route here when the active question is whether Israel can replace American coercive labor, hold infrastructure, govern regional gates, and keep the system running after American retreat.
+
+Power owns the capital-safe-house branch. The April 1 interview should route here when the active question is where financial abstraction moves for protection, enforcement, and future credibility as Pax Americana burns.
 
 Mass Society and Platform Infrastructure own the AI-surveillance stack only when the active mechanism is population-scale administration, Gaza-style control exported outward, data centers, digital ID/currency, or hidden pipes. Prediction should not absorb those mechanisms merely because they appear inside a Pax Judaica forecast.
 
@@ -76,6 +100,7 @@ The strongest first ledger candidates are probably:
 Before any ledger promotion, a later review should check:
 
 - whether later Jiang sources restate Pax Judaica as Israel, as transnational capital using Israel, as an AI-surveillance order, or as a sacred role-script;
+- whether the active March 26 mechanism is replacement muscle, capital platform, surveillance infrastructure, corridor/resource control, or a forecast condition;
 - whether Iran "falling" means regime collapse, military defeat, corridor disablement, Gulf-client realignment, or something narrower;
 - whether "Iran survives" means state sovereignty, Hormuz leverage, corridor capacity, or civilizational recovery after infrastructure destruction;
 - whether any public-event comparison confirms, misses, or revises the Al-Aqsa, no-nuclear, ground-troops, draft, GCC-collapse, or corridor claims;
@@ -84,6 +109,8 @@ Before any ledger promotion, a later review should check:
 ## What Not To Do Next
 
 Do not create standalone Pax Judaica, Greater Israel, Al-Aqsa, Third Temple, Gog and Magog, Simon Dixon, or Iran Survival pages from this family. Existing public pages already own the mechanisms.
+
+Do not create `Pax Judaica As Capital Platform` as a public page from the current evidence. Keep it as a held seed until a draft can prove that capital-safe-house plus replacement-muscle evidence forms one reusable mechanism without absorbing Eschatology, AI Control, Mass Society, Chokepoint, Strategy, and Prediction.
 
 Do not promote "Jiang predicted Pax Judaica" as one ledger item. This family includes a conditional Iran-falls branch, an Iran-survival branch, a phase model, a ritual sequence, a hostile-audit caveat, and discrete war-progress predictions.
 
@@ -97,8 +124,9 @@ Do not quote or summarize hostile-audit admissions as embarrassment cleanup. The
 
 The next useful Plato mutation is one of:
 
-1. a ledger-candidate review for the 2025-09-01 U.S.-China six-month compromise forecast after public-event and later-source comparison;
-2. a ledger-candidate review for the 2026-03-24 Vietnam/draft/emergency-powers chain, preserving the April timing and later Mass Society revisions;
-3. an Eschatology concept-scoped proposal asking whether the Pax Judaica / AI Antichrist material needs a compact public subsection or should remain distributed across existing anchors.
+1. a narrow Pax Judaica ledger-candidate review for one branch only: replacement-empire audition, capital-safe-house migration, Al-Aqsa/Third-Temple forecast, Iran-survival corridor alternative, or American-retreat condition;
+2. a public concept mutation only if it is replacement/compression-first on an existing page such as Imperial Retrenchment, Power, Eschatology, or Prediction, not an ordinary Pax Judaica append;
+3. a ledger-candidate review for the 2025-09-01 U.S.-China six-month compromise forecast after public-event and later-source comparison;
+4. a ledger-candidate review for the 2026-03-24 Vietnam/draft/emergency-powers chain, preserving the April timing and later Mass Society revisions.
 
 Ordinary historical corpus-impact backfill should wait unless a fresh high-pressure source appears or a missing impact file blocks one of these named comparisons.
