@@ -13,7 +13,7 @@ Judge mode: local reader/world-model, grounding/provenance, and corpus-anchor re
 ## Grounding / Provenance Pass
 
 - Finding: None blocking.
-- Assessment: This is workflow governance only. It changes no public Markdown, evidence marks, stable lens-point IDs, generated site data, episode read JSON, or source transcripts. The live counters are reproducible from current `main`: 5,236 authored words, 57 raw evidence attributes, 45 compiled doc evidence marks, 12 stable anchors, 122 raw video-ref occurrences, 15 distinct local video slugs, and 64 generated `source_refs` rows whose `docs` entry matches the page.
+- Assessment: This is workflow governance only. It changes no public Markdown, evidence marks, stable lens-point IDs, episode read JSON, or source transcripts; generated manifests may update only because compile scripts index the workflow proposal/review. The live counters are reproducible from current `main`: 5,236 authored words, 57 raw evidence attributes, 45 compiled doc evidence marks, 12 stable anchors, 122 raw video-ref occurrences, 15 distinct local video slugs, and 64 generated `source_refs` rows whose `docs` entry matches the page.
 - Residual risk: Cassandra's 81-ref diagnostic remains meaningful if it includes broader generated provenance surfaces, including lens-point rows. Future workers should remeasure authored words, distinct local slugs, doc evidence marks, anchors, and generated row expansion before reopening another Strategy split task.
 
 ## Corpus Anchor Pass

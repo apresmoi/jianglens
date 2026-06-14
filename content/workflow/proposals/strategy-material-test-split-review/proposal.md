@@ -29,7 +29,7 @@ The next Strategy-family public mutation should stay replacement/compression-fir
 
 Boundary answer for Socrates: Strategy should stay the material-audit parent for economics, organization, logistics, replacement capacity, world theory, military form, spectacle tested against consequences, hybrid-war attack surfaces, dominance/control, and the question of whether a war story can be carried by the board. Dense access-control gates stay on Chokepoint; no-exit momentum stays on No-Exit War; resource-fortress and cost transfer stay on Imperial Retrenchment; image-world mechanics stay on Stories / Screen-World when the frame is primary; dated scorekeeping stays on Prediction.
 
-This is a bounded workflow-only synthesis decision. It changes no public prose, evidence marks, stable lens-point IDs, episode read JSON, source transcripts, or generated site data. If Cassandra repeats the 81-row warning without new authored growth, remeasure the same counters before opening another public Strategy task.
+This is a bounded workflow-only synthesis decision. It changes no public prose, evidence marks, stable lens-point IDs, episode read JSON, or source transcripts; generated manifests may update only because compile scripts index the workflow proposal/review. If Cassandra repeats the 81-row warning without new authored growth, remeasure the same counters before opening another public Strategy task.
 
 ## 2026-06-13 Evening Addendum
 
