@@ -1,0 +1,240 @@
+{
+  "packet_id": "predictive-history-f03gaklvzrs-semantics-pkt-0017",
+  "source_id": "video:predictive-history-f03gaklvzrs",
+  "source_date": "2026-06-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0129"
+      ],
+      "kind": "question",
+      "summary": "A viewer asks what Dante would say about current events, and Jiang answers by saying the boomers built a hell for everyone and are themselves suffering inside it most intensely.",
+      "speaker_attribution": "Viewer question quoted and answered by Jiang inside one segment",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0130",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0131"
+      ],
+      "kind": "question",
+      "summary": "A viewer asks whether Trump will make peace with Iran, and Jiang answers bluntly that peace is no longer possible before closing the session.",
+      "speaker_attribution": "Viewer question in seg-0130 and Jiang answer in seg-0131",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0131",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0132",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0133"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the livestream by apologizing for fatigue, promising better moderation and monthly improvement, announcing emergency streams for major breaking events, and saying he will vary times for a global audience.",
+      "speaker_attribution": "Jiang closing remarks",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0134"
+      ],
+      "kind": "unclear",
+      "summary": "The final segment is empty and functions only as trailing audio or ASR residue.",
+      "speaker_attribution": "none recoverable",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0129"
+      ],
+      "note": "The ASR spells Dante as 'Donnie'; context from Jiang's announced Dante seminar makes the intended reference clear.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0134"
+      ],
+      "note": "Seg-0134 is empty and should not be treated as a meaningful speaker turn.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says a Dantean reading of the present would pity the boomers because they built a hell for everyone and must themselves inhabit it.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0129"
+      ],
+      "temporal_scope": "Interpretive answer given on 2026-06-13.",
+      "topic_tags": [
+        "Dante",
+        "boomers",
+        "hell",
+        "current events"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the boomer desire to rule forever created a social hell not only for younger people but for boomers themselves.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0129",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0130"
+      ],
+      "temporal_scope": "Current social diagnosis stated on 2026-06-13.",
+      "topic_tags": [
+        "boomers",
+        "elite rule",
+        "social hell"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang answers that peace with Iran is no longer possible.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0130",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0131"
+      ],
+      "temporal_scope": "Immediate geopolitical prediction made on 2026-06-13.",
+      "topic_tags": [
+        "Iran",
+        "peace",
+        "Trump",
+        "war"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says future livestreams will include emergency sessions whenever breaking events significantly alter how events are likely to unfold.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0131",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0132"
+      ],
+      "temporal_scope": "Program plan announced on 2026-06-13.",
+      "topic_tags": [
+        "livestream format",
+        "breaking news",
+        "Predictive History"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He identifies the war in Iran and the Charlie Kirk assassination as examples of the kind of breaking events that justify an emergency livestream.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0132"
+      ],
+      "temporal_scope": "Examples cited on 2026-06-13.",
+      "topic_tags": [
+        "Iran",
+        "Charlie Kirk",
+        "breaking news",
+        "livestreams"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he can devote more energy to Substack now that he has left the school.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0131"
+      ],
+      "temporal_scope": "Current professional update given on 2026-06-13.",
+      "topic_tags": [
+        "Substack",
+        "school",
+        "time allocation"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the livestream times will be adjusted as much as possible to better accommodate a global audience.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0132"
+      ],
+      "temporal_scope": "Program adjustment announced on 2026-06-13.",
+      "topic_tags": [
+        "global audience",
+        "scheduling",
+        "livestream format"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0129"
+      ],
+      "moment": "Dante becomes a voice for pitying the rulers who constructed the inferno they wanted to dominate.",
+      "source_phrase": "pity the boomers because ultimately they've built a hell for themselves",
+      "why_it_matters": "This is a strong literary-political compression of Jiang's boomer-hell frame into one memorable image.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0131"
+      ],
+      "moment": "The Iran answer is reduced to a flat terminal judgment: peace is no longer possible.",
+      "source_phrase": "Peace is no longer possible",
+      "why_it_matters": "Its bluntness gives the packet a hard geopolitical endpoint before Jiang shifts into logistics.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0132"
+      ],
+      "moment": "The show format itself becomes predictive-history infrastructure: emergency streams triggered by events that change the future's trajectory.",
+      "source_phrase": "there's a major event that's going to change how events will unfold",
+      "why_it_matters": "It links Jiang's media form to his forecasting identity rather than treating livestreams as mere audience maintenance.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Boomer Hell",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0129"
+      ],
+      "definition_or_usage": "Jiang's frame for a social order in which older rulers create an infernal political environment that ultimately traps them too.",
+      "confidence": "high"
+    },
+    {
+      "term": "emergency live streams",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0132"
+      ],
+      "definition_or_usage": "Extra Predictive History sessions Jiang plans to schedule when breaking news materially changes expected event trajectories.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0131",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0132",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0133"
+      ],
+      "note": "These are explicit end-of-stream remarks from the first paid-subscriber livestream on 2026-06-13, including immediate operational plans for next month and for future breaking-news coverage.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0132"
+      ],
+      "note": "The transcript references 'the Charlie Kirk assassination' as an example of breaking news; this is recorded as spoken in the source without external verification here."
+    }
+  ]
+}
