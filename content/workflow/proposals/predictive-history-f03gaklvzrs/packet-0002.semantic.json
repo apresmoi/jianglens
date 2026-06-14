@@ -1,0 +1,238 @@
+{
+  "packet_id": "predictive-history-f03gaklvzrs-semantics-pkt-0002",
+  "source_id": "video:predictive-history-f03gaklvzrs",
+  "source_date": "2026-06-13",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0009",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang pivots from course promotion into travel ambitions, saying he wants time in the United States and Japan and hopes eventually to lecture on Japanese culture through works like Final Fantasy VII.",
+      "speaker_attribution": "Jiang travel-and-culture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0011",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0012",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0013"
+      ],
+      "kind": "monologue",
+      "summary": "He promises to read One Piece, talks about visiting Malaysia and Germany, and says both countries could become bases for lectures or education reform.",
+      "speaker_attribution": "Jiang geographic planning monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0014",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0015",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says Russia contains profound secrets, then explains his rising public fame and the safety complications of in-person events after recognitions in Hong Kong and London.",
+      "speaker_attribution": "Jiang fame-and-travel monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0016"
+      ],
+      "note": "The short line in seg-0016 appears to continue Jiang's account of being recognized in public even though the diarization flips to SPEAKER_00.",
+      "suggested_speaker": "Jiang continuation",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says he expects to spend a lot of time in the United States in August and September and wants to visit Japan afterward because he sees Japan as a unique society he has discussed but never personally studied on the ground.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Travel outlook stated on 2026-06-13.",
+      "topic_tags": [
+        "United States",
+        "Japan",
+        "travel"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He treats Final Fantasy VII as a literary artwork and argues its writers were drawing on Kabbalah, including the Sephiroth and Jenova storyline.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Interpretive claim made on 2026-06-13.",
+      "topic_tags": [
+        "Final Fantasy VII",
+        "Kabbalah",
+        "Japanese culture"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says he intends to read One Piece and expects it to be brilliant based on repeated audience recommendations.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Future reading commitment made on 2026-06-13.",
+      "topic_tags": [
+        "One Piece",
+        "reading plan"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Malaysia is a place he would like to revisit, potentially with Sneeko, to explore the education system and the possibility of starting a school there.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0011"
+      ],
+      "temporal_scope": "Travel and institutional plan described on 2026-06-13.",
+      "topic_tags": [
+        "Malaysia",
+        "Sneeko",
+        "school-building"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says his first viral breakthrough came from a lecture on German culture called 'German Willpower' and that his audience expanded further after the Americans and Israelis bombed Iran.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Retrospective growth account given on 2026-06-13.",
+      "topic_tags": [
+        "Germany",
+        "audience growth",
+        "Iran"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says he has been in contact with Alexander Dugin and is scheduled to give a video conference lecture at a panel organized by Dugin later that month.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Scheduled event from the vantage of 2026-06-13.",
+      "topic_tags": [
+        "Russia",
+        "Alexander Dugin",
+        "lecture"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Russia contains profound secrets and wants to learn more about the Orthodox Church and Russian mystical or occult traditions.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0013",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Current interpretive interest stated on 2026-06-13.",
+      "topic_tags": [
+        "Russia",
+        "Orthodox Church",
+        "occult"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He says his rapid increase in public recognition now creates security concerns around announcing live lecture locations in advance.",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0014",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0015",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Current status report from 2026-06-13.",
+      "topic_tags": [
+        "fame",
+        "security",
+        "public lectures"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0010"
+      ],
+      "moment": "Final Fantasy VII is not treated as fandom but as a Kabbalistic literary text.",
+      "source_phrase": "I think it's a literary artwork",
+      "why_it_matters": "It shows Jiang's tendency to route pop culture through esoteric traditions and high-cultural seriousness.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0013",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0014"
+      ],
+      "moment": "Russia is cast as a civilization hiding profound secrets Jiang wants to penetrate through church and occult study.",
+      "source_phrase": "there are some certain secrets to Russia",
+      "why_it_matters": "This preserves the quasi-mystical framing rather than flattening Russia into ordinary geopolitics.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0015",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0016"
+      ],
+      "moment": "Fame appears as bodies sprinting across Hong Kong streets to catch him for photos.",
+      "source_phrase": "they would like sprint to take a picture with me",
+      "why_it_matters": "It is the packet's most vivid image of Jiang's shift from niche teacher to public figure.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "German Willpower",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0012"
+      ],
+      "definition_or_usage": "A lecture Jiang cites as his first major viral video and as the catalyst for his German audience.",
+      "confidence": "high"
+    },
+    {
+      "term": "Foundation of Geopolitics",
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "The Alexander Dugin book Jiang calls one of the most important geopolitical works ever written.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0011",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0012",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0013",
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0015"
+      ],
+      "note": "This packet layers several dated waypoints into Jiang's self-narration: a Sneeko conversation a couple of months earlier, a viral lecture the previous April, a Dugin panel later this month, Hong Kong recognition a couple of months back, and a London interview last month.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-f03gaklvzrs@transcript:v1#seg-0010"
+      ],
+      "note": "The director name rendered as 'Akira Kodama' is likely ASR-distorted; the semantic point is Jiang's desire to lecture on Japanese cinema, but the exact person name is uncertain."
+    }
+  ]
+}
