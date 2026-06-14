@@ -2604,6 +2604,7 @@ async function generateTopicShards() {
 
   for (const shard of allAliasShards) {
     const content = renderTopicLetterIndex(shard, activeTopics);
+    await mkdir(topicIndexOutRoot, { recursive: true });
     await writeFile(path.join(topicIndexOutRoot, `${shard.prefix}.txt`), content);
     await writeFile(path.join(topicIndexOutRoot, `${shard.prefix}.md`), content);
     const shardOutRoot = path.join(topicIndexOutRoot, shard.prefix);
