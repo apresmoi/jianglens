@@ -29,4 +29,3 @@ No inline evidence marks, lens-point anchors, public docs, or episode read JSON 
 ## Findings
 
 - Residual risk: the file should not become the place where every Iran-war or end-times source is appended. The next useful mutation should be a narrow ledger-candidate review, public replacement/compression on an existing concept, or a route-specific proposal.
-
