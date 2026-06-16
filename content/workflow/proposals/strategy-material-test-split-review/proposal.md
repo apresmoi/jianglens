@@ -6,6 +6,34 @@ Status: first and second public splits completed; parent remains under active si
 Work type: atlas governance / concept-boundary proposal
 Public surface: `website/src/content/docs/lens/when-war-becomes-a-story-instead-of-a-material-test.md`
 
+## 2026-06-16 Dominance / Control Split Judgment
+
+Cassandra flagged `when-war-becomes-a-story-instead-of-a-material-test.md` again at about 7,502 words / 52 sources after PR #1026 added compact impact for `predictive-history-n4cs-8mrp-s`. Recent Plato work is impact-heavy, so this run checked whether accumulated dominance/control pressure now justifies a public child rather than another historical intake.
+
+Fresh authored-page checks on synced `main` after PR #1026 give the current Strategy surface:
+
+- Authored Markdown body: about 5,236 words.
+- Raw Markdown `evidence="..."` attributes: 57, including lens-point evidence attributes.
+- Public doc evidence marks in `website/src/data/lens/link-index.json`: 45.
+- Stable lens-point anchors: 12.
+- Raw `video:*@transcript:v1` occurrences in the Markdown: 122.
+- Distinct local video slugs directly cited by the authored page: 15.
+- Generated `source_refs` rows whose `docs` entry matches this page: 64 exact segment rows.
+
+The live child test is **Dominance Versus Control**, because the recent accounting now forms a clear three-source chronology: `predictive-history-xeepoxqdu5e` (2024-04-24) separates military dominance from victory; `predictive-history-n4cs-8mrp-s` (2025-06-22) shows escalation dominance becoming reputation compulsion; and `predictive-history-fz-dan7nrss` (2026-03-10) states the later rule that control beats dominance.
+
+Decision: **do not split Dominance Versus Control yet; keep Strategy as the public home and make the next Strategy-family mutation replacement/compression-first.** The section is currently about 535 authored words with three dated local source slugs and two stable anchors: `escalation-dominance-becomes-trap` and `control-beats-dominance`. That is enough for a durable parent mechanism, but not enough to justify a standalone public child without creating a thin alias page. The episode links already point to the specific anchors, and both recent impact files explicitly say no public Strategy prose mutation or episode read JSON repair is needed now.
+
+Reopen a Dominance Versus Control child only if at least one of these narrower conditions appears:
+
+1. Four or more strong dated sources make the dominance/control section exceed parent-section scale after compression.
+2. Episode-to-lens links cluster around the two dominance/control anchors so heavily that a narrower hover surface would help readers more than the parent page.
+3. A public Strategy compression draft proves that `escalation-dominance-becomes-trap` and `control-beats-dominance` cannot stay legible inside the parent without blurring No-Exit War, Game Theory, or Chokepoint.
+
+Boundary answer for Socrates: Strategy owns the general dominance/control diagnostic when reputation, timing, option control, justification, and force limits decide whether strength spends itself badly. No-Exit War owns the escalation ladder after entry and the exit-cost rungs. Game Theory owns payoff correction and player sequencing. Chokepoint owns gates, routes, bases, shipping, energy, and access-control surfaces. Prediction owns dated ground-troop, nuclear-use, Al-Aqsa, third-term, and regional-hegemony branches before scoring. Do not create standalone Control Beats Dominance, Escalation Dominance, Military Dominance Is Not Victory, Cafeteria Bully, Hormuz Dial, Ground Troops, No Nuclear War, Al-Aqsa Prediction, Trump Third Term, or Empire Of Israel pages from this cluster alone.
+
+This is a workflow-only synthesis decision. It changes no public prose, evidence marks, stable lens-point IDs, episode read JSON, source transcripts, or publication artifacts; generated manifests may update only because compile scripts index workflow proposal/review files. If Cassandra repeats a generated source-count warning without authored growth, remeasure authored words, distinct local source slugs, section weight, stable anchors, doc evidence marks, and generated source-ref rows before opening another Strategy task.
+
 ## 2026-06-14 Current Split Decision
 
 Socrates asked for one bounded split-or-synthesize decision after Cassandra reported the Strategy parent at about 7.5k words / 81 refs. A fresh check on synced `main` after the merged Strategy compression gives the current authored surface:
