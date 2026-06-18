@@ -1,0 +1,255 @@
+{
+  "packet_id": "predictive-history-xug-nsld8h4-semantics-pkt-0032",
+  "source_id": "video:predictive-history-xug-nsld8h4",
+  "source_date": "2026-06-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0249",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0250",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0251"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang restarts the afternoon session by telling livestream viewers the class schedule, warning that he is offering only one English-language interpretation, and arguing that Dante must ultimately be experienced aloud in Tuscan because the poem is divinely inspired and perfect.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0252"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads the next tercet aloud, introducing an image of warm rays stripping snow and leaving the mind bare of error before a new living light appears.",
+      "speaker_attribution": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0253"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang interprets the passage as Dante's refusal of passive church obedience, saying genuine understanding requires open debate and a teacher must let students make errors.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0254"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The student continues reading the line that presents heaven as a body whose power grounds the being of all things.",
+      "speaker_attribution": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0255",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0256"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang pauses on the line about a cosmic body and turns it into a classroom exercise, asking for alternative metaphors for the universe; students answer with images like a big ball, God, and a turtle standing on an elephant.",
+      "speaker_attribution": "Jiang prompt with student responses",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0252",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0254"
+      ],
+      "note": "These are student read-aloud spans from the poem and should stay distinct from Jiang's interpretive claims.",
+      "suggested_speaker": "Student reader",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0256"
+      ],
+      "note": "The turtle-elephant cosmology is a student contribution that Jiang paraphrases and folds into his metaphor exercise.",
+      "suggested_speaker": "Student respondent",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the class is beginning by establishing themes and ideas that structure the Divine Comedy before moving into questions and exercises meant to strengthen intuition and imagination.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0249"
+      ],
+      "temporal_scope": "Jiang teaching-plan claim stated on 2026-06-15 about the structure of this course.",
+      "topic_tags": [
+        "course structure",
+        "Divine Comedy",
+        "intuition",
+        "imagination"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames his lecture as only one interpretation and warns that reading the Divine Comedy in English introduces interpretive problems because the class does not know Italian.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0250"
+      ],
+      "temporal_scope": "Jiang methodological claim stated on 2026-06-15 about the limits of this class's translation-based reading.",
+      "topic_tags": [
+        "interpretation",
+        "translation",
+        "Italian",
+        "method"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Divine Comedy is an act of divine inspiration and that reading it aloud in Tuscan lets the reader channel Dante himself.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0250"
+      ],
+      "temporal_scope": "Jiang interpretive and spiritual claim stated on 2026-06-15.",
+      "topic_tags": [
+        "divine inspiration",
+        "Tuscan",
+        "reading aloud",
+        "Dante"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he treats the Divine Comedy as perfection, so if a passage seems confusing the failure lies in the reader's intuition and imagination rather than in Dante's words.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0251"
+      ],
+      "temporal_scope": "Jiang hermeneutic rule stated on 2026-06-15 for this course.",
+      "topic_tags": [
+        "perfection",
+        "intuition",
+        "imagination",
+        "interpretation"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets Dante as rejecting mere obedience to priestly authority and says real understanding requires open debate in which students are allowed to make errors.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0253"
+      ],
+      "temporal_scope": "Jiang pedagogical and historical interpretation stated on 2026-06-15.",
+      "topic_tags": [
+        "debate",
+        "authority",
+        "teaching",
+        "error"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats Dante's image of heaven as a body as a prompt to test how different metaphors alter what the universe seems to be.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0255"
+      ],
+      "temporal_scope": "Jiang interpretive prompt stated on 2026-06-15.",
+      "topic_tags": [
+        "metaphor",
+        "universe",
+        "body",
+        "perception"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0250"
+      ],
+      "moment": "Jiang says only the Tuscan read aloud lets you experience the poem by channeling Dante himself.",
+      "source_phrase": "you will be channeling dante himself",
+      "why_it_matters": "It captures the packet's most charged claim about language, voice, and why translation cannot fully replace the original performance.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0251"
+      ],
+      "moment": "Jiang treats every apparent confusion in the poem as a failure of the reader rather than a flaw in Dante.",
+      "source_phrase": "it's not his fault it's our fault",
+      "why_it_matters": "This is the packet's governing classroom stance and sets the severity of Jiang's hermeneutic method.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0253"
+      ],
+      "moment": "Jiang turns Dante into a defense of debate against simple obedience to church authority.",
+      "source_phrase": "you have to engage in open debate",
+      "why_it_matters": "It links Jiang's reading of the poem directly to his own teaching method and to a larger anti-passive model of understanding.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0255"
+      ],
+      "moment": "The universe-as-body line becomes a live exercise in how metaphors generate different worlds.",
+      "source_phrase": "the metaphor that's being used is body",
+      "why_it_matters": "It launches the metaphor workshop that shapes the next packets and makes interpretation itself the object of study.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "divine inspiration",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0250"
+      ],
+      "definition_or_usage": "Jiang's claim that Dante wrote the Divine Comedy by channeling God and the universe rather than merely composing an ordinary text.",
+      "confidence": "high"
+    },
+    {
+      "term": "perfection",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0251"
+      ],
+      "definition_or_usage": "Jiang's working assumption that every word and idea in the Divine Comedy is perfect, so interpretive failure belongs to the reader.",
+      "confidence": "high"
+    },
+    {
+      "term": "open debate",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0253"
+      ],
+      "definition_or_usage": "The practice Jiang says is necessary for real understanding, opposed to passive obedience to institutional authority.",
+      "confidence": "high"
+    },
+    {
+      "term": "body",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0254",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0255"
+      ],
+      "definition_or_usage": "The initial metaphor for the universe that Jiang uses to open a comparison of alternative cosmological images.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0249",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0255"
+      ],
+      "note": "This packet marks the afternoon restart of the June 15 livestream and resets the course method before the extended universe-metaphor discussion begins.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

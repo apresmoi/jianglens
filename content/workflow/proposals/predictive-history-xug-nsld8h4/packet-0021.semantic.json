@@ -1,0 +1,208 @@
+{
+  "packet_id": "predictive-history-xug-nsld8h4-semantics-pkt-0021",
+  "source_id": "video:predictive-history-xug-nsld8h4",
+  "source_date": "2026-06-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0161",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0163",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0164",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0165",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0168"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang glosses Dante’s invocation, explains the soul’s hunger to return to God, locates the scene on the moon within heaven’s hierarchy, and turns the moon’s dark spots into the next interpretive problem for the class.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0162",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0166",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0167"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Paradiso passages about rare readers, ascent through the heavens, and the moon’s dark marks, with one empty boundary segment inside the same reading block.",
+      "speaker_attribution": "Student reading Dante aloud",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0164"
+      ],
+      "note": "Seg-0164 is labeled as the reader, but its content sounds like Jiang interrupting to explain the hierarchy of heaven rather than continuing the poem verbatim.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0167"
+      ],
+      "note": "Seg-0167 is an empty boundary artifact that belongs to the surrounding reading passage.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Dante invokes every possible inspiration because no one has taken this journey before, framing Paradiso as unprecedented even within epic literature.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0161"
+      ],
+      "temporal_scope": "Jiang literary interpretation stated on 2026-06-15.",
+      "topic_tags": [
+        "inspiration",
+        "epic",
+        "Paradiso",
+        "journey"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets the rare-reader passage as saying the deepest human hunger is thirst for God, and that proximity to God accelerates the soul’s movement toward him.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0163"
+      ],
+      "temporal_scope": "Jiang interpretive claim stated on 2026-06-15.",
+      "topic_tags": [
+        "God",
+        "desire",
+        "thirst",
+        "return",
+        "soul"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang locates the opening of the canto within a hierarchical heaven whose first plane is the moon.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0164",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0165"
+      ],
+      "temporal_scope": "Jiang scene-setting explanation stated on 2026-06-15.",
+      "topic_tags": [
+        "heaven",
+        "hierarchy",
+        "moon",
+        "Paradiso"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The quoted moon passage turns the inability to understand body entering body into a reason to intensify longing for the mystery of God and human nature becoming one.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0166"
+      ],
+      "temporal_scope": "Quoted literary material read aloud on 2026-06-15.",
+      "topic_tags": [
+        "incarnation",
+        "mystery",
+        "body",
+        "God and human nature",
+        "Paradiso"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reframes Dante’s first lunar question in ordinary visual terms by asking the class why the moon has dark spots, using familiar observation as the bridge into Dante’s cosmology.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0168"
+      ],
+      "temporal_scope": "Jiang teaching move stated on 2026-06-15.",
+      "topic_tags": [
+        "moon",
+        "dark spots",
+        "teaching method",
+        "cosmology"
+      ],
+      "claim_type": "method",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0163"
+      ],
+      "moment": "The soul’s deepest hunger is described as thirst for God, so ascent becomes desire before it becomes doctrine.",
+      "source_phrase": "our fundamental hunger our fundamental need our thirst is to return to God",
+      "why_it_matters": "This makes the cosmic ascent existential and keeps the lecture anchored in desire rather than mere architecture.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0166"
+      ],
+      "moment": "The poem treats the impossibility of body entering body as fuel for longing rather than a reason to stop thinking.",
+      "source_phrase": "then should our longing be still more inflamed",
+      "why_it_matters": "It captures Dante’s method of using paradox and mystery to intensify desire for understanding rather than close it down.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0168"
+      ],
+      "moment": "Jiang drags the class from the moon of Dante’s heaven to the moon they have actually looked at in the sky.",
+      "source_phrase": "you guys have looked up the moon right",
+      "why_it_matters": "This is a concrete pedagogical pivot from sublime poetry to ordinary perception, preparing the critique of surface explanation.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "hierarchy of heaven",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0164",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0165"
+      ],
+      "definition_or_usage": "Used to describe Paradiso’s layered cosmos, where the first plane encountered is the moon.",
+      "confidence": "medium"
+    },
+    {
+      "term": "thirst to return to God",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0163"
+      ],
+      "definition_or_usage": "Jiang’s phrase for the soul’s basic desire, which explains movement toward God in the canto.",
+      "confidence": "high"
+    },
+    {
+      "term": "dark spots on the moon",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0166",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0168"
+      ],
+      "definition_or_usage": "Introduced as Dante’s first explicit lunar problem and as Jiang’s gateway from physical observation to metaphysical interpretation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0161",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0168"
+      ],
+      "note": "This packet marks the June 15 shift from introductory free-will framing into close reading of Paradiso’s lunar ascent, without introducing cross-source chronology pressure.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0164"
+      ],
+      "note": "The transcript boundary around seg-0164 may mix Jiang’s gloss into the reading block, but the interpretive content is still clear."
+    }
+  ]
+}

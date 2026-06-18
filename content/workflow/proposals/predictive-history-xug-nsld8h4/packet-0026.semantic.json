@@ -1,0 +1,222 @@
+{
+  "packet_id": "predictive-history-xug-nsld8h4-semantics-pkt-0026",
+  "source_id": "video:predictive-history-xug-nsld8h4",
+  "source_date": "2026-06-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0201",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0202",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0203"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang checks whether the class understands Beatrice's first refutation, a student supplies the eclipse answer, and Jiang confirms that a hollow moon would make an eclipse impossible.",
+      "speaker_attribution": "Jiang-led classroom exchange with a student answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0204",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0206",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0208"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The reader continues Beatrice's rebuttal by shifting to the deep-cavity version of the rarity thesis and then laying out a mirror experiment meant to test whether greater distance reduces brightness.",
+      "speaker_attribution": "Student reading Dante aloud",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0205",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0207"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang paraphrases the second logical fallback as trapped light in a deep cavity, then stresses that Beatrice does not demand blind submission but sends Dante back to experiment so he can verify the truth himself.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says the eclipse argument proves the moon cannot be hollow at any point, because a truly hollow section would prevent the eclipse from working as observed.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0201",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0203"
+      ],
+      "temporal_scope": "Jiang explanatory claim stated on 2026-06-15.",
+      "topic_tags": [
+        "eclipse",
+        "moon",
+        "hollow moon",
+        "refutation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student correctly identifies the eclipse as the reason the hollow-moon theory fails.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0202"
+      ],
+      "temporal_scope": "Student answer voiced on 2026-06-15.",
+      "topic_tags": [
+        "eclipse",
+        "student answer",
+        "moon"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted text says that if rarity does not run through the moon entirely, then at some depth light must be blocked and reflected back, creating the appearance of dimmer regions without requiring total hollowness.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0204"
+      ],
+      "temporal_scope": "Quoted literary reasoning read aloud on 2026-06-15.",
+      "topic_tags": [
+        "rarity",
+        "reflection",
+        "moon",
+        "dim spots",
+        "Paradiso"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames the remaining logical option as a deep cavity that traps light rather than a moon that is empty all the way through.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0205"
+      ],
+      "temporal_scope": "Jiang paraphrase stated on 2026-06-15.",
+      "topic_tags": [
+        "cavity theory",
+        "trapped light",
+        "logic",
+        "moon"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The quoted passage explicitly says experiment is the source from which the stream of the arts proceeds, making empirical testing the cure for abstract caviling.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0206"
+      ],
+      "temporal_scope": "Quoted literary material read aloud on 2026-06-15.",
+      "topic_tags": [
+        "experiment",
+        "arts",
+        "empirical test",
+        "Paradiso"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets Beatrice as refusing coercive authority: even as a representative of God she tells Dante to verify the truth for himself through experiment rather than merely believe her.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0207"
+      ],
+      "temporal_scope": "Jiang interpretive claim stated on 2026-06-15.",
+      "topic_tags": [
+        "Beatrice",
+        "authority",
+        "truth",
+        "self-verification",
+        "experiment"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The mirror experiment is designed to show that a more distant reflected image may be smaller but does not become less bright simply because it is farther away.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0208"
+      ],
+      "temporal_scope": "Quoted literary experiment read aloud on 2026-06-15.",
+      "topic_tags": [
+        "mirror experiment",
+        "brightness",
+        "distance",
+        "reflection",
+        "Paradiso"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0206",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0207"
+      ],
+      "moment": "Beatrice answers doubt not with command but with an experiment the doubter can run himself.",
+      "source_phrase": "the source of your arts course springs from experiment",
+      "why_it_matters": "This keeps the packet's sharpest philosophical move intact: heavenly authority licenses inquiry instead of canceling it.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0205"
+      ],
+      "moment": "The moon's darkness is recast as light disappearing into depth rather than passing through emptiness.",
+      "source_phrase": "the light just is trapped",
+      "why_it_matters": "It captures the last logical refuge Beatrice is about to destroy and preserves Jiang's concrete rephrasing of the theory.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0208"
+      ],
+      "moment": "The far mirror may shrink in apparent size but not in brightness.",
+      "source_phrase": "it must match the brightness of the rest",
+      "why_it_matters": "This is the hinge of the second refutation and the empirical image that lets the class see why depth alone cannot explain lunar dimness.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "cavity theory",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0205"
+      ],
+      "definition_or_usage": "Jiang's shorthand for the fallback claim that lunar dimness comes from deep recesses where light gets trapped rather than reflected.",
+      "confidence": "high"
+    },
+    {
+      "term": "experiment",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0206",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0207"
+      ],
+      "definition_or_usage": "Presented both in the text and by Jiang as the route by which a reader can test truth instead of submitting to authority.",
+      "confidence": "high"
+    },
+    {
+      "term": "mirror experiment",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0208"
+      ],
+      "definition_or_usage": "Beatrice's practical demonstration that greater distance does not by itself produce dimmer reflected brightness.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0201",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0208"
+      ],
+      "note": "This packet carries the June 15 moon debate from the collapse of the hollow-moon thesis into Beatrice's experimental setup for dismantling the deeper-cavity thesis, with no cross-source chronology pressure.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
