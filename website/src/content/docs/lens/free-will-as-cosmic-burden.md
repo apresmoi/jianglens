@@ -9,7 +9,7 @@ Across Jiang's Great Books, Secret History, and civilization lectures, free will
 
 The concept is harsh because Jiang uses free will to remove several consolations at once. If freedom is real, then domination is not only coercion from outside. It also works by training people to want the world that diminishes them. If God is love, then God cannot rescue humanity by force without canceling the gift that makes love possible. If institutions promise safety by taking responsibility away from weak people, they may be performing mercy while spiritually enslaving them.
 
-This page follows a dated source cluster from the Civilization and Secret History arcs into the Great Books lectures: Zoroastrian moral choice in 2024, Asha as truth-becoming in 2025, Dostoevsky's Grand Inquisitor, the Secret History Jesus and Paul sequence, and the 2026 cave and Dante lectures.
+This page follows a dated source cluster from the Civilization and Secret History arcs into the Great Books lectures: Zoroastrian moral choice in 2024, Asha as truth-becoming in 2025, Dostoevsky's Grand Inquisitor, the Secret History Jesus and Paul sequence, and the 2026 cave, Inferno, Purgatorio, and Paradiso lectures.
 
 ## The Burden
 
@@ -107,9 +107,9 @@ In the Divine Comedy lecture, will and desire are the key words. Jiang says [wil
 
 That is why Jiang says [free will is a fundamental truth of the universe]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031"} and then sharpens the point: [the soul is in hell because it thinks hell is best for it]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031"}. Hell is not only punishment. It is the destination of trained desire.
 
-<!-- lens-point id="free-will-makes-hell-chosen" concept="free-will-burden" evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0030 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031" -->
+<!-- lens-point id="free-will-makes-hell-chosen" concept="free-will-burden" evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0030 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0031 video:predictive-history-xug-nsld8h4@transcript:v1#seg-0099 video:predictive-history-xug-nsld8h4@transcript:v1#seg-0114 video:predictive-history-xug-nsld8h4@transcript:v1#seg-0472" -->
 <span id="free-will-makes-hell-chosen" class="lens-point-anchor"></span>
-Hell becomes most dangerous when it is chosen. Jiang's Dante reads will and desire as soul-forming powers: a world can train people to want obedience, fear, piety, or punishment until hell feels proper and self-selected.
+Hell becomes most dangerous when it is chosen. Jiang's Dante reads will and desire as soul-forming powers: a world can train people to want obedience, fear, piety, punishment, or a lower spiritual station until the soul's place feels proper and self-selected.
 
 This is where the guide problem meets free will. A false guide does not have to drag the soul into hell. He can teach the soul to want the road. He can make piety, duty, empire, hatred, and deserved suffering feel like the natural grammar of reality.
 
@@ -121,9 +121,9 @@ The positive path is love. Jiang says the divine spark in humans is love, and th
 
 The negative path reverses the same power. If the soul cannot love or forgive, imagination does not disappear. It turns inward. Jiang says heaven and hell are constructions of imagination and consequences of emotional state; when a person cannot forgive others or the self, [the soul moves downward into a hell it creates to imprison itself]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0009 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0010"}. Achilles is not redeemed by victory over Hector. He descends into guilt until Priam's forgiveness lets him forgive himself.
 
-<!-- lens-point id="free-will-self-made-hell-needs-self-redemption" concept="free-will-burden" evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0009 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0010 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0011 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0055 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0056" -->
+<!-- lens-point id="free-will-self-made-hell-needs-self-redemption" concept="free-will-burden" evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0009 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0010 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0011 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0055 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0056 video:predictive-history-xug-nsld8h4@transcript:v1#seg-0549 video:predictive-history-xug-nsld8h4@transcript:v1#seg-0553 video:predictive-history-xug-nsld8h4@transcript:v1#seg-0557" -->
 <span id="free-will-self-made-hell-needs-self-redemption" class="lens-point-anchor"></span>
-Self-made hell is imagination turned against itself: blocked love and blocked self-forgiveness make the soul build its own prison, and no one can redeem the person by force because redemption has to be chosen through love, self-reflection, and free will.
+Self-made hell is imagination turned against itself: blocked love and blocked self-forgiveness make the soul build its own prison, and no one can redeem the person by force because redemption has to be received and chosen through love, self-reflection, faith, and free will.
 
 That makes the lecture's Cato-Marcia paradox more than a literary puzzle. [Cato reaches purgatory while Marcia remains in limbo]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0052 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0053"}. If love is giving, why does Cato not rescue his wife? Jiang's answer is free will: Cato can will purgatory for himself through desire, self-reflection, and self-forgiveness, but he cannot force Marcia into the same motion. [If you truly love someone, you let that person choose]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0055 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0056"}.
 
@@ -136,6 +136,16 @@ That changes the meaning of self-love. It is not indulgence or self-esteem. In J
 Purgatory is chosen self-forgiveness in Jiang's free-will model: God is already forgiving, but the soul must will its own cleansing, judge its distortions, and choose to become worthy of the love it seeks.
 
 This belongs here rather than on a separate love page because the controlling mechanism is agency. [Human Heart As Civilizational Measure](/lens/human-heart-as-civilizational-measure/) owns forgiveness as the test of social order. The held love-as-recognition seed owns the narrower relation question when love itself becomes the object. [The Guide Who Becomes A Trap](/lens/the-guide-who-becomes-a-trap/) owns Virgil's mediation and bribe-like speech before Cato. Free Will owns the harshest claim: even love cannot make another soul choose redemption without violating the freedom that makes redemption real.
+
+## Paradiso And Self-Authored Station
+
+The **2026-06-15** Paradiso opening adds a later Dante layer without changing the boundary of this page. Jiang begins from the problem of how to read Paradise at all. School logic can answer an exam question, but Dante's heaven requires intuition and imagination; [the imagination is what leads the reader to truth]{evidence="video:predictive-history-xug-nsld8h4@transcript:v1#seg-0013"}. Poetry owns that method as literary form. Free Will owns what the method reveals: the soul is not placed by a cosmic police force, but by desire, fear, readiness, and the direction of its will.
+
+The Piccarda discussion makes that point explicit. Jiang rejects the idea that God assigns spiritual weights because [God is not judgmental but all-forgiving and all-generous]{evidence="video:predictive-history-xug-nsld8h4@transcript:v1#seg-0099"}. A student offers the hinge: perhaps [we give ourselves the weights]{evidence="video:predictive-history-xug-nsld8h4@transcript:v1#seg-0102"}. Jiang then states the law in its starkest form: God welcomes, but [everything is free choice, and it is entirely the soul's choice whether to move toward God]{evidence="video:predictive-history-xug-nsld8h4@transcript:v1#seg-0114"}. Paradise does not soften the burden. It shows that even a blessed station can expose what the soul was willing to will.
+
+That makes Piccarda's lower sphere a free-will problem, not a standalone Paradise concept. Jiang's practical gloss is that [if you have the will, there is always a way]{evidence="video:predictive-history-xug-nsld8h4@transcript:v1#seg-0375"}. Later he sharpens the application: God does not want compensating charity or moral performance; God wants the person to love herself, and [the lower sphere is self-authored because it is all free will and free choice]{evidence="video:predictive-history-xug-nsld8h4@transcript:v1#seg-0472"}. This belongs here rather than in [Poetry](/lens/how-poetry-creates-civilization/) because the active mechanism is not Dante's technique. It is the terrifying agency behind spiritual rank.
+
+The closing forgiveness exchange ties Paradiso back to Inferno and Purgatorio. Jesus matters because unconditional forgiveness answers the impossible problem of self-redemption when the person thinks he deserves his fate; [someone else may forgive you because you cannot forgive yourself]{evidence="video:predictive-history-xug-nsld8h4@transcript:v1#seg-0549"}. The person still has to [turn toward God because the trapped worldview cannot solve itself from inside]{evidence="video:predictive-history-xug-nsld8h4@transcript:v1#seg-0553"}, and Jiang finally compresses the doctrine: [hell is not forgiving yourself]{evidence="video:predictive-history-xug-nsld8h4@transcript:v1#seg-0557"}. The latest Dante layer therefore does not create a separate Paradise page. It closes the loop: hell, purgatory, and paradise are all scenes where free will decides whether the soul hides from love, cleanses itself for love, or accepts the love that was already there.
 
 ## The Inquisitor's Mercy
 
@@ -188,6 +198,7 @@ This is the practical test. Does the system ask the person to become more alive,
 - **2026-04-08**, [Great Books #9: Dante's La Commedia](/episodes/predictive-history-6m1z-v3wgok/): Free will and reciprocity become contradictions; hell is chosen because will and desire form the soul.
 - **2026-04-29**, [Great Books #10: Hell Is the Imagination Turned Against Itself](/episodes/predictive-history-wgpdmya2bme/): Dante's Inferno gives the self-made hell version. Love expands imagination; blocked love and blocked self-forgiveness make hell; Cato shows that even love cannot force another person into redemption.
 - **2026-05-22**, [Great Books #11: Dante's Revolution](/episodes/predictive-history-otyupkhptym/): Purgatorio sharpens both sides. Free will is the power to curb love when desire tries to consume beauty, and the positive form is self-forgiveness, self-judgment, and love choosing cleansing before ascent.
+- **2026-06-15**, [Dante Livestream #1](/episodes/predictive-history-xug-nsld8h4/): Paradiso adds the latest visible Dante layer. God welcomes rather than assigns weights; Piccarda's station exposes fear-shaped desire; forgiveness restores agency where self-justification makes hell.
 
 ## Diagnostics
 
@@ -197,6 +208,7 @@ This is the practical test. Does the system ask the person to become more alive,
 - **Curb-Love Test**: Where is natural longing being treated as an excuse, and where does agency have to judge or redirect what love becomes?
 - **Self-Made Hell**: Where has imagination turned inward because love, forgiveness, or self-forgiveness is blocked?
 - **Purgatory Test**: Where is the obstacle not external pardon but the person's refusal, fear, or unreadiness to forgive the self and choose cleansing?
+- **Paradiso Weight Test**: Where is a person treating rank, role, or station as assigned from outside when Jiang's reading would ask what the soul has willed, feared, accepted, or refused?
 - **Non-Coercive Love**: Where does rescue become a violation because the other person has to choose self-reflection and redemption?
 - **Truth-Becoming**: Where is truth treated as information to possess, and where does it require self-overcoming, moral action, and responsibility to others?
 - **No Endpoint**: Where does an institution, teacher, party, church, or ideology claim final arrival where Jiang's Asha would require becoming, correction, and return to others?
