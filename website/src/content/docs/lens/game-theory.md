@@ -189,7 +189,7 @@ This prevents the method from becoming pure motive speculation. If the named gam
 
 The Iran trap lecture shows the opposite angle: historical analogy and game theory together explain why rational actors may want a result that looks stupid from outside. Jiang separates payoffs: the United States wants regime change, Iran wants to force and defeat an invasion, and regional actors may imagine different benefits from the same catastrophe. Game theory asks why [each actor optimizes its own outcome inside the real-world game]{evidence="video:predictive-history-7y-hbz6loeo@transcript:v1#seg-0043"}.
 
-## When The Prize Is Not Material
+## Wrong Rewards And False Alternatives
 
 The strongest late correction is that material incentives may be the wrong prize.
 
@@ -197,7 +197,11 @@ In the March 2026 asymmetry lecture, Jiang turns a war discussion into a methodo
 
 This is where game theory joins Jiang's spiritual map without leaving analysis behind. Religion is not a variable outside the game. It may define the reward structure. If a group values chosen suffering, end-times participation, or salvation more than material advantage, then a material-only model will call irrational what is actually rational inside another game.
 
-The danger is obvious. This move can be abused to invent hidden motives wherever evidence is weak. The Jiang Lens should use it carefully: first establish the material board, the actors, the declared incentives, and the observable choices; then ask whether a non-material payoff better explains the pattern.
+The January 2026 Communist Specter lecture adds the neighboring false-alternative test. Jiang's claim is not only that capitalism and communism may share more than the public dialectic admits. The game-theory move is that an apparently attractive alternative can be made unusable: [social democracy is mutated into communism so the demand for distribution looks frightening]{evidence="video:predictive-history-axqdlhws93q@transcript:v1#seg-0043 video:predictive-history-axqdlhws93q@transcript:v1#seg-0044"}. Earlier in the same lecture, he names the tactic more directly: when an idea becomes more extreme, the intention can be [to discredit it, make it illegitimate, and destroy the idea]{evidence="video:predictive-history-axqdlhws93q@transcript:v1#seg-0014 video:predictive-history-axqdlhws93q@transcript:v1#seg-0015"}.
+
+That does not make a public Communism page or a false-dialectic child page yet. One source is not enough to split the parent method. The parent lesson is narrower: before accepting the visible two-sided board, ask whether one side has been extremized so that both options still protect the same order. [Power As Alchemy](/lens/power-as-alchemy/) owns capital becoming the basis of society. [Nation As God-Machine](/lens/nation-as-god-machine/) owns national identity and sovereignty. [Religion As Administrative Filter](/lens/religion-as-administrative-filter/) owns materialist religion and anti-church substitution. Game Theory owns the diagnostic of a false alternative that changes the payoff table by making the usable alternative illegitimate.
+
+The danger is obvious. This move can be abused to invent hidden motives wherever evidence is weak. The Jiang Lens should use it carefully: first establish the material board, the actors, the declared incentives, the available alternatives, and the observable choices; then ask whether a non-material payoff, hidden player, or extremized alternative better explains the pattern.
 
 ## Diagnostics
 
@@ -208,6 +212,7 @@ Ask:
 - Who are the players, including silent institutions, audiences, donors, families, factions, bureaucracies, and future rivals?
 - What are the rules and constraints, including geography, status codes, money, law, taboo, time, supply, hierarchy, and fear of humiliation?
 - What is the declared prize, and what behavior suggests a different prize?
+- Has the apparent alternative been made so extreme, frightening, or conspiratorial that it discredits the usable opposition while leaving the same order protected?
 - What game is the stronger actor trying to make everyone accept, and who can survive only by refusing that board?
 - Which game is nearest to the actor: family, school, city, party, faction, bureaucracy, audience, election, or soul?
 - Is an external conflict carrying an unresolved internal hierarchy struggle, especially one of the [proximity games](/lens/proximity-games-and-elite-overproduction/) where elite overproduction makes public conflict serve a nearer factional payoff?
@@ -257,6 +262,9 @@ The final question is often the most important. A trap is not just a bad move. I
 
 - **2026-01-20**, [Game Theory #5: The World Game](/episodes/predictive-history-ybufqry77pq/)  
   Civilizational games change over time, and factional politics requires solving secrecy, trust, and coordination.
+
+- **2026-01-29**, [Game Theory #8: Communist Specter](/episodes/predictive-history-axqdlhws93q/)
+  The false-dialectic source adds a parent-method guardrail: an apparent alternative can be extremized until it discredits the usable opposition and leaves the same order protected.
 
 - **2026-03-05**, [Game Theory #10: The Law of Asymmetry](/episodes/predictive-history-t5oisjiorsu/)  
   Jiang gives the methodological warning that apparent irrationality may mean the analyst has named the wrong game and wrong reward.
