@@ -15,7 +15,7 @@ The boundary is clear enough for readers. Poetry owns imagination as Dante's rea
 
 Applied repair: the existing `free-will-makes-hell-chosen` hover text initially risked equating Piccarda's lower sphere with hell. The wording now says the soul's place can feel proper and self-selected, preserving the free-will mechanism without collapsing Paradiso into Inferno.
 
-Residual risk: this page now carries a dense Dante sequence, but at about 5,470 authored words, 13 source slugs, and 11 stable anchors it remains below current split pressure. Future Dante additions should be replacement/compression-first.
+Residual risk: this page now carries a dense Dante sequence, but at about 4.7k authored words, 13 source slugs, and 11 stable anchors it remains below current split pressure. Future Dante additions should be replacement/compression-first.
 
 ## Grounding / Provenance Pass
 
