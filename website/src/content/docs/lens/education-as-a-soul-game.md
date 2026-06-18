@@ -5,9 +5,9 @@ description: "Jiang Lens concept page on education as a soul game: stakeholder c
 
 # Education As A Soul Game
 
-Education is one of the places where Jiang's lens refuses the polite version of an institution. School says it exists to teach literacy, competence, creativity, and lifelong learning. Jiang's harsher question is what school actually makes. Across the Civilization, Secret History, Game Theory, Great Books, and education interviews, school makes trust, anxiety, obedience, national memory, elite ambition, reduced practical competence, institutional dependence, and sometimes a path of escape.
+Education is one of the places where Jiang's lens refuses the polite version of an institution. School says it exists to teach literacy, competence, creativity, and lifelong learning. Jiang's harsher question is what school actually makes. Across the Civilization, Secret History, Game Theory, Great Books, and education interviews, school forms trust, anxiety, obedience, national memory, elite ambition, practical competence, institutional dependence, and sometimes a path of escape.
 
-The concept here is education as a soul game. It is a game because students, parents, teachers, administrators, governments, universities, and employers all play for rewards that may have little to do with learning. It is about the soul because the deepest output is not information. The school teaches a person what counts as reality, whom to trust, what to fear, whose approval matters, and what kind of self must be built to survive.
+The concept here is education as a soul game. It is a game because students, parents, teachers, administrators, governments, universities, and employers all play for rewards that may have little to do with learning. It is about the soul because the deepest output is not information. The school teaches a person what counts as reality, whom to trust, what to fear, whose approval matters, and what kind of self must be built to survive. At the edges, the same material touches meritocracy's wound-to-credential machine, Jiang's living-school dream, the cave's dead ontology, and the borderland question of energy and adaptation; this page stays with school itself as a rival formation of trust, authority, attention, creativity, compliance, and selfhood.
 
 Jiang's own teaching history keeps the concept from becoming a simple anti-school slogan. Predictive History begins as a school problem: Chinese students can love Great Books and still lack the historical context needed to understand what those books are doing. [Predictive History begins from a classroom trying to make Great Books historically intelligible]{evidence="video:predictive-history-voqeteh6hko@transcript:v1#seg-0003 video:predictive-history-voqeteh6hko@transcript:v1#seg-0004 video:predictive-history-voqeteh6hko@transcript:v1#seg-0005"}, then later imagines [a future liberal-arts school able to train psychohistory]{evidence="video:predictive-history-voqeteh6hko@transcript:v1#seg-0010 video:predictive-history-voqeteh6hko@transcript:v1#seg-0011"}. The question is not whether education is good or bad. The question is which game it is playing on the student's soul.
 
@@ -86,6 +86,8 @@ Gaokao survives for a deeper reason than parental irrationality. Jiang says Chin
 Test scores replace institutional trust when families trust a visible exam more than teachers, recommendations, qualitative judgment, civil society, or administrators; the test then protects against elite capture while keeping the student's soul inside the test game.
 
 That trust substitution explains why reform talk can be sincere and empty at the same time. Universities, parents, and political managers may praise critical thinking, creativity, empathy, judgment, and collaboration, then return to the same exam because it is the only trusted selection device. [Reform language fails when the trusted selection device remains the test]{evidence="video:interview-875hvfdrxzy@transcript:v1#seg-0030 video:interview-875hvfdrxzy@transcript:v1#seg-0032 video:interview-875hvfdrxzy@transcript:v1#seg-0040"}. The same interview keeps the cross-cultural wound compact: [a student formed for one school culture can become stressed and alienated when the next school rewards the opposite soul habits]{evidence="video:interview-875hvfdrxzy@transcript:v1#seg-0069 video:interview-875hvfdrxzy@transcript:v1#seg-0070 video:interview-875hvfdrxzy@transcript:v1#seg-0073 video:interview-875hvfdrxzy@transcript:v1#seg-0074"}.
+
+This is the trust-test mechanism in compact form. The marshmallow source shows that delay, resilience, and reflection depend on a believable world; the Sinica source shows that an exam can become believable precisely when families do not trust teachers, committees, civil society, or elite discretion. Jiang's school question is not only "what does the test measure?" but "what authority has become believable enough to form the student's soul?"
 
 ## Creativity Is Scientific Rebellion
 
@@ -166,10 +168,10 @@ The ending matters because it prevents the education lens from becoming only ins
 ## Diagnostics
 
 - **Game Test**: What does the institution actually reward: learning, status, pleasing authority, compliance, tuition, prestige, or brand upside?
-- **Trust Test**: Who is the student being trained to trust when parent, teacher, peer group, state, test, and credential conflict?
+- **Trust Test**: Who is the student being trained to trust when parent, teacher, peer group, state, test, credential, and adult promise conflict?
 - **Soul Output**: What kind of person does the school make rational: curious, obedient, anxious, hollow, loving, imaginative, useful, or able to command?
 - **Coercion Test**: Can the student challenge, refuse, leave, fail, or ask whether the teacher is lying without penalty?
-- **Test-Trust Test**: Is the exam measuring learning, or has it become the only trusted substitute for institutions that families expect to be captured?
+- **Test-Trust Test**: Is the exam measuring learning, or has it become the only trusted substitute for adults and institutions that families expect to be unreliable or captured?
 - **Creativity Fork Test**: Does education democratize evidence, technique, mistake, and revision, or does it keep creative power scarce while training students away from purpose?
 - **Worldliness Test**: What can the student actually do when separated from the institution: navigate, repair, build, persuade, fight, care, reason, cooperate, survive, or create?
 - **Compliance Test**: Does the education strengthen attention, refusal, truth-seeking, and the belief that action matters, or does it make numb obedience feel realistic?
