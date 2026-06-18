@@ -1,0 +1,177 @@
+{
+  "packet_id": "predictive-history-xug-nsld8h4-semantics-pkt-0001",
+  "source_id": "video:predictive-history-xug-nsld8h4",
+  "source_date": "2026-06-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0001",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the livestream from Beijing, thanks the Yale Beijing Center and the in-room and remote audience, invites chat questions, and frames Dante as a transformative encounter.",
+      "speaker_attribution": "Jiang opening monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0003",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0004"
+      ],
+      "kind": "exchange",
+      "summary": "Carol Rafferty introduces Yale Center Beijing and frames the workshop as an attempt to pass on wisdom, beauty, light, truth, and the deepest human questions through Dante.",
+      "speaker_attribution": "Carol introduction after Jiang prompt",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0005",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0006"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains that the class will use a free online Divine Comedy resource, says the course will begin unusually with Paradise rather than Inferno, and asks students to share their written sense of heaven.",
+      "speaker_attribution": "Jiang lecture setup",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0007",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "A facilitator prompts a student to speak into the microphone, and the student describes heaven as fulfillment, harmony, elevation beyond suffering, and a primarily felt rather than purely visual state.",
+      "speaker_attribution": "Facilitator prompt followed by student answer",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0007"
+      ],
+      "note": "The diarized speaker in seg-0007 is likely a room facilitator or Carol managing the microphone, not Jiang asking a substantive public question.",
+      "suggested_speaker": "Room facilitator / Carol",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang presents Dante as 'the greatest writer of all time' and frames the class as potentially life-transforming for participants.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Opening framing claim in the 2026-06-15 livestream.",
+      "topic_tags": [
+        "Dante",
+        "great books",
+        "teaching frame"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Divine Comedy is divided into Inferno, Purgatory, and Paradise.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture framing on 2026-06-15.",
+      "topic_tags": [
+        "Divine Comedy",
+        "Inferno",
+        "Purgatory",
+        "Paradise"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang deliberately starts the Dante workshop in Paradise, not at the beginning of the poem, and says the rationale will become clearer over time.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Method claim on 2026-06-15 for this two-week course.",
+      "topic_tags": [
+        "method",
+        "Paradise",
+        "course design"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The class will rely on a free shared website resource for reading and discussion throughout the two-week Dante workshop.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0005",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Course logistics on 2026-06-15.",
+      "topic_tags": [
+        "website",
+        "resource",
+        "workshop"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0001"
+      ],
+      "moment": "Jiang begins not with modest orientation but with maximal stakes: Dante is the greatest writer, and the class could change your life.",
+      "source_phrase": "dante is the greatest writer of all time",
+      "why_it_matters": "It sets the public temperature of the series and tells later readers this Dante project is meant as existential formation, not literary housekeeping.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0005"
+      ],
+      "moment": "The course opens in Paradise first, withholding the reason until the structure reveals itself.",
+      "source_phrase": "we are gonna actually start in part 3",
+      "why_it_matters": "It is Jiang's first methodological surprise and signals that sequence itself will become part of the interpretation.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Paradise",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The third part of Dante's Divine Comedy and the opening focus of this workshop.",
+      "confidence": "high"
+    },
+    {
+      "term": "Divine Comedy",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Dante's three-part poem of Inferno, Purgatory, and Paradise, treated here as the central text of the course.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0001",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0005"
+      ],
+      "note": "This 2026-06-15 source is the opening session of a two-week Dante workshop livestreamed from Beijing and begins with Jiang's decision to enter the poem through Paradise.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0003",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0004"
+      ],
+      "note": "Carol's introduction contains noticeable ASR noise, so later public prose should preserve only the stable frame: Yale Center Beijing, wisdom beyond information, and the oldest human questions."
+    }
+  ]
+}

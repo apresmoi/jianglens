@@ -1,0 +1,163 @@
+{
+  "packet_id": "predictive-history-xug-nsld8h4-semantics-pkt-0005",
+  "source_id": "video:predictive-history-xug-nsld8h4",
+  "source_date": "2026-06-15",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0033",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0034"
+      ],
+      "kind": "unclear",
+      "summary": "An audience member appears to contrast the classical Apollo reference with a medieval Christian culture of humility and suppressed creativity, then asks how the two situations differ, but the ASR is too damaged to recover the full argument cleanly.",
+      "speaker_attribution": "Audience intervention with split diarization and noisy ASR",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0035",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0036",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0037",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0038",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0039",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0040"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers by separating Dante's medieval moment from the time of Jesus's crucifixion, then questions the room about why Jesus had to die until a student moves from atonement language to the decisive identification of Jesus as the Son of God.",
+      "speaker_attribution": "Jiang catechetical exchange with a student answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0033",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0034"
+      ],
+      "note": "The audience question is split across two diarized speakers and the first half is heavily garbled, but the stable point is that the participant is asking Jiang to distinguish medieval Christian suppression from the earlier classical or biblical frame he has just invoked.",
+      "suggested_speaker": "Audience participant",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang distinguishes between medieval Christian Europe around the year 1300 and Jesus at the time of the crucifixion around the year 33, insisting that the classroom question should not collapse those two historical layers.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Chronology clarification made on 2026-06-15.",
+      "topic_tags": [
+        "chronology",
+        "medieval Christianity",
+        "crucifixion",
+        "Dante"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student states that human beings cannot atone for their own sins because they are not sinless enough to pay for their actions.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0036"
+      ],
+      "temporal_scope": "Student answer offered during the 2026-06-15 discussion of crucifixion.",
+      "topic_tags": [
+        "atonement",
+        "sin",
+        "crucifixion"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The student first identifies Jesus as the faultless lamb who can die for people, but Jiang presses past that formulation toward Jesus's identity rather than only his sacrificial role.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0038",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Classroom exchange on 2026-06-15.",
+      "topic_tags": [
+        "Jesus",
+        "sacrifice",
+        "identity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang elicits the answer that Jesus is the Son of God as the crucial theological category for the argument he is building.",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0039",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0040"
+      ],
+      "temporal_scope": "Classroom exchange on 2026-06-15.",
+      "topic_tags": [
+        "Jesus",
+        "Son of God",
+        "theology"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0035"
+      ],
+      "moment": "Jiang stops the room from flattening Christian history into one blob by splitting Dante's 1300 world from the crucifixion in year 33.",
+      "source_phrase": "we're talking about medieval Christian Europe in the year 1300 ... this is referring to Jesus at the time of his crucifixion",
+      "why_it_matters": "It shows Jiang using chronology as an interpretive discipline rather than background metadata, a habit that later lens work will depend on.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0039",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0040"
+      ],
+      "moment": "Jiang refuses a merely functional answer about Jesus and forces the class onto the harder ontological claim: who Jesus is.",
+      "source_phrase": "No, no, no. What was Jesus?",
+      "why_it_matters": "That push prepares the larger argument that Christianity changes history because divine and human agency meet in one figure.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "crucifixion",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0035"
+      ],
+      "definition_or_usage": "The death of Jesus around the year 33, treated by Jiang as a distinct historical moment rather than something to be conflated with medieval Christendom.",
+      "confidence": "high"
+    },
+    {
+      "term": "Son of God",
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0040"
+      ],
+      "definition_or_usage": "The identity Jiang wants the room to name explicitly as central to Christian understanding of Jesus.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0035"
+      ],
+      "note": "This packet makes chronology explicit inside the lecture itself: Jiang separates Dante's medieval context from the first-century event of the crucifixion before extending the interpretation further.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0033",
+        "video:predictive-history-xug-nsld8h4@transcript:v1#seg-0034"
+      ],
+      "note": "The seg-0033 to seg-0034 intervention is too garbled to preserve its wording faithfully; only the broad contrast with Christian humility and the question of difference are stable."
+    }
+  ]
+}
