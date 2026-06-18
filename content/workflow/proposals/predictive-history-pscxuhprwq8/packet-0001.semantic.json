@@ -1,0 +1,239 @@
+{
+  "packet_id": "predictive-history-pscxuhprwq8-semantics-pkt-0001",
+  "source_id": "video:predictive-history-pscxuhprwq8",
+  "source_date": "2026-06-16",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0001",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0002"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by addressing yesterday's livestream problems, thanks Carol and the team, promises a complete higher-quality upload later, and invites questions before resuming Dante.",
+      "speaker_attribution": "Jiang opening logistics and invitation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0003"
+      ],
+      "kind": "question",
+      "summary": "A student asks why heaven would still display prestige hierarchy if the souls do not differ in accommodations or blessedness.",
+      "speaker_attribution": "Student theological question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0004",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0005"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that paradise is actually complete unity with God, while Beatrice's visual hierarchy is a teaching device showing differing capacities to receive God's light; Piccarda appears lowest because she experiences herself as unworthy and therefore places herself farther from God.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0006"
+      ],
+      "kind": "question",
+      "summary": "A student raises a close-reading question about Dante reversing the order of an arrow leaving, flying, and striking.",
+      "speaker_attribution": "Student literary question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0007",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang begins answering that paradise collapses time and space into near-simultaneity, then asks the student to reread the lines so he can examine the exact wording before continuing.",
+      "speaker_attribution": "Jiang partial answer and student rereading",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0003",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0006",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0008"
+      ],
+      "note": "The non-Jiang focus segments are two student interventions by different diarized speakers: one asks the prestige question and another asks and rereads the arrow-order question.",
+      "suggested_speaker": "Student questioners",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the prior livestream had sound, missing-video, and resolution problems, and that the team will upload a complete higher-quality version later.",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Opening logistics claim for the 2026-06-16 livestream, referring back to the previous day's stream.",
+      "topic_tags": [
+        "livestream",
+        "technical issues",
+        "publication logistics"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "In reality paradise is beyond time and space and all souls are together with God in complete unity rather than literally separated into different residences.",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Jiang's interpretation in this 2026-06-16 lecture.",
+      "topic_tags": [
+        "Paradise",
+        "time and space",
+        "unity",
+        "heaven"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Beatrice's visible hierarchy of heavens is a pedagogical construction that makes spiritual differences comprehensible to Dante and to readers.",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Interpretive model stated on 2026-06-16.",
+      "topic_tags": [
+        "Beatrice",
+        "hierarchy",
+        "pedagogy",
+        "Paradise"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The hierarchy in heaven represents how much of God a soul can receive, which Jiang links to communion with God and the soul's understanding of its relation to God.",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0004",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Doctrinal interpretation in this lecture on 2026-06-16.",
+      "topic_tags": [
+        "hierarchy",
+        "God",
+        "communion",
+        "soul"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang explains Piccarda's low placement as self-produced distance: she thinks herself unworthy of God and therefore keeps herself farther from God's closeness than she needs to.",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Specific reading of Piccarda in the 2026-06-16 lecture.",
+      "topic_tags": [
+        "Piccarda",
+        "worthiness",
+        "obedience",
+        "Paradise"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's first answer to the arrow-order question is that Dante is trying to show a realm where events happen all at once, at a speed that collapses ordinary temporal sequence.",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Partial close-reading answer on 2026-06-16 before the line is reread.",
+      "topic_tags": [
+        "Dante",
+        "time collapse",
+        "poetics",
+        "Paradise"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0004"
+      ],
+      "moment": "Jiang turns paradise from a celestial hotel map into a problem of receptivity: the hierarchy is not where you live but how much of God you can take in.",
+      "source_phrase": "this hierarchy is the amount of god that you receive in your soul",
+      "why_it_matters": "This is the packet's sharpest compression of Jiang's theology of paradise and likely belongs in the eventual public read.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0005"
+      ],
+      "moment": "Piccarda's distance from God is self-authored by unworthiness rather than imposed by divine cruelty.",
+      "source_phrase": "she's placed herself further from god because she thinks she's not worthy enough",
+      "why_it_matters": "It turns rank in heaven into a drama of self-conception and prepares later Jiang themes about fear, obedience, and receptivity.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0007"
+      ],
+      "moment": "Jiang's first instinct on the arrow line is that paradise is a place where sequence is swallowed by simultaneity.",
+      "source_phrase": "we are beyond time and space",
+      "why_it_matters": "It preserves the interpretive heat of the packet even before the full close reading continues in the next segment.",
+      "tone": "method",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Piccarda",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The soul Jiang discusses as appearing in the lowest sphere because she experiences herself as unworthy of God's closeness.",
+      "confidence": "high"
+    },
+    {
+      "term": "Beatrice's hierarchy",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Jiang's phrase for the visual hierarchy Beatrice constructs so Dante can comprehend differing capacities to receive God within an underlying heavenly unity.",
+      "confidence": "high"
+    },
+    {
+      "term": "receive the light of God",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Jiang's measure of spiritual rank: the soul's capacity for communion with God rather than its physical location.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0001",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0003",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0006"
+      ],
+      "note": "This 2026-06-16 source is the second Dante livestream session, opening by repairing yesterday's technical issues and immediately resuming student Q-and-A on Paradise Canto 4-5 and a close-reading problem from Canto 2.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0001",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0003",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0006"
+      ],
+      "note": "ASR noise affects proper names and some phrasing here: 'Divine Comedy' appears as 'line comedy,' Piccarda is rendered inconsistently, and the student question quotes contain duplicated arrow-order fragments that should be checked against the clean transcript if reused publicly."
+    }
+  ]
+}

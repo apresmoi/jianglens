@@ -1,0 +1,196 @@
+{
+  "packet_id": "predictive-history-pscxuhprwq8-semantics-pkt-0043",
+  "source_id": "video:predictive-history-pscxuhprwq8",
+  "source_date": "2026-06-16",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0337"
+      ],
+      "kind": "question",
+      "summary": "A student rejects Jiang's strict punishment-versus-allowance frame and asks why therapy or education cannot function as a middle path.",
+      "speaker_attribution": "Student objection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0338",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0340"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang accepts the therapy premise for the sake of the thought experiment and presses the class to say what bringing in a therapist or police would actually communicate to Eve.",
+      "speaker_attribution": "Jiang reframing the objection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0339"
+      ],
+      "kind": "answer",
+      "summary": "The therapy-defending student answers that therapy has a proven record for severe behavioral conditions, including sociopathy.",
+      "speaker_attribution": "Student defense of therapy",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0341",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0343"
+      ],
+      "kind": "exchange",
+      "summary": "Students speculate that a therapist would either side with Eve or interrogate her, and Jiang rejects the first guess while keeping the focus on how therapy would feel to the child.",
+      "speaker_attribution": "Student brainstorming with Jiang correction",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0344"
+      ],
+      "kind": "answer",
+      "summary": "Jiang concludes that therapy would itself operate as punishment and would teach Eve that her parents prefer handing her off to an outsider rather than bearing the wound themselves.",
+      "speaker_attribution": "Jiang interpretation",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0341",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0343"
+      ],
+      "note": "These two brief answers are clearly student turns, but the diarization does not give enough identity stability to treat them as the same speaker.",
+      "suggested_speaker": "Student responses",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A student argues that Jiang's metaphor is too absolute because responsible parenting could include education or therapy rather than only punishment or permissiveness.",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0337"
+      ],
+      "temporal_scope": "Student objection raised on 2026-06-16.",
+      "topic_tags": [
+        "student objection",
+        "therapy",
+        "education",
+        "false binary"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The therapy-defending student appeals to modern clinical effectiveness, saying therapy is proven to work across serious conditions including sociopathy.",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0339"
+      ],
+      "temporal_scope": "Student evidence claim stated on 2026-06-16.",
+      "topic_tags": [
+        "therapy",
+        "sociopathy",
+        "clinical expertise",
+        "student answer"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang refuses to let the discussion become a generic defense of therapy and instead asks what outsourcing the response to a therapist or police would mean inside the emotional logic of the thought experiment.",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0338",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0340"
+      ],
+      "temporal_scope": "Pedagogical reframing stated on 2026-06-16.",
+      "topic_tags": [
+        "thought experiment",
+        "outsourcing",
+        "therapy",
+        "emotional logic"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Students infer that therapeutic intervention would be uncomfortable for Eve, whether because the therapist sides against the parent or because the session becomes an invasive interrogation.",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0341",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0343"
+      ],
+      "temporal_scope": "Class speculation offered on 2026-06-16.",
+      "topic_tags": [
+        "therapy",
+        "discomfort",
+        "student speculation",
+        "interrogation"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that therapy would function as punishment because pills or outside discipline would tell Eve that her parents prefer delegating the problem to a stranger instead of personally proving love.",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0344"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-06-16.",
+      "topic_tags": [
+        "therapy as punishment",
+        "delegation",
+        "love",
+        "parental authority"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0340"
+      ],
+      "moment": "Jiang keeps the atonement metaphor alive by converting a modern therapy objection into a question about what outsourced care actually says to the guilty child.",
+      "source_phrase": "I'm going to call the therapist. The therapist will come and solve this problem with me.",
+      "why_it_matters": "It preserves the packet's turn from doctrinal argument into a fight over whether delegated expertise can carry the same redemptive meaning as parental sacrifice.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0344"
+      ],
+      "moment": "Therapy gets reframed as a sign that the parents have chosen an outsider over the child.",
+      "source_phrase": "Her parents love the therapist. They probably don't love her.",
+      "why_it_matters": "This is Jiang's sharpest compression of why delegation breaks the sacrificial logic he wants the class to see.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "therapy as punishment",
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0344"
+      ],
+      "definition_or_usage": "Jiang uses the phrase to argue that outside treatment would still register to Eve as punitive delegation rather than loving reconciliation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0337",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0344"
+      ],
+      "note": "This 2026-06-16 packet marks the pivot from Jiang's dog-sacrifice explanation of atonement to a class dispute over whether modern therapeutic delegation can replace sacrificial parental response.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0341",
+        "video:predictive-history-pscxuhprwq8@transcript:v1#seg-0343"
+      ],
+      "note": "The class answers Jiang's prompt in short fragments, so the exact reasoning behind each student's therapy scenario is only partially developed."
+    }
+  ]
+}
