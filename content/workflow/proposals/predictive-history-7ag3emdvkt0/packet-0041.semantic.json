@@ -1,0 +1,184 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0041",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0321",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0322"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks whether people five hundred years from now could watch this video and analyze the class, and a student pushes back that future readers may continue reading Dante without necessarily watching this recording.",
+      "speaker_attribution": "Jiang question with student qualification",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0323",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0324",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0325",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0326",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0327"
+      ],
+      "kind": "exchange",
+      "summary": "A student says Dante may have hoped his book would change history but could not know it for certain. Jiang sharply disagrees, insisting Dante did know, and he underlines the point by noting that Dante died right after finishing the Comedy.",
+      "speaker_attribution": "student answer with Jiang correction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0328"
+      ],
+      "kind": "answer",
+      "summary": "Another student answers that Dante's subjects endure because they are eternal human topics people will keep learning from even thousands of years later.",
+      "speaker_attribution": "student answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0327"
+      ],
+      "note": "The transcript mishears 'Divine Comedy' as 'life comedy'; the exchange clearly refers to Dante finishing the Divine Comedy and then dying.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang projects the reception problem forward again by asking whether another group five hundred years in the future could analyze this very class and video.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0321"
+      ],
+      "temporal_scope": "Lecture question on 2026-06-17 about a hypothetical audience roughly five hundred years later.",
+      "topic_tags": [
+        "future reception",
+        "video",
+        "Dante"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "A student distinguishes between the endurance of Dante as a text and the possible ephemerality of this classroom video, suggesting future readers may still read Dante without preserving this recording.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0322"
+      ],
+      "temporal_scope": "Student answer during the 2026-06-17 discussion.",
+      "topic_tags": [
+        "text versus recording",
+        "reception",
+        "preservation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student suggests Dante may have hoped or believed his book would change history, but not with certainty.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0324"
+      ],
+      "temporal_scope": "Student interpretive answer on 2026-06-17.",
+      "topic_tags": [
+        "history",
+        "authorial intention",
+        "certainty"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang explicitly rejects that uncertainty and says Dante knew what he was doing when he wrote the Divine Comedy.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0325",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0327"
+      ],
+      "temporal_scope": "Lecture assertion on 2026-06-17.",
+      "topic_tags": [
+        "authorial intention",
+        "certainty",
+        "Divine Comedy"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student says Dante's topics persist because they are eternal and bound up with what makes human beings human.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0328"
+      ],
+      "temporal_scope": "Student answer during the 2026-06-17 discussion.",
+      "topic_tags": [
+        "eternal topics",
+        "human nature",
+        "Dante"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0321"
+      ],
+      "moment": "The class becomes an object for a future audience when Jiang asks whether people five hundred years from now might watch this video and study what is happening now.",
+      "source_phrase": "500 years from now... another group of people will be watching this video",
+      "why_it_matters": "It folds the live seminar back into the same question of legacy and transmission that the students had just applied to Dante.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0325",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0327"
+      ],
+      "moment": "Jiang abruptly overturns the student's caution and insists Dante knew, punctuating it with the image of the poet dying right after finishing the work.",
+      "source_phrase": "Oh, actually, he did know... Right after he finished... he died",
+      "why_it_matters": "The packet's heat lies in Jiang's refusal to treat Dante's project as tentative; he treats the finished poem as an act of certainty completed at the edge of death.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0328"
+      ],
+      "moment": "Dante's themes are framed as eternal subjects that later humans will keep returning to.",
+      "source_phrase": "these topics are eternal, and that's what makes us human",
+      "why_it_matters": "It gives the cleanest student formulation for why the work might continue to matter across millennia.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "eternal topics",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0328"
+      ],
+      "definition_or_usage": "The student's label for the recurrent human questions that keep Dante legible across long stretches of time.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0321",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0327"
+      ],
+      "note": "The conversation first projects reception five hundred years into the future, then snaps back to Dante's own endpoint, using the fact of his death right after finishing the poem to argue for deliberate, foreknown authorship.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0324"
+      ],
+      "note": "The student's remark about Dante changing the course of history is exploratory and should remain tagged as classroom speculation rather than a settled historical claim."
+    }
+  ]
+}
