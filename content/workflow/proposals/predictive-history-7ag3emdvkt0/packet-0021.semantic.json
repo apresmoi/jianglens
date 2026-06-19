@@ -1,0 +1,205 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0021",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0161",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0163"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains the narrative sequence of the canto: Dante invokes Apollo for help describing a transcendent experience from twenty years earlier, then shifts into the pilgrim's memory of traveling with Beatrice.",
+      "speaker_attribution": "Jiang interpretive lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0162",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0165"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The reading moves from Dante's transhuman passage into Beatrice's corrective speech, where she tells him he is trapped in false imagining and already moving homeward with supernatural speed.",
+      "speaker_attribution": "reader quoting Dante and Beatrice",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0166"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang glosses Beatrice's role as pedagogical and spiritual: she must strip Dante of ego, fear, and earthbound logic so he can rely on intuition and imagination in heaven.",
+      "speaker_attribution": "Jiang interpretive lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0167",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0168"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether this amounts to a Christian defense of faith over logic, and Jiang replies that Dante will address this later through Paul and the idea of believing without evidence.",
+      "speaker_attribution": "Student question with Jiang answer",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0164"
+      ],
+      "note": "This short 'Okay' segment is non-semantic filler between Jiang's setup and the resumed reading.",
+      "suggested_speaker": "room acknowledgment",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0167"
+      ],
+      "note": "The student's wording is noisy, but the underlying question is intelligible: is Dante's method here an allegory for Christian faith exceeding or bypassing logic?",
+      "suggested_speaker": "student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Dante is recounting a visionary experience from twenty years earlier and invokes Apollo because ordinary language cannot fully describe what lies beyond time and space.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0161",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0163"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-06-17 about Dante's narrated past.",
+      "topic_tags": [
+        "Apollo",
+        "vision",
+        "twenty years ago",
+        "language",
+        "time and space"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets Beatrice's guidance as a demand that Dante stop using earthly logic and instead trust intuition and imagination in order to move toward God.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0165",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0166"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-06-17.",
+      "topic_tags": [
+        "Beatrice",
+        "intuition",
+        "imagination",
+        "logic",
+        "God"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the journey through heaven is meant to dispel false imaginings by stripping away ego, doubt, and fear before Dante can truly embrace God.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0166"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-06-17.",
+      "topic_tags": [
+        "false imagining",
+        "ego",
+        "doubt",
+        "fear",
+        "journey"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "When asked about faith and logic, Jiang says Dante will later address the issue through Paul, whom he characterizes here as defining faith as belief without evidence.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0167",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0168"
+      ],
+      "temporal_scope": "Lecture answer and forward pointer on 2026-06-17.",
+      "topic_tags": [
+        "faith",
+        "logic",
+        "Paul",
+        "evidence",
+        "Christianity"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0162"
+      ],
+      "moment": "Dante's threshold formula is that passing beyond the human cannot be worded.",
+      "source_phrase": "Passing beyond the human cannot be worded",
+      "why_it_matters": "It names the poetic problem Jiang is trying to solve throughout the lecture: how language can point toward an experience outside ordinary human categories.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0166"
+      ],
+      "moment": "Beatrice's pedagogy is to make Dante let go of ego, doubts, and fear so he can truly embrace God.",
+      "source_phrase": "let go of your ego, let go of your doubts, let go of your fear",
+      "why_it_matters": "This is the packet's strongest spiritual method statement and likely matters later for both episode compression and lens linkage.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0168"
+      ],
+      "moment": "Faith is introduced as belief without evidence.",
+      "source_phrase": "faith is ... to believe without evidence",
+      "why_it_matters": "Even as a forward pointer, it captures the tension between logic and trust that the student hears in the passage and Jiang agrees Dante will later confront directly.",
+      "tone": "provocation",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "false imagining",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0165",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0166"
+      ],
+      "definition_or_usage": "The earthbound misconception Beatrice identifies in Dante and that Jiang treats as the obstacle to perceiving heaven correctly.",
+      "confidence": "high"
+    },
+    {
+      "term": "faith",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0168"
+      ],
+      "definition_or_usage": "In Jiang's quick Pauline gloss here, belief without evidence; a theme he says Dante will address more explicitly later.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0161",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0163",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0168"
+      ],
+      "note": "This packet is internally layered in time: Jiang says Dante is narrating a vision from twenty years earlier, then the class conversation adds a forward pointer to a later Pauline discussion inside the poem.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0167",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0168"
+      ],
+      "note": "The student's question and Jiang's Pauline paraphrase are both transcript-noisy, so later reuse should preserve the broad logic-versus-faith tension without overclaiming the exact wording."
+    }
+  ]
+}
