@@ -1,0 +1,163 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0076",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0602"
+      ],
+      "note": "The first clause of Jiang's example is ASR-corrupted, but the stable point is that the sinner narrates the act as not really their choice in order to evade responsibility.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0601",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0602"
+      ],
+      "kind": "exchange",
+      "summary": "A student answers Jiang's psychology question with helplessness, and Jiang accepts that as the key move by which the vow-breaker avoids taking responsibility.",
+      "speaker_attribution": "student answer with Jiang confirmation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0603",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0608"
+      ],
+      "kind": "exchange",
+      "summary": "Students connect the pattern to Eve and Adam shifting blame, and Jiang steers the class toward the inner result: loss of agency and passivity.",
+      "speaker_attribution": "students reasoning with Jiang prompts",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The class identifies helplessness as the first self-explanation after vow-breaking: the person says the act was not really their choice.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0601",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0602"
+      ],
+      "temporal_scope": "Classroom exchange on 2026-06-17.",
+      "topic_tags": [
+        "helplessness",
+        "choice",
+        "self-explanation",
+        "vow-breaking"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says helplessness is attractive because it lets the sinner avoid responsibility for the vow-breaking act.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0602"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-06-17.",
+      "topic_tags": [
+        "responsibility",
+        "helplessness",
+        "sin",
+        "psychology"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student maps the pattern onto Genesis by saying Eve and Adam both shift blame outward, framing temptation rather than will as the cause.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0603"
+      ],
+      "temporal_scope": "Classroom analogy on 2026-06-17.",
+      "topic_tags": [
+        "Eve",
+        "Adam",
+        "blame-shifting",
+        "Genesis"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The class converges on Jiang's next step: once agency is disowned, the person becomes passive.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0605",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0607"
+      ],
+      "temporal_scope": "Classroom answer on 2026-06-17.",
+      "topic_tags": [
+        "agency",
+        "passivity",
+        "psychology",
+        "responsibility"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0602"
+      ],
+      "moment": "Jiang names helplessness as the first lie the sinner tells in order to survive their own vow-breaking.",
+      "source_phrase": "This causes you to feel helpless because you don't want to take responsibility.",
+      "why_it_matters": "It supplies the hinge between the broken act and the later frozen worldview that Dante's lower-heaven example is meant to expose.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0605"
+      ],
+      "moment": "The classroom reduces the whole spiritual decline to one compressed formula: lose agency, become passive.",
+      "source_phrase": "you lose agency",
+      "why_it_matters": "That phrase gives the packet a reusable primitive for how blame-shifting becomes a settled incapacity to act.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "helplessness",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0601",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0602"
+      ],
+      "definition_or_usage": "The psychological alibi offered after vow-breaking: the act is narrated as compelled rather than chosen.",
+      "confidence": "high"
+    },
+    {
+      "term": "agency",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0605",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0607"
+      ],
+      "definition_or_usage": "The capacity to own action and choose; once disowned, the soul becomes passive.",
+      "confidence": "high"
+    },
+    {
+      "term": "passivity",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0607"
+      ],
+      "definition_or_usage": "The downstream condition produced when a person explains themselves through helplessness and loss of agency.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0601",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0607"
+      ],
+      "note": "The lecture now specifies the inner sequence after vow-breaking: helplessness becomes blame-shifting, blame-shifting becomes loss of agency, and loss of agency becomes passivity.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
