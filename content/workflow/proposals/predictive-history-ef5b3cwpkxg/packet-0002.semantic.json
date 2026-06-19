@@ -1,0 +1,141 @@
+{
+  "packet_id": "predictive-history-ef5b3cwpkxg-semantics-pkt-0002",
+  "source_id": "video:predictive-history-ef5b3cwpkxg",
+  "source_date": "2026-06-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0009",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0010",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0011",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0012",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0013"
+      ],
+      "kind": "exchange",
+      "summary": "The student rereads the reversed arrow passage, and Jiang elaborates that Dante's inversion collapses ordinary sequence to show an event happening beyond human perception in a realm where time and space fall away.",
+      "speaker_attribution": "Student reading/question with Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0014",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0015",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0016",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0017"
+      ],
+      "kind": "exchange",
+      "summary": "A second student proposes that the reversed order foregrounds the goal first, because willing the end precedes the means, and Jiang warmly accepts that as another valid poetic explanation.",
+      "speaker_attribution": "Student proposal with Jiang endorsement",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0011"
+      ],
+      "note": "The student's reading and paraphrase of the line remain blended together in one segment, so the exact translation wording is not perfectly separable from the student's gloss.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang interprets Dante's reversed arrow sequence as a poetic collapse of time, where the normal progression of leave, fly, and strike no longer holds.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0012",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Interpretive lecture claim made on 2026-06-18.",
+      "topic_tags": [
+        "Dante",
+        "poetry",
+        "time collapse",
+        "Paradiso"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the line can be read at the most basic level as an attempt to render an event happening so quickly that it exceeds human perception and human logic.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Interpretive lecture claim made on 2026-06-18.",
+      "topic_tags": [
+        "human perception",
+        "speed",
+        "human logic"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student proposes, and Jiang accepts as plausible, that Dante's inversion puts the goal first because willing the end organizes the sequence that follows.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0016",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Classroom interpretation offered on 2026-06-18 and affirmed by Jiang as one valid reading.",
+      "topic_tags": [
+        "will",
+        "teleology",
+        "goal",
+        "interpretation"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0012"
+      ],
+      "moment": "Dante's line is read as if the arrow hits before it even leaves because paradise breaks sequence itself.",
+      "source_phrase": "I first hit my target, then I fly, then I leave",
+      "why_it_matters": "Jiang preserves the heat of the line by treating the disorder as revelatory rather than as a mistake in mechanics.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0016"
+      ],
+      "moment": "The end comes first: will and aim organize the path backward from the goal.",
+      "source_phrase": "where there's a will, there's a way",
+      "why_it_matters": "This supplies a second live model for the same Dante line, shifting the focus from speed to teleology.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "collapse of time",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0012",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0013"
+      ],
+      "definition_or_usage": "Jiang's explanation for poetic inversions in Paradise when events exceed ordinary temporal sequence and human perception.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0016"
+      ],
+      "note": "The student's teleological reading explicitly reaches back to a prior class phrase, 'where there's a will, there's a way,' showing that this lecture builds on an already ongoing conceptual thread rather than starting fresh.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0016"
+      ],
+      "note": "The student mentions being inspired by commentary, but the external source is unnamed and should not be treated as independently grounded evidence beyond the classroom exchange."
+    }
+  ]
+}
