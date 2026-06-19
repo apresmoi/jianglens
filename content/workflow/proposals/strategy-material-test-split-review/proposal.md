@@ -6,6 +6,32 @@ Status: first and second public splits completed; parent remains under active si
 Work type: atlas governance / concept-boundary proposal
 Public surface: `website/src/content/docs/lens/when-war-becomes-a-story-instead-of-a-material-test.md`
 
+## 2026-06-19 Post-Compression 81-Row Check
+
+Socrates asked whether Cassandra's fresh warning that `when-war-becomes-a-story-instead-of-a-material-test.md` is at 81 sources and about 5.8k words means a new bounded Strategy split/compression judgment, or whether it is still the same parent-compression pressure already handled by PR #1062 and PR #1063. The bounded answer is: **do not split Strategy now, and do not open another immediate public compression from this warning alone. Treat the signal as continuing generated provenance/navigation pressure after the parent compression, not as a new child trigger.**
+
+Fresh checks on synced `main` after PR #1065 give the current Strategy surface:
+
+- Authored Markdown file: about 5,149 words by `wc -w` on the current Markdown.
+- Raw Markdown `evidence="..."` attributes: 57, including lens-point evidence attributes.
+- Public doc evidence marks in `website/src/data/lens/link-index.json`: 45.
+- Stable lens-point anchors: 12.
+- Raw `video:*@transcript:v1` occurrences in the Markdown: 122.
+- Distinct local video slugs directly cited by the authored page: 15.
+- Generated `source_refs` pressure touching this page: 81 unique transcript refs across doc-evidence and lens-point surfaces, with 71 doc-evidence rows and 51 lens-point rows in the current link index.
+
+That means Cassandra's 81-source label is best read as generated provenance/navigation pressure, not as 81 distinct authored Jiang source slugs. The current direct checks show about 5,149 raw Markdown words, 15 distinct local video slugs, 81 unique compiled refs touching the page, 71 doc-evidence rows, and 51 lens-point rows. The page is below the soft 6,000-word watch line and below the ordinary authored-source watch line, and the June 19 public parent compression already shortened router prose while preserving all 12 stable anchors and 57 evidence attributes.
+
+Decision: **keep Strategy as the material-test parent and do not create another Strategy child today.** The correct split-or-compress call is "no split; no fresh public compression until there is new authored growth, clustered episode-link pressure, or a specific remaining section that fails replacement-compression." Strategy should not receive ordinary additive examples, but this warning alone does not justify reopening the just-compressed parent.
+
+Held child tests remain unchanged:
+
+1. **Spectacle And Optics Sacrificing The Board** only if the quick-victory / optics / spectacle cluster gathers at least four strong dated sources or clustered episode-to-lens links that need a narrower hover surface than the Strategy parent plus Stories / Screen-World.
+2. **War Form Makes Political Form** only if the military-form-to-political-form sequence becomes a repeated cross-domain mechanism beyond the current foundational Strategy section.
+3. **Dominance Versus Control** only if the dominance/control material grows beyond the current parent anchor pair and cannot be routed cleanly to No-Exit War, Game Theory, or Chokepoint.
+
+Boundary answer for Socrates: this is a **confirmation checkpoint**, not a new public mutation instruction. The page should remain under compression watch, but the next Plato run can return to pressure-ranked missing-impact intake or a different synthesis cue unless a later Strategy signal names a concrete uncompressed section or broken reader route.
+
 ## 2026-06-18 Strategy Fan-In Checkpoint
 
 Socrates asked whether Plato should take `when-war-becomes-a-story-instead-of-a-material-test.md` first after Cassandra reported the page at 52 sources and about 7.5k words, then framed the backlog choice as newest-gap intake, current-lane compression, or throughput pressure. The current audit also shows 79 historical missing corpus-impact records, but those are backlog pressure rather than a fresher mandatory intake. The live coordination cue is public-lens governance, so the bounded answer is: **compress a current lane by taking Strategy first as a split/compression judgment; do not prioritize another page, a historical newest-gap intake, or a throughput-only no-op ahead of this check.**
