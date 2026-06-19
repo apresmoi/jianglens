@@ -1,0 +1,247 @@
+{
+  "packet_id": "predictive-history-04ngqzyqgpw-semantics-pkt-0046",
+  "source_id": "video:predictive-history-04ngqzyqgpw",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0361",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0362"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang generalizes from the student's reaction to His Dark Materials and argues that art works by producing intense emotion, opening the person to implanted ideas, and slowly changing perception over time.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0363"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang extends the model to the Divine Comedy, saying it transformed Florence over about a century and helped generate Renaissance art because readers were changed and then made new works.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0364",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0365"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks why a heretical and church-critical poem was not banned, and Jiang treats the question as the right historical pressure point.",
+      "speaker_attribution": "Student question and Jiang acknowledgement",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0366",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0367",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0368"
+      ],
+      "kind": "exchange",
+      "summary": "Students and Jiang work toward the answer that truly inspired art could not be attacked without opposing God, with Leonardo and the Mona Lisa offered as an analogy.",
+      "speaker_attribution": "Students with Jiang-guided inference",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0366"
+      ],
+      "note": "The student's wording is heavily degraded by ASR, but the stable content is an attempted explanation that banning the poem would backfire because it had already entered cultural authority.",
+      "suggested_speaker": "Student",
+      "confidence": "low"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0367",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0368"
+      ],
+      "note": "The turn-taking is clipped around the Leonardo example, but the stable argumentative move is that inspired art is treated as divinely authorized rather than merely human production.",
+      "suggested_speaker": "Jiang plus student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says art is first of all an intense emotional experience that opens a person so ideas can enter and keep growing over time.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0361"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-06-17.",
+      "topic_tags": [
+        "art",
+        "emotion",
+        "ideas",
+        "transformation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the transformation produced by art is gradual and can change a person's perception of reality without them noticing it in the moment.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0361"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-06-17.",
+      "topic_tags": [
+        "transformation",
+        "perception",
+        "time",
+        "art"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Divine Comedy is proof of God because it can enter readers, fill them with faith, hope, and love, and transform how they see the world.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0362"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-06-17.",
+      "topic_tags": [
+        "Divine Comedy",
+        "God",
+        "faith",
+        "hope",
+        "love"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the Divine Comedy marked a radical turning point in European history because its beauty and truth slowly transformed readers and helped generate the Renaissance in Florence about a century later.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0362",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0363"
+      ],
+      "temporal_scope": "Historical interpretation stated on 2026-06-17.",
+      "topic_tags": [
+        "Renaissance",
+        "Florence",
+        "history",
+        "beauty",
+        "truth"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student raises the problem that if the Divine Comedy is heretical or critical of the Church, its survival requires an explanation.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0364",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0365"
+      ],
+      "temporal_scope": "Student question raised on 2026-06-17.",
+      "topic_tags": [
+        "heresy",
+        "Catholic Church",
+        "censorship",
+        "Divine Comedy"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "The exchange converges on the idea that destroying a truly inspired artwork would be experienced as acting against God, which helps explain why such art could be protected rather than banned.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0367",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0368"
+      ],
+      "temporal_scope": "Interpretive inference made in class on 2026-06-17.",
+      "topic_tags": [
+        "inspiration",
+        "God",
+        "art",
+        "censorship"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0361"
+      ],
+      "moment": "Jiang says art enters a person through emotion and then grows inside them like a virus until perception itself changes.",
+      "source_phrase": "it's almost like a virus that grows over time",
+      "why_it_matters": "It gives a vivid mechanism for aesthetic transformation that should survive into the public read.",
+      "tone": "metaphor",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0362"
+      ],
+      "moment": "The Divine Comedy is presented not as information about God but as an artwork that fills the reader with faith, hope, love, and God himself.",
+      "source_phrase": "it's meant to fill you with God",
+      "why_it_matters": "This is Jiang's strongest compression of why poetry can count as spiritual proof.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0368"
+      ],
+      "moment": "The class reaches for the idea that to destroy an artwork would be to go against God.",
+      "source_phrase": "it would go against God because they're like divinely inspired pieces of work",
+      "why_it_matters": "It links aesthetics, censorship, and divine authority in one compressed claim.",
+      "tone": "provocation",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "intense emotional experience",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0361"
+      ],
+      "definition_or_usage": "Jiang's baseline definition of art as an experience strong enough to open a person to transformation.",
+      "confidence": "high"
+    },
+    {
+      "term": "truth and beauty",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0362"
+      ],
+      "definition_or_usage": "The paired qualities Jiang says let the Divine Comedy move readers and alter history.",
+      "confidence": "high"
+    },
+    {
+      "term": "divinely inspired artwork",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0368"
+      ],
+      "definition_or_usage": "A work treated as carrying authority from God, which makes attacking it feel sacrilegious.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0361",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0363"
+      ],
+      "note": "On 2026-06-17 Jiang explicitly links personal aesthetic transformation to long historical transformation, arguing that the Divine Comedy incubated Florence and the Renaissance over roughly a century.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0366"
+      ],
+      "note": "ASR corruption makes the student's wording unstable, so the packet preserves only the general anti-censorship inference rather than a precise student argument."
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0367",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0368"
+      ],
+      "note": "The Leonardo example is clipped across speakers, so the extraction centers the stable claim about divine inspiration rather than the exact phrasing of the analogy."
+    }
+  ]
+}

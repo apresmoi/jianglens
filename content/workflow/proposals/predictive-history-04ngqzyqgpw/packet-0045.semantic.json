@@ -1,0 +1,226 @@
+{
+  "packet_id": "predictive-history-04ngqzyqgpw-semantics-pkt-0045",
+  "source_id": "video:predictive-history-04ngqzyqgpw",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0353",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0354"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang dismisses one example as not really art, accepts other examples, and settles on a student's mention of His Dark Materials as the concrete case to analyze.",
+      "speaker_attribution": "Jiang-guided selection of examples",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0355",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0356"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks why His Dark Materials changed the student, and the student answers with a personal account of being released from a heaven-versus-hell morality into a this-worldly responsibility for closure, initiative, and forgiveness.",
+      "speaker_attribution": "Jiang prompt and student testimony",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0357",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0358"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang names the student's account as a transformation of worldview and asks what in the artwork produced that change; the student says the story does not force a moral but lets the reader accompany the protagonist and empathize.",
+      "speaker_attribution": "Jiang prompt and student explanation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0359",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0360"
+      ],
+      "kind": "exchange",
+      "summary": "Another student extends the point by saying art names something previously unnameable in oneself, producing recognition and emotional resonance.",
+      "speaker_attribution": "Student comment after Jiang invitation",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0353",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0354"
+      ],
+      "note": "The example-selection exchange is clipped and includes corrections across speakers. The stable point is that Jiang chooses His Dark Materials as the usable case for transformation.",
+      "suggested_speaker": "Jiang plus students",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0356"
+      ],
+      "note": "The student's testimony is emotionally dense and includes a final phrase about needing to forgive and avenge herself; the extraction preserves the broader this-worldly responsibility claim without over-normalizing the tension.",
+      "suggested_speaker": "Student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang treats His Dark Materials as a useful example of art that genuinely changes a person's worldview.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0353",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0355"
+      ],
+      "temporal_scope": "Teaching move made on 2026-06-17.",
+      "topic_tags": [
+        "art",
+        "transformation",
+        "example"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "A student says reading His Dark Materials broke a vague Christian heaven-and-hell framework and replaced it with a more equal afterlife vision in which closure and responsibility must be found within this world.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0356"
+      ],
+      "temporal_scope": "Student personal testimony given on 2026-06-17.",
+      "topic_tags": [
+        "afterlife",
+        "Christianity",
+        "closure",
+        "responsibility"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies the student's experience as a transformation in worldview and self-perception rather than a minor opinion change.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0357"
+      ],
+      "temporal_scope": "Interpretive framing stated on 2026-06-17.",
+      "topic_tags": [
+        "transformation",
+        "worldview",
+        "self-perception"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The student says the artwork transforms because it does not impose a moral lesson directly but instead lets the reader follow the protagonist's journey and empathize.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0358"
+      ],
+      "temporal_scope": "Student explanation given on 2026-06-17.",
+      "topic_tags": [
+        "story",
+        "moral",
+        "journey",
+        "empathy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Another student says art changes a person by naming something previously unnameable inside them, producing recognition and resonance.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0360"
+      ],
+      "temporal_scope": "Student response given on 2026-06-17.",
+      "topic_tags": [
+        "naming",
+        "self-knowledge",
+        "resonance",
+        "art"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0356"
+      ],
+      "moment": "The student describes the book as both freeing and burdening: it removes the fantasy of cosmic payback and forces responsibility back into this world.",
+      "source_phrase": "it's like being freed and being burdened all at once",
+      "why_it_matters": "It shows art transforming not just taste but a moral-metaphysical outlook.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0358"
+      ],
+      "moment": "The student says the story works precisely because it does not force a moral but makes you travel with the protagonist until empathy forms on its own.",
+      "source_phrase": "it doesn't force a moral upon me",
+      "why_it_matters": "It gives a concrete account of how narrative changes belief without lecture or command.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0360"
+      ],
+      "moment": "Art is described as naming what used to be unnameable inside you.",
+      "source_phrase": "it names something in yourself that used to be unnameable",
+      "why_it_matters": "It crystallizes art as a mode of revelation rather than entertainment or argument.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "freed and burdened",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0356"
+      ],
+      "definition_or_usage": "The student's phrase for an artwork that removes inherited metaphysical comfort while imposing new this-worldly responsibility.",
+      "confidence": "high"
+    },
+    {
+      "term": "story",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0358"
+      ],
+      "definition_or_usage": "Here story means the narrative form that carries the reader through experience without overt moral coercion.",
+      "confidence": "high"
+    },
+    {
+      "term": "unnameable",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0360"
+      ],
+      "definition_or_usage": "The inner feeling or intuition art can articulate before a person has language for it themselves.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0356",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0360"
+      ],
+      "note": "On 2026-06-17 Jiang moves from defining art in the abstract to first-person evidence that stories can reconfigure worldview, responsibility, and self-recognition.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0353",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0354"
+      ],
+      "note": "The opening example selection is messy across speakers, so the packet avoids overcommitting to the exact sequence of titles and keeps the stable transition to His Dark Materials."
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0356"
+      ],
+      "note": "The student's closing phrase keeps tension between forgiveness and self-assertion; the extraction preserves the testimony's shift toward this-worldly agency without flattening that tension into a cleaner doctrine."
+    }
+  ]
+}
