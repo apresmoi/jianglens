@@ -1,0 +1,200 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0002",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0009",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0010"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the course by explaining that the class will begin with Paradise rather than Inferno, use a public website as the shared text, and ask why that unusual starting point matters later.",
+      "speaker_attribution": "Jiang lecture monologue after Carol's handoff",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0011",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0012",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0013"
+      ],
+      "kind": "question",
+      "summary": "Jiang asks for volunteer definitions of heaven, while staff gives microphone instructions and the first student describes heaven as harmony, fulfillment, and elevated feeling.",
+      "speaker_attribution": "Jiang prompting a student response, with a brief staff aside",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0014",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0015",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "A second student argues heaven would be exclusionary, stagnant, and individually constructed, and Jiang responds that this answer is too logical for the Dante exercise because the course requires intuition and imagination.",
+      "speaker_attribution": "Student answer followed by Jiang's corrective framing",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0012"
+      ],
+      "note": "The microphone instruction is not a substantive audience question; it is room logistics preceding the first student answer.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0015"
+      ],
+      "note": "ASR collapses the student's answer with light back-and-forth and a stray Q&A announcement, but the central argument about heaven as exclusion and stagnation remains recoverable.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang deliberately starts the Divine Comedy course with Paradise rather than Inferno, promising that the rationale will become clear over time.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Course-framing statement on 2026-06-17.",
+      "topic_tags": [
+        "Dante",
+        "Paradise",
+        "course design"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The course uses a public website as the shared reading interface and expects students to work directly from the displayed text.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Classroom format statement on 2026-06-17.",
+      "topic_tags": [
+        "website",
+        "pedagogy",
+        "text access"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "One student defines heaven as fulfillment, peace, harmony, and a felt destination where negative emotions disappear and the best of the self remains.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Student answer given on 2026-06-17.",
+      "topic_tags": [
+        "heaven",
+        "student response",
+        "fulfillment"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Another student argues that heaven would be exclusionary and stagnant because different religions imagine irreconcilable paradises and perfection leaves no room for change.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Student answer given on 2026-06-17.",
+      "topic_tags": [
+        "heaven",
+        "exclusion",
+        "stagnation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says a purely logical answer to heaven misses the point of reading Dante, because intuition and imagination rather than analytic reason lead toward the deeper truth of the poem.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Pedagogical claim on 2026-06-17.",
+      "topic_tags": [
+        "intuition",
+        "imagination",
+        "logic",
+        "Dante"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0010"
+      ],
+      "moment": "Jiang begins the Divine Comedy from Paradise first, turning the usual reading order into part of the lesson itself.",
+      "source_phrase": "we are actually start in part three",
+      "why_it_matters": "It signals that the class will rearrange inherited reading habits in order to see Dante's architecture differently.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0015",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016"
+      ],
+      "moment": "A student's skeptical heaven-as-stagnation answer becomes Jiang's first contrast between logical cleverness and the imaginative mode Dante demands.",
+      "source_phrase": "that's not the answer I want though",
+      "why_it_matters": "This is the opening pedagogical turn of the series: Dante will be read through imaginative participation rather than detached analysis.",
+      "tone": "challenge",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016"
+      ],
+      "moment": "Jiang says imagination leads to the true truth, not just exam-style reasoning.",
+      "source_phrase": "the imagination is what will lead you to the true truth",
+      "why_it_matters": "It gives the course its epistemic key before substantive interpretation begins.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "intuition and imagination",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "Jiang's preferred mode for entering Dante: a way of seeing that exceeds school-exam logic and reason.",
+      "confidence": "high"
+    },
+    {
+      "term": "Paradise",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0010"
+      ],
+      "definition_or_usage": "The third part of the Divine Comedy, chosen here as the course's opening point rather than its endpoint.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0010",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016"
+      ],
+      "note": "At the very start of the 2026-06-17 Dante series, Jiang sets the governing method: begin with Paradise and read by imagination rather than by purely analytic logic.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0010"
+      ],
+      "note": "ASR introduces obvious transcription noise in the book and translator names, but the structural claim about starting with Paradise and using the website is clear."
+    }
+  ]
+}
