@@ -6,26 +6,16 @@
     {
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0345",
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0347"
-      ],
-      "kind": "monologue",
-      "summary": "Jiang explains that each universe metaphor changes perception differently, then sketches what several options imply: energy as chaos, soul as fractal mirroring, cave as simulation, God as the mind or dream containing us, garden as divine cultivation, and factory as lawful machinery.",
-      "speaker_attribution": "Jiang",
-      "confidence": "high"
-    },
-    {
-      "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0346",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0347"
       ],
       "kind": "exchange",
-      "summary": "A student clarifies that the 'ball' metaphor means something like a crystal ball holding everything inside it, while Jiang tries to locate what kind of order that image implies.",
-      "speaker_attribution": "student clarification with Jiang response",
-      "confidence": "medium"
+      "summary": "Jiang explains that different universe-metaphors generate different worlds of meaning: energy implies chaos, soul implies a fractal mirror, cave implies simulation, and God implies living inside the mind of God. A student then clarifies the earlier ball metaphor as a crystal-ball simulacrum containing everything, and Jiang pivots to garden, factory, and body as more structured alternatives.",
+      "speaker_attribution": "Jiang interpretation with one student clarification",
+      "confidence": "high"
     },
     {
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0347",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0348",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0349",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0350",
@@ -33,104 +23,94 @@
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0352"
       ],
       "kind": "exchange",
-      "summary": "Jiang asks what a body signifies as a universe metaphor, and students answer that it means we are part of the universe, can reflect on it, contain everything within an organized whole, act through organs with distinct purposes, and may even map onto the body of Christ.",
-      "speaker_attribution": "Jiang-led discussion with multiple student answers",
+      "summary": "Prompted to say what makes 'body' a strong metaphor, students answer that it makes humans part of the universe, contains everything within one whole, organizes distinct organs toward shared purposes, allows the body to receive and enact ideas, and even evokes the body of Christ.",
+      "speaker_attribution": "student answers to Jiang's question",
       "confidence": "high"
     }
   ],
-  "speaker_notes": [],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0346"
+      ],
+      "note": "The student's clarification starts as a challenge to Jiang's 'simulation' gloss and lands on a crystal-ball image containing energy and everything within it.",
+      "suggested_speaker": "student",
+      "confidence": "medium"
+    }
+  ],
   "claims": [
     {
-      "claim": "Jiang explicitly says that the metaphor chosen for the universe changes how the universe is perceived.",
+      "claim": "Jiang says the governing metaphor changes how the universe is perceived, so cosmology depends on the image through which reality is imagined.",
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0345"
       ],
-      "temporal_scope": "Lecture method claim on 2026-06-17.",
+      "temporal_scope": "Lecture claim on 2026-06-17.",
       "topic_tags": [
         "metaphor",
         "perception",
-        "universe",
-        "method"
+        "cosmology"
       ],
       "claim_type": "model",
       "confidence": "high"
     },
     {
-      "claim": "Jiang says an energy metaphor makes the universe appear as chaos and randomness.",
+      "claim": "Jiang maps specific metaphor choices onto specific cosmologies: energy becomes chaos and randomness, soul becomes a fractal mirror of the whole, cave becomes simulation, and God becomes the mind or dream in which we live.",
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0345"
       ],
       "temporal_scope": "Lecture interpretation on 2026-06-17.",
       "topic_tags": [
-        "energy",
         "chaos",
-        "randomness",
-        "metaphor"
-      ],
-      "claim_type": "definition",
-      "confidence": "high"
-    },
-    {
-      "claim": "Jiang says a soul metaphor makes the universe fractal, with the human soul mirroring the entire cosmos.",
-      "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0345"
-      ],
-      "temporal_scope": "Lecture interpretation on 2026-06-17.",
-      "topic_tags": [
-        "soul",
         "fractal",
-        "mirror",
-        "universe"
-      ],
-      "claim_type": "model",
-      "confidence": "high"
-    },
-    {
-      "claim": "Jiang treats the cave metaphor as a simulation and the God metaphor as living inside the mind or dream of God.",
-      "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0345"
-      ],
-      "temporal_scope": "Lecture interpretation on 2026-06-17.",
-      "topic_tags": [
-        "cave",
         "simulation",
-        "God",
-        "dream"
+        "mind of God"
       ],
       "claim_type": "model",
       "confidence": "high"
     },
     {
-      "claim": "Jiang says the garden metaphor implies God as gardener who nurtures and cultivates us, while the factory metaphor implies a machine governed by laws.",
+      "claim": "Jiang reframes the garden metaphor as God acting as gardener, nurturing and cultivating creatures within the universe.",
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0347"
       ],
       "temporal_scope": "Lecture interpretation on 2026-06-17.",
       "topic_tags": [
         "garden",
-        "gardener",
+        "God",
+        "cultivation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang interprets the factory metaphor as a machine universe governed by stable laws.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0347"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-06-17.",
+      "topic_tags": [
         "factory",
+        "machine",
         "laws"
       ],
       "claim_type": "model",
       "confidence": "high"
     },
     {
-      "claim": "In the body metaphor, students and Jiang converge on the idea that we are really part of the universe, that its parts are interconnected, and that organs have distinct roles working together.",
+      "claim": "Students identify the body metaphor with participation in the whole, containment, interconnected roles, enactment of ideas, and possible Christian resonance through the body of Christ.",
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0347",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0348",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0349",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0350",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0351",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0352"
       ],
-      "temporal_scope": "Lecture discussion on 2026-06-17.",
+      "temporal_scope": "Student answers during the 2026-06-17 discussion.",
       "topic_tags": [
         "body",
         "interconnectedness",
         "role",
-        "universe"
+        "body of Christ"
       ],
       "claim_type": "model",
       "confidence": "high"
@@ -141,9 +121,9 @@
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0345"
       ],
-      "moment": "Jiang makes metaphor into ontology: whichever image you choose for the universe changes what sort of world you think you live in.",
-      "source_phrase": "depending on the metaphor you will perceive the universe in a different way",
-      "why_it_matters": "It is the packet's governing insight and explains why the brainstorm matters rather than functioning as classroom decoration.",
+      "moment": "Jiang states the governing principle outright: change the metaphor and you change the universe you think you are in.",
+      "source_phrase": "depending on the metaphor you will perceive the universe in the different way",
+      "why_it_matters": "This is the cleanest formulation of why the entire exercise matters; metaphor is not decoration here but world-building.",
       "tone": "definition",
       "confidence": "high"
     },
@@ -151,40 +131,56 @@
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0345"
       ],
-      "moment": "The soul image turns the cosmos into a fractal where the individual soul mirrors the whole universe.",
+      "moment": "The soul-metaphor becomes a fractal in which a single soul mirrors the entire universe.",
       "source_phrase": "your soul is a universe and then it mirrors the entire universe",
-      "why_it_matters": "It is Jiang's sharpest positive alternative to chaos and prepares the later move toward a body structured by meaning.",
+      "why_it_matters": "It preserves one of the packet's sharpest cosmological images and shows Jiang translating student suggestions into metaphysical consequences.",
       "tone": "image",
       "confidence": "high"
     },
     {
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0347",
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0348"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0345"
       ],
-      "moment": "The body metaphor becomes compelling because it means we are not outside the universe looking in; we are part of it and capable of reflecting within it.",
-      "source_phrase": "we are like really part of the universe and that we can also reflect",
-      "why_it_matters": "It preserves the interactive, self-implicating character of the body image before Jiang turns it into a full theory of purpose and intentionality.",
+      "moment": "A cave is flattened into simulation and God into the dream-mind that contains the world.",
+      "source_phrase": "a cave is basically just a simulation... we're living in a dream basically",
+      "why_it_matters": "It shows how quickly Jiang converts classical and theological images into modern ontological language.",
       "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0351"
+      ],
+      "moment": "A student makes the body metaphor dynamic by saying a body can receive ideas and enact them.",
+      "source_phrase": "a body can like receive ideas and then enact them",
+      "why_it_matters": "This adds agency and cognition to the body model, preparing Jiang's later move toward intentionality and design.",
+      "tone": "causal-chain",
       "confidence": "high"
     }
   ],
   "glossary_terms": [
     {
-      "term": "fractal soul",
+      "term": "fractal",
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0345"
       ],
-      "definition_or_usage": "Jiang's use of the soul metaphor to describe the universe as a mirrored pattern in which the soul contains the structure of the whole.",
+      "definition_or_usage": "Jiang's description of the soul-metaphor, where a single soul reproduces or mirrors the larger universe within itself.",
       "confidence": "high"
     },
     {
-      "term": "body metaphor",
+      "term": "simulation",
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0347",
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0350"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0345"
       ],
-      "definition_or_usage": "The universe understood as an organized living whole whose parts belong together, serve distinct purposes, and may act through a coordinating center.",
+      "definition_or_usage": "Jiang's gloss on the cave-metaphor: a reality that is not fully real in itself but a constructed appearance.",
+      "confidence": "high"
+    },
+    {
+      "term": "mind of God",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0345"
+      ],
+      "definition_or_usage": "Jiang's restatement of the God-metaphor for the universe as a dreamlike reality contained within divine consciousness.",
       "confidence": "high"
     }
   ],
@@ -194,7 +190,7 @@
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0345",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0352"
       ],
-      "note": "This packet performs the interpretive turn promised by the brainstorm: Jiang now sorts the candidate metaphors and begins to privilege the body image by extracting connection, role, and reflexivity from it.",
+      "note": "The packet moves from open brainstorming to interpretive sorting: Jiang first translates each proposed universe-metaphor into a worldview, then narrows the discussion toward the special force of the body metaphor that Dante actually uses.",
       "possible_update_to_prior_position": false,
       "confidence": "high"
     }
@@ -204,7 +200,7 @@
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0346"
       ],
-      "note": "The student's 'ball' clarification is semantically slippery, and Jiang himself sounds unsure how to classify it, so it should be kept as exploratory rather than stabilized into a strong lecture concept."
+      "note": "The student's crystal-ball clarification is somewhat noisy and should be treated as an effort to resist Jiang's 'simulation' label rather than as a fully settled alternative cosmology."
     }
   ]
 }
