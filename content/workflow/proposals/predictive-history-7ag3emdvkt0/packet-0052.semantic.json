@@ -6,22 +6,22 @@
     {
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0409",
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0410",
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0411"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0410"
       ],
       "kind": "exchange",
-      "summary": "Students probe two possible escape hatches, asking whether Dante is covertly criticizing the church or allowing for randomness and bad luck. Jiang does not accept either move and instead restates the problem through Dante's own assumptions.",
-      "speaker_attribution": "students questioning with Jiang redirect",
-      "confidence": "high"
+      "summary": "Students test two escape hatches for Piccarda's placement: whether Dante is criticizing the church and whether luck or randomness might explain her fate.",
+      "speaker_attribution": "student questions",
+      "confidence": "medium"
     },
     {
       "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0411",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0412",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0413"
       ],
       "kind": "exchange",
-      "summary": "A student gives the orthodox answer that Piccarda broke a vow and is therefore placed in the lowest sphere no matter the coercion, while Jiang objects that this makes God look plainly judgmental and fails to explain what she actually did wrong.",
-      "speaker_attribution": "student answer with Jiang challenge",
+      "summary": "Jiang asks whether Dante allows luck, a student restates the orthodox vow-breaking logic, and Jiang rejects that as morally insufficient because it makes God's judgment look incompatible with divine love and forgiveness.",
+      "speaker_attribution": "Jiang prompting with student answer and Jiang rebuttal",
       "confidence": "high"
     },
     {
@@ -31,94 +31,109 @@
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0416"
       ],
       "kind": "exchange",
-      "summary": "A student suggests Piccarda trapped herself by accepting that she belongs in the lower sphere. Jiang then pivots to the maxim 'where there is a will there is a way,' and another student uses Rapunzel to argue that genuine will would have found some route of escape, even at the cost of death.",
-      "speaker_attribution": "student responses with Jiang reframing",
+      "summary": "A student suggests Piccarda effectively forgave and confined herself to this sphere, but Jiang keeps the pressure on how she got there at all, then pivots to the proverb 'where there is a will there is a way,' prompting the class to interpret free will as active insistence rather than passive innocence.",
+      "speaker_attribution": "student answer with Jiang reframing",
       "confidence": "high"
     }
   ],
   "speaker_notes": [
     {
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0414"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0410"
       ],
-      "note": "The student's sentence is clipped by ASR, but the stable point is that Piccarda's present acceptance of the first sphere is being treated as a form of self-confinement rather than as mere divine sentencing.",
+      "note": "The seg-0410 question is noisy ASR and appears to be another student probing randomness or bad luck, not Jiang offering a settled position.",
       "suggested_speaker": "student",
       "confidence": "medium"
     }
   ],
   "claims": [
     {
-      "claim": "A student models Piccarda's placement as a straightforward consequence of breaking her vow of chastity, regardless of who forced the violation, because in God's eyes the promise was still broken.",
+      "claim": "Students probe whether Piccarda's placement should be read as criticism of the Christian church or as a matter of randomness and bad luck rather than moral failure.",
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0412"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0409",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0410"
       ],
-      "temporal_scope": "Student interpretation during the 2026-06-17 discussion.",
+      "temporal_scope": "Student questioning during the 2026-06-17 lecture.",
       "topic_tags": [
-        "vows",
-        "judgment",
-        "lowest sphere",
-        "coercion"
-      ],
-      "claim_type": "model",
-      "confidence": "high"
-    },
-    {
-      "claim": "Jiang argues that the vow-breaking explanation is inadequate because it turns God into an obviously judgmental allocator even though the class had just described God as all-forgiving and all-loving.",
-      "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0413"
-      ],
-      "temporal_scope": "Lecture diagnosis on 2026-06-17.",
-      "topic_tags": [
-        "God",
-        "forgiveness",
-        "judgment",
-        "paradox"
-      ],
-      "claim_type": "diagnosis",
-      "confidence": "high"
-    },
-    {
-      "claim": "A student suggests Piccarda's real problem is that she has accepted the lower sphere as her rightful place and confined herself to it.",
-      "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0414",
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0415"
-      ],
-      "temporal_scope": "Student interpretation during the 2026-06-17 discussion.",
-      "topic_tags": [
-        "self-confinement",
-        "contentment",
-        "Piccarda",
-        "acceptance"
+        "church critique",
+        "randomness",
+        "luck",
+        "Piccarda"
       ],
       "claim_type": "diagnosis",
       "confidence": "medium"
     },
     {
-      "claim": "Jiang reframes Piccarda's failure through the maxim 'where there is a will there is a way,' implying that the spiritual issue is not merely promise-breaking but the strength of will behind resistance.",
+      "claim": "Jiang explicitly opens the possibility that Dante includes luck or randomness in the moral picture, but only as a question that the class still has to work through.",
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0415"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0411"
       ],
-      "temporal_scope": "Lecture reframing on 2026-06-17.",
+      "temporal_scope": "Lecture prompt on 2026-06-17.",
       "topic_tags": [
-        "will",
-        "free will",
-        "resistance",
-        "Piccarda"
+        "Dante",
+        "luck",
+        "randomness",
+        "free will"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "A student argues that once a nun vows virginity forever, breaking that promise still counts against her in God's eyes no matter who forced it.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0412"
+      ],
+      "temporal_scope": "Student interpretation during the 2026-06-17 discussion.",
+      "topic_tags": [
+        "vow",
+        "virginity",
+        "promise",
+        "God"
       ],
       "claim_type": "model",
       "confidence": "high"
     },
     {
-      "claim": "A student uses Rapunzel as an analogy to argue that if Piccarda had truly willed escape, she could have found a way out and would at least have died honorably while trying.",
+      "claim": "Jiang rejects that explanation as inadequate because it makes the scene look plainly judgmental despite the class having just affirmed that God is all-loving, forgiving, and not petty.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0413"
+      ],
+      "temporal_scope": "Lecture rebuttal on 2026-06-17.",
+      "topic_tags": [
+        "God",
+        "forgiveness",
+        "judgment",
+        "Piccarda"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reframes Piccarda's apparent innocence into a question of will by insisting that she must have done something wrong and then introducing the proverb 'where there is a will there is a way.'",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0415"
+      ],
+      "temporal_scope": "Lecture pivot on 2026-06-17.",
+      "topic_tags": [
+        "will",
+        "free will",
+        "responsibility",
+        "proverb"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student interprets the proverb through Rapunzel: if someone truly wills escape, she should find a way out and would die honorably trying if necessary.",
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0416"
       ],
-      "temporal_scope": "Student analogy during the 2026-06-17 discussion.",
+      "temporal_scope": "Student interpretation during the 2026-06-17 discussion.",
       "topic_tags": [
         "Rapunzel",
-        "free will",
         "escape",
-        "honorable death"
+        "honorable death",
+        "will"
       ],
       "claim_type": "model",
       "confidence": "high"
@@ -129,9 +144,9 @@
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0413"
       ],
-      "moment": "Jiang collides the orthodox answer with the God the class had already described: all-loving suddenly looks unmistakably judgmental.",
-      "source_phrase": "all forgiving all loving ... this is clearly judgmental",
-      "why_it_matters": "It keeps the packet from collapsing into doctrinal bookkeeping and preserves the moral contradiction Jiang wants the class to feel.",
+      "moment": "Jiang throws the class's own theology back at the text: if God is all-loving and forgiving, Piccarda's treatment looks nakedly judgmental.",
+      "source_phrase": "this is clearly judgmental clearly she does nothing wrong why is she here",
+      "why_it_matters": "It keeps the packet from collapsing into formal vow-logic and preserves the emotional scandal Jiang wants the class to feel.",
       "tone": "provocation",
       "confidence": "high"
     },
@@ -139,20 +154,21 @@
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0415"
       ],
-      "moment": "Jiang turns the whole problem with Piccarda into the folk axiom 'where there is a will there is a way.'",
-      "source_phrase": "where there is a will there is a way",
-      "why_it_matters": "This is the pivot from sin-accounting to a stronger theory of will that will dominate the next packets.",
-      "tone": "definition",
+      "moment": "The discussion turns on Jiang's blunt insistence that innocence is not enough: if Piccarda is still here, she must have failed in will.",
+      "source_phrase": "she clearly did something wrong what was it",
+      "why_it_matters": "This is the packet's hinge from moral sympathy to the stronger Dantean theory of willing.",
+      "tone": "question",
       "confidence": "high"
     },
     {
       "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0415",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0416"
       ],
-      "moment": "The Rapunzel analogy makes the abstract free-will demand vivid: even dying while trying to escape would count as a truer use of will than passive surrender.",
-      "source_phrase": "like how rapunzel was stuck in the tower she escaped",
-      "why_it_matters": "It gives the class a memorable image for what Jiang thinks stronger will would look like under coercion.",
-      "tone": "image",
+      "moment": "Jiang imports a common proverb into Paradise so the class can test whether real will should generate an actual path of escape.",
+      "source_phrase": "where there is a will there is a way",
+      "why_it_matters": "It supplies the compact formula that structures the next sequence on manifestation, intention, and the universe bending to will.",
+      "tone": "definition",
       "confidence": "high"
     }
   ],
@@ -160,18 +176,19 @@
     {
       "term": "where there is a will there is a way",
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0415"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0415",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0416"
       ],
-      "definition_or_usage": "Jiang's pivot phrase for interpreting Piccarda's case through the intensity of will rather than through external punishment alone.",
+      "definition_or_usage": "The proverb Jiang uses to recast Piccarda's case as a test of whether genuine will should create or discover a path through coercion.",
       "confidence": "high"
     },
     {
-      "term": "self-confinement",
+      "term": "lowest sphere",
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0414",
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0415"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0412",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0414"
       ],
-      "definition_or_usage": "The idea that Piccarda's present acceptance of the first sphere may itself be part of the mechanism that keeps her there.",
+      "definition_or_usage": "The heavenly rank whose meaning the class is trying to explain: outward innocence is not enough to avoid it if the will remains deficient.",
       "confidence": "medium"
     }
   ],
@@ -181,7 +198,7 @@
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0409",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0416"
       ],
-      "note": "The discussion drops church-critique and luck as insufficient explanations, then pivots from a legal reading of broken vows toward a stronger question about whether Piccarda ever willed resistance hard enough for a path to appear.",
+      "note": "The discussion shifts from the theological paradox itself to the mechanism Jiang thinks explains it. Student appeals to church critique, luck, and formal vows give way to the stronger criterion of will: if she really wanted otherwise, some path should have appeared.",
       "possible_update_to_prior_position": false,
       "confidence": "high"
     }
@@ -189,10 +206,9 @@
   "uncertainty_notes": [
     {
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0410",
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0414"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0410"
       ],
-      "note": "Segments 0410 and 0414 are ASR-fragmented. Preserve only the stable ideas that a student raises bad luck as a possibility and another student treats Piccarda's present acceptance as part of the issue."
+      "note": "The ASR around the randomness/luck question is noisy. Preserve only the stable idea that a student is asking whether bad luck belongs in Dante's causal picture."
     }
   ]
 }
