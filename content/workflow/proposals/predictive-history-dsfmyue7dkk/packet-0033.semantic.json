@@ -1,0 +1,151 @@
+{
+  "packet_id": "predictive-history-dsfmyue7dkk-semantics-pkt-0033",
+  "source_id": "video:predictive-history-dsfmyue7dkk",
+  "source_date": "2026-06-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0257",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0258"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang glosses Adam's speech by saying Jesus saved Adam from inferno, then the class reads the passage where Adam insists language and even the divine name change over time.",
+      "speaker_attribution": "Jiang explanation followed by quoted reading",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0259",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0260",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0261",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0262",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0263",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0264"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks the class to identify the heresy, then explains that Adam's real offense is asserting that faith and the names of God change historically, which undermines the Church's claim to immutable continuity.",
+      "speaker_attribution": "Jiang-led question and discussion",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang interprets Adam's testimony to mean that Jesus saved Adam out of inferno after death.",
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0257"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-06-18.",
+      "topic_tags": [
+        "Adam",
+        "Jesus",
+        "inferno",
+        "salvation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies the heresy in Adam's speech as the claim that even the name of God changes over time rather than remaining fixed and immutable.",
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0258",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0259",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0261",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0263"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-06-18.",
+      "topic_tags": [
+        "heresy",
+        "name of God",
+        "change",
+        "faith"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that the Catholic Church insists on Christianity's constancy, whereas Adam says change is natural and faith itself can be changed.",
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0263"
+      ],
+      "temporal_scope": "Doctrinal contrast stated on 2026-06-18.",
+      "topic_tags": [
+        "Catholic Church",
+        "constancy",
+        "change",
+        "faith"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the deeper criterion is not fixed language or fixed formulas but a living connection to the divine.",
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0263"
+      ],
+      "temporal_scope": "Interpretive principle stated on 2026-06-18.",
+      "topic_tags": [
+        "divine",
+        "connection",
+        "faith",
+        "language"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student suggests the passage alludes to multiple older divine names in scripture, which supports Jiang's emphasis on instability in naming God.",
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0264"
+      ],
+      "temporal_scope": "Student interpretation voiced on 2026-06-18.",
+      "topic_tags": [
+        "Old Testament",
+        "divine names",
+        "student interpretation"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0263"
+      ],
+      "moment": "The heresy is not disbelief but mutability: faith changes, God's names change, and only the relation to the divine matters.",
+      "source_phrase": "Faith can be changed. What matters is your connection to the divine",
+      "why_it_matters": "This is the packet's cleanest doctrinal reversal and a likely anchor for the read.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "heresy",
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0259",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0263"
+      ],
+      "definition_or_usage": "Used here for Adam's challenge to the idea of an eternally fixed Christian language and unchanged divine naming.",
+      "confidence": "high"
+    },
+    {
+      "term": "connection to the divine",
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0263"
+      ],
+      "definition_or_usage": "Jiang's criterion for faith once rigid doctrinal consistency is stripped away.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0262"
+      ],
+      "note": "The student's short reply in seg-0262 is ASR-garbled, so the interpretation here rests on Jiang's clarifying answer rather than the exact wording of the student remark."
+    }
+  ]
+}
