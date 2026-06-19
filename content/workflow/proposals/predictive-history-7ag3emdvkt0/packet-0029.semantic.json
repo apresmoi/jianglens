@@ -1,0 +1,155 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0029",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0225",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0226"
+      ],
+      "kind": "exchange",
+      "summary": "A student distinguishes human beings from rocks and fire by saying humans can stray from cosmic order, and Jiang accepts the distinction only to restate his deeper question: why did God give that freedom at all?",
+      "speaker_attribution": "Student answer with Jiang reframing",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0227",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0228"
+      ],
+      "kind": "exchange",
+      "summary": "A student suggests God wants to experience free will from within humans, and Jiang pushes back that God already possesses total freedom and does not need creation for that purpose.",
+      "speaker_attribution": "Student speculation under Jiang correction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0229",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0230",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0231",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0232"
+      ],
+      "kind": "exchange",
+      "summary": "Another student reframes God less as experimenter than judge, but Jiang says the room is overthinking and turns to a parental analogy in which unconditional love is recognized by the fact that the child is genuinely free.",
+      "speaker_attribution": "Student proposal answered by Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0229",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0230"
+      ],
+      "note": "The brief interjection about whether God cares is fragmentary in the ASR, but it functions as a prompt that lets the next student continue the judge model.",
+      "suggested_speaker": "student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A student account under discussion says material things follow a fixed order while humans can stray from it, which is why humans rather than rocks or fire display free will.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0225"
+      ],
+      "temporal_scope": "Student explanation under discussion on 2026-06-17.",
+      "topic_tags": [
+        "order",
+        "free will",
+        "human difference"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects the idea that God grants human freedom because God wants to experience free will through us, insisting that God already has complete freedom as God.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0227",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0228"
+      ],
+      "temporal_scope": "Lecture correction on 2026-06-17.",
+      "topic_tags": [
+        "God",
+        "free will",
+        "immanence"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's positive turn is that the clearest sign of unconditional parental love is that the child can genuinely do what he wants, and he identifies that signal with free will.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0232"
+      ],
+      "temporal_scope": "Lecture model introduced on 2026-06-17.",
+      "topic_tags": [
+        "free will",
+        "love",
+        "parents",
+        "analogy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0232"
+      ],
+      "moment": "Jiang snaps the whole problem into a family image: the proof of love is that the child is free.",
+      "source_phrase": "You can do whatever you want. Exactly. Free will",
+      "why_it_matters": "This is the first compact positive account of why God gives freedom, and it will anchor the rest of the argument.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0232"
+      ],
+      "moment": "Jiang tells the class they are overcomplicating the question right before he reduces it to a child-parent signal anyone can feel.",
+      "source_phrase": "you're overthinking this. It's not that hard",
+      "why_it_matters": "The move marks a method shift from speculative metaphysics to an intuitive analogical model of divine love.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "order",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0225"
+      ],
+      "definition_or_usage": "The student uses Dante's idea of cosmic order to distinguish natural things that simply follow their path from humans who can stray and therefore need an account of free will.",
+      "confidence": "high"
+    },
+    {
+      "term": "unconditional love",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0232"
+      ],
+      "definition_or_usage": "Jiang introduces unconditional love through a parental analogy and identifies genuine freedom as the signal that such love is real.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0225",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0232"
+      ],
+      "note": "This packet is the hinge from elimination to construction: Jiang still rejects student theories, but by the end he offers the parental-love analogy as the lecture's first durable positive model of free will.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0231"
+      ],
+      "note": "The student's judge account is ASR-noisy and rhetorically tangled, but the core proposal is clear: free will is being treated as what makes true judgment possible."
+    }
+  ]
+}
