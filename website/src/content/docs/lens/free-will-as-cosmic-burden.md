@@ -147,6 +147,8 @@ That makes Piccarda's lower sphere a free-will problem, not a standalone Paradis
 
 The closing forgiveness exchange ties Paradiso back to Inferno and Purgatorio. Jesus matters because unconditional forgiveness answers the impossible problem of self-redemption when the person thinks he deserves his fate; [someone else may forgive you because you cannot forgive yourself]{evidence="video:predictive-history-xug-nsld8h4@transcript:v1#seg-0549"}. The person still has to [turn toward God because the trapped worldview cannot solve itself from inside]{evidence="video:predictive-history-xug-nsld8h4@transcript:v1#seg-0553"}, and Jiang finally compresses the doctrine: [hell is not forgiving yourself]{evidence="video:predictive-history-xug-nsld8h4@transcript:v1#seg-0557"}. The latest Dante layer therefore does not create a separate Paradise page. It closes the loop: hell, purgatory, and paradise are all scenes where free will decides whether the soul hides from love, cleanses itself for love, or accepts the love that was already there.
 
+The **2026-06-17** final Paradiso livestream sharpens the same boundary against obedience. Jiang contrasts a fear-based church world with Dante's claim that [God wants will, desire, and creative action rather than fear of punishment]{evidence="video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0253"}. A student names the reversal: Dante replaces fear of hellfire with the question of [what one's actions truly do]{evidence="video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0252"}. This belongs here because the controlling issue is agency. Human Heart owns the forgiveness practice that imagination makes possible; Poetry owns Dante's unseen-connection method; Free Will owns the spiritual burden of mattering. If every action can change the universe, obedience cannot be the highest form of freedom.
+
 ## The Inquisitor's Mercy
 
 Dostoevsky gives the political form of the problem.
@@ -171,7 +173,7 @@ Free will is captured when an institution keeps the language of freedom, love, a
 
 This is the darker twin of the Dante section. Dante's God does not bargain because love cannot coerce the will it saves. Paul's institutional Christianity, as Jiang presents it, makes the bargain total: obedience now, heaven later. Love itself becomes command. Jiang's compressed line is that [slavery is renamed love because Jesus loves you while enslaving you]{evidence="video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0107 video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0108"}. Augustine then closes the trap by defining heavenly freedom as a state where the will no longer even thinks of disobeying God; Jiang glosses that as [freedom meaning complete obedience]{evidence="video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0158 video:predictive-history-6xgac-oqcbu@transcript:v1#seg-0159"}.
 
-The boundary is important. This can touch eschatology because heaven and hell supply the reward and threat. It can touch bureaucracy because the Church becomes an institution. It can touch power-as-alchemy because language makes a new reality. But the free-will mechanism is the capture of agency itself: the soul's inner spark is not denied outright; it is translated into obedience and then praised as freedom.
+The boundary is important. This can touch eschatology because heaven and hell supply the reward and threat. It can touch bureaucracy because the Church becomes an institution. It can touch power-as-alchemy because language makes a new reality. But the free-will mechanism is the capture of agency itself: the soul's inner spark is not denied outright; it is translated into obedience and then praised as freedom. That is why the June 17 Dante layer stays in this parent page rather than becoming a separate anti-obedience page: it is the positive counterform to the same mechanism, where love releases will and imagination instead of renaming obedience as salvation.
 
 ## Anti-Love
 
@@ -199,6 +201,7 @@ This is the practical test. Does the system ask the person to become more alive,
 - **2026-04-29**, [Great Books #10: Hell Is the Imagination Turned Against Itself](/episodes/predictive-history-wgpdmya2bme/): Dante's Inferno gives the self-made hell version. Love expands imagination; blocked love and blocked self-forgiveness make hell; Cato shows that even love cannot force another person into redemption.
 - **2026-05-22**, [Great Books #11: Dante's Revolution](/episodes/predictive-history-otyupkhptym/): Purgatorio sharpens both sides. Free will is the power to curb love when desire tries to consume beauty, and the positive form is self-forgiveness, self-judgment, and love choosing cleansing before ascent.
 - **2026-06-15**, [Dante Livestream #1](/episodes/predictive-history-xug-nsld8h4/): Paradiso adds the latest visible Dante layer. God welcomes rather than assigns weights; Piccarda's station exposes fear-shaped desire; forgiveness restores agency where self-justification makes hell.
+- **2026-06-17**, [Dante Against Obedience](/episodes/predictive-history-04ngqzyqgpw/): Paradiso gives the positive anti-obedience layer. God wants will, desire, and creative action; the soul matters because its actions can change the universe, not because it has learned to fear punishment.
 
 ## Diagnostics
 
@@ -209,6 +212,7 @@ This is the practical test. Does the system ask the person to become more alive,
 - **Self-Made Hell**: Where has imagination turned inward because love, forgiveness, or self-forgiveness is blocked?
 - **Purgatory Test**: Where is the obstacle not external pardon but the person's refusal, fear, or unreadiness to forgive the self and choose cleansing?
 - **Paradiso Weight Test**: Where is a person treating rank, role, or station as assigned from outside when Jiang's reading would ask what the soul has willed, feared, accepted, or refused?
+- **Action-Matters Test**: Where does fear of punishment make obedience look holy, and where would Jiang's Dante ask what the person's action actually changes?
 - **Non-Coercive Love**: Where does rescue become a violation because the other person has to choose self-reflection and redemption?
 - **Truth-Becoming**: Where is truth treated as information to possess, and where does it require self-overcoming, moral action, and responsibility to others?
 - **No Endpoint**: Where does an institution, teacher, party, church, or ideology claim final arrival where Jiang's Asha would require becoming, correction, and return to others?
