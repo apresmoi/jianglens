@@ -1,0 +1,197 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0009",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0065",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0066",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0067"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang rejects further speculative guesses, elicits the right answer from the class, and clarifies that the third Dante is the writer or poet distinct from both the pilgrim protagonist and the historical person.",
+      "speaker_attribution": "Jiang seminar correction with student answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0067",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0068",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0069"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang pivots from the three-Dante distinction to a narrative question about the antagonist; a student answers Satan, and Jiang rejects it because the poem is in heaven.",
+      "speaker_attribution": "Jiang question with student guess and correction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0070",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0071",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "A student proposes that Dante's antagonist is his old self, Jiang affirms the answer, and the student explains that entry into heaven requires the death of the old self and emergence into a new mode of existence.",
+      "speaker_attribution": "Student answer with Jiang affirmation",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0067"
+      ],
+      "note": "This long segment compresses several student guesses together with Jiang's corrections before landing on 'the author' or 'the writer'; the exact micro-turn boundaries are approximate, but the argumentative sequence is clear.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0068"
+      ],
+      "note": "The ASR merges the student's single-word answer 'Satan' with Jiang's immediate reply 'Not Satan.'",
+      "suggested_speaker": "student then Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The correct third Dante is not the reader but the writer or poet, a figure Jiang distinguishes from both the pilgrim protagonist and the historical Dante.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Lecture clarification on 2026-06-17.",
+      "topic_tags": [
+        "three Dantes",
+        "writer",
+        "poet",
+        "narrative structure"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reframes Paradise as a drama with a protagonist and an antagonist, then uses that frame to ask what opposes Dante inside heaven.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Lecture framing move on 2026-06-17.",
+      "topic_tags": [
+        "protagonist",
+        "antagonist",
+        "Paradise",
+        "narrative method"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Satan cannot be the antagonist in this stretch because the action is in heaven, where Jiang says Satan is not present.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0068",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Lecture correction on 2026-06-17.",
+      "topic_tags": [
+        "Satan",
+        "heaven",
+        "antagonist",
+        "correction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student proposes that Dante's antagonist is his old self, the self he used to be before entering heaven.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Student answer offered on 2026-06-17.",
+      "topic_tags": [
+        "old self",
+        "antagonist",
+        "student answer",
+        "transformation"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "The student's explanation is that entering heaven makes Dante a new man, so he must die to his old self in order to attain a new form of pure existence.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Student explanation offered on 2026-06-17.",
+      "topic_tags": [
+        "new man",
+        "old self",
+        "heaven",
+        "pure existence"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0067"
+      ],
+      "moment": "Jiang snaps the seminar out of abstraction by naming the third Dante as the writer, the one who made the poem rather than merely lived or narrated it.",
+      "source_phrase": "The writer. The guy who wrote this thing",
+      "why_it_matters": "This is the structural hinge that lets Jiang separate protagonist, historical person, and composing poet instead of treating 'Dante' as one undifferentiated figure.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0070",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0072"
+      ],
+      "moment": "The real enemy in heaven is Dante's old self, which has to die for a new self to exist.",
+      "source_phrase": "his old self",
+      "why_it_matters": "It turns Paradise into an internal conflict rather than a battle against an external devil, which is a strong Jiang-style reversal of what an antagonist is.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "third Dante",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "Jiang's term for Dante as the writer or poet, distinct from both the pilgrim protagonist and the historical person.",
+      "confidence": "high"
+    },
+    {
+      "term": "old self",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0070",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "The earlier ego-bound self that must die for Dante to enter heavenly existence as a new man.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0067",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0072"
+      ],
+      "note": "This packet resolves the seminar's earlier confusion about the three Dantes and immediately extends that structure into a Paradise-specific model where the opposition is internal self-overcoming rather than an external satanic enemy.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0067"
+      ],
+      "note": "The ASR briefly introduces a garbled 'Holy Father, Holy Son' guess before Jiang rejects it; the exact student wording is noisy, but the substantive resolution is clear."
+    }
+  ]
+}
