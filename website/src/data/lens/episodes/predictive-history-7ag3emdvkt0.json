@@ -127,9 +127,2278 @@
       "content/workflow/proposals/predictive-history-7ag3emdvkt0/packet-0079.semantic.json",
       "content/workflow/proposals/predictive-history-7ag3emdvkt0/packet-0080.semantic.json"
     ],
-    "read": null
+    "read": "content/lens/episodes/predictive-history-7ag3emdvkt0/read.json"
   },
-  "read": null,
+  "read": {
+    "id": "episode-read:predictive-history-7ag3emdvkt0:v1",
+    "kind": "episode-read",
+    "schema_version": 2,
+    "source_id": "video:predictive-history-7ag3emdvkt0",
+    "slug": "predictive-history-7ag3emdvkt0",
+    "title": "Paradise Begins Where Logic Fails",
+    "subtitle": "A cleaned reading of Dante #1: Paradise Cantos 1-5",
+    "read_time": "13 min",
+    "editorial_mode": "distilled-lecture",
+    "voice_policy": "Direct argumentative prose derived from the live lecture. Preserve the seminar pressure, Jiang's reversals, and the existential stakes of reading Dante without flattening the source into a neutral literature summary.",
+    "trace_policy": "Paragraph-level transcript refs. Interpretive compression stays close to the lecture's actual claims, and real source questions remain grounded to spoken student exchanges.",
+    "dek": "Jiang opens the Dante series by doing something deliberately strange: he starts with Paradise, rejects the clever but dead answer, and says imagination is the road to truth. Heaven becomes not a reward screen but a training ground where paradox, memory failure, poetry, fear, agency, will, and forgiveness all have to be rethought.",
+    "thesis": "The lecture's first move is methodological: Paradise cannot be entered by AP-exam logic, only by an imagination willing to inhabit paradox. From there Jiang builds a larger model. Dante's heaven is unequal because free will has to be real. Poetry is both literal and metaphorical at once. The true antagonist is the old self ruled by ego and fear. Dante's fusion of Christian vision with Apollo, pagan symbol, and vernacular revolution helps launch a new world of individuality and imagination. By the back half of the class, that same framework is applied to Piccarda: fear is what traps the soul, good deeds cannot repair a fear-governed spirit from the outside, and hell is finally compressed into one brutal formula, not forgiving yourself.",
+    "source_notes": [
+      {
+        "text": "The source is a live Yale Center Beijing workshop dated 2026-06-17 and framed as the first day of a two-week Dante course. The room discussion and livestream questions matter because Jiang teaches this as a live seminar, not as a polished monologue.",
+        "refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0001",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0007",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0630",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0633"
+        ],
+        "refs_detail": [
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0001",
+            "segment_id": "seg-0001",
+            "start": 0,
+            "end": 71.94,
+            "time_label": "0:00",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Okay, good morning. We are live in Beijing. Welcome to our very first YouTube live stream. First, I would like to thank Carol of the Yale Beijing Center. She and her team have put everything together. It's been a fantas..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0007",
+            "segment_id": "seg-0007",
+            "start": 141.63,
+            "end": 201.29,
+            "time_label": "2:21",
+            "speaker": "SPEAKER_12",
+            "excerpt": "And like many parents, we wish to not only pass on our knowledge, but also to share it with the world. And not only pass on knowledge to the next generation, but also wisdom, a deeper understanding of what it means to b..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0630",
+            "segment_id": "seg-0630",
+            "start": 14488.69,
+            "end": 14553.3,
+            "time_label": "4:01:28",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Hell is not forgiving yourself. Yes, exactly. That's what hell literally is. Not forgiving yourself. And we'll see that when we actually go back and visit the inferno. Okay. All right. But it's important that we first s..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0633",
+            "segment_id": "seg-0633",
+            "start": 14619.02,
+            "end": 14650.4,
+            "time_label": "4:03:39",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Yes. Okay. Yes. No. Yeah. That's exactly right. Okay. All right. So that's... But like how Beatrice and Dante interact with each other. I hope that this can also be like that. Okay. Our classroom can also be one of cons..."
+          }
+        ],
+        "lens_points": [],
+        "lens_points_detail": []
+      },
+      {
+        "text": "The transcript is usable but contains some ASR duplication, damaged names, and compressed phrasing in the middle of the session. This read keeps the stable argumentative structure and avoids overcommitting to noisy local wording where the larger point is clear.",
+        "refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0050",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0170",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0530"
+        ],
+        "refs_detail": [
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0050",
+            "segment_id": "seg-0050",
+            "start": 1239.53,
+            "end": 1269.37,
+            "time_label": "20:39",
+            "speaker": "SPEAKER_05",
+            "excerpt": "heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven but he's in heaven and he's in heaven and..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0170",
+            "segment_id": "seg-0170",
+            "start": 4070.21,
+            "end": 4088.2,
+            "time_label": "1:07:50",
+            "speaker": "SPEAKER_15",
+            "excerpt": "is there any help helping me answer this question yeah so you're in heaven you're in spirit your body's not there you don't need to move your uh teeth move your meat trap to talk you can just boo, teletab 칣 out around"
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0530",
+            "segment_id": "seg-0530",
+            "start": 12525.64,
+            "end": 12604.14,
+            "time_label": "3:28:45",
+            "speaker": "SPEAKER_05",
+            "excerpt": "right um so we could be here like all day okay but but let me explain what the idea here is to understand what's going on i need to explain to you emmanuel pont's categorical imperative okay the category imperative by e..."
+          }
+        ],
+        "lens_points": [],
+        "lens_points_detail": []
+      }
+    ],
+    "opening": {
+      "heading": "Core Reading",
+      "text": "Start with the weirdest decision. Do not begin Dante with Inferno. Begin with Paradise. The point is not novelty for its own sake. The point is that heaven forces a different faculty. A merely logical answer makes heaven look stagnant, segregated, or privately fabricated. Jiang stops that move immediately and says Dante has to be read with intuition and imagination, because imagination is what leads to the true truth. Once that faculty is active, Paradise stops being a static reward chamber. It becomes a field of paradox: God is everywhere yet more here and less there, free will requires both heaven and hell, memory fails before the highest vision, and the soul rises only by losing the ego and fear that bind it to matter.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0010",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0015",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0021",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0031",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0035",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0040",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0049"
+      ],
+      "marks": [
+        {
+          "text": "the imagination is what will lead you to the true truth",
+          "refs": [
+            "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016"
+          ],
+          "refs_detail": [
+            {
+              "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016",
+              "segment_id": "seg-0016",
+              "start": 381.96,
+              "end": 412.33,
+              "time_label": "6:21",
+              "speaker": "SPEAKER_05",
+              "excerpt": "It is the ultimate expression of life -faith. Okay, so that's very interesting because to answer this question you're using logic and reason, and this is something that they might ask you to do on an AP literature exami..."
+            }
+          ],
+          "lens_points": [],
+          "lens_points_detail": []
+        },
+        {
+          "text": "God is everywhere yet more here and less there",
+          "refs": [
+            "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0031"
+          ],
+          "refs_detail": [
+            {
+              "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0031",
+              "segment_id": "seg-0031",
+              "start": 835.89,
+              "end": 871.79,
+              "time_label": "13:55",
+              "speaker": "SPEAKER_05",
+              "excerpt": "that there's inequality even in heaven yeah that's exactly correct okay that's a paradox god can be everywhere at once yet there are certain parts where he is more in certain parts there is less that is a contradiction..."
+            }
+          ],
+          "lens_points": [],
+          "lens_points_detail": []
+        },
+        {
+          "text": "free will requires both heaven and hell",
+          "refs": [
+            "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0035"
+          ],
+          "refs_detail": [
+            {
+              "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0035",
+              "segment_id": "seg-0035",
+              "start": 923.15,
+              "end": 937.13,
+              "time_label": "15:23",
+              "speaker": "SPEAKER_05",
+              "excerpt": "Yes that's the correct answer. Yes there has to be. If you are to allow for free will you must allow for heaven and hell to exist. Can you explain why? Because if everything is heaven then there is no free choice."
+            }
+          ],
+          "lens_points": [],
+          "lens_points_detail": []
+        }
+      ],
+      "refs_detail": [
+        {
+          "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0010",
+          "segment_id": "seg-0010",
+          "start": 210.47,
+          "end": 281.94,
+          "time_label": "3:30",
+          "speaker": "SPEAKER_05",
+          "excerpt": "books okay thank you so much okay so as you see from the screen we will be using this website that anyone can use it's all free the website address is there so the divine comedy is not into three parts inferno regulator..."
+        },
+        {
+          "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0015",
+          "segment_id": "seg-0015",
+          "start": 338.58,
+          "end": 381.78,
+          "time_label": "5:38",
+          "speaker": "SPEAKER_15",
+          "excerpt": "existence of heaven, or if by some chance it does exist, I do not believe in its ubiquity. Yeah, that's not the answer I want though. Yeah, well, that's a surprise because I didn't think that was the answer you want. If..."
+        },
+        {
+          "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016",
+          "segment_id": "seg-0016",
+          "start": 381.96,
+          "end": 412.33,
+          "time_label": "6:21",
+          "speaker": "SPEAKER_05",
+          "excerpt": "It is the ultimate expression of life -faith. Okay, so that's very interesting because to answer this question you're using logic and reason, and this is something that they might ask you to do on an AP literature exami..."
+        },
+        {
+          "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0021",
+          "segment_id": "seg-0021",
+          "start": 483.175,
+          "end": 502.29,
+          "time_label": "8:03",
+          "speaker": "SPEAKER_08",
+          "excerpt": "Hello, can you hear me? I think heaven is for us to meet God and to have a spiritual and intellectual connection with God and other divine forces. It's a place where we put down our ego and fear and engage in the act of..."
+        },
+        {
+          "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0031",
+          "segment_id": "seg-0031",
+          "start": 835.89,
+          "end": 871.79,
+          "time_label": "13:55",
+          "speaker": "SPEAKER_05",
+          "excerpt": "that there's inequality even in heaven yeah that's exactly correct okay that's a paradox god can be everywhere at once yet there are certain parts where he is more in certain parts there is less that is a contradiction..."
+        },
+        {
+          "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0035",
+          "segment_id": "seg-0035",
+          "start": 923.15,
+          "end": 937.13,
+          "time_label": "15:23",
+          "speaker": "SPEAKER_05",
+          "excerpt": "Yes that's the correct answer. Yes there has to be. If you are to allow for free will you must allow for heaven and hell to exist. Can you explain why? Because if everything is heaven then there is no free choice."
+        },
+        {
+          "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0040",
+          "segment_id": "seg-0040",
+          "start": 1040.23,
+          "end": 1058.03,
+          "time_label": "17:20",
+          "speaker": "SPEAKER_12",
+          "excerpt": "receives more of his light and I saw things that he who from that height descends forgets or cannot speak or nearing its desire and our intellect sinks into an abyss so deep that memory fails to follow it okay so what d..."
+        },
+        {
+          "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0049",
+          "segment_id": "seg-0049",
+          "start": 1183.87,
+          "end": 1239.53,
+          "time_label": "19:43",
+          "speaker": "SPEAKER_05",
+          "excerpt": "it's not okay so i would just think about this okay um he's flying but what's propelled him into flight is the imagination right because from that height um once you reach a certain height you either descend or you forg..."
+        }
+      ],
+      "lens_points": [],
+      "lens_points_detail": []
+    },
+    "beats": [
+      {
+        "id": "imagination-before-analysis",
+        "heading": "Imagination Before Analysis",
+        "time_range": "00:00-11:51",
+        "summary": "The seminar opens by asking what heaven is, then turns the first skeptical answer into a rule for the whole course: Dante cannot be read by clever exam logic alone.",
+        "refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0010",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0013",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0015",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0021",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0026"
+        ],
+        "paragraphs": [
+          {
+            "id": "imagination-before-analysis-001",
+            "text": "The class begins by collecting images of heaven from the room: harmony, fulfillment, God, intertwined love, ego surrendered, even Bruce Lee and luminous oceans. Jiang allows the extravagance because he wants the imagination heated up before Dante's own cosmology arrives. Paradise must first be felt as possibility, not reduced to doctrine or disbelief.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0013",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0017",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0019",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0021",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0023"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0013",
+                "segment_id": "seg-0013",
+                "start": 295.363,
+                "end": 331.318,
+                "time_label": "4:55",
+                "speaker": "SPEAKER_10",
+                "excerpt": "Yeah, continuously. Thanks. Heaven is a place of fulfillment, peace, and harmony where every entity can coexist. Negative feelings and behavior do not occur. We feel elevated by the fact that it feels like a destination..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0017",
+                "segment_id": "seg-0017",
+                "start": 412.35,
+                "end": 434.32,
+                "time_label": "6:52",
+                "speaker": "SPEAKER_02",
+                "excerpt": "Alright we have got someone here. Yes? To me, paradise is a place for eternal peace and happiness. There is no past and future, just eternal. Everyone there is full of meaning and purpose. The kind of joy and beauty in..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0019",
+                "segment_id": "seg-0019",
+                "start": 451.43,
+                "end": 470.89,
+                "time_label": "7:31",
+                "speaker": "SPEAKER_14",
+                "excerpt": "Christian that has a view of life everlasting in the presence of God, eternal life, singing and worshiping God and doing whatever you love most in your little house and make sure that God has rewarded you based on what..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0021",
+                "segment_id": "seg-0021",
+                "start": 483.175,
+                "end": 502.29,
+                "time_label": "8:03",
+                "speaker": "SPEAKER_08",
+                "excerpt": "Hello, can you hear me? I think heaven is for us to meet God and to have a spiritual and intellectual connection with God and other divine forces. It's a place where we put down our ego and fear and engage in the act of..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0023",
+                "segment_id": "seg-0023",
+                "start": 513.09,
+                "end": 552.93,
+                "time_label": "8:33",
+                "speaker": "SPEAKER_17",
+                "excerpt": "Kung Fu universe because I'm a big fan of Bruce Lee's Kung Fu and philosophy and then I could see my grandma and it would smell at me and embrace me into the arms and I also can see the tree -like stuffs and which can l..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          },
+          {
+            "id": "imagination-before-analysis-002",
+            "text": "The key correction comes when a student defines heaven as exclusion, stagnation, and an individualized construct. Jiang does not deny that the answer is intelligent. He rejects it because it is the wrong instrument. That is what one says on an AP literature exam. Dante requires a deeper risk: intuition and imagination strong enough to enter a world before dismantling it.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0015",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016"
+            ],
+            "marks": [
+              {
+                "text": "that's not the answer I want though",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0015"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0015",
+                    "segment_id": "seg-0015",
+                    "start": 338.58,
+                    "end": 381.78,
+                    "time_label": "5:38",
+                    "speaker": "SPEAKER_15",
+                    "excerpt": "existence of heaven, or if by some chance it does exist, I do not believe in its ubiquity. Yeah, that's not the answer I want though. Yeah, well, that's a surprise because I didn't think that was the answer you want. If..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "the imagination is what will lead you to the true truth",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016",
+                    "segment_id": "seg-0016",
+                    "start": 381.96,
+                    "end": 412.33,
+                    "time_label": "6:21",
+                    "speaker": "SPEAKER_05",
+                    "excerpt": "It is the ultimate expression of life -faith. Okay, so that's very interesting because to answer this question you're using logic and reason, and this is something that they might ask you to do on an AP literature exami..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0015",
+                "segment_id": "seg-0015",
+                "start": 338.58,
+                "end": 381.78,
+                "time_label": "5:38",
+                "speaker": "SPEAKER_15",
+                "excerpt": "existence of heaven, or if by some chance it does exist, I do not believe in its ubiquity. Yeah, that's not the answer I want though. Yeah, well, that's a surprise because I didn't think that was the answer you want. If..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016",
+                "segment_id": "seg-0016",
+                "start": 381.96,
+                "end": 412.33,
+                "time_label": "6:21",
+                "speaker": "SPEAKER_05",
+                "excerpt": "It is the ultimate expression of life -faith. Okay, so that's very interesting because to answer this question you're using logic and reason, and this is something that they might ask you to do on an AP literature exami..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          },
+          {
+            "id": "imagination-before-analysis-003",
+            "text": "That rule immediately changes the anthropology. Heaven is no longer mainly reward accounting. It is a condition in which ego and fear fall away, the material world loosens its grip, and love becomes a different form of intelligence. Jiang uses the students' own answers to establish this baseline before Dante's stricter architecture takes over.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0019",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0021",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0022",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0026"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0019",
+                "segment_id": "seg-0019",
+                "start": 451.43,
+                "end": 470.89,
+                "time_label": "7:31",
+                "speaker": "SPEAKER_14",
+                "excerpt": "Christian that has a view of life everlasting in the presence of God, eternal life, singing and worshiping God and doing whatever you love most in your little house and make sure that God has rewarded you based on what..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0021",
+                "segment_id": "seg-0021",
+                "start": 483.175,
+                "end": 502.29,
+                "time_label": "8:03",
+                "speaker": "SPEAKER_08",
+                "excerpt": "Hello, can you hear me? I think heaven is for us to meet God and to have a spiritual and intellectual connection with God and other divine forces. It's a place where we put down our ego and fear and engage in the act of..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0022",
+                "segment_id": "seg-0022",
+                "start": 502.45,
+                "end": 513.09,
+                "time_label": "8:22",
+                "speaker": "SPEAKER_05",
+                "excerpt": "bind us to this material world. Thank you. Yes? Oh, can you hear me? Okay. So if I were in heaven and maybe Bruce Lee would lead me into the"
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0026",
+                "segment_id": "seg-0026",
+                "start": 655.25,
+                "end": 699.03,
+                "time_label": "10:55",
+                "speaker": "SPEAKER_05",
+                "excerpt": "conception of the heavens is unique no one else has imagined heaven the way that Don D has and no one will probably ever imagine the way that he asked okay so what would it try to do these first two days is try to figur..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ],
+        "start": 0,
+        "refs_detail": [
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0010",
+            "segment_id": "seg-0010",
+            "start": 210.47,
+            "end": 281.94,
+            "time_label": "3:30",
+            "speaker": "SPEAKER_05",
+            "excerpt": "books okay thank you so much okay so as you see from the screen we will be using this website that anyone can use it's all free the website address is there so the divine comedy is not into three parts inferno regulator..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0013",
+            "segment_id": "seg-0013",
+            "start": 295.363,
+            "end": 331.318,
+            "time_label": "4:55",
+            "speaker": "SPEAKER_10",
+            "excerpt": "Yeah, continuously. Thanks. Heaven is a place of fulfillment, peace, and harmony where every entity can coexist. Negative feelings and behavior do not occur. We feel elevated by the fact that it feels like a destination..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0015",
+            "segment_id": "seg-0015",
+            "start": 338.58,
+            "end": 381.78,
+            "time_label": "5:38",
+            "speaker": "SPEAKER_15",
+            "excerpt": "existence of heaven, or if by some chance it does exist, I do not believe in its ubiquity. Yeah, that's not the answer I want though. Yeah, well, that's a surprise because I didn't think that was the answer you want. If..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0016",
+            "segment_id": "seg-0016",
+            "start": 381.96,
+            "end": 412.33,
+            "time_label": "6:21",
+            "speaker": "SPEAKER_05",
+            "excerpt": "It is the ultimate expression of life -faith. Okay, so that's very interesting because to answer this question you're using logic and reason, and this is something that they might ask you to do on an AP literature exami..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0021",
+            "segment_id": "seg-0021",
+            "start": 483.175,
+            "end": 502.29,
+            "time_label": "8:03",
+            "speaker": "SPEAKER_08",
+            "excerpt": "Hello, can you hear me? I think heaven is for us to meet God and to have a spiritual and intellectual connection with God and other divine forces. It's a place where we put down our ego and fear and engage in the act of..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0026",
+            "segment_id": "seg-0026",
+            "start": 655.25,
+            "end": 699.03,
+            "time_label": "10:55",
+            "speaker": "SPEAKER_05",
+            "excerpt": "conception of the heavens is unique no one else has imagined heaven the way that Don D has and no one will probably ever imagine the way that he asked okay so what would it try to do these first two days is try to figur..."
+          }
+        ]
+      },
+      {
+        "id": "paradox-memory-and-the-three-dantes",
+        "heading": "Paradox, Memory, And The Three Dantes",
+        "time_range": "11:52-28:03",
+        "summary": "Once the poem opens, paradox becomes the governing device and the real antagonist shifts inward: Dante must overcome the self that keeps him from God.",
+        "refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0028",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0031",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0035",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0040",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0049",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0050",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0067",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0073"
+        ],
+        "paragraphs": [
+          {
+            "id": "paradox-memory-and-the-three-dantes-001",
+            "text": "Jiang introduces Paradise through paradox, ambiguity, and economy. The first paradox is severe: if God's glory moves through everything, why does one place receive more and another less? Equality is not the structure of heaven. Difference is. The poem does not solve this by canceling paradox but by making the reader dwell inside it long enough for imagination to expand.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0028",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0031",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0039"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0028",
+                "segment_id": "seg-0028",
+                "start": 721.04,
+                "end": 784.18,
+                "time_label": "12:01",
+                "speaker": "SPEAKER_05",
+                "excerpt": "going to analyze these three lines but before i do so i want to introduce you to two literary concepts that we that we'll be using a lot uh when we analyze like comedy the first is the idea of paradox and this is actual..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0031",
+                "segment_id": "seg-0031",
+                "start": 835.89,
+                "end": 871.79,
+                "time_label": "13:55",
+                "speaker": "SPEAKER_05",
+                "excerpt": "that there's inequality even in heaven yeah that's exactly correct okay that's a paradox god can be everywhere at once yet there are certain parts where he is more in certain parts there is less that is a contradiction..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0039",
+                "segment_id": "seg-0039",
+                "start": 1007.84,
+                "end": 1040.23,
+                "time_label": "16:47",
+                "speaker": "SPEAKER_05",
+                "excerpt": "central paradox in the divine comedy why does heaven exist why does hell exist okay and it has to be with the will so keep this in the back of your mind okay these are paradoxes being created and only by deep reflection..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          },
+          {
+            "id": "paradox-memory-and-the-three-dantes-002",
+            "text": "Free will provides the next hinge. If everything were already heaven, there would be no real choice. Heaven and hell have to coexist for freedom to be meaningful. But this does not make Paradise easy. The higher the ascent, the more memory fails and language breaks. Vision outruns recall, and the poem becomes the effort to reconstruct what cannot fully be retained.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0035",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0040",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0051"
+            ],
+            "marks": [
+              {
+                "text": "memory fails to follow it",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0040"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0040",
+                    "segment_id": "seg-0040",
+                    "start": 1040.23,
+                    "end": 1058.03,
+                    "time_label": "17:20",
+                    "speaker": "SPEAKER_12",
+                    "excerpt": "receives more of his light and I saw things that he who from that height descends forgets or cannot speak or nearing its desire and our intellect sinks into an abyss so deep that memory fails to follow it okay so what d..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "the memory is a bird trying to catch this stone before it falls",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0051"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0051",
+                    "segment_id": "seg-0051",
+                    "start": 1269.61,
+                    "end": 1303.03,
+                    "time_label": "21:09",
+                    "speaker": "SPEAKER_05",
+                    "excerpt": "He wants to be with God, but then his intellect, the logic, sinks into an abyss. So think of a stone that falls into a hole. It's falling really fast. And the memory is a bird trying to catch this stone before it falls...."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0035",
+                "segment_id": "seg-0035",
+                "start": 923.15,
+                "end": 937.13,
+                "time_label": "15:23",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Yes that's the correct answer. Yes there has to be. If you are to allow for free will you must allow for heaven and hell to exist. Can you explain why? Because if everything is heaven then there is no free choice."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0040",
+                "segment_id": "seg-0040",
+                "start": 1040.23,
+                "end": 1058.03,
+                "time_label": "17:20",
+                "speaker": "SPEAKER_12",
+                "excerpt": "receives more of his light and I saw things that he who from that height descends forgets or cannot speak or nearing its desire and our intellect sinks into an abyss so deep that memory fails to follow it okay so what d..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0051",
+                "segment_id": "seg-0051",
+                "start": 1269.61,
+                "end": 1303.03,
+                "time_label": "21:09",
+                "speaker": "SPEAKER_05",
+                "excerpt": "He wants to be with God, but then his intellect, the logic, sinks into an abyss. So think of a stone that falls into a hole. It's falling really fast. And the memory is a bird trying to catch this stone before it falls...."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          },
+          {
+            "id": "paradox-memory-and-the-three-dantes-003",
+            "text": "That is why poetry matters. Dante is literally in heaven and metaphorically imagining heaven at the same time. Jiang insists on both levels simultaneously. Once the seminar reaches the three Dantes, the conflict turns inward. There is the historical Dante, the pilgrim Dante, and the writer Dante. The enemy is not Satan lurking outside the frame. It is the old self full of ego, fear, and doubt that has to die for ascent to occur.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0049",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0050",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0067",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0070",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0073"
+            ],
+            "marks": [
+              {
+                "text": "poetry is both literal and metaphorical at the same time",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0050"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0050",
+                    "segment_id": "seg-0050",
+                    "start": 1239.53,
+                    "end": 1269.37,
+                    "time_label": "20:39",
+                    "speaker": "SPEAKER_05",
+                    "excerpt": "heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven but he's in heaven and he's in heaven and..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "Dante will have to struggle with himself in order to let go of himself",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0073"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0073",
+                    "segment_id": "seg-0073",
+                    "start": 1534.65,
+                    "end": 1611.02,
+                    "time_label": "25:34",
+                    "speaker": "SPEAKER_05",
+                    "excerpt": "CAROL ANNE RIDDLE JR.: Yeah. So the idea here is that the conflict is between himself, OK? There is the Dante, the pilgrim, who is trying to see God, but there's Dante, the pilgrim, who has ego and fear and doubts, OK?..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0049",
+                "segment_id": "seg-0049",
+                "start": 1183.87,
+                "end": 1239.53,
+                "time_label": "19:43",
+                "speaker": "SPEAKER_05",
+                "excerpt": "it's not okay so i would just think about this okay um he's flying but what's propelled him into flight is the imagination right because from that height um once you reach a certain height you either descend or you forg..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0050",
+                "segment_id": "seg-0050",
+                "start": 1239.53,
+                "end": 1269.37,
+                "time_label": "20:39",
+                "speaker": "SPEAKER_05",
+                "excerpt": "heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven but he's in heaven and he's in heaven and..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0067",
+                "segment_id": "seg-0067",
+                "start": 1453.35,
+                "end": 1504.4,
+                "time_label": "24:13",
+                "speaker": "SPEAKER_05",
+                "excerpt": "CAROL ANNE RIDDLE JR.: The reader. No, we're the reader. So who's the third Dante? Maybe the Holy Father, Holy Son. CAROL ANNE RIDDLE JR.: No, no, no, no. Guys, this is not hard. There's a third Dante. Who is the third..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0070",
+                "segment_id": "seg-0070",
+                "start": 1519.56,
+                "end": 1521.68,
+                "time_label": "25:19",
+                "speaker": "SPEAKER_14",
+                "excerpt": "Maybe his old self or something that he used to."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0073",
+                "segment_id": "seg-0073",
+                "start": 1534.65,
+                "end": 1611.02,
+                "time_label": "25:34",
+                "speaker": "SPEAKER_05",
+                "excerpt": "CAROL ANNE RIDDLE JR.: Yeah. So the idea here is that the conflict is between himself, OK? There is the Dante, the pilgrim, who is trying to see God, but there's Dante, the pilgrim, who has ego and fear and doubts, OK?..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          }
+        ],
+        "start": 712,
+        "refs_detail": [
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0028",
+            "segment_id": "seg-0028",
+            "start": 721.04,
+            "end": 784.18,
+            "time_label": "12:01",
+            "speaker": "SPEAKER_05",
+            "excerpt": "going to analyze these three lines but before i do so i want to introduce you to two literary concepts that we that we'll be using a lot uh when we analyze like comedy the first is the idea of paradox and this is actual..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0031",
+            "segment_id": "seg-0031",
+            "start": 835.89,
+            "end": 871.79,
+            "time_label": "13:55",
+            "speaker": "SPEAKER_05",
+            "excerpt": "that there's inequality even in heaven yeah that's exactly correct okay that's a paradox god can be everywhere at once yet there are certain parts where he is more in certain parts there is less that is a contradiction..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0035",
+            "segment_id": "seg-0035",
+            "start": 923.15,
+            "end": 937.13,
+            "time_label": "15:23",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Yes that's the correct answer. Yes there has to be. If you are to allow for free will you must allow for heaven and hell to exist. Can you explain why? Because if everything is heaven then there is no free choice."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0040",
+            "segment_id": "seg-0040",
+            "start": 1040.23,
+            "end": 1058.03,
+            "time_label": "17:20",
+            "speaker": "SPEAKER_12",
+            "excerpt": "receives more of his light and I saw things that he who from that height descends forgets or cannot speak or nearing its desire and our intellect sinks into an abyss so deep that memory fails to follow it okay so what d..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0049",
+            "segment_id": "seg-0049",
+            "start": 1183.87,
+            "end": 1239.53,
+            "time_label": "19:43",
+            "speaker": "SPEAKER_05",
+            "excerpt": "it's not okay so i would just think about this okay um he's flying but what's propelled him into flight is the imagination right because from that height um once you reach a certain height you either descend or you forg..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0050",
+            "segment_id": "seg-0050",
+            "start": 1239.53,
+            "end": 1269.37,
+            "time_label": "20:39",
+            "speaker": "SPEAKER_05",
+            "excerpt": "heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven and he's in heaven but he's in heaven and he's in heaven and..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0067",
+            "segment_id": "seg-0067",
+            "start": 1453.35,
+            "end": 1504.4,
+            "time_label": "24:13",
+            "speaker": "SPEAKER_05",
+            "excerpt": "CAROL ANNE RIDDLE JR.: The reader. No, we're the reader. So who's the third Dante? Maybe the Holy Father, Holy Son. CAROL ANNE RIDDLE JR.: No, no, no, no. Guys, this is not hard. There's a third Dante. Who is the third..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0073",
+            "segment_id": "seg-0073",
+            "start": 1534.65,
+            "end": 1611.02,
+            "time_label": "25:34",
+            "speaker": "SPEAKER_05",
+            "excerpt": "CAROL ANNE RIDDLE JR.: Yeah. So the idea here is that the conflict is between himself, OK? There is the Dante, the pilgrim, who is trying to see God, but there's Dante, the pilgrim, who has ego and fear and doubts, OK?..."
+          }
+        ]
+      },
+      {
+        "id": "apollo-vernacular-and-the-revolution-of-imagination",
+        "heading": "Apollo, Vernacular, And The Revolution Of Imagination",
+        "time_range": "28:03-47:27",
+        "summary": "Dante's invocation of Apollo becomes a long argument about rebellion, synthesis, and why poetry activates imagination more powerfully than theology does.",
+        "refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0074",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0080",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0081",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0085",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0095",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0100",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0104",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0106"
+        ],
+        "paragraphs": [
+          {
+            "id": "apollo-vernacular-and-the-revolution-of-imagination-001",
+            "text": "The poet in exile is trying to remember a vision from twenty years earlier and must therefore invoke every available source of inspiration. This is where Apollo matters. The invocation is not decorative classicism. It is the Christian poet calling on a pagan god because heaven exceeds ordinary recollection and because poetry needs more than doctrinal correctness to carry vision.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0074",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0083",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0085"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0074",
+                "segment_id": "seg-0074",
+                "start": 1611.3,
+                "end": 1683.87,
+                "time_label": "26:51",
+                "speaker": "SPEAKER_05",
+                "excerpt": "And Dante, the poet, is sitting at home, wherever he is, he's actually in exile, and he's trying to remember and write down what he experienced 20 years ago. Does that make sense? And what he's saying is that what he ex..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0083",
+                "segment_id": "seg-0083",
+                "start": 2009.02,
+                "end": 2053.15,
+                "time_label": "33:29",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Okay, stop. Okay, good. So the thing about Divine Comedy is that there are a lot of allusions in here. Okay? So... What Dante's going to do is he's going to reference a lot of mythology surrounding Apollo. So Apollo had..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0085",
+                "segment_id": "seg-0085",
+                "start": 2065.62,
+                "end": 2074.36,
+                "time_label": "34:25",
+                "speaker": "SPEAKER_05",
+                "excerpt": "So again, this is paradoxical, where he is invoking Apollo in order to scry a Christian heaven. Okay? Keep on going."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          },
+          {
+            "id": "apollo-vernacular-and-the-revolution-of-imagination-002",
+            "text": "The political consequence is just as important. The Divine Comedy is written in Tuscan rather than Latin. Jiang treats that as an act of rebellion because it puts elite material into the vernacular and makes a common man the center of literature. Individuality, modernity, and Renaissance imagination are not side effects here. They are released by the form of the poem itself.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0080",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0081"
+            ],
+            "marks": [
+              {
+                "text": "it's an act of rebellion in many ways, it's an act of revolution",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0080"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0080",
+                    "segment_id": "seg-0080",
+                    "start": 1880.13,
+                    "end": 1935.2,
+                    "time_label": "31:20",
+                    "speaker": "SPEAKER_05",
+                    "excerpt": "And Latin is a secret language of the elite, right? And there you can invoke Apollo and it doesn't really matter. And then there is the vernacular, right? What people experience in everyday life. Okay? And that is heavi..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "this is not just a poem, it's an intellectual revolution",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0081"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0081",
+                    "segment_id": "seg-0081",
+                    "start": 1935.86,
+                    "end": 1997.38,
+                    "time_label": "32:15",
+                    "speaker": "SPEAKER_05",
+                    "excerpt": "Because the ideas in the Divine Comedy become central to modernity and the Renaissance. The other thing that's really important about art and popular culture at this time is there are no protagonists. Sorry. No, they ar..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0080",
+                "segment_id": "seg-0080",
+                "start": 1880.13,
+                "end": 1935.2,
+                "time_label": "31:20",
+                "speaker": "SPEAKER_05",
+                "excerpt": "And Latin is a secret language of the elite, right? And there you can invoke Apollo and it doesn't really matter. And then there is the vernacular, right? What people experience in everyday life. Okay? And that is heavi..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0081",
+                "segment_id": "seg-0081",
+                "start": 1935.86,
+                "end": 1997.38,
+                "time_label": "32:15",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Because the ideas in the Divine Comedy become central to modernity and the Renaissance. The other thing that's really important about art and popular culture at this time is there are no protagonists. Sorry. No, they ar..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          },
+          {
+            "id": "apollo-vernacular-and-the-revolution-of-imagination-003",
+            "text": "Jiang then pushes outward into a larger civilizational claim. Dante's greatness lies partly in his willingness to draw rigorously from different traditions rather than sealing truth inside one inherited vocabulary. The School of Athens becomes a downstream image of this permission. Theology explains religion, but poetry activates the imagination, and without activated imagination there is no ascent into the deeper architecture of reality.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0099",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0100",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0104",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0106"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0099",
+                "segment_id": "seg-0099",
+                "start": 2281.2,
+                "end": 2349.5,
+                "time_label": "38:01",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Yeah. Yeah. That's correct. Right? The idea is if you really want to know the truth, you have to be open -minded. But not only do you have to be open -minded, but you have to rigorously draw on from different traditions..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0100",
+                "segment_id": "seg-0100",
+                "start": 2349.5,
+                "end": 2395.82,
+                "time_label": "39:09",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Okay, look. The School of Athens, right, is drawing from all possible traditions. You just look at this painting, and we don't have time to look at this painting, but it's not just Christian thinkers. It's Muslim thinke..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0104",
+                "segment_id": "seg-0104",
+                "start": 2467.76,
+                "end": 2527.72,
+                "time_label": "41:07",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Yeah, exactly. So the major difference. The major difference between medieval art and Renaissance art is that with medieval art, you're trying to condition the Christian in a certain mentality, one of fear and humility,..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0106",
+                "segment_id": "seg-0106",
+                "start": 2557.48,
+                "end": 2627.7,
+                "time_label": "42:37",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Okay. All right. So a couple comments. First of all, let's start with precise morphology. He is not a theologian. He is a poet. This is poetry, not theology. Okay? There's a lot of theology, there's a lot of philosophy..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ],
+        "start": 1683,
+        "refs_detail": [
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0074",
+            "segment_id": "seg-0074",
+            "start": 1611.3,
+            "end": 1683.87,
+            "time_label": "26:51",
+            "speaker": "SPEAKER_05",
+            "excerpt": "And Dante, the poet, is sitting at home, wherever he is, he's actually in exile, and he's trying to remember and write down what he experienced 20 years ago. Does that make sense? And what he's saying is that what he ex..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0080",
+            "segment_id": "seg-0080",
+            "start": 1880.13,
+            "end": 1935.2,
+            "time_label": "31:20",
+            "speaker": "SPEAKER_05",
+            "excerpt": "And Latin is a secret language of the elite, right? And there you can invoke Apollo and it doesn't really matter. And then there is the vernacular, right? What people experience in everyday life. Okay? And that is heavi..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0081",
+            "segment_id": "seg-0081",
+            "start": 1935.86,
+            "end": 1997.38,
+            "time_label": "32:15",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Because the ideas in the Divine Comedy become central to modernity and the Renaissance. The other thing that's really important about art and popular culture at this time is there are no protagonists. Sorry. No, they ar..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0085",
+            "segment_id": "seg-0085",
+            "start": 2065.62,
+            "end": 2074.36,
+            "time_label": "34:25",
+            "speaker": "SPEAKER_05",
+            "excerpt": "So again, this is paradoxical, where he is invoking Apollo in order to scry a Christian heaven. Okay? Keep on going."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0095",
+            "segment_id": "seg-0095",
+            "start": 2203.05,
+            "end": 2207.05,
+            "time_label": "36:43",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Right. The problem, though, is that the Greeks didn't have a concept of heaven, right?"
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0100",
+            "segment_id": "seg-0100",
+            "start": 2349.5,
+            "end": 2395.82,
+            "time_label": "39:09",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Okay, look. The School of Athens, right, is drawing from all possible traditions. You just look at this painting, and we don't have time to look at this painting, but it's not just Christian thinkers. It's Muslim thinke..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0104",
+            "segment_id": "seg-0104",
+            "start": 2467.76,
+            "end": 2527.72,
+            "time_label": "41:07",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Yeah, exactly. So the major difference. The major difference between medieval art and Renaissance art is that with medieval art, you're trying to condition the Christian in a certain mentality, one of fear and humility,..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0106",
+            "segment_id": "seg-0106",
+            "start": 2557.48,
+            "end": 2627.7,
+            "time_label": "42:37",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Okay. All right. So a couple comments. First of all, let's start with precise morphology. He is not a theologian. He is a poet. This is poetry, not theology. Okay? There's a lot of theology, there's a lot of philosophy..."
+          }
+        ]
+      },
+      {
+        "id": "the-pagan-world-and-the-christian-break",
+        "heading": "The Pagan World And The Christian Break",
+        "time_range": "47:27-67:54",
+        "summary": "A symbolic reading of circles and crosses expands into a social theory: pagan life is fear, fertility, and low agency, while Christianity opens a different relation to history and selfhood.",
+        "refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0122",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0124",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0131",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0135",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0139",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0144",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0152"
+        ],
+        "paragraphs": [
+          {
+            "id": "the-pagan-world-and-the-christian-break-001",
+            "text": "When the class decodes the three crosses and four circles, the symbols become historical worlds. Paganism is not treated as colorful mythology. It is an agricultural condition of fear. If drought or storm can erase your crops, your life becomes appeasement, not authorship. Ambiguity rules because the gods are powerful, unstable, and never fully domesticated.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0122",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0124",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0131",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0135"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0122",
+                "segment_id": "seg-0122",
+                "start": 2844.2,
+                "end": 2916.48,
+                "time_label": "47:24",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Water, fire, earth, wind. Yes. That is a possibility. But the circles, it's four right? It's four elements. But what are the circles at? We think circle, what do you think? Spears right? Planets. Sun. Right? So four sun..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0124",
+                "segment_id": "seg-0124",
+                "start": 2918.11,
+                "end": 2966.46,
+                "time_label": "48:38",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Exactly, the pagan tradition, OK? So now we have a paradox. What's a pagan tradition doing with a Christian tradition? Christian tradition is clearly the three crosses. The four circles are clearly the pagan tradition...."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0131",
+                "segment_id": "seg-0131",
+                "start": 3050.2,
+                "end": 3056.74,
+                "time_label": "50:50",
+                "speaker": "SPEAKER_16",
+                "excerpt": "If you upset the gods, they have a drought or a huge rainstorm, and all of your crops are gone."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0135",
+                "segment_id": "seg-0135",
+                "start": 3079.16,
+                "end": 3085.88,
+                "time_label": "51:19",
+                "speaker": "SPEAKER_15",
+                "excerpt": "More essentially, I think, it's the ambiguity. You have to be comfortable with not knowing what the gods want to do to you."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          },
+          {
+            "id": "the-pagan-world-and-the-christian-break-002",
+            "text": "That fear has political consequences. In Jiang's compression, the pagan agricultural world has little agency, little individuality, and little room for creative mark-making. Christianity matters here not just because of doctrine but because it interrupts cyclical subordination. It offers a universe in which history moves, salvation is personal, and relation to God is no longer only ritual management of unstable powers.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0139",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0141",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0144",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0152"
+            ],
+            "marks": [
+              {
+                "text": "you have actually no agency right you have no individuality",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0139"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0139",
+                    "segment_id": "seg-0139",
+                    "start": 3102.36,
+                    "end": 3137.77,
+                    "time_label": "51:42",
+                    "speaker": "SPEAKER_05",
+                    "excerpt": "and conservatives right so the reality is that in the pagan agricultural world okay where the focus is on fertility you have actually no agency right you have no individuality life is passive for you okay it's not about..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0139",
+                "segment_id": "seg-0139",
+                "start": 3102.36,
+                "end": 3137.77,
+                "time_label": "51:42",
+                "speaker": "SPEAKER_05",
+                "excerpt": "and conservatives right so the reality is that in the pagan agricultural world okay where the focus is on fertility you have actually no agency right you have no individuality life is passive for you okay it's not about..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0141",
+                "segment_id": "seg-0141",
+                "start": 3154.25,
+                "end": 3194.18,
+                "time_label": "52:34",
+                "speaker": "SPEAKER_05",
+                "excerpt": "humility so how is that different okay that's a good question so we're talking about medieval christian europe in the year 1300 right but this is referring to jesus at the time of his crucifixion which is about the year..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0144",
+                "segment_id": "seg-0144",
+                "start": 3289.05,
+                "end": 3317.42,
+                "time_label": "54:49",
+                "speaker": "SPEAKER_05",
+                "excerpt": "okay with Jesus the circle now becomes a line right the circle becomes a line so when you put together the four circles and the three crosses you get a new beginning of human history in which the individual matters now..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0152",
+                "segment_id": "seg-0152",
+                "start": 3562.94,
+                "end": 3615.29,
+                "time_label": "59:22",
+                "speaker": "SPEAKER_05",
+                "excerpt": "confusing about the divine comedy is that different universes are existing parallel with each other right so there is the of the Greeks right where a pole is a Sun now he's switching to the Christian universe where God..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          },
+          {
+            "id": "the-pagan-world-and-the-christian-break-003",
+            "text": "This is also where Dante's cosmology widens. Heaven is not the cancellation of inquiry. It is another world with structure, hierarchy, and intelligibility. The soul is still trying to discover the organizing principle of the universe, which means religious vision and philosophical questioning remain fused rather than separated.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0178",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0181",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0182"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0178",
+                "segment_id": "seg-0178",
+                "start": 4330.55,
+                "end": 4374.35,
+                "time_label": "1:12:10",
+                "speaker": "SPEAKER_05",
+                "excerpt": "stay can i stay to me i belong in this realm yeah how does this realm work yeah how did i get up there yeah like it's like this first thing like we're in a new universe it raises all sorts of different questions okay an..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0181",
+                "segment_id": "seg-0181",
+                "start": 4420.13,
+                "end": 4493.35,
+                "time_label": "1:13:40",
+                "speaker": "SPEAKER_12",
+                "excerpt": "she settled her eyes on me with the same look a mother casts upon a raiding child and she began all things among themselves possess an order and this order is the form that makes the universe like god here do the higher..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0182",
+                "segment_id": "seg-0182",
+                "start": 4493.73,
+                "end": 4522.05,
+                "time_label": "1:14:53",
+                "speaker": "SPEAKER_05",
+                "excerpt": "And God permeates the entire universe and touches all. And there is a logic, a reason, a coherence to the universe. What Dante's going to do is try to figure out what this logic is. What is the organizing principle of t..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ],
+        "start": 2847,
+        "refs_detail": [
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0122",
+            "segment_id": "seg-0122",
+            "start": 2844.2,
+            "end": 2916.48,
+            "time_label": "47:24",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Water, fire, earth, wind. Yes. That is a possibility. But the circles, it's four right? It's four elements. But what are the circles at? We think circle, what do you think? Spears right? Planets. Sun. Right? So four sun..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0124",
+            "segment_id": "seg-0124",
+            "start": 2918.11,
+            "end": 2966.46,
+            "time_label": "48:38",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Exactly, the pagan tradition, OK? So now we have a paradox. What's a pagan tradition doing with a Christian tradition? Christian tradition is clearly the three crosses. The four circles are clearly the pagan tradition...."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0131",
+            "segment_id": "seg-0131",
+            "start": 3050.2,
+            "end": 3056.74,
+            "time_label": "50:50",
+            "speaker": "SPEAKER_16",
+            "excerpt": "If you upset the gods, they have a drought or a huge rainstorm, and all of your crops are gone."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0135",
+            "segment_id": "seg-0135",
+            "start": 3079.16,
+            "end": 3085.88,
+            "time_label": "51:19",
+            "speaker": "SPEAKER_15",
+            "excerpt": "More essentially, I think, it's the ambiguity. You have to be comfortable with not knowing what the gods want to do to you."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0139",
+            "segment_id": "seg-0139",
+            "start": 3102.36,
+            "end": 3137.77,
+            "time_label": "51:42",
+            "speaker": "SPEAKER_05",
+            "excerpt": "and conservatives right so the reality is that in the pagan agricultural world okay where the focus is on fertility you have actually no agency right you have no individuality life is passive for you okay it's not about..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0144",
+            "segment_id": "seg-0144",
+            "start": 3289.05,
+            "end": 3317.42,
+            "time_label": "54:49",
+            "speaker": "SPEAKER_05",
+            "excerpt": "okay with Jesus the circle now becomes a line right the circle becomes a line so when you put together the four circles and the three crosses you get a new beginning of human history in which the individual matters now..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0152",
+            "segment_id": "seg-0152",
+            "start": 3562.94,
+            "end": 3615.29,
+            "time_label": "59:22",
+            "speaker": "SPEAKER_05",
+            "excerpt": "confusing about the divine comedy is that different universes are existing parallel with each other right so there is the of the Greeks right where a pole is a Sun now he's switching to the Christian universe where God..."
+          }
+        ]
+      },
+      {
+        "id": "logic-is-chains-heaven-is-still-a-journey",
+        "heading": "Logic Is Chains, Heaven Is Still A Journey",
+        "time_range": "67:55-91:28",
+        "summary": "A student asks why logic is not needed in heaven, and Jiang answers by recoding logic as a local disciplinary tool rather than the deepest organ of truth.",
+        "refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0169",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0172",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0174",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0175",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0178",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0180"
+        ],
+        "paragraphs": [
+          {
+            "id": "logic-is-chains-heaven-is-still-a-journey-001",
+            "text": "One of the best seminar turns comes from a student's innocent question: if heaven has communication and understanding, why would logic not still be necessary there? Jiang's answer is not anti-thinking in a simple sense. It is anti-domination by one mode of thought. Logic helps pass tests, sort behavior, and stabilize the local social world, but that does not mean it exhausts reality.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0169",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0172",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0174"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0169",
+                "segment_id": "seg-0169",
+                "start": 4038.72,
+                "end": 4067.77,
+                "time_label": "1:07:18",
+                "speaker": "SPEAKER_09",
+                "excerpt": "because it gets harder and harder okay well yes well I have a quite innocent question I just feel curious like why there is no need for logic in the habit because it seems like in order maybe for communication in the wo..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0172",
+                "segment_id": "seg-0172",
+                "start": 4110.42,
+                "end": 4117.94,
+                "time_label": "1:08:30",
+                "speaker": "SPEAKER_15",
+                "excerpt": "Yeah, that's exactly the point. You don't have to make people agree with you. You can just think about it, and everyone will understand what you mean."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0174",
+                "segment_id": "seg-0174",
+                "start": 4133.01,
+                "end": 4205.19,
+                "time_label": "1:08:53",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Okay, all right, so let me answer your question, okay? Because this is a question that most high school students are gonna have. If you're in high school, logic does matter. Could be you have to take tests, okay? But th..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          },
+          {
+            "id": "logic-is-chains-heaven-is-still-a-journey-002",
+            "text": "The contrast is vivid. Logic is chains. Imagination is a bird. To understand God, the mind has to stop behaving like a test-taking machine and learn to float. This does not abolish order. It relocates order. Heaven has structure, but it is not structured for the convenience of bodily, institutional, or exam-based thinking.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0174",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0175",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0180",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0181"
+            ],
+            "marks": [
+              {
+                "text": "logic are chains",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0174"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0174",
+                    "segment_id": "seg-0174",
+                    "start": 4133.01,
+                    "end": 4205.19,
+                    "time_label": "1:08:53",
+                    "speaker": "SPEAKER_05",
+                    "excerpt": "Okay, all right, so let me answer your question, okay? Because this is a question that most high school students are gonna have. If you're in high school, logic does matter. Could be you have to take tests, okay? But th..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "your mind has become almost like a bird",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0175"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0175",
+                    "segment_id": "seg-0175",
+                    "start": 4205.19,
+                    "end": 4219.99,
+                    "time_label": "1:10:05",
+                    "speaker": "SPEAKER_05",
+                    "excerpt": "a bird that can float around everywhere, and so to truly understand God, to understand dichromedy, your mind has become almost like a bird, just fly around and follow your intuition, okay?"
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0174",
+                "segment_id": "seg-0174",
+                "start": 4133.01,
+                "end": 4205.19,
+                "time_label": "1:08:53",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Okay, all right, so let me answer your question, okay? Because this is a question that most high school students are gonna have. If you're in high school, logic does matter. Could be you have to take tests, okay? But th..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0175",
+                "segment_id": "seg-0175",
+                "start": 4205.19,
+                "end": 4219.99,
+                "time_label": "1:10:05",
+                "speaker": "SPEAKER_05",
+                "excerpt": "a bird that can float around everywhere, and so to truly understand God, to understand dichromedy, your mind has become almost like a bird, just fly around and follow your intuition, okay?"
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0180",
+                "segment_id": "seg-0180",
+                "start": 4389.08,
+                "end": 4419.51,
+                "time_label": "1:13:09",
+                "speaker": "SPEAKER_05",
+                "excerpt": "because you're flying from the cosmos and he's like why am i flying right he's completely confused by what's going on but but again what was important to understand is that there is no time and space in this universe ti..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0181",
+                "segment_id": "seg-0181",
+                "start": 4420.13,
+                "end": 4493.35,
+                "time_label": "1:13:40",
+                "speaker": "SPEAKER_12",
+                "excerpt": "she settled her eyes on me with the same look a mother casts upon a raiding child and she began all things among themselves possess an order and this order is the form that makes the universe like god here do the higher..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          },
+          {
+            "id": "logic-is-chains-heaven-is-still-a-journey-003",
+            "text": "The payoff is that Paradise itself remains dynamic. It is not perfection in the dead sense and not the end of questioning. It is another journey. Dante keeps asking how this realm works, why he rises, how order holds, and what kind of motion love and intelligence obey. Jiang keeps the room inside that confusion on purpose.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0177",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0178",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0179",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0182"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0177",
+                "segment_id": "seg-0177",
+                "start": 4239.18,
+                "end": 4330.55,
+                "time_label": "1:10:39",
+                "speaker": "SPEAKER_05",
+                "excerpt": "such great wonder i rested great sorry sorry i'm sorry okay all right so um what while i was preaching my first thought down by these brief words she smiled to me i was yet caught in new perplexity okay so what is his f..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0178",
+                "segment_id": "seg-0178",
+                "start": 4330.55,
+                "end": 4374.35,
+                "time_label": "1:12:10",
+                "speaker": "SPEAKER_05",
+                "excerpt": "stay can i stay to me i belong in this realm yeah how does this realm work yeah how did i get up there yeah like it's like this first thing like we're in a new universe it raises all sorts of different questions okay an..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0179",
+                "segment_id": "seg-0179",
+                "start": 4374.35,
+                "end": 4389.08,
+                "time_label": "1:12:54",
+                "speaker": "SPEAKER_12",
+                "excerpt": "uh carol sure i said i was content already after such great wonder i rested but again i wonder how my body rises past these lighter bodies okay so how this universe works right"
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0182",
+                "segment_id": "seg-0182",
+                "start": 4493.73,
+                "end": 4522.05,
+                "time_label": "1:14:53",
+                "speaker": "SPEAKER_05",
+                "excerpt": "And God permeates the entire universe and touches all. And there is a logic, a reason, a coherence to the universe. What Dante's going to do is try to figure out what this logic is. What is the organizing principle of t..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ],
+        "start": 4075,
+        "refs_detail": [
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0169",
+            "segment_id": "seg-0169",
+            "start": 4038.72,
+            "end": 4067.77,
+            "time_label": "1:07:18",
+            "speaker": "SPEAKER_09",
+            "excerpt": "because it gets harder and harder okay well yes well I have a quite innocent question I just feel curious like why there is no need for logic in the habit because it seems like in order maybe for communication in the wo..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0172",
+            "segment_id": "seg-0172",
+            "start": 4110.42,
+            "end": 4117.94,
+            "time_label": "1:08:30",
+            "speaker": "SPEAKER_15",
+            "excerpt": "Yeah, that's exactly the point. You don't have to make people agree with you. You can just think about it, and everyone will understand what you mean."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0174",
+            "segment_id": "seg-0174",
+            "start": 4133.01,
+            "end": 4205.19,
+            "time_label": "1:08:53",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Okay, all right, so let me answer your question, okay? Because this is a question that most high school students are gonna have. If you're in high school, logic does matter. Could be you have to take tests, okay? But th..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0175",
+            "segment_id": "seg-0175",
+            "start": 4205.19,
+            "end": 4219.99,
+            "time_label": "1:10:05",
+            "speaker": "SPEAKER_05",
+            "excerpt": "a bird that can float around everywhere, and so to truly understand God, to understand dichromedy, your mind has become almost like a bird, just fly around and follow your intuition, okay?"
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0178",
+            "segment_id": "seg-0178",
+            "start": 4330.55,
+            "end": 4374.35,
+            "time_label": "1:12:10",
+            "speaker": "SPEAKER_05",
+            "excerpt": "stay can i stay to me i belong in this realm yeah how does this realm work yeah how did i get up there yeah like it's like this first thing like we're in a new universe it raises all sorts of different questions okay an..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0180",
+            "segment_id": "seg-0180",
+            "start": 4389.08,
+            "end": 4419.51,
+            "time_label": "1:13:09",
+            "speaker": "SPEAKER_05",
+            "excerpt": "because you're flying from the cosmos and he's like why am i flying right he's completely confused by what's going on but but again what was important to understand is that there is no time and space in this universe ti..."
+          }
+        ]
+      },
+      {
+        "id": "piccarda-fear-will-and-forgiveness",
+        "heading": "Piccarda, Fear, Will, And Forgiveness",
+        "time_range": "91:29-244:10",
+        "summary": "The latter half of the lecture applies the whole cosmology to one soul: fear, not mere circumstance, is what keeps Piccarda from advancing, and the final answer leads to forgiveness and hell as self-imprisonment.",
+        "refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0429",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0435",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0445",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0511",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0523",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0526",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0612",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0620",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0630"
+        ],
+        "paragraphs": [
+          {
+            "id": "piccarda-fear-will-and-forgiveness-001",
+            "text": "The Piccarda discussion is where Jiang turns cosmology into spiritual psychology. The issue is not whether soldiers were frightening or whether external coercion existed. The issue is that fear lodged itself inside the will. Piccarda did not simply suffer violence. She internalized the belief that fear should rule her relation to God, and that is why she remains stuck.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0431",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0434",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0435",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0439"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0431",
+                "segment_id": "seg-0431",
+                "start": 10016.3,
+                "end": 10054.05,
+                "time_label": "2:46:56",
+                "speaker": "SPEAKER_05",
+                "excerpt": "into this okay you're picarda okay you're in a convent you're happy in the convent soldiers come to you okay let's try to imagine her state of mind what is she thinking what's the emotions going through her mind what wh..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0434",
+                "segment_id": "seg-0434",
+                "start": 10085.74,
+                "end": 10098.58,
+                "time_label": "2:48:05",
+                "speaker": "SPEAKER_03",
+                "excerpt": "god just needs your trust so if you trust god and you love god enough then you wouldn't fear death and you wouldn't be afraid of the soldiers yeah that's the problem the fear is a problem you"
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0435",
+                "segment_id": "seg-0435",
+                "start": 10098.94,
+                "end": 10132.79,
+                "time_label": "2:48:18",
+                "speaker": "SPEAKER_05",
+                "excerpt": "understand the fact that you fear means you don't really truly believe in god it truly it doesn't it really really want to be saved okay it's that fear you understand yeah okay so that's why she's stuck where she is bec..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0439",
+                "segment_id": "seg-0439",
+                "start": 10172.42,
+                "end": 10182.4,
+                "time_label": "2:49:32",
+                "speaker": "SPEAKER_05",
+                "excerpt": "because but why does she have a will she's afraid to understand it's the fear you understand oh okay"
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          },
+          {
+            "id": "piccarda-fear-will-and-forgiveness-002",
+            "text": "That is why good deeds are not enough. Jiang keeps pressing the room with an almost absurd example: what if she becomes a queen and helps a billion people? The students slowly arrive at the answer he wants. The universe is still poorer if the soul remains organized by fear. Consequence alone cannot repair a spirit that still cannot leap.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0515",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0520",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0523",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0531"
+            ],
+            "marks": [
+              {
+                "text": "the universe is poorer because of her fear",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0531"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0531",
+                    "segment_id": "seg-0531",
+                    "start": 12604.14,
+                    "end": 12648.74,
+                    "time_label": "3:30:04",
+                    "speaker": "SPEAKER_05",
+                    "excerpt": "you then you become cautious and you become curious and you become cautious and then you become curious okay so the kind of estimate that emmanuel pont uses for her philosophy is that she's like an angel she's like a re..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0515",
+                "segment_id": "seg-0515",
+                "start": 12105.81,
+                "end": 12184.95,
+                "time_label": "3:21:45",
+                "speaker": "SPEAKER_05",
+                "excerpt": "almost lost my senses okay so um this is very much a student teacher relationship right where Beatrice is the teacher and Dante is a student and as the teacher what Beatrice really wants is for the student to ask questi..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0520",
+                "segment_id": "seg-0520",
+                "start": 12290.8,
+                "end": 12317.85,
+                "time_label": "3:24:50",
+                "speaker": "SPEAKER_05",
+                "excerpt": "understand that makes sense but I'm trying to logically understand what's going on so I mean she breaks her vow then she goes and like um helps a billion people live happier lives right she's a great queen wouldn't that..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0523",
+                "segment_id": "seg-0523",
+                "start": 12362.09,
+                "end": 12390.48,
+                "time_label": "3:26:02",
+                "speaker": "SPEAKER_06",
+                "excerpt": "that the the fundamental nature of her soul of her being of her existence in her own eyes there's always going to be that as she progresses until she overcomes this fear of failure she can help a billion a trillion she'..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0531",
+                "segment_id": "seg-0531",
+                "start": 12604.14,
+                "end": 12648.74,
+                "time_label": "3:30:04",
+                "speaker": "SPEAKER_05",
+                "excerpt": "you then you become cautious and you become curious and you become cautious and then you become curious okay so the kind of estimate that emmanuel pont uses for her philosophy is that she's like an angel she's like a re..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          },
+          {
+            "id": "piccarda-fear-will-and-forgiveness-003",
+            "text": "Two possible medicines are offered: knowledge and love. Know enough of reality and death loses some of its terror. Love intensely enough and the contingent will can be gathered into a higher one. But the lecture does not stop there. It insists that some souls dig themselves into a prison they cannot escape from the inside, because their worldview is the prison's architecture.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0511",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0512",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0612",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0615"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0511",
+                "segment_id": "seg-0511",
+                "start": 11941.86,
+                "end": 12001.21,
+                "time_label": "3:19:01",
+                "speaker": "SPEAKER_05",
+                "excerpt": "the fear that's right so historically there have been two solutions okay the first solution is knowledge gnosis continue to like just continue to read dante explore and just discover the secrets of the universe and once..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0512",
+                "segment_id": "seg-0512",
+                "start": 12001.21,
+                "end": 12010.73,
+                "time_label": "3:20:01",
+                "speaker": "SPEAKER_05",
+                "excerpt": "for that person this is what Dante will tell us later on it doesn't make sense knowledge or love okay all right uh can you can"
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0612",
+                "segment_id": "seg-0612",
+                "start": 14087.96,
+                "end": 14150.13,
+                "time_label": "3:54:47",
+                "speaker": "SPEAKER_05",
+                "excerpt": "And you won't be able to change. Okay. That's exactly what I wanted for Carter. Right. She made a vow to God. Very, very serious. Okay. The most serious thing you can do in your life is is make a vow to God. Nothing els..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0615",
+                "segment_id": "seg-0615",
+                "start": 14176.78,
+                "end": 14219.43,
+                "time_label": "3:56:16",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Why? Because her entire worldview is based on her lack of agency. Do you understand? Yeah. Yeah. She has to explain to herself why she didn't resist. The answer is she had no agency and her. And so she's like, we, but G..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          },
+          {
+            "id": "piccarda-fear-will-and-forgiveness-004",
+            "text": "That is where Jesus becomes consequential in Jiang's framing. If the trapped soul cannot forgive itself, someone else has to break the circuit. Unconditional forgiveness is the strongest idea in the universe because it solves the impossible problem of self-redemption from inside a condemned self. The final compression is the hardest one in the lecture: hell is not mainly elsewhere. Hell is the mental world built by sin, rationalization, and the refusal to forgive yourself.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0620",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0626",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0628",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0630"
+            ],
+            "marks": [
+              {
+                "text": "I forgive you unconditionally. I redeem you unconditionally.",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0620"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0620",
+                    "segment_id": "seg-0620",
+                    "start": 14265.74,
+                    "end": 14336.22,
+                    "time_label": "3:57:45",
+                    "speaker": "SPEAKER_05",
+                    "excerpt": "Who is the most important person who has ever lived? Jesus, right? Why is he important? Why is he so consequential? Why do you have two good people believe in Jesus? Why? What, what does that mean? He can bring us salva..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "Hell does not exist outside of us. Hell is a mental construct.",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0628"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0628",
+                    "segment_id": "seg-0628",
+                    "start": 14436.45,
+                    "end": 14479.34,
+                    "time_label": "4:00:36",
+                    "speaker": "SPEAKER_05",
+                    "excerpt": "Yeah. Okay. So this is something that's really hard for us to appreciate. But our actions change. Our character, you understand, if you commit sin, it's not like, oh, you feel really bad and like, you won't do it again...."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              },
+              {
+                "text": "Hell is not forgiving yourself.",
+                "refs": [
+                  "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0630"
+                ],
+                "refs_detail": [
+                  {
+                    "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0630",
+                    "segment_id": "seg-0630",
+                    "start": 14488.69,
+                    "end": 14553.3,
+                    "time_label": "4:01:28",
+                    "speaker": "SPEAKER_05",
+                    "excerpt": "Hell is not forgiving yourself. Yes, exactly. That's what hell literally is. Not forgiving yourself. And we'll see that when we actually go back and visit the inferno. Okay. All right. But it's important that we first s..."
+                  }
+                ],
+                "lens_points": [],
+                "lens_points_detail": []
+              }
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0620",
+                "segment_id": "seg-0620",
+                "start": 14265.74,
+                "end": 14336.22,
+                "time_label": "3:57:45",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Who is the most important person who has ever lived? Jesus, right? Why is he important? Why is he so consequential? Why do you have two good people believe in Jesus? Why? What, what does that mean? He can bring us salva..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0626",
+                "segment_id": "seg-0626",
+                "start": 14355.3,
+                "end": 14412.97,
+                "time_label": "3:59:15",
+                "speaker": "SPEAKER_05",
+                "excerpt": "God, right? And will God forgive you? Yeah. Yeah. If you turn towards God, God will always forgive you. So it's a question of faith. Do you understand? Like, as long as you have the right faith, you can always change fo..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0628",
+                "segment_id": "seg-0628",
+                "start": 14436.45,
+                "end": 14479.34,
+                "time_label": "4:00:36",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Yeah. Okay. So this is something that's really hard for us to appreciate. But our actions change. Our character, you understand, if you commit sin, it's not like, oh, you feel really bad and like, you won't do it again...."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0630",
+                "segment_id": "seg-0630",
+                "start": 14488.69,
+                "end": 14553.3,
+                "time_label": "4:01:28",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Hell is not forgiving yourself. Yes, exactly. That's what hell literally is. Not forgiving yourself. And we'll see that when we actually go back and visit the inferno. Okay. All right. But it's important that we first s..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": []
+          }
+        ],
+        "start": 5489,
+        "refs_detail": [
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0429",
+            "segment_id": "seg-0429",
+            "start": 9962.46,
+            "end": 10003.4,
+            "time_label": "2:46:02",
+            "speaker": "SPEAKER_05",
+            "excerpt": "the word we we it's it's like we the popular phrase is manifestation you understand you manifest it okay meaning you imagine it but you're able to imagine because you will it into being right which which is nietzsche's..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0435",
+            "segment_id": "seg-0435",
+            "start": 10098.94,
+            "end": 10132.79,
+            "time_label": "2:48:18",
+            "speaker": "SPEAKER_05",
+            "excerpt": "understand the fact that you fear means you don't really truly believe in god it truly it doesn't it really really want to be saved okay it's that fear you understand yeah okay so that's why she's stuck where she is bec..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0445",
+            "segment_id": "seg-0445",
+            "start": 10238.34,
+            "end": 10297.04,
+            "time_label": "2:50:38",
+            "speaker": "SPEAKER_05",
+            "excerpt": "does god care if you worship him or not does god give you a christian or not it's also like it doesn't matter do you understand what matters are your actions right what matters is your actions that define who you are ri..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0511",
+            "segment_id": "seg-0511",
+            "start": 11941.86,
+            "end": 12001.21,
+            "time_label": "3:19:01",
+            "speaker": "SPEAKER_05",
+            "excerpt": "the fear that's right so historically there have been two solutions okay the first solution is knowledge gnosis continue to like just continue to read dante explore and just discover the secrets of the universe and once..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0523",
+            "segment_id": "seg-0523",
+            "start": 12362.09,
+            "end": 12390.48,
+            "time_label": "3:26:02",
+            "speaker": "SPEAKER_06",
+            "excerpt": "that the the fundamental nature of her soul of her being of her existence in her own eyes there's always going to be that as she progresses until she overcomes this fear of failure she can help a billion a trillion she'..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0526",
+            "segment_id": "seg-0526",
+            "start": 12430.11,
+            "end": 12483.46,
+            "time_label": "3:27:10",
+            "speaker": "SPEAKER_15",
+            "excerpt": "principle yeah um it's the constantine argument all over again so you watch the movie constantine so constantine did some bad things and then he tried to save himself by doing a lot of good things in his case it was exe..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0612",
+            "segment_id": "seg-0612",
+            "start": 14087.96,
+            "end": 14150.13,
+            "time_label": "3:54:47",
+            "speaker": "SPEAKER_05",
+            "excerpt": "And you won't be able to change. Okay. That's exactly what I wanted for Carter. Right. She made a vow to God. Very, very serious. Okay. The most serious thing you can do in your life is is make a vow to God. Nothing els..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0620",
+            "segment_id": "seg-0620",
+            "start": 14265.74,
+            "end": 14336.22,
+            "time_label": "3:57:45",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Who is the most important person who has ever lived? Jesus, right? Why is he important? Why is he so consequential? Why do you have two good people believe in Jesus? Why? What, what does that mean? He can bring us salva..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0630",
+            "segment_id": "seg-0630",
+            "start": 14488.69,
+            "end": 14553.3,
+            "time_label": "4:01:28",
+            "speaker": "SPEAKER_05",
+            "excerpt": "Hell is not forgiving yourself. Yes, exactly. That's what hell literally is. Not forgiving yourself. And we'll see that when we actually go back and visit the inferno. Okay. All right. But it's important that we first s..."
+          }
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "Why is there no need for logic in heaven if beings still need to communicate and understand one another?",
+        "refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0169",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0171"
+        ],
+        "answer": "Jiang answers that logic is mainly a tool for tests, discipline, and social control inside our limited world. Heaven does not require agreement by argumentative compulsion in the same way, because understanding there is more immediate and imagination rather than logic is the faculty that reaches divine reality.",
+        "answer_refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0172",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0174",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0175"
+        ],
+        "refs_detail": [
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0169",
+            "segment_id": "seg-0169",
+            "start": 4038.72,
+            "end": 4067.77,
+            "time_label": "1:07:18",
+            "speaker": "SPEAKER_09",
+            "excerpt": "because it gets harder and harder okay well yes well I have a quite innocent question I just feel curious like why there is no need for logic in the habit because it seems like in order maybe for communication in the wo..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0171",
+            "segment_id": "seg-0171",
+            "start": 4089.46,
+            "end": 4110.08,
+            "time_label": "1:08:09",
+            "speaker": "SPEAKER_09",
+            "excerpt": "yeah I know I mean I mean it doesn't mean like you have to physically to make a sound or vibrate to like other others to receive your message but I mean because like even if you are a spirit you you still have your coun..."
+          }
+        ],
+        "answer_paragraphs": [
+          {
+            "text": "Jiang answers that logic is mainly a tool for tests, discipline, and social control inside our limited world. Heaven does not require agreement by argumentative compulsion in the same way, because understanding there is more immediate and imagination rather than logic is the faculty that reaches divine reality.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0172",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0174",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0175"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0172",
+                "segment_id": "seg-0172",
+                "start": 4110.42,
+                "end": 4117.94,
+                "time_label": "1:08:30",
+                "speaker": "SPEAKER_15",
+                "excerpt": "Yeah, that's exactly the point. You don't have to make people agree with you. You can just think about it, and everyone will understand what you mean."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0174",
+                "segment_id": "seg-0174",
+                "start": 4133.01,
+                "end": 4205.19,
+                "time_label": "1:08:53",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Okay, all right, so let me answer your question, okay? Because this is a question that most high school students are gonna have. If you're in high school, logic does matter. Could be you have to take tests, okay? But th..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0175",
+                "segment_id": "seg-0175",
+                "start": 4205.19,
+                "end": 4219.99,
+                "time_label": "1:10:05",
+                "speaker": "SPEAKER_05",
+                "excerpt": "a bird that can float around everywhere, and so to truly understand God, to understand dichromedy, your mind has become almost like a bird, just fly around and follow your intuition, okay?"
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ]
+      },
+      {
+        "question": "Did Piccarda simply fail to want escape strongly enough, or is something deeper wrong with her ascent?",
+        "refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0430"
+        ],
+        "answer": "Jiang says the deeper problem is fear. Piccarda is not truly content where she is, but fear of the unknown, disappointment, and failure keeps her from making the leap of faith that would let her advance.",
+        "answer_refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0434",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0435",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0441",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0442"
+        ],
+        "refs_detail": [
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0430",
+            "segment_id": "seg-0430",
+            "start": 10003.4,
+            "end": 10016.3,
+            "time_label": "2:46:43",
+            "speaker": "SPEAKER_13",
+            "excerpt": "had a comment or a question yeah i just wanted to clarify did she like not want to escape bad enough did she not want to ascend to the next sphere bad enough okay all right so so so let's go deeper"
+          }
+        ],
+        "answer_paragraphs": [
+          {
+            "text": "Jiang says the deeper problem is fear. Piccarda is not truly content where she is, but fear of the unknown, disappointment, and failure keeps her from making the leap of faith that would let her advance.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0434",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0435",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0441",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0442"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0434",
+                "segment_id": "seg-0434",
+                "start": 10085.74,
+                "end": 10098.58,
+                "time_label": "2:48:05",
+                "speaker": "SPEAKER_03",
+                "excerpt": "god just needs your trust so if you trust god and you love god enough then you wouldn't fear death and you wouldn't be afraid of the soldiers yeah that's the problem the fear is a problem you"
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0435",
+                "segment_id": "seg-0435",
+                "start": 10098.94,
+                "end": 10132.79,
+                "time_label": "2:48:18",
+                "speaker": "SPEAKER_05",
+                "excerpt": "understand the fact that you fear means you don't really truly believe in god it truly it doesn't it really really want to be saved okay it's that fear you understand yeah okay so that's why she's stuck where she is bec..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0441",
+                "segment_id": "seg-0441",
+                "start": 10190.67,
+                "end": 10196.51,
+                "time_label": "2:49:50",
+                "speaker": "SPEAKER_05",
+                "excerpt": "afraid of disappointment she's afraid of failure okay okay right so she's stuck saying okay well"
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0442",
+                "segment_id": "seg-0442",
+                "start": 10197.15,
+                "end": 10206.98,
+                "time_label": "2:49:57",
+                "speaker": "SPEAKER_16",
+                "excerpt": "god just wants me here so i'm just going to stay here yeah it's a pretext it's a rationale so it's like comforting yourself when you got like a bad grade or something"
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ]
+      },
+      {
+        "question": "If Piccarda later helps enormous numbers of people, why would that not redeem her failure of will?",
+        "refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0521",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0522"
+        ],
+        "answer": "Jiang's answer is that fear still sits at the center of the soul. Even immense good consequences do not automatically heal the spirit if the person is still acting from anxiety, self-saving calculation, and an unresolved inability to overcome fear.",
+        "answer_refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0523",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0526",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0531"
+        ],
+        "refs_detail": [
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0521",
+            "segment_id": "seg-0521",
+            "start": 12317.85,
+            "end": 12340.89,
+            "time_label": "3:25:17",
+            "speaker": "SPEAKER_16",
+            "excerpt": "but i'm trying to figure out yeah so i guess like my answer to that would be like she is pushing herself to do a lot of these things because she stole is worried that like god is not going to like forgive her and then t..."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0522",
+            "segment_id": "seg-0522",
+            "start": 12340.89,
+            "end": 12360.43,
+            "time_label": "3:25:40",
+            "speaker": "SPEAKER_05",
+            "excerpt": "because she just helped a billion people live happier lives and it's coming from a place of anxiety and fear she's afraid that god will punish her but the results are good so who cares quality over quantity in this case..."
+          }
+        ],
+        "answer_paragraphs": [
+          {
+            "text": "Jiang's answer is that fear still sits at the center of the soul. Even immense good consequences do not automatically heal the spirit if the person is still acting from anxiety, self-saving calculation, and an unresolved inability to overcome fear.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0523",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0526",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0531"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0523",
+                "segment_id": "seg-0523",
+                "start": 12362.09,
+                "end": 12390.48,
+                "time_label": "3:26:02",
+                "speaker": "SPEAKER_06",
+                "excerpt": "that the the fundamental nature of her soul of her being of her existence in her own eyes there's always going to be that as she progresses until she overcomes this fear of failure she can help a billion a trillion she'..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0526",
+                "segment_id": "seg-0526",
+                "start": 12430.11,
+                "end": 12483.46,
+                "time_label": "3:27:10",
+                "speaker": "SPEAKER_15",
+                "excerpt": "principle yeah um it's the constantine argument all over again so you watch the movie constantine so constantine did some bad things and then he tried to save himself by doing a lot of good things in his case it was exe..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0531",
+                "segment_id": "seg-0531",
+                "start": 12604.14,
+                "end": 12648.74,
+                "time_label": "3:30:04",
+                "speaker": "SPEAKER_05",
+                "excerpt": "you then you become cautious and you become curious and you become cautious and then you become curious okay so the kind of estimate that emmanuel pont uses for her philosophy is that she's like an angel she's like a re..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ]
+      },
+      {
+        "question": "Does Piccarda therefore have to wait for someone else to save her?",
+        "refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0621",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0622"
+        ],
+        "answer": "Jiang says yes in a specifically Christian sense: the impossible problem of self-redemption is answered by Jesus and by God's unconditional forgiveness, which the trapped soul cannot generate by itself from inside its own worldview.",
+        "answer_refs": [
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0620",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0623",
+          "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0626"
+        ],
+        "refs_detail": [
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0621",
+            "segment_id": "seg-0621",
+            "start": 14336.66,
+            "end": 14340.77,
+            "time_label": "3:58:56",
+            "speaker": "SPEAKER_15",
+            "excerpt": "So what you're basically saying. Is that she has to wait for someone else to save her."
+          },
+          {
+            "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0622",
+            "segment_id": "seg-0622",
+            "start": 14340.99,
+            "end": 14349.4,
+            "time_label": "3:59:00",
+            "speaker": "SPEAKER_17",
+            "excerpt": "And who would forgive her?"
+          }
+        ],
+        "answer_paragraphs": [
+          {
+            "text": "Jiang says yes in a specifically Christian sense: the impossible problem of self-redemption is answered by Jesus and by God's unconditional forgiveness, which the trapped soul cannot generate by itself from inside its own worldview.",
+            "refs": [
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0620",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0623",
+              "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0626"
+            ],
+            "refs_detail": [
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0620",
+                "segment_id": "seg-0620",
+                "start": 14265.74,
+                "end": 14336.22,
+                "time_label": "3:57:45",
+                "speaker": "SPEAKER_05",
+                "excerpt": "Who is the most important person who has ever lived? Jesus, right? Why is he important? Why is he so consequential? Why do you have two good people believe in Jesus? Why? What, what does that mean? He can bring us salva..."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0623",
+                "segment_id": "seg-0623",
+                "start": 14350.56,
+                "end": 14351,
+                "time_label": "3:59:10",
+                "speaker": "SPEAKER_15",
+                "excerpt": "Jesus."
+              },
+              {
+                "ref": "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0626",
+                "segment_id": "seg-0626",
+                "start": 14355.3,
+                "end": 14412.97,
+                "time_label": "3:59:15",
+                "speaker": "SPEAKER_05",
+                "excerpt": "God, right? And will God forgive you? Yeah. Yeah. If you turn towards God, God will always forgive you. So it's a question of faith. Do you understand? Like, as long as you have the right faith, you can always change fo..."
+              }
+            ],
+            "lens_points": [],
+            "lens_points_detail": [],
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "archive_note": "This page is the public reading surface: a cleaned argument with paragraph-level source refs. The full transcript remains available as the audit view, and the compiled JSON remains available for agents and downstream corpus work."
+  },
   "transcript": [
     {
       "id": "seg-0001",
