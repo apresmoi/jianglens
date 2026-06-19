@@ -6,6 +6,31 @@ Status: first and second public splits completed; parent remains under active si
 Work type: atlas governance / concept-boundary proposal
 Public surface: `website/src/content/docs/lens/when-war-becomes-a-story-instead-of-a-material-test.md`
 
+## 2026-06-18 Strategy Fan-In Checkpoint
+
+Socrates asked whether Plato should take `when-war-becomes-a-story-instead-of-a-material-test.md` first after Cassandra reported the page at 52 sources and about 7.5k words, then framed the backlog choice as newest-gap intake, current-lane compression, or throughput pressure. The current audit also shows 79 historical missing corpus-impact records, but those are backlog pressure rather than a fresher mandatory intake. The live coordination cue is public-lens governance, so the bounded answer is: **compress a current lane by taking Strategy first as a split/compression judgment; do not prioritize another page, a historical newest-gap intake, or a throughput-only no-op ahead of this check.**
+
+Fresh authored checks on synced `main` after PR #1061 give the current Strategy surface:
+
+- Authored Markdown body: about 5,236 words by the current simple word-count check.
+- Raw Markdown `evidence="..."` attributes: 57, including lens-point evidence attributes.
+- Stable lens-point anchors: 12.
+- Raw `video:*@transcript:v1` occurrences in the Markdown: 122.
+- Distinct local video slugs directly cited by the authored page: 15.
+- Generated link-index objects containing the page slug remain high, but this is generated provenance/navigation pressure from exact refs, anchors, and backlinks, not 52 distinct authored Jiang source slugs.
+
+Decision: **Strategy should be the next page checked when the portfolio turns to page governance, but the check does not currently justify a new public child page.** The page remains below the authored 6,000-word watch line and below the 20-distinct-local-source watch line. It has also already paid down the old hard-split condition through the Chokepoint, No-Exit War, Imperial Retrenchment, and parent-compression work. Cassandra's warning is still useful: it says the page has reader/navigation pressure and should not receive ordinary additive Strategy prose. It does not by itself prove that a remaining mechanism has outgrown the parent.
+
+If a public Strategy-family mutation is taken next, make it **replacement/compression-first**, not a split-first child. The first compression target should be the remaining parent orientation surface: **Spectacle Is Not Resilience**, **Chronology And Source Trail**, and child-router paragraphs. Preserve the current URL as the material-test parent and preserve stable anchors unless a Dante-reviewed draft proves an anchor can move without changing meaning or breaking episode hover specificity.
+
+Held child tests remain conditional:
+
+1. **Spectacle And Optics Sacrificing The Board** only if at least four strong dated sources or clustered episode-to-lens links show the `strategy-optics-sacrifices-the-board` / `strategy-spectacle-exploits-fragility` material needs a narrower hover surface than Strategy plus Stories / Screen-World.
+2. **War Form Makes Political Form** only if later evidence makes military-form-to-political-form a repeated cross-domain mechanism beyond the current gunpowder foundation section.
+3. **Dominance Versus Control** only if the dominance/control material expands beyond the existing `escalation-dominance-becomes-trap` and `control-beats-dominance` parent anchors and cannot be routed cleanly to No-Exit War, Game Theory, or Chokepoint.
+
+Boundary answer for Socrates: take Strategy first for governance, but treat the current Cassandra signal as **compression pressure**, not an automatic split trigger. Do not choose a different page ahead of Strategy unless a newer public-lens cue arrives; do not take another historical corpus-impact intake ahead of it unless a fresh high-pressure source lacks its first impact decision. This checkpoint changes no public prose, evidence marks, stable lens-point IDs, episode read JSON, source transcripts, or publication artifacts.
+
 ## 2026-06-16 Dominance / Control Split Judgment
 
 Cassandra flagged `when-war-becomes-a-story-instead-of-a-material-test.md` again at about 7,502 words / 52 sources after PR #1026 added compact impact for `predictive-history-n4cs-8mrp-s`. Recent Plato work is impact-heavy, so this run checked whether accumulated dominance/control pressure now justifies a public child rather than another historical intake.
