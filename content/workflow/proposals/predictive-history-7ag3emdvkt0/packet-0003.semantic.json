@@ -1,0 +1,270 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0003",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0017",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0018"
+      ],
+      "kind": "exchange",
+      "summary": "A student imagines paradise as eternal peace, joy, and interwoven love and consciousness, and Jiang affirms the answer as a strong imaginative picture of perfection.",
+      "speaker_attribution": "Student response with Jiang's approving follow-up",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0018",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0019",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0020"
+      ],
+      "kind": "exchange",
+      "summary": "Another student offers a conventional Christian picture of heaven as everlasting life in God's presence, and Jiang replies that the answer closely matches Augustine's description in the City of God.",
+      "speaker_attribution": "Student response followed by Jiang's Augustinian comparison",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0021",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0022"
+      ],
+      "kind": "exchange",
+      "summary": "A student defines heaven as spiritual and intellectual connection with God reached by laying down ego and fear, and Jiang sharpens the point by saying ego and fear bind people to the material world.",
+      "speaker_attribution": "Student answer with Jiang's interpretive compression",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0022",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0023",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0024"
+      ],
+      "kind": "answer",
+      "summary": "A student gives an exuberant, highly individualized heaven populated by Bruce Lee, deceased family, Buddhist or divine wisdom, ocean flight, and luminous bodies.",
+      "speaker_attribution": "Student imaginative answer",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0018",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0019"
+      ],
+      "note": "The ASR blurs Jiang's prompt and the next student's Christian answer together, but the basic turn structure is recoverable from context: Jiang solicits another response, the student answers, and Jiang names it Augustinian.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0023",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0024"
+      ],
+      "note": "The long Bruce Lee answer is noisy and accumulative, but it is clearly one student's imaginative heaven rather than multiple speakers.",
+      "suggested_speaker": "student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "One student imagines paradise as eternal peace and happiness without past or future, where love and consciousness are woven together into a state of perfect meaning and purpose.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0017"
+      ],
+      "temporal_scope": "Student answer given on 2026-06-17.",
+      "topic_tags": [
+        "paradise",
+        "peace",
+        "joy",
+        "consciousness"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the student's image of paradise as an example of the imaginative, perfection-oriented response he wants from the class.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0018"
+      ],
+      "temporal_scope": "Classroom guidance on 2026-06-17.",
+      "topic_tags": [
+        "imagination",
+        "perfection",
+        "pedagogy"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "A student gives a classic Christian heaven: everlasting life in God's presence, worship, and reward proportioned to how one has lived.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0019"
+      ],
+      "temporal_scope": "Student answer given on 2026-06-17.",
+      "topic_tags": [
+        "Christian heaven",
+        "God",
+        "reward",
+        "eternal life"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says the student's Christian account is effectively Augustine's picture in the City of God: heaven as being beside God and singing in unison.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0019",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0020"
+      ],
+      "temporal_scope": "Interpretive comparison made on 2026-06-17.",
+      "topic_tags": [
+        "Augustine",
+        "City of God",
+        "heaven",
+        "Christianity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Another student defines heaven as spiritual and intellectual connection with God and other divine forces, a place where ego and fear are put down in favor of salvation and enlightenment.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0021"
+      ],
+      "temporal_scope": "Student answer given on 2026-06-17.",
+      "topic_tags": [
+        "heaven",
+        "salvation",
+        "ego",
+        "fear",
+        "enlightenment"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says ego and fear are what bind human beings to the material world.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0021",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0022"
+      ],
+      "temporal_scope": "Interpretive compression on 2026-06-17.",
+      "topic_tags": [
+        "ego",
+        "fear",
+        "material world"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Bruce Lee answer imagines heaven as radically individualized: reunion with the dead, mixed divine presences, freedom from ordinary bodily limits, and a luminous form of existence shaped by personal desire.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0023",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0024"
+      ],
+      "temporal_scope": "Student imaginative answer given on 2026-06-17.",
+      "topic_tags": [
+        "individualized heaven",
+        "imagination",
+        "afterlife",
+        "desire"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0017"
+      ],
+      "moment": "Paradise is pictured as a timeless state where love and consciousness are intertwined rather than isolated.",
+      "source_phrase": "All the love and consciousness is intertwined together",
+      "why_it_matters": "It gives the lecture one of its first vivid positive images of heaven as unity rather than reward accounting.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0019",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0020"
+      ],
+      "moment": "A spontaneous student answer becomes recognizably Augustinian before the student has even read Augustine.",
+      "source_phrase": "that's a very Augustine answer",
+      "why_it_matters": "Jiang frames heaven as a tradition of recurring intuitions, not just private opinion, and connects the class immediately to the Christian intellectual background of Dante.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0021",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0022"
+      ],
+      "moment": "Jiang compresses the student's mystical answer into a hard diagnosis: ego and fear are what tie us to matter.",
+      "source_phrase": "ego and fear are things that bind us to this material world",
+      "why_it_matters": "It turns an abstract answer about salvation into a reusable anthropological mechanism that will matter later in the reading.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0023",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0024"
+      ],
+      "moment": "One student's heaven becomes a wild collage of Bruce Lee, grandma, gods, Buddhas, boats, ocean flight, and luminous bodies.",
+      "source_phrase": "Bruce Lee would lead me into the Kung Fu universe",
+      "why_it_matters": "It shows Jiang deliberately inviting extravagant imagination before imposing Dante's own cosmology on the room.",
+      "tone": "image",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "City of God",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0019",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0020"
+      ],
+      "definition_or_usage": "Augustine's work is invoked here as a benchmark for a conventional Christian picture of heaven as proximity to God and unified praise.",
+      "confidence": "high"
+    },
+    {
+      "term": "ego and fear",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0021",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0022"
+      ],
+      "definition_or_usage": "Named by Jiang as the forces that keep people attached to the material world instead of moving toward salvation.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0017",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0024"
+      ],
+      "note": "Early in the first Paradise session, Jiang gathers multiple competing images of heaven before imposing Dante's own cosmological structure, creating a baseline of intuitive afterlife expectations.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0018",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0019"
+      ],
+      "note": "The boundary between Jiang's encouragement and the next student's Christian answer is compressed by ASR, so some wording attribution is approximate even though the conceptual content is clear."
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0023",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0024"
+      ],
+      "note": "The long imaginative answer contains heavy ASR distortion and repeated filler, but its underlying theme of personalized heaven remains legible."
+    }
+  ]
+}
