@@ -1,0 +1,162 @@
+{
+  "packet_id": "predictive-history-04ngqzyqgpw-semantics-pkt-0054",
+  "source_id": "video:predictive-history-04ngqzyqgpw",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0425",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0426",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0427"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether the pilgrim Dante's faith is diminished once he directly sees angels and other deep things, Jiang initially answers by talking about the poem as a product of faith, and the student corrects him back to the in-story character.",
+      "speaker_attribution": "Student question, Jiang answer, student correction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0428"
+      ],
+      "kind": "unclear",
+      "summary": "A brief student interjection pivots toward the relationship between faith and love in Dante, but the remark is fragmentary and not yet developed.",
+      "speaker_attribution": "Student",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0429",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0430",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0431",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0432"
+      ],
+      "kind": "exchange",
+      "summary": "Another student argues from the Italian that the key word is closer to 'argument' than 'evidence', and the class begins reopening the meaning of 'faith is the evidence of things unseen' through questions about sense perception.",
+      "speaker_attribution": "Student textual intervention and Jiang prompt",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0428"
+      ],
+      "note": "This student turn is clipped and partly overlaps with the previous correction; the stable content is only the interest in how faith may resemble love for Dante.",
+      "suggested_speaker": "Student",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A student raises the problem of whether direct vision of angels and other deep things would weaken the pilgrim Dante's faith by replacing belief with proof.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0425"
+      ],
+      "temporal_scope": "Student question raised on 2026-06-17.",
+      "topic_tags": ["faith", "proof", "vision", "pilgrim Dante", "deep things"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's first instinctive answer is that The Divine Comedy itself is a product of faith and could only be written through faith.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0426"
+      ],
+      "temporal_scope": "Interpretive answer stated on 2026-06-17.",
+      "topic_tags": ["Divine Comedy", "faith", "creation", "poetry"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student textualist argues that the Italian points toward 'argument' rather than 'evidence', which would materially change how the passage on faith should be understood.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0429",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0430"
+      ],
+      "temporal_scope": "Student textual claim offered on 2026-06-17.",
+      "topic_tags": ["Italian text", "argument", "evidence", "translation", "faith"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang immediately reopens the phrase 'faith is the evidence of things unseen' as a conceptual problem rather than settling the translation dispute on the spot.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0431"
+      ],
+      "temporal_scope": "Interpretive prompt stated on 2026-06-17.",
+      "topic_tags": ["faith", "evidence", "things unseen", "interpretation"],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student begins to answer that the line means the senses are not trustworthy enough to capture the unseen directly.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0432"
+      ],
+      "temporal_scope": "Student interpretation offered on 2026-06-17.",
+      "topic_tags": ["senses", "unseen", "faith", "evidence"],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0425"
+      ],
+      "moment": "The class asks whether spiritual sight cancels faith or whether faith survives even when the unseen becomes visible.",
+      "source_phrase": "is the Dante in the story's faith therefore diminished because he has seen and has proof",
+      "why_it_matters": "It names the core paradox driving the discussion instead of letting faith remain a vague abstraction.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0429",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0430"
+      ],
+      "moment": "A translation fight over 'evidence' versus 'argument' suddenly destabilizes the whole interpretive frame.",
+      "source_phrase": "it is argumenty it never used evidence",
+      "why_it_matters": "This is the packet's sharpest textual pressure point and may change how later packets should read the passage.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "argomenti / argument",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0429",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0430"
+      ],
+      "definition_or_usage": "The student's proposed Italian correction for the translated word 'evidence', used to reopen how faith functions in the passage.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0425",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0432"
+      ],
+      "note": "On 2026-06-17 the discussion shifts from Jiang's speculative ontology of faith back to a textual and phenomenological problem: whether sight cancels faith and whether the passage should be heard through 'evidence' or 'argument'.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0428"
+      ],
+      "note": "The short interjection about love is too fragmentary to support a stronger extraction beyond noting that the student hears an overlap between love and faith."
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0429",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0430"
+      ],
+      "note": "The ASR spelling of the Italian term is unstable, but the student's substantive point about 'argument' versus 'evidence' is clear."
+    }
+  ]
+}

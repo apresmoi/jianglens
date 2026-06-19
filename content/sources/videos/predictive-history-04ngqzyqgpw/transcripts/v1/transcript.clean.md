@@ -1,0 +1,2841 @@
+# Dante Livestream #3 (Wednesday, June 17 10AM)
+
+Source: https://www.youtube.com/watch?v=04ngQzYqgPw
+
+## seg-0001 / 00:00:03-00:01:21 / SPEAKER_17
+
+Okay, good morning. So the live stream is on. So, um, yesterday, you had a chance to ask questions about the previous class, and that went very well. So I want to thank you for asking a great question. You went back, you reviewed what we learned, and you matched our ideas with the text, and you recognize that there's a sentence, right, which is you shoot the arrow, it lands first, then it flies, then it is released from the bow, right? That's a great question. And then Carol had a great response, because she's actually studying this text. And so this is exactly the sort of interaction that I want in the seminar, where you guys are really analyzing the text critically, and this is forcing us to think deeper about the meaning of the text. Okay, and this is exactly, you know, what Yale tries to achieve in its seminars back in New Haven. So let's begin with questions.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0001
+
+## seg-0002 / 00:01:21-00:01:40 / SPEAKER_17
+
+Questions from yesterday. You had a chance to go back and review the text. Again, it's really important that you guys spend time rereading the text to make sure you understand what's going on, okay? So any questions from yesterday that you had? Yes.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0002
+
+## seg-0003 / 00:01:44-00:01:47 / SPEAKER_00
+
+You need to press on for other people to hear.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0003
+
+## seg-0004 / 00:01:47-00:02:04 / SPEAKER_06
+
+So, like, in Canto 6, there is, like, this narrative of Rome's history. And something that really confused me is actually a historical reference. So, okay. So it said, starting when...
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0004
+
+## seg-0005 / 00:02:04-00:02:05 / SPEAKER_17
+
+Can you give us the line, please?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0005
+
+## seg-0006 / 00:02:08-00:02:09 / SPEAKER_06
+
+Where do you see the line?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0006
+
+## seg-0007 / 00:02:10-00:02:14 / SPEAKER_10
+
+On the... Oh. Her version doesn't have the line.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0007
+
+## seg-0008 / 00:02:15-00:02:30 / SPEAKER_17
+
+Oh. Let's try to use one version, okay? As you can see, this is the minimum version of the Columbia website. Okay? Let's just use that, guys. So that we are aligned.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0008
+
+## seg-0009 / 00:02:30-00:03:09 / SPEAKER_06
+
+The problem is I put metal bomb on both sides while only the Italian version is numbered. Only the Italian version is numbered. They're on the same line. Yeah, yeah, I know. So, like, I was talking about line 36. When Pallas died, that it might gain a kingdom. So, according to my understanding, Pallas... The story of Pallas and Athena is a very Greek story. And it doesn't have, like, much... Relevance to the Roman Empire. It's a very personal Athena story. So what does this have to do with the history?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0009
+
+## seg-0010 / 00:03:09-00:04:27 / SPEAKER_17
+
+Yeah, that's a great question. Does anyone know the answer? It's actually a very hard question. So I want to thank you for pointing this out. So Pallas and Athena were twins, right? And Athena had to kill Pallas in order to live. The story of the founding of Rome is that Romulus and Remus were twins. And they grew up together. And they rose up together. And they loved each other. And then after they defeated, like, an evil uncle, they were assigned a plot of land, which became modern -day Rome. The two go to Rome, and they decide we can't rule Rome as twins. One of us has to be the king. The other has to go away. And so they have this competition. This competition leads to a war where Romulus kills Remus. Okay? And this is interesting because this is actually a very common archetype in something called Proto -Indo -European mythology. Proto -Indo -European mythology, some of you may know, is the basis for European culture.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0010
+
+## seg-0011 / 00:04:28-00:05:28 / SPEAKER_17
+
+Okay? So... The archaeologists believe that the Proto -Indo -Europeans lived in the steppes of modern -day Ukraine. And they spread around the world to Europe, to India, to Iran. And they really conquered most of the world. And they did so with a certain mythology of conquest. Okay? And at the very basis of this mythology is that... You must kill the person you love. You must kill your twin in order to climb to power. And this is what it refers to. All right? So what Donny is doing... What he does throughout the Divine Comedy, which is very confusing for people, is that he tends to combine myths together. Okay? So you have the myth of Pallas and Athena. What he's saying is that that refers to the myth of Romulus and Remus. Right? Because we all know... Because in this context... Okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0011
+
+## seg-0012 / 00:05:28-00:05:51 / SPEAKER_17
+
+This is the 14th century. Obviously, you have to be very well educated to read Dante. So everyone knows the mythology of Romulus and Remus. And then what Dante does in this one line is... It also reminds us of the legend of Pallas and Athena. Okay? Does that make sense?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0012
+
+## seg-0013 / 00:05:52-00:06:20 / SPEAKER_06
+
+A follow -up question. Because according to my understanding and according to Wikipedia... Which is not a credible source, but it's valuable for basic understanding... Pallas and Athena were not in direct opposition. They were not fighting over a territory. Athena loved Pallas and accidentally killed her. So while the theme of killing a twin is the same, I don't see how this has to do with a territorial dispute.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0013
+
+## seg-0014 / 00:06:20-00:07:26 / SPEAKER_17
+
+Okay. So again, the idea is that... You must kill someone you love in order to fully become yourself. Okay? So that's what poetry is. Poetry presents two ideas that may not be interrelated. It forces you to use your imagination in order to relate the two things. You're absolutely right. Pallas and Athena, Romulus and Remus... I didn't see the connection. And what Dante is doing is... By putting them together with the grammar, it forces you to see the connection. Okay? What is a simile? A simile is an unseen connection. Right? The sky is a snail. Okay. All right. The sky and snail... They have nothing to do with each other. But because I put these two together, it activates... Excites your imagination to see the connection. Okay? That's what poetry is. Does that make sense? Okay. All right. Can I add something? Yes. Thank you, Carol. Yes. Thank you.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0014
+
+## seg-0015 / 00:07:29-00:08:39 / SPEAKER_00
+
+Thank you so much for the questions. I want to preface today, it's our third day, and say that I've been really grateful for the open and candid dialogues and questionings we've had because this may not be happening elsewhere in the world. That's one. So, kudos to all of you. Second, I was very happy to hear from one of you this morning who said, I love you. I love the music because I played some music before class started this morning and it was actually Jack Johnson, who someone else said was from his college days. The reason I played some music is because I want to read a really short portion of his lyrics to you and kind of give you a glimpse of how I think it might be helpful to be approaching Dante. Okay. And poetry and beautiful works of art in general. So, this is from 20 years ago, upside down, Jack Johnson. Who's to say what's impossible?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0015
+
+## seg-0016 / 00:08:40-00:09:22 / SPEAKER_00
+
+Well, they forgot this world keeps spinning and with each new day, I can feel a change in everything. And as the surface breaks, reflections fade, and in some ways, they remain the same. And as my mind begins to spread its wings, there's no stopping curiosity. So, I hope to be hearing from more and more of you, hear that you're curious, hear that you're adding to the conversation, even despite thinking that you may disagree amongst yourself, but that's part of the leap of faith that John talked about yesterday. So, thank you.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0016
+
+## seg-0017 / 00:09:22-00:09:57 / SPEAKER_17
+
+Well, thank you, Carol. Absolutely. And as you can see, what's happening is that across time, across space, different artists, whether they're poets, they're musicians, they're trying to convey the same message. So, you have to think it might be from the same source, right? And that's what Dante is trying to explain in Divine Comedy. There is a common source. And from this common source, we can generate our creativity. Okay. Any other questions from last class before I begin? Yes, thank you.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0017
+
+## seg-0018 / 00:10:03-00:10:42 / SPEAKER_10
+
+So, I don't have a question related to like the wording, but I was just rereading this and looking at the art in like the digital Dante. And something striking about Beatrice is that she actually looks kind of masculine. So, I've been to like those art museums where they have like medieval galleries, and I think that the women did look different. So, they had like veils and they were wearing dresses. But Beatrice here, at least on the digital Dante website, doesn't really look like a girl. So, like, is this, was this like purposeful in a way or something?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0018
+
+## seg-0019 / 00:10:46-00:12:06 / SPEAKER_17
+
+What is, okay, I don't know enough about Renaissance art to comment, okay? But let's imagine what's happening. Okay. So, last, yesterday, we discussed how Dante is able to conceive the divine comedy, okay? And so, Dante is starting off with a framework that enables him to construct the divine comedy, okay? So, think of this as the blueprint of a scaffolding that allows you to slowly visualize the entire building. This framework must be the dialogue between Dante. And Beatrice. Okay. Does that make sense? Okay. So, even from an early age, he knows Beatrice. He falls in love with Beatrice. They don't really, but they really don't know that each other. And so, what happens is that he imagines Beatrice as his basically imaginary best friend. Or, and in the future, as his lover. Okay. Now, the problem with this is you don't know that. You don't know enough about Beatrice in order to make Beatrice a fully fleshed out character.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0019
+
+## seg-0020 / 00:12:06-00:12:38 / SPEAKER_17
+
+So, what happens is Beatrice becomes your alter ego, okay? It becomes like a yin -yang dynamic, right? Where you are implanting your feminine aspects onto Beatrice. And so, in other words, Beatrice doesn't really exist as a real person. Beatrice is just Dante's twin, basically.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0020
+
+## seg-0021 / 00:12:39-00:12:44 / SPEAKER_10
+
+So, like a reflection of Dante that's like higher and more divine. Okay.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0021
+
+## seg-0022 / 00:12:44-00:13:51 / SPEAKER_17
+
+It's actually much more complicated than that. Which is that you study this occult esotericism, this mysticism. What they believe is that we are a reflection of God. And God is always a dual nature. Both a masculine and a feminine. Okay. So, within us, there's always a masculine and a feminine. So, what Dante has done is basically is split himself into two. He's Dante the masculine and Beatrice the feminine. Okay. So, again, I don't know. But what I think if I'm a painter, I'm an artist, and I recognize this. What I'm trying to do is show that Beatrice is just an alter ego of Dante. Okay. Does that make sense? Yeah. And again, I'm just speculating. Okay. I'm just using my imagination as to what has happened. Because I'm not the artist. Okay. I don't know what's going on. But this is really important for you guys to appreciate that the process of creativity, the process
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0022
+
+## seg-0023 / 00:13:51-00:14:19 / SPEAKER_17
+
+of imagination requires you to recognize your dual self, split yourself off, and have a dialogue within yourself. That becomes the basis for the creation of whatever art you create, whether it's a painting, or a poem, or even a building. Okay. And this is usually how the creative process works. Okay. Any more questions?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0023
+
+## seg-0024 / 00:14:22-00:15:11 / SPEAKER_16
+
+Got one. So, we expanded our idea of vows. And I was trying to think about... Picarda made a vow in the nunnery to God. I was trying to think of... Picarda's brother seemed to make a vow on the battlefield. No, no, no. We just imagine that. Oh, we just imagine. We don't know. But like a person could just say, if this happens, then I swear to God, something, something. And that's a vow. I was wondering what other vows a person would make, a common person, just in everyday. And so, I could think of like marriage vows as a simple one. Baptismal vows might be made for you on your behalf, because Anabaptists don't exist. And so, what other vows might occur in everyday society that you're breaking? Because you don't have to just walk around going, I swear to God, if I get an A, I'm going to do X, Y, Z.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0024
+
+## seg-0025 / 00:15:12-00:16:41 / SPEAKER_17
+
+Okay. Yeah, that's a really interesting question. So, what I will say is that... What Donnie will say is, to be fully human, you must get into the habit of making vows to yourself. Okay? Because that ultimately is what motivates you, what drives you to a higher good. Right? Making a vow means being able to have faith. Hope in the future and loving yourself and having faith in the universe. Okay? So, these are three ideas that we'll talk a lot about for the next two days. Hope, love, and faith. So, making a vow, it's an expression of hope, love, and faith. So, you should be doing this every single day. Okay? Okay. Any more questions? Okay. All right. So... So, I want to begin class by talking about why we're here. Okay? So, I want to talk about two basic principles. The first principle is, what is our mission? Okay? And our mission is to share Dante with the world.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0025
+
+## seg-0026 / 00:16:41-00:17:40 / SPEAKER_17
+
+Okay? So, the construction of this class... The structure of this class, it's unique. Because there are three things that make this class different from others in the world. Okay? First of all, I hate to say this, but it's free, guys. All right? And this has to do with the generosity of Carol, who's... And me as well, because I'm teaching this for free. But this is an amazing space. People online cannot see this, but this is... But we are really on top of Beijing. You know? This is a panoramic view of Beijing. For those of you who are in Beijing for the first time, I'm sure this is an extremely impressive view. So, first of all, it's free. Okay? You guys are here. I mean, like, I know some of you have flown from far away, but basically, it's a free class. Okay? That's number one. Number two is the diversity of the students in this class.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0026
+
+## seg-0027 / 00:17:40-00:18:58 / SPEAKER_17
+
+So, again, people at home don't see it. They don't see this. But we have students from all age groups. Okay? We have adults. We have even a ninth grader, believe it or not. We also have people from different cultures, from different countries who've come a long way. Okay? So, just the diversity of this class, it's also unique. Right? And the third thing is that we are live streaming everything we do. Okay? Nothing is rehearsed. If I say something stupid, it's going to live forever online. Okay? So, the question then is, why is the class constructed this way? It's free. It's diverse. And it's being live streamed. And the reason why is that as a group, we are trying to prove to the world that anyone anywhere can love Dante. Okay? Regardless of your culture. Regardless of your age. You can love Dante. Dante speaks to you individually. And together, we're trying to show the world that anyone can read and love Dante.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0027
+
+## seg-0028 / 00:18:59-00:20:03 / SPEAKER_17
+
+And give them the tools and the thought processes in order to fully understand Dante. And set everyone on that journey. I hope that regardless of where you are. Whether you're in Africa or South America or even the Arctic. Who knows? But this class will inspire you to partake in your own journey. And this class will give you all the tools you need in order to fully appreciate Dante. So, our mission here is to share Dante with the world. Okay? It is an act of love. It is an act of faith. It is an act of hope. And we have to remember that. That is our central mission. In order to achieve the central mission, you yourselves must, in this room, okay? Must fully engage Dante. And fully put your heart into Dante. And to do that, you have to remember how to truly understand Dante.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0028
+
+## seg-0029 / 00:20:04-00:20:24 / SPEAKER_17
+
+And the trick is this. Okay? It is to learn Dante. So that you... May teach it as an act of love.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0029
+
+## seg-0030 / 00:20:27-00:20:28 / UNKNOWN
+
+Okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0030
+
+## seg-0031 / 00:20:28-00:21:40 / SPEAKER_17
+
+So, this is the key. If you truly want to understand Dante, you have to read and learn Dante. And imagine that you're doing so, so that one day you can teach it to someone that you truly love as an act of love. Alright? So, every day. After class. You should go home and visualize that one day you can have your own classroom with your own students. Or you can have your own children. Or you could be talking to your mother over the dinner table. Or you could be talking to your best friend. It doesn't matter. Okay? But imagine yourself like Dante in heaven with Beatrice. And what are they doing? They are debating each other. They're learning together. They're sharing with each other. That is the true act of love. Okay? So, I guarantee you. You put yourself in the frame of mind that I am here today so that tomorrow I can share Dante with someone I love as an act of love.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0031
+
+## seg-0032 / 00:21:40-00:22:49 / SPEAKER_17
+
+You will truly understand Dante. Okay? So, these are the two things I want you to keep in mind. Our mission here in this classroom. Is to co -create together a classroom so that everyone in the world can listen in and love Dante. We are spreading Dante throughout the world. That is our central mission. Nothing else comes before this. And second, if you are truly to understand Dante. If you are truly to read the Divine Comedy and understand what's going on. You have to commit yourself to loving someone and sharing Dante. With that person. It could be anyone. It could be your mother. It could be your brother. It could be your student. It doesn't matter. But it has to be a real person, guys. Okay? Alright? Having said that. I want to explain why it's important to share Dante with the world. Okay? Alright.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0032
+
+## seg-0033 / 00:22:49-00:23:46 / SPEAKER_17
+
+So, let's go to the year 1300. In the year 1300, there are many places in the world. Okay? In the Middle East, there's something called the Islamic Golden Age. Okay? Islam. Islamic Golden Age. In China and in Asia, there is the Pax Mongolica. The Mongols are in charge. In Central America, you have the Mayans. Okay? And in Europe, you have medieval Europe. You guys can't appreciate this. But in the year 1300, medieval Europe was essentially a shithole. Okay? It was the worst place in the world to be. Excuse me? Basically, the Dark Ages. Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0033
+
+## seg-0034 / 00:23:47-00:24:12 / SPEAKER_06
+
+I find that a very reductionist view, to be honest. Like, a lot of people say bad things about the Middle Ages. I agree. Middle Ages, bad place to be compared to now. Compared to the Renaissance. But we have to admit that the Middle Ages were the foundation. For what became the Renaissance. And the Renaissance did not change things much for the average person. It changed things a lot for the intellectuals and for the high class people. I think that's important to keep in mind.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0034
+
+## seg-0035 / 00:24:12-00:25:11 / SPEAKER_17
+
+Okay. So I'm trying to make a point here. Okay? The point is that in the year 1300, if you were a Mayan and you visited Europe, if you were living in Baghdad and you visited Europe, if you were living in China and you visited Europe, you would think this place is a shithole. Okay? You would think this place is hopeless. These people are barbarians. All they do is kill each other. There is censorship. There is no learning. It's all anti -learning, anti -intellectual. But at the same time, 20 years in the future, there's a Renaissance, which then leads to the Second Revolution, the Enlightenment, the Age of Conquest, where Europe will span out and conquer everyone. Okay? All right? So the question is, how did this happen? Why? Why is it in the year 1300 you go there and you think these people are completely hopeless? Right? It's like basically like us... I hate to
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0035
+
+## seg-0036 / 00:25:11-00:26:30 / SPEAKER_17
+
+say this, but it's like basically us going to the Middle East right now and saying, oh my God, this place is hopeless. They're all killing each other. There's endless war. They can't agree on anything. They are anti -learning, anti -intellectual. This place is completely hopeless. How was it possible that 20 years later, you would... You would have the Renaissance, you have this emergence of Europe? And my answer is Dante. Okay? It is because of what Dante did, because of the Divine Comedy, that Europe would then go on to expand itself, to change itself. And then the question then is, okay, how is Dante able to fundamentally change the character of the Europeans? And it's the Divine Comedy. And what I will show you is that he places three things before all others. Okay? He fundamentally reimagines what it means to be human by placing three virtues above all else. They, of course, are faith, hope, love.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0036
+
+## seg-0037 / 00:26:30-00:27:54 / SPEAKER_17
+
+Now, you think to yourself, wait a minute. Here, this is just the Christian virtues. Okay? The only difference is, okay, back then, you had faith, hope, and then it was charity. So, what's the big deal here? The big deal is how Dante will come to define these terms. Okay? Divine Comedy fundamentally is trying to show you what these ideas really mean. So, for Dante, faith is the belief. And the understanding of the nature of God. Right? Faith is to understand that God is, first and foremost, love. And God is not this vengeful, spiteful entity, but this all -forgiving, all -generous, all -loving source. Okay? That is what the faith is. Second is the idea of hope. The idea of hope is that by making vows, you can create for yourself your own future that you imagine it to be. Okay? So, hope is fundamentally not a passive thing where you pray to God, hope
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0037
+
+## seg-0038 / 00:27:54-00:29:23 / SPEAKER_17
+
+God gives it to you, but you actively imagine yourself, and then God co -creates with you. And love, for Dante, is the unifying force of the universe. It is what God is. It is what connects us to each other. Okay? Love is about connection. Now, then the question then is, okay, if this is what Dante said, how is this different from the Catholic Church or what Paul said? Okay. And so, what Dante says is this. For faith, hope, and love to exist in the world, it has to be an active act of imagination. Okay? Do you understand? These things don't exist by themselves. They're not given to us by God. It is imagined by us in this world. Okay? And what allows for the imagination to take place is poetry, which, of course, is divine comedy. So, imagine divine comedy as really the big bang. Of Western civilization. Okay? It is what starts Marjorie, because it enables us to imagine faith, love, and hope.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0038
+
+## seg-0039 / 00:29:25-00:30:41 / SPEAKER_17
+
+All right? So, for people at this time, in the Middle Ages, this is a revolution. We don't think this is a big deal now, because we live in a world created by Dante. But before Dante, before the Big Bang, people imagined these things as fundamentally about obedience. Okay? Just obey authority. Obey the church. Obey the priest. And you'll be good. That is what faith, love, and hope is. Okay? Now, what's interesting is that this idea, that everything is based on obedience, also comes from poetry. But it is Virgil. Okay? The Iniat. And this is something we'll discuss later on. Okay? Next week. All right. Do you understand? So, what I'm trying to tell you is that at the fundamental core of the universe is a spiritual war between two poets, Virgil and Dante. Virgil, for his poetry, makes us believe that through obedience, we can achieve faith, hope, and love.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0039
+
+## seg-0040 / 00:30:41-00:31:23 / SPEAKER_17
+
+But what Dante is doing with the line comedy is arguing that, no, it must be for our imagination. Imagination in which we are able to achieve faith, love, and hope. Okay? So, this is basically the framework for this class. This is the grand thesis I will present to you as we go along. Okay? These next few days, we'll study why faith, hope, and love are important and how Dante will conceptualize this. And then starting after the break, we will go into this larger cosmic war between Virgil and Dante to reimagine humanity. All right? So, that's the plan. Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0040
+
+## seg-0041 / 00:31:23-00:31:54 / SPEAKER_06
+
+So, my first question has to do with the very Eurocentric nature of this so -called cosmic war. So, Virgil and Dante are both Europeans, and I think it might be more appropriate to say that this is a war fought on the European thought scape rather than across the entire cosmos. And the second part is I'm a little bit confused when you're talking about obedience. So, you said that Dante speaks about obedience. He speaks against obedience, but he speaks for the obedience of vows and obedience to God. So, how is that different?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0041
+
+## seg-0042 / 00:31:55-00:33:03 / SPEAKER_17
+
+Okay. So, let me answer your second question first. Okay? Okay. So, it's really a difference between how you perceive your role in the world. Are you an active participant in the world? Are you a passive participant in the world? According to Virgil, according to the Catholic Church... I should also point out that... Okay. So, this idea of obedience comes from two major theologians of the Catholic Church. They, of course, are Paul and Augustine, okay? Paul, who is a founder of the Catholic Church, and Augustine, who is the major theologian of the Catholic Church, who will systemize the teachings of Paul, okay? But they get the ideas from Virgil, all right? So, what Augustine teaches people that is very important is that because of the original sin, because of our disobedience from God, humans are inherently evil. If you're inherently evil, you should probably not do too many things, okay? Because all you do is create more evil in the world.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0042
+
+## seg-0043 / 00:33:03-00:33:32 / SPEAKER_17
+
+Therefore, you should just obey, and if you obey and you avoid sin, that is the fastest path to heaven. Okay? Does that make sense? Just obedience, do what the church tells you, and you will do good in the world, or you will not do evil in the world. And then you will ascend to heaven, okay? So, it's a very fatalistic, very pessimistic worldview, okay? So, that's a major difference. Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0043
+
+## seg-0044 / 00:33:33-00:34:41 / SPEAKER_16
+
+Can I add to this? I actually was rereading and researching last night City of God by Augustine, and he would say that because of the fall—let me pull up my notes—because of the fall, Jesus was the only perfect person because Adam was exiled from the Garden of Edom. Adam's sin essentially damaged humanity. That's right. And the damage itself was inherited by all the descendants of Adam's through the mechanism of semen. Right? And it's this concept of every human has sexual desire almost as a punishment. And even the people, even the saints and the most holy people of all time who denied themselves, they would be—what do you call it? Celibate. They're denying themselves sexual desire. Augustine calls this fake. He is not impressed with this at all. And he would say, like, it's a person who's, like, fasting. They still—they're still hungry, right? And it's that hunger, that desire that's the—that you cannot fake. It's still there, right?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0044
+
+## seg-0045 / 00:34:42-00:34:51 / SPEAKER_16
+
+And so, the greatest saint and the worst criminal are all equally fallen before God. Yes, exactly.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0045
+
+## seg-0046 / 00:34:52-00:36:11 / SPEAKER_17
+
+So, as—so, you can appreciate this is what's being taught at this time, right? We are just completely hopeless. We are beyond salvation. We are just beyond redemption. Just don't cause any trouble, guys. Just obey. And then—and then when you die, maybe God will save you, okay? So, it's a very pessimistic, very fatalistic viewpoint. But when you read it on comedy, it's very optimistic. It's very hopeful, okay? It's—it's just emits love, okay? So, thank you so much for that, okay? All right, great. All right, so let me answer the second question, which is, Virgil and Dante are European. And so, therefore, they don't speak for all of humanity. Okay. So, I'm going to get into a lot of trouble for saying this, but I don't perceive poetry as culturally located, okay? I think poetry is universal. The entire point of teaching Dante in Beijing in the year 2026 to mostly Chinese students, from different countries. Age groups, high school, university, adults, is to prove the universality of Dante, right?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0046
+
+## seg-0047 / 00:36:11-00:36:40 / SPEAKER_17
+
+So if Dante is only European, why is it that we have students from China who are really focused on Dante, who find inspiration in Dante? Why is it that if culture really matters that much? How are we able to create this classroom? Could you answer that?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0047
+
+## seg-0048 / 00:36:40-00:37:05 / SPEAKER_06
+
+Well, what I'm saying is not that they are limited to Europe. I'm saying that they are only representative of Europe. So it's like—it's like there are so many types of poetry out there, and you're basically saying that these two are the archetypes. These two are the big bads. These two are the big bads fighting out against each other. I'm saying there might be better archetypes out there. There might be different archetypes out there also fighting it out. I'm saying you didn't—
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0048
+
+## seg-0049 / 00:37:05-00:37:09 / SPEAKER_17
+
+But like rather than just saying there might be, give me an example.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0049
+
+## seg-0050 / 00:37:09-00:37:42 / SPEAKER_06
+
+I'm not sure I could pronounce the name, but for example, like in India, there are different types of poetry and holy scripture, and one of these I remember is called the Aranyaka, and they're about the forest. They're about the primal nature of man. So instead of talking about obedience versus disobedience, maybe we can talk about civilization vs. primal nature of man. I'm just saying these are different perspectives that Virgil and Dante do not encapsulate.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0050
+
+## seg-0051 / 00:37:44-00:39:00 / SPEAKER_17
+
+Okay, so I don't know enough about Indian poetry to comment, okay? But the point I'm trying to make is this. In this classroom, we are making certain assumptions. We are assuming the universality of Dante, meaning Dante can speak to everyone of all cultures of all ages, across all ages. Across all time, okay? And you need that sort of arrogance or sense of supremacy in order to fully appreciate Dante. Okay? So I understand, yes, there must be other great works of literature out there. Show it to me, okay, rather than tell me you're just being ignorant, you're just being racist, show me. Okay? Take it upon yourself to learn this stuff and share it with the world. I would love to be proven wrong about Dante. I think Dante's the greatest poet in the world. I think Dante speaks for everyone. I think Dante is universal. I think it doesn't matter if you are Chinese, or if you are Indian, or if you are anyone, okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0051
+
+## seg-0052 / 00:39:00-00:39:23 / SPEAKER_17
+
+You will love Dante if you make the effort to appreciate Dante, and I don't think anyone else compares to Dante. Okay? I make this arrogant statement, and if you say you are wrong, then take the time, as I've taken the time to learn Dante, and show me another poet who is just as worthy to learn as Dante.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0052
+
+## seg-0053 / 00:39:24-00:39:48 / SPEAKER_06
+
+I'm not saying that you're racist. I'm not saying any of these things. I don't know why you arrived at the conclusion. I am saying that it is part of our academic responsibility to limit ourselves as researchers to what we know and what we do not. And I agree with you. You are making a very arrogant statement, and perhaps that statement has a place in this class. But my point is, it is part of your academic responsibility to limit the scope of that statement.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0053
+
+## seg-0054 / 00:39:48-00:41:08 / SPEAKER_17
+
+Okay, this is not an arrogant classroom, okay? This is not designed to be an arrogant classroom. I already said what our two missions are, right? Share Dante with the world, right? Why do I share Dante with the world? Because I think that in this time and age, when there is war, when there is hopelessness, when there is conflict, I believe that resummoning Dante to this world, spreading Dante to this world, will give humanity hope. That's what I fundamentally believe. That's what I think our mission is, okay? Not to just share Dante with the world, but to resummon Dante physically into our world with our imagination. Okay? So that Dante can help save the world from whatever we're doing, okay? So keep in mind, guys, this is the point of why we're here, to share Dante with the world. That's the primary mission. Everything must follow from this mission. If you're like, no, I want to learn Dante academically, there are tons of Dante academic courses, right?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0054
+
+## seg-0055 / 00:41:08-00:41:17 / SPEAKER_17
+
+Carol, do you know if you can introduce this course online? Did we not say this?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0055
+
+## seg-0056 / 00:41:17-00:41:31 / SPEAKER_00
+
+This is not a course. Okay. It's not an academic program. There's, for example, an Open也 course by a professor on Dante in translation. You can look for many of these.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0056
+
+## seg-0057 / 00:41:32-00:42:50 / SPEAKER_17
+
+Okay. Do you understand? That's why I have to emphasize, okay? There is a mission here. Let's stick to the mission. If you don't agree with the mission, then this course is probably not for you. Okay. So it's not a course. Carol, but this setup, okay, or this platform, okay, is not for you, okay? We are here to truly learn to love Dante so that we may share it with others, okay? Any more questions before we begin? Okay, so what we're going to do now is we're going to jump ahead. We're going to skip around because I want to show to you, all right, how Dante is going to recreate the idea of humanity, all right? So first thing is we're going to go to Canto 11, Canto 11, okay? So what's happening is that Beatrice and Dante are traveling through the cosmos, right? And we're going to skip around, not because the other candles are not important.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0057
+
+## seg-0058 / 00:42:50-00:44:06 / SPEAKER_17
+
+It's just I don't have, as I mentioned, yesterday, I don't have the full knowledge to fully interpret the other cantos. But I want to focus on Cantos 11 and 12 this morning. So what's happening is that Dante will meet two individuals. The first individual is Thomas Aquinas, who is only 2nd Augustine. So Thomas Aquinas is the second most famous Catholic theologian in the world. And what is important is that he is going to try to reconcile classical Greek philosophy with the Christian faith, okay? And he's really the first to attempt this. This is being done throughout the world in the Islamic Golden Age. But again, at this time, Europe is extremely ignorant and isolated from the rest of the world. And Thomas Aquinas is... He's going to change that by bringing Israelian thought back into Christian theology, okay? So that's Thomas Aquinas. Thomas Aquinas is part of an order called the Dominicans, okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0058
+
+## seg-0059 / 00:44:06-00:45:25 / SPEAKER_17
+
+The Dominicans are essentially the Jesuits, the pre -Jesuits. And these are people who are dedicated to learning and education. And they are doing this in order to better enforce Christian orthodoxy, for example. So that's the Dominicans. And then in Kindle 12, we will meet Bonaventure, who is part of an order called the Franciscan Order, okay? The Franciscan Order was founded by Francis Assisi, who made a vow to poverty. And this is very similar to Jesus, right? Jesus, as we discussed yesterday, he founded a movement called the Poor. And they made a vow to poverty. And so St. Francis also made a vow to poverty. The problem with both orders is they started out great, okay? Their founders were visionary. They really brought hope to the world. I mean, the Catholic Church at this time was being criticized for corruption, for engaging in worldly affairs. And these two movements seemed the answer. They were reform movements.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0059
+
+## seg-0060 / 00:45:25-00:45:59 / SPEAKER_17
+
+They were reform movements. They were movements that seemed to bring hope to Europe. But ultimately, both fail, okay? So what Dante wants to figure out is why is it that these two movements, which started out great, the Dominicans with their selfless pursuit of knowledge and the Franciscans with their selfless pursuit of spirituality, why did they fail? Okay? That's a question before us. All right. So can we read Carol, please? Sure. This is Canto 11, okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0060
+
+## seg-0061 / 00:45:59-00:46:31 / SPEAKER_00
+
+Paradise, Canto 11. Oh, senseless cares of mortals, how deceiving are syllogistic reasonings that bring your wings to flight so low to earthly things. One studied law and won the aphorisms of the physicians. One was set on priesthood and won through force or fraud on rulership. One meant to plunder, one to politic, one labored, tangled in delights of flesh, and one was fully bent on indolence.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0061
+
+## seg-0062 / 00:46:31-00:46:48 / SPEAKER_17
+
+Okay. So here, Dante is criticizing academic studies, right? Okay? What is his concern about academic studies at this time? What does he mean? Anyone?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0062
+
+## seg-0063 / 00:46:49-00:46:51 / SPEAKER_11
+
+Yes? They all have ulterior motives.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0063
+
+## seg-0064 / 00:46:51-00:46:52 / SPEAKER_17
+
+Good. Yes.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0064
+
+## seg-0065 / 00:46:53-00:46:55 / SPEAKER_11
+
+They focus too much on the material and not the spiritual.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0065
+
+## seg-0066 / 00:46:55-00:47:07 / SPEAKER_17
+
+Yeah, exactly. Okay? So the idea is syllogistic reasonings, okay? Rather than use your mind to pursue God and the truth. Yes? Did you have a question?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0066
+
+## seg-0067 / 00:47:07-00:47:29 / SPEAKER_06
+
+No, no. I was trying to answer your question, too. So, like, I'm reminded of something in Crusader Kings, the game. Like, you can have your priest justify your claim to a plot of enemy land through theology. So what he's saying here, how I understand it, is that he's saying that, you know, you're talking about theology is not studying for its own sake, but to amass power.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0067
+
+## seg-0068 / 00:47:30-00:47:49 / SPEAKER_17
+
+Exactly. Okay? That's what everyone agrees on, right? This is a problem with theology, with academics at this point in history. Quite honestly, it's no different today, by the way. But he points out this is a real problem. Okay? Can you keep on going?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0068
+
+## seg-0069 / 00:47:53-00:48:17 / SPEAKER_00
+
+Verse 10. Verse 10. Verse 10. Verse 10. things was in the height of heaven with beatrice so gloriously welcomed after each of those spirits had returned to that place in the ring where it had been it halted like a candle in its stand and from within the splendor that had spoken to me before i heard him as he smiled become more
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0069
+
+## seg-0070 / 00:48:17-00:48:53 / SPEAKER_17
+
+radiant more pure begin so he of course is thomas aquinas all right who will explain um the franciscan order okay so this is weird because uh thomas aquinas is of the of the dominican order but he will explain the glories of the franciscan order now what he will do is he will criticize his own order and then the next counter will meet another guy bonaventure who is of the franciscan order praise the dominican order and then he criticism on his own order okay all right uh keep on going verse 19
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0070
+
+## seg-0071 / 00:48:53-00:49:23 / SPEAKER_00
+
+even as i as i grow bright within its rays so as i gaze at the eternal light i can perceive your thoughts and see their cause you're in doubt you want an explanation in language that is open and expanded so clear that it contents your understanding of two points where i said they fatten well and where i said no other ever rose and here one has to make a clear distinction okay so um
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0071
+
+## seg-0072 / 00:49:23-00:49:44 / SPEAKER_17
+
+so we skip the so we skip the head but thomas aquinas already is having a conversation with dante and they found them well office obviously refers to corruption in the um catholic church okay so he's trying to explain uh how this happened okay keep on going okay line 28
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0072
+
+## seg-0073 / 00:49:45-00:50:10 / SPEAKER_00
+
+the providence that rules the world with wisdom so fathomless that creatures inter likes intellects are vanquished and can never probe its death depth so that the bride of him who was for him confided in the sickest of men that crianças care to not willeth men of the flat tail of man that are the lambs of death equivalent of her effigies and different things to all those of death decreed on them. loud cries had wed her with his blessed blood might meet her love with more fidelity and more assurance in herself on her behalf commanded that there be two princes one on this side one on that
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0073
+
+## seg-0074 / 00:50:10-00:50:21 / SPEAKER_17
+
+side as her guide okay so this is most these are the two most important tercets of this canto okay so let's try to unpack this does anyone know what the bride of jesus is the bride of god who what
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0074
+
+## seg-0075 / 00:50:21-00:50:26 / SPEAKER_06
+
+is the bride of god um well if i was a heretic i would say mary magdalene
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0075
+
+## seg-0076 / 00:50:29-00:51:41 / SPEAKER_17
+
+no guys it's a catholic church right the bride of god yeah yeah okay that's a heretic all right the bride of god is the catholic church okay so how's how's the catholic church founded it was founded uh for the sacrifice of jesus right so after jesus was crucified the catholic church came into being in order to continue jesus mission on earth right so the catholic church made a vow to god that we will be forever mary and i will forever promote your message in the world okay and in order to achieve this uh what will happen is they will uh give rise to two princes to ensure that the mission continues despite the corruption and the decay of the catholic church and these two princes are saint francis will found the franciscan order who are devoted to poverty and then dominic who founded the dominican order who will promote themselves uh who will dedicate themselves
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0076
+
+## seg-0077 / 00:51:41-00:52:05 / SPEAKER_17
+
+to learning as well as promoting um catholic orthodoxy throughout europe okay these are the ones who are responsible to squash all heresies okay all right so this is the origins of the catholic church keep on going verse 37 one prince was all seraphic
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0077
+
+## seg-0078 / 00:52:05-00:52:12 / SPEAKER_00
+
+in his order the other for his wisdom had possessed the splendor of cherubic light on earth
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0078
+
+## seg-0079 / 00:52:12-00:52:26 / SPEAKER_17
+
+so the um so the sheriff and the sure room are two orders of angels okay so the angels have taken possession of these two individuals francis and dominic and it's the angels who will guide them
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0079
+
+## seg-0080 / 00:52:26-00:53:39 / SPEAKER_00
+
+in their mission okay verse 40 i shall devote my tail to one because in praising either prince one praises both the labors of the two were toward one goal okay so he's going to talk about francis okay keep on going verse 43 between tapino's stream and that which flows down from the hill the blessed ubaldo chose from a high peak there hangs a fertile slope from there perugia feels both heat and cold at portasole while behind its sorrow nocera and gualdo under their hard yoke from this hillside where it abates its rise a sun was born into the world much like this sun when it is climbing from the ganges therefore let him who names this site not say ashesi which would be to say too little but orient if he would name it rightly that sun was not yet very distant from his rising when he caused the earth to take some comfort from
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0080
+
+## seg-0081 / 00:53:39-00:54:13 / SPEAKER_00
+
+his mighty influence for even as a youth he ran to war against his father on behalf of her the lady unto whom just as to death none willingly unlocks the door before his spiritual court at quorum patre he wed her day by day he loved her more she was bereft of her first husband scorned obscure for some eleven hundred years until that son came she had had no suitor okay all right so let's try to figure out what's going on okay
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0081
+
+## seg-0082 / 00:54:13-00:54:32 / SPEAKER_17
+
+francis married someone okay he married this person in defiance of his family of his father okay um does anyone know the story of francis a sissy okay can you can you uh explain who he is and what he does?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0082
+
+## seg-0083 / 00:54:32-00:54:46 / SPEAKER_06
+
+uh so basically he's a saint obviously and the founder of the franciscan order and and his whole thing is that he's really poor really really really really poor poorer than augustinians poorer
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0083
+
+## seg-0084 / 00:54:46-00:56:02 / SPEAKER_17
+
+than dominicans okay sorry sorry how did he become poor uh he gave away all his riches okay so he's born rich okay he's born into a wealthy family and he said to his parents i don't want this okay i want poverty so he rejected his family he rejected his legacy he rejected his community in order to wed poverty okay so the bride she is referring to poverty right and who married poverty before francis poverty has two husbands francis is the second who would be the first jesus right okay jesus was the first husband and then after he died no one wanted to marry her again okay he's like i don't want poverty screw this okay francis is like i will do it i will marry poverty okay does it make sense guys all right so the she refers to poverty keep on going
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0084
+
+## seg-0085 / 00:56:02-00:57:12 / SPEAKER_00
+
+verse 67 that he who made earth tremble found her unafraid, serene with amicless when he addressed her, nor did her constancy and courage help when she, even when Mary stayed below, suffered with Christ upon the cross. But so that I not tell my tale too darkly, you may now take Francis and take poverty to be the lovers meant in my recounting. Their harmony and their glad looks, their love and wonder and their gentle contemplation, served others as a source of holy thoughts. So much so that the venerable Bernard went barefoot first. He hurried towards such peace, and though he ran, he thought his pace too slow. Oh, wealth unknown. Oh, good that is so fruitful. Gideas goes barefoot, and Sylvester behind the groom, the bride delights them so. Then Francis, father, master, goes his way with both his lady and his family, the lowly cord already round their waists.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0085
+
+## seg-0086 / 00:57:12-00:57:48 / SPEAKER_17
+
+Okay, so he is referring to a happy marriage, right? Francis gives up everything to marry poverty, and they are the happiest couple in the world. And there are followers who also embrace poverty, and they become a family, okay? And this becomes a Franciscan order, the early Franciscan order. Why would you be happy marrying poverty? This goes into everything that we've been taught, right? If you want to be happy, you must get rich. Why would you be happy marrying poverty? Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0086
+
+## seg-0087 / 00:57:49-00:58:07 / SPEAKER_14
+
+Like, what if without money, you're like living from the material world? So there's, because without money, nothing you can buy. You cannot get happiness from those materials or some like physical object. Instead, you can truly find your spirit when the material cannot make you feel astray.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0087
+
+## seg-0088 / 00:58:07-00:58:18 / SPEAKER_17
+
+Yeah, okay, so what you're saying is that money sort of blinds you, right? You focus on money, you focus on materialism, you focus on the material world, and that blinds you from a greater truth. Okay, good. Anyone else?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0088
+
+## seg-0089 / 00:58:19-00:58:29 / SPEAKER_13
+
+Oh, yeah, maybe because you want to go to paradise, go to heaven, because if you just do not be rich, then maybe you'll be in heaven, just like the gods said, right? So maybe.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0089
+
+## seg-0090 / 00:58:30-00:58:37 / SPEAKER_17
+
+Right, so Jesus said that if you are poor, you are richest in heaven. Yes, okay, blessed are the meek, yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0090
+
+## seg-0091 / 00:58:38-00:58:43 / SPEAKER_06
+
+So he had riches first, right? And he was giving them all away. Maybe he was trying to do good deeds by giving alms.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0091
+
+## seg-0092 / 00:58:45-00:58:47 / SPEAKER_17
+
+Could you elaborate on this?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0092
+
+## seg-0093 / 00:58:48-00:59:13 / SPEAKER_06
+
+So like, he has all this money, and to get rid of it, to become poor, he doesn't chuck it in the river. He gives it away to like beggars, to vagrants. And even when he found his order, the Franciscan order, he took in people who have no other home. And for the people who have property, he took their donations, and he used it to do good works in the local area. So it's a way of spreading out the wealth.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0093
+
+## seg-0094 / 00:59:14-00:59:15 / SPEAKER_17
+
+Are you just assuming that, or do you know that?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0094
+
+## seg-0095 / 00:59:15-00:59:16 / SPEAKER_06
+
+I read the story, yeah.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0095
+
+## seg-0096 / 00:59:17-00:59:18 / SPEAKER_17
+
+Okay, so he gave away his wealth?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0096
+
+## seg-0097 / 00:59:19-00:59:19 / SPEAKER_06
+
+Yeah.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0097
+
+## seg-0098 / 00:59:19-00:59:23 / SPEAKER_17
+
+Okay, all right. But I'm saying like, why would he do that? Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0098
+
+## seg-0099 / 00:59:23-00:59:53 / SPEAKER_04
+
+So in the line 76, they say, their harmony and their glad looks, their love and wonder, and their gentle consolation served others as a source of holy thoughts. So probably, he's trying to show the world that you can also, like he said, you can go look for your inner spirit, and... spiritual enlightenment, rather than chasing money. He, as an example, he want to show the world that this is, Wait. There can be a way.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0099
+
+## seg-0100 / 00:59:53-01:00:54 / SPEAKER_17
+
+Okay, so thank you. First of all, I love the fact that you refer to the text, okay? This is really important, guys. We're here to learn Dante always refer to the text. And second of all, you're absolutely right in that being an inspiration to others brings you tremendous delight, right? So back to the second, learn Dante. So back to the second, learn Dante. So that you may teach it to others as an act of love, right? So the reason why you do that is it makes you a happier person, okay? Not only does it give you more enlightenment, but it brings greater happiness to you. So by being a good example, by being a good leader, he's creating more happiness in the world, and that, in him, creates more happiness. Good, okay? So if bearing poverty can be good, why don't we do it then? Huh? Huh? There's been two husbands to poverty, Jesus and Francis.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0100
+
+## seg-0101 / 01:00:54-01:00:56 / SPEAKER_17
+
+They're all saints, yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0101
+
+## seg-0102 / 01:00:57-01:01:06 / SPEAKER_18
+
+Well, because we would be ostracized by society. I mean, for example, there's also the philosopher, Diogenes, who lived in poverty.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0102
+
+## seg-0103 / 01:01:07-01:01:09 / SPEAKER_17
+
+The cynic, yes, the cynic, yes.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0103
+
+## seg-0104 / 01:01:09-01:01:36 / SPEAKER_18
+
+Yeah, yeah, he lived in Athens in a barrel or something for his whole life. A bathtub. Or a bathtub, yeah. And yeah, he was also really poor, and everyone looked down on him, and, like, he was ostracized, and yeah. But why did he do it then? If he was ostracized, if he was humiliated, everyone laughed at him, why did he do it? Well, he didn't care. Like, he felt happy, so that's what mattered. But what's the source of his happiness?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0104
+
+## seg-0105 / 01:01:41-01:01:54 / SPEAKER_16
+
+I... No, it's like the Buddhist said, if you don't want... If you don't desire, then you're never going to have suffering, because suffering is the point of desire. Yeah, yeah, yeah, he just didn't want it. Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0105
+
+## seg-0106 / 01:01:55-01:02:30 / SPEAKER_06
+
+So, I would turn inwards, to be honest, I would turn inwards, I would say this is a way for them to get closer to God, because as we mentioned before, like, in Dante's own flight to paradise, Beatrice told him to shed his physical conceptions, to shed his physical logic, to shed his worldly things, and only when we are pure in spirit can we reach the heavens. Now, suicide is not a thing in Catholicism, so the closest we can get to a state of being pure in spirit is by getting rid of all our property and having only this body left.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0106
+
+## seg-0107 / 01:02:31-01:02:45 / SPEAKER_17
+
+Okay, right, yeah, I understand that, but I'm saying, like, why is it hard to just do that? Why do you not want to give up your pop, like, property and your wealth? Anyone else? Let's have more participation, okay, yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0107
+
+## seg-0108 / 01:02:47-01:02:52 / SPEAKER_01
+
+We don't know, actually, what it would be like if we haven't experienced it before, so what if we give everything away and then...
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0108
+
+## seg-0109 / 01:02:52-01:03:09 / SPEAKER_17
+
+Exactly, yeah, thank you, okay, so we have one, which is... We will become social ostracized, okay? Humiliation, it's public humiliation, okay? Everyone's gonna laugh at us. Unless you're, like, diagenese and you just don't care, okay? But that's pretty rare. Second is... Sorry, sorry, could you repeat?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0109
+
+## seg-0110 / 01:03:10-01:03:16 / SPEAKER_01
+
+It's the, if we haven't experienced it before, we don't know what it will be like, so what if I give everything away and then I'm actually miserable?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0110
+
+## seg-0111 / 01:03:16-01:03:37 / SPEAKER_17
+
+So these are the two things, right? Ego and fear. Ego is you want to stand above the people around you. Fear is you don't truly know yourself, you're afraid, okay? So these are the two major reasons, the ego and the fear, yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0111
+
+## seg-0112 / 01:03:38-01:03:47 / SPEAKER_02
+
+And sometimes you also have, like, responsibility about raising a family or caring about, like, your family, so that could be a reason. Like, besides your ego, you need to care for others also.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0112
+
+## seg-0113 / 01:03:47-01:04:08 / SPEAKER_17
+
+Yeah, exactly, right? If you have a family, you can't take a vow on poverty. You have to feed them as well. So poverty... Poverty means complete social isolation, right? It means you can't get married. It means you can't have kids. So it is an act of tremendous sacrifice. Good, thank you. Anyone else? Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0113
+
+## seg-0114 / 01:04:09-01:04:42 / SPEAKER_10
+
+So I think that, you know, when you have, like, materialistic goals, it kind of motivates you sometimes. So, for example, if there's, like, a test and my mom promises me, like, a new iPhone 17 Pro, like, I would definitely, like, work harder for that. So I just think that for, like, a lot of people, it's very hard to let go of, like, their materialistic desires because then they would feel like, my life is so devoid of meaning. And I think that they're scared of that.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0114
+
+## seg-0115 / 01:04:42-01:05:08 / SPEAKER_17
+
+Yeah, so what you're saying is short -term gratification versus long -term reward, right? Maybe if you embrace the life of poverty, you go to heaven, and that's great. But in the short -term, you're not going to be able to do that. In the short -term, you're better off just being rich. Right? So, good, yes. Anyone else? Yes? Yeah. No, sorry, sorry, sorry. You, you, yes.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0115
+
+## seg-0116 / 01:05:12-01:06:40 / SPEAKER_03
+
+I think, you know, in ancient times, in time of Dante, wealth means physical possessions, chattels, or real estate. And all this carries tremendous responsibility for the person who possess them because, and this leads to a burdensome life. And secondly, and secondly, just going back to the text, I think when the Franciscan and the Arcanos, the Dominican, they praise the other and criticize themselves, there might be a new interpretation, which I think might be interesting, which, you know, if we, if they, what if these two criticize themselves because they do not have equal wealth and equal knowledge? If, there is the Chinese saying, you know, your wealth is only yours if your knowledge deserves it. So, it means that, you know, if your wealth is equal to your knowledge, maybe it's a good thing. If the wealth goes to a person who has great knowledge and great capacity to distribute the wealth and use the wealth
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0116
+
+## seg-0117 / 01:06:40-01:06:45 / SPEAKER_03
+
+in a wise way, not for his family, but also for society, I think it might be a good thing.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0117
+
+## seg-0118 / 01:06:47-01:07:37 / SPEAKER_17
+
+Okay. So, that's a very interesting comment. But have we had an instance where a truly wise man also had tremendous wealth? Maybe Solomon, okay? So, but I mean, there are examples. But historically, we've had more cases where you can either choose wealth or wisdom, right? The classic example, of course, is Socrates, a man who was basically poor all his life. In fact, his wife made all the money in the family, okay? He had a family, he had kids, but the wife had to raise the kids because he didn't take money. So, he didn't take money for his teachings. He just went around and taught for free. He was engaged in wisdom. Okay. Any more questions or comments before we move on?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0118
+
+## seg-0119 / 01:07:38-01:08:13 / SPEAKER_13
+
+Yeah. Maybe because the, you know, people who just live in ancient time, they sometimes believe in God, believe they are stoicism, maybe. But, you know, the world is being regulated by the system, right? The system is just for rich, for rich people. The people who have money, it means that they have right to talk. They have right to do whatever they want. So, maybe it's just because the social system just want people to be rich. If you can be rich, then you'll be one of us. But if you do not, you have your own wisdom, then, sorry, I won't give you the right. I won't give you the money. Maybe that's the problem.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0119
+
+## seg-0120 / 01:08:13-01:08:49 / SPEAKER_17
+
+Okay. That's an interesting point, okay? This is certainly true for all world, where all that matters is money. Money moves around the world. This is not true, actually, in medieval Europe, okay? Medieval Europe, yes, there's hypocrisy where the Catholic Church is filthy rich. They own a third of all the land in Europe. That is true. But what is taught, what people believe is that money is the root of all evil. So, the money doesn't matter. What matters is salvation. What matters is going to heaven, okay? Okay. Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0120
+
+## seg-0121 / 01:08:49-01:09:01 / SPEAKER_04
+
+Is it kind of gaslighting that the Catholic Church has said that they own, like, most of the land, but they say, money is the root of evil. But meanwhile, they have all the money and can do whatever they want.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0121
+
+## seg-0122 / 01:09:02-01:09:10 / SPEAKER_17
+
+Okay. And so, what would you prefer? They own all the property, and they tell everyone, you're nothing, I'm everything, you guys are poor, you guys are going to hell. Would you prefer that?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0122
+
+## seg-0123 / 01:09:12-01:09:15 / SPEAKER_04
+
+No. Okay. I'd rather be deceived. Yeah.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0123
+
+## seg-0124 / 01:09:16-01:10:01 / SPEAKER_06
+
+I'm interested about the charitable concept of all of this. Like, I know this is not the modern age. In the modern age, you have to pay a lot of taxes, and the taxes go towards public works. And you can donate to charity, and you have all these things going on. But in the Middle Ages, wealth was pretty stagnant, right? However, there are some few charitable endeavors by believers. Like, there's this custom of almsgiving by rich ladies, and there's also the Catholic Church and the monasteries, and they provide sanctuary to criminals, and they provide schooling. So, like, is that a type of charitable outreach that would not be possible had they not been so organized and so rich?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0124
+
+## seg-0125 / 01:10:02-01:10:57 / SPEAKER_17
+
+Yeah. So, charity is one of the chief Christian virtues, right? So, we say faith, love, and hope, but back then, it was faith, hope, and charity. So, if you're a rich person, you were obligated to share your wealth with the people around you, okay? And, guys, it's hard to imagine this, but back then, no one really cared how rich you were. It was not a big thing. Okay? It was a source of a lot of corruption, but for most people, they didn't really care. At the elite politics, it did matter, but for most people, it did not matter, okay? We live in a world that is money obsessed. It is crazy how we just love money. We think that money is a source of all good in this world. For whatever reason, we worship this fake trillionaire, Elon Musk. Like, he's a fake trillionaire, okay? All this, the money he has, is just made up.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0125
+
+## seg-0126 / 01:10:57-01:12:05 / SPEAKER_17
+
+It doesn't really exist, and we worship him, okay? So, anyone else from any other type of human history comes to our day, and everyone says, like, you guys are the most superstitious people in the world, okay? You guys worship this fake god money, and you spend your entire life around it. You guys are superstitious. You guys are ignorant. You guys are backwards, okay? I guarantee you, anyone who comes from the past to today will be appalled by the way we live our lives. All right, okay, so having established the fact that, you know, we have this ego and fear that prevents us from truly understanding God, okay? This raises the question of how, then, can we overcome the ego and the fear, right? That's the question, okay? This is a central question if we are to save humanity, if we imagine humanity, okay? Keep this in the back of your mind. How do you overcome ego and fear?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0126
+
+## seg-0127 / 01:12:05-01:12:14 / SPEAKER_17
+
+I've already given you the answer, faith, hope, and love, but let's examine what this really means, okay? All right, so can you continue, Carol, please?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0127
+
+## seg-0128 / 01:12:16-01:13:04 / SPEAKER_00
+
+Verse 88. Nor did he lower his eyes in shame because he was the son of Pietro Benardone, nor for the scorn and wonder he aroused, but like a sovereign, he disclosed in full, to innocent, the sternness of his rule. From him he had the first seal of his order. And after many of the poor had followed Francis, whose wondrous life was better sung by glorious choir and the Empyrean, the sacred purpose of this chief of shepherds was then encircled with a second crown by the eternal spirit through Honorius. And after, in his thirst for martyrdom, within the presence of the haughty Sultan, he preached of Christ and those who followed him.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0128
+
+## seg-0129 / 01:13:04-01:13:57 / SPEAKER_17
+
+Okay, so Francis is being described as the exemplar of faith, hope, and love. Why? Because not only did he embrace poverty, but he went to the Islamic world and tried to convert the Sultan, okay? That is the exemplar model of faith, hope, and love. Okay, does that make sense? Okay, keep this image in the back of your mind. This man who is a Christian from this backward place called Europe, he goes to probably the wealthiest place in the world, and he tries to convince the Sultan that, hey, you're wrong, you're worshiping the wrong God. And let me tell you why, okay? Keep on going.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0129
+
+## seg-0130 / 01:14:01-01:14:37 / SPEAKER_00
+
+It's not just this man, but there's another reason why he turned away from God. I don't know why he turned away from God. He went to a place called Thessalonica, and he was doing research there. if you do not offer to hear and read the book of Thessalonica, And he was not going to do that. And here we go. It's not just him but the rest of the world. he was called Thessalonica, and his success was all about the jerseys of the world. heirs francis commended his most precious lady and he begged them to love her faithfully
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0130
+
+## seg-0131 / 01:14:37-01:15:19 / SPEAKER_17
+
+okay so so okay so you guys understand what's happening right francis will die he'll go to heaven to to receive his just reward he tells his brothers his entire followers to be loyal to his wife right my wife is poverty now that i'm gone my only request my last will and testament is for you to be loyal to take care of my wife who's given me everything in this world and who's helped me to ascend to heaven so of course what do they do what do they do obviously uh yes they
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0131
+
+## seg-0132 / 01:15:19-01:15:26 / SPEAKER_18
+
+they're not disloyal they abandon poverty and and and by how if you if you are this
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0132
+
+## seg-0133 / 01:15:26-01:15:30 / SPEAKER_17
+
+brotherhood the francisian order what's the easiest way for you to abandon poverty
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0133
+
+## seg-0134 / 01:15:30-01:15:37 / SPEAKER_14
+
+very somewhat who are rich
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0134
+
+## seg-0135 / 01:15:40-01:16:00 / SPEAKER_17
+
+no because they're all celibate right this is francisian order so they're supposed to marry poverty and so what do they do and and and it's a loophole right they're not gonna like you know what screw this uh we're going to marry rich people okay but there's a loophole what was what
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0135
+
+## seg-0136 / 01:16:00-01:16:45 / SPEAKER_06
+
+is the loophole oh the loophole is actually really famous so like uh it used to be that during the time when francis was like you know like you know like you know like you know like you know like the�를 of the life and people give the franciscan order a top uh a house in town to live in and francis just climbed up the roof and started tearing off the shingles and the town was like stop stop stop and francis was like no you're giving us a house we can't have that even if we share it we can't have that and so the town told francis okay i guess we're lending you the house and francis begrudgingly agreed so after he died this kind of went overboard like francis was were borrowing things left and right left and right and eventually they became the like the other orders but all the things are technically borrowed okay
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0136
+
+## seg-0137 / 01:16:45-01:16:46 / SPEAKER_06
+
+well they basically own property
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0137
+
+## seg-0138 / 01:16:46-01:16:56 / SPEAKER_17
+
+okay so let me ask you this question why would people give them property why would people give
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0138
+
+## seg-0139 / 01:16:56-01:17:05 / SPEAKER_09
+
+them property so do they say something like give us um property and then you can perhaps ascend to
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0139
+
+## seg-0140 / 01:17:05-01:17:30 / SPEAKER_17
+
+heaven or like the friends would never ever say this okay they would never say if you make me rich i'll get i'll make you go to heaven okay that's not what happened like donate to our just cause no they would never they would never say that what happened uh yes yes you go first and then you okay yeah you should be poor so so i'll take your property from you no they would never ever do that okay they would never do that what happened they were actually inspirational they
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0140
+
+## seg-0141 / 01:17:30-01:17:41 / SPEAKER_06
+
+were really inspirational like rich people some people wanted to be franciscans but they could feel like they couldn't cut off their material ties entirely so they give the franciscans on property exactly
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0141
+
+## seg-0142 / 01:17:41-01:18:31 / SPEAKER_17
+
+you understand it's a bribe guys okay if i'm rich i'm a billion dollars and these guys are going to heaven because they're poor what i'm going to do i'm going to bribe these guys says hey i'll give you half a million i'll give you like half a billion dollars i'll give you half my wealth okay i still keep a half a billion you get a half billion and we all go to heaven guys you understand that's what happened they did not intentionally try to become rich but they were forced to become rich because everyone wanted to go to heaven okay the idea here is like money doesn't really matter it's salvation that matters they're the keys to heaven everyone's like how much can i pay for these keys and for francis like no that's not how this works guys okay this is not how it works but if you are not francis and you're just
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0142
+
+## seg-0143 / 01:18:31-01:18:58 / SPEAKER_17
+
+this normal human being and people are offering you like billions and billions of dollars it's hard for you to refuse okay and that's and that's what happened it doesn't make sense guys okay the francis would never ever say give me money and you go to heaven okay but not the franciscans all right yeah yes i think the relationship between the franciscans
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0143
+
+## seg-0144 / 01:18:58-01:19:25 / SPEAKER_06
+
+and the pope is really interesting on one hand francis was a devout catholic and he will never contradict the pope in fact he was told by catholic central to maybe tone the richest bad thing down a little bit because you're making us look bad and francis was like okay also uh even though francis is widely known as a peacemaker uh during the crusades he did not speak up against the crusades and he approved the crusades tacitly because after all he was
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0144
+
+## seg-0145 / 01:19:25-01:20:25 / SPEAKER_17
+
+affiliated with the church okay yeah so this is a very important point okay so what's happening in this time is that there are a lot of people who are opposed to catholic church because the catholic church is filthy rich and they were like wait a minute here jesus was poor he said don't be rich um and you guys are filthy rich okay and they were like ostentatious about it like you know just gonna go to rome man okay go to vatican it's the wealthiest place in the world um so there's all this criticism and a way for the catholic church to deal with this criticism is to sponsor the franciscan order right as a way to co -opt these people and show you see there are people who are dedicated to poverty so the franciscans were a useful political pawn uh for the church to maintain legitimacy okay right so thank you for that all
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0145
+
+## seg-0146 / 01:20:25-01:20:26 / SPEAKER_17
+
+right let's keep on going
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0146
+
+## seg-0147 / 01:20:30-01:20:51 / SPEAKER_00
+
+verse 115 and when returning to its kingdom his bright soul wanted to set forth from her bosom it for its body asked no other buyer consider now that man who was a colleague worthy of francis with him a son of the king of the people his blood was pure he kept the bark of peter on true course such was
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0147
+
+## seg-0148 / 01:20:51-01:20:58 / SPEAKER_17
+
+our patriarch thus uh he's referring to paul by the way okay paul keep on going such was our patriarch
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0148
+
+## seg-0149 / 01:20:58-01:21:54 / SPEAKER_00
+
+thus you can see that those who follow him as he commands as cargo carry worthy merchandise but now his flock is grown so greedy for new nourishment that it must wander far in search of strange and distant grazing lands and as his sheep remote and vagabond straight from the land of the father from his side at their return into the fold their lack of milk is greater though there are some indeed who fearing harm stay near the shepherd they are few in number to call them would require little cloth now if my words are not too dim and distant if you have listened carefully to them if you can call to mind what has been said then part of what you wish to know is answered for you'll see the splinters on the plant and see what my correction meant where one
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0149
+
+## seg-0150 / 01:21:54-01:23:00 / SPEAKER_17
+
+may fatten well if one does not stray off okay all right so this critical dilemma okay these are people the Franciscans who have the most noble purpose okay to spread the message of Jesus to bring hope and salvation to the poorest people to embrace poverty these are the best Catholics but there are two central issues the first is their ego in their fear right the fact that to truly embrace poverty the way that Francis did you have to abandon society and no one wants to do that right it's a social death and you're afraid of what it means to be poor so the ego and the fear but another issue is that once you truly embrace poverty and you are seen as holy the entire world wants to co -opt you they want to bribe you they want to give you money so that they can share in your holiness and over time that accumulates
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0150
+
+## seg-0151 / 01:23:00-01:24:11 / SPEAKER_17
+
+and you just become just as corrupt as everyone else okay so these are the two central dilemmas and the question then is how do you overcome this situation how do you how can you actually bring salvation to humanity if the if there are these constraints okay one is our own psychological constraint of ego and fear another is just the social constraint okay how how and that's valuable people will try to buy out okay to understand the dilemma right okay and this is the situation that Dante is facing in medieval Europe in the year 1300 to 1321. okay any questions before we move on okay all right let's move on to count 12 please okay and now and now we are going to meet Bonaventure who's going to talk about the Dominican order and then he's going to criticize the Franciscan order okay no sorry no no he's he's going to the Dominican order and criticize
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0151
+
+## seg-0152 / 01:24:11-01:25:02 / SPEAKER_17
+
+the Franciscan order okay oh wait sorry um something that I've got to mention is that um the reason so for um St Thomas Aquinas the reason why he thinks that the Dominican order became corrupt is eventually they've had too much power right the Dominican order are the Jesuits of the time they're committed to learning they're committed to uh economic inquiry but the Catholic Church uses them as inquisitors to maintain orthodoxy for out the um Europe okay so they spread far and wide and accumulate too much power and then ultimately corrupts them okay does it make sense guys okay all right uh now now we talk about the Dominicans
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0152
+
+## seg-0153 / 01:25:02-01:26:07 / SPEAKER_00
+
+okay counter 12. no sooner had the blessed flame begun to speak its final word than the Millstone of holy lights began to turn but it was not yet done with one full revolution before another ring surrounded it and motion matched with motion song with song a song that sung by those sweet instruments surpasses so our Muses sirens as first light does the light that is reflected just as concentric like in color two rainbows will curve their way through a thin cloud when juno has commanded her handmaid the outer rainbow echoing the inner much like the voice of one the wandering nymph whose love consumed as sun consumes the mist and those two bows let people here foretell by reason of the pact god made with noah that flood will never strike the world again so the two garlands of those everlasting roses circled around us and so did the outer circle mime the inner ring
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0153
+
+## seg-0154 / 01:26:07-01:27:09 / SPEAKER_00
+
+when dance and jubilation festival of song and flame that answered flame of light with light of gladness and benevolence in some same in one same instant with one will fell still just as the eyes when moved by their desire can only close and open in accord then from the heart of one of the new lights there came a voice and as i turned toward it i seemed a needle turning to the pole star and it began the love that makes me fair draws me to speak about the other leader because of whom my own was so praised here where one is it is right to introduce the other side by side they fought so may they share in glory and together gleam rise army was three arming kaar so dearly was slow uncertain of itself and scanty behind its enzyme when the emperor rules forever held his ranks in danger only out of his grace
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0154
+
+## seg-0155 / 01:27:09-01:27:22 / SPEAKER_00
+
+and not their merits and that was that he then sustained his bride providing her with two who could revive ourselves when people champion suit by doing owns writing preview完 Kane
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0155
+
+## seg-0156 / 01:27:23-01:27:35 / SPEAKER_17
+
+buying the br steadily charge and the two champions are francis and dominic okay keep on going verse 46 in that part of the west
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0156
+
+## seg-0157 / 01:27:35-01:28:33 / SPEAKER_00
+
+where gentle sapphire rises to open those new leaves in which europe appears reclosed not far from where behind the waves that beat upon the coast the sun grown weary from its lengthy course at times conceals itself from all men's eyes there coloroga blessed by fortune sits under the aegis of the mighty shield on which the lion loses and prevails within its walls were born the loving vassal of christian faith the holy athlete one kind to his own and harsh to enemies no sooner was his mind created than it was so full of living force that it still in his mother's womb made her prophetic then at the sacred font where faith and he brought mutual salvation as their dowry the rights of their esposo was were complete okay all right so so the idea here is that
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0157
+
+## seg-0158 / 01:28:33-01:28:42 / SPEAKER_17
+
+francis married poverty dominic will marry faith okay all right keep on going
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0158
+
+## seg-0159 / 01:28:46-01:30:03 / SPEAKER_00
+
+verse 64 the lady who had given the ascent from for him saw in a dream astonishing fruit that would spring from him and from his heirs and that his name might echo what he was moved into grace and the Christ of the lamb first love that he showed was the first injunction christ had given his nurse would often find him on the ground alert and silent in a way that said it is for this self -reliance that she put by god that i have come truly his father was felice and his mother giovanna if her name interpreted is in accord with what has been asserted not for the world but for which men now travail along to deo's way or ossians but through his love of the true manna he became in a brief time so great a teacher that he began to oversee the vineyard that withers when neglected by its keeper and from
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0159
+
+## seg-0160 / 01:30:03-01:30:30 / SPEAKER_00
+
+the seat that once was kinder to the righteous poor and now has gone astray not in itself but in its occupant he did not ask to offer two or free for six nor four vacant benefits nor decimus quae sunt pauperum dei but pleaded for the right to fight against the heir of the king world, to serve the seed from which there grew the four and twenty plants that room you.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0160
+
+## seg-0161 / 01:30:30-01:31:49 / SPEAKER_17
+
+Okay, so let's go into the history of the Dominicans. The Dominicans were founded for a very specific purpose. So, at this time in Europe, there's a major threat to the Catholic Church, and it's called the Cathars. Okay, the Cathars. The Cathars, the Cathars, okay? And to deal with the Cathars, and they are in southern France, in a place called Abidjanese. The Catholic Church launched something called the Abidjanesean Crusade. Okay? The idea is that these Cathars are what we today call Gnostics. What are Gnostics? Gnostics are people who believe in the ideas that Dante believes, okay? That we have a direct connection to God, who is the Monad, the source. And that this material world doesn't really matter. What matters is our spiritual life. And these Cathars are impossible to deal with because they're not afraid to die. In fact, they welcome death. Right? Before, the Catholic Church is like, if you don't obey us, we'll burn you at the stake.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0161
+
+## seg-0162 / 01:31:49-01:33:18 / SPEAKER_17
+
+And the Cathars are like, fine. I'm happy to burn at the stake, okay? So, the Catholic Church launches these crusades against the Cathars, who are in the southern France, and the Cathars are not afraid to die, and they are so holy, and they're so inspirational that the community, who are, by the way, majority Catholic, they rally behind the Cathars and protect the Cathars' right to believe in what they believe, okay? The Cathars are so inspirational that in one famous instance, when the Catholic Army, the Crusaders, have basically surrounded a fortress, okay? And again, what's really important to understand is that the majority of people fighting for the Cathars are themselves Catholic. And so what happens is this fortress is about to fall. And the commander of the Catholic Army says to the Cathars, we wouldn't want you guys. The Catholic people who are protecting you will let them live. And the Catholic people protecting the Cathars said, fine, we will convert, okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0162
+
+## seg-0163 / 01:33:18-01:34:26 / SPEAKER_17
+
+We will become Cathars ourselves. We will die with you, okay? So that's how inspirational they were. So the Catholic Church is like, what are we going to do, okay? Because, yes, we can possibly step them out, but this is embarrassing for us. And their example is going to possibly overfill us. So they create the Dominican order in order to deal with the Cathar threat, the Aborigines Crusade. And the idea is that you cannot kill these people. What you do is you re -educate these people, okay? Okay? So rather than use the sword, they use the pen. So the Dominican order would go into a village. And there's only about, like, 1 % who are Cathars, right? But you just figure out who they are. And they would interrogate everyone. And quite honestly, that worked because in interrogation, you could figure out who the Cathars were.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0163
+
+## seg-0164 / 01:34:27-01:35:10 / SPEAKER_17
+
+These are the inconsistencies in the stories, right? And then once you isolate them. Then you could then re -educate them. And that's the idea behind the Dominican order. And as you can imagine, the Dominicans fought themselves. They were warriors for Christ. Their mission was not to kill people. Their mission was to show them the error of their thinking, okay? Re -education. Enlightenment. And through that, the Catholic Church was able to step out the Cathar threat. Does that make sense, guys? Okay? Any questions about that? Okay, let's keep on going.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0164
+
+## seg-0165 / 01:35:13-01:36:17 / SPEAKER_00
+
+Verse 97. Then he, with both his learning and his zeal, and with his apostolic office, like a torrent hurtled from a mountain source, coursed and his impetus with greatest force, struck where the thickets of the heretics offered the most resistance. And from him there sprang the streams with which the Catholic garden has found abundance, so that its saplings have more life, more green. If such was one wheel of the chariot in which the Holy Church, in her defense, taking the field, defeated enemies within, then you must see the excellence of him, the other wheel, whom Thomas praised so graciously before I made my entry. And yet the track traced by the outer rim of that wheel is abandoned now, as in a cask of wine when crust gives way to mold, his family, which once advanced with steps that followed his footprints, has now turned back. Its forward foot now seeks the foot that lags.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0165
+
+## seg-0166 / 01:36:17-01:36:54 / SPEAKER_00
+
+And soon we are to see, at harvest time, the poor grain gathered where the tares will be denied a place within the bin and weep. I do admit that, if one were to search our volume leaf by leaf, he might still read one page with, I am as I always was, but those, of Aquasparta or Casale, who read our rule, are either given to escape in it or making it too strict. I am the living light of Bonaventure of Baniorea. In high offices, I always put the left -hand interests last.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0166
+
+## seg-0167 / 01:36:54-01:37:12 / SPEAKER_17
+
+Okay, the left -hand interests. What he's saying is that the Catholic Church is very corrupt. They are always doing left -hand interests, okay? The left -hand just means whatever is sinister. And I... I am the most pure, I am the most just, official. Okay, keep on going.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0167
+
+## seg-0168 / 01:37:15-01:38:12 / SPEAKER_00
+
+Verse 130. Illuminato and Augustine are here. They were among the first unshod poor brothers to wear the cord, becoming friends of God. Hugh of St. Victor II is here with them. Peter of Spain, who with his twelve books glows on earth below, and Peter book devourer, Nathan the prophet, Anselm, and Chrysostom, the metropolitan, and that Donatus, who deigned to deal with that art which comes first. Ravenous too, in here and at my side, shines the Calabrian abbot, Joachim, who had the gift of the prophetic spirit. To this, my praise of such a paladin, the glowing courtesy and the discerning language of Thomas urged me on and stirred, with me, the souls that form this company.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0168
+
+## seg-0169 / 01:38:12-01:38:59 / SPEAKER_17
+
+Okay, alright, so, okay, so, again, to summarize, we've, we've learned about the Franciscan order, and we learned about the Dominican order. They both started out as just, good, and righteous. Over time, both will become corrupt, okay? The Franciscans become corrupt because people want to give them property, okay? The Dominicans become corrupt because they have too much power, okay? Their power of life, they have the power of life and death over people, and they spread throughout Europe in order to be the army of the Catholic Church, okay? So you can imagine, it is, it's a similar situation where the rich are bribing them in order to curry favor with them, okay? To settle local scores, to gain a place in heaven, to influence internal politics, okay? Alright, yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0169
+
+## seg-0170 / 01:39:01-01:39:19 / SPEAKER_01
+
+So, in, in this, in this section, we see that they see that the Dominicans are in paradise, so, if the Dominicans were converting the Cathars, what, what is Dante's actually thought of the Cathars? Does he think they were good or bad?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0170
+
+## seg-0171 / 01:39:20-01:39:53 / SPEAKER_17
+
+Okay, so, we will never know what Dante thought of the Cathars, okay? Um, he knows what happened, but he probably believes that they were a heretical sect, because that was the official, um, um, doctrine, okay? And remember, at this time in history, Dante has much greater problems to deal with, okay? The fact that brothers killing brother, the fact that the Catholic Church is so corrupt, those are, those are his concerns. Okay, does that make sense? Uh, yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0171
+
+## seg-0172 / 01:39:54-01:40:15 / SPEAKER_06
+
+I've noticed that this is something that Dante likes to do. Like, he likes to roll call people. Like, uh, I remember, uh, like, reading about, uh, Dante roll calling people in hell. Like, he condemned a bunch of people who were still alive to hell, and there's a place in hell for them. And basically, he's making a goodie list and baddie list here. Can I say it like that?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0172
+
+## seg-0173 / 01:40:15-01:41:30 / SPEAKER_17
+
+Yes, exactly. Okay, yeah. Right. Um, this is a way for him to try to structure the world, um, and also to make sense of what's going on in the world, okay? Basically, from his perspective, um, he has a power to judge people. So those that are doing wrong, he can put in hell. Those that he knows that did good, for example, his patrons, he puts in the heaven, okay? All right, um, okay. Another thing that I want to talk about is, we assume that whatever he writes is intentional, meaning it's a conscious decision on his part to frame the way things are, okay? A lot of poetry is subconscious because you are channeling the divine. Does that make sense? So we can objectively, as critics, as readers, make some historical parallels between what he's saying and what we know, okay? But it could be possible that, um, his understanding of the history is different from our understanding of the history.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0173
+
+## seg-0174 / 01:41:31-01:42:23 / SPEAKER_17
+
+It's also possible that he really didn't know about the Cathars because they were suppressed, okay? We know about the Cathars because of our own research. So does that make sense to you guys? All right? We're assuming that Dante knows what he's actually saying. But it may not. It may just be complete inspiration. And we, as critics, are able to look back and say, oh, I see the connection here. But he may not be conscious of this information, okay? Does that make sense? All right, so that's why it's impossible to say what is his intention. Because he himself may not know what his intention is. He's just a poet. He is a prophet for God. He's just speaking what he believes to be true, even though he himself may not know actually what he's saying, okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0174
+
+## seg-0175 / 01:42:23-01:42:31 / SPEAKER_16
+
+Yes? Do we have any, like, Dostoevsky wrote to his brother all the time, and he's like, this is what I'm thinking. Is there any letters that exist of Dante at all?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0175
+
+## seg-0176 / 01:42:32-01:43:44 / SPEAKER_17
+
+Yeah, so there are lots of documents. So Dante was a published poet before Divine Comedy. Divine Comedy is his last act. But he's written also many different works as well. And, you know, it's really strange, because none of his works received the same acclaim as Divine Comedy. But he was sure he was the greatest poet in the world. And he was sure that in his lifetime, he would be recognized as the greatest poet in the world. Excuse me? Well, what happens when we read the Inferno, what's happening is that he places himself with the same status as Virgil and the other great Latin epic poets, okay? So already he's conceived himself as a legendary poet, even though he's not that famous at this point, even though he's not recognized as the greatest poet at this time. He is confident that he will be recognized in his lifetime. It doesn't work out that way. He'll die
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0176
+
+## seg-0177 / 01:43:44-01:43:51 / SPEAKER_17
+
+after he finishes Divine Comedy, and people will recognize Divine Comedy as a work of genius after he dies, but not during his lifetime.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0177
+
+## seg-0178 / 01:43:54-01:44:32 / SPEAKER_13
+
+All right. Sorry, I have a question. I just, I just question, you know, do you think Dante really think that he's a poet? Because, you know, at last the people paid money for him to be a poet. Or it's just people right now who thought that he was a poet. So what I mean is that, what's the purpose of his writing? If there's nobody who paid money for him to do that, then there must be some purpose for himself to write down such a long poem, you know, we can call it a masterpiece. Or he can just write it by himself, just do not worry or care about the readers. Is that what you mean?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0178
+
+## seg-0179 / 01:44:32-01:45:05 / SPEAKER_17
+
+Okay. Let me ask you a question. Has there been anyone in history who has been a great poet, who has chosen to be a great poet? You are not, you don't choose to be a poet. You don't choose to be a prophet. You are chosen by God. Okay. And God channels his power through you. And how do we, how do people know that this is a great poet? How do we, how do we know? Excuse me?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0179
+
+## seg-0180 / 01:45:06-01:45:07 / SPEAKER_07
+
+By reading their work?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0180
+
+## seg-0181 / 01:45:08-01:45:26 / SPEAKER_17
+
+Yeah, but so? We can read a lot of work, but how do we know what's great and what's not? If the world persists, like over time, if it survives? Yeah, but how does it survive over time? I guess people have to maintain it, right? Citation.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0181
+
+## seg-0182 / 01:45:27-01:45:28 / SPEAKER_03
+
+You know?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0182
+
+## seg-0183 / 01:45:28-01:45:28 / SPEAKER_17
+
+No, no, no.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0183
+
+## seg-0184 / 01:45:29-01:45:41 / SPEAKER_15
+
+I think we'll just know if the work is great, we just know the work is great. Yeah, but how do we know? We just know it. No, but I mean, why?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0184
+
+## seg-0185 / 01:45:41-01:45:45 / SPEAKER_07
+
+How? Like the contents have been proven by time?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0185
+
+## seg-0186 / 01:45:46-01:45:53 / SPEAKER_11
+
+This is not a hard question, okay? Yes? It resonates with our experience. And what do we call this?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0186
+
+## seg-0187 / 01:45:56-01:46:51 / SPEAKER_17
+
+Truth and beauty, right? You understand? Like if people read Divine Comedy and they think, oh my God, it made me cry. Oh my God, it's so beautiful. No one would bother to keep it around, right? It's truth and beauty that makes Divine Comedy a great work of poetry. It's no difference from like, why do you go to concert and pay 50 bucks or I've never been to a concert. I don't know how much they cost, okay? But I know you're sitting around with 10,000 people and it's a pain in the ass. But why are you doing this? Because the singer, whoever he or she is, moves you to tears because it resonates with you. Do you understand? Okay? We are looking at Divine Comedy from an intellectual analytical perspective, but it's able to be so powerful because first and foremost, it resonates because it speaks beauty and truth. Do you understand? And beauty and truth can only come from God.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0187
+
+## seg-0188 / 01:46:53-01:48:01 / SPEAKER_17
+
+Do you understand, okay? Only a human being by channeling God can create such truth and beauty in the world. And only a person can do this. If you get two people to try to do this, it won't work, okay? Try it. Try to get two people to write a poem together. It sucks. It has to be a person channeling the monad, the source. And then you know it's beautiful because everyone who reads it is moved to tears because it's beautiful, right? No different from painting. Why do we have... Why do we celebrate certain paintings? Because they're more beautiful than others. Okay, this is not a random thing. Does that make sense? Okay, any more questions before we move on? Okay, so let's go to Canto 17. Okay. And we also don't have time to read Canto 17, but I will introduce some basic ideas for Canto 17, and then we will go into Canto 17.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0188
+
+## seg-0189 / 01:48:03-01:49:10 / SPEAKER_17
+
+And so Dante has a series of questions that he must resolve before he can meet God, okay? He is going to meet God. That is the purpose of Divine Comedy. It is Pilgrim's journey into the heart of the universe, the soul of the universe. And he is full of ego and he's full of fear, okay? The ego is like, I'm the greatest poet in the world. Why don't people recognize that I'm the greatest poet in the world? The fear is I've been exiled from Florence. And where does my life go from here? I have a family. How can I feed my family? I have no source of income because the people in Florence who exile me have stolen everything from me, okay? I've got nothing in this world. And so I know my mission is to write Divine Comedy. I know my heart. That's what my mission is. But the reality around me is, like, I'm in exile.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0189
+
+## seg-0190 / 01:49:10-01:50:10 / SPEAKER_17
+
+I have kids. I have no property. What am I going to do now? Also, I look around the world, I look around the world, and I start out with the Guelphs, and we defeat the Gilebians, but then the Guelphs fall in my hands. The Guelphs themselves. So what's the hope for this world if all we do is just fight for power? I also think about the Franciscans and the Dominicans, and they started out great, but then they became like everyone else, okay? So what is the point of my existence? Why am I writing Divine Comedy? Is there any hope for humanity? Is there any hope for us? Okay? So what's going to happen is that Dante must reserve these fears, these doubts, before he can actually meet God, because if you're coming to meet God from a place of ego and fear, you're not going to meet God, okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0190
+
+## seg-0191 / 01:50:10-01:51:28 / SPEAKER_17
+
+You're just not. You don't see God. So the way he does this is that he will, in heaven, meet his ancestor or grandfather. I can't actually remember if it's grandfather or great -grandfather, but it's an ancestor, okay? What the ancestor is going to do is reassure him by telling him the history of his family, the lineage, okay? Where they came from, all the great deeds that the family has done throughout the course of history, and then what the grandfather is going to do is give Dante the prophecy, okay? Where your life is going to go. Why would this be reassuring to Dante? Why would knowing your family history be reassuring to Dante? You are at a stage in your life when all hope is broken. You're in exile. You're poor. But hearing your history, your family history, where you came from, does give you hope. Why?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0191
+
+## seg-0192 / 01:51:29-01:51:41 / SPEAKER_06
+
+Because it gives you something to hold on to. Like, they can take away everything you own in this world, but your connection to your ancestors and the great deeds of your ancestors, they will never go away. They cannot take that away.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0192
+
+## seg-0193 / 01:51:41-01:52:08 / SPEAKER_17
+
+Yeah, okay. So what this is saying is that you'll be remembered for your actions, okay? Just as the actions of your father were remembered. Just as the actions of your grandfather were remembered, okay? That's what you will leave to the world. Not your wealth, not your achievements, but your actions, okay? Your actions will be celebrated. Your actions will be remembered. Anyone else? Why would this matter?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0193
+
+## seg-0194 / 01:52:09-01:52:15 / SPEAKER_02
+
+Also, it gives a sense of cycle where, like, even if times are bad, then, like, just with time, it gets better.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0194
+
+## seg-0195 / 01:52:16-01:52:50 / SPEAKER_17
+
+Yeah, so there's a plan in motion, right? So by saying, like, you know, this is what your grandfather did, this is what your father did, you're saying that there is a plan and this is all part of your destiny, Dante. You came to this point because it was planned from the beginning, and your family was just enacting out the plan, and now you have come to this point, and you must do your part as well, okay? And that is reassuring, I would think, right? Who else? Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0195
+
+## seg-0196 / 01:52:50-01:53:18 / SPEAKER_10
+
+So I'm just going to add on to that and say that I think, at least I think during this time, like, ancestry was seen as to be, like, very important, and, like, your ancestors were seen to be, like, much wiser than you were, so I think that just Dante, by listening to his ancestors reassure him, like, he felt that, yeah, I'm reassured because I trust these people a lot, and they definitely know more than me.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0196
+
+## seg-0197 / 01:53:18-01:53:24 / SPEAKER_17
+
+Yeah, exactly. Okay, that's a really good point, okay? So, yes, the ancestors are giving you support. Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0197
+
+## seg-0198 / 01:53:26-01:53:44 / SPEAKER_04
+
+By looking at their achievement, their endeavors, you can also see what they've yet to achieve, and maybe that's how you connect the dots. That's how you realize, so this is the part that I will do that they didn't manage to achieve.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0198
+
+## seg-0199 / 01:53:44-01:54:57 / SPEAKER_17
+
+Yes. You're part of a family, and you have a responsibility to do your part, right? You have to add to us. So, yes, you have to find comedy, and you'll probably die afterwards. You won't achieve any fame, but your achievement will add to our family legacy, right? That's your responsibility. So what's happening is that just the idea that you're part of a family legacy, it's removing the ego and fear from him, right? Okay? It's cleansing him. And any other comments or thoughts? Okay, so when we come back from the break, we're going to read, not the family history, it's a bit long, but we'll read the prophecy that the grandfather tells Dante, okay? And so something to keep in mind is, it's really complicated, okay? But I want you to keep this in mind. So Dante is, dies in 1321, okay? He actually finished his Divine Comedy in 1321. What's interesting is that the Divine Comedy is set in the year 1300, Easter Sunday.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0199
+
+## seg-0200 / 01:54:57-01:55:52 / SPEAKER_17
+
+Okay? He tells us this in the Inferno, okay? So in other words, he already has the benefit of hindsight. He already knows what's going to happen to him, okay? But he sets his character in the year 1300, and then his grandfather will tell Dante what will happen in the year 1302, okay? 1302 is when Dante is exiled from Florence, and this marks a traumatic event in his life, okay? So think about this, where Dante is writing in 1321, he already knows what's already happened, but he set his character in the year 1300, so that his grandfather can tell him what will happen two years from now, okay? Two years from now, okay? And that is the setting for Canto 17, which we'll read after the break.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0200
+
+## seg-0201 / 01:55:52-01:56:14 / SPEAKER_02
+
+Any questions, guys? Yes? You said that to connect with God, you need to let go of fear and ego, but then how can he do so in heaven, which is like already with God, right? But he's not in heaven. Didn't you say that he let go of fear, by talking with his ancestors? Right, okay.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0201
+
+## seg-0202 / 01:56:15-01:56:43 / SPEAKER_17
+
+So, um, okay. So to understand this is that this is a literary conceit, okay? The way he lets go of his ego and fear is by writing Divine Comedy, right? And in Divine Comedy, the scene that he sets to help us appreciate how he's able to let go of his ego and fear is the meeting with his grandfather, his grandfather in heaven. Does that make sense?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0202
+
+## seg-0203 / 01:56:45-01:56:52 / SPEAKER_02
+
+Okay. So that means in the beginning of the writing, he's not quite yet, like, enlightenment, right? Like, to a state of enlightenment.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0203
+
+## seg-0204 / 01:56:52-01:57:54 / SPEAKER_17
+
+That's right, okay? That's a really important thing to appreciate, where maybe from an early age, he's able to conceive the Divine Comedy, okay? But the very process of writing it is also revelatory and enlightening. Do you understand? All right? And so he will change as a person through the process of reading Divine Comedy. The same thing as reading Divine Comedy, where I'm sure that by reading it, you yourself are going through a spiritual and emotional alchemy, right? You're thinking much more deeply about who you are. You're thinking much more deeply about your relationship with the world. And maybe your heart is opening up. Well, it's the same thing... Well, it's obviously the same if you write the thing, right? Because what's happening is that the poetry is a revelation from God, okay? It is... You are co -creating the process, but what you're really doing is you're just a scribe for God. All right? Does that make sense, guys?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0204
+
+## seg-0205 / 01:57:55-01:59:47 / SPEAKER_17
+
+All right, okay. So we'll take a break, and we'll come back at 1 o 'clock, okay? All right, thanks, guys. Are we good, or...? I'm just waiting for the signal from the booth. Let's get started. Okay, all right, guys. We are live. First of all, I want to thank so much Carol and her team. There are some comments online talking about the sound quality and the video resolution quality, and Carol and her team worked really hard yesterday, and now a new version is uploaded, complete, with better sound and video quality. So thank you so much, Carol and your team, for your selfless dedication to promoting Dante in the world. Okay, so what I will do now is discuss the central conflict, which is how does Dante reconcile his divine mission, which is to be the prophet poet for the monad, with the fact that his life really, really sucks. In 1302, he was exiled from his hometown of Florence, where his family has been there for generations.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0205
+
+## seg-0206 / 01:59:47-02:00:46 / SPEAKER_17
+
+He loves the place. He loses everything, he loses all his property, all his wealth because of his exile, and now he's just fooling around. Okay, so how does he reconcile this pain, this agony, this suffering, with his large divine mission? And here, what he's going to do is he's going to reimagine Virgil, the Aeneid, okay? So what I'm going to do is I'm going to summarize for you the plot of the Aeneid. We should read it together. We don't have time, but for the sake of the conversation today, I'm just going to give you a brief summary of the Aeneid, okay? So this is Virgil, and for about a thousand years, this is the greatest epic poem of the Western tradition. And if you're an educated person, you have to read it. It is the Bible, okay? It's actually much more important than the Bible.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0206
+
+## seg-0207 / 02:00:46-02:01:51 / SPEAKER_17
+
+So the main character is Aeneas, and Aeneas, is a prince of Troy. And like Dante, he loves Troy. They've been, his family has been there for generations. It is the greatest city in the world. Unfortunately, the Greeks have to come and destroy it, okay? And Aeneas has to watch his city being destroyed by the Greeks. This is Trojan War, of course. They sneak in because of the Trojan horse. And Aeneas wants to die trying to save Troy. But his mother, Venus, appears before him and says, no, Aeneas, you have a higher mission. You have a higher calling. You, your son, will be destined to found the greatest empire in the world called Rome, okay? Rome will be the new Troy. Troy must be destroyed in order for Rome to rise. And Rome will be the end of history. It will be the greatest empire in all of human history.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0207
+
+## seg-0208 / 02:01:51-02:03:01 / SPEAKER_17
+
+So Aeneas is, like, fine, okay? Because he's been ordered by the gods. And so he and his family and the followers, they get on ships and they sail to Italy where they're supposed to found the new empire of Rome. They get shipwrecked and they end up in Carthage. And in Carthage, Aeneas there falls in love with a queen, Dido. And Aeneas is really, really happy in Carthage. And Carthage is this new city that's being built. And Aeneas sees his life being here. The gods get angry at him and said, Aeneas, you idiot. We told you to go to Italy, not Carthage. Get your ass moving. So Aeneas is, like, fine, whatever. So he keeps on moving. But now he's, like, really, really angry because his home, Troy, was destroyed. And then he falls in love with Dido in Carthage. And the gods kick him out, okay? So he's really confused. So what he does is he goes into the underworld where he meets his father, Incius.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0208
+
+## seg-0209 / 02:03:01-02:04:11 / SPEAKER_17
+
+And his father just died. Because Incius is going to tell him why this is happening, what the gods have planned for you. And when Aeneas talks to Incius, what happens is that the prophecy becomes the history of Rome. And Aeneas is told that when you go to Rome, your son will found a new people, the Romans. The Romans will slowly expand across the Italian peninsula. Then they will conquer Carthage and then conquer all the Mediterranean. And it will become the greatest empire in human history. So it's basically just the same thing as what Justinian told us, right? Then you have Julius Caesar who will give rise to Augustus Caesar. And when this happens, when Rome becomes an empire, it is the end of history. Humanity will be saved. Heaven will come to earth and peace will reign forever. The Pax Romana, okay? And this is why things had to happen the way they happened.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0209
+
+## seg-0210 / 02:04:13-02:05:21 / SPEAKER_17
+
+Troy was destroyed for a reason. To found Rome. Aeneas had to go on this long, painful journey in order to build the foundation stone for the greatest empire in human history. Okay? And obviously when Aeneas hears this, he's like, yes, now I understand. Now I can fully commit to my mission. So he goes to Italy where he fights Churnus. Okay? And then it ends with his victory. And now Rome can be born. Okay? So the Aeneas, it's basically the Bible of the Roman Empire. It explains where Rome came from, why Rome is the greatest empire in the world, and where Rome is going. Okay? Does that make sense? So we're going to take this plot line from the Aeneid and compare it to how Dante rewrites this. Okay? And you're going to see a massive contrast. Because here in the Aeneid, the prophecy is one of triumph, one of glory.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0210
+
+## seg-0211 / 02:05:21-02:05:44 / SPEAKER_17
+
+But in Dante's prophecy, it's completely different. Okay? So this is Canto 17. And we're going to read Dante's grandfather telling him what lies in store for him when he leaves heaven, he returns to the real world, what awaits him. Okay? All right.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0211
+
+## seg-0212 / 02:05:45-02:05:46 / SPEAKER_00
+
+Okay.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0212
+
+## seg-0213 / 02:05:46-02:05:46 / SPEAKER_17
+
+Please read.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0213
+
+## seg-0214 / 02:05:48-02:06:47 / SPEAKER_00
+
+Like Phaethon, one who still makes fathers wary of sons, when he had heard insinuations, and he, to be assured, came to Clemene, such was I, and such was I seen to be by Beatrice and by the holy lamp that earlier had shifted place for me. Therefore, my lady said to me, display the flame of your desire that it may be seen well stamped with your internal seal. Not that we need to know what you'd reveal, but that you learn the way that would disclose your thirst, and you'd be quenched by what we pour. Oh, my dear root, who, since you've rise so high, can see the point in which all times are present. For just as earthly minds are able to see that two obtuse angles cannot be contained in a triangle, you can see contingent things before they come to be. While I was in the company of Virgil, both on the mountain that
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0214
+
+## seg-0215 / 02:06:47-02:06:58 / SPEAKER_00
+
+heals souls and when descending to the dead world, what I heard about my future life were grievous words. Although against the blows of chance, I feel myself as firmly planted as a cube.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0215
+
+## seg-0216 / 02:06:58-02:07:17 / SPEAKER_17
+
+Okay, stop, okay, all right. So what he's referring to is the fact that in Inferno and in Purgatory, Virgil was his guide. And during this journey, Dante met individuals who would give him glimpses into his future, okay? And this is the final prophecy. Keep on going.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0216
+
+## seg-0217 / 02:07:19-02:08:19 / SPEAKER_00
+
+Verse 25. Thus my desire would be appeased if I might know what fortune is approaching me. The arrow one foresees arrives more gently. So did I speak to the same living light that spoke to me before, as Beatrice had wished, or as my wish was now confessed. Not with the maze of words that used to snare the fools upon this earth before the Lamb of God who takes away our sins was slain, but with words plain and unambiguous that loving Father hid in me. And yet, yet revealed by his own smile, replied, Contingency, while not extending past the book in which your world of matter has been writ, is yet in the eternal vision all depicted. But this does not imply necessity, just as a ship that sails downstream is not determined by the eye that watches it. And from that vision, just as from an organ that year receives a gentle harmony, what time prepares for you appears to me.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0217
+
+## seg-0218 / 02:08:21-02:08:29 / SPEAKER_00
+
+Hippolytus was forced to leave his Athens because of his stepmother's faithless fears, and so must you depart from Florence.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0218
+
+## seg-0219 / 02:08:29-02:08:59 / SPEAKER_17
+
+Okay, so Hippolytus was the son of Theseus who was exiled unjustly. So the idea is that, yes, Dante, unfortunately when you go home, what will happen to you is that you'll be exiled from Florence unjustly. Okay? They will do a terrible wrong to you, but there's nothing you can do about it, and it's all part of the plan. Keep on going.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0219
+
+## seg-0220 / 02:09:02-02:09:14 / SPEAKER_00
+
+Verse 49. This is willed already, sought for, soon to be accomplished by the one who plans and plots, where every day Christ is both sold and bought.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0220
+
+## seg-0221 / 02:09:14-02:09:34 / SPEAKER_17
+
+Okay, so the man who will plan and plot is the pope, okay? So the pope is going to plot your exile and the removal of your faction from Florence so that you can never, ever return. Okay, this is the pope. He is corrupt. He buys and sells salvation. Keep on going.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0221
+
+## seg-0222 / 02:09:35-02:10:01 / SPEAKER_00
+
+Verse 52. The blame, as usual, will be cried out against the injured party, but just vengeance will serve as witness to the truth that wields it. You shall leave everything you love most dearly. This is the arrow that the bow of exile shoots first. You are to know that you shall know the bitter taste of others' bread, how salt it is, and know how hard a path it is for one who goes descending and ascending others' stairs.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0222
+
+## seg-0223 / 02:10:01-02:10:34 / SPEAKER_17
+
+Okay, all right. So this is the complete opposite of the vision, the prophecy in the Ineos, right? Where Ineos is told about the glory that awaits Rome. And here it's the complete opposite, where Donna is told, yeah, the only thing that awaits you is exile. You'll be blamed for the exile. You lose everything, and you will depend on the mercy, the generosity of others. In other words, you're going to be a beggar all your life, Dante. You'll be a beggar until the end of your life. Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0223
+
+## seg-0224 / 02:10:34-02:10:53 / SPEAKER_06
+
+Could this be seen as drawing a parallel between himself and the experiences of that guy, Aeneas, I think his name is Aeneas, from Troy, and the suffering of Christ? Like, could you be drawing this comparison that he is suffering to bring about greatness, like, a new life?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0224
+
+## seg-0225 / 02:10:53-02:11:48 / SPEAKER_17
+
+Yeah, that's exactly the parallel. So you say two things, okay? Yes, clearly he is referencing Aeneas and his journey and the prophecy from the Inean, okay? Because the Inean is basically his template to write the Divine Comedy. But you also point out that Jesus is not really mentioned in the Divine Comedy, guys, right? He's referenced, but he's not mentioned direct, well, he is mentioned directly, but he doesn't appear in the Divine Comedy, right? And so you can make the imaginative leap that Dante is really presenting himself as a Christ figure in the Divine Comedy, the one who must suffer, the one who must die in order to bring about salvation in the world, okay? So, yeah, thank you for that. Any more questions, guys? All right, let's keep on going.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0225
+
+## seg-0226 / 02:11:51-02:12:27 / SPEAKER_00
+
+Verse 61. And what will be most hard for you to bear will be the scheming, senseless company that is to share your fall into this valley. Against you, they will be insane, completely ungrateful and profane, and yet soon after, not you, but they will have their brows blood -dred. Of their insensate acts, the proof will be in the effects, and thus your honor will be best kept if your party is yourself. Your first refuge and your first inn shall be the courtesy of the great Lombard. He who on the ladder bears the cross the sacred bird...
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0226
+
+## seg-0227 / 02:12:27-02:13:29 / SPEAKER_17
+
+Okay, so when Dante's exiled, he's exiled with his political faction, right? The white Guelphs. And obviously, when they're a faction, they're angry about this, and they want vengeance. So they're plotting how to get back and kill their enemies, the black Guelphs. And what the grandfather is saying to Dante is, do not partake in this politics. These people have gone insane with hatred and bloodlust, okay? They can only end up dead. You have to not only live in poverty, not only must you be a beggar, but you must abandon everyone you know in order for you to seek the true path, okay? This is not just exile, it is also isolation. It doesn't make sense, all right? But at the same time, you will find generous patrons who will give you food and housing, and that is your salvation, yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0227
+
+## seg-0228 / 02:13:30-02:13:56 / SPEAKER_06
+
+I think something else that he gives up is vengeance. Like, I know that the urge to avenge yourself is extremely strong, and it will be hard, given his anger, to give up vengeance. But the truth is, passion is like a cup within us, and a cup can only hold so much water. So if you fill the cup with hatred, with vengeance, then you have no place left for God. And what Dante is doing is clearing out the hatred and the vengeance, so he has more place in his cup for God.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0228
+
+## seg-0229 / 02:13:57-02:14:58 / SPEAKER_17
+
+Yeah, okay. So let's be clear, okay? You have to be right in that he needs to clear his hatred, he needs to clear his vengeance. At the same time, we need to recognize that when he goes in exile, when he becomes isolated, when he is dependent on the mercy and charity of others, that only makes him even more angry and vengeful and hateful, right? So then the question then is, how can he go about dissipating and cleansing himself of all this hatred, anger, and vengeance? And the answer, of course, is? By riding the inferno? By riding the inferno. By going on this journey to hell to see that hatred, vengeance, can only lead you to hell, okay? It's something that he must experience for himself in order to cleanse himself. That's why you must first go to hell before you go to heaven. Because you must experience for yourself that anger and hatred can only lead in one direction, okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0229
+
+## seg-0230 / 02:14:58-02:14:59 / SPEAKER_17
+
+All right, let's keep on going.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0230
+
+## seg-0231 / 02:15:03-02:15:42 / SPEAKER_00
+
+Verse 73. And so benign will be his care for you that with you two, in giving and in asking, that shall be first, which is, with others, last. You shall, beside him, see one who, at birth, had so received the seal of this strong star that what he does will be remarkable. People have yet to notice him because he is a boy. For nine years and no more have these spheres wheeled around him. But before the Gascon gals the noble Henry, some sparks will have marked the virtue of the Lombard, hard labor and his disregard for silver.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0231
+
+## seg-0232 / 02:15:42-02:15:58 / SPEAKER_17
+
+Okay, so now he's just sucking up to his patron, right? He's in exile. His patron is the one who is financing the writing of Divine Comedy. He's saying what a great guy this guy is. He's selfless. He will do great things, okay? Keep on going.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0232
+
+## seg-0233 / 02:16:00-02:16:56 / SPEAKER_00
+
+Verse 85. His generosity is yet to be so notable that even enemies will never hope to treat it silently. Put trust in him and in his benefits. His gifts will bring much metamorphosis. Rich men and beggars will exchange their states. What I tell you about him you will bear, inscribed within your mind, but hide it there. And he told you, he told things beyond belief, even for those who will yet see them. Then he added, son, these are glosses of what you had heard. These are the snares that hide beneath brief years. Yet I'd not have you envying your neighbors. Your life will long outlast the punishment that is to fall upon their treacheries. After that holy soul had, with a silence, showed he was freed from putting in the wolf across the web whose warp I set for him, I like a man who, doubting, craves for counsel from one who sees and rightly
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0233
+
+## seg-0234 / 02:16:56-02:17:52 / SPEAKER_00
+
+wills and loves, replied to him, I clearly see, my father, how time is hurrying toward me in order to deal me such a blow as would be most grievous for him who has not set for it. Thus it is right to arm myself with foresight that if I lose the place most dear, I may not lose the rest through what my poems say. Down in the world of endless bitterness and on the mountain from whose lovely peak I was drawn upward by my lady's eyes, and afterward from light to light in heaven, I learned that which, if I retell it, must for many have a taste too sharp, too harsh. Yet if I am a timid friend of truth, I fear that I may lose my life among those who will call this present, ancient times. The light in which there smiled, the treasure I had found within it, first began to dazzle, as would a golden mirror in the sun.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0234
+
+## seg-0235 / 02:17:53-02:18:50 / SPEAKER_00
+
+Then it replied, a conscience that is dark either through its or through another's shame indeed will find that what you speak is harsh. Nevertheless, all falsehood set aside, let all that you have seen be manifest, and let them scratch wherever it may itch. For if, at the first taste, your words molest, they will, when they have been digested, end as living nourishment, as does the wind, so shall your outcry do. The wind that sends its roughest blows against the highest peaks, there is little cause for claiming honor. Therefore, within these spheres, upon the mountain, and in the dismal valley, you are shown only those souls that unto fame are known. Because the mind of one who hears will not put doubt to rest, put trust in you, if given examples with their roots unknown and hidden, or arguments too dim to unappearance. Thank you.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0235
+
+## seg-0236 / 02:18:50-02:19:55 / SPEAKER_17
+
+Okay, great, thank you. All right, so what we're gonna do now is we're gonna try to put everything together, okay? This morning, we discussed the central dilemma facing Dante, okay? First of all, he has to make sense of why his life sucks, why he's in exile, why he's begging people for charity. At the same time, he's trying to figure out why the world sucks. Why is it that there's so much chaos, there's so much infighting, there's so much treachery, there's so much hatred, there's so much vengeance? And we talked about how previously there was hope that great individuals such as Francis and Dominic would change the character of the Catholic Church so that it would become less corrupt. But instead, the Catholic Church maintained to be corrupt and changed the radical nature, changed the nature of the Franciscans and the Dominicans, okay? So what hope is there in this world? Okay, that's the central question.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0236
+
+## seg-0237 / 02:19:55-02:21:05 / SPEAKER_17
+
+In a world of complete darkness, where is the light, okay? All right, so now we just read the prophecy given to Dante saying, yeah, your life is really, really gonna suck after you leave heaven. You've been to hell. You've been in purgatory. Now you're in heaven. You've seen the universe. And when you return, it's gonna be one of exile, one of isolation, one of poverty. And yet Dante has now purpose, just like Aeneas, right? Aeneas here hears that he will found a great empire called Rome, and that excites him. That propels him to greatness. That propels him to victory. And now Dante hears, oh, yeah, when you go home, you're just going to suffer all the time. Yet it also propels him to purpose and to greatness. Why? What is going on here? Why would the idea of exile and isolation give him hope? Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0237
+
+## seg-0238 / 02:21:06-02:21:36 / SPEAKER_06
+
+So the difference between Dante and most people who go through exile and isolation is that he's given a preview. He's given a peek behind the curtain. When we say that it's easier for a camel to pass through the eye of a needle than it is for a rich man to enter heaven, the rich man will say to you, well, I can't see that far. Or maybe they don't have the willpower to keep themselves from being wealthy and being evil. However, Dante has had a glimpse of what lies behind the veil, and he knows that his life has a purpose, and it's this guiding light, this actual thing that keeps him going onwards.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0238
+
+## seg-0239 / 02:21:37-02:22:32 / SPEAKER_17
+
+Okay. Yes. Let's be more specific and concrete, okay? Okay, let's think about this. Dante, let's imagine Dante, if he didn't actually experience hell, purgatory, and heaven, his grandfather appears to him in a dream. He's at home. His grandfather appears to him in a dream and says that, my grandson, in two years' time, you'll be exiled from the city you love, the city you were born, the city that your family has inhabited for generations. How would he feel? He would feel despair, right? But after he's been through this journey, the same vision, the same faith gives him hope and purpose. Why?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0239
+
+## seg-0240 / 02:22:35-02:22:58 / SPEAKER_02
+
+Yes? Well, also, as a poet, it's a great way to focus your energy into creativity. Well, like, if you take off all the distractions and you put all your energy into creating, then he can think, okay, maybe it's this time, this period of my life where I can just put everything I know and all my, everything I can accomplish.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0240
+
+## seg-0241 / 02:22:59-02:23:37 / SPEAKER_17
+
+Okay, so that's a good start, okay? Um, if he is to achieve Divine Comedy, he needs to go into isolation. Okay? This is an isolation that doesn't last 20 years, by the way. It doesn't take about 20 years to finish Divine Comedy. Um, okay, so that's the start, okay? He appreciates that his purpose is to go into exile and isolation in order to write this Divine Comedy. This raises a question like, well, that kind of sucks. I, it's like going to prison for 20 years and then my reward will be I'm dead. Right?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0241
+
+## seg-0242 / 02:23:39-02:24:27 / SPEAKER_06
+
+Um, so I am reminded of something I once saw on a Catholic website. So it was actually about a saint, a former nun, a saint. And her, it was one of her quotes. And she said, uh, I, I am impatient to suffer and die for Christ. So there's this, let's say there's this almost preoccupation with suffering and the ennobling of the spirit in Christian, in Catholic, uh, theology. Like, they think that suffering, especially in the name of Christ, ennobles the spirit. So maybe Dante is subconsciously, uh, subconsciously likening himself to a Christ figure. And he thinks that suffering for the sake of Christ, for the sake of his great work, is a sign of his faith. And he would be nobler for this suffering than he would be if he did not suffer.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0242
+
+## seg-0243 / 02:24:27-02:25:24 / SPEAKER_17
+
+Yeah, okay. And that's not wrong. And that's exactly what Francis and Dominic felt as well, okay? But let's, let's think about this, okay? You're Dante. And you're writing Divine Comedy not for yourself, not for God, but for others to read as well. So you want others to be as inspired as you in serving God, right? You understand? So he has someone convince you to be like him. Yeah, I mean, like, of course he understands that the exile and the isolation will allow him to write Divine Comedy, but he needs you to move you, inspire you in a way that allows you to understand why he's doing what he's doing and also to want to emulate him, right? To want to also go into exile and isolation in order to be truly creative. So how does he do that? All right? Let's not, let's just imagine him just as a normal person, just like you and me, okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0243
+
+## seg-0244 / 02:25:24-02:25:53 / SPEAKER_17
+
+He's no different. And he is in the situation where he knows he's going into exile and isolation for the next 20 years to write Divine Comedy. And after he finishes, he's gonna die. That's what the prophecy says. So how does he find hope and purpose in this fate?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0244
+
+## seg-0245 / 02:25:58-02:26:19 / SPEAKER_13
+
+Maybe it's kind of inspiration because as a writer, you must have an inspiration. Which could allow you to have great work. So maybe I think what Stanton wanted to do is not just try to make money, but he just tried to create a masterpiece in his own life. So maybe that is the reason why he got hope. Okay, all right. So let's think about the sequence of events, okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0245
+
+## seg-0246 / 02:26:20-02:27:03 / SPEAKER_17
+
+This prophecy doesn't happen in hell. It doesn't happen in purgatory. It happens in paradise. And it is the last prophecy before he goes and fulfills his destiny, which is to meet God. Okay? So what does he learn in hell, purgatory, and paradise which prepares him to accept this prophecy? What is it? These past two days, what have we learned about the universe? What are some ideas that we've learned these past two days? Let's just start naming them, okay? Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0246
+
+## seg-0247 / 02:27:05-02:27:14 / SPEAKER_06
+
+Maybe it's because he witnessed the light and the greatness and the beauty of God with his own eyes, and that gives him the courage to continue.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0247
+
+## seg-0248 / 02:27:14-02:27:42 / SPEAKER_17
+
+Okay, okay. Again, you're being too general. I want specifics. What did we discuss these past two days? And what impact would they have on Dante and how they would change the way he sees the world, okay? Ask yourself this question. These past two days, how have reading Dante changed the way you've seen yourself and the world? Think about this question, okay? Use your intuition. Use your imagination. How have I changed in the way that I see the world?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0248
+
+## seg-0249 / 02:27:44-02:28:06 / SPEAKER_18
+
+Yes? Well, you see the human himself as like the middle of the universe, and he's like what embodies the universe, and through our actions, we can improve the universe or person it. Okay, yeah, exactly.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0249
+
+## seg-0250 / 02:28:06-02:29:16 / SPEAKER_17
+
+The first thing he recognizes is that you matter. Your actions matter. Regardless of who you are, you do matter, okay? But Carta, I mean, she did something really, really good. I mean, like, she bowed herself to God, and then she broke this vow, and it matters, okay? In her mind, it's like, what? I mean, like, God's really, really busy, right? God's, like, taking care of the universe, and I'm just like this little prince, princess in this poor little place, and I break a vow, but I hurt no one, and I was faithful to him all this time, but my one little action at this one time does matter. It matters so much that it changes the universe, okay? That's the first thing that Donnie realizes. I do matter, okay? So what I write does matter. That's empowering, don't you think? Right? Because, like, why else am I spending 20 years writing a poem?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0250
+
+## seg-0251 / 02:29:16-02:29:36 / SPEAKER_17
+
+And the answer is because God is watching you, because everything you write will be read by God, and then it will be reflected throughout the universe. With my actions, I can change the very trajectory of the universe, okay? That's the first thing that we learn. What else did we learn? Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0251
+
+## seg-0252 / 02:29:36-02:30:07 / SPEAKER_06
+
+I think it's also important to remember that this is a two -sided coin. Like, on one hand, your actions matter, and you can change the universe. On the other hand, your misactions matter, and your misactions could make the universe worse. So instead of this constant fear of damnation or constant fear of hellfire, Dante replaced it with a humanistic fear of, what will my actions truly do? Like, he is taking the reins back from the devil, and he's giving the reins to himself.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0252
+
+## seg-0253 / 02:30:07-02:31:22 / SPEAKER_17
+
+Yes, okay, this is really important, guys, okay? At this time in history, the Catholic Church tells you to fear God. You understand? Live a life of fear. Do not do anything because you'll probably screw it up, right? And what we learn is God is love. God will never judge you. Only you judge yourself. Therefore, just live the life you want to live. Live your best life. Aspire to greatness. And that's what God wants, okay? God wants will. He wants desire. He wants you to be your creative best. So don't worry about angering him. Don't be afraid of him. Love him as much as he loves you, right? Okay? Good. Really important, guys, okay? One, we do matter. Everything we do does matter. Number two is God is nonjudgmental. He will never, ever punish you. He will never punish you for doing what you think is right. Okay? Just follow your heart. Good. What else? What else have we learned these past few days?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0253
+
+## seg-0254 / 02:31:21-02:31:22 / SPEAKER_17
+
+
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0254
+
+## seg-0255 / 02:31:28-02:31:32 / SPEAKER_05
+
+Just ask yourself, what have you learned these past few days? What ideas have stuck in your head?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0255
+
+## seg-0256 / 02:31:32-02:31:32 / SPEAKER_17
+
+Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0256
+
+## seg-0257 / 02:31:34-02:31:44 / SPEAKER_05
+
+That the fear of unknown stops you from aspiring to the higher. Yeah. Right. Good. Yeah. Don't be afraid.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0257
+
+## seg-0258 / 02:31:44-02:31:58 / SPEAKER_17
+
+Just love. Just trust. Okay? Because love is the underlying principle of the earth. The universe. God is all love. Okay? Don't be afraid. Take the risk. Take that leap of faith. Good. What else?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0258
+
+## seg-0259 / 02:31:59-02:32:04 / SPEAKER_14
+
+Like, follow your heart and do the free will and do not be restricted by the material world.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0259
+
+## seg-0260 / 02:32:05-02:32:19 / SPEAKER_17
+
+Yes. Exactly. Okay? Don't care about the judgment of others. If God's not going to judge you, no one else is going to judge you. Okay? Just follow your intuition. Just follow your heart. Do what you believe is right. What else?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0260
+
+## seg-0261 / 02:32:20-02:32:24 / SPEAKER_15
+
+Yes? You have to forgive yourself. Forgive yourself to be a better person.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0261
+
+## seg-0262 / 02:32:24-02:32:29 / SPEAKER_17
+
+Okay. Yes. Okay. Let go of the past. Forgive yourself. Good. What else?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0262
+
+## seg-0263 / 02:32:34-02:32:43 / SPEAKER_13
+
+You need to care about poor guy because if you care about them and even give them money, maybe you will go to heaven with him. No. That's not what I thought.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0263
+
+## seg-0264 / 02:32:45-02:33:17 / SPEAKER_17
+
+Okay. Also, the most important thing, of course, is that there is intentionality in the universe. They are all part of God's grand design. Remember? The metaphor that Beatrice uses is the body. Right? God is the mind. We're all part of the body. So we are moving towards God's plan. Okay? All right? So this is all that we've learned these past few days. And think about how, if you believe these things, you no longer fear exile. You no longer fear isolation. Why?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0264
+
+## seg-0265 / 02:33:20-02:33:40 / SPEAKER_18
+
+Yes? Well, because in your heart, you know that you're doing the right thing. Like from your instincts and your intuition, you didn't know if you did the right thing. And obviously, you didn't know if you did the right thing. Obviously, it wouldn't make sense. But if you know just from your intuition that you know the right thing, then it's probably the right thing. You don't need logic or something to figure things out. You just need to...
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0265
+
+## seg-0266 / 02:33:40-02:33:58 / SPEAKER_17
+
+So the most important thing, and you say this, is like, the body knows it's not his fault for his exile and isolation. This is really important, guys. Right? It's not my fault. I did everything wrong. Why is this... Yeah?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0266
+
+## seg-0267 / 02:33:58-02:34:30 / SPEAKER_06
+
+So this is something that... Confuses me. Like earlier on, you said that if there's a will, there's a way. And you used the example of Picarda. And Picarda is in a similar situation to Dante. She is oppressed by a militaristic force, and she is forced to go against her vows. And well, how is Dante's situation different? If he believed in will so much, why couldn't he have used the will to find out a way to stay in Florence?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0267
+
+## seg-0268 / 02:34:31-02:34:54 / SPEAKER_17
+
+Okay. All right. So you raised this question, okay? And the answer is their purpose is different. Do you understand? Picarda's will is always to serve God, to be married to God, to live in the nunnery. Right? What is Dante's purpose? What is his purpose?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0268
+
+## seg-0269 / 02:34:55-02:34:55 / UNKNOWN
+
+Sure.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0269
+
+## seg-0270 / 02:34:56-02:35:15 / SPEAKER_17
+
+To write the Divine Comedy, guys. Okay? Do you understand? That's what his will is. His will is not to be the mayor of Florence. His will is not to be the pope. His will is not to conquer his enemies. His will is to be the poet, the greatest poet in human history. That is what he wants. Okay? Do you understand? Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0270
+
+## seg-0271 / 02:35:16-02:35:35 / SPEAKER_07
+
+So as we mentioned, everything has a consequence. And then Dante did end up dying because of malaria after he finished the Divine Comedy. Do you think that is his consequence? Like he had fulfilled his will of writing this poetry, and then after that, his mission is complete? And do you think that is like his will or like God's will or like...
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0271
+
+## seg-0272 / 02:35:36-02:35:49 / SPEAKER_17
+
+Okay. So, okay. That's a great question. Okay? Why is it that he died after he finished Divine Comedy? And I want to say something really strange for you guys, but let me ask you this question. Do you think Dante was a healthy person?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0272
+
+## seg-0273 / 02:35:50-02:35:51 / SPEAKER_07
+
+Probably not. Probably not.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0273
+
+## seg-0274 / 02:35:51-02:36:42 / SPEAKER_17
+
+Probably not, guys. Okay? Probably not. He was probably sick most of his life. Right? And that's probably why he had the visions that he did. Because he spent most of his time... Oh my gosh. In bed, dreaming. Right? Yeah. So I would argue that if it weren't for Divine Comedy, he'd probably be dead at 40. He started Divine Comedy at maybe around 40 and he died in his 50s. Do you understand? Yeah. Okay? I mean, it was his will that kept him going. Yeah. Right? So you could say, well, it was because he spent so much effort into writing Divine Comedy that he exhausted his body and he caught malaria and then he died. But you could also argue, well, the guy was probably not healthy to begin with. Okay? Most of these poets are not athletes. They're not the healthiest people you will meet. They're often daydreaming or getting drunk or something. Okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0274
+
+## seg-0275 / 02:36:42-02:36:48 / SPEAKER_17
+
+But they're not working out and stuff. Okay? Does that make sense? Yeah. Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0275
+
+## seg-0276 / 02:36:49-02:37:17 / SPEAKER_06
+
+So something I'm curious about is Dante's attitude towards predetermination. If you look at this passage, so he's basically prophesying to himself. At his time, while he was writing this passage. All of these things that the angel has said to an allegedly past version of himself has already happened. So he is trying to frame this as, okay, I've been told that this is going to happen. This is not a surprise to me at all, which just seems very wishy -washy to me.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0276
+
+## seg-0277 / 02:37:17-02:38:15 / SPEAKER_17
+
+Okay. All right. Okay. Let's be clear. Okay? Dante is writing this not to console himself. Okay? But to give us hope. Does that make sense? Okay? Because we are Dante in the poem. So when we read this, we shouldn't feel despair for the fact that we're going into exile. It should give us hope. We're trying to figure out why this is the case. All right? Number one, and this is the most important, is we know it's not our fault. Right? Okay? And this has been important because what's the number one reason why the voice traumatizes children? You guys know? If they think it's their fault. Okay? And that's why. If they didn't think it was their fault, the voice wouldn't matter. Okay? But children think this divorce was my fault, and that's what traumatizes them. Okay? So Dante hears it and is like, oh, it's not my fault. This is all preordained. And they will
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0277
+
+## seg-0278 / 02:38:15-02:38:52 / SPEAKER_17
+
+blame me, but God himself knows that it's not my fault, so my heart can rest at peace. Okay? I can forgive myself. I can forgive others. Okay? So let's focus on this, guys. Okay? Number one is... Let's see all this clearly. Number one is Dante knows it's not his fault. Okay? Let's keep on going. What now? I know, but let's think about the psychology. Okay? You know it's not your fault. Now what?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0278
+
+## seg-0279 / 02:38:55-02:38:58 / SPEAKER_04
+
+I'm interested in how he just accepted this fate.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0279
+
+## seg-0280 / 02:38:59-02:38:59 / SPEAKER_08
+
+Yeah.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0280
+
+## seg-0281 / 02:39:00-02:39:19 / SPEAKER_04
+
+Because if it's his fault, he was like, yeah, I deserve this. But it's not his fault. I'm just like, why this kind of things, this kind of accident happened? What happened to me? And is he going to feel like kind of unfair or just... Okay. All right. All right. All right. Yeah.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0281
+
+## seg-0282 / 02:39:19-02:39:19 / SPEAKER_17
+
+Go on.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0282
+
+## seg-0283 / 02:39:19-02:39:30 / SPEAKER_12
+
+Yeah. Because his... To follow on to the... His fate is part of his destiny. So if he embraces his destiny, I think that would be what's next. Embracing his destiny.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0283
+
+## seg-0284 / 02:39:30-02:40:19 / SPEAKER_17
+
+Yeah. He now appreciates, this is just my fate. And it was... It's part of God's plan. And it's my purpose to write the Bible. And it's part of God's promise to draw his attention to the redeemer. And we think that's what it is. Sometimes people say, well, if God is trying to, you know, even take this thing, he's So it's going to be like, okay, here. But he's not there. So you have to follow and make someone who that God wants to be your friends. So one of these things that you have to do in the life of God is values. That's a privilege. And I've been telling you, it's not just about... For years. You're going to have a lot of different thoughts about how will God wants you to diesel your family through palm. hope love okay that's his salvation the faith faith is understanding the nature of the universe that god loves
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0284
+
+## seg-0285 / 02:40:19-02:40:48 / SPEAKER_17
+
+us god has a plan and if we just follow the plan by following our intuition things will turn out okay okay we don't know how we don't know why but they'll turn out okay that's what faith is hope is to see what your what the future is the future is you'll finish divine comedy and that's enough okay and then love is why are you doing this you're doing this for love of beatrice love of family love of god okay all right these three things which he discovers
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0285
+
+## seg-0286 / 02:40:48-02:40:58 / SPEAKER_06
+
+here get yes so to sum it up yours you your idea is that dante believes in predetermination by god
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0286
+
+## seg-0287 / 02:40:58-02:41:31 / SPEAKER_17
+
+right okay all right so let's see all this okay this this is a good question okay this is actually a really good question so thank you okay we just said these past two days that free will is fundamental law of the universe we also say that if there's a prophecy then there has to be predetermination so how can we make sense of this paradox is this a paradox yes that arrow the the arrow thing that
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0287
+
+## seg-0288 / 02:41:32-02:41:43 / SPEAKER_12
+
+the the girl was mentioning right because because if there's no ordinal relationship between those things predetermination is just determination there's no what's what comes first and what comes next
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0288
+
+## seg-0289 / 02:41:44-02:42:03 / SPEAKER_18
+
+okay yes well i just i just say that free will is like there's a there's like a plan but like we can choose through free will to either follow it or not follow it like there is definitely a plan for every person but like you don't have to follow this but people that go against the intuition
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0289
+
+## seg-0290 / 02:42:03-02:42:37 / SPEAKER_17
+
+right like they do that's right yeah okay so remember what free will is okay god loves you god is trying to pull you back to him because there's the aspect of god inside of you right you desire to return to god okay this is the fundamental logic of the universe god loves you god's calling you back to him you love god you're returning to god but you have the free will to deny god and turn away from god that is the free will uh yes
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0290
+
+## seg-0291 / 02:42:37-02:43:10 / SPEAKER_06
+
+so follow -up question so if god has a plan and god allows you to use your free will to turn away the let's look at the people who prosecuted dante who drove him out of flores so are you because god knows that these people are going to drive him out from flores therefore god must have set the plans for these people and therefore god god's plan for these people his all -good plan for these people is for them to do such an evil thing to drive him out of flores so why does anyone want to respond to
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0291
+
+## seg-0292 / 02:43:10-02:43:16 / SPEAKER_12
+
+this those people sin on their own on behalf of their own free will right it's not god's plan for
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0292
+
+## seg-0293 / 02:43:16-02:43:23 / SPEAKER_06
+
+them to commit do what they did in that case how did god know about it okay okay you're assuming
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0293
+
+## seg-0294 / 02:43:23-02:43:55 / SPEAKER_17
+
+god that cares what happens here god doesn't really care what happens here right what god's plan is is for us to return to him does that make sense god is calling for us and we want to return to him so our actions here is to return to him okay and what happens here on this planet doesn't really impact um this grand logic does that make sense um i don't i don't think you made it clear
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0294
+
+## seg-0295 / 02:43:55-02:44:09 / SPEAKER_06
+
+like how how god knew that what the bad guys were gonna do if the bad guys really had free will and if they and if god god's plan for these bad people is for them to be bad how could a good god
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0295
+
+## seg-0296 / 02:44:09-02:44:32 / SPEAKER_17
+
+do this thing right so in this prophecy what happens to all these people who have persecuted dante they have a worse fate than dante you understand yes don't they have exile in isolation but these people have a much worse fate than you do so what what's the problem here
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0296
+
+## seg-0297 / 02:44:32-02:44:44 / SPEAKER_06
+
+the problem is uh if god's plan is for these people to be bad then how can a almighty good god like make people do bad and then condemn them to hell it's like playing a puppet show why would
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0297
+
+## seg-0298 / 02:44:44-02:44:54 / SPEAKER_17
+
+you make the bad puppet well i mean i mean if you do bad things bad things are gonna happen to you right if i hit you you're gonna hit me back
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0298
+
+## seg-0299 / 02:44:57-02:45:56 / SPEAKER_03
+
+i think there uh shouldn't be the dichotomy of bad and good in any serious academic discussion i mean we are uh you know in a very complex world and uh of course there is the retribution there is uh you know uh good and bad but we cannot really you know just attack or anybody or any events with the bad uh you know it's a very simple uh um you know a type of good and bad which will make discussion very difficult so i i think the the minor characters uh in dante's life or in dante's books uh um you know are also part of the plan as dante intended but um um but you cannot see that their actions are evil uh and therefore it's not be tolerated by god i don't think there is there is no need there is no need to be evil there's any need to discuss even this logic. Okay,
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0299
+
+## seg-0300 / 02:45:56-02:45:57 / SPEAKER_03
+
+all right, you, yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0300
+
+## seg-0301 / 02:45:57-02:46:23 / SPEAKER_07
+
+Yeah, I was thinking, I think earlier we were making a point where people do what they think is good based on their judgment. So I was thinking what if those people were doing what they thought was good, was the right thing, and then they sent Dante in exile, but then it was objectively bad because God didn't want it, so that's why they got punished. That was kind of my interpretation, I don't know.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0301
+
+## seg-0302 / 02:46:23-02:46:56 / SPEAKER_17
+
+Okay, look, the situation is never as complicated as this. Sorry, the situation is never as simple as this, right? What happened was that Dante was sent into exile, and he said, and they said to him, you can come back, but you must confess to certain crimes. And Dante's like, no, screw you, I didn't do anything wrong. Do you understand? Oh, yeah. So it's not simple, it's not black and white. Okay, okay. Do you understand? Yeah. Okay, never in life are things black and white. There are four people here, okay? So let's go one by one, okay? You first.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0302
+
+## seg-0303 / 02:46:57-02:47:21 / SPEAKER_01
+
+It's also that we're framing the people who say exiled Dante, they were doing a bad thing. But if they had been more pure in their thinking and their intentions, maybe they wouldn't have gone against Dante. So they had, maybe God had a good predetermined plan for them, but they went against it because they didn't look at the situation in the right way.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0303
+
+## seg-0304 / 02:47:22-02:48:29 / SPEAKER_17
+
+Okay, all right, okay. Okay, so something I wanna say is this, okay? No one is really at fault because the situation in Italy is one of complete chaos and warfare, okay? It's kill or be killed. So in their eyes, what they're doing is they're trying to protect their families, they're trying to protect their children, okay? So this is a problem that Dante is facing, okay? He's trying to deal with. We live in evil time where everyone is forced to the evil. And so what can we do about it, okay? That's a question that Dante is facing. For whatever reason, we just end up in a situation where evil rules. And those who commit the most evil are usually the ones who triumph in this world. Maybe not in the next world, maybe they'll go to hell, but in this world, they will always triumph. And so what can we do about this? And the answer isn't, oh, we'll just wait for God's judgment day.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0304
+
+## seg-0305 / 02:48:30-02:48:34 / SPEAKER_17
+
+No, no, there has to be a different answer. We're trying to figure out what it is, okay? Yes?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0305
+
+## seg-0306 / 02:48:35-02:48:55 / SPEAKER_12
+
+Yeah, something that came to mind on top of what we just discussed was simplicity. When Dante embraced his destiny to write divine comedy, it simplified his whole worldview down into, it's something that comes to mind is simplicity is close to God. Whatever God is, whatever love is, it's simple. I don't know if that makes sense.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0306
+
+## seg-0307 / 02:48:56-02:49:27 / SPEAKER_17
+
+No, it makes perfect sense, right? He now has focus. Before he had doubt, he had ego, he had fear. Now he just has focus. Like I'll just write divine comedy and I won't die until I finish it, okay? Now he has complete will. The absolute will is now the contingent will as well, okay? So that's what this prophecy has done for me. It's given him the future and he knows his place in the universe, okay? Did you have a comment or question?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0307
+
+## seg-0308 / 02:49:29-02:50:04 / SPEAKER_18
+
+Okay, yeah. Well, maybe the point was that Dante, he would have never gone through everything if the people chose to do, not chose to do evil to him. So, it's a bit complicated, but they chose to do that, but if they didn't choose that then through free will, then Dante would have never went through all of this. So, like... How... Like... so in the end it wasn't really a plan from god himself right but what donald recognizes
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0308
+
+## seg-0309 / 02:50:04-02:50:16 / SPEAKER_17
+
+recognizes that everything has a purpose do you understand everything has a purpose and that's why he's able to forgive others because as long as he achieves his purpose then everything so
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0309
+
+## seg-0310 / 02:50:16-02:50:23 / SPEAKER_18
+
+so he still he still would have achieved his purpose if he wasn't persecuted no he would
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0310
+
+## seg-0311 / 02:50:23-02:50:26 / SPEAKER_17
+
+not have been able to because he would not have been in exile right you need isolation you need
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0311
+
+## seg-0312 / 02:50:26-02:50:34 / SPEAKER_18
+
+exile in order to write divine comedy so he's so he needed other people to persecute him basically
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0312
+
+## seg-0313 / 02:50:34-02:50:48 / SPEAKER_17
+
+um but others were gonna persecute him anyway because this is all political faction fighting right it's all political violence right now yeah okay all right did did you have a question yeah
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0313
+
+## seg-0314 / 02:50:48-02:51:22 / SPEAKER_13
+
+because you know first first of all i think the original thing is kind of thing that i've been reading the bible it means that our people have seen this is for sure and you can't say that it's not my fault you can say this is not my saying you know because saying is the original one everyone have to be blamed because we we steal the apple right from the tree and secondly i think the odyssey is also kind of thing maybe that influence maybe because in the odyssey uh you know the hero just always have to excel right so maybe dentings yes maybe dentings are every hero need to be uh
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0314
+
+## seg-0315 / 02:51:22-02:52:17 / SPEAKER_17
+
+uh excel maybe okay all right guys okay so let's let's now focus on the question okay the question is dante is in a time of pure hopelessness whenever you do uh ends up causing even more problems and so for dante what is the solution what is the only way forward okay and this tells him you will go into exile in isolation and in exiled isolation it doesn't say this but you're but it's to write divine comedy okay so why would the divine comedy be a possible solution to all this chaos and darkness and violence why uh yes because it
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0315
+
+## seg-0316 / 02:52:17-02:52:32 / SPEAKER_02
+
+reunites all the types of thinking the religion and it guides through love and because love is uniting well it's a way to just unite everyone whatever the culture or area what does divine comedy
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0316
+
+## seg-0317 / 02:52:33-02:52:44 / SPEAKER_17
+
+do and bring to the world that is missing in europe at this time it just
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0317
+
+## seg-0318 / 02:52:44-02:53:04 / SPEAKER_18
+
+like it proposes a solution for people who like went through suffering without understanding why they went through suffering because like they went through suffering before because of obedience but through the catholic church but now he proposes a new solution that you can go through suffering because you actually want to make a positive change in the world and not just like
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0318
+
+## seg-0319 / 02:53:04-02:54:07 / SPEAKER_17
+
+obey the church okay but but how okay so you suffer and now you can now explain your suffering what do we call this order no okay so so so think about this okay this is really important what no no think of this before the divine comedy this was not this did not um this was not present in europe and with because of its absence people were committed tremendous violence against each other people were just fighting all the time okay so dante decides i must go into isolation exile in order to write divine comedy in order to bring this into europe right what is divine comedy and why does it change
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0319
+
+## seg-0320 / 02:54:07-02:54:14 / SPEAKER_02
+
+the destiny of your forever is it about forgiveness how people as individuals can forget
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0320
+
+## seg-0321 / 02:54:15-02:54:21 / SPEAKER_17
+
+forgive their themselves and each other what allows you to forgive someone what allows you to forgive
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0321
+
+## seg-0322 / 02:54:21-02:54:28 / SPEAKER_02
+
+someone to recognize a sin and to recognize it's not necessarily their fault to recognize it's not
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0322
+
+## seg-0323 / 02:54:28-02:54:47 / SPEAKER_17
+
+their fault and how do you do that by unconditional love observation observation is not enough what else do you need let's let's talk concretely okay no let's let's figure this out let's talk concretely we we forgive someone okay just tell us a story and we'll figure out what's going on like if
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0323
+
+## seg-0324 / 02:54:47-02:54:53 / SPEAKER_02
+
+someone gets angry he hits you and then you just think it's because of his emotions and it's okay
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0324
+
+## seg-0325 / 02:54:53-02:55:17 / SPEAKER_17
+
+like but what allowed you to know it was his emotions like knowledge about what what knowledge empathy empathy yes okay what allows for empathy love wisdom okay when you're saying when we're saying there's aONCYc desktop who is doing why we're early reading which isカ 시작 person hit me because he's angry he's emotional so he lost control what are
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0325
+
+## seg-0326 / 02:55:17-02:55:24 / SPEAKER_02
+
+you really doing consideration considering the person you go yeah you
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0326
+
+## seg-0327 / 02:55:24-02:55:35 / SPEAKER_03
+
+know you go above him in your knowledge and reasoning what does it mean to go above your reasoning and your knowledge you put yourself into his shoes or him
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0327
+
+## seg-0328 / 02:55:35-02:55:43 / SPEAKER_17
+
+how do you do that though imagination the imagination guys if you do understand the imagination yes I think it's also like looking inside yourself
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0328
+
+## seg-0329 / 02:55:43-02:56:06 / SPEAKER_06
+
+inside like uh before like when Donnie was first exiled he was not thinking about all of us he was thinking about the outside he was thinking objectively these guys harmed me and objectively I'm so angry about it but when he looks inside that he can find the strength to continue and the strength to forgive so he's using this to tell people to look inside not outside yeah because empathy
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0329
+
+## seg-0330 / 02:56:06-02:56:09 / SPEAKER_04
+
+is basically imagining what would I do if I
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0330
+
+## seg-0331 / 02:56:09-02:56:25 / SPEAKER_17
+
+were exactly okay does that make sense to you okay when you forgive someone it's an act of imagination right because you're imagining that if I were that person I would also get angry and hit someone do you understand sometimes
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0331
+
+## seg-0332 / 02:56:25-02:56:33 / SPEAKER_02
+
+it's also knowledge like in some case you can imagine the person and then sometimes you just know why he's angry right and that now is a solution right
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0332
+
+## seg-0333 / 02:56:33-02:57:01 / SPEAKER_17
+
+if we can increase the imagination of everyone in Europe this violence this infighting this chaos this greed this corruption would have to decrease not coming in you can't do that but it would have to at least decrease does that make sense and before people lack an imagination why why did people lack an
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0333
+
+## seg-0334 / 02:57:01-02:57:07 / SPEAKER_04
+
+imagination obedience to God that's the Catholic Church the obedience but what
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0334
+
+## seg-0335 / 02:57:07-02:58:18 / SPEAKER_17
+
+emotion was limiting your imagination what emotion what emotion limits your imagination is what a fear right you understand so let's go back to your instance where someone hits you right if you're afraid what do you do you hit him back you understand so it's the fear that limits your imagination and at this time in Europe fear is dominant emotion so if Dante is to release people from their fear he must prove to everyone that God is love understand and once he does that the imagination now is released and people can be imaginative and this will mark a new age in Europe and basically let Europe conquer the world my question now is how does Dante prove to everyone that God is love everyone now lives in a time when they're afraid of God when they think that if I sin God will punish me and send me to hell for all eternity the fear is
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0335
+
+## seg-0336 / 02:58:18-02:58:28 / SPEAKER_17
+
+what limits the imagination what allows Dante to prove to the world that God is love don't be afraid of God yes so basically he's
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0336
+
+## seg-0337 / 02:58:28-02:58:54 / SPEAKER_06
+
+making the unknown unknown so like people are scared of hell they're scared of burning in hellfire and to be honest they don't really know that heaven exists here and Dante and Dante in the story here he's taking the role of a pilgrim and he's going to all these places and he's like a tour guide and he's saying oh guys this is here this is that this happens that happens as long as it doesn't happen to you and he's turning the unknown into a no and that's how you lose fear
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0337
+
+## seg-0338 / 02:58:54-02:59:30 / SPEAKER_17
+
+okay so let's just say that Dante opens University and says and this University I'm going to teach you to be not afraid of God and here are the reasons why you should be afraid of God okay would it work probably not okay but probably not because we know that same as Thomas Aquinas tried it didn't work the Franciscans tried it didn't work the Dominicans tried it didn't work okay but he was able to prove that God is love how he has to live it to me he has to live it and he has to
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0338
+
+## seg-0339 / 02:59:30-02:59:37 / SPEAKER_12
+
+write the Divine Comedy to channel himself as the example okay yes okay the Divine Comedy is what
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0339
+
+## seg-0340 / 02:59:37-02:59:43 / SPEAKER_17
+
+proves it do you understand because what's the Divine Comedy yes go ahead well um you know God
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0340
+
+## seg-0341 / 02:59:43-02:59:57 / SPEAKER_18
+
+loves you because he gave you the free will like you like I mean the Divine Comedy says that through your own fate or your own destiny but that's just logic that's just reason I'm saying like like how
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0341
+
+## seg-0342 / 02:59:57-03:00:25 / SPEAKER_17
+
+do you convince someone that God is love right and that's what Divine Comedy yeah all right so what's going on why would the Divine Comedy prove that God is love and we just said that if Dante were to open University and lecture on God is love it wouldn't work no one would care
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0342
+
+## seg-0343 / 03:00:27-03:00:38 / SPEAKER_08
+
+uh they need to let the readers or the audience go on the journey uh like he did to embody and to emphasize what is art guys tell me
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0343
+
+## seg-0344 / 03:00:38-03:00:45 / SPEAKER_17
+
+what what is art why is art different from everything else yes uh it's like the difference
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0344
+
+## seg-0345 / 03:00:45-03:01:12 / SPEAKER_06
+
+between a encyclopedia definition of the emotion anger and a piece of art titled anger so like the encyclopedia edition tells you it doesn't show you it tells you what anger is it's quickening of the post cortisol Etc Etc but the art you look at the art and you feel it for yourself you can interpret it for yourself even but with your intuition you arrive at the same general conclusion an art is a channel of
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0345
+
+## seg-0346 / 03:01:13-03:01:20 / SPEAKER_03
+
+consonants between the creator and the observer or the experiencer
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0346
+
+## seg-0347 / 03:01:23-03:01:38 / SPEAKER_12
+
+truth uh truth because Divine Comedy if Divine Comedy contains the truth and reflects the truth over time across dimensions across different mediums it'll persist and therefore it's proven yes okay yes did
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0347
+
+## seg-0348 / 03:01:38-03:01:59 / SPEAKER_18
+
+you have a yeah uh art is just like expression of like just expression of of of um ideas that you get from God you don't like philosophy for example it's just like logical thinking and you can do that by yourself but expression to express art you need a higher form to be inspired by something okay okay
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0348
+
+## seg-0349 / 03:01:59-03:02:07 / SPEAKER_17
+
+all right so so let's be very specific okay again use your intuition did you have a comment or um it's a very simple one so I feel
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0349
+
+## seg-0350 / 03:02:07-03:02:18 / SPEAKER_07
+
+like it's just kind of similar to how the Divine Comedy State as long as because we could resonate with it so we believe in it so that's why it's the truth okay okay yes but but
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0350
+
+## seg-0351 / 03:02:18-03:02:37 / SPEAKER_17
+
+I want to be specific okay I want each and every one of you to think of a movie or a song or a painting or novel that has changed you can you think of something that has changed you a piece of art that has changed you okay just name it yes uh for example like the
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0351
+
+## seg-0352 / 03:02:37-03:02:42 / SPEAKER_13
+
+you know the movie uh determine a terminator because you know the movie that is not a piece
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0352
+
+## seg-0353 / 03:02:42-03:02:49 / SPEAKER_17
+
+of art by the way okay inception uh inception okay yeah boostly the movies boostly okay
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0353
+
+## seg-0354 / 03:02:51-03:03:08 / SPEAKER_06
+
+historic material is by philip pullman what what what historical materials is that a novel yeah by by what it's about growing up and it's about his dark materials yeah yeah okay all right okay
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0354
+
+## seg-0355 / 03:03:08-03:03:13 / SPEAKER_17
+
+yes i've actually read that so so i actually know this example okay but tell us why it's changed you
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0355
+
+## seg-0356 / 03:03:13-03:04:09 / SPEAKER_06
+
+as a person why like like philip pullman reading reading his dark materials has given me a new perspective what happens after i die so uh this is kind of personal but i used to be a christian i used to have this vague faith that if i was good i would go to heaven and everyone who is bad towards me will go to hell and when i read his dark materials it's like being freed and being burdened all at once so sometimes the sometimes the emotions i feel when i am hurt are no one's fault but my own and any closure that i can find i have to find within this world because after we die all of us are equal every soul is equal and we become new life and we become new life so i need to have initiative i need to forgive and i need to avenge myself okay all right so
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0356
+
+## seg-0357 / 03:04:09-03:04:26 / SPEAKER_17
+
+that's great okay so so this is an example of transformation right your worldview your worldview has changed the way you perceive yourself the way you perceive the world is different but what was it about his dark materials that made this transformation possible uh personally i would
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0357
+
+## seg-0358 / 03:04:26-03:04:34 / SPEAKER_06
+
+say is the story it doesn't force a moral upon me i just read the story and i follow the journey of the protagonist and i can emphasize
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0358
+
+## seg-0359 / 03:04:34-03:04:37 / SPEAKER_17
+
+okay all right all right okay yes okay did you have a question or comment
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0359
+
+## seg-0360 / 03:04:45-03:05:12 / SPEAKER_04
+
+yeah i think it it names something in yourself that was that used to be unnameable that you don't know how to explain it and someone did it for you and through it's their music you you feel that um emotions in your heart that like finally now you you you had this realization that that oh this really speaks to me and now i know how to resonance right yeah all right so
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0360
+
+## seg-0361 / 03:05:12-03:06:26 / SPEAKER_17
+
+so so let's go back to the start materials okay let let me ask you this question okay do you did you cry when you read his dark materials yeah did you laugh yeah did you were you angry yes extremely okay so do you understand guys first and foremost art is an intense emotional experience you guys understand this if a song moved you the movie touched you it's because it was an intense emotional experience for you and that's one two is this intensive of emotions what it does is it goes into you or it opens you and allows for the entry of the ideas into you okay and these ideas these words these songs these melodies it's almost like a virus that grows over time right so the transformation doesn't happen like today but it happens over time and you don't even know it's happening and then over time what happens is that your very perception
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0361
+
+## seg-0362 / 03:06:26-03:07:37 / SPEAKER_17
+
+of reality changes it does that make sense that is why the divine comedy was proof of god okay because god could enter you and god could transform the way you saw the world that's what what divine comedy is meant to do it's meant to fill you with love it's meant to fill you with God it's meant to give you hope faith and love do you understand it's a piece of art so what it does is what every piece of art does it shakes you emotionally it makes you afraid it makes you happy it makes you angry it makes you it makes you emotional okay it's able to do so because it's truth and beauty does that make sense all right and that's why divine comedy marks a radical turning point in European history it doesn't happen right away right it takes about a hundred years but because it's so beautiful because it's so truthful people
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0362
+
+## seg-0363 / 03:07:37-03:08:23 / SPEAKER_17
+
+are drawn to it they will read it and when they read it they will transform because of it and as they are transformed because of it it would inspire them to create tremendous pieces of art the Renaissance those painters Michelangelo Donatello they all read the line comedy okay this is why and how do we know this because the Renaissance occurred in what city Florence is it all just a coincidence right why Florence and why not Venice why not Genoa right why Florence specifically it doesn't make sense guys wouldn't wouldn't they like ban the
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0363
+
+## seg-0364 / 03:08:23-03:08:26 / SPEAKER_18
+
+Divine Comedy and Florence because it's from Dante and they accept
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0364
+
+## seg-0365 / 03:08:26-03:08:42 / SPEAKER_17
+
+them that's a really good point okay so if you analyze this and you're like wait a minute here it's heretical it's heresy it's critical of the of Catholic church they were not dare ban this why not
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0365
+
+## seg-0366 / 03:08:42-03:09:04 / SPEAKER_03
+
+no they were not their bandits Eckler and it's uh already uh got into a false of itself so it's any man would fall if bonnet then it won't just backfire oh no there's there's a very good reason
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0366
+
+## seg-0367 / 03:09:04-03:09:21 / SPEAKER_17
+
+why maybe we're not their Bandit of my comedy why not either some history shop come from if someone like Leonardo appears he's able to take the Mona Lisa how is he able to do this
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0367
+
+## seg-0368 / 03:09:21-03:09:31 / SPEAKER_01
+
+it would go against God because they're like Divinely inspired pieces of work exactly you
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0368
+
+## seg-0369 / 03:09:31-03:09:36 / SPEAKER_11
+
+understand this okay to try to burn down a painting
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0369
+
+## seg-0370 / 03:09:36-03:10:18 / SPEAKER_17
+
+to destroy an artwork would be to go against god that who dares goes against god right because at this time in history you see leonardo paint the mona lisa right you ask mona lisa hey leonardo how were you able to do this he told you i didn't do this god did this right there's no other explanation he's like well because of my synapses were connected in a certain way no it's like god sorry yeah yeah again i'm gonna nitpick your logic here so you said that
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0370
+
+## seg-0371 / 03:10:18-03:10:57 / SPEAKER_06
+
+uh dante's divine comedy and the renaissance accord occurred to in the same city florence and you say that that's because of dante's or by extension of god's influence and i would have to say that there are genuine historical reasons why florence is a fertile ground for the renaissance there is the inflow of trade caravans and there's it's a fractured nature a fractured state actually contributes to a flourishing of diverse ideas and there is a status as a city instead of a suburb so there's a high concentration of intellectuals and it's traditional status as a seminary as a place of education so i think there's loads of reasons and it's not necessarily
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0371
+
+## seg-0372 / 03:10:57-03:11:49 / SPEAKER_17
+
+because of dante i don't dispute this and if you talk to any academic he'll explain to you these very reasons okay you have the mid -day cheese the begging family for the pages of the arts you're the fact that this is a city -state system so there's no central authority the pope cannot enforce this authority on florence you had as you point out the trade the wealth there are lots and lots of really good reasons okay but my question is why florence and not venice virgin noah or any other of these italian city -states right what did and what did it happen after dante not before dante in fact the renaissance happened i would say about 100 years after the death of dante okay and that's enough time for the divine economy to fully fully incubate the culture does that make sense because you need to create mass right so maybe after donnie died there
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0372
+
+## seg-0373 / 03:11:49-03:12:26 / SPEAKER_17
+
+may be like 50 manuscripts and then maybe 100 manuscripts and then a thousand manuscripts okay but you need time for this artwork to fully embed itself in the imagination and in the culture okay okay so so again we can argue forever what was the cause of the renaissance okay but i'm just saying for this class the purpose of this class just take the sleep of faith and trust me when i say that it was dante's divine comedy that enabled the renaissance okay all right personally i would
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0373
+
+## seg-0374 / 03:12:26-03:12:37 / SPEAKER_06
+
+say that it was a huge factor in renaissance but i would not say that it was indirectly enabled it it was just a step in the great river of history okay well what i would like to do
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0374
+
+## seg-0375 / 03:12:39-03:13:35 / SPEAKER_17
+
+is teach dante to the entire world and we'll see which parts of the world accept dante and i guarantee you the parts of the world that accept dante regardless of where they are it could be in china it could be in the middle east it could be in africa i don't care which part but i guarantee you this whichever parts of the world make dante part of the curriculum make every child read dante i guarantee you they will flourish more than other parts of the world i make you this promise okay uh yes that's super powerful we shall see then yeah and that's my mission okay this is why i'm teaching dante right now it's part of a larger mission to spread dante around the world i guarantee you those parts of the world that do uh love dante will flourish what what does florence mean by the way you guys know firenze spring right
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0375
+
+## seg-0376 / 03:13:36-03:13:37 / SPEAKER_17
+
+i find men flourishing
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0376
+
+## seg-0377 / 03:13:38-03:13:40 / SPEAKER_06
+
+yeah flourish spring flora same thing
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0377
+
+## seg-0378 / 03:13:40-03:14:44 / SPEAKER_17
+
+right okay and what's it greek for flourishing do you guys know what's it greek for flourishing eudaimonia anyway anyway anyway i went off topic anyway okay but like you see see how what's happened right dante is facing dilemmas okay his life sucks all of europe sucks okay and then he has this prophecy he understands okay now my mission is to divine comedy okay that's why i'm going to exile that's why i'm going into isolation because by random and comedy i can bring the imagination to the world and it's imagination that is our salvation all right so the divine comedy must be the greatest piece of art in the world for this to happen and if i were righted i don't have to fear the catholic church because the catholic church knows this must be the work of god all right i can say whatever i want i don't care what i say as long as
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0378
+
+## seg-0379 / 03:14:44-03:15:44 / SPEAKER_17
+
+it's beautiful and truthful it will um be saved okay and so what saves it is the poetry the beauty of the words right and again unfortunately we don't speak italian uh but if you were actually to read the divine comedy in italian you cannot help but be emotional all right you cannot help but be moved by the words and um you will feel i think you i i i actually don't know this because i never tried but i i i bet that for some people they actually have an out -of -body experience where they will actually transcend the physical form and be more in touch with the divine it would be like taking out ayahuasca or a psychedelic of some sort okay all right if you were to actually practice um resetting the divine comedy does that make sense yes um i'm just uh you said that any
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0379
+
+## seg-0380 / 03:15:44-03:16:00 / SPEAKER_06
+
+any any country any any region that adopts dante as part of the core curriculum would flourish and i would just like to point out that the country that most definitely does this right now is probably uh italy and i don't know what's your opinion now how they're doing but i don't think
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0380
+
+## seg-0381 / 03:16:00-03:16:40 / SPEAKER_18
+
+yeah uh yes well actually i was in italy in florence and or near florence and i've talked to people who studied the divine comedy for six years and they they all say that they hated it because the teacher didn't like they like they didn't do it like teachers like you it's like totally different experience they they like only looked at the grammar and at the language but they didn't actually like understand what you're saying about the law of an imagination it's like really like plain yeah okay like they don't teach it the same way as you teach look look look look you can make
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0381
+
+## seg-0382 / 03:16:40-03:17:41 / SPEAKER_17
+
+anything terrible by making it by testing it right like you just add test anything it's gonna be terrible because you're not but because tests just force you to abandon your imagination right and that's why i say you want to read the divine comedy you have to use your intuition your imagination okay and you just truly understand it then you will transcend okay does that make sense all right okay all right so now let's talk more about faith love and hope okay i want to be very specific here about what these things are so we're going to do is we're going to go to candle 24. i'll set the scene okay the scene is dante and beatrice are in heaven and they and beatrice becomes dante's teacher and they were exploring the cosmos to find more about how heaven works to find out the nature of reality the nature of god so what do you think
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0382
+
+## seg-0383 / 03:17:41-03:17:59 / SPEAKER_17
+
+happens now you guys guess you guys know what happens now we just talked about this you learn and you finish your learning and now what
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0383
+
+## seg-0384 / 03:17:59-03:18:00 / SPEAKER_10
+
+you give me a test供
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0384
+
+## seg-0385 / 03:18:00-03:19:20 / SPEAKER_17
+
+There's going to be a test, guys, okay? There's going to be a test. Yes. So before Dante can meet God, he has to prove he's worthy. And to do that, you have to pass an examination or an oral examination. So there's going to be three apostles, Peter, John, and James. And each of these apostles is going to test Dante on a concept. The first concept is faith. What is faith? Second concept is what is hope. Third concept is what is love. And only if Dante answers all three to the satisfaction of these apostles can now he ascend to the highest realm, the imperium. Does that make sense? Okay. So. So this is really funny. You're in heaven, and they make you take an examination. Okay. So you can never, ever escape tests. All right. So this is the test of faith. And by the way, what's happening is that Beatrice has taught Dante, and now Beatrice has to observe Dante, okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0385
+
+## seg-0386 / 03:19:20-03:19:32 / SPEAKER_17
+
+She cannot participate. She cannot help Dante. Dante is now by himself, okay? He now has to prove that he's absorbed the true teachings, of heaven. All right. Okay. So, kind of, kind of, 24.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0386
+
+## seg-0387 / 03:19:35-03:20:32 / SPEAKER_00
+
+Candle 24. Oh, fellowship that has been chosen for the blessed lamb's great supper, where he feeds you so as always to fulfill your need, since by the grace of God, this man receives foretaste of something fallen from your table before death has assigned his time its limit. Direct your mind to his immense desire. Quench him somewhat. You who forever drink from that source, which has, which he has sought and longing seek. So Beatrice and these delighted souls formed companies of spheres around fixed poles, flaming as they revolved, as comets glow, and just as in a clock's machinery to one who watches them, the wheels turn so that while the first wheel seems to rest, the last wheel flies so that those circling dancers, as they danced to different measures, swift and slow, make me a judge of what, their riches wear.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0387
+
+## seg-0388 / 03:20:32-03:20:53 / SPEAKER_17
+
+Okay, stop. Okay. All right. So guys, um, for homework, not only do I want you to reread what we discussed today, but I also want you to look at artwork imagery inspired by the divine comedy. Okay. It's a very visual poem and there's lots of paintings, lots of artwork inspired by it. So that you know how creative it is, but you all, but you also recognize how crazy all this is. Okay.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0388
+
+## seg-0389 / 03:21:00-03:22:07 / SPEAKER_00
+
+Verse 19 from that sphere, which I noted as most precious. I saw a flame come forth with so much glass, so much darkness that none it left behind had greater brightness and that flame world three times brown Beatrice while singing so divine a song that my imagination cannot shape it for me. My pen leaps over it. I do not write our fantasy and all the more so speech are far too gross for painting folds so deep. Oh, you who pray to us with such devotion, my holy sister, with your warm affection, you have released me from that lovely sphere. So after he had stopped his motion, did the blessed flame breathe forth unto my lady and what he said, I have reported here. She answered, Oh, eternal light of that great man to whom our Lord bequeathed the keys of this astonishing gladness. The keys he bore to earth do test this man concerning the faith by which you walked upon the earth.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0389
+
+## seg-0390 / 03:22:07-03:23:04 / SPEAKER_00
+
+Do you not see his name, upon the sea? Ask him points, light and grave, just as you please, that he loves well and hopes well, and his faith is not concealed from you. You see that place where everything that happens is displayed. But since this realm has gained its citizens through the true faith, it rightly falls to him to speak of faith that he may glorify it. Just as the bachelor candidate must arm himself, and does not speak. until the master submits the question for discussion not for settlement so while she spoke I armed myself with all my arguments preparing for such a questioner and such professing on hearing that light breathe good Christians speak show yourself clearly what is faith I raised my brow then turned to Beatrice whose glance immediately signaled to me to lead to let the waters of my inner source pour forth
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0390
+
+## seg-0391 / 03:23:04-03:23:31 / SPEAKER_00
+
+then I so may the grace that grants to me to make confession to the chief centurion permit my thoughts to find their fit expression and followed father as this truthful pen of your dear brother wrote that brother who with you set Rome upon the righteous road faith is the substance of the things we hope for and it's the evidence of things not seen and this I I
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0391
+
+## seg-0392 / 03:23:31-03:24:36 / SPEAKER_17
+
+take to be its quiddity okay stop okay all right so what's happening is that uh peter the apostle is now uh testing dante and the first question is what is faith and what don is going to do is he's going to repeat what paul wrote in hebrews okay which is faith what does he say faith faith yeah faith is a substance of the things we hope for and it's evidence of things not seen okay all right so um this entire situation is it's kind of weird why is it weird or paradoxical peter asked dante what is faith and donnie's response is well i'm going to refer to the expert on faith which is paul and i'm going to repeat what paul said which is that faith is the evidence of things unseen
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0392
+
+## seg-0393 / 03:24:36-03:24:46 / SPEAKER_18
+
+why is that weird why is this entire situation weird uh yes well because he despises the catholic church and paul is the catholic church so why would he like recite his words and not like the
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0393
+
+## seg-0394 / 03:24:46-03:25:07 / SPEAKER_17
+
+words of jesus or something um so i think despise is a heart is is harsh okay yeah he he he's critical of the catholic church right he thinks the catholic church should be reformed but you know he doesn't believe the catholic church should be abolished but there's something weird going on yes the weird thing going on is that all
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0394
+
+## seg-0395 / 03:25:07-03:25:27 / SPEAKER_06
+
+this while dante is talking about imagination intuition and importance of looking into himself and he criticized the traditional mode of theological learning which is to recite things and then spew it back out in your way when it comes to your own interest and what he's doing right here is that he's reciting something and he's spilling it out so what is he doing here
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0395
+
+## seg-0396 / 03:25:27-03:25:56 / SPEAKER_17
+
+yeah so so it is a bit weird don't you think right so donnie is saying you know you should use your imagination use your will and now he's partaking in an examination right uh hebrews are you looking for hebrews uh hebrews 11 yes hebrews 11 is is where this is um is okay so maybe we'll just read a bit of that okay okay so this is written by paul um he's trying to explain what
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0396
+
+## seg-0397 / 03:25:56-03:26:09 / SPEAKER_00
+
+faith is um hebrews 11 uh niv now faith is confidence in what we hope for and then in a
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0397
+
+## seg-0398 / 03:26:09-03:27:16 / SPEAKER_17
+
+way that we can have assurance about what we do not see um yeah right but it goes on right so so so yeah so so maybe you can have the whole passage okay okay so there's something really weird going on because where are they they're in heaven right so basically who can you have questioning donnie about faith yeah but how about paul because paul is the expert on faith right if you're in heaven right you're going to have to ask paul to ask donnie about about faith so clearly this is a paradox right and this is another way that dante um is signaling that he differs from the official teachings okay so yes he's going to repeat the official doctrine which is that faith is the evidence of things unseen but he's going to make subtle changes to it does it make sense guys because otherwise why not have paul test you all right i
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0398
+
+## seg-0399 / 03:27:16-03:27:17 / SPEAKER_17
+
+can just
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0399
+
+## seg-0400 / 03:27:18-03:28:22 / SPEAKER_00
+
+uh read hebrews 11 okay now faith is confidence in what we hope for and assurance about what we do not see this is what the ancients were commended for by faith we understand that the universe was formed at god's command so that what is seen was not made out of what was visible by faith abel brought god a better offering than cain did by faith he was commended as righteous when god spoke well of his offerings and by faith abel still speaks even though he is dead by faith enoch was taken from this life so that he did not experience death he could not be found because god had taken him away for before he was taken he was commended as one who pleased god and without faith it is impossible to please god because anyone who comes to him must believe that he exists and that
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0400
+
+## seg-0401 / 03:28:22-03:29:13 / SPEAKER_17
+
+he knows the Almighty and that one more time we're not to be found and cannot become pardoned by the power of god and that one more time i'm going to admit that we have any of wrong we still there he is is he uh have the power of God like the four of them but these are the founders don't have any power but they have woman but it is true he prevails he promised to grace his kin and will make them啬 uh understanding okay but at the same time we need to be aware that paul's not present this is like really really weird right paul's not present here he's not mentioned here so we have to be suspicious about what's going on okay it seems as though tony's just reciting but tony is going to
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0401
+
+## seg-0402 / 03:29:13-03:30:05 / SPEAKER_00
+
+make some nuanced changes to this understanding okay can you read please verse 64 and it's the evidence of things not seen and this i take to be its quiddity and then i heard you understand precisely if it is fully clear to you why he has first placed faith among the substances and then defines it as an evidence i next the deep things that on me bestow their image here are hid from sight below so that their being lies in faith alone and on that faith the highest hope is found in the Lord Jesus Christ and in the Lord Jesus Christ and in the Lord Jesus Christ and in the Lord Jesus Christ and in the Lord Jesus Christ and in the Lord Jesus Christ and in the Lord Jesus Christ and thus it is that faith is called a substance and it is from this faith that we must reason deducing what we can from
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0402
+
+## seg-0403 / 03:30:05-03:30:11 / SPEAKER_00
+
+syllogisms without our being able to see more thus faith is also called
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0403
+
+## seg-0404 / 03:30:11-03:31:33 / SPEAKER_17
+
+an evidence okay all right okay so again he repeats paul and now he's gonna make adjustments to paul right so faith for paul is the evidence of things unseen it is the divine plan it is what keeps the world together it is what moves history that is what faith is what does dante say and how does it change paul this is a really hard question but let's try to figure this out so paul says that faith is understanding obeying the underlying plan of the universe okay that's what faith is there is a plan there is a god miracles do happen you don't see these things but they do happen that's what faith is you just you don't trust your eyes you trust your heart and then dante says that faith is what binds everything together is what underlies everything how is this different how is this logically different can you repeat what he said the
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0404
+
+## seg-0405 / 03:31:33-03:31:39 / SPEAKER_17
+
+next deep things verse 70 the deep things that
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0405
+
+## seg-0406 / 03:31:39-03:32:02 / SPEAKER_00
+
+on me bestow their image here are hid from sight below so that their being lies in faith alone and on that faith the highest hope is founded and thus it is that faith is called a substance and it is from this faith that we must reason deducing what we can from syllogisms without our being able to see more
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0406
+
+## seg-0407 / 03:32:02-03:32:25 / SPEAKER_17
+
+thus faith is also called an evidence okay this is really hard okay and I'm actually may get this wrong okay I don't know I don't know I don't know I don't know I don't know I don't know I don't know okay but I but but I think there's a difference between what Paul says and what Donnie says Paul says that faith is the belief in a grand plan that faith is what moves the universe but Donnie says
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0407
+
+## seg-0408 / 03:32:25-03:33:09 / SPEAKER_06
+
+something different what what is this yes he's saying that faith are the cornerstones of the universe but that you have to build on these cornerstones by reasoning and syllogism so where does faith come from so he's saying that let me use an example here so let's say that you don't follow Dante's advice and you use logic to define everything so you go to logic your way out of believing that God exists however what Dante is saying here is that you just have to take it as a matter of faith that God exists and then you can build on the fact that God exists and then figure out what you want to what you want to know okay okay
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0408
+
+## seg-0409 / 03:33:09-03:34:04 / SPEAKER_17
+
+okay all right all right so so okay I'm gonna tell you what I think this is saying and I could be wrong and what I'll just say what I'm saying and we'll see if it matches with the text okay I think in Paul's formulation what he's saying is that the plan already exists and you just have to believe it exists okay it's sort of passive doesn't make sense but what Donnie is saying is that faith is the underlying substance of the universe and it's what moves the universe and it's from faith we can build things but this raises a question like what did they come from in the first place and what he's trying to suggest okay I I may have this wrong what he's trying to suggest is that it's an active thing where we are projecting our faith and what it's faith our faith is what drives the universe okay in other words
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0409
+
+## seg-0410 / 03:34:04-03:34:45 / SPEAKER_17
+
+is what faith is is our imagination and it's the imagination that's the animating force of the universe so we've gotten from Paul which is just passive just accept faith accept miracles happen accept God there's God to one of us active like yeah we are projecting our faith on the universe which creates a universe which move things you understand okay so about us there would be no faith about us there will be no universe that I think is the difference okay so can we just read it again make sure that my interpretation is correct I could be wrong okay but let's read it again and see if this is correct all right first 70.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0410
+
+## seg-0411 / 03:34:46-03:35:15 / SPEAKER_00
+
+the deep things that on me bestow their image here are hid from sight below so that their being lies in faith alone and on that faith the highest hope is founded and thus it is that faith is called a substance and it is from this faith that we must reason deducing what we can from syllogisms without our being able to see more thus faith is also called an evidence okay what do you
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0411
+
+## seg-0412 / 03:35:15-03:35:16 / SPEAKER_17
+
+guys think
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0412
+
+## seg-0413 / 03:35:18-03:35:32 / SPEAKER_18
+
+do you think that this matches the text yes I have a question yes what what are the deep things that on me bestow the image here uh where is it in the first line the deep things that on me bestow
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0413
+
+## seg-0414 / 03:35:32-03:35:48 / SPEAKER_17
+
+their image here are hid from sight below so that the being lies in faith alone so I mean he's talking about things like angels and demons and and God itself right the deep things the things underlying reality the things below reality forces
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0414
+
+## seg-0415 / 03:35:49-03:35:59 / SPEAKER_18
+
+to me forces like underlying forces things you can't see right spirits right so the spirits must
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0415
+
+## seg-0416 / 03:35:59-03:36:20 / SPEAKER_17
+
+exist for something and he's saying it must exist through faith alone right but then what's faith then and how these spirits come to being it must be an active force in the imagination right and the imagination can only come from us or from God and I'm I don't and I'm just interpreting to say
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0416
+
+## seg-0417 / 03:36:23-03:37:22 / SPEAKER_00
+
+from us I think okay um this reminds me of an analogy I heard about God being a clockmaker and whether the clockmaker um kind of designs the innards of a clock and leaves it be and the clock runs itself or is there human agency in the clock running and I think um what I hear is that um Paul sounded more passive in that um and and could be what was mentioned as more be determined that things were set in motion but here Dante is your you matter you're an active agent um imagine and do and you're part of um the grand truth and beauty of the universe yes yes and also like reason
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0417
+
+## seg-0418 / 03:37:22-03:37:54 / SPEAKER_17
+
+must be based on the imagination right you must believe God exists you must believe there is a plan to the universe and from that you can reason things out okay reason and imagination are not in conflict with each other reason and imagination uh reason is built on top of imagination okay so again we can argue back and forth and I wish we actually had a dynamic scholar in here uh who actually knows this stuff okay but I'm just I'm just guessing okay this is what my intuition is saying he's saying okay do you have footnotes on this
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0418
+
+## seg-0419 / 03:37:59-03:38:06 / SPEAKER_00
+
+I look forward to rereading and I mean this is I mean this is part of okay what's very important
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0419
+
+## seg-0420 / 03:38:06-03:38:55 / SPEAKER_17
+
+about this text okay so so so so we'll figure this out okay so uh we'll go with the go do some research guys okay tell me what this is actually saying I think this is a um you hear suddenly changing the meaning of Paul okay Paul again is passive he's active and what he's saying is that what that is saying that's very important is that faith is imagination when you believe in God you also have to believe in yourself you also have to imagine okay faith is an active uh act of imagine of imagining it doesn't make sense all right okay let's let's keep on going oh yeah so so what do you mean face
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0420
+
+## seg-0421 / 03:38:55-03:39:07 / SPEAKER_13
+
+is kind of thing you have to determine your mind to believe it so it will exist or if you don't believe it and the face just do not exist okay okay so is that what I mean so so so
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0421
+
+## seg-0422 / 03:39:07-03:39:22 / SPEAKER_17
+
+let's let's clarify this okay in science right God doesn't exist if you can't see it it doesn't exist is that correct right and what Don is saying is that if you do it that way you'll never get
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0422
+
+## seg-0423 / 03:39:22-03:39:36 / SPEAKER_18
+
+anywhere all right and yes well but no but energy is something that you talk about in science and energy you can see so energy can be God sorry it's not something you can't say something you can't
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0423
+
+## seg-0424 / 03:39:36-03:39:58 / SPEAKER_17
+
+measure okay you can measure energy yeah right okay so if you can't actually measure it it doesn't exist but then but then it's like you have all these holes in science which is like what is Consciousness right no one is allowed to ask this question what is Consciousness yes so I'm actually really interested in this question
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0424
+
+## seg-0425 / 03:39:58-03:40:25 / SPEAKER_06
+
+so like uh Dante has has been shown like these deep things right he has been shown these angels and Beatrice is leading down like this I mean I mean the Dante in the story not Dante the author and don't so is the Dante in the story's faith therefore diminished because he has seen and has proof of these things because he's no longer believing them on merit of faith anymore um okay that's a really interesting
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0425
+
+## seg-0426 / 03:40:25-03:40:40 / SPEAKER_17
+
+question and I think the simple answer but but but does anyone have a response to this the divine comedy is a product of his faith do you understand it's only by having faith could he write the divine
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0426
+
+## seg-0427 / 03:40:40-03:40:42 / SPEAKER_06
+
+comedy no no I'm talking about the Dante in the story
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0427
+
+## seg-0428 / 03:40:42-03:40:59 / SPEAKER_12
+
+not the Dante the offer oh um okay yeah go ahead yeah um I'm just really looking forward to understanding what love in this case in Dante's mind is because it's it looks like faith faith
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0428
+
+## seg-0429 / 03:40:59-03:42:06 / SPEAKER_03
+
+looks like love sounds like love so yeah so I think uh you know uh I uh I try to uh read this uh text from on different layers so the fundamental layer for me is textualist layer I'm trying to read everything Italian and in the in the uh you know in the presentation of the concept of face I think I if I'm totally I'm not fluent in Italian but I think the word used for evidence actually is argumenty so it's not evidence it's not it's not evidence so there I think there is a major uh diversion between the English and the Italian uh text so if we take uh take evidence away and and uh change it to the argument so it's not it's on it's on line 76 yeah credenza so English is not an exact line is uh is face I'm talking about evidence evidence evidence evidence in Italian is evidence and in
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0429
+
+## seg-0430 / 03:42:06-03:42:15 / SPEAKER_03
+
+uh in the Dante text it is argumenty it never used evidence so it is argument so wait sorry sorry okay so so okay
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0430
+
+## seg-0431 / 03:42:16-03:42:30 / SPEAKER_17
+
+um let's think about what this line actually means faith is the evidence of things unseen what does that line this line actually mean faith is the evidence of things unseen what does this actually
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0431
+
+## seg-0432 / 03:42:30-03:42:41 / SPEAKER_04
+
+mean that it tells you your sin system don't like you you cannot trust your senses because your senses didn't uh doesn't catch catch it but wait wait there's no evidence this exists you
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0432
+
+## seg-0433 / 03:42:41-03:42:47 / SPEAKER_17
+
+understand it's all faith faith is the only evidence no I think the only argument I think the
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0433
+
+## seg-0434 / 03:42:48-03:43:00 / SPEAKER_03
+
+perfect word argumenty is the perfect word because it is just an argument it is just a you know a perception it doesn't it you don't have to deduct anything from it that's face right okay yes okay so
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0434
+
+## seg-0435 / 03:43:00-03:43:12 / SPEAKER_17
+
+that's the idea okay there is no evidence okay beyond faith you have to believe it exists otherwise it doesn't exist that's it there's no point in arguing of this because there's actually
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0435
+
+## seg-0436 / 03:43:12-03:43:23 / SPEAKER_06
+
+no evidence otherwise yeah yeah I know so back to my question about the fictional Dante is the why the fictional Dante's faith diminished because he has proof of what he used to believe in
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0436
+
+## seg-0437 / 03:43:24-03:44:31 / SPEAKER_17
+
+okay so um this is how I would understand okay Dante the program would not have been allowed to go on this journey unless he had faith doesn't make sense okay but within the faith which is hard there has to be some experiences that confuse him that blind him from his true faith which is like why am I in exile in isolation and poor if I'm truly worthy of God why did God um have this faith for me okay so he's going on this journey because he has faith and this journey it's meant to remove all the doubts and the fears from him it doesn't make sense the faith is always there he wouldn't be on this journey unless he had that faith right and this entire journey it's meant to clarify for him why he has faith so you're saying that he
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0437
+
+## seg-0438 / 03:44:31-03:44:37 / SPEAKER_06
+
+goes on this journey and he experiences all these things of his own free will that it is not poured
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0438
+
+## seg-0439 / 03:44:37-03:45:41 / SPEAKER_17
+
+into his brain uh uh okay so first of all the vine comedy it's a pure act of imagination right he didn't actually go to heaven uh he might have he might have had visions but he didn't actually go to heaven um and this pilgrim it's meant for it's meant to allow us to go on our own Journey do you understand and because he's meant to represent us then it depends on who you are it doesn't make sense there is no objective experience it's all a subjective thing where if you read the text you're gonna have a different experience as Dante than if I were to read the text that's Dante all right so this is a question that you have to answer by yourself all right okay yeah yeah so like I'm just curious at where the line is so we basically
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0439
+
+## seg-0440 / 03:45:41-03:45:55 / SPEAKER_06
+
+established that uh faith is believing in something despite material evidence to the contrary or a lack of material evidence that's what we said okay so that what is it what you what you say
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0440
+
+## seg-0441 / 03:45:58-03:46:49 / SPEAKER_17
+
+mm -hmm so so Paul says faith is the evidence of things on seen okay so um to put this in very simple terms okay there are things that exist in this world that you can never prove to exist if you try to do so by Science by measuring it you get nowhere okay you would never prove God exists you would never prove Conscience exists but if you are to truly experience the world if you're trying to make sense of the world do you have to assume certain things about the world through your faith for example god exists consciousness exists we are connected to god okay and from then you can reason things out that help you seek the truth but there is no evidence that these things that god exists was true in the first place okay and and that's why science today has run into a dead end like i'm not sure if you
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0441
+
+## seg-0442 / 03:46:49-03:47:02 / SPEAKER_17
+
+guys study science okay but you look at physics you look at neuroscience it's all a dead end okay all right then tell me in the past 70 years what's
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0442
+
+## seg-0443 / 03:47:02-03:47:18 / SPEAKER_06
+
+physical what quick food physics have we had um we have had the particle accelerator which technology i'm talking about physics it has allowed us to uh have insight into the particular
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0443
+
+## seg-0444 / 03:47:19-03:47:39 / SPEAKER_03
+
+things that make up atoms i think what you are citing is basically just articles news articles uh you are not a scientist that you cannot make that uh you know even that comment uh you know what what scientific findings uh breakthroughs uh what are not you cannot make that judgment look look look you talk to any
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0444
+
+## seg-0445 / 03:47:39-03:47:50 / SPEAKER_17
+
+physicist and he'll tell you the last major breakthrough is quantum mechanics quantum physics okay after that we we've had things like string theory that's like okay but it's not a
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0445
+
+## seg-0446 / 03:47:50-03:47:57 / SPEAKER_06
+
+major breakthrough maybe maybe we should talk to a physic physicist okay then guys go go home do do
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0446
+
+## seg-0447 / 03:47:57-03:48:02 / SPEAKER_17
+
+the homework okay tell me in the past 70 years what major theory in physics have we had no professor
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0447
+
+## seg-0448 / 03:48:02-03:48:09 / SPEAKER_06
+
+you're making an extraordinary claim so if the burden of proof is upon you no no no i'm i'm telling
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0448
+
+## seg-0449 / 03:48:09-03:48:17 / SPEAKER_17
+
+you what i've read like online i i'm telling you what my own research well i was a physicist i was
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0449
+
+## seg-0450 / 03:48:17-03:48:54 / SPEAKER_03
+
+physically far from the age not eight and i have studied also physics uh you know until college my is i agree with professor jean that uh the so -called breakthroughs are just in the last 70 years or 50 years he's just you know just basically just speculation so i uh but i cannot see that i really on the same level as the top scientists in the world of course i just you know i'm mature but i think uh you have to uh you have to do your homework before you make any comment thank you
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0450
+
+## seg-0451 / 03:48:54-03:49:38 / SPEAKER_04
+
+and just yeah and just look at just look at what's happening in the world of science like the people who live in it what yeah can you hear me yeah like people dating back to maybe 5 000 years ago or maybe even before that people will live in amazon forest they've been they since then they already been started using um psychedelics like ayahuasca um but now we still have yet to figure out how um it works i mean we know the theories like the synapses the receptors but how they um they form all those kind of how they have all those experiences we don't know we we've been having that medicine for thousands of years okay and also like we don't even know how they came up
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0451
+
+## seg-0452 / 03:49:38-03:50:05 / SPEAKER_17
+
+with ayahuasca right because ayahuasca is a blending of two plants there's like a million plants you could blend together right how do they know that these two particular plants together in a certain quantity would induce the psychedelic experience that's pretty amazing to think about right if it's just random uh it would take a million years to figure this out how do they do how they able to figure out ayahuasca it's without one another
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0452
+
+## seg-0453 / 03:50:05-03:50:24 / SPEAKER_04
+
+the the only um the actually the psychoactive herb that can only last for like 10 minutes 20 minutes but with the other herb among millions of herb um they combine they they create this ayahuasca that can actually give you a full experience rather than just 10 minutes of tripping yeah so there's
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0453
+
+## seg-0454 / 03:50:24-03:50:33 / SPEAKER_17
+
+no way it could have been random right there's no way it could have been random it was not like okay you know what we'll just try million plants and see which which two work out right
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0454
+
+## seg-0455 / 03:50:33-03:50:59 / SPEAKER_04
+
+they could have been random but we've heard about the story of shen nong how even translate that the the guy who tried yeah yeah who tastes this guy in ancient china who tastes like down the herbs and um even got poison a few times and and he wrote a book about all those herbs i mean that that could be not true but i mean okay look look look look
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0455
+
+## seg-0456 / 03:50:59-03:51:29 / SPEAKER_17
+
+okay ayahuasca i'm telling you no one knows how they came up with this okay it is the most one of the most powerful psychodacts in the world uh and it's safe and it gives you this transcendental experience and as you point out it requires two plants it requires two herbs in a certain quantity together okay and like it's like how did they figure this out because they're like these millions of these herbs in the amazon right yeah i'm saying that i absolutely agree with what
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0456
+
+## seg-0457 / 03:51:29-03:51:50 / SPEAKER_06
+
+the context of dante so back to your stated mission for this class is to spread dante and make people realize how good dante is and i'm saying that uh i agree with your mission i think it's really great but if you try to make this super science if you try to elevate this above science above common knowledge then i think it'll be really hard to convince people you will not be
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0457
+
+## seg-0458 / 03:51:50-03:52:11 / SPEAKER_17
+
+able to achieve your mission okay okay i didn't say tanya was better than science i said that if you just work with the current um paradigms of science you get into a lot of dead ends including consciousness including the a lot of things okay all right uh any other comments or questions yes
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0458
+
+## seg-0459 / 03:52:12-03:52:31 / SPEAKER_13
+
+uh i i i don't believe what the professor said because dante is kind of a solution is kind of a possible way for us to lead into new futures so it doesn't mean that dante just tried to deny ever you know philosophy or it can be then he's not on the top of it but as dante is kind of a new channel i think maybe
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0459
+
+## seg-0460 / 03:52:31-03:53:16 / SPEAKER_17
+
+this is new possible yeah so do you guys remember in channel two dante and beatrice were talking about the um the dark swords on the moon and beatrice said to dante you should do a science experiment right god is not anti -science he's not in fact he loves science he himself was a scientist okay so this is not an anti -science thing but um but what don is saying is that you have to believe certain things about the world if you are truly to seek the truth and certainly certain these things are you know um are just things you can't see you can't you can't ever know you just have to believe in them
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0460
+
+## seg-0461 / 03:53:16-03:54:07 / SPEAKER_00
+
+that's that's what the faith is okay um i want to share something um i really appreciated david pointing out the word argumente whether it's evidence or argument in english um because um what the verse that captured me was on that faith the highest hope is founded so um to me this passage is about um faith not just as um almost like a blind faith that if you think about what paul could be saying um faith is just okay um you don't see it but that's what it is so have faith in that but this here is where hope is founded so it's a driving force upon which imagination um things people have action um it's a driving force exactly okay
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0461
+
+## seg-0462 / 03:54:07-03:54:49 / SPEAKER_17
+
+so so um we'll end with this okay what's the highest hope what's our highest hope exactly right what what is the what's the highest hope try to answer yeah yeah yeah i'd be curious to hear your answers but what is salvation then yeah what is heaven return to god right like like we've like this like this morning which is like god is calling to us and we are calling to god okay that's what that's what the highest hope is to be able to return to god which is our salvation and
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0462
+
+## seg-0463 / 03:54:49-03:55:01 / SPEAKER_06
+
+redemption okay yes my highest hope is to make every every organism every living being in this universe happy and safe and loved and i don't think that has anything to do with returning to this
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0463
+
+## seg-0464 / 03:55:01-03:55:22 / SPEAKER_17
+
+god but that but that that's what theologians say is returning to god returning to god is if you return to god by yourself that's not enough everything has returned to god god has been made whole right because god split himself up into the world and now everything has returned to god for the world to be whole again okay and that will be
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0464
+
+## seg-0465 / 03:55:22-03:55:32 / SPEAKER_06
+
+the highest happiness the highest hope and my point is we can't just look inwards and be like i'll meditate all day and this will be good we have to do works do good works no one is saying
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0465
+
+## seg-0466 / 03:55:32-03:55:38 / SPEAKER_17
+
+meditate all day don is saying you have to like learn you have to debate you have to inquire you
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0466
+
+## seg-0467 / 03:55:40-03:56:05 / SPEAKER_06
+
+right that's what don is saying here my question is has dante done any good works like daunting the fictional pilgrim has he done any good works as the result of his experiences i don't understand the question what what i'm saying is after he got enlightenment so he realized that his highest mission is to return to god and to make god whole right by making everyone around him return to god so what has he done towards this goal i'm talking about daunting the fictional character not the
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0467
+
+## seg-0468 / 03:56:05-03:56:21 / SPEAKER_17
+
+offer well we we don't know because we haven't finished the line comedy yet right okay okay when we get there we'll we'll know we'll know what he did okay uh yes verification on faith
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0468
+
+## seg-0469 / 03:56:21-03:56:41 / SPEAKER_12
+
+um can i interpret it as just fully committing to a hypothesis like in dante dante's terms fully committing to the hypothesis that fully committing to the hypothesis if you change the hypothesis of faith yes committing to your faith committing to your hypothesis that god exists no because
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0469
+
+## seg-0470 / 03:56:41-03:57:03 / SPEAKER_17
+
+hypothesis can be proven wrong oh that's true that's true right the faith is is the assumption the the the thing from which everything must come right in order to achieve the highest hope you need to have faith right yes i think the true
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0470
+
+## seg-0471 / 03:57:03-03:57:34 / SPEAKER_13
+
+value of this class uh is not only it's about denting but also about god because people right now they don't believe in god most of them believe in money the power the science the ai so which means that we lost our faith we lost our hope we lost our love but if the denting really you know really recall people's memory maybe people can can just on one hand develop their science for no problem but on the other hand they should know the phrase hope and love is the most important thing that can lead people to live together happily but not just hatred or just have war
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0471
+
+## seg-0472 / 03:57:34-03:58:46 / SPEAKER_17
+
+maybe so i get to ask a lot what i think the path forward is okay we live in a world of war we live in a world where donald trump is president you know and so what is the path forward and the answer is the answer is if we all read Dante, our imagination would be activated and we would have the faith to achieve the highest hope, okay? The answer is not in me. The answer is in you. The answer is by reading Dante to achieve your true potential, your true self, okay? All right, so we'll leave that for now. We'll continue this tomorrow, okay? All right, but thank you. You're all improving. It seems you're all transcending or you're all being enlightened, okay? And that's really the power of Dante. Just a few days of Dante is going to make you a better person, okay? So, again, the homework is to reread what we read and make sure you understand what's going on, okay?
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0472
+
+## seg-0473 / 03:58:46-03:59:19 / SPEAKER_17
+
+And, again, all this is my interpretation. Look for other interpretations. They're all available online, right? And really come to your own understanding. And if you feel that my interpretation is a bit off or there's problems with some of my arguments, challenge us, okay? This is a place meant for free debate, open dialogue. I don't censor anyone. I don't stop anyone from talking, okay? All right, guys, see you tomorrow.
+
+Ref: video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0473

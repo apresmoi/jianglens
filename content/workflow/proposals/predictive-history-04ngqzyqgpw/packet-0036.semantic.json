@@ -1,0 +1,258 @@
+{
+  "packet_id": "predictive-history-04ngqzyqgpw-semantics-pkt-0036",
+  "source_id": "video:predictive-history-04ngqzyqgpw",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0281"
+      ],
+      "kind": "question",
+      "summary": "A student asks why Dante accepts an apparently unfair fate once he knows exile was not his fault.",
+      "speaker_attribution": "Student question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0282"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang invites the group to keep developing the answer.",
+      "speaker_attribution": "Jiang prompt",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0283"
+      ],
+      "kind": "answer",
+      "summary": "A student proposes that the next step is embracing destiny because fate forms part of Dante's larger purpose.",
+      "speaker_attribution": "Student response",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0284",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0285"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang gives a noisy but recoverable synthesis: Dante can accept fate as God's plan, and the practical structure of salvation is faith in divine order, hope in the future completion of the task, and love as the motive for action.",
+      "speaker_attribution": "Jiang synthesis with ASR noise",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0286"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether Jiang's position amounts to predetermination by God.",
+      "speaker_attribution": "Student clarification question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0287"
+      ],
+      "kind": "answer",
+      "summary": "Jiang accepts the question and states the paradox directly: the class has been treating free will as fundamental, yet prophecy appears to require predetermination.",
+      "speaker_attribution": "Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0288"
+      ],
+      "kind": "answer",
+      "summary": "A student tries to refine the paradox by saying predetermination only makes sense if there is an order between before and after.",
+      "speaker_attribution": "Student response",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0284"
+      ],
+      "note": "This segment contains heavy ASR corruption, including at least one likely mis-transcription in the middle of Jiang's summary. Only the stable strands about fate, plan, and the faith-hope-love structure are extracted.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A student says Dante can move beyond resentment by embracing destiny and treating fate as part of his purpose.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0283"
+      ],
+      "temporal_scope": "Student interpretive answer given on 2026-06-17.",
+      "topic_tags": [
+        "destiny",
+        "fate",
+        "purpose",
+        "acceptance"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says faith means understanding that God loves us, has a plan, and can be followed through intuition even when the reasons remain opaque.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0284",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0285"
+      ],
+      "temporal_scope": "Interpretive synthesis stated on 2026-06-17.",
+      "topic_tags": [
+        "faith",
+        "plan",
+        "intuition",
+        "God"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says hope is an image of the future in which completing the Divine Comedy is enough.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0285"
+      ],
+      "temporal_scope": "Interpretive synthesis stated on 2026-06-17.",
+      "topic_tags": [
+        "hope",
+        "future",
+        "Divine Comedy",
+        "completion"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says love is the motive for Dante's action, named here as love of Beatrice, family, and God.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0285"
+      ],
+      "temporal_scope": "Interpretive synthesis stated on 2026-06-17.",
+      "topic_tags": [
+        "love",
+        "Beatrice",
+        "family",
+        "God"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the class now faces a paradox: free will is a fundamental law of the universe, but prophecy seems to imply predetermination.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0287"
+      ],
+      "temporal_scope": "Interpretive framing stated on 2026-06-17.",
+      "topic_tags": [
+        "free will",
+        "prophecy",
+        "predetermination",
+        "paradox"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student argues that predetermination requires an ordered relation between what comes first and what comes next, not mere undifferentiated determination.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0288"
+      ],
+      "temporal_scope": "Student interpretive answer given on 2026-06-17.",
+      "topic_tags": [
+        "predetermination",
+        "order",
+        "time",
+        "causality"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0285"
+      ],
+      "moment": "Jiang compresses salvation into a practical triad: faith trusts the plan, hope sees the completed future, and love explains why Dante endures the path at all.",
+      "source_phrase": "that's what faith is ... hope ... and then love",
+      "why_it_matters": "It gives the lecture a portable spiritual psychology rather than a one-off comment about fate.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0285"
+      ],
+      "moment": "Hope is reduced to one sufficient future image: you finish the Divine Comedy, and that is enough.",
+      "source_phrase": "you'll finish divine comedy and that's enough",
+      "why_it_matters": "It links providence to artistic completion instead of worldly restoration.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0287"
+      ],
+      "moment": "Jiang names the pressure point outright: if prophecy exists, predetermination seems to exist too, yet free will is supposed to be fundamental.",
+      "source_phrase": "how can we make sense of this paradox",
+      "why_it_matters": "It sets up one of the lecture's deepest conceptual tensions instead of letting providence remain sentimental.",
+      "tone": "question",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "faith",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0285"
+      ],
+      "definition_or_usage": "Jiang defines faith as trusting that God loves us, has a plan, and can be followed through intuition despite incomplete knowledge.",
+      "confidence": "high"
+    },
+    {
+      "term": "hope",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0285"
+      ],
+      "definition_or_usage": "The future-facing confidence that the task will be completed and that completion itself can be enough.",
+      "confidence": "high"
+    },
+    {
+      "term": "predetermination",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0286",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0287"
+      ],
+      "definition_or_usage": "The concept raised when prophecy seems to imply that events are already ordered by God before they occur.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0285",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0287"
+      ],
+      "note": "On 2026-06-17 Jiang moves from consolation psychology into explicit metaphysical tension: Dante's providential acceptance is articulated through faith, hope, and love, then immediately tested against the paradox of free will and prophecy.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0284"
+      ],
+      "note": "The ASR drops or distorts several phrases mid-segment, so the extraction avoids unstable details and keeps only the consistent structure around fate, divine plan, and values."
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0288"
+      ],
+      "note": "The student's formulation is compressed and jargon-like, so the claim is limited to the stable idea that predetermination presumes some before-after order."
+    }
+  ]
+}

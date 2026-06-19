@@ -1,0 +1,172 @@
+{
+  "packet_id": "predictive-history-04ngqzyqgpw-semantics-pkt-0055",
+  "source_id": "video:predictive-history-04ngqzyqgpw",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0433",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0434",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0435"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang accepts a student's shift from 'evidence' toward 'argument' and then says faith itself is the only ground here: beyond faith there is no further proof that the unseen exists.",
+      "speaker_attribution": "Student intervention and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0436",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0437",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0438"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether the fictional Dante loses faith once he has proof, and Jiang answers that the pilgrim must already possess faith in order to take the journey at all; the journey is there to clear away doubt, not to install faith from scratch.",
+      "speaker_attribution": "Student question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0439",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0440"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang insists that the Comedy is an imaginative journey rather than a literal trip to heaven and says each reader must undergo it subjectively for himself; the student then restates faith as belief despite lacking material proof.",
+      "speaker_attribution": "Jiang answer and student restatement",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0434"
+      ],
+      "note": "The ASR around the translation point is noisy ('argumenty'), but the student's substantive intervention is clear: the line should be heard more as 'argument' or perception than empirical evidence.",
+      "suggested_speaker": "Student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang accepts the classroom move from 'evidence' toward 'argument' and says faith itself is the only evidence available for the unseen.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0433",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0434",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0435"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-06-17.",
+      "topic_tags": ["faith", "argument", "evidence", "unseen"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the pilgrim Dante would not have been allowed onto the journey unless faith were already present in him.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0437"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-06-17.",
+      "topic_tags": ["Dante pilgrim", "faith", "journey", "permission"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads the journey through exile and suffering as a process that removes doubts about God's plan rather than replacing unbelief with belief.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0437"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-06-17.",
+      "topic_tags": ["exile", "doubt", "God", "faith", "journey"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says The Divine Comedy is a pure act of imagination rather than a literal report of a trip to heaven, and that the pilgrim is designed to let each reader undertake his own subjective journey.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0439"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-06-17.",
+      "topic_tags": ["Divine Comedy", "imagination", "reader", "subjectivity"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The student restates the working classroom definition of faith as belief despite contrary material evidence or despite the lack of such evidence.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0440"
+      ],
+      "temporal_scope": "Student summary offered on 2026-06-17.",
+      "topic_tags": ["faith", "belief", "material evidence"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0435"
+      ],
+      "moment": "Faith is treated not as support added to evidence but as the only evidentiary ground the unseen will ever get.",
+      "source_phrase": "there is no evidence okay beyond faith",
+      "why_it_matters": "It crystallizes the packet's hard anti-empiric turn and sets up the later critique of science.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0437"
+      ],
+      "moment": "The journey does not create faith; it burns away the confusions that made faith feel impossible.",
+      "source_phrase": "he wouldn't be on this journey unless he had that faith",
+      "why_it_matters": "This reframes the pilgrim's crisis as clarification rather than conversion.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0439"
+      ],
+      "moment": "Jiang turns Dante into a portable imaginative machine that gives every reader a different subjective pilgrimage.",
+      "source_phrase": "there is no objective experience",
+      "why_it_matters": "It connects the poem to Jiang's recurring idea that texts reactivate the reader's own journey rather than transfer fixed data.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "faith as the only evidence",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0435"
+      ],
+      "definition_or_usage": "Jiang's formulation that the unseen has no empirical proof outside the believing act itself.",
+      "confidence": "high"
+    },
+    {
+      "term": "subjective Dante",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0439"
+      ],
+      "definition_or_usage": "Jiang's usage for the way each reader experiences the pilgrim differently because the Comedy is an imaginative rather than objective journey.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0435",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0439"
+      ],
+      "note": "On 2026-06-17 Jiang moves from the translation dispute into a stronger model: faith is the only proof the unseen gets, and Dante's poem is an imaginative path each reader must traverse subjectively.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0434"
+      ],
+      "note": "The exact wording of the student's translation gloss is noisy in ASR, but the move away from empirical 'evidence' toward argument or perception is stable."
+    }
+  ]
+}

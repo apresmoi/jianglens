@@ -1,0 +1,206 @@
+{
+  "packet_id": "predictive-history-04ngqzyqgpw-semantics-pkt-0019",
+  "source_id": "video:predictive-history-04ngqzyqgpw",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0145"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers the student's complication by arguing that the Church could absorb Franciscan poverty into its own legitimacy project, using the order as proof that Catholicism still honored Jesus's anti-wealth teaching even while the institution itself remained rich.",
+      "speaker_attribution": "Jiang synthesis of student point",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0147",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0148",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0149"
+      ],
+      "kind": "exchange",
+      "summary": "Carol reads the opening of the Dominic canto, and Jiang briefly glosses one line before the reading shifts into a warning that the shepherd's flock has grown greedy and wandered from its proper nourishment.",
+      "speaker_attribution": "Carol reading with Jiang gloss",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0150",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0151",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0152"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns the passage into a summary of the Franciscan dilemma: the order begins with the noblest poverty ethic, but ego and fear weaken its members internally while social admiration and bribery corrupt it from outside; he then previews a parallel corruption story for the Dominicans.",
+      "speaker_attribution": "Jiang lecture summary and transition",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0147",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0149"
+      ],
+      "note": "These are quoted reading segments from the Carol recitation rather than Jiang's own claims, even when the ASR text is partially degraded.",
+      "suggested_speaker": "Carol",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the Catholic Church could answer criticism of its wealth by sponsoring the Franciscans and displaying them as visible proof that there were still Catholics dedicated to poverty.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0145"
+      ],
+      "temporal_scope": "Institutional diagnosis stated on 2026-06-17.",
+      "topic_tags": [
+        "Catholic Church",
+        "Franciscans",
+        "poverty",
+        "legitimacy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that the Franciscans became a useful political pawn for the Church because their poverty could be co-opted to preserve institutional legitimacy.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0145"
+      ],
+      "temporal_scope": "Political model stated on 2026-06-17.",
+      "topic_tags": [
+        "Franciscans",
+        "co-option",
+        "politics",
+        "legitimacy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the two central Franciscan dilemmas are internal ego-and-fear resistance to true poverty and external social bribery by people who want to share in perceived holiness.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0150",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0151"
+      ],
+      "temporal_scope": "Summary model stated on 2026-06-17.",
+      "topic_tags": [
+        "ego",
+        "fear",
+        "bribery",
+        "holiness"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says once a poverty order is widely seen as holy, the surrounding world will try to bribe it with money so others can participate in that holiness, and over time the order becomes corrupt like everyone else.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0150",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0151"
+      ],
+      "temporal_scope": "Corruption mechanism stated on 2026-06-17.",
+      "topic_tags": [
+        "holiness",
+        "money",
+        "corruption",
+        "Franciscans"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Aquinas treats Dominican corruption as the result of excessive institutional power: a learned order spread through Europe as inquisitors and was ultimately corrupted by that power.",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0152"
+      ],
+      "temporal_scope": "Historical preview stated on 2026-06-17.",
+      "topic_tags": [
+        "Dominicans",
+        "Aquinas",
+        "power",
+        "inquisition"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0145"
+      ],
+      "moment": "The Church saves face by putting poverty on display: sponsor the Franciscans and use them as living proof that Catholicism still honors Jesus's rejection of wealth.",
+      "source_phrase": "the franciscans were a useful political pawn",
+      "why_it_matters": "It captures Jiang's sharp institutional reading of how a radical anti-wealth movement can be absorbed by the very power it criticizes.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0150"
+      ],
+      "moment": "The best Catholics are described as undergoing a social death: to embrace Francis's poverty fully, you have to abandon society, and almost no one wants that.",
+      "source_phrase": "it's a social death",
+      "why_it_matters": "This is Jiang's most compressed explanation of why Franciscan nobility is so hard to sustain in practice.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0150",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0151"
+      ],
+      "moment": "Poverty attracts the very money it rejects: once holiness becomes visible, the world tries to buy into it and slowly corrupts the order.",
+      "source_phrase": "they want to bribe you",
+      "why_it_matters": "It condenses Jiang's causal account of how sanctity generates its own social corruption pressure.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "political pawn",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0145"
+      ],
+      "definition_or_usage": "Jiang's term for the Franciscan order as something the Catholic Church could use to preserve legitimacy against critics of ecclesiastical wealth.",
+      "confidence": "high"
+    },
+    {
+      "term": "social death",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0150"
+      ],
+      "definition_or_usage": "Jiang's phrase for the cost of truly embracing Franciscan poverty and leaving behind ordinary social belonging.",
+      "confidence": "high"
+    },
+    {
+      "term": "buy out holiness",
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0151"
+      ],
+      "definition_or_usage": "Jiang's shorthand for the way valuable spiritual authority attracts gifts, bribery, and corruption.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0145",
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0152"
+      ],
+      "note": "On 2026-06-17 Jiang closes the Franciscan discussion by turning donor pressure and Church co-option into a general corruption model, then carries that model forward as a preview of Dominican decline through power.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-04ngqzyqgpw@transcript:v1#seg-0149"
+      ],
+      "note": "The quoted reading in seg-0149 is semantically clear enough to show criticism of a wandering greedy flock, but the ASR is too noisy to support finer interpretive detail beyond Jiang's later summary."
+    }
+  ]
+}
