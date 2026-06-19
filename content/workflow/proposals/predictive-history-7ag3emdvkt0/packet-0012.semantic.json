@@ -1,0 +1,208 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0012",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0089",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0090",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0091",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0092"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang points to the laurel tree and prompts a student to recount the myth behind it; the student narrates Apollo's pursuit of Daphne while Jiang interrupts to correct the relationship as unfulfilled love rather than an actual affair.",
+      "speaker_attribution": "Jiang prompting; student answering; Jiang correcting",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0093"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang explains that Apollo's love for Daphne makes the laurel his symbol, so Dante's invocation of Apollo is not just a plea for divine power but an evocation of the mythic stories that give Apollo his poetic prestige.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0093",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0094"
+      ],
+      "kind": "question",
+      "summary": "Jiang asks what point Dante is making by invoking Apollo and the laurel, and a student suggests Dante may be trying to let Christian paradise coexist with a Greek heaven or Greek gods.",
+      "speaker_attribution": "Jiang question; student answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0095",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0096"
+      ],
+      "kind": "answer",
+      "summary": "Jiang rejects the student's proposal on the grounds that the Greeks did not really have a concept of heaven, and the student concedes the point.",
+      "speaker_attribution": "Jiang answer; student acknowledgment",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0090",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0091",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0092"
+      ],
+      "note": "These segments are a student's performed myth retelling rather than Jiang's own exposition; Jiang intervenes midstream to correct the framing from consummated love to one-sided pursuit.",
+      "suggested_speaker": "student with Jiang interruption",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0094",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0096"
+      ],
+      "note": "The same student appears to offer an interpretive guess and then briefly agree with Jiang's correction.",
+      "suggested_speaker": "student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "In the Daphne story as used here, Apollo loves Daphne but does not become her lover, because her transformation into a laurel tree blocks that union.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0091",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0092"
+      ],
+      "temporal_scope": "Myth retelling within this lecture's interpretation of Dante.",
+      "topic_tags": [
+        "Apollo",
+        "Daphne",
+        "laurel",
+        "unfulfilled love"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Apollo's attachment to Daphne is what makes the laurel tree his symbol and explains why laurel leaves signify poetic or victorious honor.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "Mythic-symbolic explanation in this lecture.",
+      "topic_tags": [
+        "Apollo",
+        "laurel",
+        "poet",
+        "champion",
+        "symbol"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Dante's invocation of Apollo is not only a request for divine power but also a deliberate recollection of the stories that made Apollo famous.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "Interpretation of Dante in this lecture.",
+      "topic_tags": [
+        "Dante",
+        "Apollo",
+        "invocation",
+        "myth",
+        "poetic authority"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The reading that Dante is simply blending Christian paradise with a Greek heaven is inadequate in Jiang's framing because the Greeks did not really have a concept of heaven.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0094",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0095",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0096"
+      ],
+      "temporal_scope": "Classroom interpretation dispute in this lecture.",
+      "topic_tags": [
+        "Dante",
+        "paradise",
+        "Greek gods",
+        "heaven",
+        "interpretation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0093"
+      ],
+      "moment": "The laurel is not decorative classical garnish; it is the residue of Apollo's failed love and therefore the emblem of poetic consecration.",
+      "source_phrase": "he also makes the laurel tree his symbol",
+      "why_it_matters": "This is the packet's sharpest image linking mythic desire to poetic authority, which is exactly why the laurel matters for Dante here.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0093"
+      ],
+      "moment": "Invoking Apollo means invoking the stories that made Apollo matter, not merely borrowing a divine name for prestige.",
+      "source_phrase": "not only is Dante invoking Apollo, asking for his divine power, but he is also remembering or reciting the stories that make Apollo famous",
+      "why_it_matters": "It preserves Jiang's interpretive method: classical reference works through remembered narrative, not just symbolic label.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0095"
+      ],
+      "moment": "Jiang stops the syncretic reading cold by saying the Greeks did not really have heaven.",
+      "source_phrase": "the Greeks didn't have a concept of heaven",
+      "why_it_matters": "This is the packet's key corrective move and prevents the discussion from collapsing into a vague Christian-plus-pagan coexistence claim.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Laurel",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0089",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0093"
+      ],
+      "definition_or_usage": "The tree associated with Daphne's transformation and therefore adopted as Apollo's symbol, especially as a sign of poetic or victorious distinction.",
+      "confidence": "high"
+    },
+    {
+      "term": "Apollo invocation",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0093"
+      ],
+      "definition_or_usage": "Dante's appeal to Apollo as both a request for poetic power and a recall of the mythic narrative that grounds Apollo's fame.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0093",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0095"
+      ],
+      "note": "Within this lecture's progression, Jiang moves from mythic background about Daphne and the laurel to a narrower interpretive correction about what Dante is not doing; the packet marks a transition from symbolic setup to argumentative discrimination.",
+      "possible_update_to_prior_position": false,
+      "confidence": "medium"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0090",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0092"
+      ],
+      "note": "The myth summary is produced by a student with hesitation and self-correction, so treat Jiang's later uptake of the laurel symbolism as the firmer semantic anchor than every incidental detail of the student's retelling."
+    }
+  ]
+}

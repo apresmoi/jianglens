@@ -1,0 +1,180 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0008",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0057",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0058"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks a student to clarify the guess 'imaginative Dante,' and the student explains it as the Dante he imagines himself to be in heaven or elsewhere.",
+      "speaker_attribution": "Jiang follow-up question with student clarification",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0059",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0060",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0061"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks whether there is a third Dante, receives confirmation, and another student proposes that Dante is the essential or archetypal poet.",
+      "speaker_attribution": "Jiang seminar exchange with student guess",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0062",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0063",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang restates the puzzle and signals that the class is overcomplicating it, while students continue guessing the future Dante and the Dante he imagines himself as.",
+      "speaker_attribution": "Jiang seminar exchange with multiple student guesses",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0058"
+      ],
+      "note": "The ASR joins the student's phrase 'Imaginative Dante' with Jiang's prompt to explain it, so the exact split between speakers is approximate.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0061"
+      ],
+      "note": "This line is mislabeled as Jiang in the raw diarization, but context shows it is a student's guess about Dante as the archetypal poet.",
+      "suggested_speaker": "student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A student interprets the third Dante as an imaginative self, the figure Dante pictures himself to be in heaven or other imagined places.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0058"
+      ],
+      "temporal_scope": "Student clarification offered on 2026-06-17.",
+      "topic_tags": [
+        "three Dantes",
+        "imagination",
+        "self-construction"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Another student proposes that the third Dante is the essential or archetypal poet.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0061"
+      ],
+      "temporal_scope": "Student guess offered on 2026-06-17.",
+      "topic_tags": [
+        "three Dantes",
+        "archetype",
+        "poet"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang indicates that these guesses are missing the intended answer by telling the class the question is not hard and restating the first two Dantes before asking again for the third.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Lecture correction on 2026-06-17.",
+      "topic_tags": [
+        "three Dantes",
+        "pedagogy",
+        "correction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A further student guess is that the third Dante is a future Dante.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Student guess offered on 2026-06-17.",
+      "topic_tags": [
+        "three Dantes",
+        "future",
+        "student guess"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Another student guesses that the third Dante is the Dante he imagines himself as.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Student guess offered on 2026-06-17.",
+      "topic_tags": [
+        "three Dantes",
+        "imagined self",
+        "student guess"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0058"
+      ],
+      "moment": "The class first tries to solve the third-Dante puzzle by inventing an imaginative self inside the poem.",
+      "source_phrase": "what he imagined himself to be",
+      "why_it_matters": "It shows the seminar groping toward a layered notion of Dante before Jiang reveals the cleaner answer.",
+      "tone": "method",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0062"
+      ],
+      "moment": "Jiang's impatience surfaces as he insists the class is overcomplicating a simple structural point.",
+      "source_phrase": "it's not that hard guys",
+      "why_it_matters": "The pressure of the teaching moment matters here because Jiang is drilling a basic interpretive architecture, not inviting free association.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "archetype",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0061"
+      ],
+      "definition_or_usage": "A student's proposed way of naming Dante as the essence or archetype of the poet.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0057",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0064"
+      ],
+      "note": "This packet records the class circling the 'third Dante' question without landing the accepted answer yet; the correct structural point remains unresolved within the focus refs.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0060"
+      ],
+      "note": "The single-word 'Yes' is too thin to attribute confidently beyond it being a brief student confirmation."
+    }
+  ]
+}

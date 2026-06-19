@@ -1,0 +1,151 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0036",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0281",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0282"
+      ],
+      "kind": "exchange",
+      "summary": "Carol resumes the poem with the dense-and-rare explanation, and Jiang immediately turns it back into a classroom prompt by asking the students to restate the logical account of the moon's dark spots.",
+      "speaker_attribution": "Carol reading with Jiang prompt",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0283",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0284",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0285",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0286"
+      ],
+      "kind": "exchange",
+      "summary": "Students offer material explanations like different materials, craters, and depth, and Jiang pushes toward the most purely logical version: some parts must be hollow or farther away so they reflect less light, even though he says that line of reasoning ultimately fails in the poem.",
+      "speaker_attribution": "Student answers with Jiang refinement",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0287",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0288"
+      ],
+      "kind": "exchange",
+      "summary": "Carol reads Beatrice's warning that this belief is deeply mistaken, and Jiang glosses the whole scene as a scientific debate taking place inside heaven itself over what science can explain.",
+      "speaker_attribution": "Carol reading with Jiang interpretation",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0281"
+      ],
+      "note": "Segment 0281 contains both Carol's continuation of the poem and Jiang's interruption asking for the class's interpretation; it is effectively a mixed speaker segment.",
+      "suggested_speaker": "Carol reading plus Jiang interjection",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang reconstructs the logical explanation for the moon's dark spots as a density-and-reflection account in which some parts are hollow or farther away and therefore return less light.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0282",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0284",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0286"
+      ],
+      "temporal_scope": "Lecture reconstruction on 2026-06-17.",
+      "topic_tags": [
+        "moon",
+        "density",
+        "reflection",
+        "logic"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the density explanation as the sort of conclusion logic and categorization naturally produce, but he also says the poem is about to show that this apparently sensible account is wrong.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0286",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0287"
+      ],
+      "temporal_scope": "Lecture contrast on 2026-06-17.",
+      "topic_tags": [
+        "logic",
+        "error",
+        "moon",
+        "Beatrice"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the Divine Comedy stages a scientific debate in heaven, making Paradise a place where the nature and limits of science are argued rather than left behind.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0288"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-06-17.",
+      "topic_tags": [
+        "Divine Comedy",
+        "science",
+        "Paradise",
+        "debate"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0286"
+      ],
+      "moment": "Jiang walks the class into a clean logical account of the moon and then uses that very success to show why logic can still miss the poem's truth.",
+      "source_phrase": "if something is hollow it does not reflect light if something is not hollow light bounces back",
+      "why_it_matters": "It turns the lecture from abstract method talk into a worked example of how reasonable explanation can still be inadequate.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0288"
+      ],
+      "moment": "Heaven becomes the setting for an argument about science rather than the suspension of inquiry.",
+      "source_phrase": "they're in heaven and they're having a scientific debate",
+      "why_it_matters": "This preserves Jiang's recurring reversal that Dante's Paradise intensifies inquiry instead of dissolving it into piety.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "dense and rare",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0281",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0282"
+      ],
+      "definition_or_usage": "The poem's initial logical explanation for why some parts of the moon appear darker than others, treated in class as a test case for the reach and limits of scientific reasoning.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0281",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0288"
+      ],
+      "note": "The lecture now moves from abstract distinctions between reason and imagination into a concrete scientific test case: the moon's dark spots, where Jiang shows both how logic works and why Beatrice is about to reject it as sufficient.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0286"
+      ],
+      "note": "The ASR is noisy in Jiang's explanation of the hollow-versus-dense model, but the argumentative movement is clear: he is reconstructing the strongest logical explanation before subjecting it to Beatrice's rebuttal."
+    }
+  ]
+}

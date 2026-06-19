@@ -1,0 +1,157 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0028",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0217",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0218"
+      ],
+      "kind": "exchange",
+      "summary": "A student argues that good needs evil and that willing the good makes it real good; Jiang immediately recasts that answer as another experiment model and asks whether God would actually operate that way.",
+      "speaker_attribution": "Student proposal under Jiang correction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0219",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0220",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0221",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0222"
+      ],
+      "kind": "exchange",
+      "summary": "A student tries the radical possibility that God might simply not have created humans or that humans might be independent of him, and Jiang dismisses the move as incompatible with God being God.",
+      "speaker_attribution": "Student speculation with Jiang rejection",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0223",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0224"
+      ],
+      "kind": "exchange",
+      "summary": "Another student proposes that God does not want blind obedience, and Jiang accepts the turn enough to keep the room moving to the next answer.",
+      "speaker_attribution": "Student answer under Jiang pressure",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0222"
+      ],
+      "note": "Jiang's short acknowledgments are compressed by ASR here, but the exchange structure is clear: he is cutting off the independence hypothesis and inviting another student answer.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang rejects the explanation that God gives freedom because good needs evil, treating it as another version of a divine experiment model.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0217",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0218"
+      ],
+      "temporal_scope": "Lecture rejection on 2026-06-17.",
+      "topic_tags": [
+        "free will",
+        "good and evil",
+        "experiment",
+        "God"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the idea that God might not have created humans as incoherent with divine nature, answering that a God who does not create would not be God.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0219",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0220"
+      ],
+      "temporal_scope": "Lecture correction on 2026-06-17.",
+      "topic_tags": [
+        "creation",
+        "God",
+        "divine nature"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student proposal now in play is that God wants something other than blind obedience from humanity, so forced belief would contradict what God is trying to create.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0223"
+      ],
+      "temporal_scope": "Student proposal under discussion on 2026-06-17.",
+      "topic_tags": [
+        "blind obedience",
+        "belief",
+        "free will"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0220"
+      ],
+      "moment": "The theological boundary gets stated in one blow: if God did not create, then he would no longer count as God.",
+      "source_phrase": "Then he's not God",
+      "why_it_matters": "It shows Jiang refusing to loosen divine identity just to save a student's speculative workaround.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0223"
+      ],
+      "moment": "The room finally names the possibility Jiang seems to be steering toward: freedom is the opposite of blind obedience.",
+      "source_phrase": "he doesn't want blind obedience",
+      "why_it_matters": "This phrase begins the transition from ruling out bad answers to a positive account of why God grants agency.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "blind obedience",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0223"
+      ],
+      "definition_or_usage": "A rejected model of the human-divine relationship in which people are forced into belief or compliance rather than allowed meaningful freedom.",
+      "confidence": "high"
+    },
+    {
+      "term": "good and evil",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0217",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0218"
+      ],
+      "definition_or_usage": "The student frames freedom as valuable because good only counts against the possibility of evil, but Jiang treats that explanation as insufficient and too experimental.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0217",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0224"
+      ],
+      "note": "This packet continues the elimination stage of the free-will discussion: Jiang is still clearing away inadequate explanations before the lecture lands on a positive model.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0219",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0221"
+      ],
+      "note": "The student's radical alternative is exploratory and ASR-compressed; it should be read as speculative probing rather than a stable rival doctrine."
+    }
+  ]
+}

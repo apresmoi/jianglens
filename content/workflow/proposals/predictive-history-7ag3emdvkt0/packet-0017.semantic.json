@@ -1,0 +1,179 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0017",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0129",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0130",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0131"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang gets the class to name farming as the basic livelihood of the pagan world, and a student explains why that means divine displeasure can wipe out life through drought or storm.",
+      "speaker_attribution": "Jiang prompt with student answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0132",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0133",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0135"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks whether one would feel comfortable in such a world, and the students converge on fear and ambiguity: pagan life means never fully knowing whether the gods are satisfied.",
+      "speaker_attribution": "Jiang prompting; students answering",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0136"
+      ],
+      "kind": "unclear",
+      "summary": "Another student begins to connect pagan uncertainty to the unpredictability of other human beings, but the thought is cut off before it is fully stated.",
+      "speaker_attribution": "student",
+      "confidence": "low"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0133"
+      ],
+      "note": "The transcript appears to splice Jiang's prompt and the student's answer together, but the substantive content is clear: the class is naming fear as the emotional texture of pagan existence.",
+      "suggested_speaker": "student with Jiang overlap",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0136"
+      ],
+      "note": "This segment is truncated by a microphone interruption in the following packet, so its semantic content should be treated cautiously.",
+      "suggested_speaker": "student",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang's reconstruction of the pagan world depends on farming, which means human survival is exposed to the gods through weather, drought, and crop failure.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0129",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0131"
+      ],
+      "temporal_scope": "Lecture model on 2026-06-17.",
+      "topic_tags": [
+        "farming",
+        "paganism",
+        "weather",
+        "crops",
+        "dependence"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The class agrees with Jiang that pagan life is saturated by fear, because one is never sure whether one has acted rightly before the gods.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0132",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0133"
+      ],
+      "temporal_scope": "Classroom synthesis on 2026-06-17.",
+      "topic_tags": [
+        "fear",
+        "gods",
+        "right action",
+        "pagan world"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A core feature of the pagan world in this discussion is ambiguity: people must live without secure knowledge of what the gods intend to do to them.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0135"
+      ],
+      "temporal_scope": "Student formulation endorsed by the surrounding discussion on 2026-06-17.",
+      "topic_tags": [
+        "ambiguity",
+        "paganism",
+        "gods",
+        "uncertainty"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0131"
+      ],
+      "moment": "In the pagan agricultural world, a god's displeasure can erase your life simply by ruining the crop.",
+      "source_phrase": "they have a drought or a huge rainstorm, and all of your crops are gone",
+      "why_it_matters": "This is the concrete image that turns Jiang's abstraction about pagan fear into a material survival problem.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0132",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0133"
+      ],
+      "moment": "The emotional truth of paganism gets compressed into one line: you constantly live in fear.",
+      "source_phrase": "you constantly live in fear",
+      "why_it_matters": "It captures the packet's central diagnosis and sets up Jiang's later contrast with Christianity, agency, and linear history.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0135"
+      ],
+      "moment": "Pagan existence is not just many gods but the requirement to tolerate radical ambiguity about what they want.",
+      "source_phrase": "comfortable with not knowing what the gods want to do to you",
+      "why_it_matters": "This adds the packet's strongest psychological nuance beyond simple fear: uncertainty itself becomes the spiritual condition.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "pagan agricultural world",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0129",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0131"
+      ],
+      "definition_or_usage": "The pre-Christian world Jiang is describing, where farming makes human life vulnerable to divine control through the seasons and weather.",
+      "confidence": "high"
+    },
+    {
+      "term": "ambiguity",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0135"
+      ],
+      "definition_or_usage": "The condition of not knowing what the gods want or what they will do, which a student identifies as central to pagan life.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0129",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0131",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0132",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0135"
+      ],
+      "note": "After packet 0016 defines the pagan symbolic order through seasons and gods, this packet reconstructs its lived psychology: economic dependence on farming becomes fear and ambiguity.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0136"
+      ],
+      "note": "The final student comment is clipped by a microphone interruption, so the strongest usable material from this packet is the completed discussion of fear and ambiguity rather than the unfinished comparison with Christian social predictability."
+    }
+  ]
+}
