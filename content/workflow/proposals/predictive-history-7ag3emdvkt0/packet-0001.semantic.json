@@ -1,0 +1,156 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0001",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0001"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the Beijing livestream by thanking the Yale Beijing Center and the in-room and online audience, promising a transformative Dante course and real-time chat participation.",
+      "speaker_attribution": "Jiang lecture opening",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0003",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0005",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0007",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Carol Rafferty introduces herself and the Yale Center Beijing, frames the workshop as an attempt to pass wisdom to the next generation and the world, and hands the event back to Jiang.",
+      "speaker_attribution": "Carol Rafferty with Jiang's brief interjections",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0006",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0008"
+      ],
+      "note": "Short 'Yep' and overlap fragments are Jiang interjections inside Carol's introduction rather than standalone discourse turns.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang presents the Dante class as potentially life-transforming and calls Dante the greatest writer of all time.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Opening framing on 2026-06-17.",
+      "topic_tags": [
+        "Dante",
+        "education",
+        "great books"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The livestream is designed for both the room and the online audience, with chat-monitored questions answered in real time.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Event format statement on 2026-06-17.",
+      "topic_tags": [
+        "livestream",
+        "audience",
+        "format"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Carol defines Yale Center Beijing as Yale's first university-wide center outside campus and as a site for intellectual dialogue and exchange of ideas.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Event introduction on 2026-06-17.",
+      "topic_tags": [
+        "Yale Center Beijing",
+        "institution",
+        "intellectual dialogue"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Carol says the workshop is meant to pass on not just knowledge but wisdom and a deeper understanding of what it means to be human.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Event framing on 2026-06-17.",
+      "topic_tags": [
+        "wisdom",
+        "human nature",
+        "education"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0001"
+      ],
+      "moment": "Jiang sets the stakes immediately: Dante is not just worth reading but capable of changing the student's life.",
+      "source_phrase": "I hope this is a life-transforming experience for you",
+      "why_it_matters": "It establishes the lecture as existential formation rather than a neutral literature survey.",
+      "tone": "challenge",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0007"
+      ],
+      "moment": "The workshop is framed as an attempt to hand down wisdom about being human, not merely content.",
+      "source_phrase": "not only pass on knowledge ... but also wisdom",
+      "why_it_matters": "It aligns the institutional welcome with Jiang's later pedagogical insistence that great books change perception and life orientation.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Yale Center Beijing",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "Introduced here as Yale University's first university-wide center outside its home campus and a venue for intellectual exchange.",
+      "confidence": "high"
+    },
+    {
+      "term": "Lux et Veritas",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Yale's Latin motto, translated here alongside the Hebrew phrase as 'light and truth.'",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0001",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0005"
+      ],
+      "note": "This source opens as a live Beijing event on 2026-06-17 with institutional framing before Jiang begins the Paradise lecture proper.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0008"
+      ],
+      "note": "The final handoff phrase is clipped by ASR and speaker overlap, but the function is clear: Carol is turning the session back to Jiang."
+    }
+  ]
+}
