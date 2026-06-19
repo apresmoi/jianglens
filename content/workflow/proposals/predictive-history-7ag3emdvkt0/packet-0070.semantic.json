@@ -5,10 +5,11 @@
   "speaker_notes": [
     {
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0558"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0554",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0555"
       ],
-      "note": "ASR alternates between 'Picardo' and similar variants. Jiang is still talking about Piccarda.",
-      "suggested_speaker": "Jiang",
+      "note": "The packet overlaps the end of the student reading. seg-0555 is an empty duplicate with no additional content.",
+      "suggested_speaker": "student reader",
       "confidence": "high"
     }
   ],
@@ -16,22 +17,24 @@
     {
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0553",
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0556",
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0558"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0554",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0555"
       ],
-      "kind": "monologue",
-      "summary": "Jiang paraphrases the passage for the class: free will is God's greatest gift, Piccarda gave that gift back through her vow, and the violation is therefore a betrayal of God rather than a minor broken promise.",
-      "speaker_attribution": "Jiang",
+      "kind": "exchange",
+      "summary": "Jiang pauses the reading and asks the class to summarize Beatrice's logic after the key textual claim that free will is God's greatest gift.",
+      "speaker_attribution": "Jiang framing the text",
       "confidence": "high"
     },
     {
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0557"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0556",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0557",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0558"
       ],
-      "kind": "answer",
-      "summary": "A student gives a quick but incomplete answer that Piccarda did nothing with her free will.",
-      "speaker_attribution": "student",
-      "confidence": "medium"
+      "kind": "exchange",
+      "summary": "Jiang answers his own question by arguing that Piccarda gave her free will to God in a bond like eternal marriage, so her broken vow counts as betrayal of God rather than mere failure to keep a promise.",
+      "speaker_attribution": "Jiang with brief student interruption",
+      "confidence": "high"
     },
     {
       "refs": [
@@ -39,72 +42,102 @@
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0560"
       ],
       "kind": "exchange",
-      "summary": "A student asks whether the real mistake was making the vow at all, and Jiang partially agrees while turning the class toward whether Dante's logic feels too harsh.",
-      "speaker_attribution": "student with Jiang reply",
+      "summary": "A student tests whether the real mistake was making the vow at all, and Jiang says yes in one sense while inviting the class to judge whether Beatrice's reasoning feels overly harsh.",
+      "speaker_attribution": "student question with Jiang response",
       "confidence": "high"
     }
   ],
   "claims": [
     {
-      "claim": "Jiang paraphrases Beatrice by saying that free will is God's greatest gift and the proof of divine love for human beings.",
+      "claim": "Jiang paraphrases Beatrice's logic by saying that God's love is shown in the gift of free will, which makes the moral weight of Piccarda's vow depend on the value of that gift.",
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0553",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0556"
       ],
-      "temporal_scope": "Lecture teaching on 2026-06-17.",
+      "temporal_scope": "Lecture interpretation on 2026-06-17.",
       "topic_tags": [
         "free will",
         "gift",
-        "divine love",
-        "Beatrice"
+        "God's love",
+        "vow"
       ],
       "claim_type": "definition",
       "confidence": "high"
     },
     {
-      "claim": "Jiang says Piccarda used her vow to give that free will back to God, so human will and divine will become joined like an eternal marriage.",
+      "claim": "Jiang says Piccarda's decisive act was to promise her free will to God, joining the two together rather than merely promising a behavior.",
       "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0556",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0558"
       ],
-      "temporal_scope": "Lecture teaching on 2026-06-17.",
+      "temporal_scope": "Lecture interpretation on 2026-06-17.",
       "topic_tags": [
-        "vow",
+        "Piccarda",
         "free will",
-        "marriage",
-        "union with God"
+        "promise",
+        "union"
       ],
       "claim_type": "model",
       "confidence": "high"
     },
     {
-      "claim": "On Jiang's reading, Piccarda's act is not merely failing to keep a vow but betraying God because the vow bound her will to God himself.",
+      "claim": "Jiang intensifies the vow into an eternal marriage analogy: once Piccarda has given her free will to God, betrayal cannot be reduced to administrative vow-breaking.",
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0558"
       ],
-      "temporal_scope": "Lecture diagnosis on 2026-06-17.",
+      "temporal_scope": "Lecture interpretation on 2026-06-17.",
+      "topic_tags": [
+        "marriage",
+        "betrayal",
+        "vow",
+        "God"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang states directly that what Piccarda did was not simply fail to keep a vow but betray God.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0558"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-06-17.",
       "topic_tags": [
         "betrayal",
+        "Piccarda",
         "God",
-        "vow",
-        "Piccarda"
+        "vow"
       ],
       "claim_type": "diagnosis",
       "confidence": "high"
     },
     {
-      "claim": "A student identifies the disturbing implication that perhaps the original mistake was promising free will to God in the first place, and Jiang grants that this is part of what makes the argument feel harsh.",
+      "claim": "A student probes whether the underlying mistake was ever promising free will to God in the first place, exposing how radical Beatrice's account of vows is.",
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0559",
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0560"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0559"
       ],
-      "temporal_scope": "Classroom exchange on 2026-06-17.",
+      "temporal_scope": "Classroom question on 2026-06-17.",
       "topic_tags": [
-        "harshness",
+        "mistake",
         "promise",
         "free will",
-        "vow"
+        "harshness"
       ],
-      "claim_type": "diagnosis",
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang partially accepts the student's reformulation and immediately asks whether the class finds Beatrice's argument harsh, signaling that the extremity is intentional rather than accidental.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0560"
+      ],
+      "temporal_scope": "Lecture challenge on 2026-06-17.",
+      "topic_tags": [
+        "harshness",
+        "Beatrice",
+        "argument",
+        "classroom test"
+      ],
+      "claim_type": "other",
       "confidence": "high"
     }
   ],
@@ -113,9 +146,9 @@
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0558"
       ],
-      "moment": "Jiang translates the vow into an eternal marriage between human will and God.",
-      "source_phrase": "they are eternally married",
-      "why_it_matters": "It gives emotional and juridical force to the claim that betrayal of a vow is betrayal of God rather than bookkeeping failure.",
+      "moment": "Jiang recasts a vow as an eternal marriage in which free will itself becomes the pledged dowry.",
+      "source_phrase": "now they are eternally married",
+      "why_it_matters": "It is his most vivid way of explaining why Beatrice treats violated vows as betrayal rather than bookkeeping failure.",
       "tone": "image",
       "confidence": "high"
     },
@@ -123,21 +156,21 @@
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0558"
       ],
-      "moment": "Jiang escalates the vow's seriousness by saying this bond cannot be divorced and cannot be betrayed without spiritual consequence.",
-      "source_phrase": "You can't divorce",
-      "why_it_matters": "This is the packet's most forceful compression of Dante's severity about vows.",
+      "moment": "The moral category jumps from promise-breaking to direct betrayal of God.",
+      "source_phrase": "She betrayed God",
+      "why_it_matters": "That compression shows how Jiang wants the class to feel the extremity of Beatrice's logic before debating it.",
       "tone": "provocation",
       "confidence": "high"
     }
   ],
   "glossary_terms": [
     {
-      "term": "free will",
+      "term": "vow",
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0553",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0556",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0558"
       ],
-      "definition_or_usage": "Jiang treats free will as God's greatest gift and as the very treasure a vowed soul gives back to God, which is why betrayal of the vow becomes betrayal at the deepest level.",
+      "definition_or_usage": "Not merely a promise to do something, but the act of giving one's free will to God and entering a bond Jiang compares to eternal marriage.",
       "confidence": "high"
     }
   ],
@@ -147,10 +180,17 @@
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0553",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0560"
       ],
-      "note": "This packet converts the textual claim about free will into a covenant model: Jiang now explains the vow as returning God's greatest gift back to God, which makes the earlier redemption problem look like broken marital trust rather than mere underperformance.",
+      "note": "This packet is the lecture's first full paraphrase of Beatrice's textual logic: the free-will gift and vow passage is converted into Jiang's stronger betrayal model, then immediately tested by the class for harshness.",
       "possible_update_to_prior_position": false,
       "confidence": "high"
     }
   ],
-  "uncertainty_notes": []
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0555"
+      ],
+      "note": "seg-0555 is an empty overlap line with no additional semantic content."
+    }
+  ]
 }
