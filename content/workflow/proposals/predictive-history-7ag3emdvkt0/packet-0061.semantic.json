@@ -2,59 +2,76 @@
   "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0061",
   "source_id": "video:predictive-history-7ag3emdvkt0",
   "source_date": "2026-06-17",
-  "speaker_notes": [],
   "interactions": [
     {
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0481",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0481"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang presses the class on what Mucius should do when he cannot tell king from secretary, and a student answers that the act of striking matters more than certainty about the target.",
+      "speaker_attribution": "Jiang prompt with student answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0482",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0483",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0484"
       ],
       "kind": "exchange",
-      "summary": "A student says Mucius should strike without certainty just to prove the will is real, and Jiang completes the story by showing Mucius miss, refuse to confess, and burn his own hand rather than let coercion master him.",
-      "speaker_attribution": "student answer with Jiang exemplum",
-      "confidence": "high"
+      "summary": "Jiang narrates that Mucius kills the wrong man, faces a threat of being burned alive, and then confirms the student's recollection that Mucius puts his hand in the fire to show fearlessness.",
+      "speaker_attribution": "Jiang exemplum with student answer and Jiang confirmation",
+      "confidence": "medium"
     },
     {
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0485",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0486",
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0487"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0487",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0488"
       ],
       "kind": "reading-quoted-material",
-      "summary": "A student reads Beatrice's distinction between absolute and contingent will after the Alcmaeon example, and Jiang glosses it as the kind of moral dilemma where two obligations collide and fear mixes force with consent.",
+      "summary": "A passage introduces the conflict between absolute and contingent will through cases of coerced wrongdoing, and Jiang glosses it as the ordinary problem of colliding duties that now has to be conceptually unpacked.",
       "speaker_attribution": "reader quoting Beatrice with Jiang gloss",
       "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0484"
+      ],
+      "note": "The ASR is badly degraded in the latter half of this segment, but the core action is still clear: Jiang confirms the Mucius story as an example of putting his hand into the fire rather than yielding to intimidation.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
     },
     {
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0488"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0485"
       ],
-      "kind": "monologue",
-      "summary": "Jiang marks the absolute-versus-contingent distinction as the next major concept the room has to unpack.",
-      "speaker_attribution": "Jiang",
-      "confidence": "high"
+      "note": "The transcript corrupts the mythic name in the example ('elk man'). The passage is about a son ordered by his father to kill his mother.",
+      "suggested_speaker": "reader quoting Beatrice",
+      "confidence": "medium"
     }
   ],
   "claims": [
     {
-      "claim": "The student answering Jiang's Mucius prompt says decisive action matters more than certainty: killing either target would still prove the will was present.",
+      "claim": "The student answer Jiang accepts treats decisive action itself as a manifestation of will: if the chance to strike is all you have, acting still proves your intention.",
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0481"
       ],
-      "temporal_scope": "Classroom response on 2026-06-17.",
+      "temporal_scope": "Classroom exchange on 2026-06-17.",
       "topic_tags": [
-        "Mucius",
         "will",
         "action",
-        "uncertainty"
+        "uncertainty",
+        "Mucius"
       ],
       "claim_type": "model",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
-      "claim": "Jiang presents Mucius as the man who acts under uncertainty, kills the wrong person, then proves his courage by refusing confession even under threat of being burned alive.",
+      "claim": "Jiang's Mucius story treats a fifty-fifty chance of failure as no excuse for passivity; the young Roman acts, kills the wrong man, and still refuses to confess under threat of torture.",
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0482",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0483",
@@ -63,31 +80,45 @@
       "temporal_scope": "Lecture exemplum on 2026-06-17.",
       "topic_tags": [
         "Mucius",
+        "torture",
         "courage",
-        "confession",
-        "fire"
+        "will"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The quoted passage says people sometimes commit wrong under threat in order to avoid a worse harm, as in the case of a son who kills his mother to obey his father.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0485"
+      ],
+      "temporal_scope": "Quoted moral example discussed on 2026-06-17.",
+      "topic_tags": [
+        "threat",
+        "obedience",
+        "murder",
+        "moral dilemma"
       ],
       "claim_type": "evidence",
       "confidence": "high"
     },
     {
-      "claim": "Beatrice's argument is that moral life often places people in situations where one wrong seems to answer another, as when filial obedience and murder collide in the Alcmaeon example.",
+      "claim": "Jiang glosses the passage by saying that life often presents collisions between principles, where both obedience and nonviolence look obligatory and any concrete choice violates something.",
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0485",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0486"
       ],
-      "temporal_scope": "Quoted dilemma discussed on 2026-06-17.",
+      "temporal_scope": "Lecture gloss on 2026-06-17.",
       "topic_tags": [
-        "Alcmaeon",
+        "moral dilemma",
+        "principles",
         "obedience",
-        "murder",
-        "moral dilemma"
+        "murder"
       ],
-      "claim_type": "model",
+      "claim_type": "diagnosis",
       "confidence": "high"
     },
     {
-      "claim": "The passage distinguishes an absolute will that never agrees to evil from a contingent will that consents out of fear when resistance seems likely to produce greater harm.",
+      "claim": "The text distinguishes an absolute will that never agrees with wrongdoing from a contingent or relative will that yields out of fear of a greater harm, which is how Piccarda and Beatrice can both be telling the truth.",
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0487"
       ],
@@ -96,24 +127,24 @@
         "absolute will",
         "contingent will",
         "fear",
-        "consent"
+        "Piccarda"
       ],
       "claim_type": "definition",
       "confidence": "high"
     },
     {
-      "claim": "Jiang frames the absolute-versus-contingent split as a central key for reconciling Piccarda's innocence language with Beatrice's insistence that yielding still implicates the will.",
+      "claim": "Jiang marks the distinction between absolute and contingent will as a major conceptual hinge that requires further unpacking before the class can judge the moral problem correctly.",
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0488"
       ],
-      "temporal_scope": "Lecture setup on 2026-06-17.",
+      "temporal_scope": "Lecture transition on 2026-06-17.",
       "topic_tags": [
-        "Piccarda",
-        "Beatrice",
         "absolute will",
-        "contingent will"
+        "contingent will",
+        "interpretation",
+        "moral problem"
       ],
-      "claim_type": "diagnosis",
+      "claim_type": "other",
       "confidence": "high"
     }
   ],
@@ -122,9 +153,9 @@
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0481"
       ],
-      "moment": "A student compresses courage into one brutal formula: strike anyway, because the act itself proves the will is alive.",
+      "moment": "The class answer Jiang solicits reduces heroic agency to a blunt principle: strike anyway, because acting proves the will even when knowledge is missing.",
       "source_phrase": "I just kill, because I kill and it means my will is there",
-      "why_it_matters": "It turns Jiang's Mucius story into a direct test of whether will means certainty or committed action under risk.",
+      "why_it_matters": "It compresses the packet's pressure test of will under uncertainty before Dante's formal distinction arrives.",
       "tone": "provocation",
       "confidence": "high"
     },
@@ -133,31 +164,31 @@
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0483",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0484"
       ],
-      "moment": "Mucius answers torture by putting his own hand in the fire and effectively treating pain as irrelevant to the mission.",
+      "moment": "Mucius answers the bonfire threat by putting his own hand into the fire first.",
       "source_phrase": "he just put his hand in the fire",
-      "why_it_matters": "This is the packet's most vivid image of an unbroken will surviving bodily threat.",
+      "why_it_matters": "This is Jiang's embodied image for a will that refuses to let pain or intimidation rewrite intention.",
       "tone": "image",
-      "confidence": "high"
+      "confidence": "medium"
     },
     {
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0487"
       ],
-      "moment": "Beatrice solves the coercion puzzle by splitting the self into an absolute will that stays clean and a contingent will that caves from fear.",
-      "source_phrase": "absolute will does not concur in wrong but the contingent will through fear",
-      "why_it_matters": "It is the conceptual hinge for the rest of Jiang's Paradise discussion about responsibility under force.",
+      "moment": "Beatrice's distinction lands with surgical clarity: the deepest will stays true while the frightened will yields.",
+      "source_phrase": "absolute will does not concur in wrong",
+      "why_it_matters": "It is the packet's core doctrinal line and the hinge for Jiang's coming body-versus-soul explanation.",
       "tone": "definition",
       "confidence": "high"
     }
   ],
   "glossary_terms": [
     {
-      "term": "Alcmaeon",
+      "term": "absolute will",
       "refs": [
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0485",
-        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0486"
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0487",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0488"
       ],
-      "definition_or_usage": "A classical example Jiang uses through Beatrice: a son ordered by his father to kill his mother, showing how moral duties can collide.",
+      "definition_or_usage": "The deeper will that does not truly consent to wrongdoing even when the person outwardly yields under pressure.",
       "confidence": "high"
     },
     {
@@ -166,7 +197,7 @@
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0487",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0488"
       ],
-      "definition_or_usage": "The fear-governed will that reacts to circumstances and can yield to force even when the deeper absolute will remains pointed toward the good.",
+      "definition_or_usage": "The fear-shaped or circumstance-bound will that cooperates with harm to avoid something worse, creating the appearance of contradiction.",
       "confidence": "high"
     }
   ],
@@ -176,7 +207,7 @@
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0481",
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0488"
       ],
-      "note": "The packet moves from Mucius as a concrete image of fearless resolve into Beatrice's abstract distinction between absolute and contingent will, making the story function as an embodied preface to the doctrine.",
+      "note": "The lecture moves from the Mucius courage story into Beatrice's formal distinction between two layers of will. Jiang uses the Roman anecdote to keep the argument about Piccarda tied to action under threat before shifting into conceptual analysis.",
       "possible_update_to_prior_position": false,
       "confidence": "high"
     }
@@ -186,7 +217,7 @@
       "refs": [
         "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0484"
       ],
-      "note": "The ASR is noisy in Jiang's retelling of the king's dialogue with Mucius, but the core action is clear: Mucius refuses confession and burns his hand to demonstrate fearless resolve."
+      "note": "The ASR becomes unreliable midway through Jiang's retelling, so preserve only the stable through-line: Mucius burns his hand and treats the king's threat with contempt."
     }
   ]
 }
