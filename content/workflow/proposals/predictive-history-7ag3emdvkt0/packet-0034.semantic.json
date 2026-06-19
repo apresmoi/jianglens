@@ -1,0 +1,180 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0034",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0265"
+      ],
+      "kind": "question",
+      "summary": "A student challenges Jiang's framing by asking why imagination or intuition should rank higher than reason if they are all cognitive faculties.",
+      "speaker_attribution": "Student question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0266"
+      ],
+      "kind": "answer",
+      "summary": "Jiang accepts the question, insists reason is not the same as imagination and logic is not the same as intuition, and opens the floor before giving his own answer.",
+      "speaker_attribution": "Jiang response and classroom prompt",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0267",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0268",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0269",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0270",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0271",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0272"
+      ],
+      "kind": "exchange",
+      "summary": "Several students try to separate logic from imagination and intuition: one treats logic as rational procedure, another as inherited normal-state theory, another says logic explains the material world while imagination reaches beyond it toward poetry, and a final speaker defines logic as conscious language-bound thought while intuition recruits the whole person beneath conscious control.",
+      "speaker_attribution": "Student discussion prompted by Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0273"
+      ],
+      "kind": "unclear",
+      "summary": "The final clause about intuition invoking the whole physical or mental capacity appears to continue the same student's answer, but diarization marks the speaker as unknown.",
+      "speaker_attribution": "Likely continuation of the prior student",
+      "confidence": "low"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0271",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0273"
+      ],
+      "note": "Segments 0271 and 0273 are labeled UNKNOWN but read like continuations of the same student contribution spanning 0270-0273.",
+      "suggested_speaker": "Same student as SPEAKER_01 in segments 0270 and 0272",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0274"
+      ],
+      "note": "Segment 0274 is empty and does not add semantic content.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says reason is not the same as imagination and logic is not the same as intuition, so the class must distinguish the faculties before deciding their relative rank.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0266"
+      ],
+      "temporal_scope": "Lecture framing on 2026-06-17.",
+      "topic_tags": [
+        "reason",
+        "imagination",
+        "logic",
+        "intuition"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "One student proposes that logic and reason are oriented toward explaining the material world, while intuition and imagination reach beyond its constraints toward experiences that draw people to poetry and writing.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0269"
+      ],
+      "temporal_scope": "Student contribution during the 2026-06-17 lecture.",
+      "topic_tags": [
+        "material world",
+        "intuition",
+        "imagination",
+        "poetry"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Another student defines logic as conscious, language-mediated effort to experience the universe, while intuition uses the whole physical or mental capacity without conscious control.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0270",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0271",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0272",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0273"
+      ],
+      "temporal_scope": "Student contribution during the 2026-06-17 lecture.",
+      "topic_tags": [
+        "logic",
+        "intuition",
+        "consciousness",
+        "experience"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0265"
+      ],
+      "moment": "The class refuses to accept a simple demotion of reason and directly asks why imagination should outrank it at all.",
+      "source_phrase": "Why is imagination or an intuitor is higher than reason?",
+      "why_it_matters": "The packet captures the live resistance that forces Jiang to articulate a stronger method instead of merely asserting anti-rational piety.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0269"
+      ],
+      "moment": "A student ties imagination to the hunger for things greater than the material world and explains poetry as one path toward that excess.",
+      "source_phrase": "we want to experience things that are greater than this world that we live in",
+      "why_it_matters": "This is the first sharp classroom attempt to connect imagination with transcendence rather than mere fantasy.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0271",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0273"
+      ],
+      "moment": "Intuition is pictured as activating the whole person rather than just the consciously verbal part of thought.",
+      "source_phrase": "human beings have a multiplex of ways to think ... intuition is invoking the whole physical or mental capacity",
+      "why_it_matters": "The line offers a memorable student-language version of the lecture's move beyond narrowly conscious rationality.",
+      "tone": "image",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "multiplex of ways to think",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0271"
+      ],
+      "definition_or_usage": "A student's phrase for the idea that human cognition includes more than one mode of grasping reality.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0265",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0273"
+      ],
+      "note": "After Jiang's strong claim about the limits of reason, the lecture pauses for explicit classroom resistance and competing definitions, preparing Jiang's fuller distinction between categorizing reason and synthetic imagination in the next packet.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0267",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0268"
+      ],
+      "note": "The early student answers are exploratory and halting; they should be treated as tentative classroom attempts rather than stable lecture doctrine."
+    }
+  ]
+}
