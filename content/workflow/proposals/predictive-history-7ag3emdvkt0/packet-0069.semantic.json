@@ -1,0 +1,142 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0069",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0545"
+      ],
+      "note": "The standalone 'Okay?' appears to be Jiang's trailing interjection rather than a separate speaker contribution.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0551",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0552"
+      ],
+      "note": "Carol is reading Dante's Beatrice aloud. The claims in these lines are quoted source material inside the lecture, not Carol's own views.",
+      "suggested_speaker": "quoted reading by Carol",
+      "confidence": "high"
+    }
+  ],
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0545",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0546",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0547",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0548",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0549",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0550"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang briefly jokes about overusing a Yale analogy, Carol reassures him, and the class resets before returning to the text.",
+      "speaker_attribution": "Jiang with Carol aside",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0551",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0552"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Carol reads Beatrice's argument that free will is God's greatest gift, that vows matter because human consent meets divine consent there, and that a broken vow cannot simply be compensated by later good action.",
+      "speaker_attribution": "quoted Beatrice passage read aloud by Carol",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "In the Beatrice passage being read, free will is named as the greatest gift God gives to rational beings and the clearest sign of divine generosity.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0551",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0552"
+      ],
+      "temporal_scope": "Quoted Dante passage read in class on 2026-06-17.",
+      "topic_tags": [
+        "free will",
+        "gift",
+        "Beatrice",
+        "divine generosity"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The passage argues that a vow has high worth because by consenting to it a person places free will into relation with God's consent.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0554"
+      ],
+      "temporal_scope": "Quoted Dante passage read in class on 2026-06-17.",
+      "topic_tags": [
+        "vow",
+        "consent",
+        "free will",
+        "God"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The passage says a broken vow cannot be repaired by simply reusing the same free will for compensatory good deeds, because that would mean trying to do good with what has already been turned into an ill.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0554"
+      ],
+      "temporal_scope": "Quoted Dante passage read in class on 2026-06-17.",
+      "topic_tags": [
+        "compensation",
+        "broken vow",
+        "free will",
+        "good with ill"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0552"
+      ],
+      "moment": "The text distills God's generosity into a single treasure: free will.",
+      "source_phrase": "the freedom of the will",
+      "why_it_matters": "It is the clean textual anchor for the lecture's whole argument about vows, betrayal, and redemption.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0554"
+      ],
+      "moment": "Beatrice blocks moral accounting by saying a broken vow cannot be repaired through the very resource that has already been misused.",
+      "source_phrase": "seeking to do good with ill",
+      "why_it_matters": "This is the packet's sharpest anti-compensation formula and the textual basis for Jiang's earlier pressure on the class.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "vow",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0554"
+      ],
+      "definition_or_usage": "In Beatrice's argument, a vow is a pledge made with free consent that binds human will into relation with God's consent and therefore carries unusually high moral weight.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0551",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0554"
+      ],
+      "note": "The lecture moves from Jiang's improvised paradoxes back to Dante's explicit textual logic: free will is God's gift, vows matter because that gift is consented back toward God, and compensation after betrayal is structurally inadequate.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
