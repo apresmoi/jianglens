@@ -1,0 +1,252 @@
+{
+  "packet_id": "predictive-history-7ag3emdvkt0-semantics-pkt-0064",
+  "source_id": "video:predictive-history-7ag3emdvkt0",
+  "source_date": "2026-06-17",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0505",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0506",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0507",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0508"
+      ],
+      "kind": "exchange",
+      "summary": "Students try to map Jiang's harmony language onto cultural balance and even godhood, and Jiang sharply corrects the drift by saying Dante is not aiming at becoming God but at becoming closer to God.",
+      "speaker_attribution": "students with Jiang correction",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0509"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang restates the doctrine as two manifestations of will, applies it to Piccarda's fear, and reframes the practical problem as how to harmonize absolute and contingent will so that choices move toward God.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0510",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0511",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0512"
+      ],
+      "kind": "exchange",
+      "summary": "A student locates fear in the unknown after death, and Jiang answers with two historical solutions for combining the wills: knowledge of the universe that dissolves fear, or love so unconditional that action is wholly dictated by devotion.",
+      "speaker_attribution": "student question with Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0505"
+      ],
+      "note": "The student appears to invoke Bruce Lee and a broad Chinese preference for balance rather than extremes. The exact phrasing is noisy, but the appeal to harmony over polarity is clear.",
+      "suggested_speaker": "student",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0506"
+      ],
+      "note": "This segment likely contains Jiang briefly encouraging the student to continue before the student speculates about godhood; the diarized speaker boundary is unreliable.",
+      "suggested_speaker": "mixed Jiang and student",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A student hears Jiang's harmony language through a balance model, suggesting that people avoid choosing between spiritual and material extremes and instead try to keep them in equilibrium.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0505"
+      ],
+      "temporal_scope": "Classroom proposal on 2026-06-17.",
+      "topic_tags": [
+        "balance",
+        "harmony",
+        "spiritual",
+        "material"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang rejects the idea that harmonizing wills means becoming God; in Dante's frame the point is to become closer to God, not to acquire divinity or power.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0507",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0509"
+      ],
+      "temporal_scope": "Lecture correction on 2026-06-17.",
+      "topic_tags": [
+        "God",
+        "closeness",
+        "harmony",
+        "power"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines absolute and contingent will here as different manifestations of a person's will: the absolute will remains connected to God, while the contingent will governs choices inside worldly conditions.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0509"
+      ],
+      "temporal_scope": "Lecture restatement on 2026-06-17.",
+      "topic_tags": [
+        "absolute will",
+        "contingent will",
+        "manifestations",
+        "choices"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses Piccarda as the worked example: her absolute will stayed loyal to God, but her contingent will surrendered to fear, which is why her problem is one of failed harmonization.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0509"
+      ],
+      "temporal_scope": "Lecture application on 2026-06-17.",
+      "topic_tags": [
+        "Piccarda",
+        "fear",
+        "loyalty",
+        "harmonization"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The student's answer locates fear in ignorance about death and the unknown beyond it, implying that terror weakens when the afterlife or cosmic order becomes intelligible.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0510"
+      ],
+      "temporal_scope": "Classroom answer on 2026-06-17.",
+      "topic_tags": [
+        "fear",
+        "death",
+        "unknown",
+        "knowledge"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says one historical solution is gnosis: by learning the structure of reality and seeing death as release or beginning rather than annihilation, a person loses the fear that splits the will.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0511"
+      ],
+      "temporal_scope": "Lecture teaching on 2026-06-17.",
+      "topic_tags": [
+        "gnosis",
+        "knowledge",
+        "death",
+        "fear"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang offers love as the second solution: if you love someone unconditionally, your actions become dictated by that love and the absolute will and contingent will combine.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0511",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0512"
+      ],
+      "temporal_scope": "Lecture teaching on 2026-06-17.",
+      "topic_tags": [
+        "love",
+        "absolute will",
+        "contingent will",
+        "alignment"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames knowledge or love as the two practical answers Dante will later elaborate for bringing the divided will into unity.",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0512"
+      ],
+      "temporal_scope": "Forward-looking lecture cue on 2026-06-17.",
+      "topic_tags": [
+        "Dante",
+        "knowledge",
+        "love",
+        "unity"
+      ],
+      "claim_type": "prediction",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0507"
+      ],
+      "moment": "Jiang snaps the discussion back into Dante's register by refusing the fantasy of self-deification.",
+      "source_phrase": "you're not trying to become god you're trying to be close to the god",
+      "why_it_matters": "It protects the packet from sliding into a power-metaphysics that Jiang explicitly says is alien to Dante.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0511"
+      ],
+      "moment": "Knowledge is cast as an antidote to mortality panic: once death is seen as release or beginning, fear loses its grip on the will.",
+      "source_phrase": "death is just a release or it's just a beginning of something else",
+      "why_it_matters": "This is Jiang's first concrete therapy for divided will and ties Dante's cosmology to existential fear.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0511",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0512"
+      ],
+      "moment": "Love becomes the second therapy because total devotion makes every action flow from one commanding center.",
+      "source_phrase": "all your actions are dictated by your love for that person",
+      "why_it_matters": "It gives the packet its warmer answer to harmonization and sets up Dante's later treatment of love as cosmic order.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "gnosis",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0511"
+      ],
+      "definition_or_usage": "Jiang's name for the knowledge-path solution in which understanding the universe and death dissolves fear.",
+      "confidence": "high"
+    },
+    {
+      "term": "manifestations of will",
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0509"
+      ],
+      "definition_or_usage": "Jiang's description of absolute and contingent will as distinct expressions of one person's willing rather than two separate beings.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0505",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0512"
+      ],
+      "note": "After landing the soul-body distinction in the prior packet, Jiang now turns it practical: he rejects godhood and power readings, reanchors the model in closeness to God, then names knowledge and love as the two remedies for fear-driven division of will.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0505",
+        "video:predictive-history-7ag3emdvkt0@transcript:v1#seg-0506"
+      ],
+      "note": "The student exchange around harmony, Chinese balance, and godhood is partially ASR-garbled and may contain overlapping speakers, so preserve only the stable argumentative arc rather than the exact wording."
+    }
+  ]
+}
