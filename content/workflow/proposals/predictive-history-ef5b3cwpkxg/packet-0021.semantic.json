@@ -1,0 +1,157 @@
+{
+  "packet_id": "predictive-history-ef5b3cwpkxg-semantics-pkt-0021",
+  "source_id": "video:predictive-history-ef5b3cwpkxg",
+  "source_date": "2026-06-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0161",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0162"
+      ],
+      "kind": "exchange",
+      "summary": "A student answers Jiang's question by saying Jephthah wanted divine help and power in a hard battle. Jiang accepts this and states directly that desire for worldly power is what severs connection to God.",
+      "speaker_attribution": "Student answer and Jiang confirmation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0163",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0164",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0165",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0166",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0167",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0168"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks how Jephthah's daughter should be placed in Dante's afterlife given vows made on someone else's behalf. Jiang answers that Jephthah belongs to Inferno because he lived before Christianity, while the daughter is the story's heroic victim whose noble self-sacrifice would elevate her to Paradise despite the rule.",
+      "speaker_attribution": "Student question and Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "A student says Jephthah made the vow because he was desperate to win a difficult battle and wanted God's help in the form of power.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0161"
+      ],
+      "temporal_scope": "Student interpretation offered on 2026-06-18.",
+      "topic_tags": [
+        "Jephthah",
+        "battle",
+        "power",
+        "vow"
+      ],
+      "claim_type": "question",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang affirms that wanting worldly power is what moved Jephthah away from God and severed an otherwise continuous connection to the divine.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0162"
+      ],
+      "temporal_scope": "Interpretive claim stated on 2026-06-18.",
+      "topic_tags": [
+        "worldly power",
+        "God",
+        "connection",
+        "Jephthah"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student asks whether Jephthah's daughter should be treated like Piccarda or even as infernal because she submits to a death imposed by her father's vow.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0163",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0164"
+      ],
+      "temporal_scope": "Student question raised on 2026-06-18.",
+      "topic_tags": [
+        "Piccarda",
+        "Jephthah's daughter",
+        "hierarchy of souls",
+        "suicide"
+      ],
+      "claim_type": "question",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Jephthah would be in Inferno not primarily because he killed his daughter but because, as a pre-Christian figure, he could not access heaven within Dante's framework.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0165"
+      ],
+      "temporal_scope": "Interpretive placement stated on 2026-06-18.",
+      "topic_tags": [
+        "Inferno",
+        "pre-Christian",
+        "Dante's framework",
+        "Jephthah"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies Jephthah's daughter as the heroic victim of the biblical story and says the nobility of her self-sacrifice would elevate her to Paradise even though the rule for non-Christians would normally point elsewhere.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0167",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0168"
+      ],
+      "temporal_scope": "Interpretive placement stated on 2026-06-18.",
+      "topic_tags": [
+        "Paradise",
+        "heroism",
+        "self-sacrifice",
+        "Dante paradox"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0162"
+      ],
+      "moment": "Jiang compresses Jephthah's fall into one sentence: the desire for worldly power itself breaks contact with God.",
+      "source_phrase": "when you want worldly power",
+      "why_it_matters": "It turns the vow from a ritual error into a power-seeking spiritual diagnosis.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0167",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0168"
+      ],
+      "moment": "The daughter becomes the story's true hero, and her sacrifice bends Dante's rules by intuitive nobility.",
+      "source_phrase": "she's the hero of the story",
+      "why_it_matters": "This is Jiang's sharpest elevation of the daughter from victim to spiritually exemplary figure.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "paradox of Divine Comedy",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0168"
+      ],
+      "definition_or_usage": "Jiang's phrase for a case where Dante's formal rule would exclude someone from Paradise, yet intuitive nobility seems to elevate the figure there anyway.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0162",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0165",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0168"
+      ],
+      "note": "On 2026-06-18 Jiang links Jephthah's vow to worldly power, then resolves the daughter's afterlife placement through an intuitive exception: Dante's explicit rule points one way, but heroic sacrifice lifts her higher.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

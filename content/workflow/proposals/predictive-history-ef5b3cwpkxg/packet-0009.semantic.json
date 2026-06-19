@@ -1,0 +1,205 @@
+{
+  "packet_id": "predictive-history-ef5b3cwpkxg-semantics-pkt-0009",
+  "source_id": "video:predictive-history-ef5b3cwpkxg",
+  "source_date": "2026-06-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0065"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers the monk hypothetical by immediately turning it back on the student and asking what the student thinks the right action would be.",
+      "speaker_attribution": "Jiang answer prompt",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0066",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0067"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks whether there is one almighty God or only individually imagined gods. Jiang answers that Dante's God is a Platonic monad or soul of the universe and says poetry should provoke inward moral discernment rather than obedience to external authorities.",
+      "speaker_attribution": "Student question and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0068",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0069",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0070",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0071"
+      ],
+      "kind": "exchange",
+      "summary": "A follow-up student tries to infer that Piccarda's actions do not matter if sincere love of God lets her rationalize them. Jiang rejects the premise, arguing that people cannot simply think away their sins because the deeper self knows the truth and will eventually confront the total pain it has caused.",
+      "speaker_attribution": "Student follow-up and Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0072"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether enough meditation would let someone foresee the future, such as the winner of the 2026 World Cup.",
+      "speaker_attribution": "Student question",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang handles the monk hypothetical by forcing the student back onto personal moral judgment instead of supplying a rule that resolves vow-conflicts from the outside.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Method claim stated on 2026-06-18.",
+      "topic_tags": [
+        "moral judgment",
+        "vow",
+        "choice",
+        "hypothetical"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the God presented in the Divine Comedy is not simply the biblical God but a Platonic monad, source, center, or soul of the universe.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Interpretive definition stated on 2026-06-18.",
+      "topic_tags": [
+        "God",
+        "monad",
+        "Platonism",
+        "Dante"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says great poetry should excite the imagination and raise questions, not instruct readers to ask what parents or the Catholic Church would want; the real guide is the heart's own demand.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Interpretive and moral claim stated on 2026-06-18.",
+      "topic_tags": [
+        "poetry",
+        "imagination",
+        "authority",
+        "heart"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the student's mistake is assuming sins can be rationalized away, when in fact the deeper self knows the truth even if the surface mind lies to itself.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0069",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Psychological claim stated on 2026-06-18.",
+      "topic_tags": [
+        "sin",
+        "self-deception",
+        "truth",
+        "soul"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He uses psychedelics, near-death experiences, and meditation to argue that there are states in which a person sees life from the vantage of those they have hurt and undergoes a total review of the pain they caused.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0070",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Experiential model stated on 2026-06-18.",
+      "topic_tags": [
+        "psychedelics",
+        "near-death experience",
+        "life review",
+        "harm"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The next student question tests whether Jiang's meditation account implies practical clairvoyance, such as predicting the winner of the 2026 World Cup.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Question raised on 2026-06-18 about the 2026 World Cup.",
+      "topic_tags": [
+        "meditation",
+        "future",
+        "clairvoyance",
+        "World Cup"
+      ],
+      "claim_type": "question",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0067"
+      ],
+      "moment": "Jiang recasts Dante's God as the Platonic monad or soul of the universe rather than a merely familiar doctrinal deity.",
+      "source_phrase": "the monad the source the center",
+      "why_it_matters": "It shifts the lecture from orthodoxy into a cosmological and philosophical reading of divine reality.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0067"
+      ],
+      "moment": "He says poetry should not send you back to parent or church for instructions; you must ask what your own heart wants you to do.",
+      "source_phrase": "what does my heart want me to do",
+      "why_it_matters": "This preserves Jiang's anti-outsourcing account of moral authority.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0071"
+      ],
+      "moment": "Jiang describes a post-bodily life review in which even forgotten cruelties return in total clarity from the victim's perspective.",
+      "source_phrase": "even that cat you kicked",
+      "why_it_matters": "It gives his theory of conscience and judgment a vivid image that later public reads should preserve.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "monad",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0067"
+      ],
+      "definition_or_usage": "Jiang's Platonic name for the God-form in Dante: the source, center, and soul of the universe.",
+      "confidence": "high"
+    },
+    {
+      "term": "life review",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0071"
+      ],
+      "definition_or_usage": "The revelatory state Jiang associates with death, near-death, or ascent, where one sees the total pain one has caused others.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0067",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0070",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0071"
+      ],
+      "note": "On 2026-06-18 Jiang binds Dante to a distinctly inward moral epistemology: divine reality is rendered as a Platonic monad, moral authority is relocated to the heart, and judgment appears as a later life-review rather than a merely logical self-excuse.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

@@ -1,0 +1,186 @@
+{
+  "packet_id": "predictive-history-ef5b3cwpkxg-semantics-pkt-0001",
+  "source_id": "video:predictive-history-ef5b3cwpkxg",
+  "source_date": "2026-06-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0001"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the live session by acknowledging sound, network, and resolution issues from the prior day and invites carry-over questions before resuming the lecture.",
+      "speaker_attribution": "Jiang lecture housekeeping",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0002",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0003",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0004"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks why heaven would preserve prestige tiers if all souls share the same divine accommodation, and Jiang answers that the visual hierarchy is a teaching device for different degrees of receptivity to God rather than separate celestial housing.",
+      "speaker_attribution": "Student question followed by Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0005",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0006",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0007",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0008"
+      ],
+      "kind": "exchange",
+      "summary": "Another student quotes Dante's reversed arrow sequence and asks why the action order is inverted; Jiang gives a first answer about collapsed time and asks the student to reread the line so he can sharpen the interpretation.",
+      "speaker_attribution": "Student reading/question with Jiang reply",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0001"
+      ],
+      "note": "The housekeeping opening is clearly Jiang despite generic diarization labels because it frames the live session and thanks the production team.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0002"
+      ],
+      "note": "The student's hotel analogy and the misheard phrase 'casts of prestige' appear to paraphrase Dante aloud while formulating the question rather than quoting a fixed translation exactly.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says heaven is beyond time and space, so all souls are together with God in complete unity even though Dante presents a visible hierarchy for human comprehension.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Interpretive lecture claim made on 2026-06-18.",
+      "topic_tags": [
+        "heaven",
+        "time and space",
+        "Dante",
+        "Paradiso"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues the heavenly hierarchy represents how much of God a soul can receive, with greater nearness to God corresponding to greater receptivity and communion.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Interpretive lecture claim made on 2026-06-18.",
+      "topic_tags": [
+        "hierarchy",
+        "receptivity",
+        "communion with God"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Piccarda remains in the lowest sphere because she still imagines herself unworthy of God and therefore keeps distance from divine generosity that wants to enter and transform her.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Interpretive lecture claim made on 2026-06-18.",
+      "topic_tags": [
+        "Piccarda",
+        "worthiness",
+        "obedience",
+        "divine generosity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's first answer to the reversed arrow line is that Dante is trying to convey speed beyond ordinary temporal perception by staging events as if time and space have collapsed.",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Interpretive lecture claim made on 2026-06-18.",
+      "topic_tags": [
+        "poetry",
+        "time collapse",
+        "perception"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0003"
+      ],
+      "moment": "The heavens are visual scaffolding for the human mind, not literal celestial real estate.",
+      "source_phrase": "Beatrice has constructed the heavens visually in a hierarchy",
+      "why_it_matters": "It turns Dante's cosmic architecture into a pedagogical image about receptivity rather than a crude ranking of heavenly accommodations.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0004"
+      ],
+      "moment": "Piccarda's distance from God comes from her own sense of unworthiness, not from divine stinginess.",
+      "source_phrase": "He wants to come into you and become you",
+      "why_it_matters": "This is Jiang's strongest reformulation of paradise in the opening packet: the problem is failed welcome, not divine exclusion.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0006"
+      ],
+      "moment": "The reversed arrow becomes an image for an experience moving too fast for ordinary sequence to hold.",
+      "source_phrase": "we are beyond time and space",
+      "why_it_matters": "It opens the lecture's recurring claim that Paradise must be read against human perception and chronology.",
+      "tone": "image",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Imperium",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Jiang's spoken form for the Empyrean, the reality in which all souls are together with God beyond ordinary time and space.",
+      "confidence": "medium"
+    },
+    {
+      "term": "receptivity to God",
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0003",
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "The degree to which a soul can absorb divine light and communion, which Jiang treats as the real meaning of heavenly hierarchy.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0001"
+      ],
+      "note": "The lecture resumes a disrupted prior livestream and explicitly frames itself as continuing unresolved questions from the previous day's Dante session.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ef5b3cwpkxg@transcript:v1#seg-0002"
+      ],
+      "note": "The ASR is rough around the student's paraphrase of the canto and the phrase rendered as 'casts of prestige,' but the question about equality versus hierarchy in paradise is still recoverable."
+    }
+  ]
+}
