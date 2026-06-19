@@ -1,0 +1,112 @@
+{
+  "packet_id": "predictive-history-dsfmyue7dkk-semantics-pkt-0007",
+  "source_id": "video:predictive-history-dsfmyue7dkk",
+  "source_date": "2026-06-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0049",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0050",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0051",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0052"
+      ],
+      "kind": "exchange",
+      "summary": "A student argues that the coin of faith is paradoxically gold, since both Dante and the Church condemn wealth while using a precious-metal image for belief, and Jiang briefly concedes the historical point about gold coinage.",
+      "speaker_attribution": "Jiang-student exchange",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0053",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0054",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0055"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang challenges the student to propose a better metaphor, and the student's attempt to substitute 'milk and honey' falls flat.",
+      "speaker_attribution": "Jiang-student exchange",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0056"
+      ],
+      "kind": "answer",
+      "summary": "Another student resolves the question by linking the image to scripture: gold is tested by fire, and faith likewise endures proving.",
+      "speaker_attribution": "Student answer endorsed by Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The classroom explicitly surfaces a tension between condemning wealth and using a gold coin as the image for faith.",
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0050",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Interpretive challenge raised on 2026-06-18.",
+      "topic_tags": [
+        "faith as coin",
+        "gold",
+        "wealth"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang accepts the scriptural reading that the coin image works because faith is like gold proved in fire, not because Dante wants a random luxurious metaphor.",
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Interpretive confirmation stated on 2026-06-18.",
+      "topic_tags": [
+        "faith as coin",
+        "gold tried by fire",
+        "scripture"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0052"
+      ],
+      "moment": "The student presses the nerve in the metaphor: why use a gold coin for faith if both Dante and the Church condemn wealth?",
+      "source_phrase": "Why can't they pick another metaphor?",
+      "why_it_matters": "The question forces the class to distinguish spiritual value from simple attachment to riches and prepares the scriptural resolution.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0056"
+      ],
+      "moment": "Faith becomes gold that survives the furnace, an image of value tested rather than value possessed.",
+      "source_phrase": "faith is like the gold that can withstand the test of fire",
+      "why_it_matters": "This gives the metaphor a biblical proving-logic and rescues it from being merely monetary language.",
+      "tone": "metaphor",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "faith tested by fire",
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0056"
+      ],
+      "definition_or_usage": "A scriptural frame the class uses to explain why faith can be imaged as gold: real faith survives ordeal the way refined gold survives fire.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0051"
+      ],
+      "note": "Jiang's brief reply is ASR-noisy ('after some history'), but the operative point is his agreement that the historical coin under discussion would be gold."
+    }
+  ]
+}

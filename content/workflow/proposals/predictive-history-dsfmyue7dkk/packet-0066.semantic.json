@@ -1,0 +1,113 @@
+{
+  "packet_id": "predictive-history-dsfmyue7dkk-semantics-pkt-0066",
+  "source_id": "video:predictive-history-dsfmyue7dkk",
+  "source_date": "2026-06-18",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0519",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0520",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0521",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0522",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0523"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks a student to react as a hypothetical Catholic listener to the idea that angels are only obedient cosmic functionaries.",
+      "speaker_attribution": "Jiang and student",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0524",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0525",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0526"
+      ],
+      "kind": "exchange",
+      "summary": "A student argues that the whole Comedy stages a paradox between the beauty of perfection and the darkness of embodied confusion, and Jiang condenses the result into confusion that leads to clarity.",
+      "speaker_attribution": "Student and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0527",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0528"
+      ],
+      "kind": "exchange",
+      "summary": "Another student briefly links the paradox to Augustine's Confessions before Jiang turns the class into Canto 29.",
+      "speaker_attribution": "Student and Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says one possible defense is that angels are merely servants who maintain the structure of the universe rather than beings meant for experience, freedom, or consciousness.",
+      "refs": ["video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0519"],
+      "temporal_scope": "Interpretive concession stated on 2026-06-18.",
+      "topic_tags": ["angels", "service", "order", "universe"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The student says Dante's whole journey stages a paradox between the human desire for perfection and the irreducibly confused, dark, and historical path by which he seeks it.",
+      "refs": [
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0524",
+        "video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0525"
+      ],
+      "temporal_scope": "Student synthesis stated on 2026-06-18.",
+      "topic_tags": ["dark forest", "journey", "perfection", "paradox"],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "The student suggests Dante is not merely allegorizing but presenting himself as a visitor who has witnessed these things and returned with testimony.",
+      "refs": ["video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0525"],
+      "temporal_scope": "Student interpretive claim stated on 2026-06-18.",
+      "topic_tags": ["witness", "testimony", "allegory", "Dante"],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang accepts the student's formulation by saying the movement is from confusion into clarity.",
+      "refs": ["video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0526"],
+      "temporal_scope": "Interpretive compression stated on 2026-06-18.",
+      "topic_tags": ["confusion", "clarity", "journey", "interpretation"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Another student hears an affinity with Augustine's Confessions: the fallible human both longs for perfection and resists it.",
+      "refs": ["video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0527"],
+      "temporal_scope": "Student comparison stated on 2026-06-18.",
+      "topic_tags": ["Augustine", "Confessions", "fallibility", "perfection"],
+      "claim_type": "other",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": ["video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0526"],
+      "moment": "Jiang compresses the whole paradox of the Comedy into a simple movement: confusion becomes the road to clarity.",
+      "source_phrase": "it's confusion that can only that leads to clarity",
+      "why_it_matters": "This is the cleanest summary of how he wants the class to read the whole pilgrimage.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": ["video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0525"],
+      "moment": "The student's strongest intervention reframes Dante as a traveler bringing back witnessed reality rather than a tidy allegorist.",
+      "source_phrase": "I witnessed these things and I'm bringing them back to you",
+      "why_it_matters": "This preserves the interpretive pressure around testimony, embodiment, and the seriousness of the vision.",
+      "tone": "question",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": ["video:predictive-history-dsfmyue7dkk@transcript:v1#seg-0524"],
+      "note": "The student's speech is hesitant and self-correcting, but the stable throughline is that the poem's ecstatic ending does not erase the dark forest and human confusion that precede it."
+    }
+  ]
+}
