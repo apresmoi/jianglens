@@ -1,0 +1,163 @@
+{
+  "packet_id": "predictive-history-0y-gezhrjr0-semantics-pkt-0009",
+  "source_id": "video:predictive-history-0y-gezhrjr0",
+  "source_date": "2026-06-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0065",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0067",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0068",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0069"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang and the room brainstorm comic but severe punishments for gluttony, from endless doughnuts to forced exercise to food kept perpetually out of reach.",
+      "speaker_attribution": "Jiang prompt with student suggestions",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0070",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0071",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "A student objects to equating fatness with gluttony, and Jiang brusquely treats the objection as a distraction before returning to the punishment exercise.",
+      "speaker_attribution": "Student objection followed by Jiang response",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0070",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0071"
+      ],
+      "note": "This packet includes a tense classroom interruption about the fatness-gluttony shortcut; the exchange matters because it reveals Jiang's willingness to override the objection in order to keep the exercise moving.",
+      "suggested_speaker": "student objector and Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang uses exaggerated thought experiments like Homer's eternal doughnut machine to show that there are countless imaginable punishments for gluttony.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Pedagogical example used in the seminar on 2026-06-21.",
+      "topic_tags": [
+        "Homer Simpson",
+        "gluttony",
+        "punishment"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Student suggestions sharpen one possible logic of gluttony punishment as endless pursuit without satisfaction, such as running forever toward unreachable cake.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0068",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0069"
+      ],
+      "temporal_scope": "Student proposals offered during the seminar on 2026-06-21.",
+      "topic_tags": [
+        "pursuit",
+        "frustration",
+        "gluttony"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student explicitly objects that fatness should not be reduced to gluttony because people are fat for many reasons other than overconsumption.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Student objection raised during the seminar on 2026-06-21.",
+      "topic_tags": [
+        "fatness",
+        "gluttony",
+        "objection"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang dismisses the interruption as a diversion and insists the exercise is about punishment logic rather than a settled social diagnosis of body type.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Classroom management response given on 2026-06-21.",
+      "topic_tags": [
+        "classroom tension",
+        "punishment exercise",
+        "gluttony"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0065"
+      ],
+      "moment": "The Homer-in-hell doughnut machine becomes a comic illustration of punishment that intensifies appetite instead of curing it.",
+      "source_phrase": "this machine which feeds doughnuts to Homer for all of eternity",
+      "why_it_matters": "It makes Jiang's point vivid: imagination can invent endless tortures, but that still does not explain Dante's justice.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0069"
+      ],
+      "moment": "The unreachable cake on a treadmill crystallizes gluttony as permanent striving without contact.",
+      "source_phrase": "a cake in front of you and you're running around as fast as you can but you can never actually touch the cake",
+      "why_it_matters": "This imagined punishment anticipates the later reflective account of hell by separating mere frustration from true recognition.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0070",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0071"
+      ],
+      "moment": "The gluttony exercise breaks into a live dispute over whether Jiang's shorthand about fatness is itself reductive.",
+      "source_phrase": "people are fat for a lot of reasons other than gluttony",
+      "why_it_matters": "It is a real seminar pressure point and should not disappear from the semantic record.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "reflective punishment exercise",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0065",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0071"
+      ],
+      "definition_or_usage": "Jiang's classroom method of inventing punishments in order to distinguish imaginative cruelty from Dante's specific moral logic.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0065",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0071"
+      ],
+      "note": "This June 21, 2026 packet records a tonal shift: the punishment workshop becomes both comic and confrontational before Jiang returns to the conceptual line.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0067"
+      ],
+      "note": "The ASR is rough in the treadmill exchange, but the student's proposal of forced exercise as punishment remains clear."
+    }
+  ]
+}

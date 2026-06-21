@@ -1,0 +1,142 @@
+{
+  "packet_id": "predictive-history-0y-gezhrjr0-semantics-pkt-0015",
+  "source_id": "video:predictive-history-0y-gezhrjr0",
+  "source_date": "2026-06-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0113",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0114",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0115",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0116",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0117"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks what the blocked gate means, and the room lands on the distinction that Virgil is known in outer hell but lacks authority in the core.",
+      "speaker_attribution": "Jiang question with student answers and Jiang synthesis",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0118",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0119"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks why Dante is called reckless for entering hell alive, and Jiang answers that the demons are reacting to the absurdity of a living man choosing to walk among the dead.",
+      "speaker_attribution": "Student question with Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0120"
+      ],
+      "kind": "question",
+      "summary": "A student proposes that Dante's connection to Beatrice and reverence for God may explain why he does not belong among the demons.",
+      "speaker_attribution": "Student follow-up",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0116"
+      ],
+      "note": "The diarization flips to a student label mid-sentence, but the claim that Virgil is master of outer hell clearly belongs to Jiang's synthesis.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang interprets the demons' recognition of Virgil as proof that he belongs to outer hell but does not command the inner core beyond Dis.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0115",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0116"
+      ],
+      "temporal_scope": "Seminar interpretation given on 2026-06-21.",
+      "topic_tags": [
+        "Virgil",
+        "outer hell",
+        "inner hell",
+        "authority"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The fallen angels call Dante reckless because he is alive and voluntarily entering the realm of the dead, not because they are making a subtle theological judgment about Beatrice.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0118",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0119",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0120"
+      ],
+      "temporal_scope": "Seminar clarification given on 2026-06-21.",
+      "topic_tags": [
+        "Dante",
+        "living traveler",
+        "reckless",
+        "demons"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0116"
+      ],
+      "moment": "Virgil gets demoted from universal infernal guide to manager of only the outer zones.",
+      "source_phrase": "virgil is the master of outer hell not inner hell",
+      "why_it_matters": "This compact distinction sharpens Jiang's whole reading of the Dis episode.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0119"
+      ],
+      "moment": "Jiang renders the demons' judgment in plain speech: why would a living person choose to walk into hell?",
+      "source_phrase": "what are you doing here man you're still alive",
+      "why_it_matters": "It makes Dante's presence feel existentially bizarre rather than merely plot-functional.",
+      "tone": "question",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "outer hell",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0116"
+      ],
+      "definition_or_usage": "Jiang's term for the earlier infernal zones where Virgil's knowledge and status still operate effectively.",
+      "confidence": "high"
+    },
+    {
+      "term": "inner hell",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0116"
+      ],
+      "definition_or_usage": "The deeper realm beyond Dis where Virgil no longer has authority to control access.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0116"
+      ],
+      "note": "This packet formalizes Jiang's outer/inner hell distinction and ties it to Virgil's limited jurisdiction on 2026-06-21.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0120"
+      ],
+      "note": "The student's Beatrice-based explanation is exploratory and Jiang immediately narrows it back to the simpler fact that Dante is alive."
+    }
+  ]
+}

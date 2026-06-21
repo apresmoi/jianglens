@@ -1,0 +1,221 @@
+{
+  "packet_id": "predictive-history-0y-gezhrjr0-semantics-pkt-0002",
+  "source_id": "video:predictive-history-0y-gezhrjr0",
+  "source_date": "2026-06-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0009"
+      ],
+      "kind": "answer",
+      "summary": "A student answers that love is soulful while lust is physical possession, and in this context love wants another's good while lust wants to possess.",
+      "speaker_attribution": "Student response",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0010",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0011",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0012"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang pushes the distinction toward power and impulse, and a student proposes that lust is an impulsive act done without reflection.",
+      "speaker_attribution": "Jiang prompt followed by student answer and Jiang refinement",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0013",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0014"
+      ],
+      "kind": "exchange",
+      "summary": "Students argue that lust causes bad action and objectifies people, with rape and prostitution used as examples of treating a person as an object rather than an individual.",
+      "speaker_attribution": "Student responses with Jiang affirming and probing",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0015",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0016"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang complicates the moral line by noting that lust can seem like the first step toward love, says Dante is confused enough to faint, and a student answers that lust stays at the outward image while love seeks emotional connection.",
+      "speaker_attribution": "Jiang challenge followed by student response",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0013"
+      ],
+      "note": "The student's phrasing is heavily degraded by ASR, but the intended point is that lust-driven desire can make people act badly.",
+      "suggested_speaker": "student respondent",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A student defines love here as willing another person's good, while lust seeks possession.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0009"
+      ],
+      "temporal_scope": "Student definition offered during the seminar on 2026-06-21.",
+      "topic_tags": [
+        "love",
+        "lust",
+        "possession"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang steers the discussion toward lust as an expression of power and control rather than simple feeling.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0010"
+      ],
+      "temporal_scope": "Seminar prompt given on 2026-06-21.",
+      "topic_tags": [
+        "power",
+        "control",
+        "lust"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student answer, endorsed by Jiang's follow-up, frames lust as impulsive action taken in the moment without reflection.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0011",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0012"
+      ],
+      "temporal_scope": "Student definition developed during the seminar on 2026-06-21.",
+      "topic_tags": [
+        "impulse",
+        "reflection",
+        "sin"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Students argue lust becomes sinful because it can objectify another person and turn them into an instrument for use rather than a human being with dignity.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0013",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Student explanation given during the seminar on 2026-06-21.",
+      "topic_tags": [
+        "objectification",
+        "dignity",
+        "sexual ethics"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang insists the distinction is not clean because lust can appear to lead into love, which is why Dante himself is confused in the Francesca episode.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Interpretive claim made in the seminar on 2026-06-21.",
+      "topic_tags": [
+        "Dante",
+        "moral ambiguity",
+        "love versus lust"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student proposes that lust focuses on outward image while love depends on emotional connection and getting to know the person.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Student definition offered during the seminar on 2026-06-21.",
+      "topic_tags": [
+        "appearance",
+        "emotional connection",
+        "love"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0010"
+      ],
+      "moment": "Jiang shifts the room from a soft emotional distinction to the harsher language of power and control.",
+      "source_phrase": "lust also comes from a place of power right of control",
+      "why_it_matters": "It changes the seminar's register from romantic feeling to domination and moral structure.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0014"
+      ],
+      "moment": "Lust is condemned as objectification: the other person stops being an individual and becomes a thing.",
+      "source_phrase": "they are no longer an individual",
+      "why_it_matters": "This is the packet's sharpest moral formulation and likely the language later read prose will need.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0015"
+      ],
+      "moment": "Jiang refuses an easy answer by pointing out that lust often looks like the beginning of love and that Dante faints because he cannot untangle it.",
+      "source_phrase": "doesn't lust lead to love",
+      "why_it_matters": "It preserves the conceptual pressure that keeps the Francesca scene from collapsing into a moral slogan.",
+      "tone": "question",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "objectification",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "The student's and Jiang's shared ethical frame for lust: treating a person as an object rather than an individual with dignity.",
+      "confidence": "high"
+    },
+    {
+      "term": "love versus lust",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0009",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0015",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0016"
+      ],
+      "definition_or_usage": "The seminar's live problem in this packet: whether desire is soulful willing of the good, bodily impulse, domination, or the ambiguous beginning of love.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0015"
+      ],
+      "note": "On 2026-06-21 Jiang explicitly marks the Francesca scene as conceptually unresolved rather than presenting a settled doctrinal answer about lust.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0013"
+      ],
+      "note": "The ASR is noisy enough that the student's wording is partial, but the underlying point about desire leading people into bad action is still recoverable."
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0016"
+      ],
+      "note": "The student starts hesitantly and repeats filler before the contrast between outward image and emotional connection becomes clear."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "packet_id": "predictive-history-0y-gezhrjr0-semantics-pkt-0005",
+  "source_id": "video:predictive-history-0y-gezhrjr0",
+  "source_date": "2026-06-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0034",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0035"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks why endless rain suits gluttony, and a student answers that the punishment frustrates thirst and desire without ever satisfying them.",
+      "speaker_attribution": "Jiang prompt followed by student answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0036",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0037",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0038",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0039"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang narrows the issue to defining gluttony, and students answer that it means excessive desire and the inability to stop.",
+      "speaker_attribution": "Jiang question with student definitions",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0040"
+      ],
+      "kind": "question",
+      "summary": "A student asks how gluttony differs from greed, opening the next conceptual comparison.",
+      "speaker_attribution": "Student question",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang treats the logic of punishment as something that must reveal the shape of the sin rather than merely inflict pain.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0034"
+      ],
+      "temporal_scope": "Pedagogical framing given in the seminar on 2026-06-21.",
+      "topic_tags": [
+        "punishment",
+        "reflection",
+        "justice"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student explains the rain punishment by saying it leaves the glutton thirsty and dependent on tiny drops that never truly satisfy desire.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0035"
+      ],
+      "temporal_scope": "Student explanation offered during the seminar on 2026-06-21.",
+      "topic_tags": [
+        "gluttony",
+        "rain",
+        "thirst",
+        "frustration"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "A student widens gluttony beyond food to excessive desire and indulgence in pleasures generally.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0037"
+      ],
+      "temporal_scope": "Student definition offered during the seminar on 2026-06-21.",
+      "topic_tags": [
+        "gluttony",
+        "excess",
+        "pleasure"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang accepts the room's shorthand that gluttony is the inability to stop desiring or restrain oneself.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0039"
+      ],
+      "temporal_scope": "Seminar synthesis given on 2026-06-21.",
+      "topic_tags": [
+        "gluttony",
+        "restraint",
+        "desire"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0035"
+      ],
+      "moment": "The punishment is imagined as endless drops that never quench the glutton's thirst.",
+      "source_phrase": "you can't satisfy your lust",
+      "why_it_matters": "It keeps the punishment tied to craving itself rather than to abstract moralism.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0039"
+      ],
+      "moment": "Gluttony is reduced to a devastatingly simple form: not stopping.",
+      "source_phrase": "not able to restrain yourself",
+      "why_it_matters": "This sharp formula becomes the hinge for later comparisons with greed and anger.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "gluttony",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0037",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0039"
+      ],
+      "definition_or_usage": "The room defines gluttony both narrowly as excessive eating and more broadly as indulging excessive desire without restraint.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0034",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0040"
+      ],
+      "note": "On 2026-06-21 Jiang shifts from close reading to a pedagogical workshop on how punishment mirrors sin, using gluttony as the first case.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
