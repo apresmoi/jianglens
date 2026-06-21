@@ -152,6 +152,12 @@ Skills are process contracts, not agent personas. Use the narrowest skill that m
 
 When importing synced source artifacts, resolving YouTube dates, creating canonical transcripts, or preparing transcript packets, read `.codex/skills/jiang-source-ingest/SKILL.md` first. Preserve dated source refs; do not collapse older and newer Jiang positions into an undated summary.
 
+Before claiming or importing a raw YouTube artifact, honor
+`content/workflow/tasks/source-processing-policy.json`. That policy marks known
+duplicates, empty artifacts, and archive-only sources. Raw artifacts may remain
+committed for traceability while being non-processable. Do not bypass the policy
+unless the maintainer explicitly asks for `--force-policy`.
+
 ## Agent Transcript Pass
 
 When processing transcript packets into interactions, claims, signature moments, glossary candidates, or chronology notes, read `.codex/skills/jiang-agent-transcript-pass/SKILL.md` first. Treat diarization as a hint and return schema-shaped JSON with exact refs. Signature moments preserve Jiang-specific metaphors, reversals, images, and provocative causal chains that should survive public episode compression.

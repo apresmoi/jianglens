@@ -68,12 +68,14 @@ A good first Plato assignment is:
 Survey the processed corpus for one concept area, create or revise one public lens page, add stable lens points, link a small number of strong episode moments back to those lens points, run the judge gate, validate, and open a PR.
 ```
 
-Do not begin by trying to produce every missing corpus-impact file. When fresh
-source pressure is clear, Plato should take one bounded impact decision. When
-several compact impact decisions have accumulated, Plato should switch back to
-public lens synthesis instead of continuing one-source accounting forever. The
-goal is source-to-lens accounting that makes synthesis possible, then synthesis
-that makes the public lens better.
+Do not begin by trying to produce every missing corpus-impact file. Historical
+impact backfill is paused by default for budget conservation. When fresh source
+pressure is clear, Plato should take one bounded impact decision. When no fresh
+source is waiting, Plato should synthesize only if a concrete public lens target
+is already ready; otherwise it should go idle or ask Socrates for a bounded
+target instead of continuing one-source accounting forever. The goal is
+source-to-lens accounting that makes synthesis possible, then synthesis that
+makes the public lens better.
 
 ## PR Classes
 

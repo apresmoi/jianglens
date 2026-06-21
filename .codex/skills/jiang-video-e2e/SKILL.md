@@ -60,6 +60,13 @@ If these are missing, stop and hand off to `colab-video-pipeline`.
 
 Use `jiang-source-ingest`.
 
+Before import, check `content/workflow/tasks/source-processing-policy.json`.
+Known duplicate reuploads, empty artifacts, and archive-only raw folders should
+stay in the archive but must not become new website-visible episodes unless a
+maintainer explicitly requests `--force-policy`. The E2E and import scripts
+enforce this; treat a policy refusal as a completed archive decision, not as a
+metadata or Colab blocker.
+
 Mechanical import creates:
 
 ```text

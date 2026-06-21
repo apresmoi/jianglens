@@ -204,6 +204,13 @@ node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID --channel @Predictive
 node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID --channel Interviews/<host-channel-id>
 ```
 
+The E2E script and importer enforce
+`content/workflow/tasks/source-processing-policy.json`. If a raw artifact is
+marked duplicate, blocked, skipped, or archive-only, do not claim it and do not
+retry it as source work. The raw folder stays committed as archive context. Use
+`--force-policy` only when the maintainer explicitly overrides the policy for a
+named video.
+
 Before running a stage, check whether that stage is already complete on the
 branch or on `origin/main`. Existing ingest files, packet outputs, read JSON,
 generated episode data, or a merged PR mean the restart should continue from

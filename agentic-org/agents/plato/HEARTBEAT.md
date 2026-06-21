@@ -14,19 +14,23 @@ On an autonomous wake:
 node ops/scripts/audit-corpus-impact.mjs
 ```
 
-If the newest merged source or another high-pressure source lacks impact, choose
-one impact intake task first. If no fresh/high-pressure source is waiting and
-the last several Plato PRs were compact impact intakes, switch to synthesis:
-deepen a public concept, split/merge an overgrown page, write a concept-scoped
-proposal, add durable lens points, or link a source cluster to an existing lens.
+The default audit is budgeted: it reports fresh actionable missing impact and
+hides historical backfill unless the maintainer asks for `--all-missing`. If the
+newest merged source or another explicit high-pressure source lacks impact,
+choose one impact intake task first. If no fresh/high-pressure source is
+waiting, switch to a concrete synthesis target only when one is ready: deepen a
+public concept, split/merge an overgrown page, write a concept-scoped proposal,
+add durable lens points, or link a source cluster to an existing lens. If no
+concrete synthesis target is ready, go idle instead of spending tokens on
+historical backfill.
 Classify visible lens/atlas prose, lens-point anchors, and episode-to-lens links
 as `public lens mutation`.
-8. If no useful synthesis is ready, choose one historical backfill source or
-   tightly related source cluster that feeds a named future lens decision. Do
-   not process the whole corpus mechanically in one run, do not choose by slug
-   order alone, and do not let interviews crowd out Predictive History classroom
-   episodes when the pressure is otherwise comparable. Classify this as
-   `corpus-impact intake`.
+8. Choose historical backfill only when the maintainer or Socrates names a
+   bounded source or tightly related source cluster. Do not process the whole
+   corpus mechanically, do not choose by slug order alone, and do not let
+   interviews crowd out Predictive History classroom episodes when the pressure
+   is otherwise comparable. Classify explicit backfill as `corpus-impact
+   intake`.
 9. Run corpus-anchor discovery before choosing: compare candidate ideas against
    existing lens pages, lens points, topic aliases, strong episode reads, and
    dated refs that already carry similar mechanisms.
@@ -108,10 +112,11 @@ measures concept boundary, source fan-in, chronology, page-size governance,
 reader usefulness, and exact provenance.
 
 Scheduling rule: this wake is created by Picoclaw native cron. Maintain exactly
-one recurring agent-turn job named `lens-hourly`; the default cadence is hourly
-while historical impact backfill is large. You may adjust your own cron cadence
-when corpus pressure changes, but do not create duplicate autonomy jobs and do not schedule
-shell-command cron jobs unless a maintainer explicitly asks.
+one recurring agent-turn job named `lens-hourly`; the default cadence should be
+slow and budget-conscious while historical impact backfill is paused. You may
+adjust your own cron cadence when fresh corpus pressure changes, but do not
+create duplicate autonomy jobs and do not schedule shell-command cron jobs
+unless a maintainer explicitly asks.
 
 Use the Moltnet CLI for scheduled reports; do not rely on PicoClaw assistant
 stdout being published to the room:

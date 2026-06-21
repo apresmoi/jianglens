@@ -4,6 +4,12 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
 import { promisify } from "node:util";
+import {
+  describeSourcePolicy,
+  getSourcePolicy,
+  normalizeSourcePolicy,
+  readSourceProcessingPolicy,
+} from "./lib/source-processing-policy.mjs";
 
 const execFileAsync = promisify(execFile);
 const repoRoot = path.resolve(path.dirname(new URL(import.meta.url).pathname), "../..");
@@ -27,7 +33,7 @@ function parseArgs(argv) {
 
 function usage() {
   return `Usage:
-  node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID [--channel @PredictiveHistory|Interviews/<host-channel-id>]`;
+  node ops/scripts/process-video-e2e.mjs --video-id VIDEO_ID [--channel @PredictiveHistory|Interviews/<host-channel-id>] [--force-policy]`;
 }
 
 function required(args, key) {
@@ -64,9 +70,18 @@ async function main() {
   const args = parseArgs(process.argv.slice(2));
   const videoId = required(args, "video-id");
   const channel = args.get("channel");
+  const policyChannel = channel && channel !== true ? channel : "@PredictiveHistory";
+  const forcePolicy = args.get("force-policy") === true;
+
+  const sourcePolicy = await readSourceProcessingPolicy(repoRoot);
+  const policy = normalizeSourcePolicy(getSourcePolicy(sourcePolicy, policyChannel, videoId));
+  if (!policy.processable && !forcePolicy) {
+    throw new Error(`Source ${policyChannel}/${videoId} is not processable by policy: ${describeSourcePolicy(policy)}. Raw artifacts stay archived. Pass --force-policy only for an explicit maintainer override.`);
+  }
 
   const importArgs = ["--video-id", videoId];
   if (channel && channel !== true) importArgs.push("--channel", channel);
+  if (forcePolicy) importArgs.push("--force-policy");
   const importStdout = await runNode("ops/scripts/import-colab-video.mjs", importArgs);
   const imported = lastJson(importStdout);
   const sourceDir = imported.output_dir;

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-06-21",
+  "default_action": "process",
+  "budget_mode": {
+    "name": "new-source-only",
+    "historical_corpus_impact_backfill": "paused",
+    "summary": "Autonomous source processing should prioritize newly synced, processable videos and interviews. Historical corpus-impact backfill is paused unless the maintainer explicitly asks for a bounded source or concept cluster.",
+    "agent_rule": "Do not spend scheduled wakes on duplicate reuploads, empty artifacts, or historical impact accounting just because those files exist."
+  },
+  "sources": {
+    "@PredictiveHistory/7AG3EMDvKT0": {
+      "action": "duplicate",
+      "reason": "Edited/reuploaded Dante #1 artifact; keep raw files archived but do not process as an independent source again.",
+      "canonical_video_id": "xUG-nSlD8H4",
+      "canonical_source_slug": "predictive-history-xug-nsld8h4",
+      "canonical_source_ref": "video:predictive-history-xug-nsld8h4",
+      "counts_as_independent_source": false
+    },
+    "@PredictiveHistory/eF5B3CWpKxg": {
+      "action": "duplicate",
+      "reason": "Edited/reuploaded Dante #2 artifact; keep raw files archived but do not process as an independent source again.",
+      "canonical_video_id": "PscXuHPRWQ8",
+      "canonical_source_slug": "predictive-history-pscxuhprwq8",
+      "canonical_source_ref": "video:predictive-history-pscxuhprwq8",
+      "counts_as_independent_source": false
+    },
+    "@PredictiveHistory/4EZUrGPgAos": {
+      "action": "duplicate",
+      "reason": "Audio-fixed Great Books #9 reupload already has the original source imported.",
+      "canonical_video_id": "6M1Z_V3WgOk",
+      "canonical_source_slug": "predictive-history-6m1z-v3wgok",
+      "canonical_source_ref": "video:predictive-history-6m1z-v3wgok",
+      "counts_as_independent_source": false
+    },
+    "@PredictiveHistory/cylkQPsfFRY": {
+      "action": "duplicate",
+      "reason": "Audio-fixed Civilization #57 reupload already has the original source imported.",
+      "canonical_video_id": "ra2v9HkaHz8",
+      "canonical_source_slug": "predictive-history-ra2v9hkahz8",
+      "canonical_source_ref": "video:predictive-history-ra2v9hkahz8",
+      "counts_as_independent_source": false
+    },
+    "@PredictiveHistory/lt8XLz78ZvY": {
+      "action": "duplicate",
+      "reason": "Audio-fixed Secret History #1 reupload already has the original source imported.",
+      "canonical_video_id": "ajFXykT9Joo",
+      "canonical_source_slug": "predictive-history-ajfxykt9joo",
+      "canonical_source_ref": "video:predictive-history-ajfxykt9joo",
+      "counts_as_independent_source": false
+    },
+    "@PredictiveHistory/mk4vcHtawSo": {
+      "action": "duplicate",
+      "reason": "Reuploaded Game Theory #16 artifact already has the original source imported.",
+      "canonical_video_id": "0aASxQrJYuo",
+      "canonical_source_slug": "predictive-history-0aasxqrjyuo",
+      "canonical_source_ref": "video:predictive-history-0aasxqrjyuo",
+      "counts_as_independent_source": false
+    },
+    "@PredictiveHistory/8OAosrz2tSc": {
+      "action": "blocked",
+      "reason": "Committed artifact has only tiny transcript/diarization files and no YouTube metadata; treat as bad or empty archive artifact until a maintainer explicitly re-enables it.",
+      "counts_as_independent_source": false
+    }
+  }
+}

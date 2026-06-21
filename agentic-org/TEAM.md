@@ -190,11 +190,12 @@ Its symbolic name is Plato. It should not mechanically create every missing work
 Plato owns the expensive interpretive judgment. It should use cheap corpus
 signals to find pressure, but concept creation, concept merging, chronology
 revision, and atlas mutation require strong source-grounded judgment.
-When no fresh source or urgent public mutation is active, Plato's default lane
-is historical corpus-impact backfill: one bounded source or tight cluster per
-wake, prioritized by source pressure and current lens needs. This keeps the old
-archive connected to the public map without turning impact files into bulk
-paperwork.
+Historical corpus-impact backfill is paused by default for token budget
+conservation. When no fresh source or urgent public mutation is active, Plato
+should go idle or choose a concrete synthesis target that is already supported
+by accumulated pressure. Backfill resumes only for a maintainer-named source or
+tight concept cluster, or when a fresh source cannot be interpreted without one
+older support source.
 
 `dante` owns public-lens review. Dante does not write first-draft lens prose and
 does not review source publication. Dante judges Plato's public lens mutations

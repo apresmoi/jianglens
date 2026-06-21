@@ -5,7 +5,9 @@ description: Use this skill after every published Jiang Lens episode, or when re
 
 # Jiang Corpus Impact Pass
 
-Use this after every episode is published. Do not wait for fixed batches. Every video applies to the corpus; the question is what level of mutation it justifies.
+Use this after a newly published episode or interview needs source-to-lens
+accounting. Do not wait for fixed batches. Every new independent source applies
+to the corpus; the question is what level of mutation it justifies.
 
 This skill records the impact decision. Downstream public edits belong to `jiang-provenance-linker`, `jiang-lens-concept-writer`, `jiang-lens-atlas-maintainer`, or `jiang-canon-promotion`.
 
@@ -14,14 +16,24 @@ This skill records the impact decision. Downstream public edits belong to `jiang
 Use this skill in two modes:
 
 - **Steady-state intake**: for a newly merged episode or interview. This is mandatory before optional lens patching. The pass may be compact, but it must account for the source.
-- **Backfill intake**: for already-published sources that predate the impact requirement. Do not bulk-write hundreds of shallow files. Triage the backlog and take one bounded source or one tightly related source cluster per run.
+- **Maintainer-directed backfill intake**: for already-published sources that
+  predate the impact requirement. Historical backfill is currently paused for
+  budget conservation unless the maintainer names a bounded source or concept
+  cluster. Do not bulk-write shallow files and do not use the missing-count
+  backlog alone as permission to work.
+
+Budget mode is recorded in
+`content/workflow/tasks/source-processing-policy.json`. In budget mode, scheduled
+agents should process fresh missing impact from newly merged independent sources
+or explicitly requested clusters only. Known duplicate reuploads and blocked raw
+artifacts do not create new impact obligations.
 
 Impact intake is not the end state. It creates evidence-backed obligations for
-public lens work. After several compact backfill intakes in a row, the next
-worker pass should normally switch to downstream synthesis with
-`jiang-lens-concept-writer`, `jiang-lens-atlas-maintainer`, or
-`jiang-provenance-linker`, unless a newly merged high-pressure source still
-needs its first impact decision.
+public lens work. After compact impact intakes, the next worker pass should
+switch to downstream synthesis with `jiang-lens-concept-writer`,
+`jiang-lens-atlas-maintainer`, or `jiang-provenance-linker` when a concrete
+target is ready. If no fresh source or concrete synthesis target is ready, go
+idle instead of spending tokens on historical backfill.
 
 Backfill priority:
 
@@ -219,10 +231,16 @@ node ops/scripts/compile-content.mjs
 node ops/scripts/validate-content.mjs
 ```
 
-To audit which published episodes still need impact files:
+To audit fresh actionable missing impact files in budget mode:
 
 ```bash
 node ops/scripts/audit-corpus-impact.mjs
+```
+
+To inspect the full historical backlog only when the maintainer explicitly asks:
+
+```bash
+node ops/scripts/audit-corpus-impact.mjs --all-missing
 ```
 
 For downstream website-visible mutations, the downstream skill should also run:

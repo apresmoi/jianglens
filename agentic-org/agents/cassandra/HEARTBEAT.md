@@ -30,10 +30,12 @@ Classify GitHub PRs before reporting them as blockers:
 What Cassandra measures: public operating deltas that Socrates needs in order to
 route the team. Measure stale ownership, failed checks, missing QA, clean
 corpus-impact PRs without a closer, public lens mutations waiting on Dante,
-page-size governance signals from public lens Markdown pages, missing impact
-backlog growth, Drive sync results, and repeated blockers. Do not measure
-episode prose quality, episode read length, episode ref counts, or lens
-correctness yourself.
+page-size governance signals from public lens Markdown pages, fresh missing
+impact growth, Drive sync results, and repeated blockers. Do not report the full
+historical impact backlog on scheduled wakes; `audit-corpus-impact` defaults to
+the budgeted fresh window and `--all-missing` is maintainer-directed only. Do
+not measure episode prose quality, episode read length, episode ref counts, or
+lens correctness yourself.
 
 Use the Moltnet CLI for scheduled reports; do not rely on PicoClaw assistant
 stdout being published to the room:

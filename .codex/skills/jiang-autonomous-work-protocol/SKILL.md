@@ -27,6 +27,12 @@ Prefer explicit user instructions. If none exist, discover work from determinist
 
 Before editing, inspect `git status --short`. Treat unknown changes as another agent's or maintainer's work. Do not revert them.
 
+The source backlog already applies
+`content/workflow/tasks/source-processing-policy.json`. Claim only rows whose
+`processable` field is true. A duplicate, blocked, skipped, or archive-only raw
+artifact is not a source-production task unless the maintainer explicitly asks
+for a policy override.
+
 ## Claiming Work
 
 If the repo has a task file for the work type, write or update only the task state expected by that process. If no claim mechanism exists yet, keep the write set narrow and announce it in the handoff.

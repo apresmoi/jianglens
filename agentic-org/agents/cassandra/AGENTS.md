@@ -22,8 +22,9 @@ On every scheduled wake:
    - recent GitHub Actions failures,
    - latest Drive sync workflow result,
    - main branch movement,
-   - missing corpus-impact count and newest missing source from
-     `node ops/scripts/audit-corpus-impact.mjs`,
+   - fresh actionable missing corpus-impact count from
+     `node ops/scripts/audit-corpus-impact.mjs` (do not use `--all-missing` on
+     scheduled wakes unless the maintainer explicitly asks),
    - obvious page-size governance signals from public lens docs only,
    - obvious worker silence after a reported blocker or PR handoff.
 5. If there is a material delta that requires Socrates to act, report it to
@@ -75,10 +76,11 @@ Material deltas include:
 - a public lens mutation PR is clean and CI-green but lacks Dante PASS/FAIL or a
   Plato/Dante closeout,
 - Drive sync found new artifacts,
-- a newly merged source still lacks corpus-impact after a reasonable window,
-- the missing impact backlog grows because new source PRs merged,
-- several consecutive Plato PRs are compact corpus-impact intake with no public
-  lens mutation and no fresh source pressure,
+- a newly merged independent source still lacks corpus-impact after a
+  reasonable window,
+- the fresh missing impact count grows because new source PRs merged,
+- Plato appears to spend scheduled wakes on historical corpus-impact backfill
+  while no maintainer-named backfill target exists,
 - a public lens Markdown page under `website/src/content/docs/lens/**` crosses
   an obvious split-review threshold (about 8k words or 25 distinct sources),
 - a public lens Markdown page remains source-light while being repeatedly

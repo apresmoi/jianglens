@@ -78,6 +78,12 @@ let one metadata-blocked interview stop the whole interview queue. Try at most
 one new metadata-blocked source per wake before moving to the next candidate, so
 the room gets useful progress without repeated bot-gate spam.
 
+The backlog applies `content/workflow/tasks/source-processing-policy.json`.
+Claim only rows with `processable: true`. Rows marked `duplicate`, `blocked`,
+`skip`, or `archive-only` are archive context, not work. Do not reprocess edited
+reuploads or empty artifacts just because raw folders exist. Only use
+`--force-policy` when a maintainer explicitly names the source and override.
+
 If every remaining source is either already imported or metadata-blocked for the
 current commit, report that no processable episode or interview source is ready
 and include the metadata-blocked count plus the first blocked slug. Do not claim

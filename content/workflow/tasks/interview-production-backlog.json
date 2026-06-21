@@ -1,19 +1,33 @@
 {
   "generated_by": "ops/scripts/build-episode-backlog.mjs",
-  "generated_at": "2026-05-15T04:01:12.467Z",
+  "generated_at": "2026-06-21T01:50:00.076Z",
   "channel": "Interviews",
+  "source_processing_policy": "content/workflow/tasks/source-processing-policy.json",
+  "budget_mode": {
+    "name": "new-source-only",
+    "historical_corpus_impact_backfill": "paused",
+    "summary": "Autonomous source processing should prioritize newly synced, processable videos and interviews. Historical corpus-impact backfill is paused unless the maintainer explicitly asks for a bounded source or concept cluster.",
+    "agent_rule": "Do not spend scheduled wakes on duplicate reuploads, empty artifacts, or historical impact accounting just because those files exist."
+  },
   "order": "interview bucket config order first, then host channel and video id",
   "counts": {
-    "raw_sources": 80,
-    "staged_sources": 80,
-    "raw_source_videos": 80,
-    "staged_videos": 80,
-    "imported_sources": 17,
-    "remaining_sources": 63,
-    "imported_episodes": 17,
-    "remaining_episodes": 63,
-    "transcribed": 80,
-    "diarized": 80,
+    "raw_sources": 81,
+    "staged_sources": 81,
+    "raw_source_videos": 81,
+    "staged_videos": 81,
+    "independent_sources": 81,
+    "policy_nonprocessable_sources": 0,
+    "duplicate_sources": 0,
+    "blocked_sources": 0,
+    "skipped_sources": 0,
+    "imported_sources": 81,
+    "remaining_sources": 0,
+    "ready_sources": 0,
+    "imported_episodes": 81,
+    "remaining_episodes": 0,
+    "raw_archived_nonindependent_sources": 0,
+    "transcribed": 81,
+    "diarized": 81,
     "missing_flat_metadata": 0
   },
   "videos": [
@@ -32,8 +46,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "dbVdnL6HWOg",
@@ -50,8 +72,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "37Qm5feukW8",
@@ -68,8 +98,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "NidlGa9C0H8",
@@ -86,8 +124,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "61z1rB3UvPc",
@@ -104,8 +150,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "8ckOxpy6ENc",
@@ -122,8 +176,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "0ehvW2FO5-8",
@@ -140,8 +202,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "T8jFDX3gfcw",
@@ -158,8 +228,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "mgazlaA5oZA",
@@ -176,8 +254,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "RIL8PsSNTZg",
@@ -194,8 +280,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "n44OF1Y7zgo",
@@ -212,8 +306,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "P_DHMUdOVdo",
@@ -230,8 +332,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "Rsld81Qme04",
@@ -248,8 +358,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "Wio--7_GIOs",
@@ -266,8 +384,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "VucFnjlcyQk",
@@ -284,8 +410,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "VHRuUvMKxJE",
@@ -302,8 +436,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "875HVFDrXzY",
@@ -320,8 +462,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
       "imported_episode": true,
-      "imported_source": true
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "kH8dvnDDooQ",
@@ -337,9 +487,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "t5cnf8DqJ_Q",
@@ -355,9 +513,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "oErKnj_uyPA",
@@ -373,9 +539,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "YEJgDBgbDoQ",
@@ -391,9 +565,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "PvHUFfwtU3I",
@@ -409,9 +591,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "2K2nQsTTjQE",
@@ -427,9 +617,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "uP9Fnq23lsA",
@@ -445,9 +643,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "Ki5Yuq8HA24",
@@ -463,9 +669,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "rsi7cDRUrmE",
@@ -481,9 +695,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "PX5wsNSqwME",
@@ -499,9 +721,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "obQsUn0G0U4",
@@ -517,9 +747,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "6tQRwlVswrs",
@@ -536,8 +774,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "Zy2T6Wr3TTM",
@@ -554,8 +800,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "6rTlI_Qwd1I",
@@ -572,8 +826,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "o1DElACHNRo",
@@ -590,8 +852,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "0rIgZD-tk3s",
@@ -608,8 +878,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "zSGyHWKINzk",
@@ -626,8 +904,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "4Ql24Z8SIeE",
@@ -644,8 +930,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "Lma4p2GDxzM",
@@ -662,8 +956,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "CRw5CCq8Uf4",
@@ -680,8 +982,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "80jUKe0blAQ",
@@ -698,8 +1008,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "uYdY86KpFns",
@@ -716,8 +1034,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "2f3OSVZg2tI",
@@ -734,8 +1060,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "uHIdRgFypNo",
@@ -752,8 +1086,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "H5lCJ0D4DpY",
@@ -770,8 +1112,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "Id4WHhYPcuY",
@@ -788,8 +1138,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "dhLr7ZYdlj8",
@@ -806,8 +1164,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "ACPE2tGkBjE",
@@ -824,8 +1190,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "ORyCS0r2Tpg",
@@ -842,8 +1216,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "MCJNO0XrlY8",
@@ -859,9 +1241,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "QSXkdK4mzgk",
@@ -877,9 +1267,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "f7n_6pid0tk",
@@ -895,9 +1293,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "L9HEow1sYg0",
@@ -913,9 +1319,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "HzIX1hy8hr0",
@@ -931,9 +1345,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "P5gG9xXBQZE",
@@ -949,9 +1371,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "pnT_6V5m1WA",
@@ -967,9 +1397,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "lHSsC_w0bk4",
@@ -986,8 +1424,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "sutm8lOJRqw",
@@ -1004,8 +1450,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "GSSIm9xNRAE",
@@ -1021,9 +1475,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "vVJ4mxQU2qk",
@@ -1039,9 +1501,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "7qz4kmtbvRU",
@@ -1057,9 +1527,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "JleJlzMum4g",
@@ -1076,8 +1554,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "LSt0Wo6QRkI",
@@ -1093,9 +1579,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "XRk5VSEzJ4Y",
@@ -1111,9 +1605,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "Pul2i1womXg",
@@ -1129,9 +1631,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "E_eE0dtX95Q",
@@ -1148,8 +1658,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "DkaGDdve8SM",
@@ -1166,8 +1684,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "XcdhFrP4wYI",
@@ -1184,8 +1710,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "qdZkV36ZyFk",
@@ -1202,8 +1736,16 @@
       "transcription": true,
       "diarization": true,
       "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "0wnKEV_18y0",
@@ -1219,9 +1761,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "vSLRLVCTWRA",
@@ -1237,9 +1787,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "5FvzbUFa_yo",
@@ -1255,9 +1813,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "3ULDVZstUjE",
@@ -1273,9 +1839,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "lIWZv4_OvhM",
@@ -1291,9 +1865,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "BFuwNjHaYq8",
@@ -1309,9 +1891,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "RhYf2eEdfzA",
@@ -1327,9 +1917,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "hvtS-nFbL8Q",
@@ -1345,9 +1943,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "WVm3OqDVIwY",
@@ -1363,9 +1969,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "L6knNCwgzns",
@@ -1381,9 +1995,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "8aMNJpNKV_0",
@@ -1399,9 +2021,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "2_Rt358X96I",
@@ -1417,9 +2047,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "IRnhBw6w7WE",
@@ -1435,9 +2073,17 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     },
     {
       "video_id": "nqAm_7gt_9k",
@@ -1453,9 +2099,43 @@
       "duration_string": null,
       "transcription": true,
       "diarization": true,
-      "metadata": false,
-      "imported_episode": false,
-      "imported_source": false
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
+    },
+    {
+      "video_id": "IZZVijQ0gkA",
+      "source_slug": "interview-izzvijq0gka",
+      "source_class": "interview",
+      "collection": "interviews",
+      "channel_path": "Interviews/UCy5tR9C0xM6tp7ha1Usq9Ag",
+      "channel_id": "UCy5tR9C0xM6tp7ha1Usq9Ag",
+      "title": "SNEAKO Interviews Professor Jiang: The End of an Empire",
+      "playlist_index": null,
+      "config_index": 82,
+      "duration_seconds": null,
+      "duration_string": null,
+      "transcription": true,
+      "diarization": true,
+      "metadata": true,
+      "processing_action": "process",
+      "processing_status": "processable",
+      "processable": true,
+      "counts_as_independent_source": true,
+      "policy_reason": null,
+      "canonical_video_id": null,
+      "canonical_source_slug": null,
+      "imported_episode": true,
+      "imported_source": true,
+      "ready_for_processing": false
     }
   ]
 }
