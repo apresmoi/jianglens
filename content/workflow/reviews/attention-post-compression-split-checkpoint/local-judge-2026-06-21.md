@@ -19,7 +19,7 @@ Residual risk: the authored page is close to the ordinary 6,000-word watch line 
 
 Finding: no blocking issue.
 
-The proposal does not add public claims, evidence marks, lens-point IDs, or episode links. It measures the current authored page and records routing discipline from existing public pages and prior reviews. The anchor list matches the current Attention page plus the atlas-level anchor in `website/src/content/docs/lens.md`.
+The proposal does not add public claims, evidence marks, lens-point IDs, or episode links. It measures the current authored page and records routing discipline from existing public pages and prior reviews. The anchor inventory now separates the 11 current Attention page anchors, including `anxiety-returns-attention-to-work`, from the atlas-level `attention-capture-extracts-energy` anchor in `website/src/content/docs/lens.md`.
 
 Because this is workflow-only planning, no new transcript span is required. The proposal's boundary claims are governance judgments about where future sourced material should live, not new public canon.
 

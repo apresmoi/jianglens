@@ -18,7 +18,8 @@ Live checks on `main` after PR #1144:
 | Raw authored Markdown words | about 5,708 | below the ordinary 6,000-word split watch line, but close enough to require replacement before append |
 | Authored evidence attributes | 88 | dense but stable after compression |
 | Distinct local video slugs in authored evidence refs | 15 | below the 20-source direct-authored watch line |
-| Lens-point anchors | 11 | stable after the June compression |
+| Page lens-point anchors | 11 | stable after the June compression |
+| Atlas-level Attention anchor | 1 | separate atlas routing anchor, not counted as a page anchor |
 
 This is a public-lens planning checkpoint, not corpus-impact intake. The default budget audit reports no fresh missing corpus-impact items. Historical impact backfill remains paused, and this checkpoint answers the carried-forward crowded-page queue without creating another source-accounting file.
 
@@ -35,10 +36,12 @@ The stable anchors still belong on one parent surface:
 - `attention-dollar-ai-consciousness-war`
 - `attention-disclosure-brands-consciousness`
 - `attention-public-figure-becomes-entity`
+- `anxiety-returns-attention-to-work`
 - `middle-class-status-proof-keeps-attention-moving`
 - `mobile-capital-has-no-homeland`
 - `attention-reading-reclaims-mind`
-- the atlas-level `attention-capture-extracts-energy` anchor in `website/src/content/docs/lens.md`
+
+The atlas-level `attention-capture-extracts-energy` anchor in `website/src/content/docs/lens.md` is a separate atlas routing anchor, not one of the 11 page anchors above.
 
 The page is near watch pressure because it has several child-like branches, but those branches still teach one parent claim: whoever captures attention captures the reality-making force through which people work, obey, desire, compare, imagine, and make worlds feel real.
 
