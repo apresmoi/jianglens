@@ -3,6 +3,11 @@ import { existsSync } from 'node:fs';
 import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import {
+  getSourcePolicy,
+  normalizeSourcePolicy,
+  readSourceProcessingPolicy,
+} from './lib/source-processing-policy.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(__dirname, '../..');
@@ -159,6 +164,8 @@ async function main() {
   const artifactRootPath = path.resolve(repoRoot, artifactRoot);
   const outJson = path.resolve(repoRoot, option(args, 'out', 'content/workflow/tasks/episode-production-backlog.json'));
   const outTsv = path.resolve(repoRoot, option(args, 'tsv-out', 'content/workflow/tasks/episode-production-backlog.tsv'));
+  const policyPath = option(args, 'policy', 'content/workflow/tasks/source-processing-policy.json');
+  const sourcePolicy = await readSourceProcessingPolicy(repoRoot, policyPath);
   const importedSlugs = new Set(await listDirectories(path.join(repoRoot, 'content/lens/episodes')));
 
   const videos = (channel === 'Interviews' || channel.startsWith('Interviews/'))
@@ -166,14 +173,28 @@ async function main() {
     : await collectPredictiveHistorySources({ artifactRootPath, channel });
 
   for (const video of videos) {
+    const policy = normalizeSourcePolicy(getSourcePolicy(sourcePolicy, video.channel_path, video.video_id));
+    video.processing_action = policy.action;
+    video.processing_status = policy.processing_status;
+    video.processable = policy.processable;
+    video.counts_as_independent_source = policy.counts_as_independent_source;
+    video.policy_reason = policy.reason;
+    video.canonical_video_id = policy.canonical_video_id;
+    video.canonical_source_slug = policy.canonical_source_slug;
     video.imported_episode = importedSlugs.has(video.source_slug);
     video.imported_source = video.imported_episode;
+    video.ready_for_processing = video.processable
+      && !video.imported_source
+      && video.transcription
+      && video.diarization;
   }
 
   const backlog = {
     generated_by: 'ops/scripts/build-episode-backlog.mjs',
     generated_at: process.env.LENS_GENERATED_AT ?? new Date().toISOString(),
     channel,
+    source_processing_policy: sourcePolicy.policy_path,
+    budget_mode: sourcePolicy.budget_mode ?? null,
     order: channel === 'Interviews' || channel.startsWith('Interviews/')
       ? 'interview bucket config order first, then host channel and video id'
       : 'oldest-first by YouTube channel playlist_index; playlist_index 1 is newest; null playlist entries last',
@@ -182,10 +203,17 @@ async function main() {
       staged_sources: videos.length,
       raw_source_videos: videos.length,
       staged_videos: videos.length,
+      independent_sources: videos.filter((video) => video.counts_as_independent_source).length,
+      policy_nonprocessable_sources: videos.filter((video) => !video.processable).length,
+      duplicate_sources: videos.filter((video) => video.processing_action === 'duplicate').length,
+      blocked_sources: videos.filter((video) => video.processing_action === 'blocked').length,
+      skipped_sources: videos.filter((video) => ['archive-only', 'skip'].includes(video.processing_action)).length,
       imported_sources: videos.filter((video) => video.imported_source).length,
-      remaining_sources: videos.filter((video) => !video.imported_source).length,
+      remaining_sources: videos.filter((video) => !video.imported_source && video.processable).length,
+      ready_sources: videos.filter((video) => video.ready_for_processing).length,
       imported_episodes: videos.filter((video) => video.imported_episode).length,
-      remaining_episodes: videos.filter((video) => !video.imported_episode).length,
+      remaining_episodes: videos.filter((video) => !video.imported_episode && video.processable).length,
+      raw_archived_nonindependent_sources: videos.filter((video) => !video.counts_as_independent_source).length,
       transcribed: videos.filter((video) => video.transcription).length,
       diarized: videos.filter((video) => video.diarization).length,
       missing_flat_metadata: videos.filter((video) => !video.title).length,
@@ -196,7 +224,7 @@ async function main() {
   await mkdir(path.dirname(outJson), { recursive: true });
   await writeFile(outJson, `${JSON.stringify(backlog, null, 2)}\n`);
   await writeFile(outTsv, [
-    'order\tsource_class\tchannel_path\tplaylist_index\tvideo_id\tsource_slug\timported\tdiarization\tduration\ttitle',
+    'order\tsource_class\tchannel_path\tplaylist_index\tvideo_id\tsource_slug\tprocessing_action\tprocessable\tcanonical_source_slug\tpolicy_reason\timported\tdiarization\tduration\ttitle',
     ...videos.map((video, index) => {
       const cells = [
         index + 1,
@@ -205,10 +233,14 @@ async function main() {
         video.playlist_index ?? '',
         video.video_id,
         video.source_slug,
+        video.processing_action,
+        video.processable ? 'yes' : 'no',
+        video.canonical_source_slug ?? '',
+        String(video.policy_reason ?? '').replaceAll('\t', ' ').trim(),
         video.imported_source ? 'yes' : 'no',
         video.diarization ? 'yes' : 'no',
         video.duration_string ?? '',
-        String(video.title ?? '').replaceAll('\t', ' '),
+        String(video.title ?? '').replaceAll('\t', ' ').trim(),
       ];
       while (cells.length > 0 && cells[cells.length - 1] === '') cells.pop();
       return cells.join('\t');
@@ -219,7 +251,8 @@ async function main() {
     output: path.relative(repoRoot, outJson),
     tsv: path.relative(repoRoot, outTsv),
     counts: backlog.counts,
-    first_remaining: videos.filter((video) => !video.imported_episode).slice(0, 10),
+    first_remaining: videos.filter((video) => !video.imported_episode && video.processable).slice(0, 10),
+    first_nonprocessable: videos.filter((video) => !video.processable).slice(0, 10),
   }, null, 2));
 }
 

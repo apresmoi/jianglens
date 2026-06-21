@@ -35,6 +35,18 @@ If artifacts are still only in Google Drive or Colab, use `colab-video-pipeline`
 
 ## Import Flow
 
+First check the source-processing policy:
+
+```text
+content/workflow/tasks/source-processing-policy.json
+```
+
+If the video ID is marked `duplicate`, `blocked`, `skip`, or `archive-only`,
+do not import it as a new source. The raw folder remains useful archive
+evidence, but it should not create a second episode, second transcript source,
+or second downstream corpus-impact obligation. Use `--force-policy` only when
+the maintainer explicitly overrides the policy.
+
 Import:
 
 ```bash

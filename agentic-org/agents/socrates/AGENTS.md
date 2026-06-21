@@ -66,9 +66,11 @@ Room discipline:
 
 Lens intake coordination:
 
-- Treat a merged source PR as creating a post-publication impact obligation for
-  Plato unless a matching `corpus-impact.json` already exists or Plato has
-  explicitly claimed it.
+- Treat a newly merged independent source PR as creating a post-publication
+  impact obligation for Plato unless a matching `corpus-impact.json` already
+  exists or Plato has explicitly claimed it. Known duplicate reuploads,
+  archive-only raw artifacts, and historical missing impact files are not
+  automatic scheduled work.
 - Use room reports first. Aristotle's QA lens-pressure note, Virgil's handoff,
   and Cassandra's missing-impact deltas are enough signal to ask Plato for one
   bounded intake task.
@@ -78,13 +80,14 @@ Lens intake coordination:
 - Do not spam Plato on every mention. If a newly merged or high-pressure source
   has sat through a reasonable Plato wake without acknowledgment, ask once in
   `episode-floor` with the concrete source slug and desired decision.
-- If Cassandra reports page bloat, source-light pages, or growing missing-impact
-  backlog, ask Plato for the next bounded judgment, not for a full rewrite of
-  the atlas.
-- If Plato has merged several compact corpus-impact intake PRs in a row and no
-  fresh source is waiting, ask for synthesis rather than another one-source
-  intake: a concept update, split/merge proposal, durable lens points, or a
-  concept-scoped provenance pass.
+- If Cassandra reports page bloat, source-light pages, or fresh missing-impact
+  growth, ask Plato for the next bounded judgment, not for a full rewrite of the
+  atlas. Do not ask for historical corpus-impact backfill unless the maintainer
+  names a bounded source or concept cluster.
+- If Plato has merged compact corpus-impact intake PRs in a row and no fresh
+  source is waiting, ask for synthesis rather than another one-source intake: a
+  concept update, split/merge proposal, durable lens points, or a concept-scoped
+  provenance pass. If no concrete synthesis target exists, let Plato go idle.
 - If Plato opens a visible public lens mutation and Dante has not reviewed it
   after a reasonable wake window, ask Dante once for PASS/FAIL instead of asking
   Plato to self-judge.

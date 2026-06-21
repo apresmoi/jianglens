@@ -10,6 +10,12 @@ import {
   readYoutubeMetadataFile,
   youtubeUrl,
 } from "./lib/youtube-metadata.mjs";
+import {
+  describeSourcePolicy,
+  getSourcePolicy,
+  normalizeSourcePolicy,
+  readSourceProcessingPolicy,
+} from "./lib/source-processing-policy.mjs";
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const defaultArtifactRoot = "content/sources/raw/youtube";
@@ -45,6 +51,7 @@ Options:
   --source-url URL             Defaults to YouTube watch URL
   --youtube-cookies PATH       Optional yt-dlp cookies file for metadata fallback
   --no-fetch-youtube-metadata  Do not call yt-dlp when metadata is missing
+  --force-policy               Import even when source-processing-policy marks this source non-processable
   --artifact-root PATH         Defaults to ${defaultArtifactRoot}
   --staging-root PATH          Legacy alias for --artifact-root
   --out-root PATH              Defaults to content/sources/videos
@@ -402,6 +409,8 @@ async function main() {
   const args = parseArgs(process.argv.slice(2));
   const videoId = required(args, "video-id");
   const channelArg = option(args, "channel");
+  const policyChannel = channelArg || "@PredictiveHistory";
+  const forcePolicy = boolOption(args, "force-policy");
   const artifactRoot = option(args, "artifact-root", option(args, "staging-root", defaultArtifactRoot));
   const stagingRoot = path.resolve(repoRoot, artifactRoot);
   const outRoot = path.resolve(repoRoot, option(args, "out-root", "content/sources/videos"));
@@ -411,6 +420,12 @@ async function main() {
 
   if (!Number.isFinite(maxWords) || maxWords <= 0) throw new Error("--max-words must be a positive number");
   if (!Number.isFinite(maxSeconds) || maxSeconds <= 0) throw new Error("--max-seconds must be a positive number");
+
+  const sourcePolicy = await readSourceProcessingPolicy(repoRoot);
+  const policy = normalizeSourcePolicy(getSourcePolicy(sourcePolicy, policyChannel, videoId));
+  if (!policy.processable && !forcePolicy) {
+    throw new Error(`Source ${policyChannel}/${videoId} is not processable by policy: ${describeSourcePolicy(policy)}. Raw artifacts stay archived. Pass --force-policy only for an explicit maintainer override.`);
+  }
 
   const videoDir = await findVideoDir(stagingRoot, channelArg, videoId);
   const rawConfig = await readRawConfig(stagingRoot);

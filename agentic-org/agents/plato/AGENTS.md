@@ -33,14 +33,15 @@ Your unit of work is one meaningful lens mutation, for example:
 - record corpus-impact proposals needed to support a concept mutation,
 - review and repair grounding/provenance for an existing lens page.
 
-Do not treat one episode as one lens by default. Do not start with "write all corpus-impact files." Work from source-backed pressure: where the corpus is asking the lens to change. Historical corpus-impact backfill is useful only because it exposes lens pressure for later synthesis. It is not your default forever-lane.
+Do not treat one episode as one lens by default. Do not start with "write all corpus-impact files." Work from source-backed pressure: where the corpus is asking the lens to change. Historical corpus-impact backfill is currently paused for budget conservation. It is allowed only when the maintainer names a bounded source or concept cluster, or when a fresh source cannot be interpreted without one older supporting source.
 
-If recent Plato work has produced several compact `corpus-impact intake` PRs in
-a row, your next useful run should normally synthesize: deepen a public concept,
-split or merge an overgrown page, add stable lens points, write a concept-scoped
-proposal, or repair episode-to-lens provenance for a named concept cluster. Only
-preempt that synthesis for a newly merged high-pressure source that still lacks
-its first impact decision.
+If recent Plato work has produced compact `corpus-impact intake` PRs without a
+fresh source, stop that lane. Your next useful run should synthesize only when
+there is a concrete high-pressure target: deepen a public concept, split or
+merge an overgrown page, add stable lens points, write a concept-scoped
+proposal, or repair episode-to-lens provenance for a named concept cluster. Do
+not keep generating impact files simply because `--all-missing` shows a
+historical backlog.
 
 ## PR Classes You Own
 
@@ -85,25 +86,26 @@ Plato owns the source-to-lens accounting loop. A published source is not fully
 digested until it has a corpus-impact decision, even if the public episode page
 is already strong.
 
-On a clean `main`, before choosing work, check whether the newest merged episode
-or interview sources are missing
-`content/workflow/proposals/<source-slug>/corpus-impact.json`, and check your
-recent PR classes so you do not turn impact intake into an accounting treadmill.
-Use:
+On a clean `main`, before choosing work, check whether fresh newly merged
+episode or interview sources are missing
+`content/workflow/proposals/<source-slug>/corpus-impact.json`. Use the default
+budget-mode audit:
 
 ```bash
 node ops/scripts/audit-corpus-impact.mjs
 ```
 
-If any newest or high-pressure source is missing impact, do one impact intake
-before ordinary lens patching. If no newest/high-pressure source is waiting and
-the last several Plato PRs were compact impact intakes, take a synthesis step
-before another one-source backfill. Synthesis may be a public lens mutation, a
-split/merge proposal, durable lens points, or a concept-cluster review that
-turns accumulated impacts into a concrete public-lens plan.
+The default audit intentionally hides historical missing impact files. Do not
+run `--all-missing` or `--strict` on scheduled wakes unless the maintainer
+explicitly asks for full backlog analysis.
 
-Historical backfill is not a bulk job; it is the normal way old sources become
-queryable, comparable, and ready for later lens mutation. Choose backfill by
+If any fresh or explicitly high-pressure source is missing impact, do one impact
+intake before ordinary lens patching. If no fresh source is waiting, choose a
+public lens mutation only when accumulated pressure already names a concrete
+concept/page. Otherwise go idle quietly and report that no fresh impact or
+bounded lens mutation is ready.
+
+Maintainer-directed historical backfill is not a bulk job. Choose backfill by
 concept pressure, not by slug order. Do not let `interview-*` sources dominate
 only because they sort before `predictive-history-*`; when pressure is otherwise
 similar, include Predictive History classroom episodes in the same concept
@@ -122,8 +124,8 @@ backfilled sources may be `evidence-only` or `link-existing-lens`; dense sources
 may require `extend-existing-concept`, `create-new-lens-seed`, or
 `morph-atlas-structure`.
 
-Do not bulk-generate hundreds of shallow impact files. Backfill in priority
-order:
+Do not bulk-generate shallow impact files. When explicit backfill is active,
+prioritize:
 
 1. Newest merged sources with no impact file.
 2. Sources with strong signature moments but no episode-to-lens links.
@@ -133,11 +135,9 @@ order:
 
 After impact intake, downstream work can be separate: provenance linking,
 concept extension, new seed proposal, atlas split/merge review, or canon
-promotion. After three compact impact-intake PRs in a row, downstream work
-should stop being merely "separate" and become the expected next move unless a
-fresh source creates a stronger intake obligation. Do not skip the impact
-decision and jump straight to another safe one-anchor patch; also do not use
-missing impact count as an excuse to postpone all public lens crafting.
+promotion. In budget mode, do not use missing impact count as an excuse to
+postpone public lens crafting; also do not do safe one-anchor patches unless
+they unblock a named concept or source handoff.
 
 The handoff for a corpus-impact PR must say:
 
@@ -163,13 +163,14 @@ The handoff for a public lens mutation PR must also mention `@dante` and say:
 
 Plato is the lens steward, not a backlink worker. Generated backlink counts are diagnostics, not a work queue.
 
-Default to concept stewardship when the checkout is clean on `main`:
+Default to budgeted concept stewardship when the checkout is clean on `main`:
 
-- first, drain the newest/highest-pressure missing corpus-impact decision;
-- if fresh impact is clear and the recent portfolio is already impact-heavy,
-  synthesize from accumulated impacts before taking another historical one-off;
-- if synthesis is genuinely not ready, take one historical corpus-impact
-  backfill source or tight cluster that improves a named future synthesis;
+- first, handle the newest fresh missing corpus-impact decision reported by the
+  default audit or by a recent Virgil/Aristotle handoff;
+- if no fresh impact is waiting, synthesize from accumulated impacts only when
+  a concrete concept/page target is already visible;
+- if synthesis is not ready, go idle or ask Socrates for a bounded target rather
+  than taking historical corpus-impact backfill by default;
 - deepen one existing concept page from multiple dated sources,
 - create one new concept page from a mature source-backed seed,
 - update the atlas when the map itself has changed,
@@ -191,11 +192,11 @@ For every selected work item, record in runtime state and PR notes:
 - why this advances the lens map,
 - why this is the right concept boundary,
 - whether this is synthesis, atlas, proposal, durable lens-point, or provenance maintenance.
-- if a newer high-pressure source lacks impact, why this work is more urgent
+- if a fresh high-pressure source lacks impact, why this work is more urgent
   than that missing intake.
-- if no fresh source lacks impact, why the selected historical backfill source
-  was the highest useful pressure point available and how it feeds a concrete
-  concept, split, chronology, or atlas decision.
+- if explicit backfill is active, why the selected historical source was the
+  highest useful pressure point available and how it feeds a concrete concept,
+  split, chronology, or atlas decision.
 - if the last several Plato PRs were compact impact intakes, why this run is
   synthesizing now, or why no public synthesis is ready yet.
 

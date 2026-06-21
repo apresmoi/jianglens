@@ -37,25 +37,32 @@ Do not say "what belongs here" in public pages unless the page is explicitly abo
 
 Do not promote agent interpretation directly into canon. Draft interpretive work in `content/workflow/proposals/`, review it, then promote with `jiang-canon-promotion` when appropriate.
 
-Every published episode should run through `jiang-corpus-impact-pass`. The pass may decide that the episode only adds evidence, or it may justify immediate lens links, concept extension, a new lens seed, atlas morphing, or canon-candidate review. There is no fixed batch threshold.
+Every new independent published source should run through
+`jiang-corpus-impact-pass`. The pass may decide that the source only adds
+evidence, or it may justify immediate lens links, concept extension, a new lens
+seed, atlas morphing, or canon-candidate review. Known duplicate reuploads and
+archive-only raw artifacts do not create new impact obligations.
 
 ## Governance Loop
 
 The corpus should mutate continuously without turning into an append-only pile.
 
-- After every published source, record a corpus-impact decision. Do not wait for
-  arbitrary batches.
-- For historical backfill, choose one bounded source or tightly related cluster
-  per run. Prefer useful compact accounting over shallow bulk completion.
+- After every newly merged independent source, record a corpus-impact decision.
+  Do not wait for arbitrary batches.
+- Historical backfill is paused by default for token budget conservation. Resume
+  it only when the maintainer names a bounded source or tightly related concept
+  cluster, or when a fresh source cannot be interpreted without that older
+  support. Prefer useful compact accounting over shallow bulk completion.
 - Corpus-impact files are feedstock for lens work, not the final product. If a
   worker has produced several compact impact intakes in a row, the next lens
   run should synthesize: deepen a public concept, split/merge an overgrown
   page, write a concept-scoped proposal, add durable lens points, or explain
   why the accumulated impacts still do not justify a public mutation.
-- Backfill order must be concept-pressure driven, not lexical slug order. Do
-  not let `interview-*` sources dominate simply because they sort before
-  `predictive-history-*`; when impact pressure is otherwise comparable, include
-  classroom episodes and interviews in the same concept cluster.
+- When explicit backfill is active, order must be concept-pressure driven, not
+  lexical slug order. Do not let `interview-*` sources dominate simply because
+  they sort before `predictive-history-*`; when impact pressure is otherwise
+  comparable, include classroom episodes and interviews in the same concept
+  cluster.
 - Before expanding a concept page, check whether the page is becoming too large
   to function as a lens. Around 6,000 words or 20 distinct sources, consider a
   split. Around 8,000 words or 25 sources, do not keep appending without an
