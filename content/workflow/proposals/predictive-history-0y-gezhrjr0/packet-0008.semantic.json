@@ -1,0 +1,121 @@
+{
+  "packet_id": "predictive-history-0y-gezhrjr0-semantics-pkt-0008",
+  "source_id": "video:predictive-history-0y-gezhrjr0",
+  "source_date": "2026-06-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0057",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0058",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0059",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0060",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0061",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0062"
+      ],
+      "kind": "exchange",
+      "summary": "A student keeps arguing that endless rain fits gluttony because it is a more-and-more excess that never satisfies, and Jiang keeps rejecting that as punishment without yet yielding the logic of justice.",
+      "speaker_attribution": "Student answer under Jiang cross-examination",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0063",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "A student returns to gluttony as the inability to stop, and Jiang pivots into a workshop exercise where the room invents different possible punishments instead of assuming Dante only wants pain.",
+      "speaker_attribution": "Student answer followed by Jiang pedagogical reset",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang rejects a simple 'tooth for a tooth' account of punishment and keeps pressing for why a punishment would be just rather than merely harsh.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0058",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0062"
+      ],
+      "temporal_scope": "Pedagogical challenge issued in the seminar on 2026-06-21.",
+      "topic_tags": [
+        "justice",
+        "punishment",
+        "gluttony"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student restates gluttony as the condition of continuing to eat or desire past the point where one should stop.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Student definition offered during the seminar on 2026-06-21.",
+      "topic_tags": [
+        "gluttony",
+        "restraint",
+        "desire"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang deliberately asks the room to imagine alternate hell punishments so they can separate creative punishment from Dante's specific logic of justice.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Method prompt given in the seminar on 2026-06-21.",
+      "topic_tags": [
+        "hell design",
+        "imagination",
+        "justice"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0063"
+      ],
+      "moment": "The room's best compact description of gluttony returns: you know better, but you keep going anyway.",
+      "source_phrase": "you're just not able to stop",
+      "why_it_matters": "It keeps the punishment question tied to compulsive appetite rather than to obesity or surface imagery.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0064"
+      ],
+      "moment": "Jiang opens a miniature hell-design studio to show that imagined suffering alone does not explain Dante's choice.",
+      "source_phrase": "if we were designing hell",
+      "why_it_matters": "This is the methodological turn that prepares the packet's later move from punishment to reflective justice.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "tooth for a tooth punishment",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0057"
+      ],
+      "definition_or_usage": "A student's rough frame for symmetrical punishment that Jiang immediately tests for inadequacy.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0058",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0064"
+      ],
+      "note": "On 2026-06-21 Jiang escalates the gluttony discussion from basic analogy into a method question: what makes Dante's punishment just rather than merely inventive.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

@@ -1,0 +1,45 @@
+{
+  "source_slug": "predictive-history-0y-gezhrjr0",
+  "decisions": [
+    {
+      "candidate_id": "seg-0047->seg-0048:move-leading-completion-to-previous:708641676456",
+      "decision": "reject",
+      "reason": "The next segment starts a live exchange rather than completing the interrupted phrase 'And if you -'."
+    },
+    {
+      "candidate_id": "seg-0064->seg-0065:move-leading-completion-to-previous:04564bc14a9d",
+      "decision": "approve",
+      "reason": "Moves the Simpsons example title back to complete 'have you guys ever seen ...'."
+    },
+    {
+      "candidate_id": "seg-0129->seg-0130:move-leading-completion-to-previous:bceb562ba259",
+      "decision": "approve",
+      "reason": "Completes the sentence 'They are very territorial.' across the segment break."
+    },
+    {
+      "candidate_id": "seg-0140->seg-0141:move-leading-completion-to-previous:aa9affc8f89a",
+      "decision": "approve",
+      "reason": "Completes the quoted clause 'she who called the shades back to their bodies'."
+    },
+    {
+      "candidate_id": "seg-0142->seg-0143:move-leading-completion-to-previous:550d664cc4b3",
+      "decision": "reject",
+      "reason": "The proposed completion is garbled ASR/quoted text and is not obvious enough for a safe boundary fix."
+    },
+    {
+      "candidate_id": "seg-0143->seg-0144:move-leading-completion-to-previous:0ad4b8614b74",
+      "decision": "approve",
+      "reason": "Completes the simile beginning 'As frogs confronted by their enemy ...'."
+    },
+    {
+      "candidate_id": "seg-0144->seg-0145:move-leading-completion-to-previous:f9d62c493a57",
+      "decision": "approve",
+      "reason": "Moves 'your hurts?' back to complete the quoted question."
+    },
+    {
+      "candidate_id": "seg-0145->seg-0146:move-leading-completion-to-previous:0298f9e24959",
+      "decision": "approve",
+      "reason": "Completes the description 'so they did here on every side'."
+    }
+  ]
+}

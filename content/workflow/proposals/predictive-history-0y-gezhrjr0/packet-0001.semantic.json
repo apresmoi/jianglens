@@ -1,0 +1,230 @@
+{
+  "packet_id": "predictive-history-0y-gezhrjr0-semantics-pkt-0001",
+  "source_id": "video:predictive-history-0y-gezhrjr0",
+  "source_date": "2026-06-21",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0001",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0002"
+      ],
+      "kind": "exchange",
+      "summary": "A student prompts the Dido question and Jiang answers that Dante names Dido outside Virgil's speech to restore the figure Virgil refuses to name.",
+      "speaker_attribution": "Student prompt followed by Jiang explanation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0003",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0004"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A participant reads Dante's lines on Francesca, Paolo, and the logic of courtly love, ending with Dante fainting from pity.",
+      "speaker_attribution": "Student reading from the poem",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0005"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang reframes the reading as Virgil asking Dante what he thinks after hearing the lovers' self-justification.",
+      "speaker_attribution": "Jiang lecture explanation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0006",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0007"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Another student reads Dante's pitying reply to Francesca and the Lancelot scene where literature becomes the vehicle of the lovers' fall.",
+      "speaker_attribution": "Student reading from the poem",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0008"
+      ],
+      "kind": "question",
+      "summary": "Jiang glosses courtly love, retells the kiss-and-murder sequence, and turns it into the seminar question: what is the difference between love and lust?",
+      "speaker_attribution": "Jiang lecture prompt",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0003",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0004",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0006",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0007"
+      ],
+      "note": "The diarization labels mark the poem reading as one speaker, but the content is quoted Dante text rather than Jiang's own exposition.",
+      "suggested_speaker": "student reader",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Dante names Dido outside Virgil's direct speech in order to restore a figure Virgil refuses to name.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Interpretive claim made in the seminar on 2026-06-21.",
+      "topic_tags": [
+        "Dido",
+        "Virgil",
+        "Dante",
+        "restoration"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He interprets Dante's naming of Dido as an act of rebellion and defiance that foreshadows paradise.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0002"
+      ],
+      "temporal_scope": "Interpretive claim made in the seminar on 2026-06-21.",
+      "topic_tags": [
+        "rebellion",
+        "defiance",
+        "Paradiso foreshadowing"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang frames the Francesca episode as two lovers from Dante's own world explaining that they fell in love, eloped, and were both killed by the husband.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Story recap given on 2026-06-21.",
+      "topic_tags": [
+        "Francesca",
+        "Paolo",
+        "adultery",
+        "murder"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He defines courtly love here as a convention of romantic declaration that is professed but not consummated sexually.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Definition offered in the seminar on 2026-06-21.",
+      "topic_tags": [
+        "courtly love",
+        "romance",
+        "desire"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the lovers' reading of romance stirs the urge to kiss, which leads directly to the husband's retaliatory killing.",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Story recap given on 2026-06-21.",
+      "topic_tags": [
+        "reading",
+        "desire",
+        "violence"
+      ],
+      "claim_type": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0002"
+      ],
+      "moment": "Dante naming Dido becomes a restoration of the person Virgil's shame leaves unspoken.",
+      "source_phrase": "he names Dido somewhere else to restore Dido",
+      "why_it_matters": "It turns a small naming choice into an ethical rebellion against the authority of the guide.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0002"
+      ],
+      "moment": "Jiang ties the Dido move to paradise before the seminar has even fully left the Inferno scene.",
+      "source_phrase": "an act of rebellion, it's an act of defiance that foreshadows paradise",
+      "why_it_matters": "It signals that Dante's liberation from Virgil begins as a subtle moral correction long before the final ascent.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0006",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0007"
+      ],
+      "moment": "The lovers are undone by a book: the Lancelot reading is not background but the mechanism that converts fantasy into action.",
+      "source_phrase": "that day we read no more",
+      "why_it_matters": "It preserves the packet's link between literature, desire, and moral catastrophe.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0008"
+      ],
+      "moment": "Jiang uses the Francesca episode to pivot from plot summary into the core conceptual problem of love versus lust.",
+      "source_phrase": "what's the difference between love and lust",
+      "why_it_matters": "This is the hinge that turns the seminar from reading comprehension into moral psychology.",
+      "tone": "question",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "courtly love",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0008"
+      ],
+      "definition_or_usage": "A romantic convention Jiang describes as publicly professed devotion that is not yet consummated sexually.",
+      "confidence": "high"
+    },
+    {
+      "term": "Dido restoration",
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0002"
+      ],
+      "definition_or_usage": "Jiang's reading that Dante repairs Virgil's silence by naming Dido elsewhere in the poem.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0002",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0008"
+      ],
+      "note": "The June 21, 2026 seminar opens with Dante's treatment of Dido and then quickly anchors the session's first major conceptual problem in the Francesca episode: love versus lust.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0003",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0004",
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0007"
+      ],
+      "note": "The ASR renders repeated 'Love' as 'Loft' and 'Galehaut' as 'a gal halt,' but the quoted Francesca passage remains identifiable."
+    },
+    {
+      "refs": [
+        "video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0008"
+      ],
+      "note": "The tail of seg-0008 contains noisy ASR after Jiang asks about love versus lust; the question itself is still clear."
+    }
+  ]
+}
