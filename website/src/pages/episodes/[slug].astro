@@ -20,7 +20,9 @@ const questions = read.questions ?? [];
 const pageTitle = read.title || episode.title;
 const title = `${pageTitle} | Jiang Lens`;
 const description = metaDescription(read.dek || `A cleaned Jiang Lens reading of ${episode.title}.`);
-const canonicalUrl = absoluteUrl(`/episodes/${episode.slug}/`);
+const publicIndexed = episode.public_indexed !== false;
+const canonicalEpisodeSlug = episode.source_processing_policy?.canonical_source_slug || episode.slug;
+const canonicalUrl = absoluteUrl(`/episodes/${publicIndexed ? episode.slug : canonicalEpisodeSlug}/`);
 const markdownUrl = sourceArtifactUrl('episodes', episode.slug, 'md');
 const textUrl = sourceArtifactUrl('episodes', episode.slug, 'txt');
 const jsonUrl = absoluteUrl(episodeJsonPath(episode.slug));
@@ -48,6 +50,7 @@ const structuredData = {
     <IconLinks />
     <title>{title}</title>
     <meta name="description" content={description} />
+    {!publicIndexed && <meta name="robots" content="noindex, follow" />}
     <link rel="canonical" href={canonicalUrl} />
     <link rel="alternate" type="text/markdown" href={markdownUrl} title="Episode Markdown" />
     <link rel="alternate" type="text/plain" href={textUrl} title="Episode text" />

@@ -3,6 +3,7 @@ import { mkdir, readFile, readdir, rm, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { getSourcePolicy, normalizeSourcePolicy, readSourceProcessingPolicy } from './lib/source-processing-policy.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(__dirname, '../..');
@@ -683,6 +684,22 @@ function publicTranscriptUrl(source, segmentId = '') {
   return segmentId ? `${base}#${segmentId}` : base;
 }
 
+function sourceChannelPath(source) {
+  if (source.channel && typeof source.channel === 'object') {
+    return source.channel.handle || source.channel.id || source.channel.url || '';
+  }
+
+  return source.channel || source.channel_path || '';
+}
+
+function sourceProcessingPolicyForSource(policy, source) {
+  return normalizeSourcePolicy(getSourcePolicy(
+    policy,
+    sourceChannelPath(source),
+    source.video_id || '',
+  ));
+}
+
 function tagSegments(segments, interactions, { slug, sourceUrl, basePath = '/episodes' } = {}) {
   const tagsBySegment = new Map();
   for (const interaction of interactions) {
@@ -705,7 +722,7 @@ function tagSegments(segments, interactions, { slug, sourceUrl, basePath = '/epi
   }));
 }
 
-async function buildEpisodeData(semanticFile, lensPointById = new Map()) {
+async function buildEpisodeData(semanticFile, lensPointById = new Map(), sourceProcessingPolicy) {
   const aggregate = JSON.parse(await readFile(semanticFile, 'utf8'));
   const sourcePath = path.join(repoRoot, aggregate.generated_from.source_path);
   const transcriptPath = path.join(repoRoot, aggregate.generated_from.transcript_path);
@@ -730,6 +747,8 @@ async function buildEpisodeData(semanticFile, lensPointById = new Map()) {
   const pathBase = publicBaseForCollection(collection);
   const sourceUrl = source.source_url || aggregate.source_url;
   const read = await readEpisodeRead(aggregate.source_slug, segmentByRef, lensPointById);
+  const processingPolicy = sourceProcessingPolicyForSource(sourceProcessingPolicy, source);
+  const publicIndexed = processingPolicy.processable && processingPolicy.counts_as_independent_source !== false;
 
   const predictions = claims.filter((claim) => claim.claim_type === 'prediction');
   const models = claims.filter((claim) => claim.claim_type === 'model');
@@ -758,6 +777,10 @@ async function buildEpisodeData(semanticFile, lensPointById = new Map()) {
     path: `${pathBase}/${aggregate.source_slug}/`,
     transcript_path: `${pathBase}/${aggregate.source_slug}/transcript/`,
     data_url: `/data/lens/${collection}/${aggregate.source_slug}.json`,
+    ...(publicIndexed ? {} : {
+      public_indexed: false,
+      source_processing_policy: processingPolicy,
+    }),
     counts: {
       ...aggregate.counts,
       glossary_candidates: aggregate.counts.glossary_terms,
@@ -813,9 +836,10 @@ async function writeEpisodeData(lensPointById = new Map()) {
   };
   const sources = [];
   const transcriptSearchSegments = [];
+  const sourceProcessingPolicy = await readSourceProcessingPolicy(repoRoot);
 
   for (const semanticFile of semanticFiles) {
-    const source = await buildEpisodeData(semanticFile, lensPointById);
+    const source = await buildEpisodeData(semanticFile, lensPointById, sourceProcessingPolicy);
     const collection = source.collection === 'interviews' ? 'interviews' : 'episodes';
     const outputRoot = collectionRoots[collection];
     const outputPath = path.join(outputRoot, `${source.slug}.json`);
@@ -844,30 +868,37 @@ async function writeEpisodeData(lensPointById = new Map()) {
       transcript_text_path: `${publicBase}/${source.slug}/transcript.txt`,
       data_url: `/data/lens/${collection}/${source.slug}.json`,
       data_path: `website/src/data/lens/${collection}/${source.slug}.json`,
+      ...(source.public_indexed === false ? {
+        public_indexed: false,
+        source_processing_policy: source.source_processing_policy,
+      } : {}),
     };
-    collectionEntries[collection].push(entry);
     sources.push(entry);
 
-    for (const segment of source.transcript ?? []) {
-      transcriptSearchSegments.push({
-        slug: source.slug,
-        title: sourceTitle,
-        source_title: source.title,
-        source_class: source.source_class,
-        collection,
-        published_at: source.published_at,
-        date_label: source.date_label,
-        episode_url: entry.path,
-        transcript_url: segment.transcript_url,
-        video_url: segment.video_url,
-        segment_id: segment.id,
-        source_ref: segment.source_ref,
-        start: segment.start,
-        end: segment.end,
-        time_label: segment.time_label,
-        speaker: segment.speaker ?? null,
-        text: segment.text,
-      });
+    if (source.public_indexed !== false) {
+      collectionEntries[collection].push(entry);
+
+      for (const segment of source.transcript ?? []) {
+        transcriptSearchSegments.push({
+          slug: source.slug,
+          title: sourceTitle,
+          source_title: source.title,
+          source_class: source.source_class,
+          collection,
+          published_at: source.published_at,
+          date_label: source.date_label,
+          episode_url: entry.path,
+          transcript_url: segment.transcript_url,
+          video_url: segment.video_url,
+          segment_id: segment.id,
+          source_ref: segment.source_ref,
+          start: segment.start,
+          end: segment.end,
+          time_label: segment.time_label,
+          speaker: segment.speaker ?? null,
+          text: segment.text,
+        });
+      }
     }
   }
 
@@ -907,7 +938,7 @@ async function writeEpisodeData(lensPointById = new Map()) {
     counts: {
       episodes: collectionEntries.episodes.length,
       interviews: collectionEntries.interviews.length,
-      sources: sources.length,
+      sources: collectionEntries.episodes.length + collectionEntries.interviews.length,
       segments: transcriptSearchSegments.length,
     },
     segments: transcriptSearchSegments,
