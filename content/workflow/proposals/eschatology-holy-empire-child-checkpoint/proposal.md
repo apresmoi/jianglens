@@ -9,7 +9,7 @@ Public page measured: `website/src/content/docs/lens/eschatology.md`
 
 Keep **Eschatology As Script** as the first crowded page to review, but do **not** create a **Holy Empire / Obedient AI** child page now.
 
-The current page is still below the authored split line: about 4,593 raw Markdown words, 53 `evidence=` attributes, 13 lens-point anchors, and 17 distinct local video slugs by direct scan. The page is dense enough to remain under split watch, but the Holy Empire / AI obedience branch is not the branch forcing a public split. Its public load is one compact parent section, one stable anchor, and five episode marks, concentrated in the March 9 Sneako interview and the May 19 Holy Empire lecture.
+The current page is still below the authored split line: about 4,593 raw Markdown words, 82 `evidence=` attributes, 13 lens-point anchors, and 17 distinct local video slugs by direct scan. The page is dense enough to remain under split watch, but the Holy Empire / AI obedience branch is not the branch forcing a public split. Its public load is one compact parent section, one stable anchor, and five episode marks, concentrated in the March 9 Sneako interview and the May 19 Holy Empire lecture.
 
 The current decision is therefore:
 
@@ -21,7 +21,7 @@ Socrates asked which crowded public page Plato should review first among **Atten
 
 | Page | Authored words | Evidence attrs | Lens-point anchors | Distinct local video slugs | Judgment |
 | --- | ---: | ---: | ---: | ---: | --- |
-| Eschatology As Script | 4,593 | 53 | 13 | 17 | first split-boundary target |
+| Eschatology As Script | 4,593 | 82 | 13 | 17 | first split-boundary target |
 | Attention Capture As Capital Extraction | about 4,830 | about 88 | 11 | 15 | dense but cleaner parent routing |
 | Education As A Soul Game | about 4,829 | about 69 | 10 | 14 | dense but fresher hold decisions |
 
