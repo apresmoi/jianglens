@@ -1,0 +1,172 @@
+{
+  "packet_id": "predictive-history-r526-wug3me-semantics-pkt-0009",
+  "source_id": "video:predictive-history-r526-wug3me",
+  "source_date": "2026-06-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0065"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang glosses the divine point as both source and perimeter, then argues that human imagination uniquely participates in creation itself.",
+      "speaker_attribution": "Jiang interpretation of Paradiso 30",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0066",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0067"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A participant reads Dante's confession that Beatrice's beauty defeats memory, mind, and poetic capacity.",
+      "speaker_attribution": "Participant reading Dante aloud",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0068",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0069",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0070",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0071",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0072"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks why Dante wants to describe Beatrice in poetry, and participants answer that poetry expresses how wonderful she is and how much he loves her.",
+      "speaker_attribution": "Jiang-led classroom exchange",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0065"
+      ],
+      "note": "ASR forms like 'Don' and 'Imperium' should be normalized downstream to Dante and Empyrean.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0071",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0072"
+      ],
+      "note": "The brief UNKNOWN interjection at seg-0071 is just a fragment before the fuller audience answer at seg-0072.",
+      "suggested_speaker": "Audience participant",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang identifies the divine point as both origin and boundary: God is at once the source of being and the perimeter that contains the universe.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Lecture model on 2026-06-20.",
+      "topic_tags": ["God", "point", "origin", "perimeter", "being", "becoming"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Human imagination enlarges the universe's perimeter and therefore participates in creation in a way Jiang presents as uniquely human.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0065"
+      ],
+      "temporal_scope": "Lecture model on 2026-06-20.",
+      "topic_tags": ["imagination", "creation", "human exception", "participation"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The reading presents Beatrice's beauty as exceeding memory and poetic representation, so Dante reaches the point where he must stop praising her in verse.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0066",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Quoted poem discussed on 2026-06-20.",
+      "topic_tags": ["Beatrice", "beauty", "memory", "poetic limit"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames poetry as the fullest expression of love because it lets the lover's imagination show how worthy and wonderful the beloved is.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0070",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Lecture and audience exchange on 2026-06-20.",
+      "topic_tags": ["poetry", "love", "expression", "imagination", "Beatrice"],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0065"
+      ],
+      "moment": "God is both the Big Bang and the boundary, while imagination pushes the universe's edge outward from inside creation.",
+      "source_phrase": "God. Is. A. Source. A. Big. Bang. But. Also. God. Is. The. Perimeter",
+      "why_it_matters": "It condenses Jiang's cosmology into one startling image that links divinity, cosmos, and human making.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0065"
+      ],
+      "moment": "Imagination is not decoration but a human share in creation itself.",
+      "source_phrase": "We. Humans. Participate. In. The. Creation. Process. Ourselves",
+      "why_it_matters": "This is one of the packet's strongest metaphysical claims and will matter for the public read.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0070",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0072"
+      ],
+      "moment": "Poetry becomes the lover's highest act because it is how love tries to give the beloved the largest possible form.",
+      "source_phrase": "Your. Fullest. Expression. Of. Your. Love",
+      "why_it_matters": "It bridges Dante's exhausted praise of Beatrice with Jiang's account of poetry as love's peak medium.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "divine point",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0065"
+      ],
+      "definition_or_usage": "Jiang's gloss on God as both originating point and encompassing perimeter of the universe.",
+      "confidence": "high"
+    },
+    {
+      "term": "participation in creation",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0065"
+      ],
+      "definition_or_usage": "Jiang's claim that human imagination actively joins the creative expansion of reality.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0065",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0070"
+      ],
+      "note": "This packet moves from Jiang's cosmological reading of the Empyrean to his classroom account of poetry as the fitting response to Beatrice's beauty.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0070"
+      ],
+      "note": "The ASR around Jiang's question is noisy, but the argumentative function is clear: he is asking why poetry is the fullest expression of love."
+    }
+  ]
+}

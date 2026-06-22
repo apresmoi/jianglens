@@ -1,0 +1,220 @@
+{
+  "source_slug": "predictive-history-r526-wug3me",
+  "decisions": [
+    {
+      "candidate_id": "seg-0006->seg-0007:move-leading-completion-to-previous:52abfe13244a",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0007->seg-0008:move-leading-completion-to-previous:fcc11000b53c",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0010->seg-0011:move-leading-completion-to-previous:921a8c48c6d2",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0012->seg-0013:move-leading-completion-to-previous:04f2ba6b115a",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0013->seg-0014:move-leading-completion-to-previous:b02f643b3e62",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0016->seg-0017:move-leading-completion-to-previous:2edae6da1df8",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0022->seg-0023:move-leading-completion-to-previous:1358340d1c0d",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0101->seg-0102:move-trailing-starter-to-next:bf2babb06bf7",
+      "decision": "approve",
+      "reason": "Moves the dangling sentence starter onto the next segment where the sentence actually continues."
+    },
+    {
+      "candidate_id": "seg-0152->seg-0153:move-leading-completion-to-previous:0052500dfce0",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0155->seg-0156:move-leading-completion-to-previous:ac0955832362",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0157->seg-0158:move-leading-completion-to-previous:60a840da3c3e",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0197->seg-0198:move-leading-completion-to-previous:421cc2b0de32",
+      "decision": "reject",
+      "reason": "Proposed move includes a fresh explanatory turn after the completion, so the safe boundary is not obvious."
+    },
+    {
+      "candidate_id": "seg-0219->seg-0220:move-trailing-starter-to-next:9475bd8c26eb",
+      "decision": "approve",
+      "reason": "Moves the dangling sentence starter onto the next segment where the sentence actually continues."
+    },
+    {
+      "candidate_id": "seg-0228->seg-0229:move-leading-completion-to-previous:150df622fef0",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0233->seg-0234:move-leading-completion-to-previous:0cbad05d4698",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0271->seg-0272:move-leading-completion-to-previous:b6c37ac7772e",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0272->seg-0273:move-leading-completion-to-previous:5ab41ef71692",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0285->seg-0286:move-leading-completion-to-previous:43b078df3714",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0294->seg-0295:move-trailing-starter-to-next:d3b8121d4f8d",
+      "decision": "approve",
+      "reason": "Moves the dangling sentence starter onto the next segment where the sentence actually continues."
+    },
+    {
+      "candidate_id": "seg-0301->seg-0302:move-leading-completion-to-previous:d13f9ec347b3",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0310->seg-0311:move-leading-completion-to-previous:9ee46477a1f1",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0321->seg-0322:move-leading-completion-to-previous:ac143522d128",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0330->seg-0331:move-leading-completion-to-previous:aa1e3271c6ea",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0351->seg-0352:move-leading-completion-to-previous:443d4ed34c76",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0383->seg-0384:move-leading-completion-to-previous:e1e29fdaf773",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0392->seg-0393:move-leading-completion-to-previous:4b696ce3c952",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0394->seg-0395:move-leading-completion-to-previous:3ed5a145f1f0",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0395->seg-0396:move-leading-completion-to-previous:b6a0ed43b898",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0396->seg-0397:move-leading-completion-to-previous:3b31e672ef92",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0463->seg-0464:move-leading-completion-to-previous:b73305461873",
+      "decision": "reject",
+      "reason": "Moving only \"fellowship\" does not clearly resolve the sentence and leaves the next segment structurally awkward."
+    },
+    {
+      "candidate_id": "seg-0464->seg-0465:move-leading-completion-to-previous:a73f7acb0af1",
+      "decision": "reject",
+      "reason": "The next segment starts with obvious ASR damage, so the completion is not reliable enough to approve."
+    },
+    {
+      "candidate_id": "seg-0465->seg-0466:move-leading-completion-to-previous:d5344f95b480",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0466->seg-0467:move-leading-completion-to-previous:f5efb67067b7",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0471->seg-0472:move-leading-completion-to-previous:3bd4582791a9",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0474->seg-0475:move-leading-completion-to-previous:30fedee0268c",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0476->seg-0477:move-leading-completion-to-previous:a7f665afd293",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0477->seg-0478:move-leading-completion-to-previous:a7f665afd293",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0478->seg-0479:move-leading-completion-to-previous:a7f665afd293",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0493->seg-0494:move-leading-completion-to-previous:5875a865e280",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0495->seg-0496:move-trailing-starter-to-next:326d496eb750",
+      "decision": "approve",
+      "reason": "Moves the dangling sentence starter onto the next segment where the sentence actually continues."
+    },
+    {
+      "candidate_id": "seg-0510->seg-0511:move-leading-completion-to-previous:4ed9bc66bb95",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0513->seg-0514:move-leading-completion-to-previous:6bb54ff5820a",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    },
+    {
+      "candidate_id": "seg-0518->seg-0519:move-leading-completion-to-previous:890af3d6161b",
+      "decision": "approve",
+      "reason": "Moves the dangling completion onto the sentence it clearly finishes."
+    }
+  ]
+}
