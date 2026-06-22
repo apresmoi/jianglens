@@ -77,35 +77,25 @@ This belongs here rather than only on the story-control page because the myth su
 
 ## Oligarchy Can Cry For A Monarch
 
-The November 4, 2025 David Lin interview gives the mechanism its earlier American recurrence. Jiang starts from engineered economic crash and debt pressure, then says [the people cry for a king because a king can unite them against oligarchy and cancel debt]{evidence="video:interview-lst0wo6qrki@transcript:v1#seg-0001"}. Later in the same interview he makes the regime choice explicit: [the choice is not monarchy versus democracy, but monarchy versus oligarchy]{evidence="video:interview-lst0wo6qrki@transcript:v1#seg-0031"}. Debt cancellation is not decoration in this model. It is the legitimacy bait: when a system feels rigged for the top layer, personal rule can appear as relief from the oligarchic game rather than as only domination.
+The November 4, 2025 David Lin interview gives the mechanism its earlier American recurrence. Jiang starts from engineered economic crash and debt pressure, then says [the people cry for a king because a king can unite them against oligarchy and cancel debt]{evidence="video:interview-lst0wo6qrki@transcript:v1#seg-0001"}. The regime choice is not monarchy versus democracy, he says, but [monarchy versus oligarchy]{evidence="video:interview-lst0wo6qrki@transcript:v1#seg-0031"}. That is the legitimacy bait: when the economy feels rigged for the top layer, personal rule can look like relief from the oligarchic game.
 
-The January 17, 2026 interview on world-war pressure then gives the same Napoleon mechanism a live American recurrence with more Roman staging. Jiang starts from the Greek regime cycle: oligarchy grows corrupt, a kingly figure rallies the people against debt and disorder, monarchy later corrupts, democracy returns, and democracy eventually decays back into oligarchy. His dated claim is that America has already reached the oligarchic phase: [a few people control the wealth, producing dismay and despair]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0046"}.
-
-That despair changes what legitimacy can feel like. Jiang says [people are crying for a monarch to relieve debt, corruption, and leaderlessness]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0047"}. In his reading, Trump sees that as the opening to become king of America. The legitimacy material is myth before it is policy: a desperate public, performed conquest, and easy victories displayed as proof that decision has returned.
-
-The Maduro sequence is useful because it shows how a legitimacy fiction can be strategically foolish and still mythically attractive. Jiang calls the operation unnecessary because Maduro was already willing to deal, and he says the spectacle insulted Venezuela and South America. But the same insult could be staged domestically as a Roman scene: [Maduro was paraded through New York as though it was a triumph]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0048"}. A body in a parade becomes evidence that the king can act while [Congress has become too dysfunctional to check him]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0051"}.
+The January 17, 2026 interview gives the same mechanism a Roman stage. Jiang says America has reached the oligarchic phase where [a few people control the wealth, producing dismay and despair]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0046"}, so people begin [crying for a monarch to relieve debt, corruption, and leaderlessness]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0047"}. Easy victory then becomes mythic proof that decision has returned: Maduro can be [paraded through New York as though it was a triumph]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0048"} while [Congress has become too dysfunctional to check him]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0051"}.
 
 <!-- lens-point id="legitimacy-fiction-monarchy-relieves-oligarchic-despair" concept="legitimacy-fiction" evidence="video:interview-lst0wo6qrki@transcript:v1#seg-0001 video:interview-lst0wo6qrki@transcript:v1#seg-0031 video:interview-lst0wo6qrki@transcript:v1#seg-0032 video:interview-id4whhypcuy@transcript:v1#seg-0046 video:interview-id4whhypcuy@transcript:v1#seg-0047 video:interview-id4whhypcuy@transcript:v1#seg-0048 video:interview-id4whhypcuy@transcript:v1#seg-0051 video:interview-id4whhypcuy@transcript:v1#seg-0054 video:interview-id4whhypcuy@transcript:v1#seg-0118 video:interview-id4whhypcuy@transcript:v1#seg-0122" -->
 <span id="legitimacy-fiction-monarchy-relieves-oligarchic-despair" class="lens-point-anchor"></span>
 Monarchy becomes legitimacy fiction when oligarchic decay makes people experience personal rule as relief: debt cancellation, anti-oligarch unity, easy victories, triumph spectacle, institutional impotence, and a leader's claimed inner morality replace ordinary constitutional checks.
 
-The closing Q&A supplies the constitutional edge. Jiang says a third-term maneuver in 2028 would be [a crossing of the Rubicon that blows political convention and constitutional checks out the door]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0118"}. When the host says the joke now feels plausible, Jiang answers: [he is not joking]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0120"}. The sharpest line is the legitimacy substitution: [the only check on me is my own morality]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0122"}. The fiction has changed from rule-bound citizenship to personal restraint.
+The constitutional edge comes when Jiang says a third-term maneuver in 2028 would be [a crossing of the Rubicon that blows political convention and constitutional checks out the door]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0118"}. The legitimacy substitution is severe: [the only check on me is my own morality]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0122"}. The fiction has moved from rule-bound citizenship to personal restraint.
 
 This belongs here because crisis makes personal rule feel like order. [Nation As God-Machine](/lens/nation-as-god-machine/) owns national population machinery; [When War Becomes A Story Instead Of A Material Test](/lens/when-war-becomes-a-story-instead-of-a-material-test/) owns the material failure of easy victory; [Bureaucracy As Institutional Death](/lens/bureaucracy-as-institutional-death/) owns Congress becoming [careerist and inert]{evidence="video:interview-id4whhypcuy@transcript:v1#seg-0051 video:interview-id4whhypcuy@transcript:v1#seg-0052"}; [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) owns population-scale domination.
 
 ## The Savior Can Be False
 
-The undated Russia Today interview sharpens the American recurrence by tying Trump directly back to the Roman collapse pattern. Asked what Trump signifies as a political force, Jiang does not begin with personality. He says Trump is historically similar to Julius Caesar because Caesar was [a false messiah of the Roman people]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0018"}.
+The undated Russia Today interview sharpens the American recurrence by tying Trump directly back to the Roman collapse pattern. Jiang calls Caesar [a false messiah of the Roman people]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0018"}: elites are corrupt, the people beg for a savior, and the empire wants [a great warrior to lead it out of chaos]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0018"}. The phrase keeps the messiah image from becoming praise. The figure arises from a real legitimacy crisis, but does not heal the contradiction that summoned him.
 
-The phrase matters because it keeps the messiah image from becoming praise. In Jiang's comparison, the Roman Republic is divided, elites and people cannot get along, elites are exploitative and corrupt, and the people are begging for a savior. Hegemony is also under strain, so the empire wants [a great warrior to lead it out of chaos]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0018"}. The savior fiction arises from a real legitimacy crisis. It is false because the figure does not heal the contradiction that summoned him.
+Jiang maps the same grammar onto Trump: many Americans believe Trump will [go to war against the elite and create a much more democratic America]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0018"}, while Jiang says the United States is already a corrupt oligarchy. The April 1, 2026 Kim Iversen interview makes the domestic branch explicit: America is [heading toward civil war with no easy exit]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0040"}, and the Caesar comparison runs through imperial war, loyal soldiers, elite prosecution, [Rubicon-crossing military dictatorship]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0042"}, [loyal-force tests]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0043"}, and [debt cancellation when parties offer no repair]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0044"}.
 
-Jiang then maps the same grammar onto Trump: many Americans believe Trump will [go to war against the elite and create a much more democratic America]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0018"}, while Jiang says the United States is already a corrupt oligarchy. The decisive forecast is not simply "authoritarian leader appears." It is that the Caesar figure carries unresolved oligarchic conflict into open rupture: Trump is "very much a Julius Caesar figure" and [will probably ignite a civil war in America]{evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0018"}.
-
-The May 19, 2026 Freemasonry lecture gives the same pattern a technocratic form. Reading Brzezinski, Jiang says persistent social crisis, mass media, a charismatic personality, and economic anger can make people [demand a Napoleon or Julius Caesar to lead them into dictatorship]{evidence="video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0053"}. The novelty is that the Caesar figure is no longer only a personal myth. In this source, the demanded dictator becomes the passage into a controlled technocracy: the public asks for order, the charismatic figure supplies confidence, and the AI surveillance state arrives as the promised solution to democratic crisis.
-
-The April 1, 2026 Kim Iversen interview adds a nearer domestic branch without making a separate Trump Caesar concept. Jiang first says America is [heading toward civil war with no easy exit]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0040"}, then compares Trump to Caesar through imperial war, loyal soldiers, elite prosecution, and [Rubicon-crossing military dictatorship]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0042"}. The legitimacy bait is the same monarchy-versus-oligarchy choice as the January interview, but now the machinery is more explicit: [ICE and the National Guard can become loyal-force tests]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0043"}, while [debt cancellation makes monarchy feel like repair when parties offer no solution]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0044"}.
-
-That source also shows why the false-savior branch cannot be scored as one broad "civil war" prophecy. Jiang routes the danger through conditions: ICE testing secret-police possibility and national guard deployment creating [conditions for martial law]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0048"}, [chaos helping power consolidate]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0052"}, [elite factions benefiting from street conflict]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0059"}, and civil war functioning as [an oligarchic insurance fire when a debt-ridden house can be burned for payout]{evidence="video:interview-t5cnf8dqj-q@transcript:v1#seg-0061"}. Legitimacy fiction owns the Caesar claim only at the rescue-story layer: crisis makes personal rule feel like the answer. [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) owns the control grid; [Game Theory](/lens/game-theory/) owns factional street payoff; [Debt As Sovereignty](/lens/debt-as-sovereignty/) and [Power As Alchemy](/lens/power-as-alchemy/) own the debt-fire incentive.
+The May 19, 2026 Freemasonry lecture gives the same pattern a technocratic form. Reading Brzezinski, Jiang says persistent social crisis, mass media, a charismatic personality, and economic anger can make people [demand a Napoleon or Julius Caesar to lead them into dictatorship]{evidence="video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0053"}. Legitimacy fiction owns this branch only at the rescue-story layer. [Mass Society As Political Constraint](/lens/mass-society-as-political-constraint/) owns the control grid; [Game Theory](/lens/game-theory/) owns factional street payoff; [Debt As Sovereignty](/lens/debt-as-sovereignty/) and [Power As Alchemy](/lens/power-as-alchemy/) own the debt-fire incentive.
 
 <!-- lens-point id="legitimacy-fiction-false-messiah-savior" concept="legitimacy-fiction" evidence="video:interview-qsxkdk4mzgk@transcript:v1#seg-0018 video:interview-t5cnf8dqj-q@transcript:v1#seg-0040 video:interview-t5cnf8dqj-q@transcript:v1#seg-0042 video:interview-t5cnf8dqj-q@transcript:v1#seg-0044 video:interview-t5cnf8dqj-q@transcript:v1#seg-0048 video:predictive-history-rg1clzlrfoo@transcript:v1#seg-0053" -->
 <span id="legitimacy-fiction-false-messiah-savior" class="lens-point-anchor"></span>
@@ -193,75 +183,34 @@ This is why the American case also belongs with nation-as-god-machine and power-
 
 ## Diagnostics
 
-Ask what crisis the fiction solved. Caesar solves Rome's imperial-republic contradiction; David solves a dynastic scandal; the Holy Roman Empire solves Europe's fractured legitimacy; Napoleon solves the post-revolutionary desire for a messiah; Cyrus solves the rebellion problem of terror empire; national credit solves the trust crisis created by personal royal borrowing; America solves the limits of ethnic, gold-backed, island empire.
+Ask what crisis the fiction solved and what it made inheritable. Caesar solves Rome's imperial-republic contradiction; David solves a dynastic scandal; the Holy Roman Empire solves Europe's fractured legitimacy; Napoleon solves the post-revolutionary desire for a messiah; Cyrus solves the rebellion problem of terror empire; national credit solves the trust crisis created by personal royal borrowing; America solves the limits of ethnic, gold-backed, island empire. Names, offices, constitutions, scriptures, currencies, titles, rituals, debts, and wounds matter because people who were not present at the founding crisis can still inherit them.
 
-Ask who needs the fiction to be true. A fiction becomes durable when several actors benefit from inhabiting it, even if they disagree about its meaning.
+Ask who needs the fiction to be true, and what gets hidden by its success. A fiction becomes durable when several actors benefit from inhabiting it, even if they disagree about its meaning. It may preserve guilt, class advantage, conquest, exclusion, dependency, rule control, or authorized memory under the language of love, unity, mercy, law, sacred order, return, purity, or fair play.
 
-Ask what the fiction makes inheritable. Names, offices, constitutions, scriptures, currencies, titles, rituals, and wounds matter because they can be passed to people who were not present at the founding crisis.
+Ask what receiving grammar turns an act into legitimacy. Mercy can become release, gratitude, humiliation, contempt, or vengeance depending on whether the audience experiences the ruler as savior, arbiter, patron, rival, or superior. A feud, insult, betrayal, or impossible alliance can become proof of maturity, forgiveness, listening, unity, or changed character only for an audience prepared to read the reversal that way.
 
-Ask what gets hidden or edited by legitimacy. The fiction may preserve guilt, class advantage, conquest, exclusion, dependency, rule control, or authorized memory under the language of love, unity, mercy, law, sacred order, return, purity, or fair play.
+Ask what office has lost credibility and what savior is being demanded. If parliament, Congress, court, party, or bureaucracy no longer feels capable of decision, personal rule can be sold as relief from oligarchic drift. If people beg for a warrior who will punish elites, restore democracy, or rescue hegemony, test whether the figure can reconcile the republic or only personifies the unresolved fracture.
 
-Ask what status grammar receives the act. Mercy can become release, gratitude, humiliation, contempt, or vengeance depending on whether the audience experiences the ruler as savior, arbiter, patron, rival, or superior.
-
-Ask what antagonism is being converted. If a feud, insult, betrayal, or apparent impossibility is followed by reconciliation, ask which audience is supposed to read the reversal as proof of maturity, mercy, listening, unity, or changed character.
-
-Ask what office has lost credibility and what kind of savior is being demanded. If parliament, Congress, court, party, or bureaucracy no longer feels capable of decision, ask whether personal rule is being sold as relief from oligarchic drift. If people beg for a warrior who will punish elites, restore democracy, or rescue hegemony, ask whether the figure can reconcile the republic or only personifies the unresolved fracture.
-
-Ask what glue remains when the story fails or demands dictatorship. If money is the only common bond, external enemies no longer unify the public, and manufactured threats read as gaslighting, ask whether the order can still make sacrifice, patience, and obedience feel legitimate. When crisis is presented as proof that ordinary democracy cannot govern, ask who becomes the Caesar figure and what controlled order enters through that demand.
-
-Ask what obligation has been made continuous. If debt, law, title, guilt, or office survives the ruler who created it, ask which political body is now imagined as the inheritor and who is made liable for repayment.
-
-Ask when the fiction stops working. Legitimacy breaks when the story no longer matches experience, when the beneficiaries no longer need the alliance, when the myth requires more action than the material world can support, when a rival myth becomes emotionally stronger, or when the game board can no longer expand.
+Ask when the fiction stops working. Legitimacy breaks when the story no longer matches experience, when beneficiaries no longer need the alliance, when the myth requires more action than the material world can support, when a rival myth becomes emotionally stronger, when money is the only remaining glue, or when the game board can no longer expand.
 
 ## Source Trail
 
-- **2024-05-17**, [The Haley Bet as Political Theater](/episodes/predictive-history-exrk-85630k/)
-  The Haley prediction source supplies a modern electoral optics case: a visible feud can make later reconciliation function as evidence of changed character and trustworthiness.
-
-- **2024-11-12**, [Civilization #15: The Myth-Making Genius of Julius Caesar](/episodes/predictive-history-f8qqgsefggc/)  
-  Caesar supplies the core model of the myth maker who constructs a new reality that absorbs and alters the old one.
-
-- **2024-11-19**, [Civilization #16: Julius Caesar's Will and Octavian's Birth of Empire](/episodes/predictive-history-dc54iqur7ik/)  
-  Octavian shows the afterlife of myth: Caesar's death turns the myth into reality and transfers political love to the heir. The same source adds the Roman honor countercase: Caesar's mercy toward Cassius can be read as contempt rather than reconciliation.
-
-- **2024-12-05**, [Civilization #21: The Apology of King David of Israel](/episodes/predictive-history-rkpgrrugjnk/)  
-  David's apology shows how royal crisis management can become scripture and durable leadership literature.
-
-- **2024-12-12**, [Civilization #23: Cyrus the Great as Messiah](/episodes/predictive-history-hvvtntpzq7e/)  
-  Cyrus shows mercy as imperial legitimacy technology and as a foreign ruler's entry into saved people's sacred memory.
-
-- **2025-02-27**, [Civilization #34: The Useful Fiction of the Holy Roman Empire](/episodes/predictive-history-1dwvgtc7xzy/)  
-  The Holy Roman Empire names the mechanism directly: useful fiction can coordinate legitimacy and unity where conquest cannot.
-
-- **2025-04-29**, [Civilization #48: Napoleon's Empire of Myth](/episodes/predictive-history-eneet-0j-y8/)
-  Napoleon shows the danger of a personal myth that has to keep producing action and war after republican authority breaks down.
-
-- **2025-05-08**, [The Island That Had To Innovate](/episodes/predictive-history-lagsxfvlofk/)
-  Britain's Bank of England mechanism shows national credit as legitimacy fiction: Parliament, nation, and people replace the mortal king as debtor, letting trust survive succession and become war finance.
-
-- **2025-11-18**, [Secret History #19: Dawn of the Jews](/episodes/predictive-history-3t0mevbd24i/)
-  The Bible-as-imperial-script source adds identity editing: imperial authorization, return, temple, law, purity, and written memory can make a managed people durable enough to inherit and later reuse the script.
-
-- **2025-12-13**, [Trump's Venezuela Game, AI Empire, And Civil War Forecast](/interviews/interview-pnt-6v5m1wa/)
-  The anti-civilization close gives the collapse version: when money is the only glue, oligarchic extraction blocks opportunity, external-enemy stories fail, and manufactured threats read as elite gaslighting, the inherited fiction no longer binds the public world.
-
-- **2025-11-04**, [Controlled Implosion, Programmable Money, And The People Who Cry For A King](/interviews/interview-lst0wo6qrki/)
-  The earlier David Lin recurrence states the monarchy-versus-oligarchy reversal before the January 2026 Roman-staging version: an engineered crash, debt pressure, and a rigged oligarchic economy can make a king feel like the figure who cancels debts and unites people against oligarchs.
-
-- **2026-01-17**, [World War As Ponzi Collapse, Kingship, And Chokepoint Empire](/interviews/interview-id4whhypcuy/)
-  The modern American recurrence shows oligarchic decay making monarchy emotionally legible: easy victories, Roman triumph imagery, inert checks and balances, and third-term Rubicon talk all become material for personal legitimacy.
-
-- **2026-01-27**, [Game Theory #7: America's Game](/episodes/predictive-history-ijnkct1qk6k/)  
-  America updates the concept into a modern rule-system: a national game whose legitimacy rests on rights, money, citizenship, and the general will.
-
-- **2026-04-01**, [The Safe Place Is Not A Place](/interviews/interview-t5cnf8dqj-q/)
-  The Kim Iversen domestic-Caesar packet adds a split branch to the American recurrence: civil-war fear, loyal-force testing, ICE and National Guard normalization, martial-law conditions, and debt-fire incentives make emergency authority feel like rescue from oligarchic failure.
-
-- **2026-05-19**, [Freemasonry, Techno-Marxism, And The Holy Empire Of AI](/episodes/predictive-history-rg1clzlrfoo/)
-  Brzezinski's crisis-management passage gives the false-messiah mechanism a technocratic recurrence: social crisis, mass media, and a charismatic personality make the public demand a Napoleon or Julius Caesar who can lead into dictatorship and a controlled society.
-
-- **Undated**, [History Must Predict Or It Becomes Propaganda](/interviews/interview-qsxkdk4mzgk/)
-  The Russia Today interview sharpens the Caesar recurrence: Trump appears as a false messiah when oligarchic decay makes Americans want a warrior against corrupt elites, but Jiang says that role likely accelerates civil-war logic rather than restoring the republic.
+- **2024-05-17**, [The Haley Bet as Political Theater](/episodes/predictive-history-exrk-85630k/) - modern electoral optics: a visible feud can make later reconciliation look like changed character.
+- **2024-11-12**, [Civilization #15: The Myth-Making Genius of Julius Caesar](/episodes/predictive-history-f8qqgsefggc/) - Caesar supplies the core model of the myth maker who constructs a new reality.
+- **2024-11-19**, [Civilization #16: Julius Caesar's Will and Octavian's Birth of Empire](/episodes/predictive-history-dc54iqur7ik/) - Octavian shows myth after death; the same source gives the Roman honor countercase where mercy reads as contempt.
+- **2024-12-05**, [Civilization #21: The Apology of King David of Israel](/episodes/predictive-history-rkpgrrugjnk/) - David shows royal crisis management becoming scripture and leadership literature.
+- **2024-12-12**, [Civilization #23: Cyrus the Great as Messiah](/episodes/predictive-history-hvvtntpzq7e/) - Cyrus shows mercy as imperial legitimacy technology and foreign entry into saved people's sacred memory.
+- **2025-02-27**, [Civilization #34: The Useful Fiction of the Holy Roman Empire](/episodes/predictive-history-1dwvgtc7xzy/) - the Holy Roman Empire names the mechanism directly: useful fiction coordinates unity where conquest cannot.
+- **2025-04-29**, [Civilization #48: Napoleon's Empire of Myth](/episodes/predictive-history-eneet-0j-y8/) - Napoleon shows a personal myth that has to keep producing action after republican authority breaks down.
+- **2025-05-08**, [The Island That Had To Innovate](/episodes/predictive-history-lagsxfvlofk/) - Britain shows national credit as legitimacy fiction: Parliament, nation, and people replace the mortal king as debtor.
+- **2025-11-04**, [Controlled Implosion, Programmable Money, And The People Who Cry For A King](/interviews/interview-lst0wo6qrki/) - the monarchy-versus-oligarchy reversal appears before the later Roman-staging version.
+- **2025-11-18**, [Secret History #19: Dawn of the Jews](/episodes/predictive-history-3t0mevbd24i/) - imperial authorization, return, temple, law, purity, and written memory make identity durable; the full route now lives on the Scripture child page.
+- **2025-12-13**, [Trump's Venezuela Game, AI Empire, And Civil War Forecast](/interviews/interview-pnt-6v5m1wa/) - the collapse version: money-only glue, oligarchic extraction, failed enemy stories, and manufactured threats no longer bind the public world.
+- **2026-01-17**, [World War As Ponzi Collapse, Kingship, And Chokepoint Empire](/interviews/interview-id4whhypcuy/) - oligarchic decay makes monarchy emotionally legible through easy victories, Roman triumph imagery, inert checks, and third-term Rubicon talk.
+- **2026-01-27**, [Game Theory #7: America's Game](/episodes/predictive-history-ijnkct1qk6k/) - America updates legitimacy into a rule-system: rights, money, citizenship, and the general will make citizens into players.
+- **2026-04-01**, [The Safe Place Is Not A Place](/interviews/interview-t5cnf8dqj-q/) - the domestic-Caesar packet adds emergency authority, loyal-force testing, and debt-cancellation pressure without making a separate Trump Caesar page.
+- **2026-05-19**, [Freemasonry, Techno-Marxism, And The Holy Empire Of AI](/episodes/predictive-history-rg1clzlrfoo/) - Brzezinski's crisis-management passage gives the false-messiah mechanism a technocratic recurrence.
+- **Undated**, [History Must Predict Or It Becomes Propaganda](/interviews/interview-qsxkdk4mzgk/) - the Russia Today interview sharpens Trump as a false messiah of oligarchic decay rather than a healer of the republic.
 
 ## Related Concepts
 
