@@ -9,6 +9,16 @@
     "agent_rule": "Do not spend scheduled wakes on duplicate reuploads, empty artifacts, or historical impact accounting just because those files exist."
   },
   "sources": {
+    "@PredictiveHistory/R526_WuG3mE": {
+      "action": "process",
+      "reason": "Canonical Dante Livestream #5 artifact; process before Dante Livestream #6 when both lack playlist metadata.",
+      "processing_order": 2026062005
+    },
+    "@PredictiveHistory/0y_GezhRJr0": {
+      "action": "process",
+      "reason": "Canonical Dante Livestream #6 artifact; process after Dante Livestream #5 when both lack playlist metadata.",
+      "processing_order": 2026062106
+    },
     "@PredictiveHistory/7AG3EMDvKT0": {
       "action": "duplicate",
       "reason": "Edited/reuploaded Dante #1 artifact; keep raw files archived but do not process as an independent source again.",

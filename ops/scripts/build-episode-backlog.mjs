@@ -102,10 +102,6 @@ async function collectPredictiveHistorySources({ artifactRootPath, channel }) {
       diarization: existsSync(path.join(channelRoot, videoId, 'dump.json')) && existsSync(path.join(channelRoot, videoId, 'grouped.json')),
       metadata: existsSync(path.join(channelRoot, videoId, 'metadata.youtube.json')),
     };
-  }).sort((a, b) => {
-    const left = a.playlist_index ?? -1;
-    const right = b.playlist_index ?? -1;
-    return right - left || a.video_id.localeCompare(b.video_id);
   });
 }
 
@@ -157,6 +153,33 @@ async function collectInterviewSources({ artifactRootPath, channel }) {
   });
 }
 
+function numericOrder(value) {
+  if (value === null || value === undefined || value === '') return null;
+  const number = Number(value);
+  return Number.isFinite(number) ? number : null;
+}
+
+function comparePredictiveHistorySources(a, b) {
+  const leftPlaylist = numericOrder(a.playlist_index);
+  const rightPlaylist = numericOrder(b.playlist_index);
+
+  if (leftPlaylist !== null && rightPlaylist !== null && leftPlaylist !== rightPlaylist) {
+    return rightPlaylist - leftPlaylist;
+  }
+  if (leftPlaylist !== null && rightPlaylist === null) return -1;
+  if (leftPlaylist === null && rightPlaylist !== null) return 1;
+
+  const leftPolicyOrder = numericOrder(a.processing_order);
+  const rightPolicyOrder = numericOrder(b.processing_order);
+  if (leftPolicyOrder !== null && rightPolicyOrder !== null && leftPolicyOrder !== rightPolicyOrder) {
+    return leftPolicyOrder - rightPolicyOrder;
+  }
+  if (leftPolicyOrder !== null && rightPolicyOrder === null) return -1;
+  if (leftPolicyOrder === null && rightPolicyOrder !== null) return 1;
+
+  return a.video_id.localeCompare(b.video_id);
+}
+
 async function main() {
   const args = parseArgs(process.argv.slice(2));
   const channel = option(args, 'channel', '@PredictiveHistory');
@@ -178,6 +201,7 @@ async function main() {
     video.processing_status = policy.processing_status;
     video.processable = policy.processable;
     video.counts_as_independent_source = policy.counts_as_independent_source;
+    video.processing_order = policy.processing_order;
     video.policy_reason = policy.reason;
     video.canonical_video_id = policy.canonical_video_id;
     video.canonical_source_slug = policy.canonical_source_slug;
@@ -189,6 +213,10 @@ async function main() {
       && video.diarization;
   }
 
+  if (!(channel === 'Interviews' || channel.startsWith('Interviews/'))) {
+    videos.sort(comparePredictiveHistorySources);
+  }
+
   const backlog = {
     generated_by: 'ops/scripts/build-episode-backlog.mjs',
     generated_at: process.env.LENS_GENERATED_AT ?? new Date().toISOString(),
@@ -197,7 +225,7 @@ async function main() {
     budget_mode: sourcePolicy.budget_mode ?? null,
     order: channel === 'Interviews' || channel.startsWith('Interviews/')
       ? 'interview bucket config order first, then host channel and video id'
-      : 'oldest-first by YouTube channel playlist_index; playlist_index 1 is newest; null playlist entries last',
+      : 'oldest-first by YouTube channel playlist_index; playlist_index 1 is newest; null playlist entries use source-processing-policy processing_order before video id',
     counts: {
       raw_sources: videos.length,
       staged_sources: videos.length,
