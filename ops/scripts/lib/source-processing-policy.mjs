@@ -51,7 +51,7 @@ export function getSourcePolicy(policy, channelPath, videoId) {
 export function normalizeSourcePolicy(policyEntry) {
   const action = String(policyEntry?.action ?? "process").toLowerCase();
   const processable = !NON_PROCESSABLE_ACTIONS.has(action);
-  return {
+  const normalized = {
     action,
     processing_status: processable ? "processable" : "not-processable",
     processable,
@@ -63,6 +63,10 @@ export function normalizeSourcePolicy(policyEntry) {
     notes: policyEntry?.notes ?? null,
     key: policyEntry?.key ?? null,
   };
+  if (policyEntry?.processing_order !== undefined) {
+    normalized.processing_order = policyEntry.processing_order;
+  }
+  return normalized;
 }
 
 export function describeSourcePolicy(normalized) {
