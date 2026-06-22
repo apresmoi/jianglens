@@ -1,0 +1,171 @@
+{
+  "packet_id": "predictive-history-r526-wug3me-semantics-pkt-0010",
+  "source_id": "video:predictive-history-r526-wug3me",
+  "source_date": "2026-06-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0073",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0074",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0075"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang and the class extend the argument that poetry shares and immortalizes love across time and space, then Jiang turns to the problem in Dante's praise of Beatrice.",
+      "speaker_attribution": "Jiang-led classroom exchange",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0076",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0077",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0078"
+      ],
+      "kind": "exchange",
+      "summary": "Participants offer modern romantic and moral constraints, and Jiang redirects the discussion toward medieval class hierarchy, arranged marriage, and the specific poetic problem Dante faces.",
+      "speaker_attribution": "Audience answers with Jiang correction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0079",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0080"
+      ],
+      "kind": "exchange",
+      "summary": "After a brief false start, a participant identifies the textual problem directly: Dante says he must stop pursuing Beatrice's loveliness in verse because he has reached his limit.",
+      "speaker_attribution": "Audience answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0076"
+      ],
+      "note": "The participant's answer is noisy but appears to argue that love exceeds direct possession and involves obligation or costly commitment.",
+      "suggested_speaker": "Audience participant",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0078"
+      ],
+      "note": "ASR form 'Donny' should be normalized downstream to Dante.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang defines poetry as a medium that connects lovers, displays love, and brings other people into that love rather than keeping it private.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0073"
+      ],
+      "temporal_scope": "Lecture definition on 2026-06-20.",
+      "topic_tags": ["poetry", "love", "connection", "sharing"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The class adds that poetry immortalizes love by carrying it across time and space.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0074",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0075"
+      ],
+      "temporal_scope": "Classroom exchange on 2026-06-20.",
+      "topic_tags": ["immortality", "love", "time", "space", "poetry"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects a modern soulmate-marriage frame and insists that Dante and Beatrice must be understood within medieval class hierarchy and arranged-marriage constraints rather than a dating market.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0078"
+      ],
+      "temporal_scope": "Lecture correction on 2026-06-20.",
+      "topic_tags": ["class hierarchy", "arranged marriage", "historical context", "Dante", "Beatrice"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The immediate poetic problem is not merely romance in the abstract but that Dante himself says he has hit the limit of what verse can do for Beatrice's loveliness.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0080"
+      ],
+      "temporal_scope": "Textual evidence raised on 2026-06-20.",
+      "topic_tags": ["poetic limit", "Beatrice", "verse", "Dante"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0073"
+      ],
+      "moment": "Poetry does not just show love; it recruits other people into the circuit of that love.",
+      "source_phrase": "Brings. Others. Into. This. Love. As. Well",
+      "why_it_matters": "It gives Jiang's social theory of poetry in a compact form that should survive into the public read.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0075"
+      ],
+      "moment": "To write love poetry is to try to push love past time and space instead of letting it die with the moment.",
+      "source_phrase": "Share. Your. Love. Across. Time. And. Space",
+      "why_it_matters": "This sharpens the immortalizing function of art that the class is discovering with Jiang.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0078"
+      ],
+      "moment": "Jiang slaps away the fantasy of a free modern dating market and forces Dante back into class and arrangement.",
+      "source_phrase": "There. Are. Things. Such. As. Class. Hierarchies",
+      "why_it_matters": "It keeps the packet historically grounded and prevents the read from modernizing the poem's social constraints.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "immortalize love",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0074",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0075"
+      ],
+      "definition_or_usage": "The class's phrase for what poetry tries to do by carrying love beyond immediate presence into durable form.",
+      "confidence": "high"
+    },
+    {
+      "term": "class hierarchy",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0078"
+      ],
+      "definition_or_usage": "Jiang's reminder that Dante and Beatrice's world is structured by social rank and arranged marriage, not modern romantic freedom.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0073",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0080"
+      ],
+      "note": "This packet shifts the discussion from poetry as love's highest form toward the concrete problem that Dante's poetic powers are now failing at the climax of Paradiso.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0076",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0077"
+      ],
+      "note": "These audience answers are noisy and partially off Jiang's target, so later public prose should preserve only the broad contrast between modern romantic assumptions and Jiang's historical correction."
+    }
+  ]
+}

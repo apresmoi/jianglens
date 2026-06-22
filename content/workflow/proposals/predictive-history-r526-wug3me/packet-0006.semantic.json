@@ -1,0 +1,178 @@
+{
+  "packet_id": "predictive-history-r526-wug3me-semantics-pkt-0006",
+  "source_id": "video:predictive-history-r526-wug3me",
+  "source_date": "2026-06-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0041",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0042",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0043"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang affirms homecoming as a happiness type, then a participant names meeting a jazz piano hero and Jiang classifies the experience under the concept of flow, intense focus, and devotion to a passion.",
+      "speaker_attribution": "Jiang with audience example",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0044",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0045"
+      ],
+      "kind": "exchange",
+      "summary": "A participant describes the joy of grasping difficult mathematics and sharing it with friends who understand it, and Jiang recasts the example not as flow but as self-creation.",
+      "speaker_attribution": "Audience example with Jiang correction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0046",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0047"
+      ],
+      "kind": "question",
+      "summary": "A participant asks Jiang for his own happiest memory, and he answers immediately that it is being with his children.",
+      "speaker_attribution": "Audience question with Jiang answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0048"
+      ],
+      "kind": "unclear",
+      "summary": "A new participant begins to speak, but the packet ends before the content of the next memory is available.",
+      "speaker_attribution": "Audience start-of-turn",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0046"
+      ],
+      "note": "The ASR text 'happiest name' should be read as 'happiest memory' from context.",
+      "suggested_speaker": "Audience participant",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0048"
+      ],
+      "note": "The isolated 'I' is only the beginning of the next participant's turn and contains no standalone semantic content.",
+      "suggested_speaker": "Audience participant",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang treats returning home after time away as a paradigmatic happiness experience centered on restoration of place and belonging.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Lecture categorization on 2026-06-20.",
+      "topic_tags": ["homecoming", "belonging", "return"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Meeting a personal artistic hero is categorized by Jiang under flow, which he defines here as intense focus or devotion to one's passion.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0042",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Lecture model on 2026-06-20.",
+      "topic_tags": ["flow", "devotion", "passion"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang distinguishes the joy of understanding difficult mathematics within a community of peers from flow, naming it instead as self-creation.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0044",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Lecture distinction on 2026-06-20.",
+      "topic_tags": ["self-creation", "mathematics", "community"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's own happiest memory in this exchange is simply being with his children, which keeps the class's account of heaven anchored in intimate human attachment.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Personal disclosure in class on 2026-06-20.",
+      "topic_tags": ["children", "attachment", "family"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0043"
+      ],
+      "moment": "Flow is named as the happiness of total devotion to a passion rather than a generic good feeling.",
+      "source_phrase": "Intense. Focus. Or. Devotion. To. Your passion",
+      "why_it_matters": "This gives the class a precise category for one route to bliss and artistic absorption.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0045"
+      ],
+      "moment": "Jiang refuses an easy label and insists that deep intellectual recognition is really self-creation.",
+      "source_phrase": "more. Like. Self. Creation",
+      "why_it_matters": "It preserves an important distinction between immersion and the making of a self through understanding.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0047"
+      ],
+      "moment": "When pressed for his own happiest memory, Jiang answers without theory: his children.",
+      "source_phrase": "My. Children",
+      "why_it_matters": "This grounds the lecture's metaphysics of heaven in a bluntly personal human center.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "flow",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Jiang's term here for intense focus and devotion to a passion, prompted by the example of meeting an artistic hero.",
+      "confidence": "high"
+    },
+    {
+      "term": "self-creation",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Jiang's preferred label for the happiness that comes from understanding difficult truth and sharing it within an intellectual community.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0043",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0047"
+      ],
+      "note": "This 2026-06-20 packet continues the class's catalog of happiness by moving from homecoming to passion, intellectual self-making, and finally Jiang's own family-centered answer.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0044"
+      ],
+      "note": "The mathematics anecdote is ASR-noisy at the sentence level, but the stable meaning is that understanding difficult concepts alongside like-minded friends produces a profound happiness that Jiang distinguishes from flow."
+    }
+  ]
+}

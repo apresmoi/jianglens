@@ -1,0 +1,190 @@
+{
+  "packet_id": "predictive-history-r526-wug3me-semantics-pkt-0001",
+  "source_id": "video:predictive-history-r526-wug3me",
+  "source_date": "2026-06-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0001"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens the final Dante livestream by framing the day as the ascent to God's seat in the last four cantos, then invites unresolved questions from the previous sessions.",
+      "speaker_attribution": "Jiang lecture opening",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0002"
+      ],
+      "kind": "question",
+      "summary": "A participant asks whether Dante's treatment of angelic existence is deliberately tongue-in-cheek, suggesting he subtly implies that becoming an angel is not actually desirable.",
+      "speaker_attribution": "Audience question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0003",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0004"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang answers by asking how the Divine Comedy was historically taught, and a participant replies that the teacher would read from the single book while students copied it down.",
+      "speaker_attribution": "Jiang with audience response",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0005",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0006",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0007",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "He argues that the poem was meant to be memorized, that its subtle paradoxes expand the imagination over decades, and that this hidden power helps explain both the Renaissance and the modern habits of individuality and debate before he introduces a YouTube comment about the coin in heaven.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0007"
+      ],
+      "note": "The transcript says 'Donny' in places, but the context clearly indicates Jiang is referring to Dante.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang frames the last four cantos of Paradiso as the moment when the seminar finally reaches God at the seat of the Empyrean.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0001"
+      ],
+      "temporal_scope": "Lecture framing on 2026-06-20.",
+      "topic_tags": ["Paradiso", "God", "Empyrean"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The Divine Comedy is designed not just for oral performance but for memorization, so that its meanings expand inside the reader over time.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture claim on 2026-06-20 about how the poem works.",
+      "topic_tags": ["memory", "imagination", "reading"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says subtlety and paradox give the poem its power because the mind keeps working on what it has not fully discovered for decades.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0005",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture model on 2026-06-20.",
+      "topic_tags": ["subtlety", "paradox", "collective unconscious"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that the Divine Comedy is the basis of the Renaissance because its lines keep germinating into paintings, images, and further acts of imagination.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0005",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture claim on 2026-06-20.",
+      "topic_tags": ["Renaissance", "painting", "imagination"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang further claims that Dante created modernity itself by founding the mental world of individuality, debate, and dialogue that the class inhabits.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture claim on 2026-06-20.",
+      "topic_tags": ["modernity", "individuality", "dialogue", "Dante"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The coin in heaven is initially presented as a troubled metaphor for faith because a coin is irreducibly material.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture setup on 2026-06-20.",
+      "topic_tags": ["coin", "faith", "materiality"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0005"
+      ],
+      "moment": "The poem becomes mental operating software: you memorize it before you understand it, and life slowly unlocks what was implanted there.",
+      "source_phrase": "implanted in your brain, almost as an operating software",
+      "why_it_matters": "This is Jiang's mechanism for how a text can educate desire and imagination long after the classroom moment ends.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0006"
+      ],
+      "moment": "A single line of Dante is like a seed that roots itself in the brain and grows into whole Renaissance trees.",
+      "source_phrase": "seeds taking root and just growing into trees",
+      "why_it_matters": "It preserves Jiang's image for literary influence as organic growth rather than static interpretation.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0007"
+      ],
+      "moment": "We are already living in Dante's world because our habits of individuality and debate are downstream from him.",
+      "source_phrase": "we are living in Donny's world",
+      "why_it_matters": "This is the packet's sharpest civilizational claim and raises the stakes above literary appreciation.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "collective unconscious",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Jiang uses Carl Jung's phrase to describe the subconscious level at which the Divine Comedy keeps working inside a culture.",
+      "confidence": "high"
+    },
+    {
+      "term": "Empyrean",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0001"
+      ],
+      "definition_or_usage": "The seat of God reached in the closing cantos of Paradiso, rendered in the transcript as 'Imperium.'",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0001",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0008"
+      ],
+      "note": "This 2026-06-20 session is explicitly the fifth Dante livestream and the last-four-cantos class; it opens by carrying forward unresolved questions from the previous four days into the final encounter with God and the coin problem in Paradiso 24.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0007"
+      ],
+      "note": "The ASR form 'Donny' should be treated as Dante in downstream prose and review work."
+    }
+  ]
+}

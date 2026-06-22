@@ -1,0 +1,175 @@
+{
+  "packet_id": "predictive-history-r526-wug3me-semantics-pkt-0007",
+  "source_id": "video:predictive-history-r526-wug3me",
+  "source_date": "2026-06-20",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0049",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0050"
+      ],
+      "kind": "exchange",
+      "summary": "A participant haltingly recalls meeting a girl online and feeling overwhelming soul-level ecstasy; Jiang accepts the account and names it a matter of connection and community.",
+      "speaker_attribution": "Audience example with Jiang gloss",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0051",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0052"
+      ],
+      "kind": "exchange",
+      "summary": "Another participant describes happiness as winning honors for family, school, and hometown, and Jiang interprets the feeling as recognition and validation within a community.",
+      "speaker_attribution": "Audience example with Jiang interpretation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0053",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0054",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0055",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "A participant cites transcendental aesthetic experience in museums, Jiang names beauty as another route to happiness, then he defines heaven as endless continuation of one's happiest second and asks which songs, poems, or artworks trigger that happiness.",
+      "speaker_attribution": "Audience example followed by Jiang lecture prompt",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0049"
+      ],
+      "note": "The online-relationship anecdote is heavily garbled by ASR; the stable content is a remembered encounter with a girl online that produced intense ecstatic feeling.",
+      "suggested_speaker": "Audience participant",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang treats the participant's ecstatic online encounter as evidence that connection and community can generate a happiness experience intense enough to feel soul-level.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0049",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-06-20.",
+      "topic_tags": ["connection", "community", "ecstasy"],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Bringing honor to family, school, and hometown is framed as a happiness pattern grounded in communal recognition, support, and validation.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0051",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Lecture categorization on 2026-06-20.",
+      "topic_tags": ["recognition", "validation", "community", "honor"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang accepts aesthetic transcendence in a museum as another form of happiness and compresses it under the category of beauty.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0053",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Lecture model on 2026-06-20.",
+      "topic_tags": ["beauty", "aesthetics", "transcendence"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines heaven here as uninterrupted continuation of the happiest moment, an endless present of continuous happiness.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Lecture model on 2026-06-20.",
+      "topic_tags": ["heaven", "happiness", "duration"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Songs, poems, and artworks matter in this account because they can trigger the felt memory of happiness rather than merely represent it conceptually.",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0054",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0055",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Lecture prompt on 2026-06-20.",
+      "topic_tags": ["art", "memory trigger", "poetry", "music"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0050"
+      ],
+      "moment": "Jiang hears even a halting love anecdote as proof that happiness can be a matter of connection and community rather than solitary bliss.",
+      "source_phrase": "Connection. Right. Also. Community",
+      "why_it_matters": "This keeps his heaven-model social and relational, not merely interior.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0052"
+      ],
+      "moment": "Honor feels heavenly when achievement is mirrored back by the community that made you possible.",
+      "source_phrase": "Recognition. And. Validation",
+      "why_it_matters": "It captures Jiang's move from private success to socially ratified worth.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0054"
+      ],
+      "moment": "Heaven is your happiest second stretched forever without interruption.",
+      "source_phrase": "This. Goes. On. Forever",
+      "why_it_matters": "This is the packet's clearest operational definition of heaven before the class returns to the text.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "recognition and validation",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "Jiang's label for the happiness produced when a community publicly acknowledges achievement and worth.",
+      "confidence": "high"
+    },
+    {
+      "term": "beauty",
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Used here as the broad category for aesthetic experiences that directly trigger happiness or transcendence.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0051",
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0054"
+      ],
+      "note": "By this point in the 2026-06-20 session, Jiang has moved from personal memories to a general claim that heaven is endless happiest-time and that art matters because it can reactivate that state.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-r526-wug3me@transcript:v1#seg-0049"
+      ],
+      "note": "Because the ASR of the online-romance memory is degraded, downstream use should avoid over-specifying the narrative beyond ecstatic connection with another person."
+    }
+  ]
+}
