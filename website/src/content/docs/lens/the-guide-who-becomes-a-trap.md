@@ -13,7 +13,7 @@ The trap is not ordinary hypocrisy. It is metaphysical mediation. A guide does n
 
 Here, **guide** means a voice that offers orientation when the soul cannot orient itself. **Trap** means the hidden world carried inside that orientation: the assumptions about love, will, God, duty, memory, and deserved suffering that the guide makes feel natural. The guide "becomes" a trap when the rescue works well enough that the person stops asking what the rescuer's language has installed.
 
-This page is grounded chiefly in Jiang's January 14, 2025 lecture, [Civilization #30: Dante as the Second Coming of Homer](/episodes/predictive-history-asbkjezwijm/), and his April 8, 2026 lecture, [Great Books #9: Dante's La Commedia](/episodes/predictive-history-6m1z-v3wgok/). It follows Jiang's gloss of Dante and Virgil; when the page refers to quoted Dante passages or to Virgil's literary world, it marks that distinction rather than treating the quotation as Jiang's own claim.
+This page is grounded chiefly in Jiang's January 14, 2025 lecture, [Civilization #30: Dante as the Second Coming of Homer](/episodes/predictive-history-asbkjezwijm/), his April 8, 2026 lecture, [Great Books #9: Dante's La Commedia](/episodes/predictive-history-6m1z-v3wgok/), and the June 21, 2026 Inferno seminar, [Dido, Reflective Hell, and Virgil's Embarrassment](/episodes/predictive-history-0y-gezhrjr0/). It follows Jiang's gloss of Dante and Virgil; when the page refers to quoted Dante passages or to Virgil's literary world, it marks that distinction rather than treating the quotation as Jiang's own claim.
 
 ## The Necessary Danger
 
@@ -75,9 +75,13 @@ The title "master of hell" is not merely rank. It means Virgil is native to hell
 
 This is the lecture's harshest literary claim. Virgil is not only someone Dante reads before Dante writes. Virgil's poem has already made a world: a civilizational grammar where piety sacralizes submission, obedience makes surrender feel moral, empire scales that obedience into civilization, hatred becomes a power for destroying enemies, and love looks pathological. That is why the guide can navigate hell. He speaks its language because his poetry helped make its language.
 
-<!-- lens-point id="guide-native-to-hells-grammar" concept="guide-becomes-trap" evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0025 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0026" -->
+The **2026-06-21** Inferno seminar tightens that authority into a jurisdiction problem. At the city of Dis, Virgil has already looked like the master of hell: he can navigate the terrain, is known by the demons, and understands the infernal geography intimately. But the gate refuses Dante. The seminar lands on the compact distinction that [Virgil is master of outer hell, not inner hell, because he stops at Dis and cannot decide who enters the core]{evidence="video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0116 video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0112"}. The guide's authority is real, but it is local.
+
+That makes his intimacy more suspicious rather than less. Jiang says [Dante is a stranger to this world while Virgil is familiar with it and belongs there]{evidence="video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0123"}. The gate does not simply prove Virgil is weak. It reveals the exact danger of the guide-trap: the guide knows the prison well enough to lead inside it, but that knowledge does not give him authority over grace, release, or the next threshold.
+
+<!-- lens-point id="guide-native-to-hells-grammar" concept="guide-becomes-trap" evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0025 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0026 video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0116 video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0112 video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0123" -->
 <span id="guide-native-to-hells-grammar" class="lens-point-anchor"></span>
-A guide may command the underworld because he belongs to its grammar. Virgil can navigate hell not as a neutral technician but because his poetry helped make the emotions and obedience that hell recognizes.
+A guide may command the underworld because he belongs to its grammar, yet that jurisdiction can stop at the next gate. Virgil can navigate hell because his poetry helped make the emotions and obedience hell recognizes, but Dis shows that native authority is not the same as liberating authority.
 
 The point is Jiang-specific and literary-metaphysical. It is not the generic claim that authorities are bad. Virgil is dangerous because poetry creates worlds, and his world is coherent enough to save, order, and damn. The same force that makes him a guide makes him a trap.
 
@@ -141,6 +145,8 @@ A guide-trap sometimes has to be released surgically. The poem first makes the g
 
 This does not contradict the earlier claim that a guide can be necessary. It completes it. A necessary guide may bring the soul to the threshold, but the threshold is also where dependency must end. The test is whether the guide can rejoice when another light arrives, or whether he disappears because his world cannot survive being corrected.
 
+The June 21 seminar adds an earlier preview of that failed release at Dis. When the heavenly messenger opens the gate that Virgil cannot open, Jiang does not treat the problem as technical embarrassment. Virgil should be grateful that the mission has been saved, but instead [he says nothing, shows no gratitude, and exposes ego, pride, and a desire to remain the hero]{evidence="video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0147 video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0149 video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0150"}. The same guide who knows hell too well cannot rejoice when grace bypasses him.
+
 ## Minos And The Warning Against Trust
 
 Minos gives the page its clearest diagnostic.
@@ -181,19 +187,21 @@ The second sign is translation. The guide receives a message from a higher order
 
 The third sign is native authority. The guide can command the underworld because the underworld recognizes his speech. Charon obeys Virgil not because Virgil has escaped hell, but because Virgil belongs to hell's grammar.
 
-The fourth sign is false sovereignty. The figure who looks like the master may be dead machinery, while the guide's loyalties and explanations quietly make the prison's order credible.
+The fourth sign is local jurisdiction. The guide may be obeyed in outer regions while failing at the gate where a different authority is required. Knowing the prison is not the same as being able to release someone from it.
 
-The fifth sign is trained desire. The trap is complete only when the soul wants what confines it. Hell is not merely imposed; it is chosen through will and desire. The guide's world becomes internal enough that punishment feels deserved.
+The fifth sign is false sovereignty. The figure who looks like the master may be dead machinery, while the guide's loyalties and explanations quietly make the prison's order credible.
 
-The sixth sign is memory loss. The guide's authority includes omissions. Dido is not only condemned; she is unnamed. Liberation begins when the reader notices the silence and restores the erased figure to memory.
+The sixth sign is trained desire. The trap is complete only when the soul wants what confines it. Hell is not merely imposed; it is chosen through will and desire. The guide's world becomes internal enough that punishment feels deserved.
 
-The seventh sign is failed release. A guide may be able to walk with the soul until Beatrice, Statius, Cato, Dido, or another contradiction exposes what the guide cannot admit. The question then changes from "Can this guide help me?" to "Can I let the guide go when his world can no longer hold truth?"
+The seventh sign is memory loss. The guide's authority includes omissions. Dido is not only condemned; she is unnamed. Liberation begins when the reader notices the silence and restores the erased figure to memory.
+
+The eighth sign is failed release. A guide may be able to walk with the soul until Beatrice, Statius, Cato, Dido, Dis, or another contradiction exposes what the guide cannot admit. The question then changes from "Can this guide help me?" to "Can I let the guide go when his world can no longer hold truth?"
 
 This is why the concept should not be flattened into a general suspicion of teachers, experts, or institutions. Jiang's reading is more exact and more severe. The question is not "who has authority?" The question is: What world does this guide's speech reveal, and what does my trust in the guide cause me to desire?
 
 ## Chronology So Far
 
-The current evidence for this concept runs through three Dante lectures. The January source gives the repair technique: Dante has to loosen Virgil's hold from inside the reader's love. The April source gives the descent mechanics: the guide's speech, authority, memory, and desire show why that release is necessary. The May source shows the same trap from Purgatory: Virgil's light can save a disciple without saving Virgil.
+The current evidence for this concept runs through four Dante lectures. The January source gives the repair technique: Dante has to loosen Virgil's hold from inside the reader's love. The April source gives the descent mechanics: the guide's speech, authority, memory, and desire show why that release is necessary. The late-April and May sources test the trap at hell's center and from Purgatory. The June source adds the Dis jurisdiction layer: Virgil rules much of hell, but fails at the gate where grace has to open what expertise cannot.
 
 - **2025-01-14**, [Civilization #30: Dante as the Second Coming of Homer](/episodes/predictive-history-asbkjezwijm/): The lecture gives the surgical release layer. Dante [makes Virgil father, guide, narrator, and hero]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0007 video:predictive-history-asbkjezwijm@transcript:v1#seg-0008"}, then the poem shows that [Statius can ascend because he wants to]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0038"} while Virgil [would rather burn in hell forever than admit error]{evidence="video:predictive-history-asbkjezwijm@transcript:v1#seg-0041"}.
 - **2026-04-08**, [Great Books #9: Dante's La Commedia](/episodes/predictive-history-6m1z-v3wgok/): The later lecture gives the descent mechanics. Dante must [enter Inferno and confront Virgil's Aeneid-world before reaching paradise]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0007"}.
@@ -204,6 +212,7 @@ The current evidence for this concept runs through three Dante lectures. The Jan
 - **2026-04-08**, same lecture: Minos and Dido give the reader's diagnostic. [The person Dante trusts most is probably the person he should trust least]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0039 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0038"}, and [restore memory where the guide refuses a name]{evidence="video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0047 video:predictive-history-6m1z-v3wgok@transcript:v1#seg-0048"}.
 - **2026-04-29**, [Hell Is the Imagination Turned Against Itself](/episodes/predictive-history-wgpdmya2bme/): The later Inferno lecture demotes Lucifer into machinery while making Virgil's active authority clearer: [Lucifer lacks agency]{evidence="video:predictive-history-wgpdmya2bme@transcript:v1#seg-0035 video:predictive-history-wgpdmya2bme@transcript:v1#seg-0036"}, but Virgil's Roman loyalties and Cato pressure expose the guide's hidden hand.
 - **2026-05-22**, [Great Books #11: Dante's Revolution](/episodes/predictive-history-otyupkhptym/): Purgatory adds the Statius lamp layer. Virgil's poem is [mother, nurse, and model for Statius]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0056"}, but Statius's ascent [destroys Virgil's framework for the universe]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0067"} because Virgil [lights the road for others without helping himself]{evidence="video:predictive-history-otyupkhptym@transcript:v1#seg-0072"}.
+- **2026-06-21**, [Dido, Reflective Hell, and Virgil's Embarrassment](/episodes/predictive-history-0y-gezhrjr0/): The Dis lecture gives the jurisdiction layer. Virgil is [master of outer hell but not inner hell]{evidence="video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0116"}, and when an angel opens the gate he could not open, [his silence exposes pride and control rather than gratitude for the rescued mission]{evidence="video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0149 video:predictive-history-0y-gezhrjr0@transcript:v1#seg-0150"}.
 
 ## How To See Through The Guide
 
@@ -217,6 +226,7 @@ That does not mean accepting any feeling as truth. The method is disciplined by 
 - When the guide explains love, help, duty, salvation, or failure, what world does the explanation reveal?
 - Does the guide translate grace into contract, free will into obedience, or love into debt?
 - Is the guide obeyed by the world he claims merely to be passing through?
+- Where does the guide's jurisdiction stop, and what gate requires an authority the guide cannot supply?
 - Does the apparent sovereign have agency, or is the real active authority the guide whose map explains the prison?
 - What does the guide make the soul want, and does that desire move toward freedom or toward hell?
 - Does the guide's light let a student see farther than the guide, and can the guide survive being surpassed?
