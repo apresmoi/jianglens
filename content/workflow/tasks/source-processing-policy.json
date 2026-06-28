@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-21",
+  "updated_at": "2026-06-28",
   "default_action": "process",
   "budget_mode": {
     "name": "new-source-only",
@@ -18,6 +18,71 @@
       "action": "process",
       "reason": "Canonical Dante Livestream #6 artifact; process after Dante Livestream #5 when both lack playlist metadata.",
       "processing_order": 2026062106
+    },
+    "@PredictiveHistory/P82v6UAc9ss": {
+      "action": "process",
+      "reason": "Canonical edited Dante #7 artifact; process this upload instead of the livestream twin.",
+      "processing_order": 2026062207
+    },
+    "@PredictiveHistory/Qod_GuAmObc": {
+      "action": "duplicate",
+      "reason": "Dante Livestream #7 twin of edited Dante #7; keep raw files archived but do not process as an independent source again.",
+      "canonical_video_id": "P82v6UAc9ss",
+      "canonical_source_slug": "predictive-history-p82v6uac9ss",
+      "canonical_source_ref": "video:predictive-history-p82v6uac9ss",
+      "counts_as_independent_source": false
+    },
+    "@PredictiveHistory/oFK53cYz_h0": {
+      "action": "process",
+      "reason": "Canonical edited Dante #8 artifact; process this upload instead of the livestream twin.",
+      "processing_order": 2026062308
+    },
+    "@PredictiveHistory/esoTLV4-ibM": {
+      "action": "duplicate",
+      "reason": "Dante Livestream #8 twin of edited Dante #8; keep raw files archived but do not process as an independent source again.",
+      "canonical_video_id": "oFK53cYz_h0",
+      "canonical_source_slug": "predictive-history-ofk53cyz-h0",
+      "canonical_source_ref": "video:predictive-history-ofk53cyz-h0",
+      "counts_as_independent_source": false
+    },
+    "@PredictiveHistory/SSmJKnUOsAc": {
+      "action": "process",
+      "reason": "Canonical edited Dante #9 artifact; process this upload instead of the livestream twin.",
+      "processing_order": 2026062409
+    },
+    "@PredictiveHistory/VIo-EBsYVUo": {
+      "action": "duplicate",
+      "reason": "Dante Livestream #9 twin of edited Dante #9; keep raw files archived but do not process as an independent source again.",
+      "canonical_video_id": "SSmJKnUOsAc",
+      "canonical_source_slug": "predictive-history-ssmjknuosac",
+      "canonical_source_ref": "video:predictive-history-ssmjknuosac",
+      "counts_as_independent_source": false
+    },
+    "@PredictiveHistory/MDOK9qaaA7Q": {
+      "action": "process",
+      "reason": "Canonical edited Dante #10 artifact; process this upload instead of the livestream twin.",
+      "processing_order": 2026062510
+    },
+    "@PredictiveHistory/O2f-XTdVeIo": {
+      "action": "duplicate",
+      "reason": "Dante Livestream #10 twin of edited Dante #10; keep raw files archived but do not process as an independent source again.",
+      "canonical_video_id": "MDOK9qaaA7Q",
+      "canonical_source_slug": "predictive-history-mdok9qaaa7q",
+      "canonical_source_ref": "video:predictive-history-mdok9qaaa7q",
+      "counts_as_independent_source": false
+    },
+    "@PredictiveHistory/oR3EOW52WCc": {
+      "action": "process",
+      "reason": "Canonical edited Dante #11 artifact; process this upload instead of the livestream twin.",
+      "processing_order": 2026062611
+    },
+    "@PredictiveHistory/ynMurcuyLoY": {
+      "action": "duplicate",
+      "reason": "Dante Livestream #11 twin of edited Dante #11; keep raw files archived but do not process as an independent source again.",
+      "canonical_video_id": "oR3EOW52WCc",
+      "canonical_source_slug": "predictive-history-or3eow52wcc",
+      "canonical_source_ref": "video:predictive-history-or3eow52wcc",
+      "counts_as_independent_source": false
     },
     "@PredictiveHistory/7AG3EMDvKT0": {
       "action": "duplicate",
