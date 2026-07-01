@@ -1,0 +1,115 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0061",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0481",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0488"
+      ],
+      "kind": "exchange",
+      "summary": "Students explain fortune telling as an assault on free will and imagination, Jiang agrees and adds profit motive, then pivots to Moses' contest with Egyptian magicians as a scriptural parallel.",
+      "speaker_attribution": "Jiang-led classroom exchange",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "A student says fortune telling is condemned because once a prophecy is received, people begin to fulfill it and lose free will.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0481"
+      ],
+      "temporal_scope": "Student model on 2026-06-23.",
+      "topic_tags": [
+        "free will",
+        "self-fulfilling prophecy",
+        "fortune telling"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reinforces the free-will point with Oedipus, saying prophecy turns human beings into pawns of a prewritten game.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0482",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0483"
+      ],
+      "temporal_scope": "Lecture explanation on 2026-06-23.",
+      "topic_tags": [
+        "Oedipus",
+        "free will",
+        "prophecy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student says fortune tellers shrink a population's imagination, and Jiang agrees while adding that many do it for profit.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0484",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0485"
+      ],
+      "temporal_scope": "Classroom model on 2026-06-23.",
+      "topic_tags": [
+        "imagination",
+        "profit",
+        "fortune telling"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang invokes the Moses-versus-Pharaoh magicians episode as a biblical example of prophets competing against diviners for legitimacy.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0487",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0488"
+      ],
+      "temporal_scope": "Lecture scriptural analogy on 2026-06-23.",
+      "topic_tags": [
+        "Moses",
+        "Pharaoh",
+        "diviners"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0484",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0485"
+      ],
+      "moment": "Fortune telling is described as shrinking the imagination that should grow.",
+      "source_phrase": "to grow not shrink",
+      "why_it_matters": "This is the most reusable Jiang formulation for why prophecy is spiritually dangerous beyond mere superstition.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "free will",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0481",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0483"
+      ],
+      "definition_or_usage": "The human capacity prophecy corrupts by making people live inside a fixed script or self-fulfilling destiny.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0481",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0488"
+      ],
+      "note": "Jiang's critique of fortune telling broadens here from false prediction to a larger assault on freedom, imagination, and prophetic legitimacy.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

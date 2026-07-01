@@ -1,0 +1,202 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0011",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0081",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0082",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0083"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks what system could replace meritocracy, a student names nepotism, favoritism, and birthright as the intuitive opposite, and Jiang reframes that option as aristocracy.",
+      "speaker_attribution": "Student response taken up by Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0084",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0085"
+      ],
+      "kind": "exchange",
+      "summary": "Students explain why aristocracy is bad: inherited power locks in privilege, blocks social mobility, and reproduces the same values through bloodlines.",
+      "speaker_attribution": "Students",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0086",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0087",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0088"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang counters that meritocracy may not provide more mobility than aristocracy, pointing to elite universities full of rich and legacy students while another student says meritocracy is mostly a label for the same prestige metric.",
+      "speaker_attribution": "Jiang-led classroom debate",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0082",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0084",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0085",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0087",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0088"
+      ],
+      "note": "These are substantive student interventions in a live argument, not public FAQ questions. The packet is best treated as an exchange about social systems rather than a discrete question-answer pair.",
+      "suggested_speaker": "Students",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A student says the intuitive opposite of meritocracy is nepotism, favoritism, or birthright rule.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0082"
+      ],
+      "temporal_scope": "Student framing on 2026-06-23.",
+      "topic_tags": [
+        "meritocracy",
+        "nepotism",
+        "birthright"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang names aristocracy as one concrete alternative to meritocracy: a nobility that stays in charge over time.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Lecture framing on 2026-06-23.",
+      "topic_tags": [
+        "aristocracy",
+        "meritocracy",
+        "social order"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Students diagnose aristocracy as a system where inherited power blocks social mobility and reproduces the same ruling values across generations.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0084",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Classroom diagnosis on 2026-06-23.",
+      "topic_tags": [
+        "aristocracy",
+        "inheritance",
+        "social mobility"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang challenges the assumption that meritocracy delivers more mobility than aristocracy and points students toward elite universities as evidence of class reproduction.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Lecture challenge on 2026-06-23.",
+      "topic_tags": [
+        "meritocracy",
+        "elite universities",
+        "class reproduction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student points to legacy admissions as evidence that elite universities already operate with aristocratic features inside so-called meritocracy.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0087"
+      ],
+      "temporal_scope": "Student evidence claim on 2026-06-23.",
+      "topic_tags": [
+        "legacy admissions",
+        "elite universities",
+        "meritocracy"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "A student argues meritocracy is largely a label that measures society by the same prestige sticks such as money and status.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Student critique on 2026-06-23.",
+      "topic_tags": [
+        "meritocracy",
+        "prestige",
+        "money",
+        "status"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0086"
+      ],
+      "moment": "Jiang collapses the distance between meritocracy and aristocracy by pointing students to the class makeup of elite universities.",
+      "source_phrase": "go to an elite university and do a study of how many rich kids there are there",
+      "why_it_matters": "It turns a theoretical debate about fairness into a concrete institutional test of whether social mobility is real.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0088"
+      ],
+      "moment": "Meritocracy becomes just a label for using one prestige stick to measure society.",
+      "source_phrase": "it's just a label",
+      "why_it_matters": "This sharpens the packet's core suspicion that modern merit talk may disguise the same old hierarchy.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "aristocracy",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0083",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0084",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0085"
+      ],
+      "definition_or_usage": "A social order where nobility or inherited families remain in charge and mobility is structurally limited.",
+      "confidence": "high"
+    },
+    {
+      "term": "legacy admissions",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0087"
+      ],
+      "definition_or_usage": "Used here as evidence that elite institutions preserve inherited advantage inside an allegedly merit-based order.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0081",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0088"
+      ],
+      "note": "This packet continues the lecture's present-day application of Dante by shifting from a critique of meritocracy's harms to a direct comparison between meritocracy and aristocratic inheritance.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0087"
+      ],
+      "note": "The student's numeric claim about legacy share at elite universities is treated as in-class evidence rather than independently verified fact."
+    }
+  ]
+}

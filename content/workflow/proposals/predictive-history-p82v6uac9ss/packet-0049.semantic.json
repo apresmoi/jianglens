@@ -1,0 +1,104 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0049",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0385",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0392"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks how a city with divergent communities could be unified; after a failed answer about assimilation, he says money becomes the only common value, and a student counters with the refugee argument for America as promised land.",
+      "speaker_attribution": "Jiang-led exchange with student counterexample",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0391"
+      ],
+      "note": "The World War II refugee example is offered as an explicit counter to Jiang's negative immigration model.",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says that when immigrants bring divergent values, money becomes the only usable common denominator for unifying society.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0387",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0389"
+      ],
+      "temporal_scope": "Lecture causal model on 2026-06-23.",
+      "topic_tags": [
+        "money",
+        "assimilation",
+        "shared values"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that once money becomes the unifying value, it drives social separation and materialism.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0389",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0390"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-06-23.",
+      "topic_tags": [
+        "materialism",
+        "social separation",
+        "money"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student responds that immigration can also be refuge, citing persecuted Europeans during World War II who saw the United States as a promised land.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0391"
+      ],
+      "temporal_scope": "Student counterexample on 2026-06-23.",
+      "topic_tags": [
+        "refuge",
+        "World War II",
+        "United States"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0389"
+      ],
+      "moment": "Money is cast as the emergency glue for a city that no longer shares a moral world.",
+      "source_phrase": "the only value that you have to create to unify society is money",
+      "why_it_matters": "This is Jiang's mechanism linking immigration to materialism rather than treating both as separate symptoms.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0385",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0392"
+      ],
+      "note": "The lecture turns from immigration as demographic change to the economic logic Jiang says it produces: monetary unification and social fragmentation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0390"
+      ],
+      "note": "Jiang bundles immigrants, homosexuality, factionalism, and money into one decline list here; keep the bundle as a dated lecture synthesis rather than an independent evidence claim for each item."
+    }
+  ]
+}

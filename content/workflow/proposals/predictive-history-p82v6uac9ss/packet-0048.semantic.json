@@ -1,0 +1,115 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0048",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0377",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0384"
+      ],
+      "kind": "exchange",
+      "summary": "The class answers Jiang's neighborhood analogy with immigration, and Jiang endorses cultural clash and value divergence as the mechanism by which old communal norms weaken.",
+      "speaker_attribution": "Jiang-led classroom exchange",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0379"
+      ],
+      "note": "Jiang marks the discussion as deliberately not politically correct, signaling that he knows the provocation level of the claim.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A student answers Jiang's prompt by saying the neighborhood changed because new people arrived, which the class explicitly names as immigrants.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0377",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0378"
+      ],
+      "temporal_scope": "Classroom answer on 2026-06-23.",
+      "topic_tags": [
+        "immigration",
+        "social change"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues immigration is bad because it produces cultural clash among people with different values.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0379",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0383"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-06-23.",
+      "topic_tags": [
+        "immigration",
+        "cultural clash",
+        "values"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says old Florentine families were oriented toward helping their neighbors, but heterogeneous incoming values dissolve that shared norm.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0383"
+      ],
+      "temporal_scope": "Lecture social model on 2026-06-23.",
+      "topic_tags": [
+        "neighbors",
+        "shared norms",
+        "old families"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0379"
+      ],
+      "moment": "The classroom blurts out immigration as the hidden cause behind decline.",
+      "source_phrase": "Goddamn immigrants",
+      "why_it_matters": "The raw phrasing captures the lecture's deliberately incendiary turn from moral generalities to demographic explanation.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "cultural clash",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0380",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0383"
+      ],
+      "definition_or_usage": "The collision of different value systems that Jiang treats as the social mechanism by which immigration destabilizes inherited communal norms.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0377",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0384"
+      ],
+      "note": "Jiang lands on immigration as the specific cause Cacciaguida is supposed to be naming behind Florence's corruption.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0379",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0383"
+      ],
+      "note": "These immigration claims are intentionally provocative and should remain tightly dated to this lecture rather than generalized as settled repo doctrine."
+    }
+  ]
+}

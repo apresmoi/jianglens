@@ -1,0 +1,147 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0007",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0049",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0050",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0051",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0052"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang re-enters the poem, frames the city of Dis as the zone of people who sin not just against themselves but against others and God, and explains Epicureanism as the heresy that cancels the need for faith, hope, and love.",
+      "speaker_attribution": "Reading followed by Jiang exposition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0053",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0054",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0055",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0056"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The class reads Dante's encounter with Farinata and Cavalcante, setting up the competitive poetic and political stakes that Jiang will extract from the scene.",
+      "speaker_attribution": "Poem reading with Jiang setup",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0050",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0053",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0055",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0056"
+      ],
+      "note": "These are poem-reading segments and should not be flattened into Jiang's own claims without the interpretive bridge provided in the surrounding lecture segments.",
+      "suggested_speaker": "Poem reader / Dante text",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says entering the city of Dis means entering the part of Hell reserved for people who have harmed others and offended God, not merely themselves.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Lecture exposition on 2026-06-23.",
+      "topic_tags": [
+        "city of Dis",
+        "harm to others",
+        "God"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Epicureanism is treated here as the belief that there is no soul, heaven, or hell, so one should simply maximize pleasure while alive.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0051",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Lecture definition on 2026-06-23.",
+      "topic_tags": [
+        "Epicureanism",
+        "heresy",
+        "pleasure"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Dante hates Epicureanism because it removes the reason to have faith, hope, and love.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0052"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-06-23.",
+      "topic_tags": [
+        "Epicureanism",
+        "faith hope love",
+        "Dante"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang identifies Cavalcante as someone Dante knew well and uses the encounter to open a story about rivalry, poetry, and Florentine factional life.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0054",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0056"
+      ],
+      "temporal_scope": "Lecture setup on 2026-06-23.",
+      "topic_tags": [
+        "Cavalcante",
+        "Guido",
+        "Florence",
+        "poetry"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0052"
+      ],
+      "moment": "Epicurean pleasure becomes the worldview that abolishes faith, hope, and love in one stroke.",
+      "source_phrase": "why have faith why have hope why have love",
+      "why_it_matters": "It compresses Jiang's reason for placing heresy so deep in Hell: false metaphysics erases the entire moral architecture.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Epicureans",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0051",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0052"
+      ],
+      "definition_or_usage": "In Jiang's Dante reading, the heretics who deny the soul and afterlife and therefore justify a life of pleasure without faith, hope, or love.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0049",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0056"
+      ],
+      "note": "This packet marks the lecture's clear pivot from abstract theological setup into close reading of Inferno as a diagnosis of Florentine persons and positions.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0051"
+      ],
+      "note": "The ASR slightly garbles classical names and river names, but Jiang's interpretive claim about Dis and the Epicureans is clear."
+    }
+  ]
+}

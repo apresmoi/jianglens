@@ -1,0 +1,113 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0043",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0337",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0344"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks what Dante thinks of the nobility and what to do with them; students answer with entitlement, satiation, and lost hope, edging the lecture from sexual behavior toward class psychology.",
+      "speaker_attribution": "Jiang-led classroom exchange",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0343",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0344"
+      ],
+      "note": "The last two student responses reformulate the nobility problem as abundance producing new desires and as a loss of hope for the future.",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Students and Jiang agree that Dante treats the nobility as entitled and fundamentally bad rather than as a healthy ruling class.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0337",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0340"
+      ],
+      "temporal_scope": "Classroom conclusion on 2026-06-23.",
+      "topic_tags": [
+        "nobility",
+        "entitlement",
+        "elite"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student suggests that once people have everything they need, they seek something else, framing elite decadence as a byproduct of satiation.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0343"
+      ],
+      "temporal_scope": "Student model on 2026-06-23.",
+      "topic_tags": [
+        "abundance",
+        "decadence",
+        "needs"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Another student says homosexuality in a declining society signals lack of hope in the future because it does not produce children.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0344"
+      ],
+      "temporal_scope": "Student diagnosis on 2026-06-23.",
+      "topic_tags": [
+        "hope",
+        "future",
+        "children"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0344"
+      ],
+      "moment": "The issue becomes whether a civilization still believes in its own future.",
+      "source_phrase": "you don't have hope in the future",
+      "why_it_matters": "This pushes the lecture beyond taboo into a civilizational test of futurity and reproduction.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "hope",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0344"
+      ],
+      "definition_or_usage": "Here hope becomes a society's willingness to reproduce itself and invest in the future rather than merely a private virtue.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0337",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0344"
+      ],
+      "note": "The lecture shifts from acts and definitions to the nobility as a class whose satiation and hopelessness embody decline.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0344"
+      ],
+      "note": "The childlessness argument is voiced by a student and should remain grounded as a classroom hypothesis rather than treated as Jiang's final formulation."
+    }
+  ]
+}
