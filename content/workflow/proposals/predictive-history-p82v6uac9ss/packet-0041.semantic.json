@@ -1,0 +1,130 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0041",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0321",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0328"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang presses the class on whether homosexuality should count as openness or as civilizational decline, rejects the claim that its definition changed, and steers the discussion toward broken natural law and openness that becomes closure.",
+      "speaker_attribution": "Jiang-led classroom exchange",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0326",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0328"
+      ],
+      "note": "Several student interventions are abbreviated or noisy, but the underlying move is clear: they are trying to distinguish public openness from social health.",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang states the provocation bluntly: Dante is treating homosexuality as a sign of social decline even in a present where it appears publicly widespread.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0321"
+      ],
+      "temporal_scope": "Lecture framing on 2026-06-23.",
+      "topic_tags": [
+        "social decline",
+        "homosexuality",
+        "Dante"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student argues that the contemporary meaning of homosexuality has changed because it now signals openness rather than exclusion.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0322",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0324"
+      ],
+      "temporal_scope": "Student interpretation on 2026-06-23.",
+      "topic_tags": [
+        "openness",
+        "historical change",
+        "meaning"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects definitional drift and insists the act itself is unchanged, so the real question is why natural law or social order would break down.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0323",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0327"
+      ],
+      "temporal_scope": "Lecture reasoning on 2026-06-23.",
+      "topic_tags": [
+        "natural law",
+        "definition",
+        "social order"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Another student argues that ostensible openness can actually produce closure, invoking a line of thought similar to The Closing of the American Mind.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0328"
+      ],
+      "temporal_scope": "Student counterargument on 2026-06-23.",
+      "topic_tags": [
+        "openness",
+        "closure",
+        "elite culture"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0328"
+      ],
+      "moment": "The classroom flips openness into its opposite.",
+      "source_phrase": "The Closing of American Mind",
+      "why_it_matters": "This keeps Jiang's provocation from collapsing into a simple liberal-versus-conservative contrast and turns the issue into a diagnosis of false openness.",
+      "tone": "reversal",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "natural law",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0326",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0327"
+      ],
+      "definition_or_usage": "The order Jiang treats as prior to modern openness claims, with decline marked by a failure to follow it.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0321",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0328"
+      ],
+      "note": "The lecture now tests the earlier exclusion model against present-day visibility and asks whether apparent openness signals health or decline.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0326",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0328"
+      ],
+      "note": "Some student remarks are truncated by ASR, so the exact wording of the natural-law and Closing of the American Mind examples should be treated as approximate."
+    }
+  ]
+}

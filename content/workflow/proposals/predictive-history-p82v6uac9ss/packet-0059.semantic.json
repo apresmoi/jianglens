@@ -1,0 +1,117 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0059",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0465",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0472"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang refines the modern simony analogy: luxury goods do not count because simony requires abused authority, while universities selling credentials through donations and access do.",
+      "speaker_attribution": "Jiang-led exchange with students",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0470"
+      ],
+      "note": "The cryptocurrency analogy is treated as exploratory and is not Jiang's preferred endpoint.",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says universities sell credentials not only through donations but through summer school, continuing education, and similar channels.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0465"
+      ],
+      "temporal_scope": "Lecture analogy on 2026-06-23.",
+      "topic_tags": [
+        "universities",
+        "credentials",
+        "donations"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang rejects luxury goods as an equivalent because simony requires corruption by a trusted authority rather than ordinary status consumption.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0466",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0467"
+      ],
+      "temporal_scope": "Lecture conceptual distinction on 2026-06-23.",
+      "topic_tags": [
+        "authority",
+        "corruption",
+        "luxury goods"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says universities are today's equivalent of the church because they function as society's most trusted authority.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0471"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-06-23.",
+      "topic_tags": [
+        "universities",
+        "church",
+        "authority"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang uses donation-driven fast-tracking, including a Stanford example, as evidence that universities sell access through authority.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0471"
+      ],
+      "temporal_scope": "Lecture evidence on 2026-06-23.",
+      "topic_tags": [
+        "Stanford",
+        "donations",
+        "fast track"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0471"
+      ],
+      "moment": "The church-to-university transfer is made explicit: the modern sacred authority is higher education.",
+      "source_phrase": "what's the equivalent of the church today it's universities",
+      "why_it_matters": "This is the lecture's strongest institutional analogy and can anchor the public read's treatment of simony.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0465",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0472"
+      ],
+      "note": "The modern simony analogy is resolved here: the authoritative institution that now sells symbolic legitimacy is the university.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0471"
+      ],
+      "note": "Jiang's claim that universities are the most trusted institutions is a dated rhetorical generalization within the lecture, not a stable cross-source metric."
+    }
+  ]
+}

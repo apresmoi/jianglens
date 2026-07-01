@@ -1,0 +1,138 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0008",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0057",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0058",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0059",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0060",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0061",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0062",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0063",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0064"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang lingers on Dante's refusal to correct Cavalcante about Guido's death, treating the scene as evidence that Dante becomes more pious and more cruel as he descends.",
+      "speaker_attribution": "Reading discussed through Jiang-led classroom exchange",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0060"
+      ],
+      "note": "The student's first answer gives an over-generous explanation for Dante's silence; Jiang explicitly rejects it and keeps pressing the cruelty question.",
+      "suggested_speaker": "Student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang reads Cavalcante's question about Guido as a rivalry question: if Dante can make the journey through poetry, Guido should be at least his equal.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0057"
+      ],
+      "temporal_scope": "Lecture interpretation on 2026-06-23.",
+      "topic_tags": [
+        "Cavalcante",
+        "Guido",
+        "poetry",
+        "rivalry"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Dante knowingly lets Cavalcante believe Guido is dead instead of simply telling the truth that he is alive in Florence.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0058",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0059",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0061",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Lecture reading on 2026-06-23.",
+      "topic_tags": [
+        "Dante",
+        "Guido",
+        "Cavalcante",
+        "cruelty"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "A generous explanation is that Cavalcante would know if Guido were dead and in Hell, but Jiang still treats Dante's response as deceptive and cruel.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0062",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0063"
+      ],
+      "temporal_scope": "Classroom exchange on 2026-06-23.",
+      "topic_tags": [
+        "interpretation dispute",
+        "cruelty",
+        "afterlife knowledge"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang accepts a student's formulation that as Dante descends he becomes both more pious and more cruel.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0064"
+      ],
+      "temporal_scope": "Classroom interpretation on 2026-06-23.",
+      "topic_tags": [
+        "piety",
+        "cruelty",
+        "descent"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0064"
+      ],
+      "moment": "The descent into Hell is also a descent into morally sanctioned cruelty.",
+      "source_phrase": "more pious more cruel",
+      "why_it_matters": "It names the packet's sharpest paradox and gives the class a lens for reading Dante's righteousness as dangerous as well as holy.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "pious cruelty",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0064"
+      ],
+      "definition_or_usage": "The pattern Jiang sees in Dante's descent: religious certainty increasingly licenses harshness toward others.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0057",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0064"
+      ],
+      "note": "This packet is the first explicit local diagnosis of Dante himself as compromised by Florentine competition and resentment, not just a neutral guide through the poem.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0058"
+      ],
+      "note": "The poem quotation is slightly noisy in ASR, but the scene's logic is clear: Cavalcante hears Dante's tense and infers Guido's death."
+    }
+  ]
+}

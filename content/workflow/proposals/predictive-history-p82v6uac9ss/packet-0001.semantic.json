@@ -1,0 +1,259 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0001",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0001",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0002",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0003"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang opens by apologizing for the livestream setup, factual mistakes, and his emotional tone in the previous class, then frames the course as thematic co-discovery rather than polished factual mastery.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0004",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0005",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0006"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang revisits the unresolved problem of lust, invites a student to restate a prior observation about symmetry in the Divine Comedy, and folds that comment into his own framework for interpreting lust.",
+      "speaker_attribution": "Student observation taken up by Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0006",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0007",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns the symmetry point into a larger model: Dante's complete vision is a life of faith, hope, and love, while Inferno's geography and reordered sins show ascending degrees of crime.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0005"
+      ],
+      "note": "The student contribution is an interpretive observation about symmetry, not a standalone public-facing question for the episode FAQ.",
+      "suggested_speaker": "Student",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the class should understand Dante thematically rather than just factually, and he frames teaching as co-creation and co-discovery.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0002",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture framing on 2026-06-23.",
+      "topic_tags": [
+        "teaching method",
+        "Dante",
+        "interpretation"
+      ],
+      "claim_type": "method",
+      "confidence": "high"
+    },
+    {
+      "claim": "To explain lust in Dante, Jiang says readers must assume Dante knows what he is doing and must solve the problem clearly enough to explain it to others.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Lecture method claim on 2026-06-23.",
+      "topic_tags": [
+        "lust",
+        "Dante",
+        "interpretation"
+      ],
+      "claim_type": "method",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines Dante's ultimate message as living a life of faith, hope, and love.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0006",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture model on 2026-06-23.",
+      "topic_tags": [
+        "faith",
+        "hope",
+        "love",
+        "Divine Comedy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Faith is defined here as the imagination to believe that God, heaven, hell, and divine love are real.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture definition on 2026-06-23.",
+      "topic_tags": [
+        "faith",
+        "imagination",
+        "religion"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Hope is defined as a kind of arrogance: you must believe that you matter and that your actions affect the universe.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture definition on 2026-06-23.",
+      "topic_tags": [
+        "hope",
+        "arrogance",
+        "agency"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Love is defined as action rather than passivity, including the stance that injustice anywhere is injustice everywhere.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture definition on 2026-06-23.",
+      "topic_tags": [
+        "love",
+        "action",
+        "justice"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Dante places lust, gluttony, greed, and wrath in Inferno but not envy, pride, and sloth; instead Inferno escalates toward fraud, violence, and treachery.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0007",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture model on 2026-06-23 about Inferno's structure.",
+      "topic_tags": [
+        "Inferno",
+        "seven deadly sins",
+        "fraud",
+        "violence",
+        "treachery"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Inferno's geography is part of the argument: crossing major boundaries marks greater crimes as Dante descends.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture model on 2026-06-23.",
+      "topic_tags": [
+        "Inferno",
+        "geography",
+        "crime hierarchy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0006"
+      ],
+      "moment": "Faith becomes an act of imagination rather than a flat assent to doctrine.",
+      "source_phrase": "faith is the imagination to believe",
+      "why_it_matters": "This is a reusable Jiang definition that turns religion into a faculty of world-construction.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0006"
+      ],
+      "moment": "Hope is recast as arrogance: you must believe your actions actually matter.",
+      "source_phrase": "hope is the idea of arrogance",
+      "why_it_matters": "It reverses the usual moral suspicion of arrogance and makes ego a necessary condition of spiritual seriousness.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0007"
+      ],
+      "moment": "Love is not sentiment but action against injustice.",
+      "source_phrase": "love is action",
+      "why_it_matters": "It gives the lecture its operational moral core and later supports Jiang's contrast between passive vice and active moral life.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0008"
+      ],
+      "moment": "Inferno's map is moral altitude reversed: the deeper you go, the greater the crime.",
+      "source_phrase": "the more you climb into hell the greater the crime",
+      "why_it_matters": "It compresses Dante's architecture into a single memorable rule that guides the rest of the lecture.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "faith",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Imaginative belief that God, heaven, hell, and divine love are real.",
+      "confidence": "high"
+    },
+    {
+      "term": "hope",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "A form of arrogance or agency: believing that you matter and that your actions affect the universe.",
+      "confidence": "high"
+    },
+    {
+      "term": "love",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Active opposition to injustice rather than passive feeling.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0001",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0004"
+      ],
+      "note": "This 2026-06-23 lecture explicitly resumes unresolved issues from the prior class, especially the problem of lust and Jiang's own dissatisfaction with the previous day's accuracy and tone.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0004",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0007",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0008"
+      ],
+      "note": "The transcript repeatedly renders 'Dante' as 'don', 'donnie', or 'dunning'; the semantic pass normalizes the referent while preserving the lecture content."
+    }
+  ]
+}

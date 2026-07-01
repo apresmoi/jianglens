@@ -1,0 +1,151 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0028",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0217",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0219"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang pivots from the Brunetto discussion into a recap of Dante as prophet and begins mapping the characteristics of hell onto Florence and the present day.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0220",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0224"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks why a person formed by meritocratic competition might never apologize after sabotaging a friend, and students answer in terms of ego, self-justification, and moral knowledge.",
+      "speaker_attribution": "Classroom exchange led by Jiang",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0218"
+      ],
+      "note": "Jiang explicitly dates Dante's warning by linking ignored prophecy to the later arrival of the Black Death.",
+      "suggested_speaker": "Jiang",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Dante builds hell as an allegory for Italy and Florence, so the geography of inferno doubles as a diagnosis of his society.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0217"
+      ],
+      "temporal_scope": "Lecture model on 2026-06-23.",
+      "topic_tags": [
+        "hell geography",
+        "Italy",
+        "Florence",
+        "allegory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames Dante as a prophet warning that if people do not repent, judgment will be swift and harsh, later exemplified by the Black Death.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0218"
+      ],
+      "temporal_scope": "Lecture chronology claim on 2026-06-23 about 1357 and after.",
+      "topic_tags": [
+        "prophecy",
+        "judgment",
+        "Black Death"
+      ],
+      "claim_type": "prediction",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang identifies factionalism and intense economic pressure to succeed as two major characteristics of Florence that continue into the present meritocracy.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0218",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0219"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-06-23.",
+      "topic_tags": [
+        "factionalism",
+        "meritocracy",
+        "economic pressure"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Students suggest a meritocratic saboteur may refuse apology because ego and self-justification let her reinterpret her deed rather than confess it.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0221",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0222",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0224"
+      ],
+      "temporal_scope": "Student interpretation on 2026-06-23.",
+      "topic_tags": [
+        "apology",
+        "ego",
+        "self-justification"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0218"
+      ],
+      "moment": "Ignored prophecy is answered by plague-level judgment.",
+      "source_phrase": "judge judgment will be swift, brutal, and harsh",
+      "why_it_matters": "Jiang turns Dante into a civilizational warner whose claims are tested by historical catastrophe.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0219",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0220"
+      ],
+      "moment": "Meritocracy makes apology feel impossible.",
+      "source_phrase": "there is an almost incapacity to apologize",
+      "why_it_matters": "This is one of Jiang's strongest translations of infernal logic into contemporary social psychology.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "meritocracy",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0219"
+      ],
+      "definition_or_usage": "Jiang's name for a system where success and achievement dominate moral life and deform ordinary human responses like apology.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0217",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0224"
+      ],
+      "note": "After the break, the lecture broadens from Brunetto's case into a general mapping from Dante's Florence to modern meritocratic society.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0218"
+      ],
+      "note": "Jiang names 1357 and the Black Death in a compressed way; preserve the plague reference as part of his prophetic framing without overclaiming exact chronology from this packet alone."
+    }
+  ]
+}

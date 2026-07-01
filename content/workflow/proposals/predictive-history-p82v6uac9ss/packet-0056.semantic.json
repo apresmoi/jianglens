@@ -1,0 +1,110 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0056",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0441",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0448"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang identifies the filth-drenched sinners as flatterers and expands the point into a contemporary diagnosis of internet fraud, fake news, AI deepfakes, and the wasted imagination required both to deceive and to defend oneself from deception.",
+      "speaker_attribution": "Jiang-led classroom exchange",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says the sinners drowning in excrement are flatterers and habitual bullshitters, so the punishment is being submerged in the substance they produced socially.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0441"
+      ],
+      "temporal_scope": "Lecture punishment reading on 2026-06-23.",
+      "topic_tags": [
+        "flattery",
+        "bullshit",
+        "punishment"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says fraud is a major characteristic of a declining society because people can no longer trust one another.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0443"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-06-23.",
+      "topic_tags": [
+        "fraud",
+        "trust",
+        "decline"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Students connect present-day fraud to internet scams, AI deepfakes, and fake news, which Jiang accepts as current equivalents.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0444",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0447"
+      ],
+      "temporal_scope": "Classroom present-day extension on 2026-06-23.",
+      "topic_tags": [
+        "internet fraud",
+        "AI",
+        "deepfake",
+        "fake news"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student says fraud wastes imagination twice over: deceivers spend imagination on cheating and everyone else spends imagination on avoiding being cheated.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0448"
+      ],
+      "temporal_scope": "Student model on 2026-06-23.",
+      "topic_tags": [
+        "imagination",
+        "waste",
+        "fraud"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0448"
+      ],
+      "moment": "Fraud is not only theft; it is a civilization-scale misallocation of imagination.",
+      "source_phrase": "wasting their imagination",
+      "why_it_matters": "This gives the packet a reusable Jiang-style mechanism connecting ethics, cognition, and social cooperation.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0441",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0448"
+      ],
+      "note": "The fraud sequence is explicitly contemporary here, with Jiang mapping Dante's flatterers onto digital deception and collapsing trust.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0447"
+      ],
+      "note": "Jiang's fake-news wording is slightly garbled by ASR, but the intended point is clear: modern media environments make authenticity harder to verify."
+    }
+  ]
+}

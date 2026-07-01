@@ -1,0 +1,125 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0030",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0233",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0238"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang describes meritocracy as a regime that trains people to delight in another person's failure instead of helping them, then links that delight to infernal wrath.",
+      "speaker_attribution": "Jiang lecture with minor student interjections",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0239",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0240"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang turns from meritocratic cruelty back to homosexuality and frames the coming discussion as difficult because modern audiences read homosexual love through persecution and forbidden love narratives.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0234",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0236"
+      ],
+      "note": "Student interruptions do not alter the core claim; Jiang is pressing for the emotional truth of schadenfreude rather than factual excuses.",
+      "suggested_speaker": "Jiang with students",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says a meritocracy trains people to delight in another person's pain, especially when a previously celebrated rival finally fails.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0233",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0237"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-06-23.",
+      "topic_tags": [
+        "meritocracy",
+        "schadenfreude",
+        "wrath"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang models meritocracy as a race where the morally correct response is to stop for the injured runner, but the actual response is to smile and keep going.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0238"
+      ],
+      "temporal_scope": "Lecture moral image on 2026-06-23.",
+      "topic_tags": [
+        "competition",
+        "indifference",
+        "moral failure"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the problem of homosexuality is difficult for modern readers because contemporary culture already sees persecuted same-sex love as an act of faith, hope, and love.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0239"
+      ],
+      "temporal_scope": "Lecture framing on 2026-06-23.",
+      "topic_tags": [
+        "homosexuality",
+        "modern reading",
+        "Brokeback Mountain"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0237"
+      ],
+      "moment": "The hidden emotion of meritocracy is relief at another person's collapse.",
+      "source_phrase": "finally she finally failed",
+      "why_it_matters": "Jiang names the petty infernal pleasure that competitive systems normalize.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0238"
+      ],
+      "moment": "Meritocracy turns a fallen runner into an opportunity.",
+      "source_phrase": "you just smile and run on",
+      "why_it_matters": "This is one of Jiang's sharpest images for the moral deformation produced by competition.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0233",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0240"
+      ],
+      "note": "The lecture closes the meritocracy sequence and then deliberately reopens the homosexuality problem with modern moral intuitions placed on the table.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0239"
+      ],
+      "note": "Jiang uses Brokeback Mountain as shorthand for a modern sympathy frame; keep the referent compact without turning it into an independent claim about the film."
+    }
+  ]
+}

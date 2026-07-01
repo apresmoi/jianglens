@@ -1,0 +1,197 @@
+{
+  "packet_id": "predictive-history-p82v6uac9ss-semantics-pkt-0022",
+  "source_id": "video:predictive-history-p82v6uac9ss",
+  "source_date": "2026-06-23",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0169",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0170"
+      ],
+      "kind": "exchange",
+      "summary": "The reading gives the suicide-tree's speech of loyal service and despair, and Jiang reframes the figure as a virtuous counselor who killed himself after false treason charges.",
+      "speaker_attribution": "Student reading with Jiang explanation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0171",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0172"
+      ],
+      "kind": "exchange",
+      "summary": "A student says suicide abandons faith, hope, and love and damages other people's ability to connect, and Jiang strongly endorses that answer.",
+      "speaker_attribution": "Student answer confirmed by Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0173",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0174"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The reading explains how suicides become thorn-bushes in the wood and will only repossess their bodies as hanging burdens after the final judgment.",
+      "speaker_attribution": "Student reading Dante aloud",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0175",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0176"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The canto shifts to the squanderers pursued by black bitches and ends with another wounded tree speaking through blood.",
+      "speaker_attribution": "Student reading Dante aloud",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0169"
+      ],
+      "note": "The speech is highly compressed and ASR-noisy in names, but the core content is clear: a faithful court servant undone by envy who chose death in despair.",
+      "suggested_speaker": "Student reading quoted figure",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang interprets the suicide-tree as a historically known counselor who was virtuous and talented, falsely accused of treason, and then killed himself in despair.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0170"
+      ],
+      "temporal_scope": "Lecture paraphrase on 2026-06-23.",
+      "topic_tags": [
+        "suicide",
+        "treason",
+        "despair",
+        "counselor"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student says suicide rejects faith, hope, and love and also damages society by impairing other people's capacity to love and connect.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0171"
+      ],
+      "temporal_scope": "Student model on 2026-06-23.",
+      "topic_tags": [
+        "suicide",
+        "faith",
+        "hope",
+        "love",
+        "society"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says suicide is the opposite of faith, hope, and love because it rejects God as savior and turns a gifted person into a destructive example for others.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0172"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-06-23.",
+      "topic_tags": [
+        "suicide",
+        "God",
+        "role model",
+        "despair"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The canto says suicides are thrown into the seventh circle's wood, sprout where chance drops them, and only recover their bodies as hanging signs of what they cast away.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0173",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0174"
+      ],
+      "temporal_scope": "Quoted Inferno mechanism discussed on 2026-06-23.",
+      "topic_tags": [
+        "suicide",
+        "body",
+        "judgment",
+        "wood"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The packet broadens violence against the self by adding the squanderers, who are chased and torn apart by black bitches through the same violent wood.",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0175",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0176"
+      ],
+      "temporal_scope": "Quoted Inferno action on 2026-06-23.",
+      "topic_tags": [
+        "squanderers",
+        "violence against self",
+        "black bitches",
+        "wood"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0172"
+      ],
+      "moment": "Suicide says even God cannot save me.",
+      "source_phrase": "this is so hopeless, even God can't save me",
+      "why_it_matters": "It is Jiang's sharpest psychological definition of suicide as theological abandonment.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0174"
+      ],
+      "moment": "The body you threw away returns only as a hanging burden on your stump.",
+      "source_phrase": "It is not right for any man to have what he himself has cast aside",
+      "why_it_matters": "This is the packet's most powerful image of self-rejection becoming permanent form.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "violence against self",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0170",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0174"
+      ],
+      "definition_or_usage": "The second ring of violence in which suicide and self-destruction are punished through loss of bodily form and continual torment.",
+      "confidence": "high"
+    },
+    {
+      "term": "harpies",
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0174"
+      ],
+      "definition_or_usage": "The creatures that feed on the leaves of the suicide trees, producing pain that becomes their outlet for speech.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0169",
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0176"
+      ],
+      "note": "This packet takes the suicide-tree from personal testimony into Jiang's moral interpretation, then widens the ring to include the hunted squanderers.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-p82v6uac9ss@transcript:v1#seg-0175"
+      ],
+      "note": "Proper names and one chase reference are ASR-rough, but the scene of self-destructive souls pursued by black bitches is clear."
+    }
+  ]
+}
