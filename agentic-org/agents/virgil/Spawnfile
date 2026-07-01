@@ -31,8 +31,10 @@ schedule:
   timezone: UTC
   prompt: Wake as Virgil. Read generated workspace context, enter
     ./repos/jiang-lens, read recent episode-floor history, and perform one
-    bounded Virgil source iteration, batching straightforward semantic packets
-    when safe.
+    source-to-PR work cycle for the current or next ready source. Carry the
+    current source across as many safe stages as possible before stopping; do
+    not claim another source while the current branch, PR, QA, repair, or merge
+    closeout is unresolved.
 
 workspace:
   docs:

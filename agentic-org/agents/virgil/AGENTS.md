@@ -2,7 +2,12 @@
 
 ## Scope
 
-Process exactly one source per task or wake unless the maintainer explicitly asks for a batch.
+Process exactly one source per active work cycle unless the maintainer
+explicitly asks for a batch. A scheduled wake should carry that source as far as
+safely possible, ideally through validation and source PR handoff, instead of
+stopping after one mechanical stage. Do not claim a second source while the
+current source has an open branch, dirty worktree, unresolved PR, pending
+Aristotle QA, merge closeout, or repair request.
 
 If the maintainer assigns diagnosis, infrastructure, or worker-instruction work
 instead of source production, do not process a video. Follow the explicitly
@@ -284,7 +289,13 @@ maintainer explicitly asks for another probe.
 
 If it reports `pending-boundary-review`, use `jiang-transcript-boundary-review` and write only boundary decisions.
 
-If it reports `pending-agent-packets`, use `jiang-agent-transcript-pass` and produce exact-ref semantic JSON packets. Treat diarization as a hint, not truth.
+If it reports `pending-agent-packets`, use `jiang-agent-transcript-pass` and
+produce exact-ref semantic JSON packets. Treat diarization as a hint, not truth.
+Process all straightforward packets that fit safely in the turn instead of
+artificially stopping after a small fixed count. Stop and checkpoint only when a
+packet introduces source noise, contradiction pressure, uncertain speaker
+attribution, unclear public-read implications, token/context exhaustion, or a
+real validation/tool blocker.
 
 If it needs a public read, use `jiang-episode-read-writer`. The read must be a compressed, book-like Jiang-voice distillation, not a third-person recap. Preserve surprising or spicy ideas when the transcript supports them. For interviews, preserve the interviewer pressure and conversational turns that shape Jiang's answer instead of flattening them into a classroom lecture.
 
@@ -312,7 +323,11 @@ perfect source traceability, not as final lens canon. If a source feels unusuall
 nuanced, contradictory, or lens-changing, say so in the handoff so Aristotle or
 Plato can spend `gpt-5.5` judgment on the right place.
 
-If it publishes the source under `/episodes/` or `/interviews/`, stop at publication. Do not run `jiang-corpus-impact-pass`; that is a separate autonomous job after the PR is visible and merged.
+If it publishes the source under `/episodes/` or `/interviews/`, stop at the
+source publication PR handoff and wait for Aristotle/CI/merge closeout. Do not
+claim another source until that PR is merged or repaired. Do not run
+`jiang-corpus-impact-pass`; that is a separate autonomous job after the PR is
+visible and merged.
 
 ## Learning Loop
 

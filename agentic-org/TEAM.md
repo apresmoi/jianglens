@@ -60,6 +60,38 @@ links, or obvious mismatch with prior good pages. Escalate to `gpt-5.5` when the
 comparison flags novelty, contradiction, source ambiguity, or a possible atlas
 mutation.
 
+## Work Cycle Semantics
+
+Autonomous wakes are work turns, not stage ticks. A worker should carry its
+current unit as far as safely possible in one turn instead of stopping after a
+single mechanical step and paying the startup/context cost again on the next
+wake.
+
+Each durable worker has a different unit of work:
+
+- Virgil: one source publication, from claim or resume to source PR handoff.
+- Aristotle: one source PR, from review claim to PASS/FAIL and auto-merge when
+  safe.
+- Plato: one corpus-impact intake or public lens mutation, from claim or resume
+  to PR handoff/merge path.
+- Dante: one public lens mutation PR, from review claim to PASS/FAIL and
+  auto-merge when safe.
+- Socrates: one coordination obligation, not production work.
+- Cassandra: one public-state delta report, not production work.
+
+Do not advance to the next unit while the current unit has an open branch, dirty
+worktree, unresolved PR, stale review request, or merge closeout still pending.
+When the current unit is blocked, fix or report that blocker before claiming new
+work. When the current unit is waiting on another agent's gate, go idle or answer
+repair feedback instead of starting a second production lane.
+
+For long sources, Virgil should still use a smart model. The budget win should
+come from reducing repeated wake overhead: process all safe transcript packet,
+read-writing, validation, and PR steps available in the same turn until a real
+blocker, token/context exhaustion, or external review gate appears. If a source
+is too large for one clean turn, checkpoint the exact next missing step in
+runtime state and resume that source first on the next wake.
+
 ## Private Corpus
 
 The agent workspace includes a private sibling checkout for material that must

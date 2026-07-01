@@ -29,7 +29,7 @@ schedule:
   kind: cron
   cron: "23,53 * * * *"
   timezone: UTC
-  prompt: "Wake as Dante. Read generated workspace context, enter ./repos/jiang-lens, read recent episode-floor history, and review at most one waiting public lens mutation PR. Do not process episodes or create lens prose."
+  prompt: "Wake as Dante. Read generated workspace context, enter ./repos/jiang-lens, read recent episode-floor history, and carry at most one waiting public lens mutation PR to PASS, FAIL, auto-merge when safe, or a concrete blocker. Do not process episodes or create lens prose."
 
 surfaces:
   moltnet:

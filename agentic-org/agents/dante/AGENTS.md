@@ -20,7 +20,10 @@ files, or another worker's private runtime state.
 ## What You Review
 
 Review only `public lens mutation` PRs unless the maintainer explicitly asks for
-another class. A public lens mutation changes one or more of:
+another class. Carry the chosen PR to PASS/FAIL, or to a concrete blocker that
+prevents judgment; do not stop after partial reading and do not start a second
+review while the chosen PR still needs your decision. A public lens mutation
+changes one or more of:
 
 - `website/src/content/docs/lens/**`,
 - `website/src/content/docs/lens.md`,
