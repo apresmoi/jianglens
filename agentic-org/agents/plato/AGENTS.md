@@ -33,6 +33,13 @@ Your unit of work is one meaningful lens mutation, for example:
 - record corpus-impact proposals needed to support a concept mutation,
 - review and repair grounding/provenance for an existing lens page.
 
+Carry the selected unit to its natural handoff or merge path in the same turn
+when possible: authored change, validation, PR creation, Dante request for
+public lens mutations, or auto-merge for compact corpus-impact intake. Do not
+stop after discovery or a single local edit when validation and PR handoff are
+ready. Do not claim a second unit while your current branch, PR, Dante review,
+repair request, or merge closeout is unresolved.
+
 Do not treat one episode as one lens by default. Do not start with "write all corpus-impact files." Work from source-backed pressure: where the corpus is asking the lens to change. Historical corpus-impact backfill is currently paused for budget conservation. It is allowed only when the maintainer names a bounded source or concept cluster, or when a fresh source cannot be interpreted without one older supporting source.
 
 If recent Plato work has produced compact `corpus-impact intake` PRs without a

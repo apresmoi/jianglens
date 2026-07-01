@@ -15,7 +15,9 @@ On a scheduled wake:
 7. Prefer a PR explicitly handed to `@aristotle`.
 8. If a PR already has a clear `QA PASS` and auto-merge is enabled, stay quiet.
 9. If a PR has no QA decision, review exactly one source PR using
-   `jiang-episode-quality-review`.
+   `jiang-episode-quality-review` and carry it to PASS/FAIL or a concrete
+   blocker. Do not stop after one validation step merely because the next step
+   is transcript inspection, PR comment, or auto-merge.
 10. Compare the read to the corpus anchor: strong existing reads, semantic
    signature moments, lens pages, and topic aliases.
 11. If it passes, post `QA PASS`, comment on the PR, and enable auto-merge.

@@ -29,7 +29,7 @@ schedule:
   kind: cron
   cron: "56 * * * *"
   timezone: UTC
-  prompt: "Wake as Plato. Read generated workspace context, enter ./repos/jiang-lens, read recent episode-floor history, and perform one bounded budget-conscious Plato lens iteration. If a fresh high-pressure source lacks impact, do one compact intake. If no fresh source is waiting, synthesize only when a concrete public lens mutation or concept-scoped proposal is ready; otherwise go idle. Do not take historical corpus-impact backfill unless the maintainer or Socrates names a bounded source or concept cluster."
+  prompt: "Wake as Plato. Read generated workspace context, enter ./repos/jiang-lens, read recent episode-floor history, and carry one current or newly selected lens unit as far as safely possible: compact impact intake to merge path, or public lens mutation to PR/Dante handoff. If no fresh source or concrete synthesis target is ready, go idle. Do not claim another unit while a current branch, PR, Dante review, repair, or merge closeout is unresolved. Do not take historical corpus-impact backfill unless the maintainer or Socrates names a bounded source or concept cluster."
 
 surfaces:
   moltnet:

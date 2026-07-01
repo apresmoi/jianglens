@@ -11,12 +11,16 @@ On an autonomous wake:
 7. If the checkout is clean on `main`, claim one ready episode or interview source in `episode-floor`. If the first remaining source is blocked only by bot-gated YouTube metadata after the cookie fallback, record it as metadata-blocked for the current `origin/main` commit and try the next remaining source instead of stopping the queue.
 8. Create a source-scoped branch.
 9. Update `current.json` at stage boundaries with source, branch, stage, and next checkpoint.
-10. Run the source E2E process until the next concrete blocker is resolved.
-    During `pending-agent-packets`, process up to three straightforward
-    semantic packets in one wake if each packet validates cleanly and the
-    transcript slices do not introduce ambiguity. Stop after one packet if the
-    packet has source noise, contradiction pressure, uncertain speaker
-    attribution, or unclear public-read implications.
+10. Run the source E2E process as far as safely possible in this wake: ingest,
+    boundary decisions, semantic packets, read writing, validation, push, and PR
+    handoff when each stage is ready. Do not stop after one mechanical stage
+    merely because the stage boundary changed. During `pending-agent-packets`,
+    process all straightforward packets that fit safely in the turn if each
+    packet validates cleanly and the transcript slices do not introduce
+    ambiguity. Stop and checkpoint only when the source has noise,
+    contradiction pressure, uncertain speaker attribution, unclear public-read
+    implications, token/context exhaustion, validation/tool failure, or an
+    external review gate.
 11. Run the corpus-anchor check against strong existing reads, semantic
     signature moments, existing lens pages, and topic aliases.
 12. Validate.
@@ -47,9 +51,9 @@ changes under `repos/jiang-lens/agentic-org/agents/virgil/proposals/` from works
 Scheduling rule: this wake is created by Picoclaw native cron. Maintain exactly
 one recurring agent-turn job named `virgil-source-drain`. When the episode or
 interview backlog has ready sources, the default cadence is every 10 minutes
-and each wake processes one source or resumes the in-progress source. Packet
-stage wakes may batch up to three straightforward semantic packets as described
-above; non-packet stages remain one bounded stage per wake.
+and each wake processes one source or resumes the in-progress source. A wake is
+allowed to cross multiple internal stages for the same source; this is expected
+and saves repeated context overhead.
 When both backlogs are empty, report the idle state once and propose dropping
 back to a daily maintenance cadence. Do not create duplicate autonomy jobs and
 do not schedule shell-command cron jobs unless a maintainer explicitly asks.

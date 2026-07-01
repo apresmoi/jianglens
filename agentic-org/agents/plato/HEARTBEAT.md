@@ -53,7 +53,9 @@ git checkout -b lens/<concept-or-task-slug>
    - `jiang-provenance-linker` for evidence marks, lens points, backlinks, and episode-to-lens links,
    - `jiang-lens-judge` before handoff for substantial public changes,
    - `jiang-canon-promotion` only when explicitly promoting reviewed material.
-14. Validate before PR:
+14. Carry the selected unit as far as safely possible in this wake. Do not stop
+    after source discovery, one provenance edit, or one authored section when
+    validation and PR handoff are ready. Validate before PR:
 
 ```bash
 node ops/scripts/compile-content.mjs

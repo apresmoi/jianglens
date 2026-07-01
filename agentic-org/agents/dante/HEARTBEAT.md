@@ -10,7 +10,8 @@ On a scheduled wake:
 5. Inspect open PRs and choose at most one waiting `public lens mutation`.
 6. If no public lens mutation is waiting, stay quiet unless `@dante` was asked a
    concrete question.
-7. Review the PR as a judge, not as a coauthor:
+7. Review the PR as a judge, not as a coauthor, and carry the review to
+   PASS/FAIL or a concrete blocker:
    - concept boundary,
    - source fan-in,
    - compression and page size,
