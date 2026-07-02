@@ -9,7 +9,7 @@ Public surface affected later: `website/src/content/docs/lens/how-poetry-creates
 
 Freeze **How Poetry Creates Civilization** for ordinary source appends. The page should stay the public parent for the general mechanism, but the next visible Poetry mutation should reopen the narrow **Dante As Poetic Access And Reception** child path and pair it with parent compression.
 
-This is a change from the July 1 split plan's "compression first, child only if compression fails" posture. Compression has now been tried: PR #1170 compressed the Dante reception layer while preserving the parent. After later Dante pressure, the current page is still over the soft split-review warning at about 6,365 authored words, 114 raw evidence attributes, 15 distinct authored local video slugs, 9 stable anchors, 105 compiled doc evidence marks, and 94 unique compiled segment refs. It is not at the 20-source hard source-fan-in diagnostic, but it is no longer below the word warning, and the densest pressure is not random. Dante access, invasion, delayed reception, memory software, prophecy as present critique, and Purgatory beginning by washing Virgil off are now doing more work than a parent section should keep absorbing.
+This is a change from the July 1 split plan's "compression first, child only if compression fails" posture. Compression has now been tried: PR #1170 compressed the Dante reception layer while preserving the parent. The direct authored page count is about 5,347 words, so the page is below the ordinary 6,000-word warning line. The reopen pressure instead comes from density and concentration: 114 raw evidence attributes, 15 distinct authored local video slugs, 9 stable anchors, 105 compiled doc evidence marks, 94 unique compiled segment refs, 32 episode links mentioning Poetry anchors, and a Dante access/reception branch that kept accumulating after compression. Dante access, invasion, delayed reception, memory software, prophecy as present critique, and Purgatory beginning by washing Virgil off are now doing more work than a parent section should keep absorbing.
 
 Do not create a generic Dante page, Paradiso page, Inferno page, Purgatory page, Virgil page, Jesus portal page, Shakespeare page, Homer page, Modernism page, Oral Memory page, or Hollywood page from this pressure. The only child worth reopening is the reception mechanism already named in the July 1 plan: how Dante's poem opens access by entering memory before full understanding, democratizing contact with truth, surviving exile and delayed readers, and later unlocking itself through imagination, love, catastrophe, and practice.
 
@@ -27,7 +27,7 @@ Measured from authored Markdown and compiled link data on 2026-07-02:
 
 | Diagnostic | Current value | Split implication |
 | --- | ---: | --- |
-| Counted authored words | about 6,365 | over the ordinary 6,000-word warning line |
+| Counted authored words | about 5,347 | below the ordinary 6,000-word warning line after PR #1170 compression |
 | Authored evidence attributes | 114 | high hover/backlink density |
 | Distinct authored local video slugs | 15 | below the ordinary 20-source fan-in trigger |
 | Stable lens-point anchors | 9 | preserve IDs during any child extraction |
@@ -51,13 +51,13 @@ Section pressure is concentrated enough to guide the boundary:
 
 | Section | Words | Evidence attrs | Local slugs | Anchors |
 | --- | ---: | ---: | ---: | ---: |
-| `Dante: Poetic Access, Invasion, And Reception` | about 766 | 19 | 6 | 2 |
-| `Poetry As A Gateway Into The Soul` | about 699 | 18 | 5 | 1 |
-| `Chronology So Far` | about 705 | 18 | 15 | 0 |
-| `The Poem As Portal` | about 617 | 10 | 4 | 2 |
-| `Shakespeare And Language As Empire` | about 554 | 7 | 1 | 1 |
+| `Dante: Poetic Access, Invasion, And Reception` | about 593 | 19 | 6 | 2 |
+| `Poetry As A Gateway Into The Soul` | about 534 | 18 | 5 | 1 |
+| `Chronology So Far` | about 515 | 18 | 15 | 0 |
+| `The Poem As Portal` | about 497 | 10 | 4 | 2 |
+| `Shakespeare And Language As Empire` | about 467 | 7 | 1 | 1 |
 
-The gateway and chronology pressure is partly parent-spine material, but the Dante pressure is the one branch that has already received a compression attempt and then continued to accumulate fresh source pressure.
+The gateway and chronology pressure is partly parent-spine material, but the Dante pressure is the one branch that has already received a compression attempt and then continued to accumulate fresh source pressure. This is therefore not a word-threshold split. It is a route decision before dense hovers, backlinks, and Dante reception evidence make the parent harder to navigate.
 
 ## Parent Boundary After Reopen
 
