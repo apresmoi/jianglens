@@ -1,0 +1,126 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0035",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0273"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads Virgil's self-description to Sordello, where Virgil says he was buried under Octavian and lost heaven only because he lacked faith.",
+      "speaker_attribution": "Student reading Purgatorio aloud",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0274",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0275",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0276",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0277",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0278",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0279",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0280"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang challenges the class to identify the lie in Virgil's speech, rejects several answers, and argues that the claim cannot be true because the class has already seen the pagan Cato in Purgatory, which proves lack of Christian faith is not an absolute barrier there.",
+      "speaker_attribution": "Jiang-led discussion with multiple student guesses",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The quoted passage presents Virgil as saying he is deprived of heaven solely for lack of faith.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0273"
+      ],
+      "temporal_scope": "Quoted Purgatorio passage read on 2026-06-25.",
+      "topic_tags": [
+        "Virgil",
+        "faith",
+        "Limbo",
+        "Sordello"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Virgil's explanation is false because Cato is a pagan already admitted to Purgatory, so pagan status alone cannot explain exclusion from heaven or purgatorial access.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0274",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0277",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0278",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0279",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0280"
+      ],
+      "temporal_scope": "Lecture diagnosis given on 2026-06-25.",
+      "topic_tags": [
+        "Virgil",
+        "Cato",
+        "pagan salvation",
+        "lying"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang turns the scene into a psychological question by asking whether Virgil knowingly lies or speaks from a distorted self-understanding despite direct contrary evidence.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0276",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0280"
+      ],
+      "temporal_scope": "Lecture question posed on 2026-06-25.",
+      "topic_tags": [
+        "self-knowledge",
+        "lying",
+        "Virgil",
+        "psychology"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0273"
+      ],
+      "moment": "Virgil reduces his damnation to a dignified lack of faith, as if nothing in his own psychology were implicated.",
+      "source_phrase": "deprived of heaven for no fault other than my lack of faith",
+      "why_it_matters": "It sets up Jiang's claim that Virgil narrates his exclusion in a self-protective way.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0280"
+      ],
+      "moment": "Cato's presence in Purgatory becomes the hard fact that cracks Virgil's story about why pagans are shut out.",
+      "source_phrase": "we just saw kato in purgatory",
+      "why_it_matters": "This is the evidentiary pivot from theological formula to psychological contradiction.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0273",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0280"
+      ],
+      "note": "The lecture moves from Virgil's jealousy and impatience into a sharper claim that Virgil misdescribes his own fate even after encountering a pagan admitted to Purgatory.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0273"
+      ],
+      "note": "The read-aloud includes minor ASR noise, but the key claim about loss of heaven through lack of faith is clear."
+    }
+  ]
+}
