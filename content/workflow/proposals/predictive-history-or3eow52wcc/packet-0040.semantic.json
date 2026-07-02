@@ -1,0 +1,136 @@
+{
+  "packet_id": "predictive-history-or3eow52wcc-semantics-pkt-0040",
+  "source_id": "video:predictive-history-or3eow52wcc",
+  "source_date": "2026-06-26",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0313"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang says the dream has unsettled Dante and forces him to reckon with both its emotional charge and its meaning before the class continues reading.",
+      "speaker_attribution": "Jiang lecture framing.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0314",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0315",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0316",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0317"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The reading moves from the angel's redirection after the dream into the terrace of avarice, where Pope Adrian explains why the greedy lie face down and how papal ambition taught him the deceit of worldly ascent.",
+      "speaker_attribution": "Student reading Dante aloud.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0318",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0320"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang identifies the terrace as avarice and glosses Pope Adrian's prostration as repentance after climbing the ladder of ecclesial power.",
+      "speaker_attribution": "Jiang explanation and transition.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0319"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The reading closes Adrian's exchange with Dante: he refuses deferential posture, insists they are fellow servants, and asks care for the niece left behind him.",
+      "speaker_attribution": "Student reading Dante aloud.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says Dante's new vision has emotionally shaken him and now demands interpretation rather than simple dismissal.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0313"
+      ],
+      "temporal_scope": "Lecture framing on 2026-06-26.",
+      "topic_tags": ["dream", "emotion", "interpretation", "Dante"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The canto presents Pope Adrian as learning only after becoming Roman shepherd that worldly advancement and papal magnificence do not bring rest, and that avarice is purged by forcing the soul's gaze back toward the earth it wrongly loved.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0316",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0317"
+      ],
+      "temporal_scope": "Quoted Dante passage read on 2026-06-26.",
+      "topic_tags": ["Pope Adrian", "avarice", "papacy", "punishment"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang glosses Adrian as a pope who climbed the ladder of power through ambition and now lies on the ground in repentance on the terrace of greed.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0318"
+      ],
+      "temporal_scope": "Lecture gloss on 2026-06-26.",
+      "topic_tags": ["Pope Adrian", "ambition", "power", "repentance"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Adrian refuses Dante's bodily reverence and says the gospel makes all of them fellow servants of one power rather than ranking them by former office.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0319"
+      ],
+      "temporal_scope": "Quoted Dante passage read on 2026-06-26.",
+      "topic_tags": ["humility", "office", "gospel", "service"],
+      "claim_type": "normative",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0316"
+      ],
+      "moment": "Papal office is condensed into the line that the great mantle feels crushing while all other burdens become feathers.",
+      "source_phrase": "the great mantle weighs on him who'd keep it out of the mire",
+      "why_it_matters": "It turns ecclesial dignity into a burden that exposes ambition rather than rewarding it.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0317"
+      ],
+      "moment": "Justice answers greed by pinning the greedy back toward the earth they wrongly preferred.",
+      "source_phrase": "justice here impels our eyes toward earth",
+      "why_it_matters": "It gives Jiang a vivid bodily image for how sin becomes its own corrective pedagogy in purgatory.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "terrace of avarice",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0317",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0318"
+      ],
+      "definition_or_usage": "The purgatorial level where greed is purged by prostration, downward gaze, and captivity of hands and feet.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0313",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0318"
+      ],
+      "note": "This packet marks Jiang's June 26 pivot from the dream-warning sequence into a concrete moral anatomy of avarice and ecclesial ambition.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

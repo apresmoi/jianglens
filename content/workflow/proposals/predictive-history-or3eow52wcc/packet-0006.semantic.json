@@ -1,0 +1,202 @@
+{
+  "packet_id": "predictive-history-or3eow52wcc-semantics-pkt-0006",
+  "source_id": "video:predictive-history-or3eow52wcc",
+  "source_date": "2026-06-26",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0041",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0042"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang finishes the historical contrast by saying pre-Dante Purgatory handled special cases for the rich or the unclassifiable, then asks the class what Dante changes.",
+      "speaker_attribution": "Jiang lecture monologue ending in a prompt.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0043",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0044"
+      ],
+      "kind": "question",
+      "summary": "A student says Dante's Purgatory is the process-space between Hell and Heaven where self-reflection, prayer, and conviction allow movement upward through learned truth.",
+      "speaker_attribution": "Student synthesis.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0045",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0046",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0047",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0048"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang lists Dante's new system as democratic, hopeful, action-based, merciful, and just, while a student adds that it works through deeds rather than payment.",
+      "speaker_attribution": "Jiang exposition with a student confirmation.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0044"
+      ],
+      "note": "Segment seg-0044 is effectively empty and appears to be a packeting artifact rather than a meaningful transcript unit.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says that before Dante Purgatory was for special cases and mostly for people rich enough to pay indulgences, so it did not apply to most people.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0041"
+      ],
+      "temporal_scope": "Historical diagnosis given on 2026-06-26.",
+      "topic_tags": [
+        "indulgences",
+        "wealth",
+        "Purgatory",
+        "special-cases"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The student synthesis Jiang accepts defines Purgatory as a process of self-reflection, prayer, conviction, and learning rather than a static zone between Hell and Heaven.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Classroom synthesis on 2026-06-26.",
+      "topic_tags": [
+        "process",
+        "self-reflection",
+        "prayer",
+        "conviction",
+        "Purgatory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Dante's Purgatory is democratic because anyone can participate in it, including the poor through prayer, instead of only the wealthy through church payment.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Lecture interpretation given on 2026-06-26.",
+      "topic_tags": [
+        "democracy",
+        "prayer",
+        "poor",
+        "Purgatory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says Dante's system is hopeful because even bad people can still gain access to Purgatory through repentance, love from others, or prior acts of goodness.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0045"
+      ],
+      "temporal_scope": "Lecture interpretation given on 2026-06-26.",
+      "topic_tags": [
+        "hope",
+        "repentance",
+        "love",
+        "goodness"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts Dante's action-based and merciful Purgatory with a church system that incentivizes obedience and restricts Heaven to a narrow elite.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0046",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0047",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0048"
+      ],
+      "temporal_scope": "Lecture diagnosis given on 2026-06-26.",
+      "topic_tags": [
+        "obedience",
+        "action",
+        "mercy",
+        "justice",
+        "Heaven"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0045"
+      ],
+      "moment": "Dante's Purgatory is called democratic because even the poor can still act for the dead through prayer.",
+      "source_phrase": "if you're poor, you can still pray for your loved one in Purgatory",
+      "why_it_matters": "It turns afterlife justice from a market transaction into a participatory moral order.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0045"
+      ],
+      "moment": "Jiang says the church teaches against hope while Dante rebuilds the whole system around hope's persistence.",
+      "source_phrase": "the Catholic Church teaches you not to have any hope",
+      "why_it_matters": "This is one of the lecture's sharpest oppositions between institutional Christianity and Dante's cosmology.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0048"
+      ],
+      "moment": "Anyone can access Heaven now, but only through hard inner work rather than purchased exemption.",
+      "source_phrase": "anyone everyone can access heaven but you have to work hard",
+      "why_it_matters": "It captures the mix of universal accessibility and demanding effort Jiang sees as Dante's breakthrough.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "democratic Purgatory",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0045"
+      ],
+      "definition_or_usage": "Jiang's phrase for Dante's model in which access and participation are open beyond the wealthy elite.",
+      "confidence": "high"
+    },
+    {
+      "term": "action-based",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0047",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "A structure where deeds, repentance, and effort matter more than money or institutional permission.",
+      "confidence": "high"
+    },
+    {
+      "term": "merciful and just",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0048"
+      ],
+      "definition_or_usage": "Jiang's paired standard for why Dante's revised Purgatory coheres with a God of love.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0041",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0045",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0048"
+      ],
+      "note": "The lecture's June 26 argument now shifts from diagnosing the church's older loophole model to naming the features Dante must introduce for a coherent cosmology of love.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

@@ -1,0 +1,151 @@
+{
+  "packet_id": "predictive-history-or3eow52wcc-semantics-pkt-0047",
+  "source_id": "video:predictive-history-or3eow52wcc",
+  "source_date": "2026-06-26",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0369",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0372"
+      ],
+      "kind": "exchange",
+      "summary": "Students deepen the Virgil puzzle by calling Statius’s devotion burdensome and absurd, and Jiang ties the whole reaction back to plain human nature.",
+      "speaker_attribution": "Students and Jiang.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0373",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0376"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The reading turns to canto 22, where Virgil asks Statius about avarice, Statius clarifies that waste and greed can share a punishment, and then credits Virgil with making him both poet and Christian.",
+      "speaker_attribution": "Student reading Dante aloud.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0375"
+      ],
+      "note": "The ASR is noisy in the middle of this reading, but the surrounding gloss and adjacent lines make clear that Statius is confessing prodigality rather than greed and tying it to Virgil’s verses.",
+      "suggested_speaker": "Student reading Dante aloud",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the absurdity of one shade kissing another shade’s feet amplifies the scene’s burden and embarrassment for Virgil.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0369",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0370"
+      ],
+      "temporal_scope": "Class discussion on 2026-06-26.",
+      "topic_tags": [
+        "shade",
+        "absurdity",
+        "Virgil",
+        "Statius"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the emotional plausibility of Virgil’s jealousy as one reason the Comedy gives readers insight into themselves and ordinary human nature.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0372"
+      ],
+      "temporal_scope": "Lecture claim on 2026-06-26.",
+      "topic_tags": [
+        "human nature",
+        "self-knowledge",
+        "Comedy"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Statius says he was not greedy but excessively wasteful, and Jiang reads Dante as treating opposite extremes as morally linked enough to share punishment.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0373",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0375"
+      ],
+      "temporal_scope": "Reading gloss on 2026-06-26.",
+      "topic_tags": [
+        "avarice",
+        "wastefulness",
+        "extremes",
+        "punishment"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The reading presents Virgil as the lamp behind Statius: he illuminates the path for another without himself entering the faith that his poetry helps awaken.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0376"
+      ],
+      "temporal_scope": "Reading interpretation on 2026-06-26.",
+      "topic_tags": [
+        "Virgil",
+        "Statius",
+        "lamp",
+        "conversion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0372"
+      ],
+      "moment": "Jiang says the Comedy grips because Virgil’s humiliation feels like ordinary human nature rather than mythic abstraction.",
+      "source_phrase": "it's just human nature",
+      "why_it_matters": "The packet converts a theological scene into a psychological realism claim about why Dante keeps landing.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0376"
+      ],
+      "moment": "Virgil becomes the lamp-bearer who lights the road for others while remaining in the dark himself.",
+      "source_phrase": "carries the lamp behind him",
+      "why_it_matters": "This is the compact image that frames Virgil as both necessary guide and tragic non-participant.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "prodigality",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0373",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0375"
+      ],
+      "definition_or_usage": "Statius is glossed as belonging with avarice not because he hoarded, but because wastefulness is treated as the opposite excess that withers into the same vice-structure.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0376"
+      ],
+      "note": "This packet introduces a major June 26 theme: Virgil’s poetry can prepare another soul for Christianity even while Virgil himself remains outside that completion.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0375"
+      ],
+      "note": "The middle of the Statius reading is ASR-corrupted, so the semantic pass leans on the clearer start and end of the passage plus Jiang’s immediate gloss."
+    }
+  ]
+}
