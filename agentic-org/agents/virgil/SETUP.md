@@ -247,14 +247,14 @@ For runs that take more than a few minutes, post concise `episode-floor` progres
 at stage boundaries: claim or cleanup, current stage, validation, PR creation,
 and CI or blocker handoff.
 
-The Docker stack runs episode work through Picoclaw's native cron service. While
-ready episode or interview sources remain, keep one primary recurring
-agent-turn job named `virgil-source-drain` and let it wake every 10
-minutes. Each wake processes one source or resumes an in-progress source. If a
-source PR is open, blocked, behind, waiting for Aristotle QA, or waiting for
-auto-merge after QA pass, recover that PR before claiming the next source. When
-the episode and interview backlogs are both empty, report the idle state once
-and propose a daily maintenance cadence.
+The Docker stack runs episode work through Picoclaw's native cron service. Keep
+one primary recurring agent-turn job named `virgil-source-drain` on a daily
+cadence. The committed worker schedule is `3 3 * * *` UTC. Each wake processes
+one source or resumes an in-progress source. If a source PR is open, blocked,
+behind, waiting for Aristotle QA, or waiting for auto-merge after QA pass,
+recover that PR before claiming the next source. When the episode and interview
+backlogs are both empty, report the idle state once and stay on the same daily
+maintenance cadence instead of patching the rendered cron store by hand.
 
 When the interview backlog contains multiple unimported sources and the first
 one is blocked only by bot-gated metadata, skip that source after one
