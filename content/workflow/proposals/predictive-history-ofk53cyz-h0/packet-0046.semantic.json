@@ -1,0 +1,116 @@
+{
+  "packet_id": "predictive-history-ofk53cyz-h0-semantics-pkt-0046",
+  "source_id": "video:predictive-history-ofk53cyz-h0",
+  "source_date": "2026-06-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0361",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0362",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0363"
+      ],
+      "kind": "exchange",
+      "summary": "Students test moon travel and AI's practical benefits, while Jiang says moon travel is not alchemy but still a troubling Ulysses-like attempt to exceed natural limits.",
+      "speaker_attribution": "Student questions with Jiang response",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0364",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0365",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0366",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0367",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0368"
+      ],
+      "kind": "exchange",
+      "summary": "A student tries to distinguish AI from the internet, Jiang insists the internet is not alchemy, and he challenges the class to articulate the difference.",
+      "speaker_attribution": "Student objection with Jiang clarification",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says the moon landing is not alchemy, but he still treats it as Ulysses-like overreach against the laws of nature and the proper moral order.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0361",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0362"
+      ],
+      "temporal_scope": "Interpretive analogy stated on 2026-06-24.",
+      "topic_tags": ["moon landing", "Ulysses", "nature", "overreach"],
+      "claim_type": "diagnosis",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang continues to classify AI and nuclear energy as alchemy even while distinguishing them from moon travel.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0362",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0363"
+      ],
+      "temporal_scope": "Contemporary classification made on 2026-06-24.",
+      "topic_tags": ["AI", "nuclear energy", "alchemy"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang draws a categorical line between the internet and AI by saying the internet is not alchemy.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0364",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0365",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0366",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0367"
+      ],
+      "temporal_scope": "Conceptual distinction made on 2026-06-24.",
+      "topic_tags": ["internet", "AI", "distinction", "alchemy"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The student counterargument defines the internet as spreading ordinary worldly ideas, while AI is framed as creating something from nothing.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0364",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0368"
+      ],
+      "temporal_scope": "Student distinction proposed on 2026-06-24.",
+      "topic_tags": ["internet", "AI", "creation", "tool"],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0362"
+      ],
+      "moment": "Moon travel is rejected less as a technical feat than as a moral picture of misplaced ambition: why go there while the world below is full of unmet human need?",
+      "source_phrase": "why are you in the moon guys",
+      "why_it_matters": "It shows Jiang widening Dante's alchemy logic into a critique of civilizational priorities.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0365",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0367"
+      ],
+      "moment": "The whole distinction turns on whether a technology merely carries existing human meanings or tries to manufacture a new kind of intelligence.",
+      "source_phrase": "the internet is not alchemy",
+      "why_it_matters": "It sharpens the class's attempt to locate AI's special danger instead of flattening all technology into one category.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "old alchemy",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0359",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0362"
+      ],
+      "definition_or_usage": "The lecture's modern analogy for technical projects that attempt to exceed or refashion natural limits, especially AI.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}

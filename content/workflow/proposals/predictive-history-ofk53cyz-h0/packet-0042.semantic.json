@@ -1,0 +1,126 @@
+{
+  "packet_id": "predictive-history-ofk53cyz-h0-semantics-pkt-0042",
+  "source_id": "video:predictive-history-ofk53cyz-h0",
+  "source_date": "2026-06-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0329",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0330"
+      ],
+      "kind": "exchange",
+      "summary": "A student names J.D. Vance as another conflict-sower, and Jiang pushes back by asking whether that would make every politician equally guilty.",
+      "speaker_attribution": "Student suggestion with Jiang challenge",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0331",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0332"
+      ],
+      "kind": "exchange",
+      "summary": "The conversation shifts from individual politicians to social media, and Jiang argues that algorithmic anger production makes Mark Zuckerberg a more fitting example of engineered discord.",
+      "speaker_attribution": "Student prompt with Jiang explanation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0333",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0334",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0335",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0336"
+      ],
+      "kind": "exchange",
+      "summary": "Students float Greta Thunberg, media in general, and Nick Fuentes, while Jiang keeps narrowing the exercise toward naming concrete agents rather than abstract systems.",
+      "speaker_attribution": "Student proposals with Jiang steering",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says social media algorithms are designed to provoke anger because anger drives engagement and keeps people using the platforms.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0332"
+      ],
+      "temporal_scope": "Contemporary media diagnosis offered on 2026-06-24.",
+      "topic_tags": ["social media", "algorithms", "anger", "engagement"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Mark Zuckerberg can count as a modern sower of discord because social media replaces consensus-building with isolated bubbles and combative argument.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0331",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0332"
+      ],
+      "temporal_scope": "Interpretive analogy made on 2026-06-24.",
+      "topic_tags": ["Mark Zuckerberg", "bubbles", "consensus", "discord"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang contrasts earlier mass media with platform culture by saying the evening news tried to build community and consensus, whereas social media rewards beating the other side.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0332"
+      ],
+      "temporal_scope": "Media-historical contrast drawn on 2026-06-24.",
+      "topic_tags": ["evening news", "community", "social media", "consensus"],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang keeps insisting on a personal agent rather than an abstract category, which implies that for this circle the responsibility must attach to identifiable makers of division rather than to 'media' in general.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0334",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0335",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0336"
+      ],
+      "temporal_scope": "Methodological pressure applied in class on 2026-06-24.",
+      "topic_tags": ["responsibility", "media", "persons", "method"],
+      "claim_type": "method",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0332"
+      ],
+      "moment": "Discord becomes a business model: anger is manufactured because an outraged person is a more valuable user.",
+      "source_phrase": "they're trying to provoke anger because with anger you're much more engaged",
+      "why_it_matters": "It translates Dante's moral category into a contemporary mechanism of algorithmic division.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0332"
+      ],
+      "moment": "The old public square is replaced by bubbles that stop seeking consensus and start trying to beat the other guy.",
+      "source_phrase": "you live in your own bubble",
+      "why_it_matters": "It is Jiang's clearest description of how mediated schism reorganizes social life.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "sort of discord",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0332"
+      ],
+      "definition_or_usage": "Jiang's way of mapping a modern platform architect onto Dante's category of those who organize division and antagonism.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0330"
+      ],
+      "note": "The transcript phrase 'every politician soils conflict' is likely ASR distortion of 'sows conflict'; downstream quote use should normalize carefully."
+    }
+  ]
+}

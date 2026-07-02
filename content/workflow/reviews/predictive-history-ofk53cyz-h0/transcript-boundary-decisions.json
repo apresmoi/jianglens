@@ -1,0 +1,265 @@
+{
+  "source_slug": "predictive-history-ofk53cyz-h0",
+  "decisions": [
+    {
+      "candidate_id": "seg-0054->seg-0055:move-leading-completion-to-previous:e093be973918",
+      "decision": "reject",
+      "reason": "This is a real lecture transition from Q&A into the canto reading, not a split sentence."
+    },
+    {
+      "candidate_id": "seg-0122->seg-0123:move-leading-completion-to-previous:e1ac9f622aad",
+      "decision": "approve",
+      "reason": "Completes 'but let the ... stand aside' across the boundary."
+    },
+    {
+      "candidate_id": "seg-0125->seg-0126:move-leading-completion-to-previous:aa8d01c7bfab",
+      "decision": "approve",
+      "reason": "Completes 'each demon felt the prick of guilt' without changing content."
+    },
+    {
+      "candidate_id": "seg-0132->seg-0133:move-leading-completion-to-previous:82e9fd4ecf0d",
+      "decision": "approve",
+      "reason": "Finishes the interpretive sentence after 'okay, well then'."
+    },
+    {
+      "candidate_id": "seg-0140->seg-0141:move-leading-completion-to-previous:1ffe26bb3e05",
+      "decision": "approve",
+      "reason": "Completes 'we can descend into the other moat and so escape.'"
+    },
+    {
+      "candidate_id": "seg-0141->seg-0142:move-trailing-starter-to-next:b25e992f8600",
+      "decision": "approve",
+      "reason": "Moves the starter so the sentence reads 'His feet had scarcely reached...'."
+    },
+    {
+      "candidate_id": "seg-0146->seg-0147:move-leading-completion-to-previous:2c29c1883672",
+      "decision": "approve",
+      "reason": "Completes the quoted speech after 'stay your steps,'."
+    },
+    {
+      "candidate_id": "seg-0148->seg-0149:move-leading-completion-to-previous:9cc174041c6f",
+      "decision": "approve",
+      "reason": "Completes the Caiaphas line 'let one man and not one nation suffer.'"
+    },
+    {
+      "candidate_id": "seg-0149->seg-0150:move-leading-completion-to-previous:abf28d7206e2",
+      "decision": "approve",
+      "reason": "Completes 'Okay, so this is Caiaphas, who is the Pharisee...'."
+    },
+    {
+      "candidate_id": "seg-0166->seg-0167:move-leading-completion-to-previous:93d9d7d90e6d",
+      "decision": "approve",
+      "reason": "Completes 'It's not enough to have left them behind.'"
+    },
+    {
+      "candidate_id": "seg-0168->seg-0169:move-leading-completion-to-previous:300f09674784",
+      "decision": "approve",
+      "reason": "Completes the question 'But how do you feel about a teacher like that?'"
+    },
+    {
+      "candidate_id": "seg-0181->seg-0182:move-leading-completion-to-previous:b19d322d5c11",
+      "decision": "approve",
+      "reason": "Completes 'And also learning is fun.'"
+    },
+    {
+      "candidate_id": "seg-0190->seg-0191:move-leading-completion-to-previous:63517f5f555e",
+      "decision": "approve",
+      "reason": "Completes the student example about ignoring other subjects."
+    },
+    {
+      "candidate_id": "seg-0192->seg-0193:move-leading-completion-to-previous:c1c5ee679e60",
+      "decision": "approve",
+      "reason": "Completes 'He's trying to get to Beatrice.'"
+    },
+    {
+      "candidate_id": "seg-0194->seg-0195:move-leading-completion-to-previous:d271c8573ed5",
+      "decision": "approve",
+      "reason": "Completes the line 'The only answer ... is doing it.'"
+    },
+    {
+      "candidate_id": "seg-0196->seg-0197:move-leading-completion-to-previous:8b025d9f5d90",
+      "decision": "approve",
+      "reason": "Completes 'sighing as he looks around...'."
+    },
+    {
+      "candidate_id": "seg-0199->seg-0200:move-trailing-starter-to-next:89d52ed5d4b4",
+      "decision": "approve",
+      "reason": "Moves the repeated starter so the question reads cleanly."
+    },
+    {
+      "candidate_id": "seg-0204->seg-0205:move-leading-completion-to-previous:fec5147c55cd",
+      "decision": "reject",
+      "reason": "This looks like ASR-noisy filler rather than an obvious sentence completion."
+    },
+    {
+      "candidate_id": "seg-0212->seg-0213:move-leading-completion-to-previous:66041bbf5bf4",
+      "decision": "approve",
+      "reason": "Completes the student's question after 'Is it,'."
+    },
+    {
+      "candidate_id": "seg-0223->seg-0224:move-leading-completion-to-previous:c4a16d562570",
+      "decision": "approve",
+      "reason": "Completes 'you might feel that you're being unjustly punished, right?'"
+    },
+    {
+      "candidate_id": "seg-0228->seg-0229:move-leading-completion-to-previous:7e88c8d0ac80",
+      "decision": "approve",
+      "reason": "Completes 'He's joining us live from New Haven.'"
+    },
+    {
+      "candidate_id": "seg-0231->seg-0232:move-leading-completion-to-previous:fc4c3921fa5c",
+      "decision": "approve",
+      "reason": "Completes the paradox sentence about the thief affecting a thousand people."
+    },
+    {
+      "candidate_id": "seg-0232->seg-0233:move-leading-completion-to-previous:c066197b5a36",
+      "decision": "approve",
+      "reason": "Completes 'once you understand these three principles...'."
+    },
+    {
+      "candidate_id": "seg-0234->seg-0235:move-leading-completion-to-previous:647cdd7f66e5",
+      "decision": "approve",
+      "reason": "Completes the Cacus description 'from the great herd nearby.'"
+    },
+    {
+      "candidate_id": "seg-0235->seg-0236:move-leading-completion-to-previous:49ef38c61804",
+      "decision": "approve",
+      "reason": "Completes the sentence introducing the serpent attack."
+    },
+    {
+      "candidate_id": "seg-0236->seg-0237:move-leading-completion-to-previous:d5663d9099cb",
+      "decision": "approve",
+      "reason": "Completes 'you're already neither two nor one.'"
+    },
+    {
+      "candidate_id": "seg-0237->seg-0238:move-leading-completion-to-previous:02e6b33e77a3",
+      "decision": "approve",
+      "reason": "Completes the sentence describing the transfixed sinner."
+    },
+    {
+      "candidate_id": "seg-0239->seg-0240:move-leading-completion-to-previous:8e95d593efa8",
+      "decision": "approve",
+      "reason": "Completes the metamorphosis sentence about superfluous matter."
+    },
+    {
+      "candidate_id": "seg-0240->seg-0241:move-leading-completion-to-previous:d160dc81ee6f",
+      "decision": "approve",
+      "reason": "Completes 'did not flee so secretly that I could not perceive...'."
+    },
+    {
+      "candidate_id": "seg-0242->seg-0243:move-trailing-starter-to-next:1ce1b856c849",
+      "decision": "approve",
+      "reason": "Moves the repeated starter so the sentence reads 'This is unusual for Dante.'"
+    },
+    {
+      "candidate_id": "seg-0251->seg-0252:move-leading-completion-to-previous:6a26d362666f",
+      "decision": "approve",
+      "reason": "Completes the fear-and-dread sentence."
+    },
+    {
+      "candidate_id": "seg-0256->seg-0257:move-leading-completion-to-previous:bc0620106540",
+      "decision": "approve",
+      "reason": "Completes 'within those fires there are souls...'."
+    },
+    {
+      "candidate_id": "seg-0262->seg-0263:move-leading-completion-to-previous:f8f057e6858a",
+      "decision": "approve",
+      "reason": "Completes 'I now could see the other pole and all its stars.'"
+    },
+    {
+      "candidate_id": "seg-0350->seg-0351:move-leading-completion-to-previous:77a777aba4a7",
+      "decision": "approve",
+      "reason": "Completes the lecture transition 'because we reached the lowest point.'"
+    },
+    {
+      "candidate_id": "seg-0384->seg-0385:move-leading-completion-to-previous:f851b0d6583c",
+      "decision": "approve",
+      "reason": "Completes 'I think it's the same scene that's repeated here.'"
+    },
+    {
+      "candidate_id": "seg-0394->seg-0395:move-leading-completion-to-previous:6df8f8daebfd",
+      "decision": "approve",
+      "reason": "Completes 'passed the limits of just love.'"
+    },
+    {
+      "candidate_id": "seg-0395->seg-0396:move-leading-completion-to-previous:9b324d30a1d4",
+      "decision": "approve",
+      "reason": "Completes the address 'Oh you exempt from every punishment in this grim world...'."
+    },
+    {
+      "candidate_id": "seg-0396->seg-0397:move-leading-completion-to-previous:24cbda0f9121",
+      "decision": "approve",
+      "reason": "Completes 'one of them is in this moat already.'"
+    },
+    {
+      "candidate_id": "seg-0397->seg-0398:move-leading-completion-to-previous:49e9c8ca4608",
+      "decision": "approve",
+      "reason": "Completes 'Because of raging fever they reek so.'"
+    },
+    {
+      "candidate_id": "seg-0399->seg-0400:move-leading-completion-to-previous:7f84a949be29",
+      "decision": "approve",
+      "reason": "Completes the simile about wishing he were dreaming."
+    },
+    {
+      "candidate_id": "seg-0401->seg-0402:move-leading-completion-to-previous:d8c7a2b2748f",
+      "decision": "approve",
+      "reason": "Completes the list of falsifiers."
+    },
+    {
+      "candidate_id": "seg-0402->seg-0403:move-leading-completion-to-previous:d4303eb4d393",
+      "decision": "approve",
+      "reason": "Completes 'There's a lot of imagination.'"
+    },
+    {
+      "candidate_id": "seg-0405->seg-0406:move-trailing-starter-to-next:24b2255db44d",
+      "decision": "approve",
+      "reason": "Moves the repeated starter so the question reads cleanly."
+    },
+    {
+      "candidate_id": "seg-0426->seg-0427:move-leading-completion-to-previous:ca2790a41416",
+      "decision": "approve",
+      "reason": "Completes 'create evil in this world.'"
+    },
+    {
+      "candidate_id": "seg-0427->seg-0428:move-leading-completion-to-previous:14064a4e318b",
+      "decision": "approve",
+      "reason": "Completes 'it sounds like social media influencers.'"
+    },
+    {
+      "candidate_id": "seg-0433->seg-0434:move-leading-completion-to-previous:34408309c9c6",
+      "decision": "approve",
+      "reason": "Completes the sighting sentence 'I seemed to make out many high towers...'."
+    },
+    {
+      "candidate_id": "seg-0434->seg-0435:move-leading-completion-to-previous:135a8b061c3f",
+      "decision": "approve",
+      "reason": "Completes 'as I drew near, always nearer to the shore.'"
+    },
+    {
+      "candidate_id": "seg-0435->seg-0436:move-leading-completion-to-previous:e1efa934168a",
+      "decision": "approve",
+      "reason": "Completes 'His other bones shared in that same proportion.'"
+    },
+    {
+      "candidate_id": "seg-0436->seg-0437:move-leading-completion-to-previous:5446102b7afb",
+      "decision": "approve",
+      "reason": "Completes 'Let's not waste time and talk.'"
+    },
+    {
+      "candidate_id": "seg-0439->seg-0440:move-leading-completion-to-previous:f4d905fbf305",
+      "decision": "approve",
+      "reason": "Completes 'He'll take us to the bottom of all evil.'"
+    },
+    {
+      "candidate_id": "seg-0440->seg-0441:move-leading-completion-to-previous:428d703602ad",
+      "decision": "approve",
+      "reason": "Completes 'the sons of earth would have become the victors.'"
+    },
+    {
+      "candidate_id": "seg-0441->seg-0442:move-leading-completion-to-previous:66034b1459c3",
+      "decision": "approve",
+      "reason": "Completes the Antaeus description 'as I watched him bend over me, a moment...'."
+    }
+  ]
+}

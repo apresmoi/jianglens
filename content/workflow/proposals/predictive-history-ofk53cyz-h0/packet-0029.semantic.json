@@ -1,0 +1,129 @@
+{
+  "packet_id": "predictive-history-ofk53cyz-h0-semantics-pkt-0029",
+  "source_id": "video:predictive-history-ofk53cyz-h0",
+  "source_date": "2026-06-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0225",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0226",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0227",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0228"
+      ],
+      "kind": "exchange",
+      "summary": "A student clarifies that a thief may not grasp the scale of the harm while committing the crime, and Jiang answers that Fucci's rage comes from believing he had staged a perfect crime until God intervened and ruined it.",
+      "speaker_attribution": "Student clarification with Jiang follow-up and answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0229",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0230"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang pauses for logistics, announcing an early Thursday session with David Bromwich for a Shakespeare-and-Dante comparison, and confirms a student question about the morning schedule.",
+      "speaker_attribution": "Jiang announcement with brief student question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0231",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0232"
+      ],
+      "kind": "monologue",
+      "summary": "After lunch Jiang restates the central paradox of the canto: Dante treats a thief who breaks communal trust as worse than Alexander's mass killing, and Jiang says Paradise is needed to explain why.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The thief's self-understanding may minimize the act while it is being committed, but Jiang says Fucci is enraged because he experienced the theft as a perfect crime that only God disrupted.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0225",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0228"
+      ],
+      "temporal_scope": "Interpretive explanation given on 2026-06-24.",
+      "topic_tags": ["Fucci", "theft", "divine justice", "perfect crime"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang announces that David Bromwich will join the Thursday session for a live comparison of Shakespeare and Dante, requiring an earlier class start.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0229",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0230"
+      ],
+      "temporal_scope": "Near-future class logistics stated on 2026-06-24.",
+      "topic_tags": ["schedule", "David Bromwich", "Shakespeare", "Dante"],
+      "claim_type": "prediction",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames Dante's paradox as follows: a thief who destroys trust in a community of roughly a thousand people is treated as committing a worse sin than Alexander's glory-driven conquest that killed millions.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0231",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0232"
+      ],
+      "temporal_scope": "Interpretive framing on 2026-06-24.",
+      "topic_tags": ["theft", "genocide", "Alexander", "trust"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Paradise supplies the conceptual premises needed to reconcile why betrayal of trust can rank as a graver evil than mass killing.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0232"
+      ],
+      "temporal_scope": "Methodological claim made on 2026-06-24.",
+      "topic_tags": ["Paradise", "interpretation", "trust", "hierarchy of sin"],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0228"
+      ],
+      "moment": "Fucci is furious because God ruined what he thought was the perfect crime.",
+      "source_phrase": "God screwed it up for him",
+      "why_it_matters": "It turns divine justice into the thief's personal grievance and makes his hatred of God psychologically legible.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0231"
+      ],
+      "moment": "The lecture sharpens around the outrageous claim that theft can be morally worse than genocide.",
+      "source_phrase": "why is thievery much worse, a sin than genocide",
+      "why_it_matters": "This is the packet's governing paradox and the hinge for the rest of Jiang's explanation.",
+      "tone": "question",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "perfect crime",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0228"
+      ],
+      "definition_or_usage": "Jiang's term for the thief's fantasy of total success: he not only steals but sees an innocent person blamed, until God breaks the scheme.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0229",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0230"
+      ],
+      "note": "Jiang schedules a special Thursday session with David Bromwich after this 2026-06-24 lecture.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

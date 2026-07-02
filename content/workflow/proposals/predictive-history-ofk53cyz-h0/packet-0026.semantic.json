@@ -1,0 +1,119 @@
+{
+  "packet_id": "predictive-history-ofk53cyz-h0-semantics-pkt-0026",
+  "source_id": "video:predictive-history-ofk53cyz-h0",
+  "source_date": "2026-06-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0201",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0202",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0203",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0204",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0205",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0206"
+      ],
+      "kind": "exchange",
+      "summary": "A student reaches for the Ten Commandments and coveting as a way to explain theft, but Jiang presses the opposite conclusion: biblical hierarchy seems to rank theft relatively low, which sharpens rather than resolves Dante's paradox.",
+      "speaker_attribution": "Student answer with Jiang counterpressure",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0207",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0208"
+      ],
+      "kind": "exchange",
+      "summary": "Another student proposes that hidden crimes receive harsher treatment because they are harder for society to detect, but Jiang replies that this cannot explain Dante at the divine level because God already sees everything.",
+      "speaker_attribution": "Student answer followed by Jiang objection",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0207"
+      ],
+      "note": "The student's law-and-economics explanation is semantically clear but the ASR is badly degraded in multiple phrases; downstream quoting should rely on the transcript rather than this surface wording.",
+      "suggested_speaker": "Student answer about detectability and punishment",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The Ten Commandments do not straightforwardly justify Dante's ranking because theft appears there as a lower-order prohibition compared with direct offenses against God.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0201",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0202",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0204",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0206"
+      ],
+      "temporal_scope": "Classroom reasoning on 2026-06-24.",
+      "topic_tags": ["Ten Commandments", "theft", "hierarchy", "paradox"],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "One student's secular explanation is that hidden crimes are punished more severely because their secrecy makes them harder for human judges to discover and deter.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0207"
+      ],
+      "temporal_scope": "Student hypothesis voiced on 2026-06-24.",
+      "topic_tags": ["detection", "law and economics", "theft", "fraud"],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang rejects detectability as the final explanation because God does not face human evidentiary limits and therefore cannot be fooled by hidden crime.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0208"
+      ],
+      "temporal_scope": "Jiang's objection on 2026-06-24.",
+      "topic_tags": ["God", "omniscience", "theft", "judgment"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0206"
+      ],
+      "moment": "The biblical route backfires: instead of justifying Dante, it makes the ranking of theft look even stranger.",
+      "source_phrase": "whereas here in inferno, it's actually pretty serious",
+      "why_it_matters": "It keeps the paradox alive instead of letting the class dissolve it into a familiar moral code.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0208"
+      ],
+      "moment": "A hidden-crime theory fails before divine omniscience.",
+      "source_phrase": "God knows everything",
+      "why_it_matters": "It forces the discussion away from modern deterrence logic and back toward Dante's deeper social and spiritual logic.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "coveting hierarchy",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0201",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0206"
+      ],
+      "definition_or_usage": "The student's attempt to group theft with adjacent commandments, which Jiang turns into evidence that theft is not obviously supreme in the biblical moral ranking.",
+      "confidence": "medium"
+    },
+    {
+      "term": "hidden-crime explanation",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0207"
+      ],
+      "definition_or_usage": "A law-and-economics style theory that crimes hard to detect receive harsher punishment because of their secrecy.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}
