@@ -1,0 +1,128 @@
+{
+  "packet_id": "predictive-history-ofk53cyz-h0-semantics-pkt-0025",
+  "source_id": "video:predictive-history-ofk53cyz-h0",
+  "source_date": "2026-06-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0193"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang concludes that Virgil's psychology is exposed by his choice to motivate Dante with fame instead of with Beatrice, whose presence would move Dante more directly.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0194",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0195",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0196",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0197",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0198"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The canto moves into the thieves' bolgia with serpents, burning metamorphosis, Vanni Fucci's theft confession, and his political prophecy against Pistoia and Florence.",
+      "speaker_attribution": "Student reading Dante",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0199",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0200"
+      ],
+      "kind": "question",
+      "summary": "Jiang interrupts to ask why theft is placed lower in hell than large-scale violence, stressing the paradox that a conqueror can sit above a thief.",
+      "speaker_attribution": "Jiang prompt to the class",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says Virgil could motivate Dante more effectively by invoking Beatrice instead of eternal fame, which reveals Virgil's own worldview and motivational limits.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0193"
+      ],
+      "temporal_scope": "Interpretive claim made on 2026-06-24.",
+      "topic_tags": ["Virgil", "Beatrice", "psychology", "motivation"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The thieves' punishment joins serpents, incineration, and repeated reconstitution, with Vanni Fucci identified as a church thief whose crime also caused someone else to be blamed.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0195",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0196",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0197",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0198"
+      ],
+      "temporal_scope": "Textual material read on 2026-06-24.",
+      "topic_tags": ["thieves", "Vanni Fucci", "snakes", "metamorphosis"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang frames the placement of thieves as a real paradox: Dante ranks theft below spectacular violence even though theft can seem situationally understandable.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0199",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0200"
+      ],
+      "temporal_scope": "Interpretive problem posed on 2026-06-24.",
+      "topic_tags": ["theft", "violence", "Inferno", "paradox"],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0193"
+      ],
+      "moment": "Virgil has the right psychological lever in hand, Beatrice, but still reaches for fame.",
+      "source_phrase": "Beatrice is waiting for us",
+      "why_it_matters": "It condenses Jiang's broader reading of Virgil as a real psyche with its own limitations.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0195",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0196"
+      ],
+      "moment": "The thieves' world is a writhing ecology of serpents, fire, ashes, and instant reconstitution.",
+      "source_phrase": "No O or I has ever been transcribed so quickly as that soul caught fire and burned",
+      "why_it_matters": "It marks a tonal shift deeper into fraud, where identity itself becomes unstable and repeatedly violated.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Vanni Fucci",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0197",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0198"
+      ],
+      "definition_or_usage": "The thief in this canto who stole from a church, let another person be blamed, and then delivers a political prophecy from hell.",
+      "confidence": "high"
+    },
+    {
+      "term": "thievery paradox",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0199",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0200"
+      ],
+      "definition_or_usage": "Jiang's question about why theft is punished more deeply in Inferno than blatant large-scale violence.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0198"
+      ],
+      "note": "The political-prophecy proper nouns are heavily degraded by ASR, but the narrative function is clear: Fucci delivers a hostile forecast aimed at Pistoia and Florence."
+    }
+  ]
+}

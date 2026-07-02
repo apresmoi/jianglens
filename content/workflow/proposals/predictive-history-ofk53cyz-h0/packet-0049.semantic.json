@@ -1,0 +1,120 @@
+{
+  "packet_id": "predictive-history-ofk53cyz-h0-semantics-pkt-0049",
+  "source_id": "video:predictive-history-ofk53cyz-h0",
+  "source_date": "2026-06-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0385",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0386",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0387",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0388",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0389",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0390",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0391",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0392"
+      ],
+      "kind": "exchange",
+      "summary": "Students restate alchemy as the will to replace God or betray created nature, and Jiang closes the discussion by saying even failed alchemy breeds hubris because it persuades people that natural law can be overwritten.",
+      "speaker_attribution": "Student synthesis with Jiang close",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0387",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0391"
+      ],
+      "note": "The transcript around the student's invoked term is noisy; the larger point is a concept of denaturing or betraying created purpose rather than a stable quoted technical term.",
+      "suggested_speaker": "Student philosophical analogy",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A student formulates the issue as the will to replace God and distort the natural order he established.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0385"
+      ],
+      "temporal_scope": "Student synthesis voiced on 2026-06-24.",
+      "topic_tags": ["replace God", "natural order", "will", "alchemy"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Another student extends the same point by describing alchemy as depriving beings or the world of their original God-given purpose and replacing that order with private will.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0387",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0391"
+      ],
+      "temporal_scope": "Student philosophical gloss offered on 2026-06-24.",
+      "topic_tags": ["purpose", "private will", "Kingdom of God", "alchemy"],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says alchemists are sinful even when they fail because they make others believe the rules of nature can be changed, which produces hubris and bad behavior.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0392"
+      ],
+      "temporal_scope": "Interpretive conclusion stated on 2026-06-24.",
+      "topic_tags": ["hubris", "rules of nature", "belief", "bad behavior"],
+      "claim_type": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says he wants to keep using Dante to interpret present issues, especially AI.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0392"
+      ],
+      "temporal_scope": "Forward-looking statement made on 2026-06-24.",
+      "topic_tags": ["Dante", "AI", "present issues", "method"],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0392"
+      ],
+      "moment": "Failed fraud is still deadly when it trains people to imagine that the rules of nature are negotiable.",
+      "source_phrase": "make believe that it's possible to change the rules of nature",
+      "why_it_matters": "It is the clean closing statement of why intention and example matter even without technical success.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0385"
+      ],
+      "moment": "Alchemy is glossed as a will to replace God rather than merely a desire for wealth or novelty.",
+      "source_phrase": "replace God",
+      "why_it_matters": "It compresses the moral ambition underneath the whole discussion.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "hubris",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0392"
+      ],
+      "definition_or_usage": "The moral consequence of treating nature as rewriteable: people become more willing to behave badly because they imagine no limit above their will.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0392"
+      ],
+      "note": "Jiang explicitly says on 2026-06-24 that he wants to use Dante to interpret pressing present-day issues, especially AI.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

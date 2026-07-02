@@ -1,0 +1,119 @@
+{
+  "packet_id": "predictive-history-ofk53cyz-h0-semantics-pkt-0004",
+  "source_id": "video:predictive-history-ofk53cyz-h0",
+  "source_date": "2026-06-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0025",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0026",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0027"
+      ],
+      "kind": "exchange",
+      "summary": "A student tries to reconcile Inferno and Paradiso through a family-versus-individual distinction, and Jiang endorses that as part of the explanation.",
+      "speaker_attribution": "Student proposal with Jiang assent",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0028",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0030",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0031",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0032"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang restates his mechanism by opposing heterosexual marriage as an exclusive pair-bond to male homosexual networks he says can spread across multiple lovers and become institutionally powerful.",
+      "speaker_attribution": "Jiang argument with student pushback",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The student argues that healthy family order serves the individual, whereas the corrupt pattern under discussion is a group using itself to elevate particular members.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0025",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0027"
+      ],
+      "temporal_scope": "Student interpretation voiced on 2026-06-24.",
+      "topic_tags": [
+        "family",
+        "individual",
+        "Paradiso"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says heterosexual marriage is a compact between only two people, so adding more lovers breaks the bond rather than expanding it into a wider faction.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0028",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0030"
+      ],
+      "temporal_scope": "Explanatory comparison made on 2026-06-24.",
+      "topic_tags": [
+        "marriage",
+        "pair bond",
+        "heterosexuality"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student and Jiang distinguish lesbians from male homosexuals, suggesting that the latter are the case Jiang thinks can sustain multiple-lover networks that turn into social power.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0031",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0032"
+      ],
+      "temporal_scope": "Class distinction proposed on 2026-06-24.",
+      "topic_tags": [
+        "lesbians",
+        "male homosexuals",
+        "network"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0030"
+      ],
+      "moment": "Marriage is framed as a closed two-person compact, so the very structure of heterosexual loyalty is used as an argument against scalable faction-building.",
+      "source_phrase": "a compact between two people and only two people",
+      "why_it_matters": "It is Jiang's cleanest restatement of why he thinks heterosexual and homosexual social effects diverge in Dante's logic.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0027"
+      ],
+      "moment": "The student's synthesis turns factional power into a question of whether the group serves the person or the person is dissolved into the group.",
+      "source_phrase": "harness the power of the group to serve them",
+      "why_it_matters": "It is the sharpest student compression of Jiang's running argument.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "marriage as compact",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0030"
+      ],
+      "definition_or_usage": "Jiang's formulation of heterosexual marriage as an exclusive two-person bond that blocks the extension of loyalty into a larger secret network.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0032"
+      ],
+      "note": "Jiang's phrasing about women and men here is broad, culturally loaded, and likely compressed by spontaneous speech; downstream use should preserve that it is a live seminar claim, not a settled analytic category."
+    }
+  ]
+}

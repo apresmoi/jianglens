@@ -1,0 +1,120 @@
+{
+  "packet_id": "predictive-history-ofk53cyz-h0-semantics-pkt-0037",
+  "source_id": "video:predictive-history-ofk53cyz-h0",
+  "source_date": "2026-06-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0290",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0291",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0292"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang restates Guido's story and names its first paradox: Saint Francis appears ready to honor Boniface's corrupt promise of heaven until a fallen angel intervenes.",
+      "speaker_attribution": "Jiang lecture monologue",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0293",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0294",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0295",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0296"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks what a black cherub is, Jiang explains it as a fallen angel, and another student returns to the contradiction problem around repentance and the failed rescue.",
+      "speaker_attribution": "Student questions with Jiang clarification",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0294",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0295"
+      ],
+      "note": "The transcript's 'black sherbin' clearly refers to a black cherub, meaning a fallen angelic order member in Jiang's explanation.",
+      "suggested_speaker": "Student question followed by Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang summarizes Guido's sin as fraudulent counsel given after Boniface promises heaven in advance, with the strategy working politically even though it fails spiritually.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0290"
+      ],
+      "temporal_scope": "Interpretive summary made on 2026-06-24.",
+      "topic_tags": ["Guido da Montefeltro", "Boniface", "fraudulent counsel", "absolution"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the story as paradoxical because Saint Francis seems willing to cooperate with a corrupt papal guarantee of heaven until a fallen angel blocks the transfer.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0291",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0292",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0295"
+      ],
+      "temporal_scope": "Interpretive paradox stated on 2026-06-24.",
+      "topic_tags": ["Saint Francis", "fallen angel", "paradox", "papal corruption"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines the black cherub as a fallen angel from one of the angelic orders discussed in Paradise.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0295"
+      ],
+      "temporal_scope": "Definition given on 2026-06-24.",
+      "topic_tags": ["cherub", "fallen angel", "Paradise"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student hypothesis is that the contradiction turns on the nature of repentance itself: some deeper law prevents Saint Francis's apparent agreement from overriding the sinner's unresolved will.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0296"
+      ],
+      "temporal_scope": "Student hypothesis voiced on 2026-06-24.",
+      "topic_tags": ["repentance", "contradiction", "Saint Francis"],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0291"
+      ],
+      "moment": "The canto becomes scandalous not because a sinner is damned, but because Saint Francis seems ready to cash Boniface's corrupt contract.",
+      "source_phrase": "saint francis agrees with the pope boniface",
+      "why_it_matters": "This is the doctrinal shock Jiang wants the class to sit with before solving anything.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0295"
+      ],
+      "moment": "The founder of poverty appears on the side of corrupt papal power, which makes the whole scene feel morally inverted.",
+      "source_phrase": "helping a very corrupt pope do evil in the world",
+      "why_it_matters": "It names the packet's sharpest contradiction in plain language.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "black cherub",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0294",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0295"
+      ],
+      "definition_or_usage": "Jiang's term for the fallen angel who defeats the easy papal rescue by appealing to a deeper logic of repentance and action.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}

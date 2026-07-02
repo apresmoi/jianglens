@@ -1,0 +1,117 @@
+{
+  "packet_id": "predictive-history-ofk53cyz-h0-semantics-pkt-0018",
+  "source_id": "video:predictive-history-ofk53cyz-h0",
+  "source_date": "2026-06-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0137",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0138",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0139"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang pauses the canto to recover Aesop's frog-and-mouse fable from a student summary and then maps it onto the demons, who become victims of their own treachery and greed.",
+      "speaker_attribution": "Jiang prompt, student summary, then Jiang gloss",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0140",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0141",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0142"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The reading shows Dante and Virgil fleeing the devils, with Virgil carrying Dante down the embankment like a mother saving a child while providence limits the demons' reach.",
+      "speaker_attribution": "Student reading Dante",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0143",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0144"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks why Dante includes a danger scene whose outcome is already guaranteed by providence, and a student answers that the point is comradeship.",
+      "speaker_attribution": "Jiang question with student answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang reads the frog-and-mouse fable as a miniature of the demon episode: the demons try to swindle Dante and Virgil, become greedy for more victims, and end up caught by their own trap.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0138",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0139"
+      ],
+      "temporal_scope": "Interpretive analogy made on 2026-06-24.",
+      "topic_tags": ["Aesop", "treachery", "greed", "demons"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The chase scene is narratively unnecessary at the level of plot protection because providence already guarantees Dante's survival, but Jiang treats it as meaningful at the level of relationship-building.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0142",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0143",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0144"
+      ],
+      "temporal_scope": "Interpretive framing on 2026-06-24.",
+      "topic_tags": ["providence", "Virgil", "Dante", "narrative"],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0139"
+      ],
+      "moment": "The demons become the frog in Aesop: treachery turns predatory appetite into self-destruction.",
+      "source_phrase": "they get greedy ... so they fall into their own trap",
+      "why_it_matters": "It compresses the whole bolgia into a fable of greed outrunning itself.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0141",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0143"
+      ],
+      "moment": "Virgil carrying Dante like a mother fleeing fire matters even though God already guarantees the outcome.",
+      "source_phrase": "just as the mother who's wakened ... will lift her son",
+      "why_it_matters": "It shifts the emphasis from suspense to intimacy and character formation.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "frog and mouse",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0138",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0139"
+      ],
+      "definition_or_usage": "Aesop's fable used by Jiang as an interpretive key for the demons' greed and self-entrapment.",
+      "confidence": "high"
+    },
+    {
+      "term": "providence-limited danger",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0142",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0143"
+      ],
+      "definition_or_usage": "A scene where threat is real at the experiential level even though divine will has already fixed the final outcome.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0142"
+      ],
+      "note": "The ASR rendering of the place-name in the line about providence is garbled, but the interpretive function is clear: the demons are not permitted to leave their assigned zone."
+    }
+  ]
+}

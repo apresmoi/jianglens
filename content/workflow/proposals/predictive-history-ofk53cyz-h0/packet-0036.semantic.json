@@ -1,0 +1,121 @@
+{
+  "packet_id": "predictive-history-ofk53cyz-h0-semantics-pkt-0036",
+  "source_id": "video:predictive-history-ofk53cyz-h0",
+  "source_date": "2026-06-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0281",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0282"
+      ],
+      "kind": "exchange",
+      "summary": "A student reads the simile of the Sicilian bull and Jiang explains why Dante chooses it: not to treat the flame as abstract decoration but to force the reader to feel the bodily agony inside the fire.",
+      "speaker_attribution": "Student reading with Jiang gloss",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0283",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0284",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0285",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0286",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0287",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0288"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The reading moves through Guido da Montefeltro's confession: asked about Romagna's politics, Dante receives the story of a former foxlike strategist who became a friar, was recruited by Boniface VIII for fraudulent counsel, received advance absolution, and was nevertheless claimed by a black cherub because unrepented fraud cannot be absolved.",
+      "speaker_attribution": "Student reading Dante aloud",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang says Dante uses the Sicilian bull to make the punishment of the flame concretely painful rather than letting the reader treat the image of fire as innocuous.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0282"
+      ],
+      "temporal_scope": "Interpretive explanation stated on 2026-06-24.",
+      "topic_tags": ["Sicilian bull", "pain", "flame", "Dante"],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Guido's self-description contrasts lionlike force with foxlike cunning, defining him through strategic fraud rather than open strength.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0285",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0286"
+      ],
+      "temporal_scope": "Evidence in the quoted canto as read on 2026-06-24.",
+      "topic_tags": ["Guido", "fox", "cunning", "fraud"],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The poem presents Boniface VIII as a corrupt pope who recruits Guido's fraudulent intellect for war against fellow Christians and tries to neutralize the sin with advance absolution.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0286",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0287"
+      ],
+      "temporal_scope": "Evidence in the quoted canto as read on 2026-06-24.",
+      "topic_tags": ["Boniface VIII", "absolution", "fraudulent counsel", "church corruption"],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The black cherub's logic is that absolution cannot cancel a sin a person is still in the act of willing, because repentance and intention to keep sinning contradict each other.",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0288"
+      ],
+      "temporal_scope": "Doctrinal logic inside the quoted canto as read on 2026-06-24.",
+      "topic_tags": ["repentance", "absolution", "contradiction", "fraudulent counsel"],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0282"
+      ],
+      "moment": "The flame is made audible and bodily by the Sicilian bull, turning a spiritual punishment back into screaming flesh.",
+      "source_phrase": "you're being burned alive constantly",
+      "why_it_matters": "It preserves Jiang's insistence that Dante's punishments are sensuous and concrete rather than ornamental allegory.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0287",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0288"
+      ],
+      "moment": "Advance absolution becomes a trap: Guido is invited to sin first and repent later, only to discover the contradiction has already condemned him.",
+      "source_phrase": "i now absolve you in advance",
+      "why_it_matters": "It is the sharp theological mechanism at the center of Guido's damnation.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "Sicilian bull",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0281",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0282"
+      ],
+      "definition_or_usage": "A hollow brass torture device Dante invokes so the reader imagines the flame's punishment as living bodily agony.",
+      "confidence": "high"
+    },
+    {
+      "term": "fraudulent counsel",
+      "refs": [
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0287",
+        "video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0288"
+      ],
+      "definition_or_usage": "Advice that weaponizes intelligence and deceit to entrap others while pretending to offer strategic wisdom.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [],
+  "uncertainty_notes": []
+}
