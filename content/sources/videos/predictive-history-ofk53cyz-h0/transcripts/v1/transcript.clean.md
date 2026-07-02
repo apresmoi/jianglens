@@ -728,15 +728,15 @@ keep going line 64 at which my guide now tell the sinners who hide beneath the p
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0121
 
-## seg-0122 / 01:04:19-01:05:16 / SPEAKER_07
+## seg-0122 / 01:04:19-01:05:20 / SPEAKER_07
 
-ashore and luckily as you just said before he answered frakomita of golura who was a vessel fit for every fraud he had his master's enemies in hand but handled them in ways that please them all he took their gold and smoothly let them off as he himself says and in other matter matters he was a sovereign not a petty swindler His comrade there is Don Michele Zanchi of Logodoro, and their tongues are never too tired to talk of their Sardinia. Ah me, see that one there who grinds his teeth, if I were not afraid, I'd speak some more, but he's getting set to scratch my scurf. And their great marshal, facing Farforello, who was so hot to strike he rolled his eyes, said, Get away from there, you filthy bird! If you perhaps would like to see or hear, that sinner terrified began again. Lombards or Tuscans, I can fetch you some, but let the
+ashore and luckily as you just said before he answered frakomita of golura who was a vessel fit for every fraud he had his master's enemies in hand but handled them in ways that please them all he took their gold and smoothly let them off as he himself says and in other matter matters he was a sovereign not a petty swindler His comrade there is Don Michele Zanchi of Logodoro, and their tongues are never too tired to talk of their Sardinia. Ah me, see that one there who grinds his teeth, if I were not afraid, I'd speak some more, but he's getting set to scratch my scurf. And their great marshal, facing Farforello, who was so hot to strike he rolled his eyes, said, Get away from there, you filthy bird! If you perhaps would like to see or hear, that sinner terrified began again. Lombards or Tuscans, I can fetch you some, but let the melebronchi stand aside so that my comrades may not fear their vengeance.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0122
 
-## seg-0123 / 01:05:16-01:05:30 / SPEAKER_07
+## seg-0123 / 01:05:20-01:05:30 / SPEAKER_07
 
-melebronchi stand aside so that my comrades may not fear their vengeance. Remaining in this very spot, I shall, although alone, make seven more appear when I have whistled, as has been our custom when one of us has managed to get out.
+Remaining in this very spot, I shall, although alone, make seven more appear when I have whistled, as has been our custom when one of us has managed to get out.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0123
 
@@ -746,15 +746,15 @@ Okay, so Donna and Virgil wants to meet more of these sinners. And... This sinne
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0124
 
-## seg-0125 / 01:06:12-01:07:03 / SPEAKER_07
+## seg-0125 / 01:06:12-01:07:06 / SPEAKER_07
 
-Line 106. At that, Cagnazzo lifted up his snout and shook his head and said, Just listen to that trick by which he thinks he can dive back. To this, he who was rich in artifice replied, Then I must have too many tricks if I bring greater torment to my friends. This was too much for Alcino, and despite the others, he cried out, If you dive back, I should not try. I will not gallop after you, but beat my wings above the pitch. We'll leave this height with the embankment as a screen. We'll see if you alone can handle us. Oh, you who read, hear now of this new sport. Each turned his eye upon the other shore, he first who'd been most hesitant before. The Navarraze, in nick of time, had planted his feet upon the ground, and in an instant he jumped and freed himself from their commander. At this, each demon felt the
+Line 106. At that, Cagnazzo lifted up his snout and shook his head and said, Just listen to that trick by which he thinks he can dive back. To this, he who was rich in artifice replied, Then I must have too many tricks if I bring greater torment to my friends. This was too much for Alcino, and despite the others, he cried out, If you dive back, I should not try. I will not gallop after you, but beat my wings above the pitch. We'll leave this height with the embankment as a screen. We'll see if you alone can handle us. Oh, you who read, hear now of this new sport. Each turned his eye upon the other shore, he first who'd been most hesitant before. The Navarraze, in nick of time, had planted his feet upon the ground, and in an instant he jumped and freed himself from their commander. At this, each demon felt the prick of guilt, and most he who had led his band to blunder.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0125
 
-## seg-0126 / 01:07:03-01:07:57 / SPEAKER_07
+## seg-0126 / 01:07:06-01:07:57 / SPEAKER_07
 
-prick of guilt, and most he who had led his band to blunder. So he took off and shouted, You are caught! But this could help him little. Wings were not more fast than fear. The sinner plunged right under. The other, flying up, lifted his chest. Not otherwise. The wild duck, when it plunges precipitously, when the falcon nears and then, exhausted, thwarted, flies back up. But Calcabrino, raging at the trick, flew after Alcino. He was keen to see the sinner free and have a brawl. And once the Navarraze had disappeared, he turned his talons on his fellow demon, and tangled with him just above the ditch. But Alcino clawed him well. He was indeed a full -grown kestrel, and both fell into the middle of the boiling pond. The heat was quick to disentangle them, but still there was no way they could get out. Their wings were stuck and meshed in glue like pitch. And
+So he took off and shouted, You are caught! But this could help him little. Wings were not more fast than fear. The sinner plunged right under. The other, flying up, lifted his chest. Not otherwise. The wild duck, when it plunges precipitously, when the falcon nears and then, exhausted, thwarted, flies back up. But Calcabrino, raging at the trick, flew after Alcino. He was keen to see the sinner free and have a brawl. And once the Navarraze had disappeared, he turned his talons on his fellow demon, and tangled with him just above the ditch. But Alcino clawed him well. He was indeed a full -grown kestrel, and both fell into the middle of the boiling pond. The heat was quick to disentangle them, but still there was no way they could get out. Their wings were stuck and meshed in glue like pitch. And
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0126
 
@@ -788,15 +788,15 @@ Like the demons are trying to hurt Dante and Virgil?
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0131
 
-## seg-0132 / 01:10:44-01:11:47 / SPEAKER_16
+## seg-0132 / 01:10:44-01:11:48 / SPEAKER_16
 
-No, no, no, no. No, I'm saying, what does this lie mean? Then I must have too many tricks if I bring greater torment to my friends. Great. Let's go back. Yes? But it's true. He's not lying to you, okay? Do you understand? You just read what he writes, what he's speaking. It's not a lie technically. Do you understand? It's not a deception technically. You're just misinterpreting what he's saying, right? So let's go back to the example of like, you know, your friend takes you to the bazaar, right? And the bazaar shop owner says, this is the best teacup in the world. Then your friend's like, you're lying to us. And the shop owner says, if I'm lying to you, then I have no friends in the world. It could be true, okay? Do you understand? If I'm lying to you, I have no friends in the world, right? You interpret to say, okay, well then
+No, no, no, no. No, I'm saying, what does this lie mean? Then I must have too many tricks if I bring greater torment to my friends. Great. Let's go back. Yes? But it's true. He's not lying to you, okay? Do you understand? You just read what he writes, what he's speaking. It's not a lie technically. Do you understand? It's not a deception technically. You're just misinterpreting what he's saying, right? So let's go back to the example of like, you know, your friend takes you to the bazaar, right? And the bazaar shop owner says, this is the best teacup in the world. Then your friend's like, you're lying to us. And the shop owner says, if I'm lying to you, then I have no friends in the world. It could be true, okay? Do you understand? If I'm lying to you, I have no friends in the world, right? You interpret to say, okay, well then he's not lying to me.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0132
 
-## seg-0133 / 01:11:47-01:12:44 / SPEAKER_16
+## seg-0133 / 01:11:49-01:12:44 / SPEAKER_16
 
-he's not lying to me. But it could be true, right? If I'm lying to you, I have no friends in the world. Do you understand? And this is what we call sophistry, right? Sophistry, right? You just think you're smarter than everyone else. You think that you know more than everyone else and you'll get away with everything. So you keep on doing it, okay? And so he's just playing tricks with words. Does it make sense? So he's not lying because you cannot lie in hell, but he's engaging in sophistry, okay? Constructive words to make you, to manipulate you. Does that make sense? All right, let's keep on going.
+But it could be true, right? If I'm lying to you, I have no friends in the world. Do you understand? And this is what we call sophistry, right? Sophistry, right? You just think you're smarter than everyone else. You think that you know more than everyone else and you'll get away with everything. So you keep on doing it, okay? And so he's just playing tricks with words. Does it make sense? So he's not lying because you cannot lie in hell, but he's engaging in sophistry, okay? Constructive words to make you, to manipulate you. Does that make sense? All right, let's keep on going.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0133
 
@@ -836,21 +836,21 @@ Sure. Okay. So this applies to the demons, right? The demons mean to swindle Don
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0139
 
-## seg-0140 / 01:15:37-01:16:26 / SPEAKER_07
+## seg-0140 / 01:15:37-01:16:28 / SPEAKER_07
 
-Line 13. I thought, because of us, they have been mocked, and this inflicted so much hurt and scorn that I am sure they feel deep indignation. If anger is to be added to their malice, they will hunt us down with more ferocity than any hound whose teeth have trapped a hare. I could already feel my hair curl up from fear and I looked back attentively while saying, Master, if you don't conceal yourself in me at once, they terrify me, those melebronche, they're after us. I so imagined them, I hear them now. And heed to me. Where I, a leaded mirror, I could not gather in your outer image more quickly than I have received your inner. For even now your thoughts have joined my own in both our acts and aspects. We are kin. With both our minds I've come to one decision. If that right bank is not extremely steep, we can descend into
+Line 13. I thought, because of us, they have been mocked, and this inflicted so much hurt and scorn that I am sure they feel deep indignation. If anger is to be added to their malice, they will hunt us down with more ferocity than any hound whose teeth have trapped a hare. I could already feel my hair curl up from fear and I looked back attentively while saying, Master, if you don't conceal yourself in me at once, they terrify me, those melebronche, they're after us. I so imagined them, I hear them now. And heed to me. Where I, a leaded mirror, I could not gather in your outer image more quickly than I have received your inner. For even now your thoughts have joined my own in both our acts and aspects. We are kin. With both our minds I've come to one decision. If that right bank is not extremely steep, we can descend into the other moat and so escape.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0140
 
-## seg-0141 / 01:16:26-01:17:20 / SPEAKER_07
+## seg-0141 / 01:16:28-01:17:18 / SPEAKER_07
 
-the other moat and so escape. From the imagined chase. He'd hardly finished telling me his plan when I saw them approach with outstretched wings not too far from keen on taking us. My guide snatched me up instantly just as the mother who's wakened from a war and catches sight of blazing flames beside her will lift her son and run without a stop. She cares more for the child than for herself, not pausing even to throw on a shift. And down the hard embankment's edge his back lay flat along the sloping rock that closes one side of the adjacent moat. He slid. No water ever ran so fast along a sluice to turn the wheels of a land mill, not even when its flow approached the paddles, as if my master raced down that embankment while bearing me with him upon his chest, just like a son and not like a companion. His feet had scarcely
+From the imagined chase. He'd hardly finished telling me his plan when I saw them approach with outstretched wings not too far from keen on taking us. My guide snatched me up instantly just as the mother who's wakened from a war and catches sight of blazing flames beside her will lift her son and run without a stop. She cares more for the child than for herself, not pausing even to throw on a shift. And down the hard embankment's edge his back lay flat along the sloping rock that closes one side of the adjacent moat. He slid. No water ever ran so fast along a sluice to turn the wheels of a land mill, not even when its flow approached the paddles, as if my master raced down that embankment while bearing me with him upon his chest, just like a son and not like a companion.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0141
 
-## seg-0142 / 01:17:20-01:17:33 / SPEAKER_07
+## seg-0142 / 01:17:18-01:17:33 / SPEAKER_07
 
-reached the bed that lies along the deep below than those ten demons were on the edge above us. But there was nothing to fear, for that high providence that willed the ministers of the Fistitch denies to all of them the power to leave it.
+His feet had scarcely reached the bed that lies along the deep below than those ten demons were on the edge above us. But there was nothing to fear, for that high providence that willed the ministers of the Fistitch denies to all of them the power to leave it.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0142
 
@@ -872,33 +872,33 @@ Yeah, yeah, it's meant to make us understand and appreciate the growing relation
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0145
 
-## seg-0146 / 01:19:10-01:20:04 / SPEAKER_07
+## seg-0146 / 01:19:10-01:20:07 / SPEAKER_07
 
-58. Below that point we found a painted people who moved about the lagging steps, encircled, weeping, with features tired and defeated. And they were dressed in cloaks with cows so low they fell before their eyes of that same cut that used to make the clothes for Clooney's monks. Outside these cloaks were gilded and they dazzled, but inside they were all of lead, so heavy that Frederick's capes were straw compared to them. A tiring mantle for eternity, we turn again as always to the left, along with them intent on their sad weeping. But with their weights, that weary people paced so slowly that we found ourselves among new company each time we took a step, at which I told my guide, please try to find someone whose name or deed I recognize. And while we walk, be watchful with your eyes. And one who'd taken in my Tuscan speech cried out behind us, stay your steps,
+58. Below that point we found a painted people who moved about the lagging steps, encircled, weeping, with features tired and defeated. And they were dressed in cloaks with cows so low they fell before their eyes of that same cut that used to make the clothes for Clooney's monks. Outside these cloaks were gilded and they dazzled, but inside they were all of lead, so heavy that Frederick's capes were straw compared to them. A tiring mantle for eternity, we turn again as always to the left, along with them intent on their sad weeping. But with their weights, that weary people paced so slowly that we found ourselves among new company each time we took a step, at which I told my guide, please try to find someone whose name or deed I recognize. And while we walk, be watchful with your eyes. And one who'd taken in my Tuscan speech cried out behind us, stay your steps, oh you who hurry so along this darkened air.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0146
 
-## seg-0147 / 01:20:04-01:20:57 / SPEAKER_07
+## seg-0147 / 01:20:07-01:20:57 / SPEAKER_07
 
-oh you who hurry so along this darkened air. Perhaps you'll have from me that which you seek, at which my guide turned to me saying, wait and then continue following his pace. I stopped and I saw two whose faces showed their minds were keen to be with one. Both their loath and the tight path forced them to slow. When they came up they looked askance at me a long while and they uttered not a word until they turned to one another saying, the throbbing of his throat makes this one seem alive and if they're dead, what privilege lets them appear without the heavy mantle? Then they addressed me, Tuscan, you who come to this assembly of sad hypocrites, do not disdain to tell us who you are. I answered, where the lovely Arno flows, there I was born and raised in the great city. I'm with the body I have always had. But who are
+Perhaps you'll have from me that which you seek, at which my guide turned to me saying, wait and then continue following his pace. I stopped and I saw two whose faces showed their minds were keen to be with one. Both their loath and the tight path forced them to slow. When they came up they looked askance at me a long while and they uttered not a word until they turned to one another saying, the throbbing of his throat makes this one seem alive and if they're dead, what privilege lets them appear without the heavy mantle? Then they addressed me, Tuscan, you who come to this assembly of sad hypocrites, do not disdain to tell us who you are. I answered, where the lovely Arno flows, there I was born and raised in the great city. I'm with the body I have always had. But who are
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0147
 
-## seg-0148 / 01:20:57-01:21:55 / SPEAKER_07
+## seg-0148 / 01:20:57-01:21:56 / SPEAKER_07
 
-you upon whose cheeks I see such tears distilled by grief and let me know what punishment it is that glitters so. And one of them replied, the yellow cloaks are of a lead so thick their heaviness makes us the balances beneath them creak. We both were jovial friars and Bolognese. My name is Catalano, Lauderingo was his and we were chosen by your city together for the post that's usually one man's to keep the peace and what we were is still to be observed around Gardingo. I then began, oh friars your misdeeds, but said no more because my eyes had caught once when crucified by three stakes on the ground. When he saw me that sinner writhed all over and he breathed hard into his beard with sighs. Serving that Fra Catalano said to me, that one impaled there whom you see counseled the Pharisees that it was prudent to let one man and not one
+you upon whose cheeks I see such tears distilled by grief and let me know what punishment it is that glitters so. And one of them replied, the yellow cloaks are of a lead so thick their heaviness makes us the balances beneath them creak. We both were jovial friars and Bolognese. My name is Catalano, Lauderingo was his and we were chosen by your city together for the post that's usually one man's to keep the peace and what we were is still to be observed around Gardingo. I then began, oh friars your misdeeds, but said no more because my eyes had caught once when crucified by three stakes on the ground. When he saw me that sinner writhed all over and he breathed hard into his beard with sighs. Serving that Fra Catalano said to me, that one impaled there whom you see counseled the Pharisees that it was prudent to let one man and not one nation suffer.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0148
 
-## seg-0149 / 01:21:55-01:22:14 / SPEAKER_07
+## seg-0149 / 01:21:57-01:22:21 / SPEAKER_07
 
-nation suffer. Naked he has been stretched across the path as you can see and he must feel the weight of anyone who passes over him. Like torment in this ditch, afflicts both his father -in -law and others in that council, which for the Jews has seeded so much evil. Okay, so this is Caiaphas,
+Naked he has been stretched across the path as you can see and he must feel the weight of anyone who passes over him. Like torment in this ditch, afflicts both his father -in -law and others in that council, which for the Jews has seeded so much evil. Okay, so this is Caiaphas, who is the Pharisee, the high priest who condemned Jesus to death.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0149
 
-## seg-0150 / 01:22:14-01:23:05 / SPEAKER_16
+## seg-0150 / 01:22:22-01:23:05 / SPEAKER_16
 
-who is the Pharisee, the high priest who condemned Jesus to death. And so for his punishment, he is crucified to the ground and everyone just walks on him. This is the area of the hypocrites and the hypocrites are punished by wearing cloaks of lead. So like their movement is like really, really slow. Okay, they're burdened by these cloaks of lead. So let's think about this. What is hypocrisy? And why would you be punished walking all of eternity with cloaks of lead that are very heavy, so heavy that it hurts to walk? What is hypocrisy? Why do people engage in it? Yes?
+And so for his punishment, he is crucified to the ground and everyone just walks on him. This is the area of the hypocrites and the hypocrites are punished by wearing cloaks of lead. So like their movement is like really, really slow. Okay, they're burdened by these cloaks of lead. So let's think about this. What is hypocrisy? And why would you be punished walking all of eternity with cloaks of lead that are very heavy, so heavy that it hurts to walk? What is hypocrisy? Why do people engage in it? Yes?
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0150
 
@@ -992,27 +992,27 @@ for soon as we were on the broken bridge, my guide turned back to me with that s
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0165
 
-## seg-0166 / 01:29:08-01:30:03 / SPEAKER_07
+## seg-0166 / 01:29:08-01:30:04 / SPEAKER_07
 
-Malabolge runs right past me, into the mouth of its last well, the placement of each valley means it must have one bank high and have the other short, and so we reached at length, the jutting where the last stone of the ruined bridge breaks off. The breath within my lungs was so exhausted from climbing, I could not go on. In fact, as soon as I had reached that sore, I sat, stone, I sat. Now you must cast aside your laziness, my master said, for he who rests on down on or under covers, cannot come to fame. And he who spends his life without renown leaves such a vestige of himself on earth as smoke bequeaths to air or foam to water. Therefore, get up, defeat your breathlessness with spirit that can win all battles if the body's heaviness does not deter it. A longer ladder still is to be climbed. It's not enough to have
+Malabolge runs right past me, into the mouth of its last well, the placement of each valley means it must have one bank high and have the other short, and so we reached at length, the jutting where the last stone of the ruined bridge breaks off. The breath within my lungs was so exhausted from climbing, I could not go on. In fact, as soon as I had reached that sore, I sat, stone, I sat. Now you must cast aside your laziness, my master said, for he who rests on down on or under covers, cannot come to fame. And he who spends his life without renown leaves such a vestige of himself on earth as smoke bequeaths to air or foam to water. Therefore, get up, defeat your breathlessness with spirit that can win all battles if the body's heaviness does not deter it. A longer ladder still is to be climbed. It's not enough to have left them behind.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0166
 
-## seg-0167 / 01:30:03-01:30:07 / SPEAKER_07
+## seg-0167 / 01:30:04-01:30:07 / SPEAKER_07
 
-left them behind. If you have understood, now profit from it.
+If you have understood, now profit from it.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0167
 
-## seg-0168 / 01:30:07-01:31:18 / SPEAKER_16
+## seg-0168 / 01:30:07-01:31:19 / SPEAKER_16
 
-Okay, I'm sure that you might have had a teacher, okay? Some of you might have had a teacher who has inspired you to greatness. And what your teacher said to you is, the reason why we are memorizing tests for like eight hours a day is to aspire to greatness, right? We suffer for 12 years, we lose our soul, we lose our individuality, but at the end of it, we will obtain immortality because we'll get into like Tsinghua or Harvard or Yale and then we'll be great, okay? What do you think of a teacher like that? There's quite a few teachers like that in China, but what's your impression of a teacher like that? I mean, he's not wrong, right? He or she is not wrong. And there are lots of students who are able to get into Tsinghua or Beidao or Yale or Harvard because of a teacher like that. But how do you feel
+Okay, I'm sure that you might have had a teacher, okay? Some of you might have had a teacher who has inspired you to greatness. And what your teacher said to you is, the reason why we are memorizing tests for like eight hours a day is to aspire to greatness, right? We suffer for 12 years, we lose our soul, we lose our individuality, but at the end of it, we will obtain immortality because we'll get into like Tsinghua or Harvard or Yale and then we'll be great, okay? What do you think of a teacher like that? There's quite a few teachers like that in China, but what's your impression of a teacher like that? I mean, he's not wrong, right? He or she is not wrong. And there are lots of students who are able to get into Tsinghua or Beidao or Yale or Harvard because of a teacher like that. But how do you feel about a teacher like that?
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0168
 
-## seg-0169 / 01:31:18-01:31:23 / SPEAKER_16
+## seg-0169 / 01:31:20-01:31:23 / SPEAKER_16
 
-about a teacher like that? Have you had a teacher like that? And what's your impression? Yes?
+Have you had a teacher like that? And what's your impression? Yes?
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0169
 
@@ -1082,15 +1082,15 @@ Okay, right.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0180
 
-## seg-0181 / 01:33:35-01:34:28 / SPEAKER_02
+## seg-0181 / 01:33:35-01:34:29 / SPEAKER_02
 
-I use, if a teacher tells me that, I know how much effort I need to put for their class because I mean this in the sense that if a teacher is really good at teaching, and really has a love for their subject, in classes, what they say is, oh my God, guys, chemistry is so amazing. It's so interesting. And it really piques my passion. So for that class, I put in the extra effort and I understand that that teacher understands my passion for the subject. But if a teacher tells me, you just need to do this to get to a good college, I know like that class, I'm not going to really learn anything. So I'm just going to put the amount of effort that's needed for me to get an A and just... But I guess for me, my understanding of education is not to get that job. It's to better yourself. And also
+I use, if a teacher tells me that, I know how much effort I need to put for their class because I mean this in the sense that if a teacher is really good at teaching, and really has a love for their subject, in classes, what they say is, oh my God, guys, chemistry is so amazing. It's so interesting. And it really piques my passion. So for that class, I put in the extra effort and I understand that that teacher understands my passion for the subject. But if a teacher tells me, you just need to do this to get to a good college, I know like that class, I'm not going to really learn anything. So I'm just going to put the amount of effort that's needed for me to get an A and just... But I guess for me, my understanding of education is not to get that job. It's to better yourself. And also learning is fun.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0181
 
-## seg-0182 / 01:34:28-01:34:39 / SPEAKER_02
+## seg-0182 / 01:34:29-01:34:39 / SPEAKER_02
 
-learning is fun. But if the teachers don't understand and take that perspective, I can't really convince them that. So it just... Okay, we understand.
+But if the teachers don't understand and take that perspective, I can't really convince them that. So it just... Okay, we understand.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0182
 
@@ -1136,51 +1136,51 @@ Yeah. It's a great discussion, but you have the last word. Okay. Then we'll cont
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0189
 
-## seg-0190 / 01:37:48-01:38:31 / SPEAKER_08
+## seg-0190 / 01:37:48-01:38:33 / SPEAKER_08
 
-Sorry, I have to put out the counter argument that if we prime education to be something fun of self -discovery, of passion and love, you'll realize that learning is anti -human, just like exercising. Like in a way it is, you know, it is good for you, but, you know, to eat salad every day and to exercise, be an athlete, you know, be a great achiever will take pain, will take a bit of, you know, suffering. So when everything is fun driven and passion driven, what if you have passion for chemistry, but not for physics? Or like the teacher try to invoke passion in you, but it's hard because you, you are just a chemistry person, not a physics or not a math or Chinese, you know, language arts person. Then you will lose like, oh, then, you know, physics or chemistry is my, you know, passion. And that's the only thing I'm going to learn
+Sorry, I have to put out the counter argument that if we prime education to be something fun of self -discovery, of passion and love, you'll realize that learning is anti -human, just like exercising. Like in a way it is, you know, it is good for you, but, you know, to eat salad every day and to exercise, be an athlete, you know, be a great achiever will take pain, will take a bit of, you know, suffering. So when everything is fun driven and passion driven, what if you have passion for chemistry, but not for physics? Or like the teacher try to invoke passion in you, but it's hard because you, you are just a chemistry person, not a physics or not a math or Chinese, you know, language arts person. Then you will lose like, oh, then, you know, physics or chemistry is my, you know, passion. And that's the only thing I'm going to learn well, then the rest of it, it's like, whatever.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0190
 
-## seg-0191 / 01:38:31-01:38:42 / SPEAKER_08
+## seg-0191 / 01:38:34-01:38:42 / SPEAKER_08
 
-well, then the rest of it, it's like, whatever. Then I think it's a better to have a narrative, like, yeah, the other subjects are not as fun, but they are equally as important for your future to, you know.
+Then I think it's a better to have a narrative, like, yeah, the other subjects are not as fun, but they are equally as important for your future to, you know.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0191
 
 ## seg-0192 / 01:38:42-01:39:40 / SPEAKER_16
 
-Yeah. So just for some context, for those who are watching on the live stream, who do not know the Chinese system, the Chinese system, it, at the end of high school, everyone takes a comprehensive examination that tests six subjects. So you can have a great love of math, but if you don't do well in English, you're really, really screwed. Okay. It's comprehensive. So it's not just about passion. It's about like discipline. You have to like do well on all six subjects. Okay. So let's continue. Okay. Now, what Virgil says to Dante is, cast aside your laziness, because what we're trying to achieve is eternal fame. If you want to be the greatest poet in the world, you have to work a lot harder. What could Virgil say instead to motivate Dante? And it'd be a lot more effective by the way. Exactly right. What is Dante doing right now? Right? He's trying to get to
+Yeah. So just for some context, for those who are watching on the live stream, who do not know the Chinese system, the Chinese system, it, at the end of high school, everyone takes a comprehensive examination that tests six subjects. So you can have a great love of math, but if you don't do well in English, you're really, really screwed. Okay. It's comprehensive. So it's not just about passion. It's about like discipline. You have to like do well on all six subjects. Okay. So let's continue. Okay. Now, what Virgil says to Dante is, cast aside your laziness, because what we're trying to achieve is eternal fame. If you want to be the greatest poet in the world, you have to work a lot harder. What could Virgil say instead to motivate Dante? And it'd be a lot more effective by the way. Exactly right. What is Dante doing right now? Right? He's trying to get to Beatrice.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0192
 
 ## seg-0193 / 01:39:40-01:40:25 / SPEAKER_16
 
-Beatrice. Beatrice came to Virgil and says like, I want to see Dante again, bring him to me. Right? That's what Virgil's mission is. To take Dante to Beatrice. Right? So what Virgil should be saying to Dante is, Beatrice is waiting for us. Let's get there as soon as possible. And that's going to motivate, uh, Beatrice, Dante a lot more than like, Hey, everlasting fame, man. That's what we want. Okay. So it shows you psychology, the Virgil psychology. Okay. And that, and that's why this is a great work of literature because Virgil is a real person, right? He's just, he's not just a plot device. He has his own motivations. He has his own psychology. He has his own worldview. All right. All right. Uh, let, let, let's keep on going.
+Beatrice came to Virgil and says like, I want to see Dante again, bring him to me. Right? That's what Virgil's mission is. To take Dante to Beatrice. Right? So what Virgil should be saying to Dante is, Beatrice is waiting for us. Let's get there as soon as possible. And that's going to motivate, uh, Beatrice, Dante a lot more than like, Hey, everlasting fame, man. That's what we want. Okay. So it shows you psychology, the Virgil psychology. Okay. And that, and that's why this is a great work of literature because Virgil is a real person, right? He's just, he's not just a plot device. He has his own motivations. He has his own psychology. He has his own worldview. All right. All right. Uh, let, let, let's keep on going.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0193
 
 ## seg-0194 / 01:40:26-01:41:15 / SPEAKER_07
 
-Line 58. Then I arose and showed myself far better equipped with breath than I had been before. Go on for I'm strong and confident. We took our upward way upon the ridge with cracks, more jagged, narrow, difficult, and much more steep than we had crossed before. I spoke as we went on, not to seem weak at this, a voice came from the ditch beyond a voice that was not suited to form words. I know not what he said, although I was already at the summit of the bridge that crosses there. And yet he seemed to move. I bent that I had bent downward, but my living eyes cannot see the bottom through that dark at which I said, Oh master, can we reach the other belt? Let us descend the wall for as I hear and cannot understand. So I see down, but can distinguish nothing. The only answer that I give to you is
+Line 58. Then I arose and showed myself far better equipped with breath than I had been before. Go on for I'm strong and confident. We took our upward way upon the ridge with cracks, more jagged, narrow, difficult, and much more steep than we had crossed before. I spoke as we went on, not to seem weak at this, a voice came from the ditch beyond a voice that was not suited to form words. I know not what he said, although I was already at the summit of the bridge that crosses there. And yet he seemed to move. I bent that I had bent downward, but my living eyes cannot see the bottom through that dark at which I said, Oh master, can we reach the other belt? Let us descend the wall for as I hear and cannot understand. So I see down, but can distinguish nothing. The only answer that I give to you is doing it.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0194
 
 ## seg-0195 / 01:41:15-01:42:12 / SPEAKER_07
 
-doing it. He said, just request is to be met in silence by the, by the act. We then climbed down the bridge just at the end where it runs right into the eighth embankment. And now the moat was plain enough to me. And there within, I saw a dreadful swarm of serpents, so extravagant and form remembering them. So it drains my blood from me. Let Libya boast no more about her sands, or if she breathes, Kelly, Jack, Cooley, Shen, Chris with emphasis, Bina, Paray. She never showed with all of Ethiopia or all the land that borders the Red Sea. So many such malignant pestilences among this cool and depressing swarm ran people who were naked, terrified with no hope of a whole or heliotrope. Their hands were tied behind by serpent. These had thrust their head and tail right through the loins and then were not on the other side. And there a serpent sprang
+He said, just request is to be met in silence by the, by the act. We then climbed down the bridge just at the end where it runs right into the eighth embankment. And now the moat was plain enough to me. And there within, I saw a dreadful swarm of serpents, so extravagant and form remembering them. So it drains my blood from me. Let Libya boast no more about her sands, or if she breathes, Kelly, Jack, Cooley, Shen, Chris with emphasis, Bina, Paray. She never showed with all of Ethiopia or all the land that borders the Red Sea. So many such malignant pestilences among this cool and depressing swarm ran people who were naked, terrified with no hope of a whole or heliotrope. Their hands were tied behind by serpent. These had thrust their head and tail right through the loins and then were not on the other side. And there a serpent sprang
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0195
 
-## seg-0196 / 01:42:12-01:43:06 / SPEAKER_07
+## seg-0196 / 01:42:12-01:43:08 / SPEAKER_07
 
-with force at one who stood upon our shore, transfixing him just where the neck and shoulders from a knot. No O or I has ever been transcribed so quickly as that soul caught fire and burned, and as he fell, completely turned to ashes. And when he lay undone upon the ground, the dust of him collected by itself and instantly returned to what it was. Just so it is asserted by great sages that when it reaches its 500th year, the Phoenix dies and then is born again. Lifelong, it never feeds on grass or grain, only on drops of incense and amamum. Its final winding sheets are nard and myrrh. And just as he who falls and knows not how, by demon's force that drags him to the ground, or by some other hindrance that binds man, who, when he rises, stares about him, all bewildered by the heavy anguish he has suffered, sighing as he looks
+with force at one who stood upon our shore, transfixing him just where the neck and shoulders from a knot. No O or I has ever been transcribed so quickly as that soul caught fire and burned, and as he fell, completely turned to ashes. And when he lay undone upon the ground, the dust of him collected by itself and instantly returned to what it was. Just so it is asserted by great sages that when it reaches its 500th year, the Phoenix dies and then is born again. Lifelong, it never feeds on grass or grain, only on drops of incense and amamum. Its final winding sheets are nard and myrrh. And just as he who falls and knows not how, by demon's force that drags him to the ground, or by some other hindrance that binds man, who, when he rises, stares about him, all bewildered by the heavy anguish he has suffered, sighing as he looks around, so did the sinner stare when he arose.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0196
 
-## seg-0197 / 01:43:06-01:44:04 / SPEAKER_07
+## seg-0197 / 01:43:09-01:44:04 / SPEAKER_07
 
-around, so did the sinner stare when he arose. Oh, how severe it is, the power of God, that, as its vengeance showers down such blows. My guide then asked that sinner who he was. To this he answered, not long since I reigned from Tuscany into this savage maw. Mew that I was the beast, your life pleased me and not the man. I'm vani foo chief, beast, and the den that suited me, fistoya. And I to Virgil, tell him not to slip away and ask what sin has thrust him here. I knew him as a man of blood and anger. The sinner heard, and did not try to feign, but turned his mind and face intent toward me, and coloring with miserable shame, he said, I suffer more because you've caught me in this, the misery you see, than I suffered when taken from the other life. I can't refuse to answer what you ask. I'm
+Oh, how severe it is, the power of God, that, as its vengeance showers down such blows. My guide then asked that sinner who he was. To this he answered, not long since I reigned from Tuscany into this savage maw. Mew that I was the beast, your life pleased me and not the man. I'm vani foo chief, beast, and the den that suited me, fistoya. And I to Virgil, tell him not to slip away and ask what sin has thrust him here. I knew him as a man of blood and anger. The sinner heard, and did not try to feign, but turned his mind and face intent toward me, and coloring with miserable shame, he said, I suffer more because you've caught me in this, the misery you see, than I suffered when taken from the other life. I can't refuse to answer what you ask. I'm
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0197
 
@@ -1190,15 +1190,15 @@ set down so far because I robbed the sacristy of its fair ornament, and someone 
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0198
 
-## seg-0199 / 01:44:49-01:46:02 / SPEAKER_16
+## seg-0199 / 01:44:49-01:45:59 / SPEAKER_16
 
-Okay. All right. So we are pretty far down in Inferno. And here in the circle of fraud, we now meet thieves. Okay. Can I ask you a question? I mean like we've been through Inferno. We were in a circle of violence. We met people like Alexander the Great. And yeah, you can come, you can make the argument that Alexander the Great is a terrible, terrible person because he commits genocide against a lot of people. Okay. And he started wars for no real reason except for his own glory. Darius, the King of Persia offered him many, many bribes in order to not stop, to not stop fighting. And his Ed man told him like, let's just take the bribes. Okay. Yet at the same time, this thief, um, he's a lot lower in Inferno than a great conqueror like Alexander the Great who killed a lot of people. Why is thievery so bad? Why? Why is
+Okay. All right. So we are pretty far down in Inferno. And here in the circle of fraud, we now meet thieves. Okay. Can I ask you a question? I mean like we've been through Inferno. We were in a circle of violence. We met people like Alexander the Great. And yeah, you can come, you can make the argument that Alexander the Great is a terrible, terrible person because he commits genocide against a lot of people. Okay. And he started wars for no real reason except for his own glory. Darius, the King of Persia offered him many, many bribes in order to not stop, to not stop fighting. And his Ed man told him like, let's just take the bribes. Okay. Yet at the same time, this thief, um, he's a lot lower in Inferno than a great conqueror like Alexander the Great who killed a lot of people. Why is thievery so bad? Why?
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0199
 
-## seg-0200 / 01:46:02-01:46:57 / SPEAKER_16
+## seg-0200 / 01:45:59-01:46:57 / SPEAKER_16
 
-thievery so evil as it warrants such a low status in, in hell? Right. And also like if someone's stealing, it's often, because maybe they need the money, right? Maybe if my child is hungry, I'm going to go steal some, something from other people, right? Have you guys seen the movie, the bicycle thief? A very good Italian movie, right? And if you haven't, it's a really good movie, but it's just this guy who's a very normal guy. This is like post -war Italy, absolutely no money. And he has to feed his kid. So he goes, steals a bicycle. And then he's, you know, becomes a villain. And society around him. So why is thievery such a sin? Yes.
+Why is thievery so evil as it warrants such a low status in, in hell? Right. And also like if someone's stealing, it's often, because maybe they need the money, right? Maybe if my child is hungry, I'm going to go steal some, something from other people, right? Have you guys seen the movie, the bicycle thief? A very good Italian movie, right? And if you haven't, it's a really good movie, but it's just this guy who's a very normal guy. This is like post -war Italy, absolutely no money. And he has to feed his kid. So he goes, steals a bicycle. And then he's, you know, becomes a villain. And society around him. So why is thievery such a sin? Yes.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0200
 
@@ -1268,15 +1268,15 @@ Because thievery affects, uh, the person who's been thieved capacity to love and
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0211
 
-## seg-0212 / 01:50:57-01:51:31 / SPEAKER_16
+## seg-0212 / 01:50:57-01:51:34 / SPEAKER_16
 
-Yes. Does that make sense to you? Okay. The problem with thievery is not the stealing. The fact is that it's so no one knows who did it. So then you, you have to like suspect everyone, right? The problem is not that he stole and it's not even like what he stole. The problem is like he got away with it. That's why thieves are worse than, than everyone else because they often get away with it. It's so secretive. It's so shadowy. Like it, no one knows who did it. Right. Yes. Is it,
+Yes. Does that make sense to you? Okay. The problem with thievery is not the stealing. The fact is that it's so no one knows who did it. So then you, you have to like suspect everyone, right? The problem is not that he stole and it's not even like what he stole. The problem is like he got away with it. That's why thieves are worse than, than everyone else because they often get away with it. It's so secretive. It's so shadowy. Like it, no one knows who did it. Right. Yes. Is it, didn't you just say that God knows everything?
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0212
 
-## seg-0213 / 01:51:31-01:51:47 / SPEAKER_14
+## seg-0213 / 01:51:34-01:51:47 / SPEAKER_14
 
-didn't you just say that God knows everything? Right. And God will punish you for it. But I'm saying like, what, what is the effect on society? Uh, okay. Yeah. But it's not a sin against God or it's not, it's not a direct sin against God. It's a sin against society.
+Right. And God will punish you for it. But I'm saying like, what, what is the effect on society? Uh, okay. Yeah. But it's not a sin against God or it's not, it's not a direct sin against God. It's a sin against society.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0213
 
@@ -1334,15 +1334,15 @@ Why does he hate God so much? He curses God, right? And he's, I see the only per
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0222
 
-## seg-0223 / 01:56:26-01:56:41 / SPEAKER_01
+## seg-0223 / 01:56:26-01:56:43 / SPEAKER_01
 
-So we said before that the effects of theory is so big on society, but it is kind of one of those crimes that if you're the one doing the thievery, maybe to you, it doesn't seem that bad. So you, you might feel that you're being unjustly punished,
+So we said before that the effects of theory is so big on society, but it is kind of one of those crimes that if you're the one doing the thievery, maybe to you, it doesn't seem that bad. So you, you might feel that you're being unjustly punished, right?
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0223
 
 ## seg-0224 / 01:56:43-01:56:49 / SPEAKER_16
 
-right? Okay. Um, why don't you think it's a bad thing or it's not that you think,
+Okay. Um, why don't you think it's a bad thing or it's not that you think,
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0224
 
@@ -1364,15 +1364,15 @@ Guilty. You'd feel at least that for the other person.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0227
 
-## seg-0228 / 01:57:33-01:58:26 / SPEAKER_16
+## seg-0228 / 01:57:33-01:58:28 / SPEAKER_16
 
-He's pretty ecstatic, man. Okay. Right. Because not only has he gotten away with it, but now he's completely innocent. Do you understand? So he's like the perfect crime and who screwed it up for him? God screwed up for him. Okay. So now he's pissed about this. He's like, Oh my God, I had all planned out. It's a perfect crime. Um, and I thought that I, I get away with it. And then God had to intervene. Okay. So he's really angry about this. Okay. Does that make sense? All right. So we'll continue after the break. Um, but an announcement, um, is that on Thursday we start class earlier. We start class at nine o 'clock. Okay. So try to come at about eight 50. And then we'll get back to you. And the reason why is we have a special guest joining us. Uh, professor David Bromwich, who's starting professor of English at Yale. He's joining
+He's pretty ecstatic, man. Okay. Right. Because not only has he gotten away with it, but now he's completely innocent. Do you understand? So he's like the perfect crime and who screwed it up for him? God screwed up for him. Okay. So now he's pissed about this. He's like, Oh my God, I had all planned out. It's a perfect crime. Um, and I thought that I, I get away with it. And then God had to intervene. Okay. So he's really angry about this. Okay. Does that make sense? All right. So we'll continue after the break. Um, but an announcement, um, is that on Thursday we start class earlier. We start class at nine o 'clock. Okay. So try to come at about eight 50. And then we'll get back to you. And the reason why is we have a special guest joining us. Uh, professor David Bromwich, who's starting professor of English at Yale. He's joining us live from new Haven.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0228
 
-## seg-0229 / 01:58:26-01:59:06 / SPEAKER_16
+## seg-0229 / 01:58:28-01:59:06 / SPEAKER_16
 
-us live from new Haven. It's a rare treat for, for us. It will be live stream to, to everyone. Um, and what he's going to do is he's going to talk about Shakespeare. And then we're gonna, we're gonna talk about Dante. We're going to compare and contrast Shakespeare with Dante. Okay. So, um, he's obviously one of world's foremost experts on Shakespeare. And we are obviously one, obviously experts on Dante already. So it will be a very lively discussion. Okay. So something, something that'll be really fun. Uh, so please come about eight 50. We'll start at nine o 'clock properly and we'll go for about an hour. Okay. So, um, yep. Yep.
+It's a rare treat for, for us. It will be live stream to, to everyone. Um, and what he's going to do is he's going to talk about Shakespeare. And then we're gonna, we're gonna talk about Dante. We're going to compare and contrast Shakespeare with Dante. Okay. So, um, he's obviously one of world's foremost experts on Shakespeare. And we are obviously one, obviously experts on Dante already. So it will be a very lively discussion. Okay. So something, something that'll be really fun. Uh, so please come about eight 50. We'll start at nine o 'clock properly and we'll go for about an hour. Okay. So, um, yep. Yep.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0229
 
@@ -1382,81 +1382,81 @@ So then are we doing like a three hour morning? Yeah.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0230
 
-## seg-0231 / 01:59:10-02:00:21 / SPEAKER_16
+## seg-0231 / 01:59:10-02:00:27 / SPEAKER_16
 
-Three hour morning. Yeah. Okay. All right. All right guys. Enjoy your lunch. We'll come back. Okay. Okay. So, an issue that we had this morning, which is why is thievery much worse, a sin than genocide. Okay. So an example is you have accident, the great who for his own vanity and glory, he decided to go conquer the Persian empire in the process. He kills millions of people. Okay. At least a million, possibly 10 million. Um, so a million dies and then you have a thief who, who, who steals a holy relic and then someone else is blamed. Okay. And as we discussed, what this does is it destroys trust and cohesion in the community. Okay. But still, even if this was a large community, it would only be about a thousand people. Okay. It would only be about a thousand people. So we have this strange paradox where for Dante, uh, the thief, by impacting
+Three hour morning. Yeah. Okay. All right. All right guys. Enjoy your lunch. We'll come back. Okay. Okay. So, an issue that we had this morning, which is why is thievery much worse, a sin than genocide. Okay. So an example is you have accident, the great who for his own vanity and glory, he decided to go conquer the Persian empire in the process. He kills millions of people. Okay. At least a million, possibly 10 million. Um, so a million dies and then you have a thief who, who, who steals a holy relic and then someone else is blamed. Okay. And as we discussed, what this does is it destroys trust and cohesion in the community. Okay. But still, even if this was a large community, it would only be about a thousand people. Okay. It would only be about a thousand people. So we have this strange paradox where for Dante, uh, the thief, by impacting a thousand people, it's a worse sin than accident, the great killing a million people.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0231
 
-## seg-0232 / 02:00:21-02:01:27 / SPEAKER_16
+## seg-0232 / 02:00:27-02:01:31 / SPEAKER_16
 
-a thousand people, it's a worse sin than accident, the great killing a million people. Okay. And how do we reconcile this paradox? And that's why it's important to read paradise first, because without reading paradise, it is impossible to reconcile this paradox. There's certain aspects here that, um, explain, uh, the difference. First is the idea of immortality of the soul. And that's something that Beatrice will tell Dante that the soul is immortal. It's eternal. It can never die off. If your body dies off, your soul will still, um, be around. Then, uh, what we also learn is that the soul aspires to return to God. Okay. The soul, it's greatest desire. It's greatest happiness is to be with God. All right. The soul returns to God. We also learn that what allows us to return to God is the idea of faith, hope, and trust. And love. Okay. All right. So once you understand these three
+Okay. And how do we reconcile this paradox? And that's why it's important to read paradise first, because without reading paradise, it is impossible to reconcile this paradox. There's certain aspects here that, um, explain, uh, the difference. First is the idea of immortality of the soul. And that's something that Beatrice will tell Dante that the soul is immortal. It's eternal. It can never die off. If your body dies off, your soul will still, um, be around. Then, uh, what we also learn is that the soul aspires to return to God. Okay. The soul, it's greatest desire. It's greatest happiness is to be with God. All right. The soul returns to God. We also learn that what allows us to return to God is the idea of faith, hope, and trust. And love. Okay. All right. So once you understand these three principles, then it's, then we can understand how this works.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0232
 
-## seg-0233 / 02:01:27-02:02:26 / SPEAKER_16
+## seg-0233 / 02:01:31-02:02:26 / SPEAKER_16
 
-principles, then it's, then we can understand how this works. The million people die. It's not a big deal. They lose their bodies to come back later on, but there's a thousand people who, uh, feel betrayed, who are suspicious of each other. It's not impossible for them to live a life of faith, hope, and love. And in fact, it will probably, um, make them more likely to sin. Okay. So now they're moving away from God. Okay. So, um, it's not the absolute numbers that matter. It's how people choose to live the lives that matter. And the sin, the worst possible sin is treachery in a way that, uh, forces other people to commit treachery as well. All right. To force you away from God. Does this make sense guys? Okay. All right. Okay. Let's, let's, let's continue.
+The million people die. It's not a big deal. They lose their bodies to come back later on, but there's a thousand people who, uh, feel betrayed, who are suspicious of each other. It's not impossible for them to live a life of faith, hope, and love. And in fact, it will probably, um, make them more likely to sin. Okay. So now they're moving away from God. Okay. So, um, it's not the absolute numbers that matter. It's how people choose to live the lives that matter. And the sin, the worst possible sin is treachery in a way that, uh, forces other people to commit treachery as well. All right. To force you away from God. Does this make sense guys? Okay. All right. Okay. Let's, let's, let's continue.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0233
 
 ## seg-0234 / 02:02:33-02:03:36 / SPEAKER_07
 
-Canto 25, um, verse, let's see, 10. Pistoia, ah, Pistoia, must you last? Why not decree yourself incineration since you surpass your seed and wickedness? Throughout the shadowed circles of deep hell, I saw no soul against God so rebel, not even he who fell from Theban walls. He fled and could not say another word. And then I saw a sensual, full of anger shouting, where is he? Where's that bitter one? I do not think Maremma has the number of snakes that centaur carried on his haunch until the part that takes our human form upon his shoulders and behind his nape. There lay a dragon with its wings outstretched. It sets ablaze all those, its intercepts. My master said that centaur there is Cacus who often made a lake of blood within a grotto underneath Mount Aventine. He does not ride the same road as his brothers because he stole and most deceitfully from the great herd
+Canto 25, um, verse, let's see, 10. Pistoia, ah, Pistoia, must you last? Why not decree yourself incineration since you surpass your seed and wickedness? Throughout the shadowed circles of deep hell, I saw no soul against God so rebel, not even he who fell from Theban walls. He fled and could not say another word. And then I saw a sensual, full of anger shouting, where is he? Where's that bitter one? I do not think Maremma has the number of snakes that centaur carried on his haunch until the part that takes our human form upon his shoulders and behind his nape. There lay a dragon with its wings outstretched. It sets ablaze all those, its intercepts. My master said that centaur there is Cacus who often made a lake of blood within a grotto underneath Mount Aventine. He does not ride the same road as his brothers because he stole and most deceitfully from the great herd nearby.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0234
 
-## seg-0235 / 02:03:36-02:04:33 / SPEAKER_07
+## seg-0235 / 02:03:36-02:04:38 / SPEAKER_07
 
-nearby. His crooked deeds, his crooked deeds ended beneath the club of Hercules who may have given him a hundred blows, but he was not alive to feel the tenth. While he was talking, so Cacus ran by and just beneath our ledge, three souls arrived, but neither I nor my guide noticed them until they had cried out. And who are you? At this, the words we shared were interrupted, and we attended only to those spirits. I did not recognize them, but it happened, as chance will usually bring about, that one of them called out the other's name, exclaiming, where was Chianpha left behind? At this, so that my guide might be alert, I raised my finger up from chin to nose. If, reader, you're slow now to believe what I shall tell, that is no cause for wonder, for I, who saw it, can accept it. As I kept my eyes fixed upon those sinners, a
+His crooked deeds, his crooked deeds ended beneath the club of Hercules who may have given him a hundred blows, but he was not alive to feel the tenth. While he was talking, so Cacus ran by and just beneath our ledge, three souls arrived, but neither I nor my guide noticed them until they had cried out. And who are you? At this, the words we shared were interrupted, and we attended only to those spirits. I did not recognize them, but it happened, as chance will usually bring about, that one of them called out the other's name, exclaiming, where was Chianpha left behind? At this, so that my guide might be alert, I raised my finger up from chin to nose. If, reader, you're slow now to believe what I shall tell, that is no cause for wonder, for I, who saw it, can accept it. As I kept my eyes fixed upon those sinners, a serpent with six feet springs out against one of the three and clutches him completely.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0235
 
-## seg-0236 / 02:04:33-02:05:30 / SPEAKER_07
+## seg-0236 / 02:04:39-02:05:31 / SPEAKER_07
 
-serpent with six feet springs out against one of the three and clutches him completely. It gripped his belly with his middle feet and with its forefeet grappled his two arms, and then it sank its teeth in both his cheeks. It stretched its rear feet out along his thighs and ran its tail along between the two, then straightened it again behind his loins. No ivy ever gripped a tree so fast as when that harp, a horrifying monster, clasped and intertwined the other's limbs with its. Then, just as their substance were warm wax, they stuck together, and they mixed their colors, so neither seemed what had been seen before, yet been before. Just as, when paper's kindled, where it still has not caught flame in full, its color's dark though not yet black while white is dying off. The other two souls stared, and each one cried, Ah, me and yellow, how you change, just see, you're
+It gripped his belly with his middle feet and with its forefeet grappled his two arms, and then it sank its teeth in both his cheeks. It stretched its rear feet out along his thighs and ran its tail along between the two, then straightened it again behind his loins. No ivy ever gripped a tree so fast as when that harp, a horrifying monster, clasped and intertwined the other's limbs with its. Then, just as their substance were warm wax, they stuck together, and they mixed their colors, so neither seemed what had been seen before, yet been before. Just as, when paper's kindled, where it still has not caught flame in full, its color's dark though not yet black while white is dying off. The other two souls stared, and each one cried, Ah, me and yellow, how you change, just see, you're already neither two nor one.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0236
 
-## seg-0237 / 02:05:30-02:06:28 / SPEAKER_07
+## seg-0237 / 02:05:32-02:06:32 / SPEAKER_07
 
-already neither two nor one. Then two heads were already joined in one, when in one face where two had been dissolved, two intermingled shapes appeared to us. Two arms came into being from four lengths, the thighs and legs, the belly and the chest became such limbs as never had been seen, and every former shape was canceled there, that perverse image seemed to share in both, and none in so, and slowly it moved on. Just as the lizard, when it darts from hedge to hedge, beneath the dog's days, giant lash, seems, if it crossed one's path, a lightning flash. So seemed a blazing little serpent, moving against the bellies of the other two, as black and livid as a peppercorn. Attacking one of therm, it pierced right through the part where we first take our nourishment, and then it fell before him at full length. The one it had transfixed, stared, but said nothing. In fact,
+Then two heads were already joined in one, when in one face where two had been dissolved, two intermingled shapes appeared to us. Two arms came into being from four lengths, the thighs and legs, the belly and the chest became such limbs as never had been seen, and every former shape was canceled there, that perverse image seemed to share in both, and none in so, and slowly it moved on. Just as the lizard, when it darts from hedge to hedge, beneath the dog's days, giant lash, seems, if it crossed one's path, a lightning flash. So seemed a blazing little serpent, moving against the bellies of the other two, as black and livid as a peppercorn. Attacking one of therm, it pierced right through the part where we first take our nourishment, and then it fell before him at full length. The one it had transfixed, stared, but said nothing. In fact, he only stood his ground and yawned, as one whom sleep or fever has undone.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0237
 
-## seg-0238 / 02:06:28-02:07:28 / SPEAKER_07
+## seg-0238 / 02:06:32-02:07:28 / SPEAKER_07
 
-he only stood his ground and yawned, as one whom sleep or fever has undone. The serpent stared at him, he at the serpent, one through his wound, the other through his mouth, where smoking violently their smoke met. Let Lucan now be silent, where he sings of sad Sabilus and Assiduous, and wait to hear what flies off from my bow. Let Ovid now be silent, where he tells of Cadmus Arethusa, if his verse had made of one a serpent, one a fountain. I do not envy him, he never did transmute two natures face to face, so that both forms were ready to exchange their matter. These were the ways they answered to each other. The serpent split its tail into a fork, the wounded sinner drew his steps together, the legs and then the thighs, along with them so fastened to each other that the juncture soon left no sign that was discernible. Meanwhile, the cleft
+The serpent stared at him, he at the serpent, one through his wound, the other through his mouth, where smoking violently their smoke met. Let Lucan now be silent, where he sings of sad Sabilus and Assiduous, and wait to hear what flies off from my bow. Let Ovid now be silent, where he tells of Cadmus Arethusa, if his verse had made of one a serpent, one a fountain. I do not envy him, he never did transmute two natures face to face, so that both forms were ready to exchange their matter. These were the ways they answered to each other. The serpent split its tail into a fork, the wounded sinner drew his steps together, the legs and then the thighs, along with them so fastened to each other that the juncture soon left no sign that was discernible. Meanwhile, the cleft
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0238
 
-## seg-0239 / 02:07:28-02:08:23 / SPEAKER_07
+## seg-0239 / 02:07:28-02:08:26 / SPEAKER_07
 
-tail took upon itself the fork, the other gradually lost, its skin grew soft, the other skin grew hard. I saw the arms that drew in at its armpits, and also saw the monster's two short feet grow long for just as much as those were shortened. The serpent's hind feet, twisted up together, became the member that man hides, just as the wretch put out two hind pods from his member. And while the smoke veils each with a new color and now breeds hair upon the skin of one, just as it strips the hair from off the other. The one rose up, the other fell, and they never turned aside their impious eye -lamps beneath which each of them transformed his snout. He who stood up drew his back toward the temples, and from the excess matter growing there came years upon the cheeks that had been bare. Whatever had not been pulled back but kept superfluous
+tail took upon itself the fork, the other gradually lost, its skin grew soft, the other skin grew hard. I saw the arms that drew in at its armpits, and also saw the monster's two short feet grow long for just as much as those were shortened. The serpent's hind feet, twisted up together, became the member that man hides, just as the wretch put out two hind pods from his member. And while the smoke veils each with a new color and now breeds hair upon the skin of one, just as it strips the hair from off the other. The one rose up, the other fell, and they never turned aside their impious eye -lamps beneath which each of them transformed his snout. He who stood up drew his back toward the temples, and from the excess matter growing there came years upon the cheeks that had been bare. Whatever had not been pulled back but kept superfluous then made his face a nose and thickened out his lips appropriately.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0239
 
-## seg-0240 / 02:08:23-02:09:21 / SPEAKER_07
+## seg-0240 / 02:08:27-02:09:25 / SPEAKER_07
 
-then made his face a nose and thickened out his lips appropriately. He who was lying down thrust out his snout, and even as the snail hauls in its horns he drew his ears straight back into his head. His tongue, which had before been whole and fit for speech, now cleaves. The other's tongue, which had been forked, now closes up, and the smoke stops. The soul that had become an animal, now hissing, hurried off along the valley. The other one behind him speaks and spits. And then he turned aside his new -made shoulders and told the third soul, I'd have Boasso run on all fours down this road as I have done. And so I saw the seventh ballast change and re -change. May the strangeness plead for me if there has been some confusion in my pen. And though my eyes were somewhat blurred, my mind bewildered, those three sinners did not flee so secretly
+He who was lying down thrust out his snout, and even as the snail hauls in its horns he drew his ears straight back into his head. His tongue, which had before been whole and fit for speech, now cleaves. The other's tongue, which had been forked, now closes up, and the smoke stops. The soul that had become an animal, now hissing, hurried off along the valley. The other one behind him speaks and spits. And then he turned aside his new -made shoulders and told the third soul, I'd have Boasso run on all fours down this road as I have done. And so I saw the seventh ballast change and re -change. May the strangeness plead for me if there has been some confusion in my pen. And though my eyes were somewhat blurred, my mind bewildered, those three sinners did not flee so secretly that I could not perceive Puccio Giancato clearly.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0240
 
-## seg-0241 / 02:09:21-02:09:36 / SPEAKER_07
+## seg-0241 / 02:09:26-02:09:36 / SPEAKER_07
 
-that I could not perceive Puccio Giancato clearly. He who was the only soul who had not been changed among the three companions we had met at first, the other one made you, Gavile, grieve.
+He who was the only soul who had not been changed among the three companions we had met at first, the other one made you, Gavile, grieve.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0241
 
-## seg-0242 / 02:09:37-02:10:48 / SPEAKER_16
+## seg-0242 / 02:09:37-02:10:47 / SPEAKER_16
 
-Okay, so these sinners are here because they committed identity theft, they're imposters, they pretend to be someone else, okay? It's like credit card fraud. And again, this goes back to the idea that the lower we go, the more these people are destroying their trust of society and society's capacity to function cohesively, okay? That's why they're being punished like this. And their punishment is fitting because they're constantly being changed, right? Snakes take over their bodies and then dissipates their soul, then they're resurrected and then snakes take over their souls again, okay? So, but what is unusual about this canto is Dante spends a lot of time in the description, right? Dante is usually very economical. He spends maybe a tercet and then he moves on. Here we have an entire canto talking about the metamorphosis. Why would he do that? Again, I don't actually know the answer. I'm just pointing this out, right? This is unusual
+Okay, so these sinners are here because they committed identity theft, they're imposters, they pretend to be someone else, okay? It's like credit card fraud. And again, this goes back to the idea that the lower we go, the more these people are destroying their trust of society and society's capacity to function cohesively, okay? That's why they're being punished like this. And their punishment is fitting because they're constantly being changed, right? Snakes take over their bodies and then dissipates their soul, then they're resurrected and then snakes take over their souls again, okay? So, but what is unusual about this canto is Dante spends a lot of time in the description, right? Dante is usually very economical. He spends maybe a tercet and then he moves on. Here we have an entire canto talking about the metamorphosis. Why would he do that? Again, I don't actually know the answer. I'm just pointing this out, right?
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0242
 
-## seg-0243 / 02:10:48-02:11:11 / SPEAKER_16
+## seg-0243 / 02:10:47-02:11:11 / SPEAKER_16
 
-for Dante. He's usually very succinct, very economical, very terse, and now he's spending a lot of time going in detail over the metamorphosis. Why would he do that? Any speculations? Again, I don't know the answer. I just want to speculate. Any possibilities?
+This is unusual for Dante. He's usually very succinct, very economical, very terse, and now he's spending a lot of time going in detail over the metamorphosis. Why would he do that? Any speculations? Again, I don't know the answer. I just want to speculate. Any possibilities?
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0243
 
@@ -1502,15 +1502,15 @@ And also in the Bible, in the book of Revelations, which is the last book of the
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0250
 
-## seg-0251 / 02:13:16-02:14:10 / SPEAKER_16
+## seg-0251 / 02:13:16-02:14:14 / SPEAKER_16
 
-Excellent. Okay, right. So we're approaching Lucifer, right? We're approaching the inner core of Lucifer. And maybe what he's trying to do is convey a sense of fear and dread, right? He's trying to evoke fear and dread in us because as we're reading this, we visualize what's happening to this human becoming a serpent. And if you think about it, it's very hard not to be afraid, right? This is almost like a horror movie now, right? This metamorphosis. I'm not sure if you've seen the movie The Fly, right? Where this guy turns into a fly. It's pretty disgusting. It's pretty scary. Don't watch it. Yeah. Okay? Yeah, but the idea of metamorphosis, right? That we can lose our human form and become something else. That's actually very, very scary. And it's hard to think of something even more scary than that idea. And maybe he's using that in order to evoke a sense of fear and dread
+Excellent. Okay, right. So we're approaching Lucifer, right? We're approaching the inner core of Lucifer. And maybe what he's trying to do is convey a sense of fear and dread, right? He's trying to evoke fear and dread in us because as we're reading this, we visualize what's happening to this human becoming a serpent. And if you think about it, it's very hard not to be afraid, right? This is almost like a horror movie now, right? This metamorphosis. I'm not sure if you've seen the movie The Fly, right? Where this guy turns into a fly. It's pretty disgusting. It's pretty scary. Don't watch it. Yeah. Okay? Yeah, but the idea of metamorphosis, right? That we can lose our human form and become something else. That's actually very, very scary. And it's hard to think of something even more scary than that idea. And maybe he's using that in order to evoke a sense of fear and dread as we approach the inner sanctums of Hell.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0251
 
-## seg-0252 / 02:14:10-02:14:18 / SPEAKER_16
+## seg-0252 / 02:14:15-02:14:18 / SPEAKER_16
 
-as we approach the inner sanctums of Hell. Great. These are all great suggestions, okay? All right. Let's keep on going.
+Great. These are all great suggestions, okay? All right. Let's keep on going.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0252
 
@@ -1532,15 +1532,15 @@ Verse 10. Were that already come, it would not be too soon. And let it come, sin
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0255
 
-## seg-0256 / 02:16:19-02:17:15 / SPEAKER_07
+## seg-0256 / 02:16:19-02:17:19 / SPEAKER_07
 
-way to the mosquito, sees glimmering below down the valley there where perhaps he gathers grapes and tills. So many were the flames that glittered in the eighth abyss. I made this out as soon as I had come to where one sees the bottom. Even as he who was avenged by bears saw, as it left Elijah's chariot, its horses rearing, rising right to heaven, when he could not keep track of it except by watching one lone flame in its ascent, just like a little cloud that climbs on high, so through the gullet of that ditch each flame must make its way. No flame displays its prey, though every flame has carried off a sinner. I stood upon the bridge, and leaned straight out to see, and if I had not gripped a rock I should have fallen off without a push. My guide, who noted how intent I was, told me, within those fires there are
+way to the mosquito, sees glimmering below down the valley there where perhaps he gathers grapes and tills. So many were the flames that glittered in the eighth abyss. I made this out as soon as I had come to where one sees the bottom. Even as he who was avenged by bears saw, as it left Elijah's chariot, its horses rearing, rising right to heaven, when he could not keep track of it except by watching one lone flame in its ascent, just like a little cloud that climbs on high, so through the gullet of that ditch each flame must make its way. No flame displays its prey, though every flame has carried off a sinner. I stood upon the bridge, and leaned straight out to see, and if I had not gripped a rock I should have fallen off without a push. My guide, who noted how intent I was, told me, within those fires there are souls, each one is swathed in that which scorches him.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0256
 
-## seg-0257 / 02:17:15-02:18:16 / SPEAKER_07
+## seg-0257 / 02:17:20-02:18:16 / SPEAKER_07
 
-souls, each one is swathed in that which scorches him. My master, I replied, on hearing you I am more sure, but I had already thought that it was so, and I had meant to ask, who is within the flame that comes so twined above that which scorches him? He said it would seem to rise out of the pyre Etiocles shared with his brother. He answered me, within that flame Ulysses and Diomedes suffer, they who went as one to rage now share one punishment, and there together in their flame they grieve over the horse's fraud that caused a breach, the gait that let Rome's noble seed escape. There they regret the guile that makes the dead Didymia still lament Achilles, and there for the palladium they pay. If they can speak within those sparks, I said, I pray you and repray and master, may my prayer be worth a thousand pleas. Do not forbid my waiting
+My master, I replied, on hearing you I am more sure, but I had already thought that it was so, and I had meant to ask, who is within the flame that comes so twined above that which scorches him? He said it would seem to rise out of the pyre Etiocles shared with his brother. He answered me, within that flame Ulysses and Diomedes suffer, they who went as one to rage now share one punishment, and there together in their flame they grieve over the horse's fraud that caused a breach, the gait that let Rome's noble seed escape. There they regret the guile that makes the dead Didymia still lament Achilles, and there for the palladium they pay. If they can speak within those sparks, I said, I pray you and repray and master, may my prayer be worth a thousand pleas. Do not forbid my waiting
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0257
 
@@ -1568,15 +1568,15 @@ to back and forth as if it were a tongue that tried to speak and flung toward us
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0261
 
-## seg-0262 / 02:20:49-02:21:45 / SPEAKER_07
+## seg-0262 / 02:20:49-02:21:46 / SPEAKER_07
 
-set up his boundary stones that men might heed and never reach beyond, upon my right I had gone past Seville and on the left already past Ceuta. Brothers, I said, O you who have crossed a hundred thousand dangers, reach the west to this brief waking. Time that still is left unto your senses. You must not deny experience of that which lies beyond the sun and of the world that is unpeopled. Consider well the seat that gave you birth you were not made to live your lives as brutes but to be followers of worth and knowledge. I spurred my comrades with this brief address to meet the journey with such eagerness that I could hardly then have held them back. And having turned our stern toward the morning, we made wings out of our oars in a wild flight and always gained upon our left hand side. At night I now could see the other pole
+set up his boundary stones that men might heed and never reach beyond, upon my right I had gone past Seville and on the left already past Ceuta. Brothers, I said, O you who have crossed a hundred thousand dangers, reach the west to this brief waking. Time that still is left unto your senses. You must not deny experience of that which lies beyond the sun and of the world that is unpeopled. Consider well the seat that gave you birth you were not made to live your lives as brutes but to be followers of worth and knowledge. I spurred my comrades with this brief address to meet the journey with such eagerness that I could hardly then have held them back. And having turned our stern toward the morning, we made wings out of our oars in a wild flight and always gained upon our left hand side. At night I now could see the other pole and all its stars.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0262
 
-## seg-0263 / 02:21:45-02:22:31 / SPEAKER_07
+## seg-0263 / 02:21:46-02:22:31 / SPEAKER_07
 
-and all its stars. The star of ours had fallen and never rose above the plane of the ocean. Five times the light beneath the moon had been rekindled and as many time was spent since that hard passage phased our first attempt when there before us rose a mountain dark because of distance and it seemed to me the highest mountain I had ever seen. And we were glad but this soon turned to sorrow for out of that new land a whirlwind rose and hammered at our ship against her bow. Three times it turned her around with all the waters and at the fourth it lifted up the stern so that our prow plunged deep as pleased another until the sea again closed over us.
+The star of ours had fallen and never rose above the plane of the ocean. Five times the light beneath the moon had been rekindled and as many time was spent since that hard passage phased our first attempt when there before us rose a mountain dark because of distance and it seemed to me the highest mountain I had ever seen. And we were glad but this soon turned to sorrow for out of that new land a whirlwind rose and hammered at our ship against her bow. Three times it turned her around with all the waters and at the fourth it lifted up the stern so that our prow plunged deep as pleased another until the sea again closed over us.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0263
 
@@ -2096,15 +2096,15 @@ told him that i was a man of the earth and that i had by no means an emissary bu
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0349
 
-## seg-0350 / 03:06:20-03:06:58 / SPEAKER_07
+## seg-0350 / 03:06:20-03:07:00 / SPEAKER_07
 
-as luxury, such seed and gardens where its suits can take fast fruit, and two, Caccia d 'Asciano's company, with whom he squandered vineyards and tilled fields, while Abagliato showed such subtlety. But if you want to know who joins you so against the Sienese, look hard at me, that way my face can also answer lightly, and see that I'm the shade of that Capoccio whose alchemy could counterfeit fine metals, and you, if I correctly take your measure, recall how apt I was at aping nature." Okay, all right, so this is really interesting because we
+as luxury, such seed and gardens where its suits can take fast fruit, and two, Caccia d 'Asciano's company, with whom he squandered vineyards and tilled fields, while Abagliato showed such subtlety. But if you want to know who joins you so against the Sienese, look hard at me, that way my face can also answer lightly, and see that I'm the shade of that Capoccio whose alchemy could counterfeit fine metals, and you, if I correctly take your measure, recall how apt I was at aping nature." Okay, all right, so this is really interesting because we reached the lowest point.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0350
 
-## seg-0351 / 03:06:58-03:08:06 / SPEAKER_16
+## seg-0351 / 03:07:01-03:08:06 / SPEAKER_16
 
-reached the lowest point. Um, area of hell, and this area is reserved for those who engage in alchemy, okay? Now, alchemy is something that's very common back at this time. Alchemy is basically trying to find, uh, trying to turn lead into gold. It's trying to find the elixir of youth, um, or immortality, okay? So you're trying to... do chemistry, basically. Why would this be the worst sin in the circle of fraud? What's the issue with this? We, we know why thievery is an issue. We, we, we know why, uh, identity theft is an issue. We understand all this, but why, why would alchemy be an issue? In fact, it's the worst thing you can, you can do in, in fraud. Yeah. Yeah.
+Um, area of hell, and this area is reserved for those who engage in alchemy, okay? Now, alchemy is something that's very common back at this time. Alchemy is basically trying to find, uh, trying to turn lead into gold. It's trying to find the elixir of youth, um, or immortality, okay? So you're trying to... do chemistry, basically. Why would this be the worst sin in the circle of fraud? What's the issue with this? We, we know why thievery is an issue. We, we, we know why, uh, identity theft is an issue. We understand all this, but why, why would alchemy be an issue? In fact, it's the worst thing you can, you can do in, in fraud. Yeah. Yeah.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0351
 
@@ -2300,15 +2300,15 @@ No, no, no. But what I'm saying is like lead in the gold, right? If I add an int
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0383
 
-## seg-0384 / 03:18:16-03:18:56 / SPEAKER_08
+## seg-0384 / 03:18:16-03:18:58 / SPEAKER_08
 
-Yeah. I also agree with the fact that if you have a will to distort the order that God has set up to be, then that's the ultimate sin. Just like the Tower of Babel, where there's a will, there's a way. So people are building the Tower of Babel to reach heaven and be like, we can preach God. We can let God. Basically, it's like the first landing of the moon. Like people trying the impossible, you know, going to outer space and God's like, no, you guys are not going to do that. I'm giving you languages. So you guys are messed up. So you can't do that. But that the sub messages is that if people so well continue, they probably can because there's a will, you know, there's a way. And so that's why God had to send us different languages to stop, you know, people working towards that goal. So I think it's the
+Yeah. I also agree with the fact that if you have a will to distort the order that God has set up to be, then that's the ultimate sin. Just like the Tower of Babel, where there's a will, there's a way. So people are building the Tower of Babel to reach heaven and be like, we can preach God. We can let God. Basically, it's like the first landing of the moon. Like people trying the impossible, you know, going to outer space and God's like, no, you guys are not going to do that. I'm giving you languages. So you guys are messed up. So you can't do that. But that the sub messages is that if people so well continue, they probably can because there's a will, you know, there's a way. And so that's why God had to send us different languages to stop, you know, people working towards that goal. So I think it's the same scene that's repeated here.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0384
 
-## seg-0385 / 03:18:56-03:19:12 / SPEAKER_08
+## seg-0385 / 03:18:59-03:19:12 / SPEAKER_08
 
-same scene that's repeated here. It's like if there's a way, a will, there's a way. So if there's a will to replace God, right? And distort his order that he has established in the natural laws, you know, then it's. Abomination. Right.
+It's like if there's a way, a will, there's a way. So if there's a will to replace God, right? And distort his order that he has established in the natural laws, you know, then it's. Abomination. Right.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0385
 
@@ -2362,61 +2362,61 @@ Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0393
 
 ## seg-0394 / 03:22:25-03:23:25 / SPEAKER_07
 
-Her agony had so deformed her mind. But neither fury Theban Trojan ever was seen to be so cruel against another in rending beasts and even human limbs. As were two shades. I saw both pale naked who biting ran berserk and just the way a hog does when it's let's loose from its sty. The one came at Kapocho. And so. He sank his tusks into his neck so that by dragging he made the hard ground scrape against his belly. And he who stayed behind the Aretini trembled and said that phantoms Johnny sneaky. And he does raging rending others so. He goes raging rending others so. And, oh, I said to him, so may the other not sink its teeth in you. Please tell me who it is before it hurries off from here. And he to me. That is the ancient soul of the indecent mirror. She who loved her father passed the limits of just
+Her agony had so deformed her mind. But neither fury Theban Trojan ever was seen to be so cruel against another in rending beasts and even human limbs. As were two shades. I saw both pale naked who biting ran berserk and just the way a hog does when it's let's loose from its sty. The one came at Kapocho. And so. He sank his tusks into his neck so that by dragging he made the hard ground scrape against his belly. And he who stayed behind the Aretini trembled and said that phantoms Johnny sneaky. And he does raging rending others so. He goes raging rending others so. And, oh, I said to him, so may the other not sink its teeth in you. Please tell me who it is before it hurries off from here. And he to me. That is the ancient soul of the indecent mirror. She who loved her father passed the limits of just love.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0394
 
-## seg-0395 / 03:23:25-03:24:19 / SPEAKER_07
+## seg-0395 / 03:23:25-03:24:22 / SPEAKER_07
 
-love. He can't. She came to sin with him by falsely taking another shape upon herself. Just as the other phantom who goes there had done that. He might gain the lady of the herd when he disguised himself as boss of Donati making a will as if most properly. And when the pair of raging ones had passed those two on whom my eyes were fixed. I turned around to see the rest of the ill -born. I saw one who'd been fashioned like a loot. If he had only had his groin cut off from that part of his body where it forks. The heavy dropsy which so departs this proportions the limbs with unassimilated humors that there's no match between the face and belly had made him part his lips like a consumptive who will because of thirst. Let one lip drop down to his chin and lift the other up. Oh you exempt from every punishment
+He can't. She came to sin with him by falsely taking another shape upon herself. Just as the other phantom who goes there had done that. He might gain the lady of the herd when he disguised himself as boss of Donati making a will as if most properly. And when the pair of raging ones had passed those two on whom my eyes were fixed. I turned around to see the rest of the ill -born. I saw one who'd been fashioned like a loot. If he had only had his groin cut off from that part of his body where it forks. The heavy dropsy which so departs this proportions the limbs with unassimilated humors that there's no match between the face and belly had made him part his lips like a consumptive who will because of thirst. Let one lip drop down to his chin and lift the other up. Oh you exempt from every punishment in this grim world and I do not know why he said to us.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0395
 
-## seg-0396 / 03:24:19-03:25:15 / SPEAKER_07
+## seg-0396 / 03:24:22-03:25:16 / SPEAKER_07
 
-in this grim world and I do not know why he said to us. Look now and pay attention to this the misery of Master Adam alive. I had enough of all I wanted. Alas, I now long for one drop of water. The rivulets that fall into the Arno down from the green hills of the Casentino with channels cool and moist are constantly before me. I'm racked by memory. The image of their flow parches me more than the disease that robs me. My face of flash. Flesh. The rigid justice that would torment me uses as most appropriate the place where I had sinned to draw swift size for me. There's Romina. There I counterfeited the currency that bears the Baptist seal. For this I left my body burned above. But could I see the miserable souls of Guido, Alessandro, or their brother? I'd not give up the sight for Fonte Branda. And one of them is
+Look now and pay attention to this the misery of Master Adam alive. I had enough of all I wanted. Alas, I now long for one drop of water. The rivulets that fall into the Arno down from the green hills of the Casentino with channels cool and moist are constantly before me. I'm racked by memory. The image of their flow parches me more than the disease that robs me. My face of flash. Flesh. The rigid justice that would torment me uses as most appropriate the place where I had sinned to draw swift size for me. There's Romina. There I counterfeited the currency that bears the Baptist seal. For this I left my body burned above. But could I see the miserable souls of Guido, Alessandro, or their brother? I'd not give up the sight for Fonte Branda. And one of them is in this moat already.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0396
 
-## seg-0397 / 03:25:15-03:26:08 / SPEAKER_07
+## seg-0397 / 03:25:16-03:26:09 / SPEAKER_07
 
-in this moat already. If what the angry shades report is true, what use is that to me whose limbs are tied? Were I so light that in a hundred years I could advance an inch? I should already be well upon the road to search for him among the mutilated ones. Although the circuit measures some eleven miles and is at least a half mile across. Because of them I'm in this family. It was those three who had incited me to coin the florins with three carats dross. And I to him. Who are those two poor sinners who give off smoke like wet hands in the winter and lie so close to you upon the right? I found them here, he answered. When I rain down to this rocky slope, they've not stirred since and will not move, I think, eternally. One is the lying woman who blamed Joseph. The other, lying Sinan, Greek from Troy. Because
+If what the angry shades report is true, what use is that to me whose limbs are tied? Were I so light that in a hundred years I could advance an inch? I should already be well upon the road to search for him among the mutilated ones. Although the circuit measures some eleven miles and is at least a half mile across. Because of them I'm in this family. It was those three who had incited me to coin the florins with three carats dross. And I to him. Who are those two poor sinners who give off smoke like wet hands in the winter and lie so close to you upon the right? I found them here, he answered. When I rain down to this rocky slope, they've not stirred since and will not move, I think, eternally. One is the lying woman who blamed Joseph. The other, lying Sinan, Greek from Troy. Because of raging fever they wreak so.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0397
 
-## seg-0398 / 03:26:08-03:26:59 / SPEAKER_07
+## seg-0398 / 03:26:10-03:26:59 / SPEAKER_07
 
-of raging fever they wreak so. And one of them who seemed to take offense. Perhaps at being named so squalidly, struck with his fist at Adam's rigid belly. It sounded as if it had been a drum. And Master Adam struck him in the face using his arm which did not seem less hard. Saying to him, although I cannot move my limbs because they're too heavy, I still have an arm that's free to serve that need. And he replied, but when you went to burning your arm was not as quick as it was now. Though when you coined it was as quick and more. To which the drop seed one, here you speak true, but you were not so true a witness there. When you were asked to tell the truth at Troy. If I spoke false, you falsified the coin, said Sinan. I'm here for just one crime, but you've committed more than any demon.
+And one of them who seemed to take offense. Perhaps at being named so squalidly, struck with his fist at Adam's rigid belly. It sounded as if it had been a drum. And Master Adam struck him in the face using his arm which did not seem less hard. Saying to him, although I cannot move my limbs because they're too heavy, I still have an arm that's free to serve that need. And he replied, but when you went to burning your arm was not as quick as it was now. Though when you coined it was as quick and more. To which the drop seed one, here you speak true, but you were not so true a witness there. When you were asked to tell the truth at Troy. If I spoke false, you falsified the coin, said Sinan. I'm here for just one crime, but you've committed more than any demon.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0398
 
-## seg-0399 / 03:26:59-03:27:48 / SPEAKER_07
+## seg-0399 / 03:26:59-03:27:51 / SPEAKER_07
 
-Do not forget the horse, you perjurer, replied the one who had the bloated belly. May you be plagued because the whole world knows this. The Greek, and you be plagued by thirst that cracks your tongue in putrid waters. That has made your belly such a hedge before your eyes. And then the coiner. So as usual your mouth because of racking fever gapes. For if I thirst and if my humerus bloats me, you have both dryness and a head that aches. Few words would be sufficient invitation to have you lick the mirror of narcissus. I was intent on listening to them when this was what my master said. If you insist on looking more, I'll quarrel with you. And when I heard him speak so angrily, I turn around to him with shame. I regret that it still stirs within my memory. Even as one who dreams that he is harmed and dreaming, wishes he were
+Do not forget the horse, you perjurer, replied the one who had the bloated belly. May you be plagued because the whole world knows this. The Greek, and you be plagued by thirst that cracks your tongue in putrid waters. That has made your belly such a hedge before your eyes. And then the coiner. So as usual your mouth because of racking fever gapes. For if I thirst and if my humerus bloats me, you have both dryness and a head that aches. Few words would be sufficient invitation to have you lick the mirror of narcissus. I was intent on listening to them when this was what my master said. If you insist on looking more, I'll quarrel with you. And when I heard him speak so angrily, I turn around to him with shame. I regret that it still stirs within my memory. Even as one who dreams that he is harmed and dreaming, wishes he were dreaming, thus desiring that which is as if it were not.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0399
 
-## seg-0400 / 03:27:48-03:28:17 / SPEAKER_07
+## seg-0400 / 03:27:51-03:28:17 / SPEAKER_07
 
-dreaming, thus desiring that which is as if it were not. So I became within my speechlessness. I wanted to excuse myself and did excuse myself, although I knew it not. Lest shame would wash away a greater fault than was your fault, my master said to me. Therefore release yourself from all remorse and see that I am always at your side, should it so happen once again that fortune brings you where men would quarrel in this fashion, to want to hear such bickering is base.
+So I became within my speechlessness. I wanted to excuse myself and did excuse myself, although I knew it not. Lest shame would wash away a greater fault than was your fault, my master said to me. Therefore release yourself from all remorse and see that I am always at your side, should it so happen once again that fortune brings you where men would quarrel in this fashion, to want to hear such bickering is base.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0400
 
-## seg-0401 / 03:28:18-03:29:41 / SPEAKER_16
+## seg-0401 / 03:28:18-03:29:45 / SPEAKER_16
 
-Okay, all right, so this is a very complicated canto, okay? There are lots of individuals and there's a lot going on, okay? So in this last area of the circle of fraud, there are lots of people who are condemned here, okay? They are, of course, the alchemists. Then you have impostors, people who steal people's identity. Then you have counterfeiters. And so, first of all, what do we have? Actually, you know what, Carol, could you do me a favor and Google this? Like, who's actually in canto 30? So I want to make sure I'm correct here, okay? I want to make sure, because this is a very confusing canto. And there are lots of different individuals, okay? So... So let's see who they are, okay? Okay, so these are the falsifiers, yes? You have Master Adam, who's a counterfeiter. You have a spy, who's a false witness. You have Gianna Sitsi, who is an impostor. And
+Okay, all right, so this is a very complicated canto, okay? There are lots of individuals and there's a lot going on, okay? So in this last area of the circle of fraud, there are lots of people who are condemned here, okay? They are, of course, the alchemists. Then you have impostors, people who steal people's identity. Then you have counterfeiters. And so, first of all, what do we have? Actually, you know what, Carol, could you do me a favor and Google this? Like, who's actually in canto 30? So I want to make sure I'm correct here, okay? I want to make sure, because this is a very confusing canto. And there are lots of different individuals, okay? So... So let's see who they are, okay? Okay, so these are the falsifiers, yes? You have Master Adam, who's a counterfeiter. You have a spy, who's a false witness. You have Gianna Sitsi, who is an impostor. And you have Mera, Mera, okay?
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0401
 
-## seg-0402 / 03:29:41-03:30:57 / SPEAKER_16
+## seg-0402 / 03:29:45-03:30:57 / SPEAKER_16
 
-you have Mera, Mera, okay? And so the two people who have an argument are Sinon and Master Adam, right? Master Adam is a counterfeiter. And Sinon is a Greek spy. Who convinced the Trojans to take in the Trojan horse. And they're having an argument about who is worse. Gianna Sitsi, he is an impostor who disguises himself as a dead person, okay? So, first of all, what is the connection among all these people, the falsifiers? It's a very confusing section. You have a counterfeiter. You have a spy. You have an impostor. You have Mera, who disguises herself to commit incest for her own father. Huh. What's going on here? Maybe this is just a garbage heap of hell, right? Like, you don't belong in any other category, so you're just dumped here. But that's not Dante, right? We already said that Dante, there's a lot of intentionality. There's a lot of creativity. There's a lot of
+And so the two people who have an argument are Sinon and Master Adam, right? Master Adam is a counterfeiter. And Sinon is a Greek spy. Who convinced the Trojans to take in the Trojan horse. And they're having an argument about who is worse. Gianna Sitsi, he is an impostor who disguises himself as a dead person, okay? So, first of all, what is the connection among all these people, the falsifiers? It's a very confusing section. You have a counterfeiter. You have a spy. You have an impostor. You have Mera, who disguises herself to commit incest for her own father. Huh. What's going on here? Maybe this is just a garbage heap of hell, right? Like, you don't belong in any other category, so you're just dumped here. But that's not Dante, right? We already said that Dante, there's a lot of intentionality. There's a lot of creativity. There's a lot of imagination.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0402
 
 ## seg-0403 / 03:30:57-03:31:50 / SPEAKER_16
 
-imagination. So what is he doing here? All right. So let's look at certain things that happens, okay? So the outcome is... So, you have a phantomess who suffers from leprosy, okay? Their punishment is leprosy. Gianni, the impostor, he sinks his teeth into the leper. What does this signify, do you think? And again, it's all speculation, guys. We don't know, okay? We don't actually know what the allegorical meaning is. We're just speculating here, okay? But there's this violent scene where the impostor, Gianni, he sinks his teeth into the alchemist and tries to eat him.
+So what is he doing here? All right. So let's look at certain things that happens, okay? So the outcome is... So, you have a phantomess who suffers from leprosy, okay? Their punishment is leprosy. Gianni, the impostor, he sinks his teeth into the leper. What does this signify, do you think? And again, it's all speculation, guys. We don't know, okay? We don't actually know what the allegorical meaning is. We're just speculating here, okay? But there's this violent scene where the impostor, Gianni, he sinks his teeth into the alchemist and tries to eat him.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0403
 
@@ -2428,13 +2428,13 @@ Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0404
 
 ## seg-0405 / 03:32:26-03:33:50 / SPEAKER_16
 
-Okay, yeah. So, the thing, though, is that the alchemist is a leper, okay? And at this time in history, who does everyone want to avoid? Lepers, okay? So, the punishment for this impostor is he's forced to just randomly eat people, including those who are lepers, okay? Okay. So, that makes sense. Why would Master Adam, who's a counterfeiter, why would he argue with Sinon about who's worse? And this is actually the first time in Divine Comedy we see an argument between two souls, right? These two sinners. And they're arguing about, like, who's worse, right? Well, I mean, like, technically, they're all equally bad, right? Because they're in the same area of hell. So, what are they arguing about? Let's just throw some possibilities, okay? Like this. Speculate. Just use your imagination. Just throw ideas out here. Let's just brainstorm together, okay? You have a counterfeiter and you have a spy arguing about who's worse. Why would
+Okay, yeah. So, the thing, though, is that the alchemist is a leper, okay? And at this time in history, who does everyone want to avoid? Lepers, okay? So, the punishment for this impostor is he's forced to just randomly eat people, including those who are lepers, okay? Okay. So, that makes sense. Why would Master Adam, who's a counterfeiter, why would he argue with Sinon about who's worse? And this is actually the first time in Divine Comedy we see an argument between two souls, right? These two sinners. And they're arguing about, like, who's worse, right? Well, I mean, like, technically, they're all equally bad, right? Because they're in the same area of hell. So, what are they arguing about? Let's just throw some possibilities, okay? Like this. Speculate. Just use your imagination. Just throw ideas out here. Let's just brainstorm together, okay? You have a counterfeiter and you have a spy arguing about who's worse.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0405
 
 ## seg-0406 / 03:33:50-03:33:51 / SPEAKER_16
 
-they do that?
+Why would they do that?
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0406
 
@@ -2552,21 +2552,21 @@ Consciousness. Maybe. Why consciousness is important? Because. What do we do wit
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0425
 
-## seg-0426 / 03:39:33-03:40:42 / SPEAKER_16
+## seg-0426 / 03:39:33-03:40:43 / SPEAKER_16
 
-Imagination. Okay. All right. So one possibility, okay. And I'm just putting this out there for us to discuss. Okay. Is that what these four people have in common is hijacking the imagination. Does that make sense? Okay. So remember in paradise, the imagination is what makes us unique. It's what makes us co -creators. It's what makes us co -creators with God. Right? It's what allows the universe to expand outwards. But you could also use your imagination for evil, right? And when you use it for evil, what happens is the universe contracts. You're limiting people's imaginative space. Does that make sense? You're hijacking the imagination for evil ends. That brings evil to the world. Right? And before, we always thought that imagination is a good thing. Well, it should be a good thing. And you can use it to create poetry, to create society. But there are people who can hijack people's imaginations to create evil in
+Imagination. Okay. All right. So one possibility, okay. And I'm just putting this out there for us to discuss. Okay. Is that what these four people have in common is hijacking the imagination. Does that make sense? Okay. So remember in paradise, the imagination is what makes us unique. It's what makes us co -creators. It's what makes us co -creators with God. Right? It's what allows the universe to expand outwards. But you could also use your imagination for evil, right? And when you use it for evil, what happens is the universe contracts. You're limiting people's imaginative space. Does that make sense? You're hijacking the imagination for evil ends. That brings evil to the world. Right? And before, we always thought that imagination is a good thing. Well, it should be a good thing. And you can use it to create poetry, to create society. But there are people who can hijack people's imaginations to create evil in this world.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0426
 
-## seg-0427 / 03:40:42-03:42:16 / SPEAKER_16
+## seg-0427 / 03:40:43-03:42:18 / SPEAKER_16
 
-this world. Right? Does that make sense? So as a counterfeiter, what you're doing is you're hijacking people's imagination that this money is very valuable. Right? As a spy, you're hijacking people's imagination that people tell the truth. The imposter hijacks people's imagination that only we can write our own wills. Right? So they're all hijacking the imagination in some way. Right? And you think about it, for Dante, this would be a lot worse than trying to hijack nature. Okay? And this is interesting because... In our society, then who are like the worst people? To me? No, not really. That would be like laws against... Acting against God and nature. Right? It'd be like sodomy and incest. It'd be in a circle of violence. But this circle of fraud. Yes? Influencers on social media? I think so. I think so. I think that's what Dante is saying here. Okay? And I could be wrong. But it sounds like
+Right? Does that make sense? So as a counterfeiter, what you're doing is you're hijacking people's imagination that this money is very valuable. Right? As a spy, you're hijacking people's imagination that people tell the truth. The imposter hijacks people's imagination that only we can write our own wills. Right? So they're all hijacking the imagination in some way. Right? And you think about it, for Dante, this would be a lot worse than trying to hijack nature. Okay? And this is interesting because... In our society, then who are like the worst people? To me? No, not really. That would be like laws against... Acting against God and nature. Right? It'd be like sodomy and incest. It'd be in a circle of violence. But this circle of fraud. Yes? Influencers on social media? I think so. I think so. I think that's what Dante is saying here. Okay? And I could be wrong. But it sounds like social media influencers.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0427
 
-## seg-0428 / 03:42:16-03:42:38 / SPEAKER_16
+## seg-0428 / 03:42:18-03:42:38 / SPEAKER_16
 
-social media influencers. People with like huge followings. But not me, of course. They're the worst people. Because they're hijacking the social consciousness. They're hijacking the social imagination. Okay? I'm not going to name names because I'll get in trouble. But yes, you can imagine certain people. Right? Okay? So that's what he's saying here.
+People with like huge followings. But not me, of course. They're the worst people. Because they're hijacking the social consciousness. They're hijacking the social imagination. Okay? I'm not going to name names because I'll get in trouble. But yes, you can imagine certain people. Right? Okay? So that's what he's saying here.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0428
 
@@ -2594,33 +2594,33 @@ Right. Exactly. Right? Right. So you are... With your social media influence, yo
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0432
 
-## seg-0433 / 03:44:07-03:44:56 / SPEAKER_07
+## seg-0433 / 03:44:07-03:45:01 / SPEAKER_07
 
-Canto 31. The very tongue that first had wounded me, sending the color up in both my cheeks, was then to cure me with its medicine. As did Achilles and his father's lance, even as I have heard when it dispensed a sad stroke first, and then a healing one. We turned our backs upon that dismal valley by climbing up the bank that girdles it. We made our way across without a word. Here it was less than night and less than day, so that my sight could only move. We moved ahead slightly. But then I heard a bugle blast so strong, it would have made a thunderclap seem faint. At this, my eyes, which doubled back upon their path, turned fully toward one place, not even Roland's born, which followed on the sad defeat when Charlemagne had lost his holy army, was as dread as this. I'd only turned my head there briefly when I seemed to
+Canto 31. The very tongue that first had wounded me, sending the color up in both my cheeks, was then to cure me with its medicine. As did Achilles and his father's lance, even as I have heard when it dispensed a sad stroke first, and then a healing one. We turned our backs upon that dismal valley by climbing up the bank that girdles it. We made our way across without a word. Here it was less than night and less than day, so that my sight could only move. We moved ahead slightly. But then I heard a bugle blast so strong, it would have made a thunderclap seem faint. At this, my eyes, which doubled back upon their path, turned fully toward one place, not even Roland's born, which followed on the sad defeat when Charlemagne had lost his holy army, was as dread as this. I'd only turned my head there briefly when I seemed to make out many high towers, and I asked him, Master, tell me, what's this city?
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0433
 
-## seg-0434 / 03:44:56-03:45:45 / SPEAKER_07
+## seg-0434 / 03:45:01-03:45:45 / SPEAKER_07
 
-make out many high towers, and I asked him, Master, tell me, what's this city? And he, to me, it is because you try to be wise. It is because you try to penetrate from far into these shadows that you have formed such faulty images. When you have reached that place, you shall see clearly how much the distance has deceived your sense, and therefore let this spur you on your way. Then lovingly, he took me by the hand and said, before we have moved farther on so that the fact may seem less strange to you, I'd have you know they're not towers, but giants, and from the navel downward, all of them are in the central pit at the embankment. Just as. Whenever mists begin to thin, when gradually vision finds the form that in the vapor -thickened air was hidden. So I pierced through the dense and darkened fog as I drew near, always nearer
+And he, to me, it is because you try to be wise. It is because you try to penetrate from far into these shadows that you have formed such faulty images. When you have reached that place, you shall see clearly how much the distance has deceived your sense, and therefore let this spur you on your way. Then lovingly, he took me by the hand and said, before we have moved farther on so that the fact may seem less strange to you, I'd have you know they're not towers, but giants, and from the navel downward, all of them are in the central pit at the embankment. Just as. Whenever mists begin to thin, when gradually vision finds the form that in the vapor -thickened air was hidden. So I pierced through the dense and darkened fog as I drew near, always nearer to the shore.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0434
 
-## seg-0435 / 03:45:45-03:46:45 / SPEAKER_07
+## seg-0435 / 03:45:45-03:46:46 / SPEAKER_07
 
-to the shore. My error fled from me, my terror grew. For as on its ground wall Monte Rigoni is crowned with towers, so they're towered here above the bank that runs around the pit, with half their bulk the terrifying giants, whom Jove still may know. And I could now make out the face of one, his shoulders and his chest, much of his belly, and both his arms that hung along his sides. Surely, when she gave up the art of making such creatures, nature acted well indeed, depriving Mars of instruments like these. And if she still produces elephants and whales, whoever sees with subtlety holds her, for this to be more just and prudent. And where the mind's acutest reasoning is joined to evil will and evil power, there are human beings can't defend themselves. His face appeared to me as broad and long as Rome can claim, for it's St. Peter's pine cone. His other
+My error fled from me, my terror grew. For as on its ground wall Monte Rigoni is crowned with towers, so they're towered here above the bank that runs around the pit, with half their bulk the terrifying giants, whom Jove still may know. And I could now make out the face of one, his shoulders and his chest, much of his belly, and both his arms that hung along his sides. Surely, when she gave up the art of making such creatures, nature acted well indeed, depriving Mars of instruments like these. And if she still produces elephants and whales, whoever sees with subtlety holds her, for this to be more just and prudent. And where the mind's acutest reasoning is joined to evil will and evil power, there are human beings can't defend themselves. His face appeared to me as broad and long as Rome can claim, for it's St. Peter's pine cone. His other bones shared in that same proportion.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0435
 
-## seg-0436 / 03:46:45-03:47:38 / SPEAKER_07
+## seg-0436 / 03:46:47-03:47:39 / SPEAKER_07
 
-bones shared in that same proportion. So that the bank which served him as an apron down from his middle showed so much of him above that three Frieslanders would in vain have boasted of their reaching to his hair. For downward from the place where one would buckle a mantle, I saw thirty -six of them, six bands of his. Raphael, my amicus sabi almi, began to bellow that brute mouth for which no sweeter psalms would be appropriate. And my guide turned to him, O stupid soul, keep to your horn and use that as an outlet when rage or other passion touches you. Look at your neck and you will find the strap that holds it fast, and see, bewildered spirit, how it lies straight across your massive chest. And then to me. He's his own accuser. For this is Nimrod, through whose wicked thought one single language cannot serve the world. Leave him alone. Let's not
+So that the bank which served him as an apron down from his middle showed so much of him above that three Frieslanders would in vain have boasted of their reaching to his hair. For downward from the place where one would buckle a mantle, I saw thirty -six of them, six bands of his. Raphael, my amicus sabi almi, began to bellow that brute mouth for which no sweeter psalms would be appropriate. And my guide turned to him, O stupid soul, keep to your horn and use that as an outlet when rage or other passion touches you. Look at your neck and you will find the strap that holds it fast, and see, bewildered spirit, how it lies straight across your massive chest. And then to me. He's his own accuser. For this is Nimrod, through whose wicked thought one single language cannot serve the world. Leave him alone. Let's not waste time and talk.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0436
 
-## seg-0437 / 03:47:38-03:47:44 / SPEAKER_07
+## seg-0437 / 03:47:39-03:47:44 / SPEAKER_07
 
-waste time and talk. For every language is to him the same as his to others. No one knows his tongue.
+For every language is to him the same as his to others. No one knows his tongue.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0437
 
@@ -2630,27 +2630,27 @@ So Nimrod, of course, is the man who built the Tower of Babel, right? And for hi
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0438
 
-## seg-0439 / 03:48:00-03:48:52 / SPEAKER_07
+## seg-0439 / 03:48:00-03:48:54 / SPEAKER_07
 
-So turning to the left, we journeyed on, and at the distance of a bow, shot, found another giant, far more huge and fierce, who was the master who had tied him so. I cannot say. But his left arm was bent behind him, and his right was bent in front, both pinioned by a chain that held him tight down from the neck and round the part of him that was exposed. It has been wound five times. This giant, in his arrogance, had tested his force against the force of Highest Jove, my guide said. So he merits this reward. His name is Iphialtes, and he showed tremendous power, and the giants frightened the gods. The arms he moved now moved no more. An eye to him. If it is possible, I'd like my eyes to have experience of the enormous one, Briareus. At which he answered, you shall see Antaeus nearby. He's unfettered and can speak. He'll
+So turning to the left, we journeyed on, and at the distance of a bow, shot, found another giant, far more huge and fierce, who was the master who had tied him so. I cannot say. But his left arm was bent behind him, and his right was bent in front, both pinioned by a chain that held him tight down from the neck and round the part of him that was exposed. It has been wound five times. This giant, in his arrogance, had tested his force against the force of Highest Jove, my guide said. So he merits this reward. His name is Iphialtes, and he showed tremendous power, and the giants frightened the gods. The arms he moved now moved no more. An eye to him. If it is possible, I'd like my eyes to have experience of the enormous one, Briareus. At which he answered, you shall see Antaeus nearby. He's unfettered and can speak. He'll take us to the bottom of all evil.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0439
 
-## seg-0440 / 03:48:52-03:49:43 / SPEAKER_07
+## seg-0440 / 03:48:54-03:49:44 / SPEAKER_07
 
-take us to the bottom of all evil. The one you wish to see lies far beyond, and is bound up and just as huge as this one, and even more ferocious in his gaze. No earthquake ever was so violent when called to shake a tower so robust as Iphialtes is quick to shake himself. Then I was more afraid of death than ever, that fear would have been quite enough to kill me, had I not seen how he was held by chains. And we continued on until we reached Antaeus, who, not reckoning his head, stood out above the rock wall full of five elves. O you who lived within the famous valley, where Scipio became the heir of glory, where Hannibal retreated with his men, who took a thousand lions as your prey, and had you been together with your brothers in their high war. It seems some still believe the sons of earth would have
+The one you wish to see lies far beyond, and is bound up and just as huge as this one, and even more ferocious in his gaze. No earthquake ever was so violent when called to shake a tower so robust as Iphialtes is quick to shake himself. Then I was more afraid of death than ever, that fear would have been quite enough to kill me, had I not seen how he was held by chains. And we continued on until we reached Antaeus, who, not reckoning his head, stood out above the rock wall full of five elves. O you who lived within the famous valley, where Scipio became the heir of glory, where Hannibal retreated with his men, who took a thousand lions as your prey, and had you been together with your brothers in their high war. It seems some still believe the sons of earth would have become the victors.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0440
 
-## seg-0441 / 03:49:43-03:50:41 / SPEAKER_07
+## seg-0441 / 03:49:44-03:50:44 / SPEAKER_07
 
-become the victors. Do set us down below, where cold shuts in Cocytus, and do not disdain that task. Don't send us on to Tydeus or Typhon. This man can give you what is long for here, therefore bend down and do not curl your lip. He still can bring you fame within the world, for he's alive and still expects long life, unless grace summon him before his time. So said my master. And in haste Antaeus stretched out his hand, whose massive grip had once been felt by Hercules, and grasped my guide. And Virgil, when he felt himself caught up, called out to me, come here so I can hold you, then made one bundle of himself and me. Just as the garrisenda seems when seen beneath the leaning side, when clouds run past and it hangs down as if about to crash, so did Antaeus seem to me as I watched him bend over me, a
+Do set us down below, where cold shuts in Cocytus, and do not disdain that task. Don't send us on to Tydeus or Typhon. This man can give you what is long for here, therefore bend down and do not curl your lip. He still can bring you fame within the world, for he's alive and still expects long life, unless grace summon him before his time. So said my master. And in haste Antaeus stretched out his hand, whose massive grip had once been felt by Hercules, and grasped my guide. And Virgil, when he felt himself caught up, called out to me, come here so I can hold you, then made one bundle of himself and me. Just as the garrisenda seems when seen beneath the leaning side, when clouds run past and it hangs down as if about to crash, so did Antaeus seem to me as I watched him bend over me, a moment when I'd have preferred to take some other road.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0441
 
-## seg-0442 / 03:50:41-03:50:55 / SPEAKER_07
+## seg-0442 / 03:50:44-03:50:55 / SPEAKER_07
 
-moment when I'd have preferred to take some other road. But gently, on the deep that swallows up both Lucifer and Judas, he placed us, nor did he so bent over stay there long. But like a mast above a ship, he rose.
+But gently, on the deep that swallows up both Lucifer and Judas, he placed us, nor did he so bent over stay there long. But like a mast above a ship, he rose.
 
 Ref: video:predictive-history-ofk53cyz-h0@transcript:v1#seg-0442
 
