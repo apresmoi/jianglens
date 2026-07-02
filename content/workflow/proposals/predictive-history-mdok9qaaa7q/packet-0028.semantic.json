@@ -1,0 +1,168 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0028",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0217",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0218",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0219",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0220",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0221",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0222"
+      ],
+      "kind": "exchange",
+      "summary": "A student calls Virgil's behavior coping and dodging, Jiang agrees, and he expands the diagnosis by saying Virgil is acting like a lawyer looking for a loophole because he wants to preserve his worldview instead of thinking through the contradiction.",
+      "speaker_attribution": "Student answer with Jiang expansion",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0223"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads the next tercet in which Dante wants to move faster now that he is less weary, while Virgil warns that daylight is limited and the sun cannot be interrupted.",
+      "speaker_attribution": "Student reading Dante aloud",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0224"
+      ],
+      "kind": "question",
+      "summary": "Jiang immediately turns the new passage into a close-reading question about why Dante is suddenly less weary than before.",
+      "speaker_attribution": "Jiang question",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang endorses the student's diagnosis that Virgil is coping and dodging the contradiction rather than genuinely resolving it.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0217",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0218",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0219",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0221"
+      ],
+      "temporal_scope": "Lecture diagnosis given on 2026-06-25.",
+      "topic_tags": [
+        "coping",
+        "dodging",
+        "Virgil",
+        "contradiction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Virgil behaves like a lawyer exploiting a loophole because he does not want to reflect on what the contradiction really means and instead wants to maintain his worldview.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0222"
+      ],
+      "temporal_scope": "Lecture psychological reading given on 2026-06-25.",
+      "topic_tags": [
+        "loophole",
+        "lawyer",
+        "worldview",
+        "reflection"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang explicitly labels Virgil's stance a fixed mindset: preserving the old explanatory frame matters more to him than revising it in light of new evidence.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0222"
+      ],
+      "temporal_scope": "Lecture framing given on 2026-06-25.",
+      "topic_tags": [
+        "fixed mindset",
+        "growth mindset",
+        "Virgil",
+        "learning"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The next passage resets the scene by showing Dante eager to press upward while Virgil reminds him that ascent is constrained by time and sunset.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0223",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0224"
+      ],
+      "temporal_scope": "Quoted text and lecture question on 2026-06-25.",
+      "topic_tags": [
+        "ascent",
+        "time",
+        "sunset",
+        "Dante"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0222"
+      ],
+      "moment": "Jiang says Dante has found a contradiction and Virgil reacts like a lawyer hunting a loophole instead of a thinker revising his account.",
+      "source_phrase": "he's like being a lawyer here",
+      "why_it_matters": "It gives Jiang's whole reading of Virgil a cutting social metaphor rather than a bland summary of disagreement.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0222"
+      ],
+      "moment": "Virgil's evasion becomes an example of fixed mindset: protecting a worldview instead of asking what reality is forcing you to see.",
+      "source_phrase": "he wants to maintain his worldview",
+      "why_it_matters": "This is the lecture's sharpest psychological translation of the theological issue.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0223"
+      ],
+      "moment": "Virgil answers Dante's renewed urgency with the stern reminder that you cannot interrupt the sun's flight.",
+      "source_phrase": "you cannot interrupt his flight",
+      "why_it_matters": "The line gives the climb a hard temporal pressure after the conceptual argument about prayer.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "fixed mindset",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0222"
+      ],
+      "definition_or_usage": "Jiang's label for Virgil's refusal to rethink his worldview when Dante exposes a contradiction in it.",
+      "confidence": "high"
+    },
+    {
+      "term": "loophole",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0222"
+      ],
+      "definition_or_usage": "Jiang's description of the narrow legalistic escape Virgil uses instead of confronting the theological problem head-on.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0217",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0224"
+      ],
+      "note": "The packet closes Jiang's critique of Virgil's evasiveness and immediately transitions back into close reading of the climb, now with new urgency and a question about Dante's revived energy.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}

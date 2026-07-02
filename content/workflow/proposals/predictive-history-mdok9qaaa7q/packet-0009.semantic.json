@@ -1,0 +1,254 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0009",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0065"
+      ],
+      "kind": "question",
+      "summary": "A student asks how to reconcile Shakespeare's portrayals of women, especially the split between destructive figures like the witches or Lady Macbeth and admirable figures like Portia, Ophelia, and the troubling case of The Taming of the Shrew.",
+      "speaker_attribution": "Student question to David Bromwich",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0066",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0067"
+      ],
+      "kind": "answer",
+      "summary": "Bromwich downranks The Taming of the Shrew, says it is not one of Shakespeare's deepest plays, and redirects the student toward Rosalind and Cleopatra as evidence of the range and force of Shakespeare's women.",
+      "speaker_attribution": "David Bromwich",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0068",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0069",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0070"
+      ],
+      "kind": "exchange",
+      "summary": "As the session nears its end, the host invites Bromwich to ask the class a question, and he asks what kind of special satisfaction Dante gives them that seems absent in a less overtly religious writer like Shakespeare.",
+      "speaker_attribution": "Host handoff to David Bromwich and class",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0071"
+      ],
+      "kind": "answer",
+      "summary": "A student says Dante helps reinterpret modern confusions about money, power, AI, and technology as recurring human problems, recalling people to history and truth rather than novelty panic.",
+      "speaker_attribution": "Student response to David Bromwich",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0072"
+      ],
+      "kind": "answer",
+      "summary": "Another student says Dante is reassuring because he allows even rulers some purgatorial leeway if their hearts are good, something the student cannot imagine Shakespeare granting his kings and queens.",
+      "speaker_attribution": "Student response to David Bromwich",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0065"
+      ],
+      "note": "The student says 'Professor John' in ASR, but the question is directed to Bromwich while also echoing an earlier Jiang prompt about Shakespeare's view of women.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Bromwich says The Taming of the Shrew is not one of Shakespeare's truly great plays, because its plot and characters do not yield the same depth of thought even if some details still show Shakespeare's greatness.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Lecture response given on 2026-06-25.",
+      "topic_tags": [
+        "The Taming of the Shrew",
+        "Shakespeare",
+        "greatness",
+        "women"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He counters a reductive reading of Shakespeare's women by naming Rosalind as completely commanding and Cleopatra as the most interesting character in Antony and Cleopatra, even saying Shakespeare seems to worship her.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0066"
+      ],
+      "temporal_scope": "Lecture response given on 2026-06-25.",
+      "topic_tags": [
+        "Rosalind",
+        "Cleopatra",
+        "women",
+        "Shakespeare"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Bromwich ultimately argues for variety rather than a single thesis about Shakespeare's female characters: the bad women exist, but they are only part of a much wider dramatic field.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0066",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0067"
+      ],
+      "temporal_scope": "Lecture response given on 2026-06-25.",
+      "topic_tags": [
+        "variety",
+        "female characters",
+        "Shakespeare",
+        "interpretation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "By asking the class what satisfaction Dante gives that Shakespeare lacks, Bromwich frames Dante as offering something bound up with overt religion rather than merely stronger plotting or characterization.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0068",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0069",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0070"
+      ],
+      "temporal_scope": "Question posed during the 2026-06-25 workshop.",
+      "topic_tags": [
+        "Dante",
+        "Shakespeare",
+        "religion",
+        "reader satisfaction"
+      ],
+      "claim_type": "question",
+      "confidence": "medium"
+    },
+    {
+      "claim": "One student says Dante helps modern readers see money, power, AI, and technology as variations on old human patterns, recalling them to history and truth rather than leaving them trapped in confusion.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0071"
+      ],
+      "temporal_scope": "Student response given on 2026-06-25.",
+      "topic_tags": [
+        "AI",
+        "money",
+        "power",
+        "truth"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Another student finds Dante reassuring because purgatorial mercy lets even powerful people retain some hope if they have a good heart, a latitude the student does not perceive in Shakespeare.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0072"
+      ],
+      "temporal_scope": "Student response given on 2026-06-25.",
+      "topic_tags": [
+        "purgatory",
+        "mercy",
+        "power",
+        "reassurance"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0066"
+      ],
+      "moment": "Bromwich refuses to let The Taming of the Shrew dominate the whole Shakespearean problem of women by bluntly saying it is not such a great play.",
+      "source_phrase": "It's not such a great play",
+      "why_it_matters": "It is his sharpest evaluative cut in the packet and resets the student's interpretive burden immediately.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0066"
+      ],
+      "moment": "Cleopatra becomes the example of Shakespearean female grandeur because Bromwich says Shakespeare almost worships her.",
+      "source_phrase": "Shakespeare kind of worships her too",
+      "why_it_matters": "It preserves the packet's hottest counterexample to a simplistic anti-woman reading of Shakespeare.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0071"
+      ],
+      "moment": "A student's answer folds AI and modern technology back into Dante's much older truth about domination, money, and the human mind.",
+      "source_phrase": "money about power about AI about technology",
+      "why_it_matters": "It shows the workshop becoming explicitly contemporary and existential rather than staying inside literary comparison.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0072"
+      ],
+      "moment": "Dante's sweet-scented valley becomes a figure of merciful leeway for rulers that the student cannot imagine Shakespeare granting.",
+      "source_phrase": "languishing in the sweet-scented Valley",
+      "why_it_matters": "It preserves a memorable student formulation of why Dante can feel morally reassuring rather than merely punitive.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "variety in his portrayals of women",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0066"
+      ],
+      "definition_or_usage": "Bromwich's antidote to flattening Shakespeare's female characters into a single misogynistic or idealizing pattern.",
+      "confidence": "high"
+    },
+    {
+      "term": "sweet-scented Valley",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0072"
+      ],
+      "definition_or_usage": "The student's shorthand for a purgatorial space of delayed but still hopeful judgment that makes Dante emotionally reassuring.",
+      "confidence": "medium"
+    },
+    {
+      "term": "reader satisfaction",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0069",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0070"
+      ],
+      "definition_or_usage": "The explicit question Bromwich poses to the class about what Dante offers that an observational writer like Shakespeare does not.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0065",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0072"
+      ],
+      "note": "The workshop moves from one last Shakespeare question into a meta-closing turn where Bromwich asks the students themselves why Dante matters to them.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0071"
+      ],
+      "note": "The student's language about AI and technology is noisy in ASR, but the stable point is that Dante reframes contemporary confusions as recurring human problems."
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0072"
+      ],
+      "note": "The student's phrase about rulers having 'a good heart' is interpretive and informal, so the packet keeps it as a reported student intuition rather than treating it as a precise doctrine of Dante."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0011",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0081",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0082"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang and Bromwich close the guest segment warmly, with Jiang imagining a future seminar where Shakespeare and Dante can be brought into direct conversation.",
+      "speaker_attribution": "Jiang and David Bromwich",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0083",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0084"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang re-enters as teacher, explains that he learned by emulating Bromwich before developing his own voice, and says his framework-driven style is meant to help students build their own interpretation of Dante rather than passively absorb his.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0085"
+      ],
+      "kind": "question",
+      "summary": "A student asks how Dante's own conception of hell differs from what the class had been treating as Virgil's conception, and how far Dante would agree with Virgil's framework.",
+      "speaker_attribution": "Student question to Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0086"
+      ],
+      "kind": "answer",
+      "summary": "Jiang says the class's prior speculation went too far, especially the fantasy of Virgil as Lucifer or of Beatrice making a bargain to get him out, and he asks the room to test imaginative readings against what is actually possible inside Dante's universe.",
+      "speaker_attribution": "Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0087",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0088"
+      ],
+      "kind": "exchange",
+      "summary": "Two students respond that a movable punishment or private deal would break the logic of Inferno, and one of them identifies the problem as giving Beatrice improper transactional authority.",
+      "speaker_attribution": "Student responses to Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0088"
+      ],
+      "note": "The second student's line is clipped by ASR, but the stable point is that Beatrice is being imagined as someone with illicit bargaining power over the structure of punishment.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the right learning process begins with emulation and only later becomes genuine intellectual selfhood, which is why he openly acknowledges Bromwich as a formative teacher without trying to become a copy of him.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Lecture framing given on 2026-06-25.",
+      "topic_tags": [
+        "teaching",
+        "emulation",
+        "mentorship",
+        "selfhood"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He says the class framework is not meant to force ideas on students but to give them enough structure to develop their own interpretation of Dante.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0083"
+      ],
+      "temporal_scope": "Lecture framing given on 2026-06-25.",
+      "topic_tags": [
+        "framework",
+        "interpretation",
+        "pedagogy",
+        "Dante"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats his intellectual divergence from Bromwich as positive, saying real mentorship does not require identical worldviews.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0084"
+      ],
+      "temporal_scope": "Lecture framing given on 2026-06-25.",
+      "topic_tags": [
+        "difference",
+        "mentorship",
+        "worldview",
+        "friendship"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "The student's question frames a major interpretive problem for the workshop: whether the Inferno they have been describing belongs to Dante's theology or to Virgil's conceptual machinery inside the poem.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0085"
+      ],
+      "temporal_scope": "Student question asked on 2026-06-25.",
+      "topic_tags": [
+        "Virgil",
+        "Dante",
+        "Inferno",
+        "interpretation"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the prior day's imaginative speculation about Virgil as Lucifer or Beatrice bargaining him out of torment was exciting but not actually appropriate to Dante's conception of the universe.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0086"
+      ],
+      "temporal_scope": "Lecture correction given on 2026-06-25 about the previous day's discussion.",
+      "topic_tags": [
+        "Virgil",
+        "Lucifer",
+        "Beatrice",
+        "speculation"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The students reinforce Jiang's correction by arguing that a movable punishment or a private arrangement would break Inferno's internal logic and falsely treat Beatrice as if she had transactional rights over damnation.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0087",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0088"
+      ],
+      "temporal_scope": "Student responses given on 2026-06-25.",
+      "topic_tags": [
+        "punishment",
+        "Inferno",
+        "Beatrice",
+        "transaction"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0083"
+      ],
+      "moment": "Jiang makes emulation the first stage of intellectual growth rather than a shameful lack of originality.",
+      "source_phrase": "You first wanna emulate, and then once you emulate, you can then become your own person",
+      "why_it_matters": "It states his teaching ethic and doubles as a model of how he wants students to approach Dante.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0083"
+      ],
+      "moment": "He jokes that it can feel like he is shoving ideas down the students' throats, then turns that pressure into a defense of interpretive scaffolding.",
+      "source_phrase": "force ideas on your throat",
+      "why_it_matters": "It keeps the packet's sharpest self-description of Jiang's classroom style.",
+      "tone": "provocation",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0086"
+      ],
+      "moment": "Jiang deliberately pulls the class back from its own lurid invention by calling the Virgil-Lucifer story too extreme for Dante's actual universe.",
+      "source_phrase": "that's a bit extreme",
+      "why_it_matters": "It marks a live boundary between productive imagination and false projection onto the poem.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0088"
+      ],
+      "moment": "A student spots the hidden problem in the fantasy: it turns Beatrice into someone who can make pacts.",
+      "source_phrase": "Beatrice has the right to kind of do pacts",
+      "why_it_matters": "It crystallizes the theological violation that the class is about to unpack.",
+      "tone": "definition",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "framework",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0083"
+      ],
+      "definition_or_usage": "Jiang's name for the interpretive scaffolding he gives students so they can form their own reading of Dante rather than merely echo his.",
+      "confidence": "high"
+    },
+    {
+      "term": "become your own person",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0083"
+      ],
+      "definition_or_usage": "Jiang's phrase for the second stage of learning after apprenticeship by imitation.",
+      "confidence": "high"
+    },
+    {
+      "term": "Virgil's conception of Hell",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0085"
+      ],
+      "definition_or_usage": "The student's shorthand for the workshop's question about how much of Inferno should be attributed to Virgil's pagan imagination versus Dante's own universe.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0081",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0088"
+      ],
+      "note": "The packet marks the transition from the guest discussion with Bromwich back into Jiang's own classroom, where he immediately revisits and corrects the workshop's prior Inferno speculation before moving deeper into Purgatory.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0083"
+      ],
+      "note": "The ASR phrase about forcing ideas is garbled, but the stable meaning is that Jiang sees interpretive pressure as temporary scaffolding rather than indoctrination."
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0087",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0088"
+      ],
+      "note": "The two student replies overlap in ASR, so the packet preserves their shared objection without over-assigning exact wording to each student."
+    }
+  ]
+}

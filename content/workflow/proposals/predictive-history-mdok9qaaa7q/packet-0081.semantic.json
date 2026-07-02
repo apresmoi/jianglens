@@ -1,0 +1,136 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0081",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0641",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0642",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0643",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0644",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0645"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang invites testimony about Dante as a life-changing experience, then answers a final structural question by explaining the symmetry between infernal entry into Dis and purgatorial entry beyond ante-purgatory.",
+      "speaker_attribution": "Jiang-led closing exchange",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "Jiang explicitly frames the Dante workshop as potentially life-transforming and asks students to assess whether reading Dante has altered the trajectory of their lives.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0641"
+      ],
+      "temporal_scope": "Closing pedagogical prompt on 2026-06-25.",
+      "topic_tags": [
+        "transformation",
+        "pedagogy",
+        "Dante",
+        "experience"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student notices an asymmetry between the speed of entering hell and the speed of reaching purgatory proper, prompting Jiang to clarify the structural parallel between the two journeys.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0642",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0643",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0644"
+      ],
+      "temporal_scope": "Closing question on 2026-06-25.",
+      "topic_tags": [
+        "structure",
+        "Inferno",
+        "Purgatorio",
+        "symmetry"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang answers that the journeys are symmetrical because Inferno has an introductory canto before the gates of Dis and Purgatorio has ante-purgatory before true purgation; hell proper and purgatory proper begin only after those thresholds.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0645"
+      ],
+      "temporal_scope": "Lecture clarification on 2026-06-25.",
+      "topic_tags": [
+        "Dis",
+        "ante-purgatory",
+        "symmetry",
+        "structure"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang also implies a hierarchy within Inferno by saying the earlier circles are not yet hell proper in the fullest sense, which is why the timeline appears shorter only at first glance.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0645"
+      ],
+      "temporal_scope": "Lecture clarification on 2026-06-25.",
+      "topic_tags": [
+        "hell proper",
+        "circles",
+        "structure",
+        "hierarchy"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0641"
+      ],
+      "moment": "Jiang makes personal transformation, not just textual interpretation, the standard by which the workshop should be judged.",
+      "source_phrase": "Has this been a life-transforming experience for you?",
+      "why_it_matters": "It states directly what the course is trying to do to its readers.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0645"
+      ],
+      "moment": "The apparent pacing asymmetry vanishes once entry into Dis and ante-purgatory are seen as matching thresholds.",
+      "source_phrase": "So it's the same thing",
+      "why_it_matters": "This preserves a formal Dantean symmetry that might otherwise be lost in summary.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "ante-purgatory",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0645"
+      ],
+      "definition_or_usage": "Ante-purgatory is the preliminary zone before purgatory proper, parallel to the infernal threshold before entry into Dis.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0641",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0645"
+      ],
+      "note": "The session closes by tying Jiang's existential pedagogy to a final structural clarification about Dante's symmetrical architecture.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0645"
+      ],
+      "note": "Jiang speaks quickly while recalling the exact canto thresholds around Dis, but his stable point is the larger symmetry between infernal and purgatorial entry structures."
+    }
+  ]
+}

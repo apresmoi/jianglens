@@ -1,0 +1,125 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0040",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0313",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0314"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student reads the passage where Sordello explains that at night souls cannot continue climbing Purgatory, must rest in a pleasant place, and can only wander below rather than advance upward.",
+      "speaker_attribution": "Student reading Purgatorio aloud",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0315",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0316",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0317",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0318",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0319",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0320"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks why Purgatory alone has a night rule, acknowledges student guesses about realism and light as reference, then simplifies the issue: the real function of halted progress is to create a period of sleep, dreams, and self-reflection.",
+      "speaker_attribution": "Jiang-led discussion with student proposals",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The quoted canto establishes a purgatorial rule that upward progress stops at night even though souls may still move around below.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0313",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0314"
+      ],
+      "temporal_scope": "Quoted Purgatorio passage read on 2026-06-25.",
+      "topic_tags": [
+        "Purgatory",
+        "night rule",
+        "progress",
+        "Sordello"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the night stoppage is strange precisely because Purgatory is supposed to accelerate expiation, so the interruption demands a deeper psychological explanation.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0315",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0319"
+      ],
+      "temporal_scope": "Lecture framing given on 2026-06-25.",
+      "topic_tags": [
+        "Purgatory",
+        "expiation",
+        "psychology",
+        "night"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang, the point of the night rule is to force self-reflection through sleep and dreams rather than continuous motion.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0319",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0320"
+      ],
+      "temporal_scope": "Lecture explanation given on 2026-06-25.",
+      "topic_tags": [
+        "self-reflection",
+        "dreams",
+        "sleep",
+        "Purgatory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0319"
+      ],
+      "moment": "Purgatory's odd mercy is that it sometimes forbids progress so the soul can stop striving and face itself.",
+      "source_phrase": "you cannot advance your progress this is very strange",
+      "why_it_matters": "It reframes Purgatory from a mere conveyor belt upward into a pedagogy of interruption.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0320"
+      ],
+      "moment": "The simplest explanation lands hardest: if you cannot move at night, you sleep, and dreams begin doing purgatorial work on you.",
+      "source_phrase": "dreaming",
+      "why_it_matters": "This is Jiang's first explicit link between spiritual ascent and involuntary inner disclosure.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0313",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0320"
+      ],
+      "note": "The lecture leaves Virgil's fame drama and enters a new model of Purgatory as a regime designed to generate self-reflection rather than nonstop ascent.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0313",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0314"
+      ],
+      "note": "The read-aloud has several ASR errors, but the operational rule is stable: night halts upward climbing while permitting limited lower wandering."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0042",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0329",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0330",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0331",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0332"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "A student continues reading the passage where Dante surveys negligent rulers in the valley of anti-Purgatory and names them as examples of failed political inheritance and delayed repentance.",
+      "speaker_attribution": "Student reading Purgatorio aloud, framed by Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0333",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0334",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0335",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0336"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "Jiang marks the start of Purgatorio 8 and a student reads the evening hymn, the descent of green-winged angels with broken swords, their guardianship against the serpent, and Dante's meeting with Nino in the valley.",
+      "speaker_attribution": "Jiang framing followed by student reading Purgatorio aloud",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The valley scene gathers rulers in anti-Purgatory who are not damned but are still waiting to begin full purgatorial ascent after lives marked by political failure or negligent rule.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0330",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0331",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0332",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0333"
+      ],
+      "temporal_scope": "Quoted canto and Jiang framing read on 2026-06-25.",
+      "topic_tags": [
+        "anti-Purgatory",
+        "rulers",
+        "repentance",
+        "politics"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The evening hymn and the descent of angels turn the valley into a guarded sacred threshold where contemplation, praise, and vulnerability to evil coexist.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0334",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0335",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0336"
+      ],
+      "temporal_scope": "Quoted Purgatorio passage read on 2026-06-25.",
+      "topic_tags": [
+        "angels",
+        "evening hymn",
+        "threshold",
+        "serpent"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang's brief framing identifies the monarchs as anti-Purgatory souls who must still complete penance before they are ready to climb the mountain itself.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0333"
+      ],
+      "temporal_scope": "Lecture clarification given on 2026-06-25.",
+      "topic_tags": [
+        "anti-Purgatory",
+        "penance",
+        "monarchs",
+        "climbing"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0335"
+      ],
+      "moment": "Two green-winged angels descend with broken swords, dazzling the eye not because war is absent but because protection here looks more like liturgical custody than conquest.",
+      "source_phrase": "two angels bearing flaming swords, of which the blades were broken off without their tips",
+      "why_it_matters": "The scene compresses Dante's strange fusion of danger, mercy, and symbolic power in anti-Purgatory.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0336"
+      ],
+      "moment": "The valley's beauty is not secure on its own; it needs angelic custodians because the serpent is still coming.",
+      "source_phrase": "custodians of the valley against the serpent that will soon appear",
+      "why_it_matters": "It keeps Jiang's larger Purgatory model from becoming sentimental by reintroducing live spiritual threat inside a beautiful resting place.",
+      "tone": "reversal",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0330",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0336"
+      ],
+      "note": "The lecture shifts from the psychology of self-reflection and dreams to a more political and cosmological stretch: failed rulers, liturgical evening, angelic guardians, and the coming serpent.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0330",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0331",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0332"
+      ],
+      "note": "The ruler catalogue is dense and ASR-distorted in proper names, but its functional point is clear: Dante is inventorying negligent sovereigns whose lineages and kingdoms reveal damaged political inheritance."
+    }
+  ]
+}
