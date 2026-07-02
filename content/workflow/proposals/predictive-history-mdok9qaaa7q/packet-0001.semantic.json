@@ -1,0 +1,236 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0001",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0001",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0002"
+      ],
+      "kind": "exchange",
+      "summary": "The host introduces David Bromwich, frames the workshop as a return to Dante with a distinguished guest, and hands the floor over after a brief start-up overlap.",
+      "speaker_attribution": "Workshop host followed by a short transition into Bromwich's opening",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0003",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0004",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0005",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0006",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0007",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0008"
+      ],
+      "kind": "monologue",
+      "summary": "Bromwich opens with Macbeth as a rare Shakespeare play whose unity of action reveals character, then turns the lecture toward deed, fate, and Macbeth's imagination of murder before the act itself.",
+      "speaker_attribution": "David Bromwich lecture monologue",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0002",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0003"
+      ],
+      "note": "The handoff from the host to Bromwich is slightly collapsed by ASR: the host's invitation and Bromwich's 'let me set this up' begin inside the same transition.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Bromwich says Macbeth is a comparatively rare Shakespeare play with a strong unity of action that is fused to character portraiture.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0003"
+      ],
+      "temporal_scope": "Lecture interpretation given on 2026-06-25.",
+      "topic_tags": [
+        "Shakespeare",
+        "Macbeth",
+        "unity of action",
+        "character"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that the judgment the play invites about Macbeth's ambition is inseparable from a sequence of interlocking actions, not just an isolated moral label.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0004"
+      ],
+      "temporal_scope": "Lecture interpretation given on 2026-06-25.",
+      "topic_tags": [
+        "Macbeth",
+        "ambition",
+        "judgment",
+        "action"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Bromwich uses Heraclitus and Henry James to argue that character and incident determine one another, so fate is disclosed through action.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0004",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture interpretation given on 2026-06-25.",
+      "topic_tags": [
+        "Heraclitus",
+        "Henry James",
+        "character",
+        "fate",
+        "incident"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines the central problem of Macbeth as the nature of doing itself: once a deed is committed, it becomes a bearer of the doer's fate and cannot simply be left behind.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0005",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture interpretation given on 2026-06-25.",
+      "topic_tags": [
+        "deed",
+        "action",
+        "fate",
+        "Lady Macbeth"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Bromwich contrasts 'what's done is done' with 'what's done cannot be undone' to show the shift from dismissing the past to recognizing a fatal moral consequence in action.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0005",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture interpretation given on 2026-06-25.",
+      "topic_tags": [
+        "Lady Macbeth",
+        "moral psychology",
+        "fate",
+        "deed"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues Macbeth begins internally performing the murder before he consciously resolves to kill Duncan, because the witches' prophecy fuses kingship with usurpation in his imagination.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0006",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0007",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0008"
+      ],
+      "temporal_scope": "Lecture interpretation given on 2026-06-25.",
+      "topic_tags": [
+        "Macbeth",
+        "imagination",
+        "murder",
+        "prophecy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0004"
+      ],
+      "moment": "Character is treated not as background psychology but as the force that determines incident and is revealed by it.",
+      "source_phrase": "Character is fate",
+      "why_it_matters": "This gives Bromwich's whole reading its hinge: the deed is not an event added onto Macbeth but the revelation of who he is.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0005",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0006"
+      ],
+      "moment": "A banal phrase about the past is turned into a theory of irreversible action and moral destiny.",
+      "source_phrase": "what's done cannot be undone",
+      "why_it_matters": "Bromwich shows how Shakespeare turns ordinary idiom into a statement about deed, regret, and the fate carried by action.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0007"
+      ],
+      "moment": "Macbeth's imagination is described as already infected by murder before the act occurs.",
+      "source_phrase": "my thought, whose murder yet is but fantastical",
+      "why_it_matters": "This preserves the packet's sharpest image of action beginning in fantasy and language before it arrives in the world.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0008"
+      ],
+      "moment": "The prospective deed already fixes Macbeth's identity, almost as if he were one of Dante's damned souls enclosed by what he has done.",
+      "source_phrase": "the deed as defining the character and fate of a person",
+      "why_it_matters": "It links Shakespeare to the Dante frame of the workshop and makes the deed itself the thing that bounds the self.",
+      "tone": "causal-chain",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "unity of action",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0003"
+      ],
+      "definition_or_usage": "Bromwich's term for the unusually tight sequence of action in Macbeth, where plot movement and character revelation are welded together.",
+      "confidence": "high"
+    },
+    {
+      "term": "character is fate",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "Heraclitean formula Bromwich uses to frame Macbeth: the sequence of deeds reveals the destiny already implicit in character.",
+      "confidence": "high"
+    },
+    {
+      "term": "deed",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0005",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "The central moral and dramatic unit in Bromwich's reading: an action that cannot be undone and that carries the fate of its agent.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0001",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0008"
+      ],
+      "note": "The 2026-06-25 workshop opens by hosting David Bromwich inside Jiang's Dante series, and the first packet stays in guest-lecture mode before Jiang's own response begins later.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0001"
+      ],
+      "note": "ASR noise affects Bromwich's title and several book names in the host introduction, but the role of the segment as guest introduction is still clear."
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0007",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0008"
+      ],
+      "note": "The ASR stumbles over the Macbeth quotation and a Dante comparison, so the packet preserves Bromwich's interpretive direction rather than pretending the transcription is clean at the phrase level."
+    }
+  ]
+}

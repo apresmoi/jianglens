@@ -1,0 +1,229 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0006",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0041",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0042"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether there was a singular moment in Shakespeare's life that unlocked his imagination and shaped his worldview.",
+      "speaker_attribution": "Student question to David Bromwich",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0043"
+      ],
+      "kind": "answer",
+      "summary": "Bromwich rejects the search for one catalytic biographical moment and instead attributes Shakespeare's greatness to gradual development, wide social knowledge, and worldly theatrical experience.",
+      "speaker_attribution": "David Bromwich",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0045"
+      ],
+      "kind": "question",
+      "summary": "Jiang expands the biographical question by comparing Shakespeare to Dante-style speculation about visions, dreams, psychedelics, or trauma that might underwrite artistic vision.",
+      "speaker_attribution": "Jiang follow-up to Bromwich",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0046",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0047"
+      ],
+      "kind": "answer",
+      "summary": "Bromwich says Shakespeare is unusually resistant to mythologizing: there are many stories, but no convincing germinal incident, and he contrasts that with clearer biographical anchors like Mozart's precocity or Melville's years at sea.",
+      "speaker_attribution": "David Bromwich",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0044"
+      ],
+      "note": "Segment 0044 is empty and appears to mark a pause between Bromwich's first answer and Jiang's speculative follow-up.",
+      "suggested_speaker": null,
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Bromwich is skeptical that Shakespeare's imagination can be traced to one decisive unlocking event, even though he grants that some artists, including Dante, invite that kind of reading more readily.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Lecture response given on 2026-06-25.",
+      "topic_tags": [
+        "Shakespeare",
+        "biography",
+        "Dante",
+        "imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He argues that Shakespeare became great gradually rather than arriving fully formed, which is why singular-origin stories misdescribe the actual development of the plays.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Lecture response given on 2026-06-25.",
+      "topic_tags": [
+        "development",
+        "greatness",
+        "plays",
+        "Shakespeare"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Bromwich attributes Shakespeare's imaginative range to his knowledge of many kinds of people and institutions, especially London, the theater, aristocrats, soldiers, and court-adjacent life.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0043"
+      ],
+      "temporal_scope": "Lecture response given on 2026-06-25.",
+      "topic_tags": [
+        "London",
+        "theater",
+        "aristocrats",
+        "worldliness"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "In response to Jiang's speculation about visions or trauma, Bromwich says Shakespeare is a particularly hard case for life-explains-work narratives, because the surviving biography does not display one exceptional formative wound or visionary episode.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0045",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0046"
+      ],
+      "temporal_scope": "Lecture response given on 2026-06-25.",
+      "topic_tags": [
+        "visions",
+        "trauma",
+        "biography",
+        "Shakespeare"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Bromwich uses Mozart and Melville as contrast cases: Mozart shows obvious precocious exceptionality, and Melville's seafaring years clearly matter, whereas Shakespeare lacks a comparably decisive biographical hinge.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0046",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0047"
+      ],
+      "temporal_scope": "Lecture response given on 2026-06-25.",
+      "topic_tags": [
+        "Mozart",
+        "Melville",
+        "comparison",
+        "biography"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0043"
+      ],
+      "moment": "Shakespeare's imagination is explained not by a lightning strike but by slow exposure to a thick social world.",
+      "source_phrase": "he was worldly",
+      "why_it_matters": "It preserves Bromwich's anti-romantic answer to a question Jiang's classroom is inclined to romanticize.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0045"
+      ],
+      "moment": "Jiang openly names the class's willingness to speculate about psychedelics, visions, dreams, and near-death experiences as possible engines of literary vision.",
+      "source_phrase": "we speculate on weird things",
+      "why_it_matters": "It captures the classroom atmosphere and the interpretive pressure Bromwich is being asked to resist.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0046"
+      ],
+      "moment": "Shakespeare is said to bewilder people precisely because he does not outwardly look exceptional enough to explain the work.",
+      "source_phrase": "He doesn't seem exceptional",
+      "why_it_matters": "This is the packet's sharpest statement of the mystery Bromwich is willing to preserve instead of solving with myth.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0047"
+      ],
+      "moment": "Melville's years at sea serve as the clean counterexample: sometimes a life does announce its generative experience, but Shakespeare's does not.",
+      "source_phrase": "his years at sea were the thing that mattered to him",
+      "why_it_matters": "It clarifies that Bromwich is not rejecting biography in principle, only resisting a bad fit in Shakespeare's case.",
+      "tone": "method",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "worldly",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "Bromwich's summary of Shakespeare's imaginative education through heterogeneous people, institutions, and theater work rather than through a single visionary rupture.",
+      "confidence": "high"
+    },
+    {
+      "term": "germinal incident",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0046"
+      ],
+      "definition_or_usage": "The kind of singular origin story Bromwich thinks does not convincingly exist for Shakespeare.",
+      "confidence": "high"
+    },
+    {
+      "term": "singular moment",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0042",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0043"
+      ],
+      "definition_or_usage": "The biographical unlocking event the student asks for and Bromwich rejects as the right explanatory frame for Shakespeare.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0041",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0048"
+      ],
+      "note": "The workshop has fully shifted from Jiang's structured exchange with Bromwich into open-floor student questions, starting with biographical speculation about Shakespeare's imagination.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0041"
+      ],
+      "note": "The host says 'Professor Roberts' in the ASR, but context makes clear the questions are directed to David Bromwich."
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0045",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0046"
+      ],
+      "note": "Jiang's follow-up and Bromwich's reply contain some ASR noise around film and family references, so the packet preserves the stable point about resisting visionary-biographical explanations."
+    }
+  ]
+}

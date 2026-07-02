@@ -1,0 +1,238 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0007",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0049"
+      ],
+      "kind": "question",
+      "summary": "A student asks whether a Dante-directed Macbeth would stage the dagger visibly or leave it to the audience's imagination.",
+      "speaker_attribution": "Student question to David Bromwich",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0050",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0051"
+      ],
+      "kind": "answer",
+      "summary": "Bromwich says Dante might well materialize the dagger, but the deeper point is that Macbeth externalizes an ambition that is already his own, using the hallucination as if it were guidance from outside.",
+      "speaker_attribution": "David Bromwich",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0052"
+      ],
+      "kind": "question",
+      "summary": "Another student asks how to understand the witches: are they like human agents, demons, or some other kind of being?",
+      "speaker_attribution": "Student question to David Bromwich",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0053",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0054"
+      ],
+      "kind": "answer",
+      "summary": "Bromwich answers by stressing Banquo's skeptical naturalism and then returning to his core view: the witches matter less as metaphysical entities than as objects of belief that Macbeth internalizes and experiences as real.",
+      "speaker_attribution": "David Bromwich",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0055",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0056"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang opens the floor again and a student begins a new question about whether Shakespeare is naturally a naturalist or only adopts naturalism in drama.",
+      "speaker_attribution": "Jiang handoff to student question",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0052"
+      ],
+      "note": "The student question is halting in ASR, but the core issue is clear: what ontological status should be given to the witches, especially relative to demonic figures familiar from Dante.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Bromwich says Dante would probably be comfortable staging the dagger as a visible object, but he emphasizes that the apparition still functions as Macbeth's own ambition masquerading as outside direction.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0050",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Lecture response given on 2026-06-25.",
+      "topic_tags": [
+        "dagger",
+        "ambition",
+        "Macbeth",
+        "performance"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "He reads Macbeth's address to the dagger as a confession that he was already going toward the murder, so the hallucination aids rather than causes the deed.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0050"
+      ],
+      "temporal_scope": "Lecture response given on 2026-06-25.",
+      "topic_tags": [
+        "hallucination",
+        "deed",
+        "Macbeth",
+        "agency"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Bromwich extends the earlier psychological model by arguing that both Macbeth and Lady Macbeth repeatedly displace their own impulses onto something slightly external.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0051"
+      ],
+      "temporal_scope": "Lecture response given on 2026-06-25.",
+      "topic_tags": [
+        "externalization",
+        "Lady Macbeth",
+        "Macbeth",
+        "ambition"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "In response to the witches question, Bromwich uses Banquo's line about the earth having bubbles to show that Shakespeare includes an ordinary skeptical stance alongside Macbeth's susceptibility.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0053"
+      ],
+      "temporal_scope": "Lecture response given on 2026-06-25.",
+      "topic_tags": [
+        "Banquo",
+        "witches",
+        "skepticism",
+        "Shakespeare"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Bromwich's settled view is that the witches should be understood through belief: people believed in them, and once belief is strong enough, the experience becomes real in practice whether or not the metaphysics are resolved.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0054"
+      ],
+      "temporal_scope": "Lecture response given on 2026-06-25.",
+      "topic_tags": [
+        "belief",
+        "witches",
+        "experience",
+        "metaphysics"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0050"
+      ],
+      "moment": "The dagger is treated as a hallucinated escort for a murder Macbeth was already on his way to commit.",
+      "source_phrase": "thou marshall'st the way that I was going",
+      "why_it_matters": "It preserves Bromwich's cleanest formulation of the play's trick: outside force appears only after inward desire is already active.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0051"
+      ],
+      "moment": "Both Macbeths are said to keep exporting their own drives onto something just beyond themselves.",
+      "source_phrase": "putting off onto something slightly external",
+      "why_it_matters": "This sharpens the packet's psychological through-line and connects the dagger to the broader structure of ambition.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0053"
+      ],
+      "moment": "Banquo becomes the almost comic voice of skeptical physics inside a world full of supernatural pressure.",
+      "source_phrase": "the earth has bubbles as the water has",
+      "why_it_matters": "It preserves Bromwich's reminder that Shakespeare stages more than one attitude toward the witches at once.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0054"
+      ],
+      "moment": "Belief is treated as the mechanism that turns witches from folklore into lived experience.",
+      "source_phrase": "if you believe in something you will probably experience it",
+      "why_it_matters": "This is Bromwich's most portable formulation of how supernatural belief works in Macbeth without requiring doctrinal certainty.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "externalization",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0050",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0051"
+      ],
+      "definition_or_usage": "The process by which Macbeth and Lady Macbeth treat their own ambitions as if those drives were arriving from outside themselves.",
+      "confidence": "high"
+    },
+    {
+      "term": "the earth has bubbles as the water has",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0053"
+      ],
+      "definition_or_usage": "Banquo's skeptical way of deflating the witches into a strange but not necessarily meaningful natural phenomenon.",
+      "confidence": "high"
+    },
+    {
+      "term": "belief-experience loop",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0054"
+      ],
+      "definition_or_usage": "Bromwich's practical doctrine on the witches: belief conditions the kind of experience a person can have, making the phenomenon effective whether or not it is metaphysically settled.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0049",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0056"
+      ],
+      "note": "Open-floor student questions continue, moving from staging and supernatural ontology toward the next question about Shakespeare's broader naturalism.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0050"
+      ],
+      "note": "The ASR mangles the dagger quotation and part of Bromwich's aside about Catholic images, so the packet keeps the stable interpretive claim rather than pretending the wording is clean."
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0053",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0054"
+      ],
+      "note": "Bromwich's William James analogy is noisy in transcription, but its function is clear: even if another world existed, the decisive question here is still what Macbeth brings into his experience of the witches."
+    }
+  ]
+}
