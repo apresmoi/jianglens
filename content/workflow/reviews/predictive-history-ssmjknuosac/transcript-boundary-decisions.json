@@ -1,0 +1,180 @@
+{
+  "source_slug": "predictive-history-ssmjknuosac",
+  "decisions": [
+    {
+      "candidate_id": "seg-0009->seg-0010:move-leading-completion-to-previous:b344fff6f3b9",
+      "decision": "approve",
+      "reason": "Moves 'okay?' back to complete 'that's a good point, okay?' before the next question."
+    },
+    {
+      "candidate_id": "seg-0119->seg-0120:move-leading-completion-to-previous:33064506c4df",
+      "decision": "approve",
+      "reason": "Completes 'the girl next to me, poor thing, she had a nightmare...'."
+    },
+    {
+      "candidate_id": "seg-0148->seg-0149:move-leading-completion-to-previous:991c18857404",
+      "decision": "approve",
+      "reason": "Completes 'Beijing is not a walking city...' without changing topic."
+    },
+    {
+      "candidate_id": "seg-0149->seg-0150:move-leading-completion-to-previous:38f2b9697fcd",
+      "decision": "approve",
+      "reason": "Completes 'Second thing is that I feel much more creative.'"
+    },
+    {
+      "candidate_id": "seg-0150->seg-0151:move-leading-completion-to-previous:fe24967d2d33",
+      "decision": "approve",
+      "reason": "Completes 'I have no idea what I'm teaching...' before the next sentence."
+    },
+    {
+      "candidate_id": "seg-0193->seg-0194:move-leading-completion-to-previous:826e2d34851c",
+      "decision": "approve",
+      "reason": "Completes 'He wept out of six eyes and down three chins.'"
+    },
+    {
+      "candidate_id": "seg-0194->seg-0195:move-leading-completion-to-previous:3750587d57c9",
+      "decision": "approve",
+      "reason": "Completes 'he watched for the chance of time and place, and when the wings were open wide enough...'."
+    },
+    {
+      "candidate_id": "seg-0195->seg-0196:move-leading-completion-to-previous:dc8199c6f66f",
+      "decision": "approve",
+      "reason": "Completes 'I saw him with his legs turned up.'"
+    },
+    {
+      "candidate_id": "seg-0196->seg-0197:move-leading-completion-to-previous:73b50a9a9ae7",
+      "decision": "approve",
+      "reason": "Completes Virgil's explanation of the turning point before the next clause continues."
+    },
+    {
+      "candidate_id": "seg-0269->seg-0270:move-leading-completion-to-previous:6619c7445be3",
+      "decision": "approve",
+      "reason": "Completes 'So he's not responsible for your fault.'"
+    },
+    {
+      "candidate_id": "seg-0283->seg-0284:move-leading-completion-to-previous:1d28efc7f34b",
+      "decision": "reject",
+      "reason": "Crosses speakers into a student answer rather than finishing the teacher's fragment."
+    },
+    {
+      "candidate_id": "seg-0306->seg-0307:move-trailing-starter-to-next:1f2c7083a01f",
+      "decision": "approve",
+      "reason": "Moves the dangling starter 'Master Adam is a' onto the segment that defines him."
+    },
+    {
+      "candidate_id": "seg-0307->seg-0308:move-leading-completion-to-previous:5606a929a721",
+      "decision": "approve",
+      "reason": "Completes 'So first thing we're going to do is we're going to go and read the Aeneid.'"
+    },
+    {
+      "candidate_id": "seg-0321->seg-0322:move-leading-completion-to-previous:0e19ce9912a3",
+      "decision": "reject",
+      "reason": "Starts a quoted line in a new speaker turn rather than completing 'keep on going'."
+    },
+    {
+      "candidate_id": "seg-0333->seg-0334:move-leading-completion-to-previous:5eeb564883a1",
+      "decision": "reject",
+      "reason": "Crosses from a student question into Jiang's answer instead of finishing the question."
+    },
+    {
+      "candidate_id": "seg-0341->seg-0342:move-leading-completion-to-previous:014f7f7365c0",
+      "decision": "reject",
+      "reason": "Crosses speakers and begins a new correction rather than an obvious continuation."
+    },
+    {
+      "candidate_id": "seg-0343->seg-0344:move-leading-completion-to-previous:803c62edc56f",
+      "decision": "reject",
+      "reason": "Begins Jiang's reply in the next speaker turn rather than completing the student's sentence."
+    },
+    {
+      "candidate_id": "seg-0344->seg-0345:move-leading-completion-to-previous:c97625968726",
+      "decision": "reject",
+      "reason": "Crosses back into the student's acknowledgment; not an obvious same-sentence split."
+    },
+    {
+      "candidate_id": "seg-0349->seg-0350:move-leading-completion-to-previous:a2e6952ac1ac",
+      "decision": "reject",
+      "reason": "Moves from a student's trailing 'Well,' into Jiang's answer, which is a reply boundary."
+    },
+    {
+      "candidate_id": "seg-0357->seg-0358:move-leading-completion-to-previous:ce34fbc39c5f",
+      "decision": "approve",
+      "reason": "Completes the image of the beard spreading down to 'his chest...'."
+    },
+    {
+      "candidate_id": "seg-0364->seg-0365:move-leading-completion-to-previous:e0244b845c46",
+      "decision": "reject",
+      "reason": "Crosses from a student's question into Jiang's response instead of finishing the question."
+    },
+    {
+      "candidate_id": "seg-0365->seg-0366:move-leading-completion-to-previous:3f0254b05e85",
+      "decision": "approve",
+      "reason": "Completes 'So something is really weird going on.'"
+    },
+    {
+      "candidate_id": "seg-0368->seg-0369:move-trailing-starter-to-next:8bc115be5af8",
+      "decision": "approve",
+      "reason": "Moves the dangling 'You'd be' into the segment that continues 'pretty happy...'."
+    },
+    {
+      "candidate_id": "seg-0378->seg-0379:move-leading-completion-to-previous:6e12c202ebc9",
+      "decision": "approve",
+      "reason": "Completes 'To tell you how I led him would take long.'"
+    },
+    {
+      "candidate_id": "seg-0383->seg-0384:move-leading-completion-to-previous:a329768e835c",
+      "decision": "reject",
+      "reason": "Starts Jiang's commentary on the quote rather than completing the quoted segment."
+    },
+    {
+      "candidate_id": "seg-0384->seg-0385:move-leading-completion-to-previous:fa39e886361a",
+      "decision": "reject",
+      "reason": "Crosses from Jiang's paraphrase back into the quoted reading with too much ASR uncertainty."
+    },
+    {
+      "candidate_id": "seg-0414->seg-0415:move-leading-completion-to-previous:83ba29f18d38",
+      "decision": "approve",
+      "reason": "Completes 'all of the spirits sang as with one voice.'"
+    },
+    {
+      "candidate_id": "seg-0415->seg-0416:move-leading-completion-to-previous:f8cc4e8fa9dc",
+      "decision": "approve",
+      "reason": "Completes 'The souls... turned pale' before the simile continues."
+    },
+    {
+      "candidate_id": "seg-0431->seg-0432:move-leading-completion-to-previous:26e64962c935",
+      "decision": "approve",
+      "reason": "Completes 'for his own will derives from a just will.'"
+    },
+    {
+      "candidate_id": "seg-0432->seg-0433:move-leading-completion-to-previous:5b95a16eced9",
+      "decision": "approve",
+      "reason": "Completes 'as if no other thing might touch our minds' despite minor ASR noise."
+    },
+    {
+      "candidate_id": "seg-0437->seg-0438:move-leading-completion-to-previous:70057921576f",
+      "decision": "approve",
+      "reason": "Completes 'and me alone, afraid that I had been abandoned.'"
+    },
+    {
+      "candidate_id": "seg-0506->seg-0507:move-leading-completion-to-previous:345f085d0eb1",
+      "decision": "approve",
+      "reason": "Completes 'beneath the custody of the great heap of stones...'."
+    },
+    {
+      "candidate_id": "seg-0508->seg-0509:move-leading-completion-to-previous:e6ae6192146b",
+      "decision": "approve",
+      "reason": "Completes the excommunication sentence before Jiang asks the next question."
+    },
+    {
+      "candidate_id": "seg-0510->seg-0511:move-leading-completion-to-previous:c10815086d09",
+      "decision": "approve",
+      "reason": "Moves the last words of the quoted answer back before Jiang's commentary resumes with 'Yeah.'"
+    },
+    {
+      "candidate_id": "seg-0521->seg-0522:move-leading-completion-to-previous:834f230989ce",
+      "decision": "reject",
+      "reason": "Begins a fresh reading prompt rather than completing Jiang's 'let's go on' transition."
+    }
+  ]
+}
