@@ -1,0 +1,223 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0024",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0185",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0186"
+      ],
+      "kind": "exchange",
+      "summary": "A student says there can be true counselors as well as false ones, but Jiang immediately turns the idea back on himself with a comic question about whether his own YouTube wisdom could get him to heaven, then answers no.",
+      "speaker_attribution": "Student and Jiang",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0187",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0188"
+      ],
+      "kind": "exchange",
+      "summary": "A remote question suggests the danger of celebrity is that followers stop using their own imagination, but Jiang insists that even genuinely educative influence would still not by itself save him.",
+      "speaker_attribution": "Remote question with Jiang response",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0189",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0190"
+      ],
+      "kind": "exchange",
+      "summary": "One student jokes Jiang would share the fate of revered intellectual giants in Limbo, and another answers more seriously that heaven remains a personal journey of self-improvement and reflection even if one also happens to be a celebrity.",
+      "speaker_attribution": "Student responses",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0191",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0192"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang presses for practical advice about getting to heaven faster, and a student answers that heaven, purgatory, and hell begin only after a life's journey is complete.",
+      "speaker_attribution": "Jiang question and student answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0187"
+      ],
+      "note": "The comment is relayed from 'Jimmy,' so this segment is effectively a mediated remote audience question rather than a direct in-room student speech.",
+      "suggested_speaker": "Remote audience question read aloud",
+      "confidence": "high"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A student proposes that fame is not inherently damning because there can be true counselors as well as false ones.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0185"
+      ],
+      "temporal_scope": "Student proposal offered on 2026-06-25.",
+      "topic_tags": [
+        "fame",
+        "counsel",
+        "truth",
+        "hell"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang answers his own test case negatively: even if his YouTube channel spreads wisdom, public influence is not what gets a soul from Purgatory to heaven.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0186",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0188"
+      ],
+      "temporal_scope": "Lecture self-test posed on 2026-06-25.",
+      "topic_tags": [
+        "YouTube",
+        "wisdom",
+        "heaven",
+        "fame"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The remote question suggests that celebrity can be spiritually dangerous even when the message is right because followers may surrender their own imaginative judgment and simply obey the idol.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0187"
+      ],
+      "temporal_scope": "Remote audience question raised on 2026-06-25.",
+      "topic_tags": [
+        "imagination",
+        "followers",
+        "idolatry",
+        "celebrity"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student argues that the journey to heaven is fundamentally personal, grounded in self-improvement and self-reflection rather than in public recognition.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0190"
+      ],
+      "temporal_scope": "Student answer offered on 2026-06-25.",
+      "topic_tags": [
+        "self-improvement",
+        "self-reflection",
+        "personal journey",
+        "heaven"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Another student adds that the afterlife journey only begins once a person's earthly life is complete, so there is no literal acceleration while one is still alive.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0191",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0192"
+      ],
+      "temporal_scope": "Student answer offered on 2026-06-25.",
+      "topic_tags": [
+        "afterlife",
+        "death",
+        "timing",
+        "heaven"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0186"
+      ],
+      "moment": "Jiang uses himself as the test case for sanctified celebrity and then denies that even wisdom-broadcasting fame saves.",
+      "source_phrase": "i have my own youtube channel and i'm spreading wisdom",
+      "why_it_matters": "It keeps the lecture from staying abstract and lets Jiang expose the limit of public influence in salvific terms.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0187"
+      ],
+      "moment": "The remote audience frames celebrity as a threat to imagination itself.",
+      "source_phrase": "people will blindly follow what they say and not use their own imaginations",
+      "why_it_matters": "It sharpens the critique of fame from pride to the deformation of the follower's soul.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0189"
+      ],
+      "moment": "A student jokingly assigns Jiang to Limbo with the great intellectual giants.",
+      "source_phrase": "virgil socrates aristotle plato",
+      "why_it_matters": "It dramatizes the difference between admired intellect and salvific transformation.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0190"
+      ],
+      "moment": "Heaven is recast as a fundamentally personal journey of self-improvement and self-reflection.",
+      "source_phrase": "the journey to heaven is still personal fundamentally",
+      "why_it_matters": "It gives the packet its clearest positive answer to the fame problem.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "true counselor",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0185"
+      ],
+      "definition_or_usage": "The student's category for a respected public guide whose fame would not be fraudulent in the way false counselors are.",
+      "confidence": "high"
+    },
+    {
+      "term": "blindly follow",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0187"
+      ],
+      "definition_or_usage": "The remote question's warning that celebrity can short-circuit imaginative or moral agency in followers.",
+      "confidence": "high"
+    },
+    {
+      "term": "personal journey",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0190"
+      ],
+      "definition_or_usage": "The student's counter to fame: ascent is finally individual work of reflection and improvement, not a reward for public status.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0185",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0192"
+      ],
+      "note": "The packet continues the celebrity debate by testing increasingly practical cases, from true counselors and Jiang's own channel to the stricter answer that heaven is a personal posthumous journey rather than a prize attached to influence.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0188"
+      ],
+      "note": "Jiang's self-appraisal is partly comic, but the stable doctrinal point is that even beneficial teaching does not itself move a soul into heaven."
+    }
+  ]
+}

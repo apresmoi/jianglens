@@ -1,0 +1,215 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0023",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0177",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0178"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang says the souls who should be committed to God still treat Dante as more interesting than God, while the poem shows messengers running back to report that the newcomer is flesh because his shadow blocks the light.",
+      "speaker_attribution": "Jiang with continued reading",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0180",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0181",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0182"
+      ],
+      "kind": "reading-quoted-material",
+      "summary": "The shades beg Dante to stop, identify themselves as the violently killed who repented at the last hour, and one soul from Fano begins a detailed request for prayers after recounting his murder and failed escape.",
+      "speaker_attribution": "Reader quoting Dante's shades",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0183",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0184"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang interrupts the reading to ask whether fame can take someone to heaven, and a student answers that celebrity easily becomes idolatry unless it functions like John the Baptist by pointing beyond itself toward God.",
+      "speaker_attribution": "Jiang question and student answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0181"
+      ],
+      "note": "The place names and murderer references in the Fano speech are noisy in ASR, but the stable structure is a murdered soul asking Dante to carry word home so prayers can purge his sins faster.",
+      "suggested_speaker": "Shade in the reading",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the souls' fascination with Dante shows a disordered desire: even while committed to God, they find the spectacle of the living pilgrim more interesting than God.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0177"
+      ],
+      "temporal_scope": "Lecture interpretation given on 2026-06-25.",
+      "topic_tags": [
+        "God",
+        "attention",
+        "fame",
+        "distraction"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "The text confirms that Dante's bodily shadow becomes news inside Purgatory: messengers are sent back to tell the others that this figure is flesh.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0178"
+      ],
+      "temporal_scope": "Text read aloud on 2026-06-25.",
+      "topic_tags": [
+        "shadow",
+        "flesh",
+        "messengers",
+        "Purgatory"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "The violently killed souls explain that late repentance and forgiveness let them die at peace with God, but they still need the prayers of the living to purge heavy sins.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0180",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0181"
+      ],
+      "temporal_scope": "Text read aloud on 2026-06-25.",
+      "topic_tags": [
+        "repentance",
+        "violent death",
+        "prayer",
+        "Purgatory"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The specific soul from Fano asks Dante to carry news back to his homeland so fair prayers can purge him, making intercession the practical mechanism of his request.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0181",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0182"
+      ],
+      "temporal_scope": "Text read aloud on 2026-06-25.",
+      "topic_tags": [
+        "Fano",
+        "intercession",
+        "prayer",
+        "murder"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The student's answer to Jiang's fame question is that celebrity normally becomes idolatry, but a famous person who directs attention toward God could function more like a prophet than an idol.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0184"
+      ],
+      "temporal_scope": "Student answer offered on 2026-06-25.",
+      "topic_tags": [
+        "celebrity",
+        "idolatry",
+        "prophet",
+        "John the Baptist"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0177"
+      ],
+      "moment": "Jiang says the souls see Dante and think he is more interesting than God.",
+      "source_phrase": "this is actually more interesting than god",
+      "why_it_matters": "It is the packet's sharpest statement of fame as rival attention to the divine.",
+      "tone": "provocation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0178"
+      ],
+      "moment": "Dante's shadow becomes public news that the shades can 'return and carry.'",
+      "source_phrase": "this man is flesh if as i think they stop to see his shadow",
+      "why_it_matters": "It shows the fame mechanism operating inside the poem itself, not just in Jiang's gloss.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0180"
+      ],
+      "moment": "The violently killed are not frozen in damnation but die into peace with God through last-hour repentance.",
+      "source_phrase": "we all sinned until our final hour then light from heaven granted understanding",
+      "why_it_matters": "It gives the packet its doctrinal counterweight to the fame discussion: mercy can still arrive at the edge of death.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0184"
+      ],
+      "moment": "The student salvages celebrity only by converting the idol into a prophet who points away from himself.",
+      "source_phrase": "prophets instead of idols",
+      "why_it_matters": "It is the packet's most concise attempt to distinguish holy renown from self-worship.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "idols",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0184"
+      ],
+      "definition_or_usage": "The student's category for celebrities who absorb devotion into themselves rather than redirecting it toward God.",
+      "confidence": "high"
+    },
+    {
+      "term": "prophets instead of idols",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0184"
+      ],
+      "definition_or_usage": "The student's distinction for a kind of fame that remains legitimate because it points beyond the person toward divine truth.",
+      "confidence": "high"
+    },
+    {
+      "term": "good offices",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0180"
+      ],
+      "definition_or_usage": "The shades' trust that Dante can carry their names and prayer requests back into the world of the living.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0177",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0184"
+      ],
+      "note": "The packet first reinforces fame as a distraction from God inside the poem, then widens into a classroom argument over whether any form of celebrity can be redeemed if it points past itself toward God.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0181",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0182"
+      ],
+      "note": "Names like Charles, Azzo d'Este, and the exact murder geography are noisy in the ASR, so the packet keeps only the stable narrative of violent death, repentance, and a request for prayers from home."
+    }
+  ]
+}

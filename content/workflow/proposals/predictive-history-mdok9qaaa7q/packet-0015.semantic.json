@@ -1,0 +1,211 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0015",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0113",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0114",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0115",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0116",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0117"
+      ],
+      "kind": "exchange",
+      "summary": "A student presses Jiang on whether people in annihilation are beyond redemption, and Jiang answers that annihilation names a chosen refusal to live or redeem oneself rather than a fate imposed from outside.",
+      "speaker_attribution": "Student question with Jiang answer and follow-up",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0118",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0119",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0120"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks how slavery fits Dante's moral universe, and Jiang answers that the Divine Comedy contains no slaves because slavery means surrendering free will to preserve life, which for Dante is equivalent to choosing non-life.",
+      "speaker_attribution": "Student question with Jiang answer",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0113",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0115",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0117"
+      ],
+      "note": "The same student appears to keep probing the annihilation question across these fragments, but the ASR is choppy enough that the exact wording is only partially recoverable.",
+      "suggested_speaker": "Student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says annihilation names people who chose not to redeem themselves and, more radically, chose not to live.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0113",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0114"
+      ],
+      "temporal_scope": "Lecture explanation given on 2026-06-25.",
+      "topic_tags": [
+        "annihilation",
+        "redemption",
+        "choice",
+        "non-life"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    },
+    {
+      "claim": "He glosses the people in annihilation as those who chose to sleep through life or do nothing with it, which makes annihilation a moral refusal rather than a random punishment.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0115",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0116",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0117"
+      ],
+      "temporal_scope": "Lecture explanation given on 2026-06-25.",
+      "topic_tags": [
+        "annihilation",
+        "sloth",
+        "choice",
+        "existence"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang says there are no slaves in the Divine Comedy because, in Dante's logic, slavery happens when someone gives up freedom in order to protect life.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0118",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0119",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0120"
+      ],
+      "temporal_scope": "Lecture explanation given on 2026-06-25.",
+      "topic_tags": [
+        "slavery",
+        "Divine Comedy",
+        "free will",
+        "life"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "For Jiang's Dante, free will is God's gift, so surrendering it for survival is logically equivalent to choosing not to live anymore.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0120"
+      ],
+      "temporal_scope": "Lecture explanation given on 2026-06-25.",
+      "topic_tags": [
+        "free will",
+        "God",
+        "survival",
+        "slavery"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He pushes the model so far that even forced slavery is reframed as a field of choice: Dante would still say one could run away or rebel rather than inwardly consent.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0120"
+      ],
+      "temporal_scope": "Lecture explanation given on 2026-06-25, with the forced-slavery case raised at the end of the packet.",
+      "topic_tags": [
+        "slavery",
+        "rebellion",
+        "choice",
+        "Dante"
+      ],
+      "claim_type": "normative",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0114"
+      ],
+      "moment": "Annihilation is defined not as an externally assigned torture but as choosing not to live.",
+      "source_phrase": "they chose not to live",
+      "why_it_matters": "It sharpens Jiang's whole moral metaphysics by making damnation a refusal of life rather than a mere sentence.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0120"
+      ],
+      "moment": "Jiang treats the slave as someone who has traded freedom for survival and therefore hollowed out the soul's defining gift.",
+      "source_phrase": "you give your free will in order to protect your life",
+      "why_it_matters": "This is the packet's most consequential causal chain and the basis of his Dantean reading of slavery.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0120"
+      ],
+      "moment": "The morally explosive compression is that choosing slavery becomes choosing not to live anymore, 'basically a zombie.'",
+      "source_phrase": "you're basically a zombie",
+      "why_it_matters": "It preserves the packet's hottest and most troubling Jiang phrase instead of sanding it into abstraction.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "annihilation",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0113",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0114"
+      ],
+      "definition_or_usage": "Jiang's label for the state of someone who chooses not to live or redeem themselves, rather than a conventional infernal punishment.",
+      "confidence": "medium"
+    },
+    {
+      "term": "free will as God's gift",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0120"
+      ],
+      "definition_or_usage": "The governing Dantean premise Jiang uses to judge slavery, because losing free will means losing the core of one's humanity.",
+      "confidence": "high"
+    },
+    {
+      "term": "choose not to live",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0114",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0120"
+      ],
+      "definition_or_usage": "Jiang's repeated formula for both annihilation and enslaved surrender: survival without active freedom counts as non-life.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0113",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0120"
+      ],
+      "note": "The packet extends the lecture's earlier choice-based account of hell by applying the same logic to annihilation and then to slavery: the deepest loss is consenting to non-life by giving away free will.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0113",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0116"
+      ],
+      "note": "Several annihilation lines are ASR-fragmented, so the packet preserves only the stable throughline that annihilation is tied to choosing non-life or refusing redemption."
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0120"
+      ],
+      "note": "The packet records Jiang's morally loaded slavery formulation as his classroom interpretation of Dante, not as a neutral historical account."
+    }
+  ]
+}
