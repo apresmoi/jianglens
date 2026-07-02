@@ -1,0 +1,131 @@
+{
+  "packet_id": "predictive-history-or3eow52wcc-semantics-pkt-0030",
+  "source_id": "video:predictive-history-or3eow52wcc",
+  "source_date": "2026-06-26",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0233",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0240"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang rejects timid student guesses and spells out the compulsive logic of possessive love: endless gifts, inducements, and pursuit followed by condemnation if refusal persists.",
+      "speaker_attribution": "Jiang-led exchange with brief student attempts.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0236"
+      ],
+      "note": "The ASR on this student line is garbled, but it functions as another failed guess that Jiang rejects before giving his own answer.",
+      "suggested_speaker": "Student offering a tentative answer",
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says possessive Virgilian love does not walk away from refusal; it escalates through gifts, luxury, spectacle, and persistence in order to force a yes.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0240"
+      ],
+      "temporal_scope": "Lecture analogy on 2026-06-26.",
+      "topic_tags": [
+        "Virgil",
+        "pursuit",
+        "gifts",
+        "coercion"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The logic of this bad love is that rejection intensifies pursuit rather than correcting desire, because the lover treats refusal as a problem to overpower.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0238",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0240"
+      ],
+      "temporal_scope": "Lecture diagnosis on 2026-06-26.",
+      "topic_tags": [
+        "rejection",
+        "insistence",
+        "desire",
+        "bad love"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang explicitly links this pattern back to Virgil's poetry by saying the rejected lover will eventually write the beloved into hell.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0240"
+      ],
+      "temporal_scope": "Lecture analogy on 2026-06-26.",
+      "topic_tags": [
+        "Virgil",
+        "poetry",
+        "hell",
+        "revenge"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "By asking how Dante differs immediately after this, Jiang frames Dantean love as the negation of coercive pursuit rather than just a milder version of it.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0240"
+      ],
+      "temporal_scope": "Lecture contrast setup on 2026-06-26.",
+      "topic_tags": [
+        "Dante",
+        "contrast",
+        "coercion",
+        "love"
+      ],
+      "claim_type": "definition",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0240"
+      ],
+      "moment": "Possessive love keeps upgrading the offer, from flowers to diamonds to the moon, because it cannot hear no.",
+      "source_phrase": "flowers ... chocolates ... a diamond ring ... a Mercedes ... take her to the moon",
+      "why_it_matters": "Jiang turns a moral distinction into a vivid comic sequence that exposes coercion hiding inside romance.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0240"
+      ],
+      "moment": "The lover who cannot possess will eventually punish by narrative damnation.",
+      "source_phrase": "He'll put her in hell",
+      "why_it_matters": "It fuses erotic frustration, revenge, and literary production into one of the lecture's sharpest interpretive claims.",
+      "tone": "causal-chain",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0240"
+      ],
+      "note": "This packet preserves one of the lecture's most memorable June 26 formulations of bad love: coercive escalation followed by retaliatory mythmaking or condemnation.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0234"
+      ],
+      "note": "The student's reference to a poem and a woman who refused to talk is too elliptical to ground a stronger literary identification, so it is left as part of the exploratory exchange rather than a standalone claim."
+    }
+  ]
+}

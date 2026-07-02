@@ -1,0 +1,183 @@
+{
+  "packet_id": "predictive-history-or3eow52wcc-semantics-pkt-0013",
+  "source_id": "video:predictive-history-or3eow52wcc",
+  "source_date": "2026-06-26",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0097"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang closes the wrath examples by naming their lesson as understanding and forgiveness, then pivots to the mechanism of Dante's visionary seeing.",
+      "speaker_attribution": "Jiang lecture transition and interpretive setup.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0098",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0099",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0100",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0101",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0102"
+      ],
+      "kind": "exchange",
+      "summary": "Students try to analogize Dante's wrath visions to artwork, movies, and ecstatic daydreams, while Jiang keeps pressing for the mechanism that makes the visions appear while Dante is awake and walking.",
+      "speaker_attribution": "Jiang-led classroom exchange with multiple students.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0103",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0104"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang crystallizes the issue as lucid daydreaming in motion, and a student proposes reflected light as the trigger while admitting the mechanism remains mysterious.",
+      "speaker_attribution": "Jiang prompt followed by Fred's speculative answer.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0098",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0100",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0102"
+      ],
+      "note": "The packet contains at least two different students contributing partial answers before Fred speaks at the end, so the diarization labels should not be treated as stable individual identities.",
+      "suggested_speaker": "Multiple students",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the wrath exemplars are meant to teach understanding and forgiveness instead of anger.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0097"
+      ],
+      "temporal_scope": "Lecture interpretation given on 2026-06-26.",
+      "topic_tags": [
+        "wrath",
+        "understanding",
+        "forgiveness"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang distinguishes Dante's new visionary mode from both dreams and artwork by insisting that the pilgrim is seeing images while awake and walking.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0101",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0103"
+      ],
+      "temporal_scope": "Lecture model on 2026-06-26.",
+      "topic_tags": [
+        "vision",
+        "dreams",
+        "artwork",
+        "Dante"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He frames the terrace visions as a problem of mechanism: the class can explain dreams and art, but not yet how waking interior images are generated.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0097",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0101",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0103"
+      ],
+      "temporal_scope": "Lecture inquiry posed on 2026-06-26.",
+      "topic_tags": [
+        "mechanism",
+        "vision",
+        "mind",
+        "imagination"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "A student hypothesis in the lecture is that the canto's blinding reflected light may force the visions upon Dante, though the mechanism remains mysterious.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0104"
+      ],
+      "temporal_scope": "Student speculation recorded during the 2026-06-26 lecture.",
+      "topic_tags": [
+        "reflected light",
+        "vision",
+        "mystery"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0103"
+      ],
+      "moment": "Jiang names Dante's state as lucid daydreaming: he is walking and suddenly carrying an image in his head.",
+      "source_phrase": "This is like lucid daydreaming.",
+      "why_it_matters": "It is the packet's cleanest bridge from moral exempla to a psychology of visionary imagination.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0103"
+      ],
+      "moment": "The class reaches the real problem only when Jiang says: you are just walking through and suddenly an image appears.",
+      "source_phrase": "You're just walking through. Wow, like, I have this image in my head.",
+      "why_it_matters": "It preserves the phenomenological oddity Jiang wants the students to stop skating past.",
+      "tone": "question",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0104"
+      ],
+      "moment": "Fred's reflected-light answer treats the canto as a scene where the pilgrim cannot keep the image out, even if the cause stays obscure.",
+      "source_phrase": "it's impossible for him not to see it",
+      "why_it_matters": "It captures the coercive feel of the visions before Jiang builds a fuller memory model.",
+      "tone": "image",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "lucid daydreaming",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0103"
+      ],
+      "definition_or_usage": "Jiang's phrase for Dante's waking visionary state, distinct from sleep-dreams and from external artwork.",
+      "confidence": "high"
+    },
+    {
+      "term": "reflected light",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0104"
+      ],
+      "definition_or_usage": "A student-offered mechanism for why the wrath visions press themselves on Dante while he walks.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0097",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0103"
+      ],
+      "note": "On 2026-06-26 Jiang turns from wrath's moral content to a live psychological question about how visionary images arrive in consciousness, setting up the later memory discussion rather than treating the canto as static allegory.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0104"
+      ],
+      "note": "Fred's reflected-light account is explicitly tentative and Jiang immediately challenges its explanatory power, so the pass preserves it as classroom speculation rather than lecture doctrine."
+    }
+  ]
+}

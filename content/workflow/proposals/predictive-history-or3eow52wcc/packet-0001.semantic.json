@@ -1,0 +1,202 @@
+{
+  "packet_id": "predictive-history-or3eow52wcc-semantics-pkt-0001",
+  "source_id": "video:predictive-history-or3eow52wcc",
+  "source_date": "2026-06-26",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0001",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0002",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0003"
+      ],
+      "kind": "question",
+      "summary": "A student shares a vivid dream about a tree across water whose reflection speaks inward guidance, framing it as a possible continuation of the class discussion.",
+      "speaker_attribution": "Student dream report after Jiang opens the floor.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0004",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0005"
+      ],
+      "kind": "answer",
+      "summary": "Jiang treats the dream as unusually vivid, links it to a later Purgatory tree vision, and asks the room to interpret the symbolic river, tree, and reflection.",
+      "speaker_attribution": "Jiang lecture response.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0006"
+      ],
+      "kind": "question",
+      "summary": "A student interprets the dream through Dantean lines about seed, plant, river, time, and the need to let growth happen inwardly rather than seize the finished answer.",
+      "speaker_attribution": "Student interpretation.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0007",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0008"
+      ],
+      "kind": "answer",
+      "summary": "Jiang affirms the interpretation and clarifies that plant imagery in Purgatory names family, fate, and original-sin inheritance without making lineage destiny.",
+      "speaker_attribution": "Jiang lecture response moving back into class structure.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0003",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0004"
+      ],
+      "note": "The handoff from the student dream report into Jiang's reply is slightly blended at the segment boundary, but the speaker shift is still clear from context.",
+      "suggested_speaker": null,
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says the dream matters because its vividness is unusual and because Dante later encounters a parallel tree vision while ascending Purgatory.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0004",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture interpretation given on 2026-06-26.",
+      "topic_tags": [
+        "dream",
+        "Dante",
+        "Purgatory",
+        "vision"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The student dream is interpreted as a pattern in which the desired truth cannot be directly seized across the river but must grow inwardly through reflection.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0002",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0003",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Classroom interpretation on 2026-06-26.",
+      "topic_tags": [
+        "reflection",
+        "dream",
+        "tree",
+        "inner-growth"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang argues that Dante's plant-and-seed metaphor means family origin does not confine fate, because seed and plant are not identical.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture interpretation given on 2026-06-26.",
+      "topic_tags": [
+        "family",
+        "fate",
+        "plant-metaphor",
+        "Purgatory"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "He also ties the plant and tree imagery in Purgatory to the tree of knowledge and to the question of whether Adam and Eve's act should condemn descendants.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture interpretation given on 2026-06-26.",
+      "topic_tags": [
+        "original-sin",
+        "tree-of-knowledge",
+        "inheritance",
+        "Purgatory"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0003"
+      ],
+      "moment": "The tree's reflection is more vivid than the tree itself and tells the dreamer to stop looking outward and start looking inward.",
+      "source_phrase": "stop looking outward start looking inward",
+      "why_it_matters": "It gives the whole lecture an image of mediation: truth arrives through reflected inward attention rather than direct possession.",
+      "tone": "image",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0004"
+      ],
+      "moment": "Jiang immediately treats the private dream as if it has already entered Dante's symbolic field.",
+      "source_phrase": "dante ascends purgatory higher he's gonna have a vision very similar to your vision",
+      "why_it_matters": "It shows Jiang reading classroom experience and Dantean imagery as part of the same living symbolic order.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0007"
+      ],
+      "moment": "Seed and plant are not the same thing, so birth does not trap destiny.",
+      "source_phrase": "the seed and the plant are not the same thing",
+      "why_it_matters": "This keeps Purgatory tied to freedom from inherited fate rather than simple bloodline continuity.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "plant and seed",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "Jiang's shorthand for the difference between family origin and the independent person who grows from it.",
+      "confidence": "high"
+    },
+    {
+      "term": "tree of knowledge",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0007"
+      ],
+      "definition_or_usage": "A Purgatory image Jiang links to inherited original sin and to whether descendants should be condemned by ancestral action.",
+      "confidence": "high"
+    },
+    {
+      "term": "reflection",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0003",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0004"
+      ],
+      "definition_or_usage": "The dream medium through which truth becomes more vivid than direct sight and speaks inwardly.",
+      "confidence": "medium"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0001",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0002",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0004"
+      ],
+      "note": "The 2026-06-26 lecture opens by folding a student's same-day dream into Dante's later Purgatory imagery rather than treating it as off-topic classroom chatter.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0002"
+      ],
+      "note": "ASR noise around the dream description (for example \"gating\" the tree) obscures a few verbs, but the structure of tree, water, reflection, and inward command is clear."
+    }
+  ]
+}

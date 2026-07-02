@@ -1,0 +1,202 @@
+{
+  "packet_id": "predictive-history-or3eow52wcc-semantics-pkt-0002",
+  "source_id": "video:predictive-history-or3eow52wcc",
+  "source_date": "2026-06-26",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0009",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0010",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0011",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0012",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0013"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks how souls move from Purgatory into Paradise; Jiang answers that some figures go straight to heaven and that post-purgation placement depends on one's understanding, faith, and willingness toward God.",
+      "speaker_attribution": "Student logistics question followed by Jiang answer.",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0014",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0015",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0016"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang restates Paradise as co-creation with God through faith, hope, and love, then contrasts Dante's active meanings of those virtues with a church version built from compliance, humility, and obedience.",
+      "speaker_attribution": "Jiang lecture monologue.",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0012",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0013"
+      ],
+      "note": "Several proper names and side comments are ASR-damaged, but Jiang's comparison between Paradise hierarchy and student effort remains recoverable.",
+      "suggested_speaker": "Jiang",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says souls who have to pass through Purgatory reach their place in Heaven according to the same criteria that structure Paradise: understanding of God, faith, and willingness to be with God.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0012",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0013"
+      ],
+      "temporal_scope": "Lecture explanation given on 2026-06-26.",
+      "topic_tags": [
+        "Paradise",
+        "Purgatory",
+        "hierarchy",
+        "faith"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "He defines faith as imagination: believing in God, divine generosity, mercy, and one's own mission without proof.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0014"
+      ],
+      "temporal_scope": "Lecture definition given on 2026-06-26.",
+      "topic_tags": [
+        "faith",
+        "imagination",
+        "mission",
+        "God"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines hope as responsibility and persistence even when outcomes are uncertain, and love as action that prays for another for eternity.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0014",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0015"
+      ],
+      "temporal_scope": "Lecture definition given on 2026-06-26.",
+      "topic_tags": [
+        "hope",
+        "love",
+        "responsibility",
+        "prayer"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "The truly good life in Dante, as Jiang presents it, is one of faith, hope, and love, and this directly counters church teachings that reduce those virtues to compliance, humility, and obedience.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0015",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture diagnosis given on 2026-06-26.",
+      "topic_tags": [
+        "Dante",
+        "church",
+        "faith-hope-love",
+        "obedience"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says Inferno's circles punish ways of disrupting the capacities for faith, love, and hope, which is why Purgatory becomes the difficult unresolved part of the cosmology.",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0016"
+      ],
+      "temporal_scope": "Lecture framing on 2026-06-26.",
+      "topic_tags": [
+        "Inferno",
+        "faith",
+        "hope",
+        "love",
+        "cosmology"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0013"
+      ],
+      "moment": "Piccarda becomes Jiang's image of the believer who checked every box but never pushed herself to the limit.",
+      "source_phrase": "the worst student at yale",
+      "why_it_matters": "It translates celestial hierarchy into a modern moral psychology of passive versus strenuous faith.",
+      "tone": "image",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0014"
+      ],
+      "moment": "Faith is not assent to proof but the imagination that God, mercy, and personal vocation are real.",
+      "source_phrase": "you have to imagine",
+      "why_it_matters": "This is one of Jiang's core Dantean reversals: imagination becomes a theological virtue rather than fantasy.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0015"
+      ],
+      "moment": "A good life that draws closer to God is condensed into faith, hope, and love against church obedience.",
+      "source_phrase": "a truly good life",
+      "why_it_matters": "It states the lecture's governing moral triad before Purgatory is unpacked.",
+      "tone": "definition",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "faith as imagination",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0014"
+      ],
+      "definition_or_usage": "Believing in God, mercy, and divine mission without being able to prove them.",
+      "confidence": "high"
+    },
+    {
+      "term": "hope",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0014",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Continuing to act justly and lovingly because what one does on earth still matters.",
+      "confidence": "high"
+    },
+    {
+      "term": "love",
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0015"
+      ],
+      "definition_or_usage": "Not mere feeling but action strong enough to pray for another forever.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0012",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0014",
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0015"
+      ],
+      "note": "This 2026-06-26 lecture explicitly resumes earlier Paradise discussion and uses it as the frame for reinterpreting Purgatory.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-or3eow52wcc@transcript:v1#seg-0013"
+      ],
+      "note": "Proper names and a few comparison phrases are ASR-damaged, but the point about passive heavenly rank and limited faith is still clear."
+    }
+  ]
+}
