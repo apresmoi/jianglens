@@ -49,14 +49,14 @@ Skill rule: do not edit `.codex/skills/**`. Propose skill or shared-process
 changes under `repos/jiang-lens/agentic-org/agents/virgil/proposals/` from workspace root, or in PR notes.
 
 Scheduling rule: this wake is created by Picoclaw native cron. Maintain exactly
-one recurring agent-turn job named `virgil-source-drain`. When the episode or
-interview backlog has ready sources, the default cadence is every 10 minutes
-and each wake processes one source or resumes the in-progress source. A wake is
-allowed to cross multiple internal stages for the same source; this is expected
-and saves repeated context overhead.
-When both backlogs are empty, report the idle state once and propose dropping
-back to a daily maintenance cadence. Do not create duplicate autonomy jobs and
-do not schedule shell-command cron jobs unless a maintainer explicitly asks.
+one recurring agent-turn job named `virgil-source-drain` on a daily cadence.
+The committed worker schedule is `3 3 * * *` UTC, and each wake processes one
+source or resumes the in-progress source. A wake is allowed to cross multiple
+internal stages for the same source; this is expected and saves repeated
+context overhead. When both backlogs are empty, report the idle state once and
+remain on the same daily maintenance cadence. Do not create duplicate autonomy
+jobs and do not schedule shell-command cron jobs unless a maintainer
+explicitly asks.
 
 Backlog-drain recovery rule: if a source PR is open, blocked, behind, waiting
 for Aristotle QA, or waiting for auto-merge after QA pass, do not claim the next
