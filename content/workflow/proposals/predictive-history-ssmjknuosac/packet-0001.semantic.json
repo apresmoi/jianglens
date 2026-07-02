@@ -1,0 +1,199 @@
+{
+  "packet_id": "predictive-history-ssmjknuosac-semantics-pkt-0001",
+  "source_id": "video:predictive-history-ssmjknuosac",
+  "source_date": "2026-06-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0001",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0002",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0003",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0004"
+      ],
+      "kind": "question",
+      "summary": "A student asks why Ulysses is placed among false counselors, argues that modern readers sentimentalize him through Tennyson, and proposes that Dante treats him as a false counselor to later humanity.",
+      "speaker_attribution": "Student question and interpretation",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0005",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0006",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0007"
+      ],
+      "kind": "answer",
+      "summary": "Jiang answers that Dante punishes Ulysses for the Trojan horse, knew him mainly through Virgil rather than Homer, and reads the Odyssey as a homecoming epic rather than a celebration of romantic wandering.",
+      "speaker_attribution": "Jiang classroom answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0008"
+      ],
+      "kind": "question",
+      "summary": "A second student asks whether Virgil intentionally darkens Homer and Greek culture in order to replace it with Roman culture.",
+      "speaker_attribution": "Student follow-up question",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0008"
+      ],
+      "note": "The ASR is rough, but the student's point is clear: Virgil may be recasting Homeric material in favor of a Roman civilizational frame.",
+      "suggested_speaker": "Student",
+      "confidence": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang says Dante punishes Ulysses primarily for counseling the Greeks to use the Trojan horse, not for leaving his family or leading his final voyage.",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0005"
+      ],
+      "temporal_scope": "Lecture claim dated 2026-06-24 about Inferno's treatment of Ulysses.",
+      "topic_tags": [
+        "Ulysses",
+        "Trojan horse",
+        "false counselors",
+        "Dante"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang argues that Dante did not have direct access to Homer and instead knew Ulysses through Virgil's Aeneid.",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0005",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture claim dated 2026-06-24 about Dante's textual inheritance.",
+      "topic_tags": [
+        "Dante",
+        "Homer",
+        "Aeneid",
+        "inheritance"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang reads Homer's Odyssey as a journey home to family rather than a celebration of endless outward exploration.",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture interpretation dated 2026-06-24.",
+      "topic_tags": [
+        "Odyssey",
+        "family",
+        "homecoming",
+        "exploration"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the modern western image of Ulysses as a romantic wanderer cuts against both Homer's and Dante's deeper moral orientation.",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0003",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0004",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0006"
+      ],
+      "temporal_scope": "Lecture interpretation dated 2026-06-24.",
+      "topic_tags": [
+        "Ulysses",
+        "modernity",
+        "romantic wanderer",
+        "misreading"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang provocatively says Dante and Homer converge so strongly on Ulysses that Dante becomes a kind of 'second coming of Homer.'",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0006",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0007"
+      ],
+      "temporal_scope": "Lecture claim dated 2026-06-24.",
+      "topic_tags": [
+        "Dante",
+        "Homer",
+        "continuity",
+        "Ulysses"
+      ],
+      "claim_type": "model",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0004"
+      ],
+      "moment": "Ulysses becomes a false counselor not just to his crew but to modern readers who turn him into an icon of boundless striving.",
+      "source_phrase": "false counselor to all of humanity up until today",
+      "why_it_matters": "It updates Dante's punishment into a civilizational critique of modern ambition and self-mythologizing.",
+      "tone": "reversal",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0007"
+      ],
+      "moment": "Jiang collapses Dante back into the Homeric line so fully that he calls Dante the second coming of Homer.",
+      "source_phrase": "Dante is the second coming of Homer",
+      "why_it_matters": "It preserves Jiang's claim that Dante is less a break from epic than a late restatement of its deepest truth about home, family, and order.",
+      "tone": "provocation",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "false counselors",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0002",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The Inferno category in which Ulysses appears; Jiang ties it specifically to deceptive political counsel such as the Trojan horse.",
+      "confidence": "high"
+    },
+    {
+      "term": "Trojan horse",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0005"
+      ],
+      "definition_or_usage": "The decisive act of deceit Jiang says grounds Dante's punishment of Ulysses.",
+      "confidence": "high"
+    },
+    {
+      "term": "Aeneid",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0005",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0006"
+      ],
+      "definition_or_usage": "Virgil's Roman epic, presented here as Dante's main textual access point to Ulysses.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0005",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0006"
+      ],
+      "note": "This 2026-06-24 lecture explicitly frames Dante through a sequence Jiang wishes he had taught more linearly: Homer, then Virgil, then Dante.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0002"
+      ],
+      "note": "The student's ASR is rough in places, but the substantive question is clear: why does Ulysses belong so low in the false-counsel structure?"
+    }
+  ]
+}

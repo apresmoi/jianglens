@@ -1,0 +1,107 @@
+{
+  "packet_id": "predictive-history-ssmjknuosac-semantics-pkt-0057",
+  "source_id": "video:predictive-history-ssmjknuosac",
+  "source_date": "2026-06-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0449",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0456"
+      ],
+      "kind": "exchange",
+      "summary": "A student asks how Virgil can know truths that Dante is only supposed to discover in Paradise, and Jiang turns the class into a speculation workshop about how a Limbo-bound Virgil could already understand divine love and Mary.",
+      "speaker_attribution": "Student question with Jiang-led speculation",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0453"
+      ],
+      "note": "One student contribution is badly garbled in the transcript and cannot be reconstructed with confidence.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang sharpens the paradox by naming two paradise truths Virgil already seems to know: that God's one essence is love and that Mary's birth-giving is central to redemption.",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0450",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0454"
+      ],
+      "temporal_scope": "Lecture restatement dated 2026-06-24.",
+      "topic_tags": [
+        "Virgil paradox",
+        "love",
+        "Mary",
+        "Paradise"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the class as openly speculative here because Virgil should not know paradise truths if he has spent eternity in Limbo.",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0450"
+      ],
+      "temporal_scope": "Lecture method statement dated 2026-06-24.",
+      "topic_tags": [
+        "Limbo",
+        "speculation",
+        "knowledge"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "One student suggests Virgil may somehow have gone to heaven and returned, but Jiang notes this collides with the explicit rule that non-Christians cannot simply enter heaven.",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0454",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0455",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0456"
+      ],
+      "temporal_scope": "Class speculation dated 2026-06-24.",
+      "topic_tags": [
+        "heaven visit",
+        "Virgil",
+        "rule"
+      ],
+      "claim_type": "other",
+      "confidence": "medium"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0450"
+      ],
+      "moment": "Jiang makes Virgil's knowledge into a crisis: he is speaking from Purgatory as if he had already been to Paradise.",
+      "source_phrase": "where is he getting this stuff from",
+      "why_it_matters": "It preserves the interpretive pressure that motivates the long anti-Virgil speculation that follows.",
+      "tone": "question",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0450",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0456"
+      ],
+      "note": "The lecture suspends doctrinal certainty and treats Virgil's paradise knowledge as an unsolved riddle requiring imaginative reconstruction.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0453"
+      ],
+      "note": "Segment seg-0453 is too corrupted for reliable semantic extraction beyond the fact that it participates in the same speculation about Virgil's knowledge."
+    }
+  ]
+}

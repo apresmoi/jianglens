@@ -1,0 +1,128 @@
+{
+  "packet_id": "predictive-history-ssmjknuosac-semantics-pkt-0012",
+  "source_id": "video:predictive-history-ssmjknuosac",
+  "source_date": "2026-06-24",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0089",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0090",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0091"
+      ],
+      "kind": "exchange",
+      "summary": "A student adds Hong Kong feng shui and funerary architecture as another environment saturated with spiritual management practices.",
+      "speaker_attribution": "Student example with Jiang prompt",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0092",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0093"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks skeptics for objections, and a student argues that demonic-possession language may be a coping mechanism people use when a familiar person commits a shocking sin.",
+      "speaker_attribution": "Jiang prompt and student answer",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0094",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0095",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0096"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang pivots from possession to whether the Divine Comedy has personally changed the readers, and one student says it can make hidden guilt more conscious.",
+      "speaker_attribution": "Jiang prompt and student reflection",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "A student proposes that possession talk may function as a psychological defense against admitting that someone ordinary chose to commit an extreme sin.",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0093"
+      ],
+      "temporal_scope": "Student interpretation dated 2026-06-24.",
+      "topic_tags": [
+        "possession",
+        "sin",
+        "psychology",
+        "cope"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang treats the experiential effect of reading the Divine Comedy as the next relevant test case after the possession debate.",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0094"
+      ],
+      "temporal_scope": "Lecture method move dated 2026-06-24.",
+      "topic_tags": [
+        "Divine Comedy",
+        "experience",
+        "change",
+        "method"
+      ],
+      "claim_type": "method",
+      "confidence": "medium"
+    },
+    {
+      "claim": "A student says the Divine Comedy can surface guilt by forcing attention onto morality that daily life normally numbs or hides.",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0095"
+      ],
+      "temporal_scope": "Student reflection dated 2026-06-24.",
+      "topic_tags": [
+        "morality",
+        "guilt",
+        "consciousness",
+        "reading"
+      ],
+      "claim_type": "evidence",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0093"
+      ],
+      "moment": "Possession can be read not as metaphysics but as the story people tell when they cannot bear that a familiar soul chose the evil itself.",
+      "source_phrase": "this is cope",
+      "why_it_matters": "It puts a live skeptical psychology inside the lecture instead of leaving the demonic reading unchallenged.",
+      "tone": "question",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "priming",
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0092"
+      ],
+      "definition_or_usage": "Foreshadowed here as the kind of skeptical psychological explanation Jiang is inviting before the next packet names it explicitly.",
+      "confidence": "low"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0092",
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0094"
+      ],
+      "note": "The lecture deliberately turns from objective claims about demons to subjective evidence about how the text alters readers.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-ssmjknuosac@transcript:v1#seg-0091"
+      ],
+      "note": "The Hong Kong tomb example is vivid but locally specific and not central to the packet's larger move from possession debate to reader transformation."
+    }
+  ]
+}
