@@ -120,3 +120,11 @@ npm run build
 ```
 
 For detailed repo rules, source refs, validation expectations, and skill selection, read [AGENTS.md](AGENTS.md).
+
+## License
+
+The original Jiang Lens code, tooling, schemas, site structure, agent configuration, methodology docs, and project-authored editorial analysis are released under the [MIT License](LICENSE).
+
+That MIT grant does not cover third-party source material or source-derived reproductions. Jiang Xueqin / Predictive History videos, interviews, writings, metadata, quoted passages, transcripts, captions, diarization outputs, ASR text, source excerpts, and generated files that reproduce or closely derive from source speech or writing remain under their original rights. See [Third-Party Rights Notice](THIRD_PARTY_RIGHTS.md).
+
+The project preserves source links, timestamps, and provenance so those boundaries stay inspectable. Provenance is not a license grant.
