@@ -1,0 +1,155 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0030",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0233",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0234",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0235",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0236"
+      ],
+      "kind": "exchange",
+      "summary": "Students guess ahead to later characters or to Paradise, while Jiang rejects those leaps and keeps insisting that the answer must come from the immediate visual evidence in the three lines under discussion.",
+      "speaker_attribution": "Student guesses with Jiang correction",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0237",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0238"
+      ],
+      "kind": "exchange",
+      "summary": "A student gets closer by suggesting the shadow is falling on something other than Dante himself, and Jiang pushes the class to visualize the scene more concretely.",
+      "speaker_attribution": "Student inference with Jiang prompt",
+      "confidence": "medium"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0239",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0240"
+      ],
+      "kind": "exchange",
+      "summary": "The class briefly gets lost in line numbering and alignment, and Jiang narrows the exercise back down to the exact three lines he wants them to reread.",
+      "speaker_attribution": "Unclear student note with Jiang reset",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0239"
+      ],
+      "note": "The speaker and wording at seg-0239 are unclear; it appears to be a student trying to orient the class to the relevant lines rather than offering a substantive interpretation.",
+      "suggested_speaker": null,
+      "confidence": "low"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Jiang refuses to let the class jump ahead to later narrative material or abstract destinations like Paradise; he wants the meaning to emerge from the immediate visual clue in the shadow scene.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0233",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0234",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0235",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0236"
+      ],
+      "temporal_scope": "Lecture method displayed on 2026-06-25.",
+      "topic_tags": [
+        "close reading",
+        "visual clue",
+        "Paradise",
+        "scene discipline"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "The best answer offered in the packet is that the new shadow means Dante is finally seeing something other than only himself, which is why Jiang keeps pressing the class to visualize what the shadow falls upon.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0236",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0237",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0238"
+      ],
+      "temporal_scope": "Tentative lecture inference offered on 2026-06-25.",
+      "topic_tags": [
+        "shadow",
+        "seeing",
+        "attention",
+        "Dante"
+      ],
+      "claim_type": "evidence",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Jiang's pedagogy here is to reduce confusion by shrinking the scope of interpretation: fewer lines, more visualization, less thematic freelancing.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0234",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0238",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0240"
+      ],
+      "temporal_scope": "Lecture method displayed on 2026-06-25.",
+      "topic_tags": [
+        "pedagogy",
+        "visualization",
+        "scope control",
+        "interpretation"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0234"
+      ],
+      "moment": "Jiang's frustration becomes methodological: stop jumping ahead and answer from these three lines only.",
+      "source_phrase": "I just want to focus on these three sentences",
+      "why_it_matters": "It shows how he converts classroom confusion into a discipline of textual attention.",
+      "tone": "method",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0237"
+      ],
+      "moment": "The shadow matters because it suggests Dante is finally oriented toward something beyond himself.",
+      "source_phrase": "casting a shadow on something other than himself",
+      "why_it_matters": "This is the packet's clearest candidate for the concrete visual insight Jiang is demanding.",
+      "tone": "reversal",
+      "confidence": "medium"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "visualize the scene",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0238"
+      ],
+      "definition_or_usage": "Jiang's instruction that interpretation must begin with mentally staging the physical scene before abstracting from it.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0233",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0240"
+      ],
+      "note": "The lecture remains inside one tiny textual hinge, repeatedly refusing premature thematic answers until the class can identify the visual detail that makes Dante newly eager.",
+      "possible_update_to_prior_position": false,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0233",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0239"
+      ],
+      "note": "The ASR is noisy on the student guesses and line-reference chatter, so the packet centers the stable pedagogical structure rather than overcommitting to the exact wording of each guess."
+    }
+  ]
+}

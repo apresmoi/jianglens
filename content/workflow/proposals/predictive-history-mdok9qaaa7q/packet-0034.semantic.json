@@ -1,0 +1,192 @@
+{
+  "packet_id": "predictive-history-mdok9qaaa7q-semantics-pkt-0034",
+  "source_id": "video:predictive-history-mdok9qaaa7q",
+  "source_date": "2026-06-25",
+  "interactions": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0265",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0266",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0267"
+      ],
+      "kind": "exchange",
+      "summary": "A student says Kanye and Dante share a fearless love-over-fear perspective, Jiang presses on the celebrity's personal life, and the student concedes the life looks bad while still admiring the consistency of the public message.",
+      "speaker_attribution": "Student praise with Jiang challenge and student concession",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0268",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0269"
+      ],
+      "kind": "monologue",
+      "summary": "Jiang introduces the Paradiso distinction between absolute will and contingent will through Piccarda, then applies it to Dante by saying belief and action can diverge, so moral concern for the world and vanity about fame need not be a contradiction even though the soul should try to align them.",
+      "speaker_attribution": "Jiang lecture",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0270",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0271",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0272"
+      ],
+      "kind": "exchange",
+      "summary": "Jiang asks what Virgil must be feeling as Dante chases his shadow, jokes that Virgil may think Dante is a jerk, rejects the idea that Virgil enjoys controlling him, and settles on frustration, impatience, and some jealousy as the dominant emotions.",
+      "speaker_attribution": "Jiang prompt with student guesses and Jiang synthesis",
+      "confidence": "high"
+    }
+  ],
+  "speaker_notes": [],
+  "claims": [
+    {
+      "claim": "The Kanye example lets Jiang separate admiration for a courageous public message from judgment about a compromised personal life.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0265",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0266",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0267"
+      ],
+      "temporal_scope": "Classroom exchange on 2026-06-25.",
+      "topic_tags": [
+        "Kanye West",
+        "public message",
+        "personal life",
+        "admiration"
+      ],
+      "claim_type": "other",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang defines absolute will as what one truly believes and who one is, while contingent will is what one actually chooses to do.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0268"
+      ],
+      "temporal_scope": "Lecture definition given on 2026-06-25.",
+      "topic_tags": [
+        "absolute will",
+        "contingent will",
+        "Paradiso",
+        "Piccarda"
+      ],
+      "claim_type": "definition",
+      "confidence": "high"
+    },
+    {
+      "claim": "Using Piccarda as the example, Jiang argues that good inward belief and compromised outward action can diverge, which is why Dante's moral seriousness about Italy and his obsession with fame are not automatically contradictory.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0268",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0269"
+      ],
+      "temporal_scope": "Lecture application given on 2026-06-25.",
+      "topic_tags": [
+        "Piccarda",
+        "belief versus action",
+        "Dante",
+        "soul alignment"
+      ],
+      "claim_type": "model",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang says the work of life is to align the soul, because what you believe and what you do often diverge.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0269"
+      ],
+      "temporal_scope": "Lecture normative statement given on 2026-06-25.",
+      "topic_tags": [
+        "alignment of the soul",
+        "belief",
+        "action",
+        "ethics"
+      ],
+      "claim_type": "normative",
+      "confidence": "high"
+    },
+    {
+      "claim": "Jiang imagines Virgil's dominant reaction to Dante's shadow obsession as impatience and frustration, with some jealousy possible, rather than satisfaction at controlling him.",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0270",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0272"
+      ],
+      "temporal_scope": "Lecture character reading given on 2026-06-25.",
+      "topic_tags": [
+        "Virgil",
+        "impatience",
+        "frustration",
+        "jealousy"
+      ],
+      "claim_type": "diagnosis",
+      "confidence": "high"
+    }
+  ],
+  "signature_moments": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0268"
+      ],
+      "moment": "Jiang reaches into Paradiso for the absolute-will versus contingent-will distinction to explain how a person's ideals and actions can split.",
+      "source_phrase": "absolute will ... contingent will",
+      "why_it_matters": "It is the lecture's clearest formal model for reconciling Dante's lofty lament with his shadow addiction.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0269"
+      ],
+      "moment": "Jiang says the real work is the alignment of the soul: bringing belief, speech, and action into one line.",
+      "source_phrase": "the alignment of the soul",
+      "why_it_matters": "This is the ethical center of the packet and the rule by which both Dante and celebrities get judged.",
+      "tone": "definition",
+      "confidence": "high"
+    },
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0270",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0272"
+      ],
+      "moment": "Virgil watching Dante chase his shadow becomes a scene of disgusted impatience: this is the guy Beatrice sent me to guide?",
+      "source_phrase": "I can't believe that Beatrice sent me for this guy",
+      "why_it_matters": "It preserves Jiang's comic but sharp psychological reading of Virgil's relation to Dante.",
+      "tone": "image",
+      "confidence": "high"
+    }
+  ],
+  "glossary_terms": [
+    {
+      "term": "absolute will",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0268"
+      ],
+      "definition_or_usage": "What a person fundamentally believes, loves, and takes as an ideal state, distinguished from the contingent choices actually made in life.",
+      "confidence": "high"
+    },
+    {
+      "term": "contingent will",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0268"
+      ],
+      "definition_or_usage": "The level of enacted choice, where outward behavior can fail to match the deeper absolute will.",
+      "confidence": "high"
+    },
+    {
+      "term": "alignment of the soul",
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0269"
+      ],
+      "definition_or_usage": "Jiang's ethical aim of bringing belief, speech, and action into harmony.",
+      "confidence": "high"
+    }
+  ],
+  "chronology_notes": [
+    {
+      "refs": [
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0265",
+        "video:predictive-history-mdok9qaaa7q@transcript:v1#seg-0272"
+      ],
+      "note": "The packet turns the fame question into a durable moral psychology: public message and private life can diverge, Dante's civic seriousness can coexist with vanity, and Virgil reads that coexistence with visible impatience.",
+      "possible_update_to_prior_position": true,
+      "confidence": "high"
+    }
+  ],
+  "uncertainty_notes": []
+}
