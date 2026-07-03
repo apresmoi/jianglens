@@ -28,7 +28,6 @@ export const docsSidebar = [
     items: [
       { label: 'Civilization As Inner Order', slug: 'lens/civilization-as-inner-order' },
       { label: 'How Poetry Creates Civilization', slug: 'lens/how-poetry-creates-civilization' },
-      { label: 'Dante As Poetic Access And Reception', slug: 'lens/dante-as-poetic-access-and-reception' },
       { label: 'How Stories Control Reality', slug: 'lens/how-stories-control-reality' },
       { label: 'Imperial Poetry And Trojan-Horse Inversion', slug: 'lens/imperial-poetry-and-trojan-horse-inversion' },
       { label: 'Screen-World Governance And War Script', slug: 'lens/screen-world-governance-and-war-script' },
@@ -38,6 +37,19 @@ export const docsSidebar = [
       { label: 'Human Heart As Civilizational Measure', slug: 'lens/human-heart-as-civilizational-measure' },
       { label: 'Love Recognizes The Other', slug: 'lens/love-recognizes-the-other' },
       { label: 'Sacred Machines', slug: 'lens/sacred-machines' },
+    ],
+  },
+  {
+    label: "Lens Atlas: Dante's Comedy",
+    items: [
+      { label: 'Dante As Poetic Access And Reception', slug: 'lens/dante-as-poetic-access-and-reception' },
+      { label: 'The Guide Who Becomes A Trap', slug: 'lens/the-guide-who-becomes-a-trap' },
+      { label: 'Free Will As Cosmic Burden', slug: 'lens/free-will-as-cosmic-burden' },
+      { label: 'Human Heart As Civilizational Measure', slug: 'lens/human-heart-as-civilizational-measure' },
+      { label: 'Love Recognizes The Other', slug: 'lens/love-recognizes-the-other' },
+      { label: 'Meritocracy Converts Wounds Into Credentials', slug: 'lens/meritocracy-converts-wounds-into-credentials' },
+      { label: 'How Stories Control Reality', slug: 'lens/how-stories-control-reality' },
+      { label: 'Prediction As Falsifiable Prophecy', slug: 'lens/prediction-as-falsifiable-prophecy' },
     ],
   },
   {
