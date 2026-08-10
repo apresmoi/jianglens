@@ -1,3 +1,5 @@
+
+
 # Jiang Lens
 
 [![Powered by Spawnfile](https://img.shields.io/badge/powered%20by-Spawnfile-111111?style=for-the-badge)](https://spawnfile.com/)
@@ -118,6 +120,8 @@ npm install
 npm run dev
 npm run build
 ```
+
+Note: `npm run build` automatically handles content compilation and `llms.txt` generation (defined in `website/package.json`), and auto-bootstraps missing dependencies via its `prebuild` script. The standalone `compile-content.mjs` step is primarily useful for pre-build validation.
 
 For detailed repo rules, source refs, validation expectations, and skill selection, read [AGENTS.md](AGENTS.md).
 
