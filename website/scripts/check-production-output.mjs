@@ -126,11 +126,11 @@ async function main() {
     failures.push('dist/robots.txt: missing');
   } else {
     const robots = await readFile(robotsPath, 'utf8');
+    if (/^Sitemap:\s+https:\/\/jianglens\.com\/sitemap-agent\.txt$/m.test(robots)) {
+      failures.push('dist/robots.txt: agent sitemap must not be submitted as a search-engine sitemap');
+    }
     if (!robots.includes('Sitemap: https://jianglens.com/sitemap-0.xml')) {
       failures.push('dist/robots.txt: missing production sitemap-0 URL');
-    }
-    if (!robots.includes('Sitemap: https://jianglens.com/sitemap-agent.txt')) {
-      failures.push('dist/robots.txt: missing agent sitemap URL');
     }
     if (robots.includes('Sitemap: https://jianglens.com/sitemap-index.xml')) {
       failures.push('dist/robots.txt: still links sitemap-index.xml');
@@ -144,6 +144,13 @@ async function main() {
       'Topic-index: https://jianglens.com/topics/index.txt',
       'Agent-sitemap: https://jianglens.com/sitemap-agent.txt',
       'Transcript-search: https://jianglens.com/data/lens/transcript-search.txt',
+      'User-agent: Googlebot',
+      'User-agent: Bingbot',
+      'Disallow: /sitemap-agent.txt',
+      'Disallow: /llms.txt',
+      'Disallow: /llms-full.txt',
+      'Disallow: /topics/*.txt$',
+      'Disallow: /topics/*.md$',
       'User-agent: ClaudeBot',
       'User-agent: Claude-User',
       'User-agent: Claude-SearchBot',
@@ -161,22 +168,48 @@ async function main() {
     failures.push('dist/sitemap-0.xml: missing');
   } else {
     const htmlSitemap = await readFile(htmlSitemapPath, 'utf8');
-    const topicHtmlPageCount = files.filter((file) => {
+    const topicHtmlFiles = files.filter((file) => {
       return path.basename(file) === 'index.html' && path.relative(distRoot, file).startsWith(`topics${path.sep}`);
-    }).length;
+    });
+    let indexableTopicHtmlPageCount = 0;
+    for (const file of topicHtmlFiles) {
+      const html = await readFile(file, 'utf8');
+      const noindex = [...html.matchAll(/<meta\b[^>]*>/gi)].some(([tag]) => {
+        return /\bname=["']robots["']/i.test(tag)
+          && /\bcontent=["'][^"']*\bnoindex\b/i.test(tag);
+      });
+      if (!noindex) {
+        indexableTopicHtmlPageCount += 1;
+      } else {
+        const relative = path.relative(path.join(distRoot, 'topics'), file).split(path.sep);
+        if (relative.length === 2 && relative[1] === 'index.html') {
+          for (const extension of ['txt', 'md']) {
+            const expected = `href="/topics/${relative[0]}.${extension}" rel="nofollow"`;
+            if (!html.includes(expected)) failures.push(`${path.relative(distRoot, file)}: noindex topic mirror link is missing rel="nofollow" for .${extension}`);
+          }
+        }
+      }
+    }
     const topicXmlUrlCount = [...htmlSitemap.matchAll(/<loc>https:\/\/jianglens\.com\/topics\//g)].length;
     for (const expected of [
       '<loc>https://jianglens.com/topics/</loc>',
       '<loc>https://jianglens.com/topics/knights-templar/</loc>',
-      '<loc>https://jianglens.com/topics/index/a/</loc>',
-      '<loc>https://jianglens.com/topics/index/aa/</loc>',
     ]) {
       if (!htmlSitemap.includes(expected)) {
         failures.push(`dist/sitemap-0.xml: missing generated topic HTML URL ${expected}`);
       }
     }
-    if (topicXmlUrlCount !== topicHtmlPageCount) {
-      failures.push(`dist/sitemap-0.xml: has ${topicXmlUrlCount} topic URLs but generated ${topicHtmlPageCount} topic HTML pages`);
+    for (const excluded of [
+      '<loc>https://jianglens.com/topics/index/a/</loc>',
+      '<loc>https://jianglens.com/topics/index/aa/</loc>',
+    ]) {
+      if (htmlSitemap.includes(excluded)) failures.push(`dist/sitemap-0.xml: includes noindex topic shard ${excluded}`);
+    }
+    if (topicXmlUrlCount !== indexableTopicHtmlPageCount) {
+      failures.push(`dist/sitemap-0.xml: has ${topicXmlUrlCount} topic URLs but generated ${indexableTopicHtmlPageCount} indexable topic HTML pages`);
+    }
+    if (indexableTopicHtmlPageCount < 500 || indexableTopicHtmlPageCount > 5000) {
+      failures.push(`dist/topics: expected 500-5000 indexable topic pages, found ${indexableTopicHtmlPageCount}`);
     }
   }
 
@@ -469,6 +502,9 @@ async function main() {
       'Narrow By Prefix',
       'prefix shards',
       'Search prefix shards or exact aliases',
+      '<meta name="robots" content="noindex, follow">',
+      'href="/topics/index/a.txt" rel="nofollow"',
+      'href="/topics/index/a.md" rel="nofollow"',
     ]) {
       if (!topicShardAHtml.includes(expected)) {
         failures.push(`dist/topics/index/a/index.html: missing split alias shard HTML ${expected}`);
