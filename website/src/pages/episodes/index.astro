@@ -8,8 +8,8 @@ import { readEpisodeIndex } from '../../lib/episodes.mjs';
 
 const episodeIndex = await readEpisodeIndex();
 const episodes = episodeIndex.episodes ?? [];
-const title = 'Episodes | Jiang Lens';
-const description = 'Compressed Jiang Lens episode readings with source video and transcript archive links.';
+const title = 'Professor Jiang Xueqin Episodes & Transcripts | Jiang Lens';
+const description = 'Browse Professor Jiang Xueqin and Predictive History episodes with concise readings, searchable transcripts, source videos, and evidence links.';
 const markdownUrl = sourceIndexArtifactUrl('episodes', 'md');
 const textUrl = sourceIndexArtifactUrl('episodes', 'txt');
 
@@ -52,6 +52,14 @@ function episodeSearchText(episode) {
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={absoluteUrl('/episodes/')} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Jiang Lens" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={absoluteUrl('/episodes/')} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
     <link rel="alternate" type="text/markdown" href={markdownUrl} title="Episode Markdown index" />
     <link rel="alternate" type="text/plain" href={textUrl} title="Episode text index" />
     <style>

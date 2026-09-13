@@ -488,7 +488,7 @@ function htmlAnchor(href, label, className = '', attrs = {}) {
   return `<a${classAttr} href="${escapeHtml(anchorHref)}"${attrText}>${escapeHtml(label)}</a>`;
 }
 
-function generatedTopicShell({ title, description, canonicalPath, alternates = [], active = 'topics', content }) {
+function generatedTopicShell({ title, description, canonicalPath, alternates = [], active = 'topics', content, indexable = true }) {
   const canonicalUrl = publicPath(canonicalPath);
   const googleTagId = siteConfig.analytics?.googleTagId;
   const analyticsHead = googleTagId
@@ -518,6 +518,7 @@ ${googleAnalyticsInlineScript().split('\n').map((line) => `      ${line}`).join(
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>${escapeHtml(title)}</title>
     <meta name="description" content="${escapeHtml(metaDescription(description))}">
+    <meta name="robots" content="${indexable ? 'index, follow' : 'noindex, follow'}">
     <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
 ${alternateHead}
     <link rel="icon" href="/favicon.ico" sizes="any">
@@ -1645,6 +1646,17 @@ function rankTopicForIndex(topic) {
   );
 }
 
+function isSearchIndexableTopic(topic) {
+  if (!topic) return false;
+  if (!topic.slug || topic.slug.length < 3) return false;
+  if (topicStopwords.has(topic.slug) || weakAliasWords.has(topic.slug)) return false;
+  const hasAuthoredDepth = topic.glossary.length > 0 || topic.semanticPoints.length >= 8;
+  const hasBroadEvidence = topic.sources.size >= 6
+    && topic.transcriptHits.length >= 8
+    && topic.semanticPoints.length >= 2;
+  return rankTopicForIndex(topic) >= 220 && (hasAuthoredDepth || hasBroadEvidence);
+}
+
 function rankedTopicsForIndex(topics, limit = 10) {
   return [...topics.values()]
     .filter((topic) => {
@@ -2001,6 +2013,7 @@ function renderTopicSourceCards(sources) {
 }
 
 function renderTopicHtml(topic) {
+  const indexable = isSearchIndexableTopic(topic);
   const hits = sortedTopicHits(topic);
   const sources = sortedTopicSources(topic).slice(0, 8);
   const latestSource = sources[0];
@@ -2080,8 +2093,8 @@ function renderTopicHtml(topic) {
           <h2>How To Use And Cite This Page</h2>
           <p>This topic page is a discovery surface. For generated synthesis, cite the human-readable source reading or lens page. For Jiang-spoken claims, cite the transcript segment, source ref, and YouTube timestamp. Raw text and Markdown mirrors are fallback surfaces for tools that cannot read this HTML page.</p>
           <div class="actions" style="margin-top: 14px;">
-            ${htmlAnchor(`/topics/${topic.slug}.txt`, 'Text mirror', 'button')}
-            ${htmlAnchor(`/topics/${topic.slug}.md`, 'Markdown mirror', 'button')}
+            ${htmlAnchor(`/topics/${topic.slug}.txt`, 'Text mirror', 'button', indexable ? {} : { rel: 'nofollow' })}
+            ${htmlAnchor(`/topics/${topic.slug}.md`, 'Markdown mirror', 'button', indexable ? {} : { rel: 'nofollow' })}
           </div>
         </div>
       </section>
@@ -2091,10 +2104,11 @@ function renderTopicHtml(topic) {
     title: `Topic: ${topic.label}`,
     description: metaDescription(`Generated Jiang Lens topic brief for ${topic.label}, with source readings, transcript anchors, video timestamps, and source refs.`),
     canonicalPath: `/topics/${topic.slug}/`,
-    alternates: [
+    indexable,
+    alternates: indexable ? [
       { type: 'text/plain', path: `/topics/${topic.slug}.txt`, title: 'Topic text' },
       { type: 'text/markdown', path: `/topics/${topic.slug}.md`, title: 'Topic Markdown' },
-    ],
+    ] : [],
     content,
   });
 }
@@ -2482,8 +2496,8 @@ function renderTopicLetterIndexHtml(shard, rootShards, topics) {
           <p class="topic-summary">${shard.children.length ? `This shard is split because it has more than ${TOPIC_ALIAS_SHARD_LIMIT} aliases. Follow the narrower prefix that matches the normalized topic.` : 'Resolve an alias to its canonical topic brief, then cite the underlying evidence.'}</p>
           <div class="toolbar">
             ${htmlAnchor('/topics/', 'All topic letters', 'button primary')}
-            ${htmlAnchor(topicAliasShardPath(shard.prefix, 'txt'), 'Text shard', 'button')}
-            ${htmlAnchor(topicAliasShardPath(shard.prefix, 'md'), 'Markdown shard', 'button')}
+            ${htmlAnchor(topicAliasShardPath(shard.prefix, 'txt'), 'Text shard', 'button', { rel: 'nofollow' })}
+            ${htmlAnchor(topicAliasShardPath(shard.prefix, 'md'), 'Markdown shard', 'button', { rel: 'nofollow' })}
           </div>
         </div>
       </section>
@@ -2520,10 +2534,8 @@ function renderTopicLetterIndexHtml(shard, rootShards, topics) {
     title: `Jiang Lens Topic Router: ${topicAliasShardLabel(shard.prefix)}`,
     description: 'Generated static topic alias shard for Jiang Lens agents and browser tools.',
     canonicalPath: topicAliasShardPath(shard.prefix),
-    alternates: [
-      { type: 'text/plain', path: topicAliasShardPath(shard.prefix, 'txt'), title: 'Topic shard text' },
-      { type: 'text/markdown', path: topicAliasShardPath(shard.prefix, 'md'), title: 'Topic shard Markdown' },
-    ],
+    indexable: false,
+    alternates: [],
     content,
   });
 }
@@ -2629,6 +2641,7 @@ async function generateTopicShards() {
 
   return {
     topics: activeTopics.size,
+    indexableTopics: [...activeTopics.values()].filter(isSearchIndexableTopic).length,
     aliases: activeAliasTargets.size,
     aliasFiles: aliasFileCount,
     letterShards: rootAliasShards.length,
@@ -2670,9 +2683,21 @@ function escapeXml(value) {
     .replace(/'/g, '&apos;');
 }
 
+function hasNoindexRobots(html) {
+  return [...html.matchAll(/<meta\b[^>]*>/gi)].some(([tag]) => {
+    return /\bname=["']robots["']/i.test(tag)
+      && /\bcontent=["'][^"']*\bnoindex\b/i.test(tag);
+  });
+}
+
 async function generateHtmlSitemap() {
   const files = await collectAgentSitemapPaths(distRoot, (filePath) => path.basename(filePath) === 'index.html');
-  const urls = [...new Set(files.map((file) => urlFor(publicSitemapPath(file))))].sort();
+  const indexableFiles = [];
+  for (const file of files) {
+    const html = await readFile(file, 'utf8');
+    if (!hasNoindexRobots(html)) indexableFiles.push(file);
+  }
+  const urls = [...new Set(indexableFiles.map((file) => urlFor(publicSitemapPath(file))))].sort();
   const urlset = [
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
@@ -3086,7 +3111,7 @@ async function main() {
   const agentSitemap = await generateAgentSitemap();
   const htmlSitemap = await generateHtmlSitemap();
 
-  console.log(`Generated llms.txt, llms-full.txt, ${copiedSkillText ? 'skill.txt, ' : ''}${files.length} raw docs, ${episodeMarkdown?.count ?? 0} episode text/Markdown files, ${interviewMarkdown?.count ?? 0} interview text/Markdown files, ${topicShards?.topics ?? 0} topic shards, ${topicShards?.aliases ?? 0} topic aliases, ${topicShards?.htmlPages ?? 0} topic HTML pages, ${agentSitemap.count} agent sitemap URLs, ${htmlSitemap.count} HTML sitemap URLs, ${transcriptSearchText?.count ?? 0} transcript search text records, and public lens JSON.`);
+  console.log(`Generated llms.txt, llms-full.txt, ${copiedSkillText ? 'skill.txt, ' : ''}${files.length} raw docs, ${episodeMarkdown?.count ?? 0} episode text/Markdown files, ${interviewMarkdown?.count ?? 0} interview text/Markdown files, ${topicShards?.topics ?? 0} topic shards (${topicShards?.indexableTopics ?? 0} indexable), ${topicShards?.aliases ?? 0} topic aliases, ${topicShards?.htmlPages ?? 0} topic HTML pages, ${agentSitemap.count} agent sitemap URLs, ${htmlSitemap.count} HTML sitemap URLs, ${transcriptSearchText?.count ?? 0} transcript search text records, and public lens JSON.`);
 }
 
 main().catch((error) => {

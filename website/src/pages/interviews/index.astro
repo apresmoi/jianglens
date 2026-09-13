@@ -8,8 +8,8 @@ import { readInterviewIndex } from '../../lib/episodes.mjs';
 
 const interviewIndex = await readInterviewIndex();
 const episodes = interviewIndex.interviews ?? [];
-const title = 'Interviews | Jiang Lens';
-const description = 'Compressed Jiang Lens interview readings with source video and transcript archive links.';
+const title = 'Professor Jiang Xueqin Interviews & Transcripts | Jiang Lens';
+const description = 'Browse Professor Jiang Xueqin interviews about geopolitics and Predictive History with concise readings, searchable transcripts, and source videos.';
 const markdownUrl = sourceIndexArtifactUrl('interviews', 'md');
 const textUrl = sourceIndexArtifactUrl('interviews', 'txt');
 
@@ -52,6 +52,14 @@ function episodeSearchText(episode) {
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={absoluteUrl('/interviews/')} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Jiang Lens" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={absoluteUrl('/interviews/')} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
     <link rel="alternate" type="text/markdown" href={markdownUrl} title="Interview Markdown index" />
     <link rel="alternate" type="text/plain" href={textUrl} title="Interview text index" />
     <style>
