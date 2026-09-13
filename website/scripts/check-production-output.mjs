@@ -17,6 +17,8 @@ const forbidden = [
 
 const META_DESCRIPTION_MIN_LENGTH = 25;
 const META_DESCRIPTION_MAX_LENGTH = 160;
+const GOOGLE_ANALYTICS_SCRIPT = 'https://www.googletagmanager.com/gtag/js?id=G-EWK5R4CE72';
+const GOOGLE_ANALYTICS_CONFIG = `gtag('config', "G-EWK5R4CE72")`;
 
 const textExtensions = new Set([
   '.css',
@@ -78,6 +80,10 @@ function checkHtmlSeo(rel, text, failures) {
   }
 }
 
+function countOccurrences(text, value) {
+  return text.split(value).length - 1;
+}
+
 async function main() {
   if (!existsSync(distRoot)) {
     throw new Error('Missing website/dist. Run npm run build first.');
@@ -99,6 +105,12 @@ async function main() {
 
     if (path.extname(file) === '.html') {
       checkHtmlSeo(rel, text, failures);
+
+      const analyticsScripts = countOccurrences(text, GOOGLE_ANALYTICS_SCRIPT);
+      const analyticsConfigs = countOccurrences(text, GOOGLE_ANALYTICS_CONFIG);
+      if (analyticsScripts !== 1 || analyticsConfigs !== 1) {
+        failures.push(`${rel}: expected exactly one Google Analytics loader/config; found ${analyticsScripts}/${analyticsConfigs}`);
+      }
 
       if (text.includes('rel="sitemap" href="/sitemap-index.xml"')) {
         failures.push(`${rel}: still links relative sitemap-index.xml in head`);
@@ -538,6 +550,8 @@ async function main() {
       'YouTube',
       'Relevant Lectures And Readings',
       'How To Use And Cite This Page',
+      'https://www.googletagmanager.com/gtag/js?id=G-EWK5R4CE72',
+      "gtag('config', \"G-EWK5R4CE72\")",
     ]) {
       if (!templarTopicHtml.includes(expected)) {
         failures.push(`dist/topics/knights-templar/index.html: missing structured topic HTML ${expected}`);
