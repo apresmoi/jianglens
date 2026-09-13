@@ -3,7 +3,14 @@ import { copyFile, mkdir, readdir, readFile, rm, writeFile } from 'node:fs/promi
 import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { absoluteUrl, configuredBasePath, configuredOrigin, siteConfig } from '../site.config.mjs';
+import {
+  absoluteUrl,
+  configuredBasePath,
+  configuredOrigin,
+  googleAnalyticsInlineScript,
+  googleAnalyticsScriptSrc,
+  siteConfig,
+} from '../site.config.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const websiteRoot = path.resolve(__dirname, '..');
@@ -483,6 +490,13 @@ function htmlAnchor(href, label, className = '', attrs = {}) {
 
 function generatedTopicShell({ title, description, canonicalPath, alternates = [], active = 'topics', content }) {
   const canonicalUrl = publicPath(canonicalPath);
+  const googleTagId = siteConfig.analytics?.googleTagId;
+  const analyticsHead = googleTagId
+    ? `    <script async src="${escapeHtml(googleAnalyticsScriptSrc())}"></script>
+    <script>
+${googleAnalyticsInlineScript().split('\n').map((line) => `      ${line}`).join('\n')}
+    </script>`
+    : '';
   const alternateHead = generatedAlternateHead(alternates);
   const alternateLinks = generatedAlternateLinks(alternates);
   const navItems = [
@@ -507,6 +521,7 @@ function generatedTopicShell({ title, description, canonicalPath, alternates = [
     <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
 ${alternateHead}
     <link rel="icon" href="/favicon.ico" sizes="any">
+${analyticsHead}
     <style>
       :root {
         color-scheme: dark;
